@@ -1,0 +1,15 @@
+taxonomy: topic
+_id: power-bi
+name: Power BI
+keywords:
+  - power bi
+images:
+  - https://smartableai.github.io/microsoft-power-bi/assets/images/topics/power-bi.jpg
+  - https://smartableai.github.io/microsoft-power-bi/assets/images/topics/power-bi-2.jpg
+  - https://smartableai.github.io/microsoft-power-bi/assets/images/topics/power-bi-3.jpg
+services:
+  news: https://smartableai.github.io/microsoft-power-bi/api/news/
+  learning: https://smartableai.github.io/microsoft-power-bi/api/learning/
+  people: https://smartableai.github.io/microsoft-power-bi/api/people/
+  events: https://smartableai.github.io/microsoft-power-bi/api/events/
+  newsletters: https://smartableai.github.io/microsoft-power-bi/api/newsletters/

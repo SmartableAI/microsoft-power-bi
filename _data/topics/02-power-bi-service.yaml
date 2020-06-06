@@ -1,0 +1,11 @@
+taxonomy: topic
+_id: power-bi-service
+name: Power BI Service
+shortname: Service
+keywords:
+  - power bi service
+images:
+  - https://smartableai.github.io/microsoft-power-bi/assets/images/topics/power-bi-service.jpg
+services:
+  news: https://smartableai.github.io/microsoft-power-bi/api/news/power-bi-service/
+  learning: https://smartableai.github.io/microsoft-power-bi/api/learning/power-bi-service/
