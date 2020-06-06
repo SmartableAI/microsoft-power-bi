@@ -2,14 +2,14 @@
 # Site Settings
 #----------------------------------------------------------------------------------
 
-title: Python Smartable
+title: Power BI Smartable
 url: https://smartableai.github.io
-baseurl: "/python"
-webUrl: https://smartable.ai/apps/python
+baseurl: "/microsoft-power-bi"
+webUrl: https://smartable.ai/apps/powerbi
 locale: "en-us"
 charset: utf-8
-repository: SmartableAI/python
-topic: Python
+repository: SmartableAI/microsoft-power-bi
+topic: Power BI
 
 
 #----------------------------------------------------------------------------------
