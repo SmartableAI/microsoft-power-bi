@@ -2,10 +2,10 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-05-29-roadmap-update-what8217s-next-for-the-new-workspace-experience-upgrade-in-the-coming-months.md",
-      "title": "Roadmap update: What&#8217;s next for the new workspace experience upgrade in the coming months",
+      "path": "_news/2020-05-29-roadmap-update-whats-next-for-the-new-workspace-experience-upgrade-in-the-coming-months.md",
+      "title": "Roadmap update: What᾿s next for the new workspace experience upgrade in the coming months",
       "excerpt": "Today, we wanted to announce our roadmap for workspace upgrade so you can plan ahead.  We also announce in this post our classic workspace deprecation plans. If you&#8217;re a Power BI admin or workspace admin, this is a must read. ",
-      "heat": 70,
+      "heat": 73,
       "tags": null,
       "type": "article",
       "webUrl": "https://powerbi.microsoft.com/en-us/blog/roadmap-update-whats-next-for-the-new-workspace-experience-upgrade-in-the-coming-months/",
@@ -33,7 +33,7 @@
           "url": "https://powerbiblogscdn.azureedge.net/wp-content/uploads/2020/05/workspace-upgrade-block-classic-create.png",
           "width": 1197,
           "height": 515,
-          "title": "Roadmap update: What&#8217;s next for the new workspace experience upgrade in the coming months",
+          "title": "Roadmap update: What᾿s next for the new workspace experience upgrade in the coming months",
           "attribution": null
         }
       ],
@@ -49,7 +49,7 @@
       "path": "_news/2020-05-28-power-bi-dataflows-direct-query-support.md",
       "title": "Power BI Dataflows Direct Query Support",
       "excerpt": "We are excited to announce Direct Query support (Preview) for Power BI dataflows.  You can now connect directly to a dataflow without first requiring to import the data into a dataset. ",
-      "heat": 97,
+      "heat": 98,
       "tags": null,
       "type": "article",
       "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-dataflows-direct-query-support/",

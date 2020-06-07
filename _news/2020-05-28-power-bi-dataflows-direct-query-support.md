@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-28T07:00:00Z
 webUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-dataflows-direct-query-support/"
 type: article
 quality: 97
-heat: 97
+heat: 98
 published: true
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 417
     title: "Power BI Dataflows Direct Query Support"
 
-secured: "G+PxeFSTaT7mWOMmpFxHN3plKvBbcj4sqflw7pvmWllSc19VZUvOHGtyyCG551jeyBKuRUz27kV3XOBWY3uONuK8nVZvVwBKQo2ZdvHLGPa7Lf3v/ESvaRSyo2M8Vh6HXjI6UkE9ZNsA2nblg6MfJxKfMEApk8QL9pzPf9XxMd8eeXm6Fj4tEzVPS/UD5cYDGat9itzNigiMv+xz/dZBiiJYU2ZlUhwuh4cUmkQ72FAe5/LYfQH0Otziu64gV0mI4TPjbYZp4SlbFaWrt96f9bDCiaCw5sEO8YnVGQZCk999Jnn9nZ5s9Br3LRMJZwZdAuxduSTSsPPx6NVqkJvomA==;PnbVkwLlTUZ6FvlMqJZ8kQ=="
+secured: "HMGnaXFpZ4r0Ni+tjg5rGdqYWq9uor9gve79nVz1O7HGS28QmBPqwOtWfddMVrWmpKG2ebPZwfCtHlwp29HStX5gefVBfL7fwmvAEnfC0uoWfGGGToHY6+jhS2fEMMnR1eiXqWcqffAzfFJKocPpGLDfrl2esA/2uNLbnU8RRq4YNpB+w75qiFSizxbnyoEhgBBkfypXuQEJXTqBn0tAZYzyDk3NIP6cFxSjmD153SmRHDOgsFbSWyi8pbqHTMjvCTLHAvZglYI0lHSkdTxzP0mPS3a7x1XJYGELodBgkx1S68aoP6AeIv0P+sHPpEv5qN3KkeUC2cEClvQZQyOTpA==;nAMAzA4IBIhXr88DpAP6+Q=="
 ---
 
