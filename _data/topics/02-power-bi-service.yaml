@@ -2,6 +2,7 @@ taxonomy: topic
 _id: power-bi-service
 name: Power BI Service
 shortname: Service
+parent: Power BI
 keywords:
   - power bi service
 images:

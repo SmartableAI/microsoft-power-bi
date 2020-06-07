@@ -1,6 +1,7 @@
 taxonomy: topic
 _id: power-query
 name: Power Query
+parent: Power BI
 keywords:
   - power query
 images:
