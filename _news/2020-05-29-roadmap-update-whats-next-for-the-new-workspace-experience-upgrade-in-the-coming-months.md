@@ -1,6 +1,6 @@
 ---
 category: news
-title: "Roadmap update: What&#8217;s next for the new workspace experience upgrade in the coming months"
+title: "Roadmap update: What᾿s next for the new workspace experience upgrade in the coming months"
 excerpt: "Today, we wanted to announce our roadmap for workspace upgrade so you can plan ahead.  We also announce in this post our classic workspace deprecation plans. If you&#8217;re a Power BI admin or workspace admin, this is a must read. "
 publishedDateTime: 2020-05-29T07:00:15Z
 webUrl: "https://powerbi.microsoft.com/en-us/blog/roadmap-update-whats-next-for-the-new-workspace-experience-upgrade-in-the-coming-months/"
