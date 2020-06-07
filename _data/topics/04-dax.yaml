@@ -4,8 +4,6 @@ name: DAX
 parent: Power BI
 keywords:
   - dax
-images:
-  - https://smartableai.github.io/microsoft-power-bi/assets/images/topics/dax.jpg
 services:
   news: https://smartableai.github.io/microsoft-power-bi/api/news/dax/
   learning: https://smartableai.github.io/microsoft-power-bi/api/learning/dax/
