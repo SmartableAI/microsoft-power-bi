@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-21T10:12:33Z
 webUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-general-availability-ga-of-shared-and-certified-datasets-in-power-bi/"
 type: article
 quality: 92
-heat: 92
+heat: 93
 published: true
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 417
     title: "Announcing General Availability (GA) of shared and certified datasets in Power BI"
 
-secured: "mSZYkjBF3TMcTvgW2BMLOuZKsV5/MJbgOuC0u3hPONgemMbrmxUGM5iB0VDfxkzIp2w1xaaGErM5fQEXIv5/gAwcZgvFs/1sZvvgO7ciovTeym90sRdny9y4jqc+QsEZ3+AYwYTb+FnH9/WiuQMKV/dIu/eZDDvH0hRXyzYzbe2cFWqiMIKzpatXP1Zo85yddVVTLabOE5VjRZ+x64TfTYG+4jyTDcJsc6GBNlGlVb6UPWaan877HB8+7SQ1rwXo6/cd7RwqU327luHCD6TlqYwb0fWnqasCU2xzpUYlYGLDS6XK5WeLU+MvLUiU1s9ouq22OXaUsD2OW9YzFbwE9A==;1kFeCS6fdyKuzqEOg9LQzQ=="
+secured: "ItKFkKA/KWxLDmm0uUbAUQl3H3TfPZG3vCi8HwznjmM4v0b7zyyHYpfpwk8Y/sM+DDvrMAnJ+k7fj1DW8GmwsDEDo2zfLFrtguP3ddroE49yTIv/YrN2++yzzEZtCHf1dV047uXfl9iWbrQP6BtT5qUxf6iaCRTp452u2/j5oabHxa7npbw+QEXCbSW7HkOyc5xpjF7/5/yTwQXQtd71bjXzEh0LA7FeBDWplLeTkw+QlDAI7jbgjDo/Pt9B65mvCLvGl+lOhYpNUWrkT8U3cR/+G9VditklytChtX3Stz2DadKnGptRuv36+h7RTlDkpglCq09c2BQxWVRvhVP5iw==;50z9dQJAV+rt+9/QLZAnCQ=="
 ---
 

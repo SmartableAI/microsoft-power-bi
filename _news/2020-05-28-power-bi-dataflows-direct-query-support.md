@@ -26,6 +26,6 @@ images:
     height: 417
     title: "Power BI Dataflows Direct Query Support"
 
-secured: "HMGnaXFpZ4r0Ni+tjg5rGdqYWq9uor9gve79nVz1O7HGS28QmBPqwOtWfddMVrWmpKG2ebPZwfCtHlwp29HStX5gefVBfL7fwmvAEnfC0uoWfGGGToHY6+jhS2fEMMnR1eiXqWcqffAzfFJKocPpGLDfrl2esA/2uNLbnU8RRq4YNpB+w75qiFSizxbnyoEhgBBkfypXuQEJXTqBn0tAZYzyDk3NIP6cFxSjmD153SmRHDOgsFbSWyi8pbqHTMjvCTLHAvZglYI0lHSkdTxzP0mPS3a7x1XJYGELodBgkx1S68aoP6AeIv0P+sHPpEv5qN3KkeUC2cEClvQZQyOTpA==;nAMAzA4IBIhXr88DpAP6+Q=="
+secured: "zGMnD7TLObokIR2vj8qkZX4+fXu1p2Q4YI0is4Krf3wQjcio6LpPdrGwQnJ8AZ+/kajGiebo5fYPH3ex2RoP1uf6qp0bzlSbiOa+F9bhyj1PZf5cwnDiIP6mpQkYQbEEzzNXWWarCR/ah4W/LoTphBUFCfpqALDwXFLhjHQd9eMYIisg/oukkmH4iUyyQOMeeeESKn02YpXSpMgwMT+M5nHnAkpWs7/NLPcdvN3ZdMTleH/s2ZK87uHM/MAxBCTTddJnv+i22/6E0QI9hNr1YmpHOcwg4XB4oFno2PyHpD8etAr+I7pFQ416w1mMMoQudu4vGypHU5C1YBIBAgiARA==;3m/ryMQnYaqjv6mtnuA9VA=="
 ---
 

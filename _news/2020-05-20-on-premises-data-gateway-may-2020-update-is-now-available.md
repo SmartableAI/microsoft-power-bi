@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-20T08:12:37Z
 webUrl: "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-may-2020-update-is-now-available/"
 type: article
 quality: 82
-heat: 82
+heat: 83
 published: true
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 417
     title: "On-premises data gateway May 2020 update is now available"
 
-secured: "YJoDWym9skOj+ilCd5JET08IIVy71CVXYWk7PcUH4VLzCzRupY+9DfdZHhjEBdxrHlLpTr2vo04kEFHTARODFRR4ywrgrZPa5t1g/YP8MHjzC3RmIq17DoLqbNA5j2PlEjLYk67tUT0hFm9+b2mutiSsf41KnJpJZ0mp+SjwWCgFv51jcf9hhJSQ/uefO23Zvt/iZAbuyzmsaU4uc50CLlnV/Z+qxfW16sY9qTI/LbhCygPsNrkgIi7faInzfpncR5BKjh0Jxf1CsxaF9+4gOLnbdCfCcepsztrfAdA1YOX/Y283/FXvESSUqTjqIbPnu07NAFAC4kZ4nn49mZ25pg==;3GW6uzXFhOCFu4JOdsbQQQ=="
+secured: "xBYl55PllkneFgNtPtRgXCVYjwiLuENIk8Rc9yRuq4pPHyy6rc54Xh4SbvPUextQJjNa+TuPorXBtpFpQ7FXqZE0aeCX3DUt4OyInSbfn24cfWybEFBHN+udFIbCehNbUHKRrmVnj3Udk1yCWUpdg2CkdE2/c9AGRA5Xrf3x5nonYUc1aKaORxpVuG3DgmeR0d5/deOE6YDh7u6oEWwpwvKTek6O08tVv6z/uh09nyEEuCEUZ+gGA9ApK/56NVy/IDoX3WnsCotxbL4xcjOYp0bmK5W2s7MwrsovidYjplS/+V4EwCGCo6JIWB3nYteYRVke5z7y5B82lXXDYqOf9A==;/TkfOyRBNk4PvrIz1Vlkeg=="
 ---
 

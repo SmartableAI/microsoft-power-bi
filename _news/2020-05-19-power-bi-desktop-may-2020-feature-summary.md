@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-19T08:03:56Z
 webUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-may-2020-feature-summary/"
 type: article
 quality: 97
-heat: 97
+heat: 98
 published: true
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 417
     title: "Power BI Desktop May 2020 Feature Summary"
 
-secured: "oONLYSSpzUBWiXQAhmx+gZFBQQ5a+p1DOnqcArE5iinOHn/UL2/t8qibdwk/kkFmz1i3Nf39kYsCrBr4W0Dycmzy7963iXFLDW9pWdElWir4+6PC2l+sf67drlkFXzwMdpYkyYoTbGvgn7EAT1mN4dQ2HLIbzEpHw8GpvdDbB+CfMRnRpT6i8Eq3xVrH73+8QkYecsmbrhWyQdGPLHJ3u13Pk8YkE0XRcw/I/1jKAJQS85+vDc1tbTo6kvOgT8/t8Ito/iW8uRhNo5AXHLIKWiOwmxvYUedx2c77a+MVuqto90sdjL1Y8Iog7VjumVgm65ifWvdV4Ocn3US2ZbC5Qg==;525s6dnFwpxERGGjVjyqLQ=="
+secured: "uqH17bLckzdkEH5T9QAjAp6+lUQ/9t+RCrQac6chbHJ1yeTvLDyqvmlny8mbFMaaFhCIT/tzzzSn2Wotip9V27W4pBUHmhjFL2Pf59r3NtY2TzyeELm1yV81EHPCJbiV5GwsuDEwRaE/ngNCofyRj3SLD7JxI6upBYe7GjzhNtwZwthCnvEFlhjqNPOJWhjNX2NdQsHVuvKDzBjdUql/kO7UcigaeJOSMvgJrxJDWHMktVvxUS+z8vzTn+9j5msdMfLSzmcPfyK/uGuWfeSZ7oQTb+HYFtphKfnTWGSWDuj9dcuP2xRJgIIfd+kFevm6mBZ38UoUOOEZOeLrRHLbCQ==;N8eiF1Xu7/WRirEyui0sWA=="
 ---
 
