@@ -26,6 +26,6 @@ images:
     height: 417
     title: "Announcing General Availability (GA) of shared and certified datasets in Power BI"
 
-secured: "ItKFkKA/KWxLDmm0uUbAUQl3H3TfPZG3vCi8HwznjmM4v0b7zyyHYpfpwk8Y/sM+DDvrMAnJ+k7fj1DW8GmwsDEDo2zfLFrtguP3ddroE49yTIv/YrN2++yzzEZtCHf1dV047uXfl9iWbrQP6BtT5qUxf6iaCRTp452u2/j5oabHxa7npbw+QEXCbSW7HkOyc5xpjF7/5/yTwQXQtd71bjXzEh0LA7FeBDWplLeTkw+QlDAI7jbgjDo/Pt9B65mvCLvGl+lOhYpNUWrkT8U3cR/+G9VditklytChtX3Stz2DadKnGptRuv36+h7RTlDkpglCq09c2BQxWVRvhVP5iw==;50z9dQJAV+rt+9/QLZAnCQ=="
+secured: "nrpUL4OV1ONn5zieFxkvmn8SX+hkPse+gQI9pjPYBllzg2fu7FqLK9pRW5GtWAj86QXTQp8/8H49DATcSkz3h9IbHJTzgJVoJGYJM6HOLugQ44gX6IDtHT3nqYD5GU9yd1uRkmfrcqgwUnvLAYWbuNUU6TArAP7FpfKZgrSFB7+rmLNdIUbH4ekEg0WUxoisRpX0Opw3TfdAdyUgOOuCR/q2FwN/QkKhl7QDEk0FYJoVzqicMKkcuNwVLbFHP7dMuxTnmrQV4jmTiKdC5PYtjdhL6gUj5NwJpGGYi6aEsW9q97U2vT+AevzAmqjm9chG3bmEIRes5JEar3NXCBwcpw==;fpK3+C9cN0YCKwElkBOQ4w=="
 ---
 

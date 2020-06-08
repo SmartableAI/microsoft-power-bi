@@ -26,6 +26,6 @@ images:
     height: 417
     title: "On-premises data gateway May 2020 update is now available"
 
-secured: "xBYl55PllkneFgNtPtRgXCVYjwiLuENIk8Rc9yRuq4pPHyy6rc54Xh4SbvPUextQJjNa+TuPorXBtpFpQ7FXqZE0aeCX3DUt4OyInSbfn24cfWybEFBHN+udFIbCehNbUHKRrmVnj3Udk1yCWUpdg2CkdE2/c9AGRA5Xrf3x5nonYUc1aKaORxpVuG3DgmeR0d5/deOE6YDh7u6oEWwpwvKTek6O08tVv6z/uh09nyEEuCEUZ+gGA9ApK/56NVy/IDoX3WnsCotxbL4xcjOYp0bmK5W2s7MwrsovidYjplS/+V4EwCGCo6JIWB3nYteYRVke5z7y5B82lXXDYqOf9A==;/TkfOyRBNk4PvrIz1Vlkeg=="
+secured: "swcDwo4o4YOrHFn6VmHretTSO1z/0xr97TFjusR8uFTOWYFhGr6M4ICHejW7AFtui2BjfWQsJz06HVBczLh9vSFWEfvTF7mRkKGqrJyTIVRiFNIb9ajq/NFSyX/PfRlyFSZ2MUqGXS3qh0aSQutkppHA1mdIpd5s8DLKUNnT8B8YSrYXdAY+uxtLt67oPDJXhdatTet+eFRfW/xjXnWgYKDvtazcdXN6q4MncCOkSO/ms+IMmX1BQDXOjm/SYwqiQ4mKQ91SYbFGOHJsLQpHtwKRsYiEdYlBAvsPC0vxvkWH1iyM+hOFHaR/KGedvhwcEPaqIQvT+Palfq4jHmd/Sg==;+MFlE2SMcrZTh6kSZEq03w=="
 ---
 
