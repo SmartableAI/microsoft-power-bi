@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-22T19:24:56Z
 webUrl: "https://youtube.com/watch?v=JtuHIslowxk"
 type: video
 quality: 154
-heat: 154
+heat: 155
 published: true
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 720
     title: "Power BI Desktop Update - May 2020"
 
-secured: "uyhdtrN/VNWWGrVGOOhxLe610ni7PBlQXU4AcpjDPc4NuLkxxrwIOVusdSK3gZjIDYxReAsvm+0BV0Tecy2I5ZZnWvgYIIKDiaw5EUp2AVhdmwf0LjX3i76xA2u3VYmxH1hzijfUt7OhYZF2HogNKC9ypqvLRQk8klQMP6SI5pNBESV7k/b4SQ1zjv4jdIu/0rKt6R91jbOMYpDhe3cRa56fLLtG6e042KZaly8YiuoPWJ6Fm6YJc72RJeww6yTNZHfOr2SUJjciELLtH6+zW4BBZUIaE5kq0uvaXxNzRkLK9InpFm46tcQ3NWDhQgtP18gLhh41lD+0ieayBUn7Sg==;N3EituBmbMtQh3vzcOp8zg=="
+secured: "2eUN1X9N/ea6Hjge/OGyCiVxolW+3pNmxE9/cGh3tHpCC8Z2RN94pqTBg9V15i9IY5OO2OlAWgIAsD+VJhB7HH4KN9x3M8Vz/t+2hcq/ciOAxfCtV2OGy++I4nn1hDRQxZsbhHn0G3j/2rdHoc4Uo9iUQepNbINFT2OabrK+3Q36R4pGzaRImoaVEKeKvaOj9LI94nco4eG57aNmB3zrJT0BDTIrkEaHjIVBkEPSIiPEAxN1Ce3Ms/KmHMz67ZFr3wxSqlVcGAI0wZNp8CpJhN/8q3xg7T3v5xtCqVFGLf4qiIbP9uuba7v4pBXj05dCJyLBqCto5GKDriWEuzkpTw==;IW4O0w917K26kSOC5j3GHw=="
 ---
 

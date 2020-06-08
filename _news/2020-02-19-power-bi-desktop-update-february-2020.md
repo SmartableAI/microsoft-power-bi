@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-19T19:09:37Z
 webUrl: "https://youtube.com/watch?v=TN61JvbUAxk"
 type: video
 quality: 154
-heat: 154
+heat: 155
 published: true
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 720
     title: "Power BI Desktop Update - February 2020"
 
-secured: "zVxKBLMXLOrFzNr9kxGkUZyn2j9wmPv6+ROXiNqlaJMuMBYCWSZHh4xreW5uQtR6i/YwyRgWmpcmgW79ZcrSIIunhZUj9+3vcdBe/Sk17n0MGITlCVbkaPLhrB603bZdhI7XjQkSfcZlH0qTFUZj76//TTppJHENoGiRJ9MFJL0q1TAlBf9ZxbFQfnsRFd+b3xXu3HH5LPB1upZkb37Zk0Zta5c+k3poPmVUwID6eN0reNN+q393Xa1PU3D0B6rvqLOquzI42L4X9bqg/L+hArSRMlyUosZauii+mxEGiZdU4bUMkSkcRzrL0aW4Cm0ZhQ/EcpVz1M4lPKR0wIntxw==;+LJP8hBbxwGCyGwpiE7Zmg=="
+secured: "/qeFy0vk8SlrzPTtIaxTtjiv5IYbOOmx9350FKLe6Mhqe2gnQI6HLHj2wAFR2STqmcq6CtCklsy+DIeYpACWM129mIjXqso/+tlq2x5ACoRqvEydgZ8Yu5dEQrVMHZvy0SasSR6qpsxF5/JyO+tNtLW9H7D2JMIV7q6ZRVxWN8rLYb8EOw3pE0rLCls4zSg1MCsGdjBoctjC3vGPsgp45QQRC4klDqJm1rwajdGHK113cM3d3tXOGpACXYflv/OZkvPy1zTR9cDtNOEKxna4TJVLpOsPf3BKECEK2Kdazz+1M72n9SvzJMpA4Oj32Y3Wu12jot7GJGHX2JrmSmEVmA==;7S8pcWa5t1BhcwY0qgtdkg=="
 ---
 

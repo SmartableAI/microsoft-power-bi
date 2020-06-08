@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-05T20:18:13Z
 webUrl: "https://youtube.com/watch?v=-7rqXowuf1k"
 type: video
 quality: 154
-heat: 154
+heat: 155
 published: true
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 720
     title: "Happy New Year from Power BI Desktop!"
 
-secured: "XNCONOCvAPtxudZG1X2RXcA/x31Oz6mrv/4WmZZD2ACWaO7tqjLB3wmRE2dpwitoQcdWhuvrCQ1tfFFOZGdqvwuCI/u3QSkd47q2r0M26O8DkkFmuonBpIT1hDavkTR/ETH4jugF8h8HRRIdJfBEGaRzJ/UaZg2oi2KoJAOK3JfaKNJKj7LlIbQOa5/RzsNoFjVN6QVofo2QPKWx32jnbb9Rdlztnp+J9UTneQqClC8MwxYRBplIZXXvatNI9qOp4chDCv5y6EsaRS0nKXlo+XZkMm56JMaOIZaZpUe2TQFMsrb+iWD7z6LZ19OmO1BhZuIf3ip3pCZWhe+3E7ezyw==;Q/8EiO1LszR7dZ8HsI7Opw=="
+secured: "YrYE4U7d4XyMJjfb2bfmBTZ6lEkegdvcyPT7GOKEa6XtOVgpB9SLjr+PtLOofz7PV/DG4nwFTH+hZabSIQXxE4mvFOlxEF6tVpRx2v9zk+HJopxGq+3Qm2wV1cHM1T2O91Pi9hTRW5hV/piHC+Pd/Ljgw3didgIkeVaVm8oe/FprlxpIUS/d6sCv/OtZWcPWbSduwIhUVIue+rWFOjb3KuKKoenbwbCLO1BBa9YH+Wt7hzg3yF1D9Og9I545c1Mc7fU6RTvay++zcJvm+Trq2UwVnRaYd0ghG0rFbkwfm5iyTOrXJnFSybrnCzyHPpA7Y+kbCxh4GnOtHkzjhf+ymw==;tDEqlAxrMxbmfH8W+7GDTg=="
 ---
 

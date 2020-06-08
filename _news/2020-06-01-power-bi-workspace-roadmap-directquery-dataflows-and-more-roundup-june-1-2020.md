@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-01T15:00:23Z
 webUrl: "https://youtube.com/watch?v=f1XqbeOSWyg"
 type: video
 quality: 129
-heat: 129
+heat: 134
 published: true
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 720
     title: "Power BI Workspace Roadmap, DirectQuery dataflows and more... (Roundup | June 1, 2020)"
 
-secured: "eCeXJXiBFLFkN/Zn/Ow2UCy4DomedvyGDFTMczaaE05Ixkdqrg8DJZjQZU0ed4k3YtPqg0joBQoXZMudLRpPORPrFT8TNlQkgMUJt81bsnVQyOHZZtuLapwmEBkdQyQ4kAFmC/guVsAEQ2MoTSMpntleH/HAzQ3J4eyx6G+KMz0+5SFIBYV36RWlhWwo7D/o39MRPPFK9l+qokBxiU4nB9AGvO3h4nUHXAd4H/C+dSz0Atr2gFV++iYXnbG8KIlf9rAIrWHV10Y6tSLpcvf5nuYQmKbqU6wKV2Na7bpeoUcZz/9WwH/0MxUuPKh0Ya1PNfAbVj0xrxYbkoouQ75TkA==;9oIRxrEBxMpobLSv14pHuA=="
+secured: "wYRoxMybPKGM5hzoLwfzQokEZA7T3pbCCaTzGRyoG6lAyCI9HO7B6lmToo0wml82Df32+8yaga6dGvcVJmevwsM86KfMbqHptnbovqR+eEdiDZgxxlpaM4hwVHLQEG+gR62Bh6bXnQ+ZCGy2KxjVtmN3Qc0DD5hEFP0U9tdiJKR3zRX4lC04ubhLI717jUxey30dHr/lyuDtXFT3mclZOicXa5kJjPzZSQfUV4273lrzkHH0imLidFMeIcXbb8FkT3w8LhZhYjfKmg5y0V1ymJftiXI8Co3couJ/wFifLp/t4Kb6n0LFU92wcQC8DqngOJ2T2Wp668Ma1ETq8C/G0g==;KWfqDiq3h/HjC5MPYjjyMQ=="
 ---
 
