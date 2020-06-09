@@ -25,6 +25,7 @@ images:
   - url: "https://i.ytimg.com/vi/l7OMRUF9UYg/maxresdefault.jpg"
     width: 1280
     height: 720
+    isCached: true
     title: "Power BI Desktop Update - July 2019"
 
 secured: "L1QvFfP0b/mAD++a1KDvhPTTCAj2V5IOdSZcuFvgiau/cVboAD0jDBFqZMLmhsTrWkEEvd6Str9gFBxeRipKa6IcMfQzguxYHC93HcsZUOXVkiCghrJgHEAGuzybJuoyo1ua/wT5+jfmUc3BNz7l/2pxA6XRrrQ/MarIlIybH+AgiR6k4QiH6+CQLwZlLkZuOco1xLgifTG1Ur8lvfo3iUxYhwSXJjpSUiF8xHw5afDAPYi25hbiVRbrGoDox4UHdeStpS7L28orVFL3TW2nWehG3NaTDhYFmdniWRiQElB6fXch7frpgJ4lU+H5yYxTH7dYWdoPRdJK/lQCIgvtnQ==;BRFq4PQh2l61tUFpLaT09w=="

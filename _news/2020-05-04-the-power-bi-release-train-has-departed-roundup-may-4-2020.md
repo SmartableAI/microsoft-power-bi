@@ -24,6 +24,7 @@ images:
   - url: "https://i.ytimg.com/vi/pVZ6hJP_gz0/maxresdefault.jpg"
     width: 1280
     height: 720
+    isCached: true
     title: "The Power BI release train has departed... (Roundup | May 4, 2020)"
 
 secured: "6BAXx2GzeNZ3mbMS1GBoH+RP1AUMU0qf0iNsytuBdAB/WIRPjh7R2MTkWzeiDL785Ef5sNXuXlJn/v4FbCX+U+kMBTV/4SWp87AJlzDhd2BQ6t9St1rff39PKLXhGZo3mgJO3uP9o6qTPJqKUncUgrkocsv3xvf6eIpzHtbLc9V9/OEPVE0yoklLb3DAGnkXyVRVgPXlMe2gBv3COuuNpIYi01Ro6g3bcJBDHH/nN3vzSYUd8RHX9hLqg13btgHU0wfMjKPoSpZ0sWwcqw6zMhb3T9e11evCxN8vc5bSrA7eSHxHpcaDzL9NxnpLzkR3XH1pRaHPL/imb7fDeP08qw==;Plg3AaDSHVrbZhQKqkd2Lw=="

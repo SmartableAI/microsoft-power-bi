@@ -24,6 +24,7 @@ images:
   - url: "https://i.ytimg.com/vi/dsi_6Ga5cAo/maxresdefault.jpg"
     width: 1280
     height: 720
+    isCached: true
     title: "Power BI case studies, AI for Health and more... (Roundup | April 27, 2020)"
 
 secured: "5Xp27goNX7lasfuUdGZUYa3cA8vUJny+lkAYM9Zrj/VJS/wD6HnTP2C2uvl2mR7Wy0fVVYq7tbYuf+JLigx6eeokVsPka2mLMvaQLreXH5ehnb5QW6vaUCV6pYFjEs8f5wVLjwQ78gjOjP2tec2TQHCXAghgx2S9mg8uEjc8ljS7T0GNyOsew/XHibcC37AtfEfUSSytX9thOUCJQEhuC1fK8TUp/jaCWSvN5qRva4mWlfiBf67UTxBJo9pCisw2ZgekSs/2XJHCEOqiY5pCNpCO/1ULNnMcfBexl7k6WdzKwYCsr3eUIpx7tYIAc9ZXOmfwHMJutHz40A3CjvjlEg==;TKaPEmlxY1WKadrrqT/ORA=="

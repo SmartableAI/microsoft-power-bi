@@ -25,6 +25,7 @@ images:
   - url: "https://i.ytimg.com/vi/eCEwgZsVUOs/maxresdefault.jpg"
     width: 1280
     height: 720
+    isCached: true
     title: "Power BI Desktop Update - December 2019"
 
 secured: "JgUXHrduvcMlqMqn1I0JCMLRhcR6xPXbIbwuvOjAD5HPg7ACDZxHUApqTt3/dAHEZxF8jmiCTSu3hoouDQQPgsOP96cZ5CvFpIp8siVpyxEso5TqL6GGJfQID2vxunZV5Hu5RLUEoDNI6Lce7efJRFWwLjdYkW/SJl+xDOJiQrrZKWTLCMjfD1ziNEkGrPmQVXiqf73xnWV/VnZXS2pWt8tDIiOfrNqAHzTs9YjkOGzu7QvtwqAfQztEJkiPougnkSS9q1Zho2s+Gc/cUVlGa0tjaRDGkNimAz3WUIz1V3AXSP/eATwN3sd6mBR1tz+b5FMpt15AE5zZK2DLKhClgQ==;ZBhskHx6auLDs4VLHowpJQ=="

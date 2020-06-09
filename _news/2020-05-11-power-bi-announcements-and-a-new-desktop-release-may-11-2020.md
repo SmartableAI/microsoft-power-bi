@@ -24,6 +24,7 @@ images:
   - url: "https://i.ytimg.com/vi/RqUc3d-0WXY/maxresdefault.jpg"
     width: 1280
     height: 720
+    isCached: true
     title: "Power BI announcements and a new Desktop release... (May 11, 2020)"
 
 secured: "z6U7j2axhh8q1mT1VRWxqwMc3Pwfk4Vprp7Z4TJnw+Xoiv2lHyVfiJhZaxDEJYOHC2PjI36qN7CtVmp7Cq0WyXk3C/gLs2k6p0SUnyz7lvZyyy5Nnm3epoZoGUJrJ8/kYl4clN0Qfg0XyAaND30z5u0vmTRrI4GEN75sS1tmOWgpthwy5qcA9bejsYAiFFRnyubx485u/6GPGIbkoxm12rDtjuEtcDbtJ6obPwjR1I4zlyVTdWKcN1WOITnEzt5ZueT0az9YOuWo2Hu3ZVaAnPjFqIosCUPuuMxUB7uNFuxN/8XyqwrbICK1NDLdJXLmWLpiT8Rv6oQtSwZ/hhCSsA==;37hv6xFCgypYz+mAq4JLxQ=="

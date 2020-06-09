@@ -25,6 +25,7 @@ images:
   - url: "https://i.ytimg.com/vi/A8A9baUQsXQ/maxresdefault.jpg"
     width: 1280
     height: 720
+    isCached: true
     title: "Power BI Desktop Update - October 2019"
 
 secured: "6swhdnFnf+969ADsrl0ePeiltAkSyTkL96OmbbONQ30+0Yv7j8xTl/8WUNUT6EkFPzwNmN6tIy/+7x20qYFTqXrVSGiOB9/QbEg2kWpGFtNFCz9sNsjYRmgodi+oe36CUa+Gy2icIv6/Q1Up5kkTCfUwKM7Jlf6P/HiYot86I8vb9Q0tsfrTrb3tULWFLa9GQvN6cDfIfareOlSxV1FEN4VirsEFNj/Gs/DWS+VyjFuje4boQss99JH+QWhl+/w2dkygyKdHcX2ICbasiz/oMppbSd+KbH6OTX2lFPWlHg8Eoy872rlmY6kY48g8iEyObqeCMG+cT/PlAgaHhDFRsQ==;E6BplFpOdHiJ93nCa9KVjQ=="

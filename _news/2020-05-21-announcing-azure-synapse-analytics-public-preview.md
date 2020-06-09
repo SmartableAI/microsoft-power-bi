@@ -24,6 +24,7 @@ images:
   - url: "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png"
     width: 418
     height: 417
+    isCached: true
     title: "Announcing Azure Synapse Analytics public preview"
 
 secured: "rJqPar2WiaRnIkdHT0IT5sPkAZVH6WA7+MJ62fPuY1tUlIVkSFoE09WsWgiJ7MGWGoDU0KdtYMoK/CZlmXVxNK9D74ZtThe7T8J9/K6PBKlYzdxLu2MhlVsYuwQ2ov7nDuV4275LE5DrAU08C8lReMeCRcX3qyoc2krq/WjBbqXuS9bXJJAYolE6uwq80kPMYshP4of12UY6k8byaanjCql5JnQVJSaQMTlTYiYx7csvg0GTltC0B/CbUGZFSwRZ2U1GWnb+6JjRJxFJMkd13H3Ppvtrlgw5/63cix78B7clmllNkcnlT5QIyeZqagqYpbKhBlEcaFoRdhKSlubeFg==;LgNvxN7M8BemjLY2/KraGQ=="

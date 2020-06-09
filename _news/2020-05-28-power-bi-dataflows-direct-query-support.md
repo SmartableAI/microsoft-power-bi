@@ -24,8 +24,9 @@ images:
   - url: "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png"
     width: 418
     height: 417
+    isCached: true
     title: "Power BI Dataflows Direct Query Support"
 
-secured: "4CfwniGDYazjufweMBC8wpRtyYKYaLBBY+k2GR4kUgHCy+1A/PyrXElcu2YYGZG6gkcEBY1as7zWDdZnxjf1ILplkZ2VQNvZNiMczpG+RH2+nDza0CqiWs9k6w05qm0jPUb5lUrDcnRcjemLPpZhyXTWpQ6RuT2ySWjZ5EWjhYrMeX9u1WEfEsCAkcaSA/gvEHQoIvdigVuTljPb8M4Vy6OIF4d0KrB6YqMH83poXAikpn8lr3/wszSSBm4dynzYXQ8OYNFGwbMXAFktUkYLY/Yox+a8MClQTbUGdp936bVG7yANR1rsVdU0fFePMdcyjRzoZ/SzKpHVgbmO6hoMiw==;TgR7B//2XjfKc7CSyKdcqA=="
+secured: "n/nSk12gopW255Ry77J/BXlSenucZJp3TfH9vQXM878Gs9vHHFcaprBg2L/Rq2iXH8o6KbwIQEc/peCrTQTWUMKhW1MsdLQCjW4wm8yGCvOVhcjeIsh8+VxI+MUFaGYiY7JCt1fNWT/7mGwCXgfH/VxoJupBrtj47yi25+hRHC2bQPQp7zmejKq54lPEl2d7iUonzQnT80gt7JcyRfjLtrliG/S8Go+l5sqwjzI9Zt6x+Fv3vwMCVyESpoyEh6TeBH2FmkDi2ug/FDQ/KUd381YPw/pR6V87I7SdykZJT5AmMzximD1P2bsI5hWzSefOTqCOmXrfrNbXP2RFaAMXKg==;JAFlp3rdjXdLaoO+usAZgw=="
 ---
 

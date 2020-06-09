@@ -25,6 +25,7 @@ images:
   - url: "https://i.ytimg.com/vi/q2Hfn_Rhb3E/maxresdefault.jpg"
     width: 1280
     height: 720
+    isCached: true
     title: "Power BI Desktop Update - April 2020"
 
 secured: "p3FeX7nehVqo6jBHaDBq7dMkT4fgKBAAgY38bvbsZKiHXg86sU00bz2EHf5hGSOrhqflFCoRdmIoH8+IgTUXcfQI5sgir9DGF7JRX08TC8lQNI7lytQ21cr6CYH3cy71fFZML4cKILw+pcuscA3BKduvg1wNzsDJBkxQo4Bn3Mz6SdyTiKNK/IesGhlN6RXziH7kZP2jdYHc4H3oND5LLwcisdgDhPhYDSCY6PYiu/pkWVP6y8k/NYDj91EVQcsY+Vx02sK/8bFRMJEMled8shy6rtVcRs090OL5DkaDYDZfKtAukbWMaHLpIsbXPHXM6AUwVe0fI/7U/KqYPxTDgA==;CxIm/aYFYW4EYhfmGS9AbQ=="

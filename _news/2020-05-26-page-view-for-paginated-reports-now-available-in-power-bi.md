@@ -24,6 +24,7 @@ images:
   - url: "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png"
     width: 418
     height: 417
+    isCached: true
     title: "Page view for Paginated Reports now available in Power BI"
 
 secured: "Ls9airqMPa0U5EaHSEByfD94Rj8yWZzRUJg5fKYlmusJfgTZYzed3VxWK9DeB2VBJmncH2OnFuhUhCQKqHxoK0HdDZcIm1t7KG50nGAPeOcJN1DK1uxKZ3F+2G3rwoaS5ZOV4ejQAvtpTji7N3roTMG5X5xTgKNPJgxJnBw7e5YL30ljloNt+IdW2apNFg7f7cVC9hWsC+dnNjzLgLsEa/hc32fXWTuTKM/uQA/C+xoriFHOt+F0V66ex1EnLE/Scg9M1v9nzE+fZNW37PNVlDiJKxG1u7DXw7tBlID+tVZq57UxritI5xbjGl7ENiijeuyDkHaphcUj3yIShQM3Dw==;tH5nxR9Xm8egfk8vZKUKWQ=="
