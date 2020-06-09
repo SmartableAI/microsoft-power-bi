@@ -27,6 +27,6 @@ images:
     isCached: true
     title: "Lots of Power BI community posts... (Roundup | May 18, 2020)"
 
-secured: "sr9xdbsyP7oNkqf30355M0nBkNUqNEwT16dUDKn/NLHVH9JAhUJRzFF0JSaqci8QsCewwxWQg1ZN/GHXR/cjSSetafTbvdClKXkVEAwAdxUz5RUQbcDchsuSumkK/3YePVaOin3JpiW0FVbFVSGrWucj62LQ5rtsxp5/iZT1m5YIw4w4ReHamVULE61pzJ0U0wfD7cQrHmpTYikIddom6Sc8WXmNjF2ghNUAAZ6vNIghA1Di7HVB96LrfxyU+WsGrTTdgv8+Ka+fw2oDs0vy1gRnp+tICXWNNoSatzfkOhv6FMXaC1bSKiiprSqv0OeHTLDOzjao85p8LyxWWsaKew==;7tyaYH0yP3vNv21Xa8J3+A=="
+secured: "UZKZ3+LsqxOkPkcjstxffUhO+JSKLM65lc7VYNbXcntHnLEd1EB+ze81Sc/jV0xCHE2oRjbPVqO+/c9GK93TuCdG6qYAAqjPVOf2zISP42/hKSCCzu64d3QABtadvDB5KYRFHwjmjYsPbHxr/d/65Nj6mVqWp/q3bwoKAzPGDya+QSLyfK2V0S31r2+Z2ttG+GjFSN17C6mNoEHlCG1EFl/2FFHPTlXmD3OIplatxAm8fUbJyTFnY/jr32prM+qIvXmiHvE7vUr6YjhcTswTMqXjTOliUtkvFmvfgSL0Am9BL4UQRP9qAitXhK6r4/1m0RbLBVa7XNq+RJ/qNn6X9g==;lNpTdEeR8HWejPvD2wZwkw=="
 ---
 
