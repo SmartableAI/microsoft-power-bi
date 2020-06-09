@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-21T10:12:33Z
 webUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-general-availability-ga-of-shared-and-certified-datasets-in-power-bi/"
 type: article
 quality: 92
-heat: 93
+heat: 92
 published: true
 
 provider:
