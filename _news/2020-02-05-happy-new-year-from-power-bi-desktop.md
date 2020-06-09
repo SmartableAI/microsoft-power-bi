@@ -27,6 +27,6 @@ images:
     height: 720
     title: "Happy New Year from Power BI Desktop!"
 
-secured: "z8rJTJhNYlEVf6D7Y/HS0uilyAeXagsBqkvZCcHgtTWOlK6wdBi2Gd2Ps+sjab8GD0ghcHMUY7BG5uUXlgG9FiDzs7oY9OLLqfXssUl/L4dex6KufTi3txZu01pjlNdnXMMhPiVdCK+SyyW4g9HtCDrSZf9IEdMZ41d6K2xJ+OUns8j4KqROmBinSqp/1i6RBC9uTzA4cCsxsPhrhaXEG/7OcP2vkBLa6BOrPAhAszXBfc+pBHMk+WVyqC722lYGgN2jwSFEfmBjj4tgEpFuI10egwj34TxTJKQ9kSSL5sCGe2aPlaxvTWTrqu/XBnEo0ywSoUdNNKZ4Oit/3m0juA==;eG15iaVh/E4nTcR8AEowXA=="
+secured: "nv4lSxiaHVkFPEZQE8wSNZ75MXfyTuypmNde2iNjrrxfogyjbyrzGGV37GLZSKmy2CQZihhlthGROFeRkWDegQ9dMKUMUkqLuy6d1KXwvf7zrtHSx+oNVu/zCScGgeaW6R+Pc1kVmn8lLs9tMjcQcZYbIQyEbmABG+0JscWTxr1sostZ5pAch2Qo0tXEcfgA3NiUYbCY9wHluB+GDnfnDj5u7DGH6xW0i87oHDkvSnaZu5hkVlTkBZxdvMcjfO6i7SklF+clVy2Z/JT3aO4HS/Sv2PwQtn+scUwGHVm5cVdzK5K3q2gB6UDaIU51zMuUgGZeczGjCat73rBPAHZq9g==;VwdgmKIj/oSak3OxXkZdAA=="
 ---
 

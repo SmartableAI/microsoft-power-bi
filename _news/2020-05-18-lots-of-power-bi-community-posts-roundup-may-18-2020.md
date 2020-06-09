@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-18T15:00:26Z
 webUrl: "https://youtube.com/watch?v=qaZkALLm3hE"
 type: video
 quality: 137
-heat: 137
+heat: 138
 published: true
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 720
     title: "Lots of Power BI community posts... (Roundup | May 18, 2020)"
 
-secured: "Jit7NaDiCDaGVxq2jaIgBnulXeek/jWXJ+bp/75+1CIPaVEprmjKGZ0uFOy/5ewfVsdwbjRw0FxdlYumYFJENxdWR/WslHRh/XM3VLZIlARLhM7E0jq2kbs0A0gnm2I4GtcVQjOYnhG0aptzQSc8tRjyk8eTq3FNAiQX3kKy2JtZK7qLDnimnwtaMpTtzLC1AFVFVO2Fw7s+seNJj83p6TxBriob/ExLKq+L2xDTgcxGs/BUimTkKQMVRU3HHortC0wGJLCgZ7/UhhhBoKdk2/8zx976SE+O8KKc2q/J+u/k2/+McwKoznB7j7fa8iFYBlnrlw65qAidO9KxL3brcQ==;eYyxPcwT13bdApJKKbXpfg=="
+secured: "Pd8akUQTe+yU0sGMyD8wOcl9TXTxBod0winhtMzKUtlgISSUPCDDnVtRRoHLmC/eaSIfGmBRmGBck0sPjsyPNUqsK2QDQMC/BY9pEirleNB7mtrno7XoDiz0lQ701pkztp28BOEbc80lEobPpIkKkrGpVZ0e8TUnVnr9TQp9eAhKyHvX4e3IJQFMKyrrjkvGmLq5TtUxvUTQjeWMAdoQNQ1phhWT5zVG8Z2I9jwamVdt9ZSaP5QBOfiXAODCvfncRGlbV03ZstTwiIxxA5VIAl5sXomtyHQaa6oWyOdM6C9/gBAKEj3smpG+jzuzLmqW9yZK8ApHLfv9hGZkrDfq8A==;O9a8asqKXa/zqZMeYTCHgA=="
 ---
 
