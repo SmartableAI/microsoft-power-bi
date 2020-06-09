@@ -27,6 +27,6 @@ images:
     isCached: true
     title: "Power BI Workspace Roadmap, DirectQuery dataflows and more... (Roundup | June 1, 2020)"
 
-secured: "TprAigDQAz5ZFS34VlsEBnBdTZgEVr3wnaxAJ4Mp5loVRlq5m1Dj5HZVz8ZICOPjgx0kGNTXn4mqnPfd3Nk17WRVsZ6gtR+8K3LtR3S/tRTJxsWlfS2NeKv3b842DcTlCvGj4CqIdpDr+dJqsDFsPiBNNtGxGWiBGzsG+RdciT4iE+7u/MVxkvB63Dmn/45MOhUcYVnljQi5PQDKVsj2eBY/gWtdse7e0OkrxQBP8wYGT/K/a/oh1nalFH2saV/4z6MjAsdj/HKtyBh4LPyAmlHY9RVl4znKtaQSUtZdZ6t0HYlQHIlL/iNzccuJCNpuW4G/BPKn9gJu1tuvD7zcZw==;i00ushO7VbwOtOGBjGNzRQ=="
+secured: "06+hxcpYTgtwOMrNP6SLf3n8zewgHv63dtzRECwVJxGg3uLd1ZSQIBe9Yk4B1jSrR2Uq1yZ28Gg3LY2jrGFT64/i+L64MKt3NTssur7DARKTowJrJ/wYP1f8uMEreQGViY+/fpklT4eHM5+aXiiydsTqflixb81Z00+48jULpGmwf+XJrsrGhncr+8914ctwoiK1sIWfbM2ugkF9P4vATwi2e5pWqaVEMjO1exeFlFjsGVE/UYMgx+wRqGIV0bR251TSICuwoYOhSw2gltPgQ0StjnekrBvAUSXyw4y0+aYz7gKLuoS7agWYQth2Mqp9Zv4Mu1kkr0KkAum/XDgdAg==;EcWVSL7WGgB+eH2Zi6IIbQ=="
 ---
 
