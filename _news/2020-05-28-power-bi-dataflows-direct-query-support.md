@@ -26,6 +26,6 @@ images:
     height: 417
     title: "Power BI Dataflows Direct Query Support"
 
-secured: "ROcJZ/BryL2jz4jZJPdm6KIr9tKg/kObHLTsVOkYpqRfLFThzVHnM4b3wwPfBN+Eq9+w9VH/zm3R+R/0jm2NsqxTEMb93Av+nV/t3rZd5rE1XSKg+Nph3zQ3HAEqYXprRD/9WhyAFBslSMH4evIyLu+3TWGYJCJ9n4eVibPeV4lqzTF2ilHF7SGze3OnLq6y2gVJ0QKdL+Bga7H0ALdV7qaGQuGohgyJMCHQwnclNgdpEu44mL/2LrrR3AQ2iuNzGp4IvBZ/7guVxXv2S0GaA+kOMb8Z8+vqZz4Xbrpv2JXTw1xS7F6z9McmE40bM5m8iQgsaTMqpS4Ly2LtYgNRjg==;O2SasWWvcfzSZC8j36SqsA=="
+secured: "4CfwniGDYazjufweMBC8wpRtyYKYaLBBY+k2GR4kUgHCy+1A/PyrXElcu2YYGZG6gkcEBY1as7zWDdZnxjf1ILplkZ2VQNvZNiMczpG+RH2+nDza0CqiWs9k6w05qm0jPUb5lUrDcnRcjemLPpZhyXTWpQ6RuT2ySWjZ5EWjhYrMeX9u1WEfEsCAkcaSA/gvEHQoIvdigVuTljPb8M4Vy6OIF4d0KrB6YqMH83poXAikpn8lr3/wszSSBm4dynzYXQ8OYNFGwbMXAFktUkYLY/Yox+a8MClQTbUGdp936bVG7yANR1rsVdU0fFePMdcyjRzoZ/SzKpHVgbmO6hoMiw==;TgR7B//2XjfKc7CSyKdcqA=="
 ---
 

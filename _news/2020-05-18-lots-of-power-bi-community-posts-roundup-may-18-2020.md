@@ -26,6 +26,6 @@ images:
     height: 720
     title: "Lots of Power BI community posts... (Roundup | May 18, 2020)"
 
-secured: "Pd8akUQTe+yU0sGMyD8wOcl9TXTxBod0winhtMzKUtlgISSUPCDDnVtRRoHLmC/eaSIfGmBRmGBck0sPjsyPNUqsK2QDQMC/BY9pEirleNB7mtrno7XoDiz0lQ701pkztp28BOEbc80lEobPpIkKkrGpVZ0e8TUnVnr9TQp9eAhKyHvX4e3IJQFMKyrrjkvGmLq5TtUxvUTQjeWMAdoQNQ1phhWT5zVG8Z2I9jwamVdt9ZSaP5QBOfiXAODCvfncRGlbV03ZstTwiIxxA5VIAl5sXomtyHQaa6oWyOdM6C9/gBAKEj3smpG+jzuzLmqW9yZK8ApHLfv9hGZkrDfq8A==;O9a8asqKXa/zqZMeYTCHgA=="
+secured: "9IAHt5wKPHGHZ168Ua8/DdQAxsXG3OAaxih4wI/oV4X9fKVpzXS3W7Ksq1xdLocYmO8GqlTchkS1isNRqYrQJ5ftIzxvomWnR+84y43akPxbofXlugbd4lKwbc5kQriApM14Ns7Uky8EVcTeGxwzuZ8qHMjPIXAi5esPiEo1NQedNiAddHMYevzPFFktONPJx0BexwY+h9w0r106egGMrK8xebA+5sojXKrO2W+zgZ7HeR+FE9lCGBrmIRlb/341/0ZOQYVXtbHDVsiVWtKGzQNjwSueLX+ktyK8f6teKxx+lf9DMIFfJtnb48ZNk2atdUtR9UzFcdw4sW2D5va5VQ==;x/Gmd3m+n1U18ixJaARClQ=="
 ---
 

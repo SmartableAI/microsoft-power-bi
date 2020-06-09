@@ -27,6 +27,6 @@ images:
     height: 720
     title: "Power BI Desktop Update - May 2020"
 
-secured: "7lgVJCAcIzMttdlPWShAgKzA956xZVbji/4XKU694yTYZLZf59LqByAUHEividP4KZXuaxdlV1Y8A8HjygdklXOun7iEyCLp7l+KuSbJOwdfJLswiHjcLsa2HHaxjy10n+VQLLo04OY6sGb7RjUFSeEdjpZ9Kmslf9sFqHyMg3YGzZjpooPWE1k7Aw9DALWjpGODq+1flEhGdxRkURZkVLDYSJfwuhiTxDxyjc1LqKbK+hY1BqQKEH+ptrAR43r+TYuN5SVsXTkLKUipf+/2YlEP4OoaWM2/uj5AlT0e5ktD+lN2nL0XmnJRVZzUTXbVnF9vEUaCPAngIjTgQqmqDQ==;CRHXPDCr70dkHGCk0RmlRA=="
+secured: "iPvxVOhs6GPm9dkvX7DU/vnFSWbutfX7EXhc9yxH0R+TpbXH6oWbYPOKWhYcBofUCiNbE5TISkrqgTdVcF/hiZ++YTL62+TF0dp7rGRFWlaYX7BjWiLkji5+G1K2vcHAq7nmEtr3+X6rzcB/y3Q/FQqjE4Gxtqv3zO/+Ipayg7o9dMRA7nioPzHev7pfTQBK0JTQUlVqZYnPqzjSXOtq/o+ZR/JF+L/Kkjn3n4Smmv9DwWbRr351orjWZl2y8idVygq01/RbrOWu9C5ulmziWGx+RKlEpWZBtvAOzC8EGZNUur8mFAhIKLvRmMHkjtbZLbfKYGcxX9vReBDqwQMF7A==;iJboanLtHXB8DXph+X23+w=="
 ---
 

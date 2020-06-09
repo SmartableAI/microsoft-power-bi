@@ -27,6 +27,6 @@ images:
     height: 720
     title: "Power BI Desktop Update - February 2020"
 
-secured: "5w/76Tj0dLIf+QEDQTGB57s+Fe7zmYUyb6tRhBEVPVOtXxABl+QJXIT10ZJBTIWvceA7dXup0ur7dIsvAoZbGfBgvB4UZgB8ASpb1bazhc1dk+XLJOMRLI/PH6mMUzBL2opSqqsmO+m2QUBtfXGcfjU7ZZQ/+IIfayyzWvqkorAh6cdw7YlKQO77xy5+RNdc/X66pz/0RwQ4500OVSI4LRfi9Gu0UX02C6go++IGFAs2jQ8YSC017ph7n2wprd2FclBbvviC7jDHt5jXGjYd3wrpnkWL6UaprqntzquyhpPtS3ImXyf6pNqhtnVqz5iHGsqaAnfP98x5VZQOsg+kTg==;WsRHOTe1oxAqaNr3LIQiIw=="
+secured: "z+qKL5AzY39Vsho+r8gaM+E7DG/VnCUJ24Giy4Tnc6710vqd9lsHrayu9vP6JbyhmEP0Ec4Y3tqbTmZANdGM5T5Lp1ow8SDrKEPmP9W+XycIGdYzrDw5cMlLDy89q9w23g4THTKaemduSGrje2EOj9YjiPXacVa33u3ayQHQ5KyZiohxUOkjR8R6g+HDZbXkFAz1JcbzfJzJwvwwHtBaVJst4M98bgbsPqBMz8v4lGjjkaw/L0cpmN+5cufQzZttgQqZlvIIwyX9zq+FO1P5l7R1oZuwZkAUcd+EXI6V2rGBNVV5LrBPw4n6xuW8yF94OPiNVrXV+CAtYHWuK2799g==;o8uGd8LQPv2lavYIqfdtRg=="
 ---
 

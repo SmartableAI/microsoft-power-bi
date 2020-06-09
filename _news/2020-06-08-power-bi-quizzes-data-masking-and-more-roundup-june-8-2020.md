@@ -26,6 +26,6 @@ images:
     height: 720
     title: "Power BI quizzes, data masking and more... (Roundup | June 8, 2020)"
 
-secured: "sTGYMCV34X8YJCs/30aDjRNToipZjN4duiO0feGO8JihCdQB5lkZBQjktXjsIvzqdq9j8sqFTCRLMbTT4oPujn1GlEgT+A1DD/UkxfG3+J2VvdglnSzbcYjQpL/OD4TZPqPzxcTzBCqXo7NE4TfbsXtrMkjqDMPKnsTkVj7+9KHJ3O0MEm6d3bN8a+5xkaOXTz4I954+tC0R+8PO9v5tnoS/E8dpFzPfHa5YEv2/GGMEApD5a6hx6CccE5xNsB3tA68rUZVKVRn+bbMU/IKtZxF7FifTrCeu8QmRrw31X/SmEoWL5HiqoAuzd1JqOUz6LgjhyhkrjMOZ/3MOCSOE6g==;4lIbJxrI4Mq9ZjGfSrNyzw=="
+secured: "JFl3eGmXnhPL3KpbvorxDwKDFgKg7zkhIzpR3cQ82v4ql4fhY71xTrvYDnkSB0F9XX4+jWTYl4BzN+xbVOq6CRe1UW70PHiryO9q1N2sPcEnUbgSrH/AaDM4Y0rUi34zr7o0vKlk+Gg8SxqNy7Ms/j7oGuL8rKIQVlwjcT68ATpbYeNRorlHzRJWUZSn1MRUh/NjheuYUKiE0Pxb9ZHVuNQeamdNNi84JC46peXdAPP1yvcjcfc7FXHAVwgXp/z9e+zEKmmaQIRnMYfEUdOQ5ftA3beyBVG3C9YRU6UPHnO6lcc2+iflIGWv+wBQn6kwqg5sYYUEI5cmfc8Bkz3EqQ==;dYOKfv4b0JnSRtNVchvAfw=="
 ---
 
