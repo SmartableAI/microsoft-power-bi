@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Power BI Desktop Update - May 2020"
 
-secured: "VOcgCOfzIyfTBnk35Nw7JS6mYwEUqGxUbLRnyJylB1wRIu8gGdfTzsd3aCDSi6YMm+rU+qGBPwPTAqJo2qisuqNRoNnUaKhxKEV/5rtCBB9qVmHnvi/zi05sV3hnDab6l+UVnmYlGCgyzgBEa5SvacUKt5eHJij5Dq0TdC7or+deFlEnf0sM2Cbzp0hQHnnkU3rRf+D8s0jHWdPOie5+pKwv9D3YHkH4c+Q6jHxoTdzbelwK6rhtDI9rAmVD2gdO+Co9qMD2KYm0DKRLWEaZZIC3Bs9iOZUGoF38/YKFgFf+fQ2ttf9DhGnDTfG7Er2EDGXr/Zr1F2eeVG6pMJSy/g==;/VPlmOoB0uPs03tW7YX2dg=="
+secured: "iXQEbJp5VdNNX1rNzYwEsl38y/cALO58CevlIf1LEFy9EH8Q+6Brft40mSA12A9EI+TYiiGuBe32YKt8Q6D5BE+yHZo8oCf3/PSVnD6AshOYKzhz7+AjDRxEqGrQjJNszDTk/jBKjdiZ0YAj5KPz9uEecLhp6BUASMubXgS5Pp41ZisUjuyPE/ldG8omfSaqGvabxq+7XSib4TthuGNuBIHvG+zMnwrqVUZ4wOSHKd9ZQBSTYiKvNGJOEHpuEazhw/KkTBvDmlMiBMTaahZpVuJ2LhICMWgHOhTtKP/YAV4xdmpbYI4a1PS8qYD6lFp96TG/uf4kJGDPvTOB+1DQVg==;/j1nUS5I0elPjYheqbysUg=="
 ---
 
