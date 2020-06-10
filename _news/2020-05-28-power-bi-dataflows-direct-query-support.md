@@ -27,6 +27,6 @@ images:
     isCached: true
     title: "Power BI Dataflows Direct Query Support"
 
-secured: "OoFrbthAO0Cxvv9LlWRvyGuNUBHSJ/KOk4vw/S6sPNEXZ/QWlXvydsyw4rKOs8yDHBhbE24bl8iwWmDhjQmFL0sXqGyJjyosKnvtg/VH5rVYo/ufzwYPGnY/8dEYEcNcFbbe/GQDSLkfAE0KkFmNCme+S7zOgjtzYPUiigphoanJwPqqliYGUdLRgSxa9kYHNO8EUXlvArmO6KIomXMsGRWY8m7X00dclS+OC/KrSJezcf36HDCZcWFP6/qTDj4zx8+SFxS4IMMHPgUgW8o2pEJEo4PQc3EhJHU9r5eMJAuDAIN16OnA1VfoUDYO/QFjPxEavn1tPo3yaVIevDh+dw==;/Hl6RDYu6BV8vUvcDnNjsg=="
+secured: "NNrst4HCqrtysjRqN+kMCwj8ZQtwutbMJJb6xzh3EPxubWxXnXKUPPnuD/LLw5m+Y6sh9mHpnQjCuGsAKJ6i53Wn03NOtqj63aRkIRPKSrkYXpk4HHI4rmEqb5fDKLHKvraK12LGIULlSUUkTNGNdDR6qYGw9VNcN6d06YCOV4ILH03zgMncyBBF4KDg91uCbM4rSrlyjmAR+iRc6onXZA0yaegpfURQN/3q16+yAVYQgzgoSgcJsfL/EDxfwDAayBmzaj3lsA8dFQKKiLw2pE66Oiv53fDfU+Sw9+pdbtTDAhmqgtYK3WPqnRCuYDHVriSxr6h58kGJOjkZTI54EQ==;jxbozRUG6E7ip0RYE49dSQ=="
 ---
 
