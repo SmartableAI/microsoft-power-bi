@@ -27,6 +27,6 @@ images:
     isCached: true
     title: "Power BI quizzes, data masking and more... (Roundup | June 8, 2020)"
 
-secured: "5VzkEFWvFxqbfa3oWGIvyUKfNjkQAclKJ3hfxJfpAjGDWYy8h+PHN+KcKcE7FxSoHZ9nnOyOJ169ba/0NovLHBQXXMtVcMOjFqUKC3e32VuInawWRDLQ1gkpObmRZ+tCywaV6cH36QjRsQBrPXy0apoH55kiJjs6MuJJZoX4ZYkbv2sSHgB9rQ/+/syIBYD1o+labQF6hvxejSLvk7WM0epla+f6n46Fwtq/NT6bJQZF1BXf2kxoAjyisLrFbsPiZIAoi2EiPDcu4SBaQjCiNvviTXrR0I03uzq1+jNYSLDH901olyCKUS1WpLDZT2DLocqhjX4MeMrbO26GJGsFYg==;CW9KjS2Wo8mgwYwLVZ9XzA=="
+secured: "QAi+1gMgTcX3tuaAcTT9aColS7GtOch54WJHCoyLHBhY1PLN0N85FNrVchPNaobLn8oz4b30Hnu2GwfZ/nGTlk0lpIsXkYo28Kh+NKmDjQxTZxrhLeUDx8yj4mauv+PoeohbL0f53rJmEWOXSLMbcOty/WHSIF7DnL9xvIGerYRaOK7gEW/+xow25BLJD/Gr1wmYaJDLJ3yZFUWzuak7ExOrNSCjRmAulUPoRnej8sBEkw+noEtJ1b9vu9Yc2yYuucDxQGQnP+sPvUjYfbCeEmzzraF8wH+U77vsz/77d6qD4ctOKjPQHIu8auSul0Q3gY/aFIi8JsgDjXDjxXi0mg==;9lGHOpw9dy7OI1Yl6GZ+eg=="
 ---
 
