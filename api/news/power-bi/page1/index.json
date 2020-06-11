@@ -2,6 +2,98 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-11-on-premises-data-gateway-june-2020-update-is-now-available.md",
+      "title": "On-premises data gateway June 2020 update is now available",
+      "excerpt": "June release of gateway",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-june-2020-update-is-now-available/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-11T03:19:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 418,
+          "height": 417,
+          "title": "On-premises data gateway June 2020 update is now available",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-announcing-power-bi-data-protection-ga-and-introducing-new-capabilities.md",
+      "title": "Announcing Power BI data protection GA and introducing new capabilities",
+      "excerpt": "Last fall we introduced industry-leading Power BI data protection capabilities in public preview. Today we’re happy to announce these capabilities are generally available (GA), along with new and exciting capabilities we’re announcing in this space!\r\nPower BI helps organizations empower everyone to make",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-data-protection-ga-and-introducing-new-capabilities/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-11T02:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 418,
+          "height": 417,
+          "title": "Announcing Power BI data protection GA and introducing new capabilities",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2020-06-10-the-theme-youve-been-waiting-for-8211-dark-mode-comes-to-the-power-bi-ios-app.md",
       "title": "The theme you᾿ve been waiting for &#8211; Dark mode comes to the Power BI iOS app",
       "excerpt": "In this week’s release we’ve added dark mode support to the Power BI iOS app. Power BI Mobile users know that we’re always working to improve our apps and looking for ways to provide our users the best, most delightful, and enjoyable experience possible. And enabling dark mode is one of those things",
@@ -1283,100 +1375,6 @@
           "width": 1280,
           "height": 720,
           "title": "Power BI Desktop Update - August 2019",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2020-02-05-power-bi-desktop-update-december-2019.md",
-      "title": "Power BI Desktop Update - December 2019",
-      "excerpt": "This December update is packed with several new features! In preview, we have the new Customize theme dialog that allows you to tweak common theme settings without having to write or modify a JSON file! Additionally, we now allow you to export the current theme as a JSON so you can easily share, reuse,",
-      "heat": 154,
-      "tags": null,
-      "type": "video",
-      "webUrl": "https://youtube.com/watch?v=eCEwgZsVUOs",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-05T12:18:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/eCEwgZsVUOs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Power BI Desktop Update - December 2019",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2020-02-05-power-bi-desktop-update-november-2019.md",
-      "title": "Power BI Desktop Update - November 2019",
-      "excerpt": "The November update has major updates in several areas of Power BI Desktop. There's a new, modern ribbon that aligns Power BI Desktop with Office and adds more functionality. We're also adding a new visual, the decomposition tree, which is one of the most requested ideas on ideas.powerbi.com. AI functions",
-      "heat": 154,
-      "tags": null,
-      "type": "video",
-      "webUrl": "https://youtube.com/watch?v=kVli3Vm_kDo",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-05T12:18:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/kVli3Vm_kDo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Power BI Desktop Update - November 2019",
           "attribution": null,
           "isCached": true
         }
