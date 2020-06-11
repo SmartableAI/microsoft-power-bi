@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-28T07:00:00Z
 webUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-dataflows-direct-query-support/"
 type: article
 quality: 97
-heat: 99
+heat: 97
 published: true
 
 provider:
