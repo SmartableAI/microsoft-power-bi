@@ -1,11 +1,8 @@
 ---
 title: "Building datasets and reports in Power BI Desktop"
 excerpt: "This looks at the different things you can do with Power BI Desktop. From identifying data, modeling and reporting."
-webUrl: 
 type: collection
-price: 
-length: 
-heat: 
+heat: 104
 
 provider:
   name: Guy in a Cube

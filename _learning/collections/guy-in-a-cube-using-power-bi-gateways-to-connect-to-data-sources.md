@@ -1,11 +1,8 @@
 ---
 title: "Using Power BI gateways to connect to data sources"
 excerpt: "Learn all about the On-Premises Data Gateway and how it is used with the Power BI service. The Power BI gateway can be used to refresh imported data as well as allow you to use DirectQuery or connect live to an Analysis Services mode."
-webUrl: 
 type: collection
-price: 
-length: 
-heat: 
+heat: 132
 
 provider:
   name: Guy in a Cube
