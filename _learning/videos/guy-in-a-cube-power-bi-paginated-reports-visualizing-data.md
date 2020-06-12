@@ -1,0 +1,31 @@
+---
+title: "Power BI Paginated Reports: Visualizing Data"
+excerpt: "Paginated reports in Power BI are now available. Now that you have data, Patrick walks you through how to build a matrix visual within the report. He also looks at how to work with expressions and formatting.  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com -- http://twitter.com/guyinacube --"
+webUrl: https://youtube.com/watch?v=gleYD97WScI
+type: video
+price: Free
+length: PT13M41S
+publishedDateTime: 2019-01-09T14:20:10Z
+heat: 50
+
+provider:
+  name: Guy in a Cube
+  domain: guyinacube.com
+  images:
+    - url: https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg
+      width: 50
+      height: 50
+
+topics:
+  - Power BI
+
+images:
+  - url: https://i.ytimg.com/vi/gleYD97WScI/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+    title: "Power BI Paginated Reports: Visualizing Data"
+
+secured: "qCZ/h+NjwSm6UNr01b3T1ppEkTh1mf7lwh5quI2gjrg6Mp9+2+0SyrbJ5vPg4HDZ7+R8XwhVClVlNXVutPGllMYEbccG9Npgrnvlhdi62AMZcyc4U4+T3GSwXegoQ49JdBgX8Z/nfPv5fFUn97O0QvWKlIuJaKZZvBgr+SesChmKA4BPqI9tJpadaJSn9GfSwlsIn3ULSvrxWgWCMvKstAoaKvkt0ezVf2p7AHEAlSLu1Ixg89wKDifg7XI8VkI34y/BerFsggBofmngMZEkqftowMNeNy1lb7g5ZBl0rH1qjsmrAbfpkduOfgQmI19Bh2fmhuekUM+7sXiKRznGEw==;rS6baftR14NIs4FP6BWnSg=="
+---
+
