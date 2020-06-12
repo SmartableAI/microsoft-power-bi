@@ -82,6 +82,18 @@ default_event_settings: &default_event_settings
 
 
 #----------------------------------------------------------------------------------
+# Sample Settings
+#----------------------------------------------------------------------------------
+
+# Default settings of samples
+default_sample_settings: &default_sample_settings
+  layout: post
+  category: sample
+  permalink: /api/samples/:path/index.json
+  deleted: false
+
+
+#----------------------------------------------------------------------------------
 # Customer Settings
 #----------------------------------------------------------------------------------
 
@@ -119,7 +131,7 @@ collections:
     output: true
   learning:
     output: true
-  projects:
+  samples:
     output: true
   people:
     output: true
@@ -151,12 +163,20 @@ defaults:
       permalink: /api/learning/collections/:title/index.json
       type: collection
       support_paging: false
-  # _projects
+  # _samples
   - scope:
       path: ""
-      type: projects
+      type: samples
     values:
-      <<: *default_project_settings
+      <<: *default_sample_settings
+  - scope:
+      path: "_samples/collections"
+    values:
+      layout: collection
+      category: sample
+      permalink: /api/samples/collections/:title/index.json
+      type: collection
+      support_paging: false
   # _customers
   - scope:
       path: ""
