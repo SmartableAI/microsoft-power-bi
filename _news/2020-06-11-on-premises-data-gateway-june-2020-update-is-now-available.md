@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-11T10:19:15Z
 webUrl: "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-june-2020-update-is-now-available/"
 type: article
 quality: 82
-heat: 85
+heat: 86
 published: true
 
 provider:
