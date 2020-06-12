@@ -5,8 +5,8 @@ excerpt: "In this week’s release we’ve added dark mode support to the Power 
 publishedDateTime: 2020-06-10T23:53:10Z
 webUrl: "https://powerbi.microsoft.com/en-us/blog/the-theme-youve-been-waiting-for-dark-mode-comes-to-the-power-bi-ios-app/"
 type: article
-quality: 92
-heat: 92
+quality: 95
+heat: 95
 published: true
 
 provider:

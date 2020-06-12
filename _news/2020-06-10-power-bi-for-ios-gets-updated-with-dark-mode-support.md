@@ -8,7 +8,7 @@ ampWebUrl: "https://www.neowin.net/amp/power-bi-for-ios-gets-updated-with-dark-m
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/power-bi-for-ios-gets-updated-with-dark-mode-support/"
 type: article
 quality: 97
-heat: 97
+heat: 98
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "Power BI for iOS gets updated with dark mode support"
 
-secured: "5XBQAAaEo5htamgD8trxGEs6EiXDhevbkGypdqO3ogIxRffO+QiadBD6ItLbi/Av1r4Grzj1ynO9GceKm1Q9P2bE1zlpfgMgQ5DVWEfGfKnqtMlmodWvAlPWvmoNsGs85TsaIcCYnYOJM9wVlMqgiqMn88xaBAnch7OmvQRoO968r9Q/ojM6RDJ/7Ddi1P2SAYBopt9GdhoiZUTT9E39xxtuX7wnbYwqtJfaO2ZhgcWOEuxYHqYpBkma7bbfqrSAvsRETonvJqKWL/9qSlfbkbRkGTx/gfrLmHyLiY8EyRqW197HrgLA7jcDalXHgkNWGlfsi8QlSVI/djODwT/81bw0PMWZbHFpotH1xRyiH6d93Ceb2oOGuWOalDiNQFu9flBCT9ajgU3B/dlAOY8g1ikqsaH+0cyESdshVNreYgiLfnaNKM2SVm6ajGpgk0Pk+nJwhYvu+TfubTCGIYTn0Gx1l66hqAohdhUFzobUbyAGMNzY59+aTjVHOppzfgh8;dbi0KgjI7Nqpf/3jD5S8UQ=="
+secured: "UWvzk6sEvrms0Yr3sHjBfV/W029YWpYi5cJI/CyHbgOcg0Blt4qo5BBnGZS3BdKDyci5Pr2GpqRoMALeQBhkWo1xCeRrNA+4BZCkrhy7UpiFgTPehAGBE3DGhGR1Eb56Yw6IWaxNU/20AtQXU4n2qrsCv14zfXjDqnH1cgp3GobVM/eszQUVovPi7eyRrDHH3exJUKq5kDUSfL+oVSqRctfLXF0ouhZ+wRDqAzrXkHuQQS7uBfS+Tv8A+TnqpIneFtmrdSWRluyV09MWzD/q8ub10s+I3Ztog8IOdYqL6BMFpi+QXd07ccMkwRVl3OcIuKUAmO7n4l27ZwmCln8VFErO/YXbhXi9au+JEGExUQI/YagsYd1+4uPLnSEMkR7FFFHrPSWxS8jtgVFqlNWHYjIhea4OBAaJJ+NU7n7Rzw6REFTsFmZt+ho972A3nm83EoAWus8SF3tQ5G7hRfk9l/v8n97RfT6zCUtTBvEEkVnhMJWFuwcwU5UJ/6uGaI8H;1G+K2rQsnfH6J0CvCzRhlg=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-11T10:19:15Z
 webUrl: "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-june-2020-update-is-now-available/"
 type: article
 quality: 82
-heat: 82
+heat: 83
 published: true
 
 provider:
@@ -27,6 +27,6 @@ images:
     isCached: true
     title: "On-premises data gateway June 2020 update is now available"
 
-secured: "SC/TA63DryqArxwVqO8PgVocj5kVGgyRUvWoXG5AamChttmMgvLHRtiN1ZStxU9kmFmw6+m7jkJnSN0O2/BGcHRXO1GWAC97yVmPa3urLIYKjJhkD+TRsr1bAPCASmVCzrk9+whAJC83mlujyK2B8cnR1GDAgTLGrfe3L45GpAeAPunlqXohNuyx669/f2lD0/PjUDOpTAWOyTmkeKj+PRTd3CS5Zhrm0QAfPoD+WXy7QlljVYa3J8qeCa8+sUPxebUu22QGqWDa7WoF6X8VQGt1GXk13fD8Fkn9zxgO+LpQ3iKKvImWUL5KExb78hiS+ArS4fuzlxoV/gHCE9VKtA==;HzJuK2qpR85q2gcaUYbvng=="
+secured: "XfgO60bHV4GsXRl80GLFmdjaYnS4gQfQfEs1Z5KxrvYhhjcfSoR8RRbw2EFfDDo6J5xhi14qOqGd32UOQOmkQmMTEeDm8AXgy+gFf3HziZm178m/KaPi0EtmXEMmmhaSEuAh3ApS67NB40o1/sVzPQSLEAm9trz5L9MuZTzDjvbDnLP3+rW0OnO9ei9spNzBqa925hMKEfMNd6oEr/iSFUexC3FeLQfERy2DJ2z+CLBGwwMqKHFKFjFvry95JOfCHb9dR8SChFZjZ28600Aw9bRUD15yy3TsPxUBlj17HUNEXvp6bdhOS80hgg0lQEWFYxFMdIkLJpCPXr9QbHsxvw==;Gq3Q9OklJUD4Wa9IOOa/vw=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-08T15:00:10Z
 webUrl: "https://youtube.com/watch?v=876kLN_vBJE"
 type: video
 quality: 137
-heat: 143
+heat: 137
 published: true
 
 provider:
@@ -27,6 +27,6 @@ images:
     isCached: true
     title: "Power BI quizzes, data masking and more... (Roundup | June 8, 2020)"
 
-secured: "96A1sb2o1+xQj5mM3bzCgArJeJDgM8mzrZtH3qkQvpbJRs5z0WhP6fwMx7XIN9x813C+0NzoQ7QFyWBgXaxZyoGEkMxhy6+JqB/kWB8GuvjXPg6We0ZDHt/Hjwwrg0WBAp8O83NFxCNuE7UGpJRO13JiWgmrm9uHyWe2H1AqUwg2/+iqcnedxd3bbXe2VZ8/iHvYSOhd+KNi2WbG+QqGOT5JPWwYr16TpZ/WtvSKzodiScZDkvFGSFBX8+B7mOin42v+KLBbgCU+52VaEGMD9metivdtZXGGkSPe7ER1cz68HTPAf3hQoeWZBZO7r1SxeMElbI3sNVtkKQA/sNwLMQ==;0cX0M8d8DJSq2L1Pc9sgMw=="
+secured: "LNKZtP5FJgJiPvUc8SB1NArKqxaUPWS/19KdAxSWh1l4NmYpr7jWoQzT5fB+/ZHu4eZmFlh/EX72Uu9YuYvqHpJBG4LubENuSfwGC4ooBYE9JKK35euVvzi1knHgIP3oRiuOtXLv5CwCnolAYDdNO63FtBAKkZQ52MAaUc8fT9pFk6ij3uOPet1tVubkKQuW6A+9kb8X8juOrVoGXHEm2rlVXXKwHKp55E5tj3MPMFBLWAUyhAzJutKwUJ8g18EL3Ot9WwVDE7mqgkPViRwUY+tgyArMtSbB5vrI/AQ/C0rlLyClQDStWv4J0dS29KFLaoURNdvdNmNGn/XShTlS5w==;2IhL2OngSFFUpxy/Oi5b+Q=="
 ---
 
