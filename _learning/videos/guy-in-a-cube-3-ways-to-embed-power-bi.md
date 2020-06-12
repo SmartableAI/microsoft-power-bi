@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "3 ways to embed Power BI"
 
-secured: "yhjDWMdkS7WDrZDLKBt7P71N722xOaBVmM8UCdQup7OzNW9N+HYxW/1LDBAMnFTJKU1sZe/fgsMOxU6/mqP0le1rZ8vw41OAZjk/gxKUpMJfjOPjXRCpakYHqyt/vhMHwtRqcCdnAlDOyH5zwRCgEuJC5j0YZHI4EPp4oY8XmNiHsya3WwpnJolQFd7i2A7NwWvku0DL67trbfKg+9iuY7LHgT9cmxh2LhtGLQxegsbqQ7yOHnJX+/mkZh3bbc3wm3DAYurcpBunK4y0TzNX8htzCMukGYEFetTJOvazRiMWgfQGh1PivV+x+dTNtlZD0cbgrMus7kZiCxoMIIaHzg==;/YHE028XE7TUkl2bcR+y7Q=="
+secured: "eT8uuC+RVyXyvG6GhrAjOtkWTUbQ3uWDlkZR1jZ5QGVRWKsytYBCS8+MIIb86DeB7iK/7Dv1TeIlmrHcuxCFuGHDTZCHDn8StUCZKoh/lcZeBJP8QxraaXu5i9kBxUb840P9zLqP/32VZJ++GQalMcQ/TXyl8m0tvS4EWCsYad7XGOVNiPwqqqh699UtvJnDd16MT1paJvH5avatxeBDZ1aTDy3uAsbFEIALkGEov8vggdcdriFEzd+VD1Jl97OMSNwNjsVVTpaR1SG1LfTEslWT6JJ9hv7PHV/cO9Ei7ve+XcQ4eYom/uvYStu/J8dGQuGUyRbdLPbGzOXWsKEU0zJpvbfrjayGm9CczK3jfOY=;WjOa1igPtVyJq/uoa5JSSQ=="
 ---
 

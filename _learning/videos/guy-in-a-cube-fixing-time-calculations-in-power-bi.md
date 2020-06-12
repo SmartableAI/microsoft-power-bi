@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Fixing Time Calculations in Power BI"
 
-secured: "UDCFN51X2mGvppX+AWJqIywWaxStoKKyQzJULXBDYa6uxV8waI/lNE6ypzr69TL82iTWfnGPwjE8iJfhRdULi35zXGmR7JvMEIoazKUD7VOdxpjQacA7f5FlGSEKH1823dSX54d/T/NX8ts8fWQJV6Zvl0RSezs6oN0cdn/Nnc0LgDqJo2iuES2c0m1dWjNQwIc6H+NedBkU7BXGoKAOecLOQK4L1FqMErO5nA/LTrH64QX5T2OPdqy6IxN++T0FCB4/ZNdUzfRocIpjcYo03Wlgk966ybCIwv7N7sk8+XqqJ4wrajWr+vnrBSsrehyGlvXKkYWCwkFk4kodbcozSg==;maLrSISYI5XYlsRYVn/DYA=="
+secured: "bfemFPVrpQUvb884rxivOzCdb+R2W7Cm1lUWbz7degzQ6whXDl0CsfJbnlArNdTDSonmBaUMixSIZWh1p0vWgplqDMbWl51Oh3/dym/1+DFwYDVYQ31jSXmKtDF2/qtJoyAVo0jpENnib5/jkhV/7MLyTvLJnXO79dLrk/UbkvQmtD0Hve9MRSWXb52j9JyGbQL7OdSX1Y8xGWNM88oZpwEvOsFLvvVsGoIWJnxhoZUT6RlZy7/ZE05HCBDkeSJdx0l5kf5uDr5Kd8f1khRAtimZj20iB2ZbaBxmwwTAACDeB4sQiru0SdOooOpkOO6uc6Aoa5kmTqufTlYGBwRUsA==;TohxdG6iv1rIx99uwZ+VKg=="
 ---
 

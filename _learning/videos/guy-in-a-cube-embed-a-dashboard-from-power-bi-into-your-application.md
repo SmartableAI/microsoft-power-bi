@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Embed a dashboard from Power BI into your application"
 
-secured: "bs0XYbT0AB9eqOjwzdCKjp1GnwvbwBnjVx1/yXepss6qUyvwzY9nuEkZMfe/ngtBRN6qjM/MUO3/G1klGZNc0nn5m5fgKbFGU7YcHAapp6O+Mq77g+/1OLywjQgo/CVN5wfnolwxdv7TD2th7BWCEESjx36vDqXct5qTr/8CioEDBBq1bmB6km4l+P0BJkxR5Mt8MfPMmkJbrUCet7wgcaxwvROPP8IVKskgPy0LZN+GjrrZur0xjB8hl7wBZI4348QHvSZ1X3/VWkPJH8leVqsGcSrOYL3hdqh/xfCPms2+4OfhsAoQEZVhvkxSXAtpzMW15vb6is+9guyN9K89CCK2903ek9+aNP+4j2X6PVo=;j5QjMVKcFDwyMAS7lDbdkw=="
+secured: "003Yy7I//Lio7o+1KU3KpBM3z1NsaDAWFKDhY/iwKsh5y8YevHCXuBWHA2iV0jy7U7N11uf0fUEkcv5RrKg0vfQsGDo3x6CGUf9445yEBlAzTvVRSGtpvRM3rUXuggmZbAXcbQrOkgOqza1NJr7LAtCqCEQYOIyV6oLnuJh/XGlyqAU0itZ1okc6RCbozTwoiFYNkr7ASAHKMwdv5p1AD0wA+O3BPOP6cDkb9XjnJMnd5WPlL10NvrHujVJOV7fEt7UZnubV6AOQU0zRIPSX+GcNwfY7hlkObuotfiVopHHzDL2n6Mghgy0kirMRngRZKlY5CDyx2fJghl8GKk8PjQ8BsTY3H8bxi+/61YYlQhU=;s4vQb/Uu52y0ZTaj1rIkcw=="
 ---
 

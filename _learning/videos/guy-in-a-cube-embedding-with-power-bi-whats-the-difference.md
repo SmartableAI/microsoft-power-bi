@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Embedding with Power BI - What's the difference?"
 
-secured: "F9uOxNw0asjN4skhADRT2DvTAnqNA7fD5qSewDZrOObiGCYVTXHEyaNekA9uapV1JzBm3SD8ShANY/k0ku1XHAO+MzOb2jCVv7vYyZuhanpS4FQvCNYGBMfge9CimNRbfPkU8JiPtk4qCG70g5MjGFbzDAbfpIpiKUa4YN8ow+AAvB8r23KTCnrOLpzbf76NV+QNwheM4/KLegxzn4ARrUsN14cYEJtxlX0aV2Wnr1a/eBzJV4oFjLdBVQ9ett+pjIBKtrelxgqiGPa04H6UGkjxNv5ByyYsRm/IQ2HVOSHY1j0WN8CLi0Z63jbK6mrQjnePjOqQ9XquVEeanefR1A==;bLd2SNiqbXVrfUwT854eag=="
+secured: "H2DbqTsXwqVAxzgiPc92lt8dsMmsqdJRsICIfJer1XCjihrfCvPRx2XksGxnf4mrkz/DlByNiZpNSXWa50iZ2zR9hPnwtFh+hBom2TYA3pbre100oC0yQ5Rs6faO3zJmDMkP+88/BXyuPH5sCu5RZAX5kTq2Omawz4UO2RrOKQL9U1eOjGAW4HwRQhLKmMoRuljzgy+t7PTgTBWjEEd42cUT8IO9ttaevJdGULu9b2zDoNCa0ZYFzuuNH1XP4tRtNlh+yyySwYg1ZNruhpfimvtQ5zM+xcnZXl4MJByJJbSiRO9NzWh6p9YmBumdopZoLhm9HLvtVZTg1Rq4399eZw==;LW+a46ehCmeiCJt1yYRaPg=="
 ---
 
