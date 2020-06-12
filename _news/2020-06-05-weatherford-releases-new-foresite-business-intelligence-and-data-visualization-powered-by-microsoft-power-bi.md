@@ -2,8 +2,8 @@
 category: news
 title: "Weatherford Releases New ForeSite® Business Intelligence and Data Visualization Powered by Microsoft® Power BI"
 excerpt: "Before it's here, it's on the Bloomberg Terminal."
-publishedDateTime: 2020-06-05T08:16:00Z
-webUrl: "https://www.bloomberg.com/press-releases/2019-08-06/weatherford-releases-new-foresite-business-intelligence-and-data-visualization-powered-by-microsoft-power-bi"
+publishedDateTime: 2020-06-05T04:46:00Z
+webUrl: "https://www.bloomberg.com/press-releases/2019-08-06/weatherford-releases-new-foresite-business-intelligence-and-data-visualization-powered-by-microsoft-power-bi-jyzpd2en"
 type: article
 quality: 37
 heat: 37
@@ -20,6 +20,6 @@ provider:
 topics:
   - Power BI
 
-secured: "eLMh6I7imrDklO1wUURNZEcpQjbtjpaWOiX+bU8KUlB4teZ8JnDaym5oZJni7gzWTrYpwINknjVHQMZaYwttY9C4V34qGryxY9AtJV9ahsPIToMR1Sp6omf6IB1gCOZRUJ92A7fy6ttisiUZsHsqvuSUAFpbv4ikJNgu1wN3Iltg6rE3X/1j1nE5rHJz0ffEkrMYtXdsYhbBj49E2cwgQ2A06MVLgUqXcSbUs56cbdBKo7/hpgOXOsWirjFGD7wYZQLP0koQd0f4y1+4Aw/cYXCbPGb9PfTtQ8Qr4RaFrfKMo+Dwi7dmW6gba02Tlyt6;iB+xxglFS68EEm+o/lm1Jw=="
+secured: "pWD5bdnkUNbQodDdSvBZOs6AVkh/Ek0mUaviw0I8v5GXVQQwRBQFdbKtvL+qieybZE8BeA7VrgVtm4t4pFNrihtJlip2ioysa2xMqRPJUsfTOjH+7GbTiSq66wS8fC+5H1NLFY1MYv7ECbMWwpcmxdp/KwgFAYAP8axn3XUMHKidTG9KiN3sK0H/Gy2VEWbctv0fR10A+iKkyOyk10cWaJglSATvtPU1NRYsgsEepmi/eLgTA/dMuHK+F9AhFGsLjo4Ol3O2Mq4IjYR5dFmKYWZ4X610aKuCUz4NoqX8g97lH2mYXNib50Fydhs3tBAtp189zWDo/rit8zpqmHipow==;rddthQDY665G69O18c1nvw=="
 ---
 
