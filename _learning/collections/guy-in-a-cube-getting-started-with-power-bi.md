@@ -25,5 +25,13 @@ items:
 topics:
   - Power BI
 
+images:
+  - url: https://i.ytimg.com/vi/7iUqMA2Y6xA/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+    title: "Getting Started with Power BI"
+
+secured: "jvzFMr+iogrP0PYkaO2r5hjqlOx5s3huf2cOPuV+AtvTaieaQskr7E0/vTBxg1PKHJXG3l5jj9cw79njCQU2LVKpJ/L24zgFTUABT6D7AYG1JWzL1IFmTJZtwqUeT+Fe3Bxj54GketRSgsA5spnxh4Az6N1ERd0AOdUAcmAdKbCdwlpclcbLAirxjj6v4l8vd/DItIyV0z/LiWkYUthrK5T3WHoxvzoUwyAgmHDtML6EOtGjbsRJOQ14TLq6GKqgpjJWpOAFg/yrakdaGWRpqPdOUbfGYMJotDqXsTUP94QC2SRAR7mU3xaE+iU8tG5k1dM6FbHiLo+LCu2o+zWaXw==;zomyPMsZGt3+7xBW+zPxrQ=="
 ---
 

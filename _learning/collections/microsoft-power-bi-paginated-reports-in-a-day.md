@@ -41,5 +41,13 @@ items:
 topics:
   - Power BI
 
+images:
+  - url: https://i.ytimg.com/vi/DN1t5p9aui0/hqdefault.jpg
+    width: 480
+    height: 360
+    isCached: true
+    title: "Power BI Paginated Reports in a Day"
+
+secured: "sv9UfWxzfWEnRRZ8X3hs7jrkM1Ty6ej26Z2PPTh5aKqBt9BlzTkrFbh/RFFOj/3IumGYr0G/6P75y3BPp4H0FndaoxxbqCrojTBzMnMMyImDj6QIC/TKgUMiGOMo7JRoX9Nya5Gt5JXWauyiXlxdyP6YfGyVYMm1YlIb1qis9ybwjqdvWQQhK7J0X3CQ/8p6T8ZrL2Ps6jjBCLV4PmN8UmJVRhst57kd8pjZ7XfzlsasS+9I9Xnl7wVMlqLkcewfyMqTzRxWv7taoLw4AkIZQ+O349GOCPDIVzAvXq1amQiOHksevecFVB8mvyhyGWOn7CR+YQRS+HXH/xYLRMUpdQ==;dmi6fM5+ZLAvom94ejsnEQ=="
 ---
 

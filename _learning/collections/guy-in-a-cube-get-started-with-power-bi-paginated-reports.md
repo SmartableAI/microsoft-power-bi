@@ -21,5 +21,13 @@ items:
 topics:
   - Power BI
 
+images:
+  - url: https://i.ytimg.com/vi/TEIdI5bFCSU/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+    title: "Get started with Power BI Paginated Reports"
+
+secured: "BbZWRijKq7Ur1183+s/93heD1jLe3c4+aAi47FfTcZhOvjP2b7giGbraq5wgtElwcDIDhtSzqTTxD8spGBMR0YHASemkseq/KafeNW+ypBCjCFVVLVuHjo5sfkVAQDQIJ0nxNbACAtM1pVog0q/R6JmjxPu0ZW2mSdmily3K8A61jzElZLLMkrNjHdbtmmSyHGLekqRWNwJUQhQclZaN6DnY4t7hG7bFoK/HdSfo6n4LeQH8NBJemOkT1n5+P2quSpg4uxufhT64/WF+pkMwtPUpjoAHgr309wr5pCiq0L8UryWTvvYxJQoX/mEn+m+PmT9WPA+Nua+Jjsto7lYMMQ==;HsMKz3lH8sojXnx7PAT5DA=="
 ---
 

@@ -30,5 +30,13 @@ items:
 topics:
   - Power BI
 
+images:
+  - url: https://i.ytimg.com/vi/sbPS3ZKIt7g/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+    title: "Building datasets and reports in Power BI Desktop"
+
+secured: "1GFxwsmPFhhNZj4LOTpfeUiScABEBDPZP/deBzXJ+/Tj2JR6lGXqpS75h4YmQKUMEAYCtJN7Pn+Q7A/IC3ymdZnkkeFLQ8glQQO1Ib+REgAbvoo5ER86DnjHaSTI/C7/sqAieZXPYcR0TCBYKsRIrIgxsEjO4M0jYvkHsr01Lq98ZTTCVhiiDyCmSz2jJwLixtKDMuxqgnNK41XhqAXqEZoYlfrpmFXzHrvmmbsp+osL0G5LhPztD4z/UNJV7krAHft5mn+JXYIGi0iM82xEzrVQl/hQWCsZ1EpsNce0QdwnF4GUe96MdmK5YGoN6h1f/MLXqJ3eHtujVqDHPtTRcw==;Dyc5m3FxhQwOvr0NOCB13A=="
 ---
 
