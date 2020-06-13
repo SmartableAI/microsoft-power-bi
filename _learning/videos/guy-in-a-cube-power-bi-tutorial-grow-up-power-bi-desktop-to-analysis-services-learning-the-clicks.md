@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT8M26S
 publishedDateTime: 2018-04-18T16:32:09Z
-heat: 51
+heat: 50
 
 provider:
   name: Guy in a Cube
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Power BI Tutorial - Grow up Power BI Desktop to Analysis Services (Learning the clicks)"
 
-secured: "rmsmsxKKqwiHEhx1FAC8nYa2TpDzOMqQGBj3kvCYGK+KjtiCeQ+1l/mhlKSdDrYpgsUmhvabbJd0Uv7/QVJ3pSMPnUxXjGV/Na329+z0Q+IHpaYUU9H9aoxew0SF74DM5OLpAS6QpCZSia4kOYOrhf+vLdZnOhxWjswuuv5Yxu8QT97YQ5/vM5S6+SK0FFxdHhbn7aUlSPh24xDJK300u499I5u4WZunhrOYXFaNPj41vbyzPzaAXCFRI8tNO4vGVDDD8izlW+EWGGa1w63lr/ZbZAtdmFdR1CO0RIRDrjgbgrzEOPWYavQaQJ2qwFviCSFb6e/Vb0uN0vefcnMImg==;dJG1Xa8CEZCmrT9CDghHtg=="
+secured: "njTT/9RkY94XMNuib5H/8yLxP8ROGjVK9UxNtmOT3LDEK5i1NT3jhPeTvMik0bpWmp6eNzeGseH/98bk0buhlwXvqacnAQeGQTt24Ie7IFH39QmIO7Zi9DXXVPJ0VG68dzhrFUSf7xFr9O41FE7xoDA0bqaH8lrRDaMTRCcOjUyN8vs71hTe3IyvDKyHetxijFS8DoQ8DY4+9WCCLVQIxSJ8fQBpb/G7Emiifu99TUfHD1OgazkWBu6oMq0gLuxoif5v52mOOsF986q2xR1MJTdssY9QDJvvE1JzMBye7zSpwD4UfrxSJ6qm9YkaSFd1yMRFnZCXKa25tslJxWoO2KVk5rfVEqaxo7nITtJIdjPRCVEtCyfPn/woQKMC+cr5wOmlhoFKh9bhBZGifJNgUw==;rl1JvBh//Y+8EtrNinWhrw=="
 ---
 

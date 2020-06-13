@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/
 type: course
 price: Free
 length: PT1H15M
-heat: 50
+heat: 53
 
 provider:
   name: Microsoft Learn

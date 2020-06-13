@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Fixing Power BI Quick Measures - Time calculations"
 
-secured: "/p9aIXm70jJoPclx4f0PwVLHOV4+1OKQyO7Vm/XsPMQFV6dnRrGcN8FTfjcWOgdE3Yc5+3GMgYcTyGu2C6KNqWJlQHU8Y2KIK0xNUZ6scyzy6uZxUMxr4VenbMhSpC6fjXUTDW8gz9CAzh3J8aIHdkzhnFFhg3MjQetMYkn8OxmoNE3BtxthOidn6volcPbWZDUs0OO2JC6FP2ZqHv2VD7fIApLzY7lrQLQn7sQKp1kmEhdMi5yKAUOmokA/mhnYjioshjYcF/CEQT5BWx6fDOmZhvzX6m1JDkWhkEu5Mafu/OSP4VxJDU/P4q6ZD69ZgiSXRaX9eM9lAremuQNRRA==;/ihGMcqUvnxyU3JDqQOEDg=="
+secured: "HtvWxAWE+cZ7hy9f/ZNYioBI3lDXD7vOz8TjBI1zkXAsfpJBgZ7uNHcIlhljoN/aLgl7IMp8/3eeMg8ECshJcXxNr4/NLctAcFRthwmcHfPKYB8t5L9/QdHpp+306Ges89yJajTX2EJCYnCsflsBhCoS4QEnidIjS39Z1kamBXYMdk3p+yqnvdyzvCNVxEWWIenGP+JH97zHoeAaBgY9On3BzatACqIPwEu1vTiWeQmuaj6KNyxTYJAGcDsw0RRU7fZCIUQzTWs+bHgZ77oB1iI4y+wrIlXWqjPrrI3F69kEtj0OgY/G4+bh1touNXEhzV5aXTzkSe95y68Nsc6OyoWuqCBUxVSlYvcXaxSC5UvAP8WVpwoCzrzuz+0kL8OUk9jQVTh0W4vHsEfqdCzzsw==;CtCyhrSfoU4gxO0spu+WiQ=="
 ---
 
