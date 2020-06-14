@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-21T12:49:59Z
 webUrl: "https://powerbi.microsoft.com/en-us/blog/microsoft-business-applications-summit-2020-power-platform-sessions-quick-reference/"
 type: article
 quality: 75
-heat: 76
+heat: 75
 published: true
 
 provider:

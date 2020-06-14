@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-10T13:12:15Z
 webUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-june-2020-feature-summary/"
 type: article
 quality: 97
-heat: 98
+heat: 97
 published: true
 
 provider:
