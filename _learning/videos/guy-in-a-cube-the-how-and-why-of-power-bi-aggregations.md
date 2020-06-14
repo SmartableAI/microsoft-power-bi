@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT9M1S
 publishedDateTime: 2020-03-04T16:00:04Z
-heat: 60
+heat: 59
 
 provider:
   name: Guy in a Cube
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "The How and Why of Power BI Aggregations"
 
-secured: "FAWRtcmqeLUXV+oO5rhVgi4pU2chsxQgqz7yt8Pum16HOE/9RoDpXS+jAS79Ii06FmMHL6dSdKNmc0y2nnPTyh2G2+xk3dZ3aFVw66vwmX9B1Ebf7kgp8euZwUEXrjqg3abfNYTsHYntQe7R75tAouhOOAPIQ0PrPARihTl7wXmKkydnLqmbBIhdDGLJrGv2POqLPXQ7//bvvOKpjHjCTSOgjxBgy5uFRmjwgxu+1S+1anQ3Dr+QVG5w+ylaON7i/niSAMyJfVteNZbsb/1HFhpe0i/E/FyWYkU/XFtp9KC/qZewvVUAjd3Nw8ARz7cwOR0g7IFX47r2Uz8HyXi5kWHjAW3EDbTAMzW86N0xxE6IzSVMYE0H8ghF2CTo95bsS/xFOK2O3nSRG48rIT2N6g==;uCL4QDD6JruwzmPROvU7bA=="
+secured: "k7S33g4ykw2S+8Rlv18BguchBkqE7A3dBqjM3LV1GWrel4McxK4XmZx0vHdvrjkljrZ52VfIwhDqfSAw8e2T1FVUHpThbKtGGbFuL9JYsj/XQ1Q+T0wt7b1kta5VtMON2sQVVT3rTxDY7Aj9PO7aA3jCXNOrUo3DaOpovqMe+FNH0frI3nrYri+FPmGiVPQA7cg6ZcU0ERuvLuy6KkbmKFhcWgyuy7+aNW6p3KTrv8UbLVu6Ljv/0DkNhvRoJzkaRYlHClk/l074erV1vlw+182VG4TCzWFGoThITij/YLJAbF06eAcmmU8YtzaaJvC7LkCvO8i62bgyxWzm65jFjtqwzZNrm9b3JFxiekCT3iXodGPrHic9VsdOxC7q6vg7g5MiR/4UozdNAz4DvvALUg==;bdMu55O1Bv6TEF6RjNFsbg=="
 ---
 

@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT3M26S
 publishedDateTime: 2017-03-15T20:57:05Z
-heat: 51
+heat: 50
 
 provider:
   name: Guy in a Cube
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Create reports in the browser for Power BI Embedded and other updates"
 
-secured: "gbGzRno2OXvVriijkWzdme9gvW1IA+aL0ZyQPd/TGr8q3FyDrs4AP2F1bo0P3qPLiGoPWAgugPWGEWTolh9ZdrX4I5x5+7n7UDUEBOIF5I21m2o8cQUbrImKnQZVGdxcm2WDArH7fGFmGREupqxxxmJ+zNSERDss5+VJKQqEPsFdITav576q/v0XZcswe0E20jNpI1XtXgxFCAC6BJ230B59h9PeQGKCCNP37SRi1jMsiMg5AzvnI2/nnRUbXfWpBCQ6uPxfzLECtw6Qq5JOztMZTYIkAtUf0fMDPbsAypcQqOk4uYBw5z7PkIkFwD9+8oTuZKBX7aCu4H494vysateC9HPgOUDwZ+7z0SPNHpWaF5KLCbfDtL9/VmHhm6v3uYq2PDichOiK8nm1lTjBgg==;Sin9xVy1b+5mTaUQxZcrRw=="
+secured: "/QfGeZxHcOYgFblweoOPJu8rIx253AtR5BqmUSSKSjNG2u5Ep+Fx/PPqA6ctItLSKmzmA91TGOqst/UK2jYoLKrDYMB75kUpnd8V+ew1WrUnaIzxZzVrKATfYyngbgFVX1TQ0HdEBD0f6+baugwLOT23EiUlQ5zKevwiFbCEiyJqcYx0ukIyyXOYOeW+G7Ke6b0tudwNZ8RfIluR5uoWrHByoktHLiLjbtR4Jpd5YlzADufDpMBfIia0lj+KdBtXMFgCjULmT0mYy8H0zPr2+xBbhDZLXIQS+zzsmXpvh7+pTIANewkZ6rJ+tCBx+n5EqTAy8QKeEkNNHoDNJxy85Ah4T07PeoMq88Hx2l6vW4aKf0g/mH7VTMr/Ih4H5LlhJldElHXkN0/QLHlgeHQ0Bw==;WEoHTSyJiVysIwW1ynUeYA=="
 ---
 
