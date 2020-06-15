@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT22M18S
 publishedDateTime: 2020-03-18T04:05:57Z
-heat: 52
+heat: 51
 
 provider:
   name: Microsoft
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Power BI Paginated Reports in a Day - 09: Retrieving Report Data - Part 2"
 
-secured: "zZORW37QwOIM9iLkC9/zmIW+PN3nj9nf4QbpDpPsx0p8hWPxQ1Z24bfbldHKtZ5ieqRzjoG1Nk/MJytV26JRHYL+gVi7SYCp89c6NNwdlUWaG6v0kvSNBC3eSVi/qdx8iKGCtFWntFklDRAJVL70KAJnEsQr3a3gWzjtfiByihSoR8vAQ2RhZCrK6ERRB1aaaxEl8sFYguRWWnO2GfD5pRHZtHkIXGgpY21uxqa0Trjltg17B9kva7ESxDYzRRPF+7NDboZSm5EEhg3myHiamSd31PHFYUG2ZLkiOuLEe4pM0oiKVKZljTR5lxDP1LFRFkEwsnPVMI3OzpYIBdd1W4pQ8ad0F4ouDW/8WIX/MLpKvdXWq0PjIz/FoZ4x8vxIOUSSt87oAiCA1eb2k+6mdw==;cYPjP/Z7kwtY708V5VbfKw=="
+secured: "jLZfgZ3wVKN2MGYXnFb4RRFtTOGwHyHpyrz9aUrRoKLrqZoSW6xzCW209jkd73RQyjrSW1TLbtcso+UCb2j969xPVDVIbvQLEqYOc9mjyeljXXJsYfVJsCXujAgvJ81v4RftZ9fCp8uXwPc7lKkRr84c2zoTmcWjqI2jj+Ds3FE1mpKgTId4hjv6l38aglzR+omCMc7PzFYWP9r0s9JQeOzFUQo+0athc/BT/PPR+pVXxRkJ2QKK5Peo8OkhGulKzCwLhV6LjPcxxilERBO0csph1wZelyijB8mdJLJZzIi45m+8ljpkYRMHtCCk7B2act3sIDCUT0lHoL4oi8z7Nx8PmWA5We80NRfmzYhIMvVCOASFlqSRPcJED7/OzrUvOKwAjQm9XIDIoEyjh/CfNg==;BEz8+QcRZkLGwS3kwXVY3w=="
 ---
 

@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT5M4S
 publishedDateTime: 2017-10-11T14:34:50Z
-heat: 51
+heat: 56
 
 provider:
   name: Guy in a Cube
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "What is Power BI Embedded?"
 
-secured: "w5PCIVPdgy6nnPMdJAdoq1Jw9I2IwHzMIgsPJiJQLdw099H6yeeCSdbf+x+BesktQPbMXV/ttFOEler8GNIp+ramifn7AnJRVTWZkfMzQMStkFNxvs8HPYTPaK/AjIVALviq+/InPbtCZ+OehfXMI7x9uIbabwolYLZ35Ly3Gq+No4OJve1nzDw15DO27W7TOP+sJtWzdzx1swP9Wi8p9b3K3RBEh2dg91oiUulDfzlL4L+WowdsZPwu2q1CmQnpSBwX/zu/TZY9e22yVa3KxQO48qTeK65SCweuB6f7uNM8VBb5gQEjg9VCQk19JI6rcfzN6UZAw8Y43lk+YDPonVlleZjKjfsjccJtuHZc87f7DWiD6qu53DBgYjAOAsuBiNz9ejAgjAAh/KiAPGii+w==;6bUW8jy7p5XGDEymNSgWrg=="
+secured: "+IrkV6PKwADP1lyhQtFzjmy+tCrW7cz4tfgBrNt9IS8Tb281jqsveauOPVlOwCpv4VkNjncHx/b5eWQtyIo1Ic/hv1Mq8fxlMqDk6yvZ+cjWeessTEZu1NMdhlh5ozwXy0YgBqYxTAloyDtGzAyQGE1mV71f8flFL+s4rkAvtzudh4iD2g3JkqgrPGQ8qV17/xpILtFqoj4vcGqDxggTlaNPsG3+lf6ifwyXr+1CmF0fyo4Zsbcq0qPYgcBCDa7eUULSDbnwCqfY9msDWBLejXMiKVqNFrkQn09qnEsGkj8qQcTFeTM9FgH4c2shGg73Koa570Y7S4n3uZzuChVsYlVOCemfd+U50J4EWGns6SAYKz1eTBWXYT45DseMtVuMCI6UXjbbDenXzWtD+vSNDg==;SIECN9u4wtGRlv9L1tyobA=="
 ---
 
