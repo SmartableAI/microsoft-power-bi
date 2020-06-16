@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-15T15:00:02Z
 webUrl: "https://youtube.com/watch?v=-7Wk8FPz7es"
 type: video
 quality: 130
-heat: 131
+heat: 132
 published: true
 
 provider:
