@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT5M49S
 publishedDateTime: 2020-03-18T05:15:27Z
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Power BI Paginated Reports in a Day - 24: Bonus Content: Lowering the Barrier to Entry"
 
-secured: "mx4lJLxPEQuaZtQsiADve0qhmJWnp1VD/ttk2vsCsTlUuNGKHDBgxRSajsmYuc8hQ8sbm0ncaqRgYi5n8sCkqp6TgjqMp24En4yE2A1XnEQTbrjxu4KGn7xwzxwgBmE7WjUJ/W10IwwfyHULX3/McV16KslN8rlhSQP7KZovg2bgTH1rcOj/wFmb2YX3QEUQR5uYDm3693lkmef5RlnygUVa36COCaRuYrTTj9cQxdypAm91CiPzaq+fm3V+4k1kVlRgM9Ewjxuavx5V2LMCy9WGM8lVTfjXIYdd9nmfCFXQi47+dKxpvhrYPHFLaVtQVTt1iWH0RwVt1MCt8I6TbitErhoYwpl+cnjRqla0zTEL5yCQ6RAIDUyii9wkbE2PYQZMsIb4rchcaWm9AeBEsw==;jV0m8sfiGnaC16hfP3J8mQ=="
+secured: "g+qCkfuxNQXq5GUZJvh9q0uUxFy/KE/EZK01fkr5CNP65TVBwY1bGvubW167OoDOMfSDAVy+czJJlkjpZwBxYZsP2FqnoY/MaDrZpi7uWmStAK5J2iKEN623HByDqhQn/b6d04q8Ov/X4Dp53WLZalpnYMaRFl7/aFfKHAifhKma30o72zPzQf1XJdyXeU3899W2AkVmC/tbQD0C5YJ24bpaoC/5y1uYQndyMWJfle8ty1vp4kPaN6BJl69uGL06tU3PmDAmSP8iuJyjgq4+LqjKCpJMYAYR403MNchhyeHaWsjIBvLsE0HU51pRd0zmHfxLkihnyVnyOnKG1CarUEKLdxKK01CteoGnZZBkg5ZoLiCNPfKhKN0pteXfjTYl2HUy3MIMnu4uAS7xx86tSw==;uReXrEy9ysyDjiyJdizviw=="
 ---
 

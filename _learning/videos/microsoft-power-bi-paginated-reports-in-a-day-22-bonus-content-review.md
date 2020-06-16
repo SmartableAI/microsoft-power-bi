@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT1M56S
 publishedDateTime: 2020-03-18T05:14:03Z
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Power BI Paginated Reports in a Day - 22: Bonus Content: Review"
 
-secured: "+gWZPovdOOVGSkVFMpaluOd44TS7bBMGfZsj1HYyoQvhLO8PPUEwsHHquL3sNRT5qa/JgQA35DoFe7vb/jAPkP8co9zGuoI0S7fPotkhUs2A7BzVtqAp3UHL5JSG0ih3w6gQaLkwms5rM25wg2b/tkEqf5KoI0qo+JuX5j9ZCv5wZuC+i2YMZ6nzOvncr1IDk95ly9WaZ6R4k04Fs9Fh6PJkUyquUeTrnaE8LUe0MgiGlqDa0xyYv3PsMfdzaotI5eaXERlQ6x8igo94J6dym1b4ax1EA8n7nKXgwg/hFOx0tqGT4Ge+YlqCcS4CCy8yoYo5sVpyS3VbHAgyHj2hDL2UGPjVEEDDd/g8O9udNWGmZl/Tu/RuQKxvN7cJv2IQjSKj/b/KGf3QQd+LYDHVtA==;x5pp5UaM9pPcSSXiRrmmvg=="
+secured: "XT9EdjJvPDJS/YXwAU2N+wHVNRZkoR6q/emzvLiGDDZNSmLLZieB8UmdkVqIoAkhlabFqKW7y0FlIt/XrGEakr9YCaJFYAaeCDt4kkEQiGQENLpsmjMWwoPRz+q+fm/W730/ZFY/86j6H50WTPRLqcMDVQVkbf46HbzmrXwoXWms3/kKgQolO8C3oSxuWY9/3dB1kj27NEyduoyRnRZqXrf5ZFJvPdAoRyL7T1hJrgWsMURnvJVnS0toLaj51sCwyQR5FixYX1hmLcL7U8TLlCSA005KtwfetVfu+r4VuFzz5U1GME6oLp2Omn1gmkNnqmoriK3ypu1oZ8vxRGsW+My4J7rCKG8ARAunwv3Jmo7XQZU1td2KAfLFRMThdHWLQ3Dx6UtyYe0GdtOfTDhRVA==;kzich6N6L05Zq7g7u1/nlA=="
 ---
 
