@@ -4,6 +4,7 @@ excerpt: "Ontario Health Plan partners with Buffalo hospitals to provide treatme
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Health-Care-Spending-in-US-vs-Canada/m-p/777275
 type: download
 publishedDateTime: 2019-08-27T16:57:00Z
+heat: 50
 
 provider:
   name: PowerBI Community

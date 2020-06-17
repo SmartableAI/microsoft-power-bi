@@ -4,6 +4,7 @@ excerpt: "Different regions use different sources of fuel to make electricity. N
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Where-does-your-electricity-come-from/m-p/46646
 type: download
 publishedDateTime: 2016-06-29T09:29:00Z
+heat: 50
 
 provider:
   name: PowerBI Community

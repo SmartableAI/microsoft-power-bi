@@ -4,6 +4,7 @@ excerpt: "The sudden onset of the global pandemic accelerates our progression to
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-The-impact-on-the-way-we-work-in-Australia/m-p/1043100
 type: download
 publishedDateTime: 2020-04-22T21:03:00Z
+heat: 50
 
 provider:
   name: PowerBI Community

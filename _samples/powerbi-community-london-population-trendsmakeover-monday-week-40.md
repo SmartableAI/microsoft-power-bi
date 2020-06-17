@@ -4,6 +4,7 @@ excerpt: "This report helps understand the population trends of London and it's 
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/London-Population-Trends-Makeover-Monday-Week-40/m-p/809688
 type: download
 publishedDateTime: 2019-10-03T23:44:00Z
+heat: 51
 
 provider:
   name: PowerBI Community

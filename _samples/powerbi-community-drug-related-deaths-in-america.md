@@ -4,6 +4,7 @@ excerpt: "Portland PowerBIUG Global Hackathon 2019 entry by Team Crisis: , , and
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Drug-Related-Deaths-in-America/m-p/744865
 type: download
 publishedDateTime: 2019-07-19T16:56:00Z
+heat: 50
 
 provider:
   name: PowerBI Community

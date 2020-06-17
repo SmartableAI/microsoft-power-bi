@@ -4,6 +4,7 @@ excerpt: "This report shows data about COVID-19 Coronavirus in Spain, with patie
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-Coronavirus-in-Spain-with-patient-details-Gender-and/m-p/996350
 type: download
 publishedDateTime: 2020-03-28T00:07:00Z
+heat: 50
 
 provider:
   name: PowerBI Community

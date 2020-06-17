@@ -4,6 +4,7 @@ excerpt: "In this Power BI example we take a look at leveraging some of the Worl
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Analyzing-Healthcare-Open-Data-with-Power-BI/m-p/148492
 type: download
 publishedDateTime: 2017-03-24T05:51:00Z
+heat: 50
 
 provider:
   name: PowerBI Community

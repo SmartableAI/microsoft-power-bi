@@ -4,6 +4,7 @@ excerpt: "Seguimiento Salud Ocupacional, usando Drillthrough."
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Salud-Ocupacional/m-p/546163
 type: download
 publishedDateTime: 2018-10-18T11:49:00Z
+heat: 50
 
 provider:
   name: PowerBI Community

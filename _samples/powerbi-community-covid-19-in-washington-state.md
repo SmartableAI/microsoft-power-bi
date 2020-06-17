@@ -4,6 +4,7 @@ excerpt: "Dashboard showing the rapid transmission in Washington state of COVID-
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-in-Washington-State/m-p/974538
 type: download
 publishedDateTime: 2020-03-14T14:08:00Z
+heat: 50
 
 provider:
   name: PowerBI Community

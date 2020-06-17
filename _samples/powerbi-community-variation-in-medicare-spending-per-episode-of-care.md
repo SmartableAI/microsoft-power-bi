@@ -4,6 +4,7 @@ excerpt: "For this report I analyzed Hospital Compare public datasets to identif
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Variation-in-Medicare-Spending-per-Episode-of-Care/m-p/660582
 type: download
 publishedDateTime: 2019-04-02T22:23:00Z
+heat: 50
 
 provider:
   name: PowerBI Community

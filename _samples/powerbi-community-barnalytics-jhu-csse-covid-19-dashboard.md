@@ -4,6 +4,7 @@ excerpt: "This report has been developed to help out the community in demonstrat
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Barnalytics-JHU-CSSE-CoViD-19-Dashboard/m-p/993401
 type: download
 publishedDateTime: 2020-03-26T06:29:00Z
+heat: 50
 
 provider:
   name: PowerBI Community

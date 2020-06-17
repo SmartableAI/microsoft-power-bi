@@ -4,6 +4,7 @@ excerpt: "COVID-19 Clinical Trials Here is a simple dashboard with COVID-19 clin
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-Clinical-Trials/m-p/1045849
 type: download
 publishedDateTime: 2020-04-23T19:55:00Z
+heat: 50
 
 provider:
   name: PowerBI Community

@@ -4,6 +4,7 @@ excerpt: "2019 Week 43 makeovermonday is about: The age at which most people are
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Suicide-Deaths-in-UK/m-p/825984
 type: download
 publishedDateTime: 2019-10-23T01:46:00Z
+heat: 50
 
 provider:
   name: PowerBI Community

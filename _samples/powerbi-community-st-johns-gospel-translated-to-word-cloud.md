@@ -4,6 +4,7 @@ excerpt: "no numbers, no data modelling, TEXT only. Click on a word to view the 
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/St-John-s-Gospel-Translated-to-Word-Cloud/m-p/249885
 type: download
 publishedDateTime: 2017-09-12T01:19:00Z
+heat: 51
 
 provider:
   name: PowerBI Community

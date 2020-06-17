@@ -4,6 +4,7 @@ excerpt: "This dashboard tracks the spread of Corona and details the tragedy of 
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/The-Spread-of-Corona-Virus/m-p/987165
 type: download
 publishedDateTime: 2020-03-23T07:31:00Z
+heat: 50
 
 provider:
   name: PowerBI Community

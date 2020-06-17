@@ -4,6 +4,7 @@ excerpt: "This Power BI demonstration is provided as an example of how a UK loca
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/UK-Public-Sector-Local-amp-Regional-Government/m-p/120229
 type: download
 publishedDateTime: 2017-01-30T05:00:00Z
+heat: 50
 
 provider:
   name: PowerBI Community

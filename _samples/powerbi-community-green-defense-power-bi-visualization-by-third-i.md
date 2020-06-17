@@ -4,6 +4,7 @@ excerpt: "Solved: Third I developed a Power BI report to measure carbon footprin
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Green-Defense-Power-BI-Visualization-by-Third-I/m-p/637230
 type: download
 publishedDateTime: 2019-03-05T05:43:00Z
+heat: 50
 
 provider:
   name: PowerBI Community

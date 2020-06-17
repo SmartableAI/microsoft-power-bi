@@ -4,6 +4,7 @@ excerpt: "Baseado nas pesquisas: https://artigo19.org/wp-content/blogs.dir/24/fi
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Feminic%C3%ADdio-no-Brasil/m-p/683885
 type: download
 publishedDateTime: 2019-05-04T18:12:00Z
+heat: 50
 
 provider:
   name: PowerBI Community

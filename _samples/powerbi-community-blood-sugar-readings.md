@@ -4,6 +4,7 @@ excerpt: "This is a history of my glucose readings over several months."
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Blood-Sugar-Readings/m-p/733457
 type: download
 publishedDateTime: 2019-07-07T09:20:00Z
+heat: 50
 
 provider:
   name: PowerBI Community

@@ -4,6 +4,7 @@ excerpt: "One month ago I started this dashboard as Covid19 was arriving to Spai
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Covid-19-worldwide-report/m-p/1019036
 type: download
 publishedDateTime: 2020-04-10T00:03:00Z
+heat: 50
 
 provider:
   name: PowerBI Community

@@ -4,6 +4,7 @@ excerpt: "This report shows the outbreak by # of cases across the local authorit
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Covid19-Local-Authority-Report-England/m-p/1024701
 type: download
 publishedDateTime: 2020-04-14T04:25:00Z
+heat: 50
 
 provider:
   name: PowerBI Community

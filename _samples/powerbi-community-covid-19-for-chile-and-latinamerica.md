@@ -4,6 +4,7 @@ excerpt: "Hemos desarrollado este reporte consultando las fuentes de GitHub pues
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-FOR-CHILE-AND-LATINAMERICA/m-p/1090182
 type: download
 publishedDateTime: 2020-05-14T10:30:00Z
+heat: 50
 
 provider:
   name: PowerBI Community

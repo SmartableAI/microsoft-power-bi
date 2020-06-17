@@ -4,6 +4,7 @@ excerpt: "To visualize the official Coronavirus (COVID-19) numbers in the Nether
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-in-the-Netherlands/m-p/985504
 type: download
 publishedDateTime: 2020-03-21T23:23:00Z
+heat: 50
 
 provider:
   name: PowerBI Community
