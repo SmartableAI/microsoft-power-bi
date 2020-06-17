@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/build-simple-dashboard/
 type: course
 price: Free
 length: PT24M
-heat: 50
+ratings:
+  count: 1303
+  average: 4.691481
+heat: 92
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "How to build a simple dashboard"
 
+secured: "ptap9nNL580fgtrd1XuLUg3fsqMlcMGxFe4iYBJ3LyTTV6lW0w4hgja8ziMu8U/ndudbH5VkOOa0Hqd+FxTyBLAfOdPytHs+GxVqz8/XFdjoT5L9/CL4lPrPJUCyQZg4YvYUtD6JXZut0OZ7C7i7XsEsG8v8VTudUbkauNxo7bgEvJbHNrX/zeRvmbsR8++TJ+new8Vm3AwHboZvUcljKgLhPF9WoohZMzJasnbxMGNYuKtVlRRmYV0rJfUoLXzrOi74p4A25xP98TPR4Bzf54qhgbiNssvhz/8o78sfdv5qUAKFv4Zdtxo3xIyrUmeomXC3AbydhAl8C2yKulIkXEaXnia6+YB/HuAUuCjHwK1SBSy/fI2pnu0gC1Z1R0DO;I0TG1/VoR0UXkLtwRqY0OA=="
 ---
 

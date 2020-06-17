@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/work-with-requirements/
 type: course
 price: Free
 length: PT23M
-heat: 50
+ratings:
+  count: 206
+  average: 4.752427
+heat: 58
 
 provider:
   name: Microsoft Learn
@@ -21,5 +24,6 @@ levels:
 topics:
   - Power BI
 
+secured: "epupj4Uzr3mwzXSvMWyNd0ta8JsPYM5bMTgrnYPGmRZCYhwuBa+aGBPxY21PynLfyYsdqPXboC1AwxFySFOxhK+0xKzDtS93kStPc3S0xgfqiABL8ytsN+L38pYE8ObIo1soQj9SIRabs6masNk5U277XMfSfearFs3tXdwiVkD6UqS4tLqLkgPNbTNXPecVTDE572tgUFEwwWEGpuvy3qMLDNJX91gvXh6GxgXzJoQP0rKmV3G78FdlKcoOqMuDIoptRcrwhmBcD3712PczhODcjeQPvgX93rtw2/d2G2DHSS5LREa6EtH9N1Q25DBPnrGcgHaXNlqdarqgdGDx5w+dGa0PrVwWIakqdcIpBZgmKp+m4WmRgxDVaJU127vq;v9Sl5Us13nZc4/vjv/aN1g=="
 ---
 

@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/explore-data-power-bi/
 type: course
 price: Free
 length: PT53M
-heat: 50
+ratings:
+  count: 2412
+  average: 4.717662
+heat: 116
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Explore data in Power BI"
 
+secured: "C65lVrtfrDSK/ga1RtVtxpYFEHtNeUGMsqGFNPejoljA3OOad5EcEmoN9L/kB5lyFb0T76fbN9JscsVxCgQ0+v4EX7WfnylnRs9BbhpjeRVdm5n4Fq8AbJ+Qfrzac1qqpDgZv0r8BpWdMar57lA2In6alnQTQUVKMSsznI3NVmpvn/jSAd1r7WOe8cEZmDEhS1InjPQGFdmc5EmkAMJvpCLy2T73FBxb22AXnph6w1N4F5kthiMgo46+3J5Sq5Fusxo6pb1cwYbfXAUnmABc3dGpvndsyfKXrLHHRoSB4A+cjZGlvutXWCZLfPjECH6uSm0pIG2W6NGvr/9Ls3S2gpxuUV+dN5ni41MJKUmGBtDCnZaCPv08NAUB1hT8oGXW;p8OSIXcExxrKW26BeY9GdQ=="
 ---
 

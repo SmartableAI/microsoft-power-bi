@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/build-your-first-power-bi
 type: course
 price: Free
 length: PT55M
-heat: 50
+ratings:
+  count: 5328
+  average: 4.7719593
+heat: 156
 
 provider:
   name: Microsoft Learn
@@ -21,5 +24,6 @@ levels:
 topics:
   - Power BI
 
+secured: "g696QcKz+OorVVk09ru2bFeiAttLqNmhbd3sR93Z76+fCMQOUY+P433Yz5fCghq4BbLhbKtWF9W4RTpPxwDgwKW/heH66zeQY3M6VEXHniUBYN8MJy4QO7luPpbVXsyeQp3q6GEO8INpLfXTUjpXSPLu2vMfXqgA+2bqnz8COg66pfVGROm+JngA53AxuiecRz9sGyJ03kIt+Mh4V9PG7I+NbDboZDmm8EWE4lnl/uGAxgAt68gHkP59aGRpZc7Loinuk3Oh3RcC/nGDin/rFEvOfpEeHDMs+Az/R5FezqGW22ce0xLh3GISVuGtfEW0HoB6Wr3zdw4DrSftzOcBv8g4XxrBgcy6nNUkyxxkz3fPthtPpX1ips7wLuWjILnn;Q+b+sGR0VAhIPY3KDO3nsQ=="
 ---
 

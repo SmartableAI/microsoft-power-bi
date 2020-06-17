@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/
 type: course
 price: Free
 length: PT1H9M
-heat: 50
+ratings:
+  count: 5291
+  average: 4.6624455
+heat: 154
 
 provider:
   name: Microsoft Learn
@@ -21,5 +24,6 @@ levels:
 topics:
   - Power BI
 
+secured: "Onoo2pd5ttwlZv/Sru00XgG41864r2ZTs7eeuEbhqkDuV8750gWZq6fOzLVbBVzvSV2dJ+f/e+VqTLtwCJLNimkzp9HUwD4LxDaO5UVzqxt15MpysG89if/Cab1AD08KhCfijatr9sNC9TMCVQox0IHjCTMdnH0BGQKQjElQyvFu9tAZViQ46Ni81K/MkrMkmWCL4ai77ajcSHlLYYaDy0VDowxMKcS63hHo0F5Sj83DMrddhsKcdFPGskLWxKANRq+NJc+OcJwVa2GsN0u/E9MDcRJNe6DOHdEQg7afOxJen6Ixy7gunkTm0MvgqUjuCm43uXUKTJ4MOjN4CoAB0QHuUkegDxPMPSEYTuy1Nd5ZD99QcaXiQCgj8RyjLSiZ;uS+q1QPdTxLXa35JwEsQUw=="
 ---
 

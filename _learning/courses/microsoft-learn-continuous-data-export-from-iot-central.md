@@ -5,6 +5,9 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/continuously-export-data-
 type: course
 price: Free
 length: PT1H9M
+ratings:
+  count: 5
+  average: 4.8
 heat: 50
 
 provider:
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Set up continuous data export from Azure IoT Central to a Power BI app"
 
+secured: "KDbSuCXKIOM+B1n7sp5gzO6hcGpz257ouR9kfT4g0h0XphUctjaijR2EwzC409WRVUwakXqEfALeh5/zF0tESxSu/6Sp8xgOcRF6KAET3NlWMJ42/wJ1UMuty/0xCrLeUA3LwQK22jlhOjWJUWrCvc2WjkRn2BUKjh+SmJ4T8hhFVRCUsIj5k/RKFcZ2AdK1zVBrNoXd0o79/blVB3m/NMVBUe8vSDplHZRmbSDzO1r3rtWcTi0R0JHI50hsJZDE5Ke94uEZl/dQxqQUyEw4RTuZYYQxLsMVEmQFdOYzGEFjwgljq1zNdBwPC9//n8Y1Zg+CaCEwA/JIsHspwFddeBxQEJO/RwQLfbumoC+TtqQ=;jJMg6NvBRTBHxdJFXqmm2w=="
 ---
 

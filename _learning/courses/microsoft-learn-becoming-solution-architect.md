@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/becoming-solution-archite
 type: course
 price: Free
 length: PT1H43M
-heat: 50
+ratings:
+  count: 434
+  average: 4.700461
+heat: 69
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Becoming a solution architect for Dynamics 365 and Power Platform"
 
+secured: "M1jtxZQiSDXecbbcHXthBfn0EcdoHiN3tsC3aAjc1DA5KvpAbQEFqZTmdWgIfYhfZC3yTfjvaFlhAPK5uNZp5k4QEUURKykPuZwCHUzmjChPhdXb5W1lwz8bW772w/gK+UOTUq4LeDi6+/FB0F9wV6gJluaWAIoOFLw15Eq1mAWjC2W5l+cWnwLRFauvh5THinBEQ53vushDHfPJxfOyHj5mL959z1Am3cFypBzeS3pgwxg4ubA66u1U8mnh4xcoNyLIuxpXd6cPfKkBnPTYeOmX5n/PDBtQ4mgqu9PL0OlNXryxHXpIY7rfIk6M1GUMAJyjxx8HMrlbiHYNSUmJd4tCMxAphAdOiel/l7dto3Xjrsyw6XOpwRWECRlY3Ptl;4sy4boLdaRhd8/aOJtjmLw=="
 ---
 

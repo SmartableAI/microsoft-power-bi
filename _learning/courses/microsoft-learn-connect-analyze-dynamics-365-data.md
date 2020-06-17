@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/wwl/connect-analyze-dynamics-365-
 type: course
 price: Free
 length: PT57M
-heat: 50
+ratings:
+  count: 744
+  average: 4.639785
+heat: 77
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Connect and analyze your Dynamics 365 data​"
 
+secured: "SdTUHnaULliNUOvfc49krSkw3os3vymHJo+NA8n6SoADyA8lVtjYdNa/tM25sQe9a6EK4IZ5JhmxnEg8XZNun7CKjiIfy3tSzbNZdEKN0MX8JdSKPdR3ar/W74WGQGMPIzhZxT76TDyY2RckKHhl9KvvBJvVITWUQSWCy/bOf3hIH5/fNKCLx5obGbUwvHE/L7yijuO/w6bTPIC6j0eYW3oW0rlbzN6F8oA/DHnYD8FW0+VYnY1OB+qO7Myp01JFlRY+yGd+Du882gT46wsyfCe309e917Lf0e4mdSsr3abzSyPc4FDQDVCdu7wQcZBrTwwck2C3XoSQJU0zCL56ernP+JKADQrulX/CJ7umo+a90AsviZfWCke2X0pLqsma;OG8S3503S/xsSR4C7lQTfA=="
 ---
 

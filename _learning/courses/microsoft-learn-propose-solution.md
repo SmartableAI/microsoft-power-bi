@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/propose-solution/
 type: course
 price: Free
 length: PT40M
-heat: 50
+ratings:
+  count: 231
+  average: 4.632035
+heat: 59
 
 provider:
   name: Microsoft Learn
@@ -21,5 +24,6 @@ levels:
 topics:
   - Power BI
 
+secured: "rGCOKT3763gn4GQ1HsKX42TZUQukuhZYW9dPfWRhyvQoXGtVHUAB/EMViBIAeQa5h4ZpVnE3xPyX34c/BGSX8bffIlepo0cIkHk13qiPZ3y8HldGekVcmMpGcD+a5ql98YuXsUrfZpUpvk6Sx8fgwomzm2MSUJ4rIiOprl68qpwR+Xx7e95dWbKOkFE3y4lTdL/FNBFNH368QMvfBn/QOtcCZfIdzMbh0s7MkJdL6d7KCkiqyxEQI1iKtk/739X7nzGjnNXHksk3aJ0Xz7b4SfhrDLq0Gj7hg52WJMcDGZjPsp0bZ3+kfnUKCpzuNpUQfRTpVuovcG8ljtus5bs+8hcip5wtPaUEApD6tkhKUseuyoROnl//4AkDS4VywuUo;8wtUi+y8YW/ycLBuUp4bJA=="
 ---
 

@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi
 type: course
 price: Free
 length: PT47M
-heat: 50
+ratings:
+  count: 12757
+  average: 4.7288547
+heat: 208
 
 provider:
   name: Microsoft Learn
@@ -21,5 +24,6 @@ levels:
 topics:
   - Power BI
 
+secured: "+7klM4nYSsLmrgMyc6SGfO6VjBPMLpU3JfqpwgFj6aH2KvI5t92dv5BJQ6Q6v+AmCyRW6bEE4A8+86uaWE2ORJlO0yA+nLNvb+EcWuMCmn61hQaqxCEC9N0ZsJbsaPVmV04I5rgaJ2w4UHPStjrTGlS6TI03P/3YUjDK9Cfo8wCyDqWusFg2FuO7aLF5kXxL2lqXkSQSItXUIoUJFRmf7NpkNW+/EyeMyLXQbu8bNq8WJA4flmUQfltGIqF6Kp5SB3BZmoVfmc3nJme9gCijncs3MHc8tXoVl0EwT4ZFEXHc6APMa6EXUvfMKErRfiMOUInNBF5htiQ4Fmc6KqbWhL3ouRhOUy0Me3ivouEeJxT/I2TNpY38kDocbqw4cmwn;KBvXNKs2Df9VrYWD63O0xw=="
 ---
 

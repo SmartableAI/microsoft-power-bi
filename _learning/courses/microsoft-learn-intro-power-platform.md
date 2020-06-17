@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-to-power-platform-m
 type: course
 price: Free
 length: PT35M
-heat: 50
+ratings:
+  count: 3512
+  average: 4.7482915
+heat: 133
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Power Platform - Introduction, business value, and demos"
 
+secured: "dMFfWGy4xYxSfXXwG7Gialv6dRqrEhgMniOBHBZy/CKhBQe1uS2hqCW21pM8+VkEBbPHlr7fZ7NQqEMX4e1fvH2hoz40w89Ukl3Iv2ornU9Bopj3hVbfyCGJU95IPDkpGetbHBSwzcI1CGwELfm1J62cuSeroK6/JUrE868mBvyWfb83GIwjzXgJspne7xHmLP9UoAaz6c9fyyp8omyS/YsLIOFX0rllwmiS3RTJ8F3i9uoBmux3/89kgFNrE+cK6Ne4xtrUybIXi5TU8dDxnrbhJUK8rhJra6YfhbuQSxt88rvX06xP1K0lBgJqt5zSZ+XxjCR2+6tPtDqBdCjS5WTu8GhF3dMwtkCdo7+NfV5vGzJGx7Zj3EzapxmPBxkc;tLok1jqtPLmKKHFTuhS2pg=="
 ---
 

@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/get-data/
 type: course
 price: Free
 length: PT1H25M
-heat: 50
+ratings:
+  count: 30
+  average: 4.7
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Get data in Power BI"
 
+secured: "yM4LXhJGuoejnacY6OIfSkj9A++7rW9b+cmb0W+VrG478/DbRUheCCiAnTqFKsUhDDaDpSz9YrUu5lR1T1GRdzZRmYCohCiCO9+sdOSN61TDP8lVh9+QnNPsic0JavqYHFumPAoNZhiJeBAeBva1OwJuhcY/qpOdjbBc3SGHdN8ytogxrzkDxk5ugTf6cGurkfcVz0XfVNdn57tlvVAeT+LoXhxbI/sgnbB0dB4RT5CzwGKNV5Upf5ncLVtLIfFCGm1DhRdv0F3wIwhh3GydCoLrdEyX+zi1yp7cAZXjadp7100u8+GTKBA6ocINIaRY54+euh7JF19AgSONG3G0vhf2T46GAgp/CZK94wSB7e8=;jUVIRIn1WcKzF0+xCNPEHw=="
 ---
 

@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/
 type: course
 price: Free
 length: PT1H7M
-heat: 50
+ratings:
+  count: 3751
+  average: 4.7094107
+heat: 136
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Model data in Power BI"
 
+secured: "6CsZuLEwOthM7RsazMq1319jXCrenbv2OpGzuK3oCe2G3KsDD4w+/D+KSveXI3CtOIa7i7AVFzwnZzKZBU6G4WO22GcQQScKt6LnY4bsotgqEEIKAL2ZPmGEFdpXyxqe1+ls5bzcPz5qN6TdEuneQ7micREYJFHGUqwSDp5VaW/VbomUwZQovmRgSI1PAMlJdArtcXvvoGuPkXsdilF9AoUQ8LwA5Dh1apH16jr+eK2ukSOQxpJ5sc3vamAH7yvbwCBxUuczgoC9oUAVUgw68Iue5W6rYNh8NHiHLvD9H0ei5YNZqDAjeDvEEnU3TEV3KePrkk3PySO1FfIByJofmlBKXhgSsWyr0wBLzfgy5q2Msd0H00/3zMniY4ydgNR3;0umDkYkGmbKYVOl3vTj/5w=="
 ---
 

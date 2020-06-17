@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/
 type: course
 price: Free
 length: PT21M
-heat: 50
+ratings:
+  count: 1691
+  average: 4.730337
+heat: 102
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Introduction to Power BI"
 
+secured: "6Rc+UtcKFG1pj7hXdoBRAtcYZs36fFeovTuRi6289Djt0+hXW7v8TStZLg3ndB0tioiFNS/J5wVWL04kzwGbCZfvSqPN0HfEUeF1iIRqI2La61j50as3y1mZUDFQ+H7T3FC2FJLy0S9DZYo7kDCsc0x8dEOK1CoCVR3IbE0irZBqGN6X8ECgrpsNCHL9FMzK+HgDnyKtG4nwyzGTcdXNS8r+0xQ52vecdIT2JJQC+lAXT2mOeQ1iDblkS8+iUEIldgYkDb9csKyEwZQUR/5ksN6v4Tusu/bFGia/izijjL78CjhwiUSasGHhWrgcM2oiaddL42S5nAcJfoAEqyGhG/2+B5J+IE1nDssYo/7xzmNECase+q0KmMn/qDwXaxi2;csL9E5nRYj1EBScAJPKUbw=="
 ---
 

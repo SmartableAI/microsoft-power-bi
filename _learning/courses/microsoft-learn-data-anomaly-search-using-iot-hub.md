@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/data-anomaly-detection-us
 type: course
 price: Free
 length: PT1H6M
-heat: 50
+ratings:
+  count: 122
+  average: 4.5655737
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Identify anomalies by routing data via IoT Hub to a built-in ML model in Azure Stream Analytics"
 
+secured: "1434s5HNVbj9OKVv5knrjd3wg2EQXP5hRclTu4ALyb4aQe8ZZ11UAS1uGZ4nCGj3O2M2InhwoXuDvphMBiti5R7nNFMPKHPgcuq8ziIpTt5ChrGQ3kcF72sGTD42XfpQ8KiitSlJbJd8lvDjVhACTdmgjp1Nk1amh9jwT3gkhElbHs7ZB9ATnep93liZhI2qNp9XDKLpWaDPN3CQtxJARBC6laBBhSW0WLZGMGNakhFenOWynLHZSdYhQSuXP59E6c96rUsi898oCCbVc7xEwyS+lMwKLfsivRQriLpIkDiFXmfe7w4lOFa8zb1ezFoIZzJaFlkP4SI5dkrnj2Qn1aPgMlEARuyiDk2L03nwTGA+zeW/gfksTwdipj1Q8Pyy;MU7ao1mChrZCu/aJYTkM7w=="
 ---
 
