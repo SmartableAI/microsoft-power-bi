@@ -4,7 +4,7 @@ excerpt: "This report uses data from John Hopkins University to analyze COVID-19
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-Global-Report/m-p/994023
 type: download
 publishedDateTime: 2020-03-26T14:06:00Z
-heat: 51
+heat: 58
 
 provider:
   name: PowerBI Community

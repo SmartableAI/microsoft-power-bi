@@ -4,7 +4,7 @@ excerpt: "Our goal was to create a simple dashboard that enables the user to qui
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Pomerol-COVID-19-Tracker/m-p/1010226
 type: download
 publishedDateTime: 2020-04-06T07:40:00Z
-heat: 50
+heat: 56
 
 provider:
   name: PowerBI Community

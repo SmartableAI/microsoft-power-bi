@@ -4,7 +4,7 @@ excerpt: "This report is about the status of #COVID-19 in Italy, Spain and the N
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Comparison-of-Coronavirus-COVID-19-deaths-in-Italy-Spain/m-p/1007632
 type: download
 publishedDateTime: 2020-04-03T14:24:00Z
-heat: 50
+heat: 51
 
 provider:
   name: PowerBI Community

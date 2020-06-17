@@ -4,7 +4,7 @@ excerpt: "As a requirement for University of Illinois Master of Computer Science
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Medicare-Reimbursements-per-State-and-Beneficiary-in-2015/m-p/441325
 type: download
 publishedDateTime: 2018-06-16T11:22:00Z
-heat: 53
+heat: 54
 
 provider:
   name: PowerBI Community

@@ -4,7 +4,7 @@ excerpt: "This report is a reworking and an enrichment of the official italian d
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-Italy-Report-and-maps/m-p/1019440
 type: download
 publishedDateTime: 2020-04-10T03:58:00Z
-heat: 50
+heat: 53
 
 provider:
   name: PowerBI Community

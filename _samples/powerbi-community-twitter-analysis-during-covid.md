@@ -4,7 +4,7 @@ excerpt: "Analyse de l'impact d'une crise majeure sur le nb de follower de certa
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Twitter-Analysis-During-COVID/m-p/1140624
 type: download
 publishedDateTime: 2020-06-03T22:13:00Z
-heat: 51
+heat: 59
 
 provider:
   name: PowerBI Community

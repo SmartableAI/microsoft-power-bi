@@ -4,7 +4,7 @@ excerpt: "Questions about survival, humanity and the future, the changes and the
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Anxiety-Depression-What-COVID-19-Lockdown-Means-for-India-s/m-p/1097521
 type: download
 publishedDateTime: 2020-05-20T00:54:00Z
-heat: 50
+heat: 56
 
 provider:
   name: PowerBI Community

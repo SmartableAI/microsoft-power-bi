@@ -4,7 +4,7 @@ excerpt: "This report describes 'delayed transfers of care' for adults, for all 
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Adult-Social-Care-for-Welsh-Local-Authorities-5-year-trends/m-p/205238
 type: download
 publishedDateTime: 2017-07-03T04:12:00Z
-heat: 50
+heat: 52
 
 provider:
   name: PowerBI Community

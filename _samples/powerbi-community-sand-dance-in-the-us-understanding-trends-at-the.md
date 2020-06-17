@@ -4,7 +4,7 @@ excerpt: "Over the past 3 years, I have collected data at the US County Level. I
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Sand-Dance-in-the-US-Understanding-trends-at-the-County-Level/m-p/141666
 type: download
 publishedDateTime: 2017-03-13T11:52:00Z
-heat: 50
+heat: 52
 
 provider:
   name: PowerBI Community

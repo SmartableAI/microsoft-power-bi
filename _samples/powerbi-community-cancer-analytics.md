@@ -4,7 +4,7 @@ excerpt: "The Cancer Analytics Dashboard provides both a quick summary and a det
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Cancer-Analytics/m-p/631080
 type: download
 publishedDateTime: 2019-02-25T06:28:00Z
-heat: 58
+heat: 114
 
 provider:
   name: PowerBI Community

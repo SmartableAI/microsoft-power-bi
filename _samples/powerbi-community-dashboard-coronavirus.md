@@ -4,7 +4,7 @@ excerpt: "La API https://api.covid19api.com/summary sirve información con la cu
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Dashboard-Coronavirus/m-p/1008256
 type: download
 publishedDateTime: 2020-04-04T11:14:00Z
-heat: 50
+heat: 52
 
 provider:
   name: PowerBI Community

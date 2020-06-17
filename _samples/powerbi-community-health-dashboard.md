@@ -4,7 +4,7 @@ excerpt: "eyJrIjoiYTk3MTdiMWMtZjExMS00YjQ5LTgxOWMtYjdmNjM3NzYzNzhkIiwidCI6IjA4MT
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Health-Dashboard/m-p/658240
 type: download
 publishedDateTime: 2019-03-31T05:08:00Z
-heat: 50
+heat: 52
 
 provider:
   name: PowerBI Community

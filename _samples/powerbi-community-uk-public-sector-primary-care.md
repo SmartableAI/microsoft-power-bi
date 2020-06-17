@@ -4,7 +4,7 @@ excerpt: "This Power BI demonstration is provided as an example of how a UK prim
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/UK-Public-Sector-Primary-Care/m-p/120381
 type: download
 publishedDateTime: 2017-01-30T10:45:00Z
-heat: 50
+heat: 51
 
 provider:
   name: PowerBI Community

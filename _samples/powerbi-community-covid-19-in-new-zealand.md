@@ -4,7 +4,7 @@ excerpt: "This dashboard presents New Zealand Covid-19 informaiton published by 
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Covid-19-in-New-Zealand/m-p/1083078
 type: download
 publishedDateTime: 2020-05-10T17:59:00Z
-heat: 51
+heat: 63
 
 provider:
   name: PowerBI Community
