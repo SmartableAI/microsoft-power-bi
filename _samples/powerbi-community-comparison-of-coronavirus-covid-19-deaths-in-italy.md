@@ -16,6 +16,12 @@ provider:
 topics:
   - Power BI
 
+images:
+  - url: https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3666/1/CorVir1_tn.jpg
+    width: 100
+    height: 100
+    title: "Comparison of Coronavirus COVID-19 deaths in Italy..."
+
 secured: "gbsRioqi9beGD3QaPZb4uw6ib6lt1ffLvlrtWevylaSL84OtD7xVvN7RsdYD9rbVn5KhVesBw8PnK/TAMQtfqIqCrtwpeQKUMHTB5l5P7/IAAmT/Mgw0IokmUekvl563QLjfjdlXaieOyq0yE/J88smnhIDXNhUzUeEO27NOhHVqVgGqidGPpjIRH2O8wzG6H/RsCRxyC6vUqRb0Y6aHRsGtCakizN43GFwVFE26yh3BmAFVDX4ylwH09cMNvTjHN86GQhlFE1K8DP8qHjk0UzODyfrIyuXMQxT3bj1VYnBZ0WxyvzEII9rzssJbkI7uYkopcGewDplgoQ+MKSOxwb2OpWR/3AIJza17hYDuODQ3Y6Ux3RTkSuF8cNt0kZL/;JHltLyO6i4RMCWQL56txwQ=="
 ---
 

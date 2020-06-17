@@ -16,6 +16,12 @@ provider:
 topics:
   - Power BI
 
+images:
+  - url: https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3476/1/covid-19-in-wa-state.PNG
+    width: 1651
+    height: 932
+    title: "COVID-19 in Washington State"
+
 secured: "WZu1k49IW0TU/j6BVVKhj+IPbbU5DnmXlc8GvDdtNN1Ww6xiNEsOcVBMeG2O5P+nq7LL4XJBdhjwATf7Tl/lM8ds9qWsc0bxzpPIppp7sCXpdgXmhim7G9HeJ5I65jD2oPMasv/JYdFtiRevUSf2P+zg4/sM7DIHP3lyBxSM4raPUvkS17Kx5VoVGnvzIGsFvraqpXKjeUBJthzKTDsDED4Nz2LgCD15TuhOhnoLyvVPBIPBMnNi6eTYHHqYexPH6eGWUEwMckt0NconEA1W6yN2RapMwSU6hURKFYpYMHPVN+2ospZB0vBhJI4TTLedgLgmqoBk35B22odAraeWm/sIHc+Teq0k2TXbt8eAHZYZ3L8rkEFD0PC23YzopZgh;f/zr2Ctbyc5fasdXDhL6Ow=="
 ---
 

@@ -16,6 +16,12 @@ provider:
 topics:
   - Power BI
 
+images:
+  - url: https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3682/3/covid-19-04062020-pbi.jpg
+    width: 1176
+    height: 636
+    title: "Covid-19"
+
 secured: "AXAOSbQK6w0+OqWiDtDuG/G/lm1wczBi2tyx7LE/HEwmIyPw38pV2d8exof48GSqkGjaXttSi6w0CN2dgqoTlisE1/qaHuW82VaerfPWOXwuxSV1220CAxt1ptLqdeGBnjBSuzkzq5RiwM6jcpjxt05qQTDcv/GMtQHnMu79QzxSuhXjYXt3eWMiY9cpABJBTn6uLHIgOOWsi9fzzdamcfsVgmQe4iiT/f0rfrxWk3oz2CLIussV7LUtQ0mjd3WauN42uQc3stpUQn6U9ICaWBmZpBRlMsO4MNlyqXPXEyoP2tZcyupjVtEGVDt2kl4JCVhuStrEd9ZBkQRtqNYiG6lwlNFXZxDbY7mF3aj265RTkItM8rwP2XkL0bEvhGPM;/ikkeYYMs2GquaYU+dnSkw=="
 ---
 

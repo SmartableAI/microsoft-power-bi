@@ -1,0 +1,27 @@
+---
+title: "Sand Dance in the US:  Understanding trends at the..."
+excerpt: "Over the past 3 years, I have collected data at the US County Level. In this dataset, I have over 100 columns of data for every county in the United"
+webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Sand-Dance-in-the-US-Understanding-trends-at-the-County-Level/m-p/141666
+type: download
+publishedDateTime: 2017-03-13T11:52:00Z
+
+provider:
+  name: PowerBI Community
+  domain: powerbi.com
+  images:
+    - url: /assets/images/organizations/powerbi.com-50x50.jpg
+      width: 50
+      height: 50
+
+topics:
+  - Power BI
+
+images:
+  - url: https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/726/1/SandDanceImage.JPG
+    width: 1468
+    height: 771
+    title: "Sand Dance in the US:  Understanding trends at the..."
+
+secured: "SoKHoVNEopkGk0BB6mwE5TmVO38Vnea/OdOyF1R+84nrbgyUCvUhzD4567Zrj898DZPvPi89NH9jAOd/rIzoSQjK1wMnHjmDrwSpsCTXWUjJ8eQ+UGTbfECnrAqTTDD6X9oni/0WHMA+dxz9y6yHowkan5c3W0lwCS+//JE0p6tae/f0dJ0kueYnd5LF6BeQoF9aNh4PiEJiuxyY3SnfSDxsbnGXeGUnf2xJsRCQkzwo+3+PPSfezzWtggi8q0sr/y/uA1MTSX8wDooR7QyVH7dMk1yj9OFgvE7J+FsN02IcuIBrTijbqMAWLxEdLZOLn/jk5Fmb1ySPMKkcYxq55fh+8f7mtR/Ii/MRhw5JHOhBJW9mAFyfS91e709a3kTS;7TAASSUPh36vtHZY2Cr9dQ=="
+---
+

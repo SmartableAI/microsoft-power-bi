@@ -16,6 +16,12 @@ provider:
 topics:
   - Power BI
 
+images:
+  - url: https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3538/1/CorVir1_tn.jpg
+    width: 100
+    height: 100
+    title: "COVID-19 in the Netherlands"
+
 secured: "MV8lJuiXR+qOWPJhXxalN94rORudSoYpLbP+jBDdGyPjmEp4EWjQdtlUXYDBrBqNVi/65VsNyGEICPJb2BWj2rvE532XY9B/BLHaz227iKMDDk5LVk8epbLv1whiBZS1MrHJqbPGz+8dGzlEkui6hBjr/GLDW6iSOjdN9xAeB7cKNCrIlrmZks+jp2LwhPBzWVPGYbEsJ4u0tIvMBe/VnJLj1zezWGkIRmYoVnXEiJJ/mDXN8UN2lvbPlYCR/yzWX6UQmXxoYawLK2lUdK++jAChh0J89ZJkhrS8wHmEpxezQCQA+PcPxiTovPR+jRqTULVGrIUlQXNS069tr1jwjxUnysYv9y2yuo5xp6bVTQScHWADea7ngX1Q21Sl29cA;1U7MLEefURXfW+KTup9m/Q=="
 ---
 
