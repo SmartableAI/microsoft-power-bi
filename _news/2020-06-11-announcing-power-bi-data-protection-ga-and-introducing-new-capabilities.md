@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-11T09:10:00Z
 webUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-data-protection-ga-and-introducing-new-capabilities/"
 type: article
 quality: 97
-heat: 97
+heat: 98
 published: true
 
 provider:
