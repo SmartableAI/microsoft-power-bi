@@ -6,7 +6,7 @@ type: download
 heat: 100
 
 provider:
-  name: Power BI Community
+  name: PowerBI Community
   domain: powerbi.com
   images:
     - url: /assets/images/organizations/powerbi.com-50x50.jpg

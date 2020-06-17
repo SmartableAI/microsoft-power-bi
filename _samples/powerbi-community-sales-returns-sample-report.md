@@ -6,10 +6,10 @@ type: download
 heat: 100
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
+  name: PowerBI Community
+  domain: powerbi.com
   images:
-    - url: /assets/images/organizations/microsoft.com-50x50.jpg
+    - url: /assets/images/organizations/powerbi.com-50x50.jpg
       width: 50
       height: 50
 
