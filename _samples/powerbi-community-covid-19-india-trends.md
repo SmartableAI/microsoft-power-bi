@@ -23,6 +23,6 @@ images:
     height: 1080
     title: "COVID 19 India Trends"
 
-secured: "4kt6NRe2ysVqgrdc9netqY4kzUG/W8olC9hyEMNA3+x2EA3iIPkpoRQenu9PvSUHCnTjonKq3/DdSAdItQkmh3DN14xYzWNQIE4NJgsMzqu/W6oAAlNST8H5MdyaW83s6YklEovZzF/NpMvK/zgieROr5Ng5mogzdQP5jK+0xx3cezB/TLEozZ+EBsOj1n8+RyCytNHTS1XwfdqKCFLoQR5/jAM3E3U1f61lYiijy4xM22ctnZghlP2tehlAB/SBXGEnQX0Li/izsZ9Ml/QvZeBzZH0/xIaRzizip7v7z0O9UtUOtEWtOaYC6dzTQX9vJjhCNGxsRaB9tZOnpjFDNo8Iye0a2IVmrERLcZhyb/JtKRnsf3e5VKn75D1882j0;Y1da6ePWeDn1NosB2nC7MA=="
+secured: "/7mlVkfRxr+8vbmmO+6bD8y/uich7xPcRZNq8tPB7P8WvZF/PfOb15LQSqjmAZdFusF7go92upzA/GSQDmjljX+IC0pnDvTjasuf+XwAsew9I89gRvl8BZkD3PnNrnxb/rwATbj3by3mMf09XpDAYnGSTx+A7VJr/+C752e1U1ITezLgmCG6KR26T7MRj/yyNkVEItKSV5Q7ygvfLL99WjBlb8Hx7DbnPuRRD06JyjZNFJ8SUMSmmelMIH2eGm3BqMGFbYavCTdzdP+fsTiso6I2tESzAVD8lUVMyQYL/DSNN9HtckSw7IXSsQi4n+qtPYmEo7IbRP+HgJsQtYgazsEdcNNWpyAUMD8a87nqqxZxOTaT1Qcuw6xrlkiLQI3N;Q+ljS1OMpndkey1nV7jCUA=="
 ---
 

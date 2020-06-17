@@ -23,6 +23,6 @@ images:
     height: 100
     title: "COVID-19 Coronavirus in Spain, with patient detail..."
 
-secured: "PUpciPT5Og7ZUfCqiuH+bbYyk+OXetYuL4+U0+GwbHTN2t1Z1VQyr+eHCY4R6r5VIAc7Z+RRzV7N8K+qMPdDDv6gqaGb7deDjZE7nDW+hgbb8XoASd8MtnzxZr3b8CHnZJ4REhKvfAJygmpFl/XrPsqstTqNCXxbt7UlMuZo5yF4lXJcmEDwmURaU92M3vP+zx6pSnZhCv6YmV2VDYYrCp5Z8oapUa69kwv2vEyzWv9xSoIBcuKiLwqsbZ/5Pb0gO8qOcXbO17foz5//Wppgt6CLvaG0xVCROf4hAkbneL9x2M/6M4stqoO4Q3J/e0+ZBxKkRQ0ryzMNUbBXx+hrZRh5rjAB9EyBm5CEYlnVryEyaSzuOendSn1c87ketF4A;KsIrxbO6zF/qDubtNR3iCA=="
+secured: "yIDYqzhODNxA/BYpz7Sxht3ILjD6bAGRMcmqakrYDcoY7+5VJdwOBfYu7stUeQqq5AYHtpx+fbmfzb8fblWfhw0YaPaiQNqw+Vct8DaY0gmug8IBsfyRC5gbgrAQWjCG9wu6NSTRpltNd8BsE8bnUT+49WTLjLn+s8oXOdow10d/zkZPCeJ3sDCDkoSKEICMZowPAjrF03OiG5CzKUVx+tahWocusN/atyr2EvvFBsCSQzJLtQKGQNanMupoRjv9PwwDBmxCNRQTdZ/UgIIwaYdhUskNL8tv2SrGc7nvU1JUcrTAjzHBbmVfdPuujpThXdd3/u7OrJuZRpOwR9vCfWseEVCBsbjmlh9y/kufV4H0/0l3DqtoDBvHe/2J1rG7;MCfwVsZUnGows1N8rewXKg=="
 ---
 

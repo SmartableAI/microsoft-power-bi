@@ -23,6 +23,6 @@ images:
     height: 771
     title: "Sand Dance in the US:  Understanding trends at the..."
 
-secured: "SoKHoVNEopkGk0BB6mwE5TmVO38Vnea/OdOyF1R+84nrbgyUCvUhzD4567Zrj898DZPvPi89NH9jAOd/rIzoSQjK1wMnHjmDrwSpsCTXWUjJ8eQ+UGTbfECnrAqTTDD6X9oni/0WHMA+dxz9y6yHowkan5c3W0lwCS+//JE0p6tae/f0dJ0kueYnd5LF6BeQoF9aNh4PiEJiuxyY3SnfSDxsbnGXeGUnf2xJsRCQkzwo+3+PPSfezzWtggi8q0sr/y/uA1MTSX8wDooR7QyVH7dMk1yj9OFgvE7J+FsN02IcuIBrTijbqMAWLxEdLZOLn/jk5Fmb1ySPMKkcYxq55fh+8f7mtR/Ii/MRhw5JHOhBJW9mAFyfS91e709a3kTS;7TAASSUPh36vtHZY2Cr9dQ=="
+secured: "Ose0NxCTBp+3AbScTOhdR4l3+4J+y3lRYoDHShU/T5P2U2IM5F2t6AN0Qr3uj/UdRoWbiSPg4d3OII9cWSrhgRdC5uj/GmUhOG6bYtMG4OQ5mjMAPQqFKC0k4dbEctU6IAV7rFfLfZIJkeNvCKFibouOvEZ57EPFoOzVDNrXbB058PDllLqTgsx4pxRcGsfKCp9t4eIwRMdqQpysUShNMxWaHhb6QRfbJdI2+gKbw8yKQQXVJ3is5X1yD4WaQzNcuCMuvEW+Ia+76ICgmKDY7T1ZF2ec4JYynIgmm8/bBQrWSFgCnIipALXms74xVGzAsfYg/hcVk/f33gK6QAEOhInwWb7twhNJ7sj+GI7VrerrI7qh6fm8pnMIO4sXwWcr;QDBKu80wcWZHm4XXtwiYyQ=="
 ---
 

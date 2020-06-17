@@ -4,7 +4,7 @@ excerpt: "I created this Power BI Report as part of the World Data Visualization
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/World-Data-Visualization-Prize-Submission/m-p/615034
 type: download
 publishedDateTime: 2019-02-01T09:57:00Z
-heat: 50
+heat: 51
 
 provider:
   name: PowerBI Community
@@ -23,6 +23,6 @@ images:
     height: 1051
     title: "World Data Visualization Prize Submission"
 
-secured: "jNeMivCvVyOUMIB7Xav28mD9Un5wr0SYTC/Uyn5r9FBKbPN7+//gclB8iswJUF4sQEvr9LnVLUKISWYKV9Wm2MVpizKFtdAmN4K5YwL2IMuzEROyggi3X2tXtmPdycOxWgenHHup9m0KO89OHcnYn5RkdYp6Cfm+aJyLurYKItA7PfaGlGSps7OAD6NBEoqaq17/JxDFJ3YWcJihbnymKIP3AODg8SAZRJov63hd7LRYbMmjc83IuKoLZ26FlVXrP7emm81h4zu1ZYvw3bZVYMqjyrAAZZPRQsm1jnIp924R6asPZSoZrvC6PjWdhf9m+G/MJ/trR+MtUSRcmp+fihK9QSom9hA9coseKm8Szfid8VCuEzmUk3EEhYWxCB7r;ZlPc5cOsQGyKqnodifQjJA=="
+secured: "cC3bXr+N1j5A93skPzIxzO6erFZv02oySNzQKVLfjqrKE95YqdGJUz3wO2NMGbDNquPtfKnWVLw95HSNw5iJqm89rsP7t/ND9D3zo6FZnht7Zu9K5NhGjZ7n7UDN049l9QwfGIgV7MtPYITqKurrPYFWCNnJCu5zGYBCkd5Vl08ZyYDMGiasc/uBPAwouD0Rmb24Hlw7ROubDuaHlkbPWuCKruUqeVDiA90rPvRcifmaGw7AkV9XN6D2L9jZbdjCywuOguRI0Hs177L7s82tZzJ0ywEzvxXhDeQv0jJidKWR8GiHs1bdiA/sruqCoXN23YuPa1ttdb6LJt3fTw0PtAG3JC9bffy1AzRFPXrbGPm20xIwZ0lNSy789c1bEOG8;PEcKLddHNTekfVj1YVmWkQ=="
 ---
 

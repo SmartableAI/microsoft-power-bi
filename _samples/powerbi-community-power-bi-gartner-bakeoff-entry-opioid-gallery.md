@@ -4,7 +4,7 @@ excerpt: "This is the report that we presented at the Gartner Data and Analytics
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Power-BI-Gartner-Bakeoff-entry-Opioid-Gallery/m-p/377969
 type: download
 publishedDateTime: 2018-03-16T11:53:00Z
-heat: 50
+heat: 53
 
 provider:
   name: PowerBI Community
@@ -23,6 +23,6 @@ images:
     height: 1080
     title: "Power BI Gartner Bakeoff entry - Opioid Gallery"
 
-secured: "CdhsSkSeeOkp3m8heQjCcg4G0LnsDCHjguduu7DVGulDNTUFrVQvVpxCqHLcv/IX9DutBFsHhJ7CMmIy8mAQJr2SaxuVqKiarBSaWTeYt7JOcSI2QnmvNW2mH/I5KzQfSh5WkxsaMejAsx4ZuWwk4X/gbtN+JoaA8F3CSqn1anEGdPRXdvD1p5gYR3xlg2vQ2lmoBL6gcsbPgBanKvM9IeV3VT+WKk7elB/5ZFbUsjya+yNnKFe39MkIz5PBUasTfsBBtZqWRCPIUobe+qs7lM/O9EnNtYPxSBYfbHg+vrMFu1d67hMSipxGyeypMvAxTVS3pV6L+IRWLk8a3j9O5LLxtrR5fBQneqnEc7lf/nWMl7+VSD4RDPViEhRLI+Ne;yMN3lZii1uMV4JsnsrVy1A=="
+secured: "2aIvwW4DzYN6jG0Ov8Cs/JztTA6K0ExlVlrARF/+mIHeELg7DiVjHMNr+qQuUlmY3JxN2dvVWr3mai3KOO9t9nyLdwfUfUT2gfHAJ8LE5sP1Z/nzQ7uhQ3dDL/Svrmj/5qyzU7X7UacDQrOFTmYz/EX7cTIn1kI5BEAgo5ZgdTN4akCWR0IFioFV2C5oP478YN932J4AzmPzgYVktFoZIzZtdFS3Gm0QTqC3GH4tx8os+4VpmhN49D9V9/+zU+tE2BzTmUN3MDZi+RcjtsShL6Fmm+0wQ3oINslycBa3Z7GXx+g6yHP6iO7qw6s5svEAnsdyHYC52jWaq6GO6szvZNdZ8Rl65kyw49qd3fBR9DKym9icmSCoET5KFe0T9xr4;E9bgR4SiOznjgapXDVmaqw=="
 ---
 

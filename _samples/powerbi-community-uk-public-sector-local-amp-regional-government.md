@@ -4,7 +4,7 @@ excerpt: "This Power BI demonstration is provided as an example of how a UK loca
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/UK-Public-Sector-Local-amp-Regional-Government/m-p/120229
 type: download
 publishedDateTime: 2017-01-30T05:00:00Z
-heat: 50
+heat: 51
 
 provider:
   name: PowerBI Community
@@ -23,6 +23,6 @@ images:
     height: 703
     title: "UK Public Sector Local &amp; Regional Government"
 
-secured: "3sxK4tah/j5DdQ2B2Sxq+Rr35MQViN9zAblpfC8n8bn1oFBLde/mEFCrzKkQKawS3NJn7KxM2G67zRBVXp7owuKuncmWwB2+6lCXtr0GiewLTXeEjwEEdKVZVM7TDj1uy+4n+ihUWLbzzpHL4pRdUutdBZzpSLhAqcSqKzgMQnSiQHOZlUc5SZzDa1LUXZ+Lj7OhcKayGyhDgE14kbLp7tL0RPAQNua/Kr24a8I1nXVIlrtH6LuFvXw3OgOd0xW2xLhLtly9YODoS/gIl7Ik8utG3N9CjXr0+kZnVAtxDBwe2SLlxtFUgfq2gr5RpYXx43NHXFMzaj/vh88i6Xx5SpdO5XCnTVdkSRMR22LJmLaZpiPYaj6kgpTsF5qGgoGG;5UpqasbDBe7+wDOaIjMyZQ=="
+secured: "ihToE5J/6U0ThzaPn1oete0/X3qtDPELEabTfl7G7e4P/Eg0sZeunsTQVv/JZYeuo3u6mDUmxFgsh5Fc77KJ3GCe6i8JWvwBDxVLO3wLStS8xYfFjMNI7mcI3XPKHWiKLDC0VesXpEB6gNXnTwuZ0a9onF+SCHhqUkGZq6ZyzLfqIO2B+3rDnpUXDkzlkQL4sUzcDukgohzwrn7y5w5BLN11ExpAOwP4bbC8bZHjWM+ot/VHJVl0OG/3cvPTGtaJnx5BLNWLSJenkNf3ZpUyhD3jBjp9WRw1ZMuGwuZm3lhe61C9gHuxO/kLGDCZoFWYezEmjikayZ0N8cp/Q+zI234CkOTlyvUkoMc2EHCc8+PLPIwIQpJpKq1hJ+yhFuHh;w1sATq9gGe6VqqN+6V0x6Q=="
 ---
 

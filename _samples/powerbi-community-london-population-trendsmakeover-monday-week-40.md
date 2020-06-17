@@ -4,7 +4,7 @@ excerpt: "This report helps understand the population trends of London and it's 
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/London-Population-Trends-Makeover-Monday-Week-40/m-p/809688
 type: download
 publishedDateTime: 2019-10-03T23:44:00Z
-heat: 51
+heat: 52
 
 provider:
   name: PowerBI Community
@@ -23,6 +23,6 @@ images:
     height: 846
     title: "London Population Trends(Makeover Monday-Week 40)"
 
-secured: "PvTxyeI9jDCSEIy0kBlBQ/+RULykpYnb+hol+BB9DVxkxrcugjdYImaeSxY/pOFATXnE8AG/z9f23YYDiAHzpJiEpMLy2NwZnxUhW3LwiI2I6hGlbl0EM8hud5hzDKbQsNaA4VGoBLm0neyjaD+MqO1om2/Yq6HQEqtRhI31U9b4ZJd5PsMwTs5HmmKnJNQougEu6PMSjLxRNkfeTW59iuxNm78yr4drBSwzMIMu4YE3hmM1gsUGYL1lKQbby0bG1fsWEBOu8J1ZkLGt4AOwlyFxbUIysDpLaJcvEdvVN58FqEQ2kmdBusUletWlDdiL4CU+YrmovsPsVElLfGU1qExudLKM1/70Ocr4HIDBRjpvUWtzZMQtIIMjK/XBSTaY;WffpTPZmXe0X4geSoecbZA=="
+secured: "cc9Qi2Nl2Feps1H05emvXyqC3kCZijsv6NqZ0KKcmNBY3IVEbM9p3PLOOGSx9SLJeKIn8v2D1dXvHdOBqldeJiAxY9uiMe3FVyQch0fDGLZQUbxN5dGQ1q00qPIbjwSmcPVm4BB76Ajy9F1bLv4RzU60ATObH5cfgsmLpP+jfG/NCSYulV/JSNY+ASTCcfp1oUfQPxVwXJEHKMpZIHFQTIxh/uUJI6234IU+RVrhPp+981+W76lEFjhr2U3p4t+zEmZ6471Nctt+rll97OOvfCxHWbs+yTXU6TfgP0YyFRrYdIg4ZLdzEnCupD0QhWl+FTJcN2bzowB2+nr/r7ivm+xyKoXXua3hHPEnG+8Wa6u/W21afEfzMBMxE06yw+ux;VYSDqj/QoVOMn5cn+QZ5iw=="
 ---
 

@@ -23,6 +23,6 @@ images:
     height: 633
     title: "The Story of Dr Ignaz Semmelweis - “Savior of Moth..."
 
-secured: "mSx0HCBn0gckomwgbXWhQSHa3d5g0dn8WlL1AB0WYN8ozmKgaNGR3yC42Skzl0AHDXk5wX1IBPJ4dhRPkWj26zx4sW2Eb+s0XQczLugkr6Miv2CYa70kEUbyd+BoYQATUlGxjAkqTMmpDouWF/iRUtZjdd//RGMB4mCINCRVicNRk5OAyNc+n7Yb4PXkIJTadGPTOPKgSyYnPiuqbLd8KWpkSFlJk7sdOpKLMNkiaxCYpLgHX9cYsoHADrKdB+cTDxf4kU7D6+WGYP/B9Cgz3JEpVKoymCN74FW2P088ygGW8DprNOEiiveK0egmFHB4kDImxpnAV+aTOqP7aPPsL78pvc6V/E2Jux3OEFK3k/gfb2BwN/HQgvxJAFBDeJsK;zsnraP+q868flwBq3GCapg=="
+secured: "mznIQNlNPAeYslfpmzs6zJzJ1yDZno8NRFpgKKi7vuv5lryPteTq+jWXEcDvl+aT0DIQmpVpOiOhHqQCNPXX14O9hx76dcYKR90IH0iE0lFJ6ivHAPIQRMKGCxlR8OaX9QLRiAJ5Ng/+jIjFuuT2Ns78pF7ZC2ZB53RHgrmF3ueNi2DNhIs84a9vFHBQ2nWtNfNkvjYBovX0+IcFviMn178CcnVF3psu2Z0AFFgWS3yA5BVNKg7WAKCDd1kMSwNBkTes0xibMuPK0WbZTYhezCSYwsx+r+bLdX/W9Fm2r99rPjrGegAVIsh0THjWaJ0OGfGM+u3V9CMicFi0vwEu0kGMxci3gT4+pwuh1tKhB+huPRlFe+jxkteW/GWCHJx/;A6sDCR/CJGf+GyJpe6gYTA=="
 ---
 

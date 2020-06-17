@@ -23,6 +23,6 @@ images:
     height: 803
     title: "COVID-19 Dashboard - WHO regions comparison"
 
-secured: "XmH61XsS1gB0yAJOy3+3smFNIBMqksHcXhWyKGJBtQoEDCDOXYZAnv3CfddNGjs5MpDO2KzQmxiGbIPlkiAwEh4gwsMJzZwQiaoI0wQrrl6loqJAwZVis9gHjEU6AhI2d0et4WEELWV/pmZ7TKGCJ3g4bi5Bbx/AGqwU4D812uv48TkJLA+w8ASdDwj9tyY/PNC+azrOYz3BBzgrB/gbbZ6hpaa6r8aXvAF2BvYAZ1EsIgzYhSlHHr+/vvEmuUAhkuNVnmtTbZbCwcF50hbvltJaFCR+qFyubzyTxib/ikTnBkBPRjdPi7rmLlTnd3VVoTFBM4zmvvd6VAYShF9ZBx+fyOHfiqtkH2HAkuIuYkzvMXp2xzPUPukhJh+aR2+O;o1pmQxObJnnEzZioMHKNuQ=="
+secured: "DKmthIfTGp7Nh+qqwoZfnBlx8zlCg2FSiCHFw5Xc1XCH0YUdQRZ/138HPKqtKAr3PwzpTMFLhcBtw1pH23kwMeDe2i3d/DlnALSAcEgpo+vqexbA+yBiTlUWal3SyX5fyhQEPjxY1KEOa3JGkXPy7lXo0FPmVyx3WewF/A9DTFEz7if2y6Ub4T8+kjk0HW0PDlX43//KAYUqHbGIKX6S5mhfUj0kbHNVNF+ANGCRwu1pPdBUnmPbyLiC8cDDurpUoHSWhcLitlr+lx7RzEq0rsc6RyJAUzWGfRRtWtOvuNRRLWMss0unpSf/x5mmOjnKV/bU2X48s4dM/uYJW1EFEKPj+ZwN4kgESh75nHHGYK6xbFlx1QrgEqXAmGZW5D36;e490QrvojG5xNFYsIhqx+A=="
 ---
 

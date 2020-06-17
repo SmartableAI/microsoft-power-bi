@@ -4,7 +4,7 @@ excerpt: "Analyse de l'impact d'une crise majeure sur le nb de follower de certa
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Twitter-Analysis-During-COVID/m-p/1140624
 type: download
 publishedDateTime: 2020-06-03T22:13:00Z
-heat: 50
+heat: 51
 
 provider:
   name: PowerBI Community
@@ -23,6 +23,6 @@ images:
     height: 801
     title: "Twitter Analysis During COVID"
 
-secured: "fdpHMGyN7i/TVHN9xWzs0EMyC+vzQkZkt4m7MJ83kfodB/MArPdx84+n1swikHt8rbLKeLpT+lI7vOMIJn57B++mt5BYOG4S9Na3izX9fLUFtaNgWdUfyMHxt9f5UpfsBC/tdtOv+zvF7NSjpqrHx8JL+uQqNWViwE+IliZlLW0DhzAZ9tSaaLKUy7NGjsGutBtL23DU87J8w0O6KnUqSZUEgl5FjCNrmIICJM75QhhfPTQ3qqrP+MqZW2KZrE27dijFa6kvi/iq96Pyos0nubf4KBdodTuoLwitaTfJiStxOwtq/ej3vMBTgzMN2bi/Z3d2hjhJJsavdynAUH+Pwtnycu8iT9vg9QBmU2oz/91VowAjw2taMkQGalkiVC/0;ZwykGH4H2kyO8wD8jAZr9w=="
+secured: "wh7/w/RvBJ89R74h5eWReQr4U8KuvX0ImxZvWLw0kMl8Lg4PwBUK8vn9gl0mgFyqvlInxWsYTySX6srLuEw5u4E7WM389JyiUKJx0H2h+LL/scJo13bnzaVMHTKrQB5D0bLxphsz5q0DnuJTTZAgvZ+q0QLPsFZ1DZfl8AIXDHV2L9RO3A0t10HI2hPtT1g4IIz7lLi0EPACRl8uLHFIUmc/o++3AWgNMjzdFuCTTzMjRwT5XGLy74MsF1gRrb0fFaC9ymHyo0Wzr/Lg1pj/ikaJS4v1oJ9CaBKOPfbiAO/OgoJ5l816yQaOLm/VAVI4smjdc0MJuJQGPINNIUHk1McrijMzcEXg2VbqgmqB8ZK98YfpzvK2U0GLHvCX9Dnp;s/6MSg4nOb39HNulR0nSjA=="
 ---
 

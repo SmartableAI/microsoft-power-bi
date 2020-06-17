@@ -4,7 +4,7 @@ excerpt: "Hemos desarrollado este reporte consultando las fuentes de GitHub pues
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-FOR-CHILE-AND-LATINAMERICA/m-p/1090182
 type: download
 publishedDateTime: 2020-05-14T10:30:00Z
-heat: 50
+heat: 52
 
 provider:
   name: PowerBI Community
@@ -23,6 +23,6 @@ images:
     height: 902
     title: "COVID 19 FOR CHILE AND LATINAMERICA"
 
-secured: "Md0Wf499lqDQs0HnmNIvFATn+XGF029q0RtMqSfLtD/mJ5salUiHkyqnV6TdAQ/j/v+LySnQDlHWOMvuLKUCrducFEhZAqUR826bz7YaTYa4iaPPc2aYGxm+Wo6vpflyRlug+IIb7jyWUKqDSXf7FvrcJFuzEqe8PpuUMmgqJJ3vRIGNAG1bsqOEc2Tk+oy6SwKIMSwh5yhgTTA75YktIRQCH3oQRhSdBfQGUBKG00oSvDfrbD7oYZdXyyrLTjd+cDKzBdTTi/KMwSCl2AkGq+88I2bb0tJQFZQMPjrEta4VfKIcjZc/6pBUQOZMk7srIHrlT/R3PFzmtYQ2KgspDxh4dJiyxavdZ6Fs81hquMYXWjA7RUAywtSAkQezRp54;SsFAa9eHKCUuHbEKxRjDfw=="
+secured: "BvG9en8tUYYzanNNkjy0EZHNzCJutIm2qgYCGKslLL5xJDsQLicoyEAmX0YRM33wXH8GY6em1B9Co+6H3yh20lVWhOmPYVZ81fRc+PVz6yvSTruohVWfOeFCcfbBhXd1H4W2/qMmtW6szpfg+5OSymuG2ERiJS4KqyGP6Fmb31tH/bXbN9cncjeISwW7hurRpCULyyr//FVOTsjqidXqWBQ+RbpZJ1iBcmC84xwCfTq88Ny7t500U/vyCxIdfMQKSNaVbfqx7XhgX1etREfkqI/yibtAqmFDxvsr194FLKZCDJoJeCTtQ20Kd7bOit22GwXbcNuZbvuTgP7qXUwBLWZCNL5Q5oqxGXH6uAXtp3tYPEqrWUiJqiFNXeObTtpl;EzJgo8dERQatCJAEm2Ftuw=="
 ---
 
