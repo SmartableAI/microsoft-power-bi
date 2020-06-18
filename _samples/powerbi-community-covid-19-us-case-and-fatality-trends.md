@@ -16,6 +16,8 @@ provider:
 
 topics:
   - Power BI
+tags:
+  - COVID-19
 
 images:
   - url: https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3930/1/Annotation%202020-05-11%20155712.png

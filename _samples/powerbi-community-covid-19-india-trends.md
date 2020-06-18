@@ -16,6 +16,9 @@ provider:
 
 topics:
   - Power BI
+tags:
+  - COVID-19
+  - Health
 
 images:
   - url: https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3817/1/Covid%2019%20India.jpg

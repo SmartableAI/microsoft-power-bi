@@ -16,6 +16,8 @@ provider:
 
 topics:
   - Power BI
+tags:
+  - COVID-19
 
 images:
   - url: https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3778/1/CODI-19%20Dashboard.png

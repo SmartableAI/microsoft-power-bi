@@ -16,6 +16,8 @@ provider:
 
 topics:
   - Power BI
+tags:
+  - COVID-19
 
 images:
   - url: https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3673/1/Captura%20de%20Pantalla%202020-04-04%20a%20la(s)%2014.14.09.png

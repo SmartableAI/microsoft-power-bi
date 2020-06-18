@@ -16,6 +16,8 @@ provider:
 
 topics:
   - Power BI
+tags:
+  - Health
 
 images:
   - url: https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2580/1/Scientific-researcher-in-medical-PowerPoint-Templates%20%5BSalvo%20automaticamente%5D.png

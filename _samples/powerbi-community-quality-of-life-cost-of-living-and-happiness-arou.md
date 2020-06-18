@@ -16,6 +16,8 @@ provider:
 
 topics:
   - Power BI
+tags:
+  - Health
 
 images:
   - url: https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2684/1/Quality%20of%20Life%20and%20Happiness.JPG
