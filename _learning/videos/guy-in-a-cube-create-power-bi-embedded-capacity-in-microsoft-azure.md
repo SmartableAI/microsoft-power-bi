@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT5M48S
 publishedDateTime: 2017-10-11T14:35:05Z
-heat: 51
+heat: 49
 
 provider:
   name: Guy in a Cube
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Create Power BI Embedded capacity in Microsoft Azure"
 
-secured: "WBnZY9GXGRHMXbUaSt/7XhAAONVOanc0xVLlPI8P91JjhgOp/m2F5rvyIPGZBhuxEv8vtWkOPwl4nIEuxOhKkPOoclLzb19REWalWUihp738pghgnGuDU1zpODQoXHRCl6UpwQ2ZLqZxRqU0YvL8GTeVYNNF4B1+hfsKvGffe16wrroT7yE8GmvtNZbfSOq6mpmigD7pIKc2ZQlUMHdzWx6O4oykAEIZ/IQs1ehUXRBJReG5Ac+l4mc9lGQ9eMCLFsi4gtDqS0i5Gg6YDqIqoSoowPP1ANP1oP+BxKAXvL/CbaRpzpa70PgJNFe92H+H0uwVfr5Y16WX75JV8ei4oSwixreloPnPb3wt31mAGTaMPb4j4ZYeN9RfyqWogkSToo6RD7p/qYP7Wm4J+i9B3Q==;nN/FfRcT+KrKSSrjbd2eXA=="
+secured: "A1ZB6MTzQ0n3BFGWwLP+lxv0sMN39ep0HlcOHlutalYsfze779+yM/H6SwJ1uhnwlZjuNY4L8wK5ubcRjfzyLEY1+G6eK/qIGfYcO4jPpX5U/moYzSaBtlm5f8LfbkiiRVAdv3EDNNzHFTJL94rFMuUwDxwxFl9hqy8yN/01NLPJGrZRLRDmXxq5eeus6ncCdj4WDqDpjrrE+3jEUOTx2yvWNuC8/z2wDIqznERtGtMRIGJHZlHKsXtvLTMDf0NN+so9kwZTKsSknbkoNywP2GWbrE41rJKWfN/mkT+zBYmurZSBOhfKUB8u+B3P33bgV1NxY9kjvbGfvyCvqiYfRphXWNrPnGi45ZckriJiqgS1QNWqz27CzSmtzArcYCkhl4xjBmDOD+HoPnSS97mmCw==;qvWuAJWIj95CT37QMQhO8Q=="
 ---
 

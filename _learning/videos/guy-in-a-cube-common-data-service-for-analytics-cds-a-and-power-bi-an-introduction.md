@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT16M47S
 publishedDateTime: 2018-05-04T16:23:17Z
-heat: 52
+heat: 51
 
 provider:
   name: Guy in a Cube
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Common Data Service for Analytics (CDS-A) and Power BI - an Introduction"
 
-secured: "Ovx/IDC9D477a5++owNd+53/ENvRnMijYtoGC7+ieqHANVWyE3OVBr0YwOlIyGMn0O0AraOuCTJFCgHmpIxcORZb4D1CvORn+ztificuRk0/ImkR5jCUzkftFtUMC3xYu1M3+7MVlFpUPkHnqlyid88J5BfAeAsC2JrIofz3FJ8R7pk/awC3A453MyPiX2vvy1v8RcQrOQeoE/B/UJGwlybWJzI7Go80qFajX9TFaCi9SvbetaENOVwFFWb88CoxlbVzb79ml9rMEsxNvG+jfSTqJChUt/o3qQ7iNOf1wN6VsDHdDunsUrpxK5s2Adho8Y1Grw67uIMSxPNO9jCLxAU8CmxTHfMY7b/sLF2g+0mmhYMZlJMZsy2jAYqIzuWuQzgD5USBYfLGrqejidfDHg==;u9jelRc/TbEZmOAo30C+sQ=="
+secured: "5Xfayn4Tv4HiVMfufyWa2J79/spczV97xRS0B4KEjhpFkPS2nixYBvwG5IqbHz4Usj/QQEnVep2zbhwJwlo5snnPdUiKhG1mrhMm7FWsrdVsZVYcwgWYWzp/gG3jBhphtSucQnk9IguIBECkJsr9nkAw+rZFQYx+o2utHdjYewcLpb08iqKcJBU0N8XRCR2Z3OikLjSX75f9yyvJkqX2VbSABAv6ICVr28m3voDK7SxseBN7R8PyTuEKY4yuS3ZFYz9zOM9nWWPeK2hflCVTcuzRFVvlbliaSyNX4duuzp2d5RQsyjAaFkvT9ARHAtNEDoShCOsIxXAnNfbRruIf+zRmlN7OBQuFEsD54eSwSt7/qdgYsOU8btDdh1IDk01BC2N1qS1M7rCZ3NnbgiHzYQ==;iaStAF4ERgFdwrAHrVxU/Q=="
 ---
 

@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT3M13S
 publishedDateTime: 2020-03-17T15:00:22Z
-heat: 51
+heat: 50
 
 provider:
   name: Guy in a Cube
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Why can't I define my Power BI Aggregations???"
 
-secured: "Npuw6qYDYHsdA06y0nv4qfSbGqx5Mzc5H86JkJCH1X+jFBU3DVKdBD8Z1ZgYWi1ZUr5QzA7yEK0o5aF394co/GGepiEtjB8zIwHETzeW5Beqsd5HsdQ4l3r4bqmiZmfsMsVgx+xZ8FrdCIvdkO6+3Kn6PEJMOSCScYj5eeV3FdfaMejrXAH1xAL6WU4oeDVCv2ny6kKzF7UCZDzqmLeZb6kFlTRXXbeItPrqz5ofwhwZ/1atLYYdWvSirRzDWNZLwTtJ34Tu3dGLRxaPQ+V3L0grfOSe2kqKBudxiB7xETn6blOFcNPWqg0UVSs1SH9TPF3Sn08t8EaaxcwP2aeWyX9ugdG3bj5FnhfLdqkg/CpupPJ6LugPLanFmi6aQPl8eW12f2j4v+Hrc007VwDC0Q==;Ya0IYwFAP+YoFyDENy19/A=="
+secured: "OOj1jzbVjjZX+mLzsEfLjMNK55OZMqFOHYEWK59n5i8w6vGnWDDw7AsvJDPw9A/to2VYWeN7Sjzhac+U+wyyiJ+D4Is5MQix0aKB9xajriXtzpzhbWZyWLWJ1E7tTAvU2Hc3PvB3XG61KBPrlcgTwPlI2vcPOaVNVldZW49t4zAX7vHdiv5CaJntrEABtVbCfHxIUZ/rgqIBUUPLOA/ii2a0iwK9fSe4ghgRu7TtILAqJhInttjLksxSoppa5ELt4f41pIqOZiv8GAtuIrIGJ1yk3vlReSGT74LX2UUYjB0MKh3z2x2l5JeKTwnxs0mfzd6RDBiLsb47qeOV6kRc8rBrzb6pDGbLOm2oCylAmJ8GNyYq4u60oo+dc3lPR2lk1EbRh/EEQiZqvjATEErFdQ==;Sqp8CHQrOEKMakcsCMOZIQ=="
 ---
 

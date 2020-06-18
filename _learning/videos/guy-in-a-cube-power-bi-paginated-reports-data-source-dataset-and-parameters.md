@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT9M32S
 publishedDateTime: 2019-01-09T14:20:10Z
-heat: 57
+heat: 56
 
 provider:
   name: Guy in a Cube
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Power BI Paginated Reports: Data source, Dataset and parameters"
 
-secured: "TPQQCBwGX7WDm6lgo3qzVdKpNXAMZsPLrz27L/6IWwA8oP7YgbYGIpO4xqZLYOf5bsiNj8l+M31/5JoUQfFOnY+UhE93niRO9siniSiPvUguzo8zmQq3MkBf1R2pGeYNOKyfra0yb0R7syYhbp8fofkfTkS2eVxiwL6Ii2KEZnZEcK1vLI5iTvTNfkcwlhpE/lZ7GI76lyr9ksnuf1u4mKEs5Tac8435pnriLfVvjFcTHFUkHbw/UdPyUuTclkafY4jNtj+H+WXChe14Fzr3frZ+D1A7dSjIKFSxwNBe/zB48vtbCOTTP2TeS58kAU8/JZrUGW3wUiZiY1KQuZmZViS70SFtOSSlNOSzYCmuHnOQ4RdGEFwG6Imnq3eQJ/0vT1rUQ94DgBN5qpuyvSg+Rw==;XZqFxOeiCo1z4VRRIpXZ3Q=="
+secured: "e/3T5HnciiGl/Hku7T0iK95ZxGbqQkWO5AlgNSvITpdOuX+vtiZ+S+iNxmhLdPT1ZGi61UbVg6gIcociia4jG9fBPJ898c93n8Lhbh+04+Dj1+HKwrrGNaS0oIIiclUsOB8KA6nS7JTXNe35JD7fQUwnDe3OaRLFGyfGyJsc8XQB8RTwQQsTtiQWACGKyFbAq7Iz4/R+srfWnacUVzIm47dL9u0p6znm0OvB3JHocKSAakltw+u9t2Dd2cNrI5B6n5rO+FTCfvF6CTq1BsdTwP0xDYtSp3zZhPeRBeuGeLFsPWG4yPvFgZnxL5jeqmhIz63sgkY/7RPD9X1PX0zL5rlKh5a50zd3u8BGS++BUn7NXBXQdXdJQ78a27Bbz2AvBwFCoWk6QKtT29g62Pyezg==;NjQT4wsdZReS3M63t+V0Fw=="
 ---
 
