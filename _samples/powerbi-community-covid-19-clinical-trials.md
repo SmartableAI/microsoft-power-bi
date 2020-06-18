@@ -19,6 +19,7 @@ topics:
 tags:
   - COVID-19
   - Health
+  - Government
 
 images:
   - url: https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3825/1/COVID-19%20Clinical%20Trials.png

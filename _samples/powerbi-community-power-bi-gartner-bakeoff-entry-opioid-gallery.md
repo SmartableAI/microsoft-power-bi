@@ -18,6 +18,7 @@ topics:
   - Power BI
 tags:
   - Health
+  - Government
 
 images:
   - url: https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1702/1/screenshot.png

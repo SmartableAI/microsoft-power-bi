@@ -19,6 +19,7 @@ topics:
 tags:
   - COVID-19
   - Health
+  - Education
 
 images:
   - url: https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3571/1/Annotation%202020-03-23%20180326.png

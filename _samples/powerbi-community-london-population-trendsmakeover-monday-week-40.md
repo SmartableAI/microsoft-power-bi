@@ -18,6 +18,7 @@ topics:
   - Power BI
 tags:
   - Health
+  - Lifestyle
 
 images:
   - url: https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3048/4/Screenshot%20(70).png

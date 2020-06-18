@@ -16,6 +16,8 @@ provider:
 
 topics:
   - Power BI
+tags:
+  - Health
 
 images:
   - url: https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/603/1/ukpsprimarycaredemo.jpg

@@ -18,6 +18,10 @@ topics:
   - Power BI
 tags:
   - Health
+  - Education
+  - Government
+  - Lifestyle
+  - Economics
 
 images:
   - url: https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2466/1/World%20Data%20snap.jpg

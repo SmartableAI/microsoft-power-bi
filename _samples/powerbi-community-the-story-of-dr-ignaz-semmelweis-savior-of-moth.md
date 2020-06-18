@@ -16,6 +16,8 @@ provider:
 
 topics:
   - Power BI
+tags:
+  - Health
 
 images:
   - url: https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/250/1/MaternalChildBedFever-The%20Story%20of%20Dr%20Ignaz%20Semmelweis.png

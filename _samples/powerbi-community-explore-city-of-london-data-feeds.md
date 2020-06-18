@@ -16,6 +16,15 @@ provider:
 
 topics:
   - Power BI
+tags:
+  - Health
+  - Education
+  - Business
+  - Technology
+  - Sports
+  - Lifestyle
+  - Economics
+  - Social Media
 
 images:
   - url: https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/14/1/_SAM2415.JPG

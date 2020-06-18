@@ -16,6 +16,9 @@ provider:
 
 topics:
   - Power BI
+tags:
+  - Health
+  - Economics
 
 images:
   - url: https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/120/1/Where%20does%20electricity%20come%20from%20-%20small.PNG

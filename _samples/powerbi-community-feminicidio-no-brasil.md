@@ -18,6 +18,8 @@ topics:
   - Power BI
 tags:
   - Health
+  - Education
+  - Government
 
 images:
   - url: https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2620/1/Screenshot_6.png

@@ -18,6 +18,7 @@ topics:
   - Power BI
 tags:
   - Health
+  - Education
 
 images:
   - url: https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2785/1/Thumbnail.jpg

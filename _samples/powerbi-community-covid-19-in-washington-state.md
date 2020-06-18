@@ -19,6 +19,7 @@ topics:
 tags:
   - COVID-19
   - Health
+  - Government
 
 images:
   - url: https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3476/1/covid-19-in-wa-state.PNG

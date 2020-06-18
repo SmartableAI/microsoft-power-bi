@@ -16,6 +16,9 @@ provider:
 
 topics:
   - Power BI
+tags:
+  - Health
+  - Lifestyle
 
 images:
   - url: https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/999/1/USMortalityRates_1980_2014.PNG

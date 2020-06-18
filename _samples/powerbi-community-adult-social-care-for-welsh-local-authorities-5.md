@@ -16,6 +16,9 @@ provider:
 
 topics:
   - Power BI
+tags:
+  - Health
+  - Lifestyle
 
 images:
   - url: https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/931/1/Wales%20Delayed%20Transfers%20of%20Care%20PBI.PNG

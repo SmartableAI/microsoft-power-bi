@@ -18,6 +18,7 @@ topics:
   - Power BI
 tags:
   - COVID-19
+  - Technology
 
 images:
   - url: https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3948/1/OV%20UNV%20Data%20Challenge%20-%20Pushpa%20Bhandari%20Neupane.JPG

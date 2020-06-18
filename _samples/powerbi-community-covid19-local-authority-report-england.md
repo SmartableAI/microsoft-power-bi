@@ -19,6 +19,8 @@ topics:
 tags:
   - COVID-19
   - Health
+  - Education
+  - Business
 
 images:
   - url: https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3759/1/covid19.jpg

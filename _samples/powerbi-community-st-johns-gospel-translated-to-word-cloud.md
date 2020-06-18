@@ -16,6 +16,10 @@ provider:
 
 topics:
   - Power BI
+tags:
+  - Health
+  - Entertainment
+  - Lifestyle
 
 images:
   - url: https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1131/1/wordcloudjohnall.jpg

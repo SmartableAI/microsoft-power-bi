@@ -18,6 +18,8 @@ topics:
   - Power BI
 tags:
   - COVID-19
+  - Business
+  - Lifestyle
 
 images:
   - url: https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3819/1/DashboardThumbnail.PNG

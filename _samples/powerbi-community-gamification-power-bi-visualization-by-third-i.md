@@ -18,6 +18,9 @@ topics:
   - Power BI
 tags:
   - Health
+  - Education
+  - Business
+  - Lifestyle
 
 images:
   - url: https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2655/1/Third%20I_Power%20BI_Gamification_Report_Thumbnail.PNG
