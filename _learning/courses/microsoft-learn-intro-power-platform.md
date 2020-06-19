@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT35M
 ratings:
-  count: 3517
-  average: 4.7486496
-heat: 136
+  count: 3518
+  average: 4.7487206
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Power Platform - Introduction, business value, and demos"
 
-secured: "dMFfWGy4xYxSfXXwG7Gialv6dRqrEhgMniOBHBZy/CKhBQe1uS2hqCW21pM8+VkEBbPHlr7fZ7NQqEMX4e1fvH2hoz40w89Ukl3Iv2ornU9Bopj3hVbfyCGJU95IPDkpGetbHBSwzcI1CGwELfm1J62cuSeroK6/JUrE868mBvyWfb83GIwjzXgJspne7xHmLP9UoAaz6c9fyyp8omyS/YsLIOFX0rllwmiS3RTJ8F3i9uoBmux3/89kgFNrE+cK6Ne4xtrUybIXi5TU8dDxnrbhJUK8rhJra6YfhbuQSxt88rvX06xP1K0lBgJqt5zSZ+XxjCR2+6tPtDqBdCjS5WTu8GhF3dMwtkCdo7+NfV5vGzJGx7Zj3EzapxmPBxkc;tLok1jqtPLmKKHFTuhS2pg=="
+secured: "yiJCz6Gna1vsESkCUdc6fx9jpCrcRVrZKl26SFhIYxaYJI5eNuQKowvpFCM+coli6utzcQ/cy1s+39duaK+QLEldxqC5IzRY9WlEL3X3XFFq7//ijNHkl3Q0JdL9tKWisBFEOYcpAV+GsiXNqMXI7sjFaAb/gD6ku8NwFMfdRHEbq5nJ66kYyAm7bl0WL3aIAGSJz3q6Wt9m5W0stpsfE/i72jO15KtFWQhnH5CSwwQi34W0XXwwN8D4xir6QSF+I4eXKqFGIsYXjPXKJLlZtj7FwUvpq77BAHvm3EWZRN+w1pzHE8Priz6RdDxL7BbV9EIKN0AJPsNRyiGzca/hVw0sg9T7xwi72IzaA0i8ZrgGBuZdtbOLt3AANw8TUCK5trfxWZjxUUm294A/p6CeXA==;sZ2KGcfADoen3bzCjX7sVQ=="
 ---
 
