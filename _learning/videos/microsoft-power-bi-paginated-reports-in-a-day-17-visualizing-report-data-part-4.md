@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Power BI Paginated Reports in a Day - 17: Visualizing Report Data - Part 4"
 
-secured: "Qt+ClW0OjQbTGc+g6xMhyHDyPJFvhdESc1tZ9Btd4Imm3RedAB7Q0Z6xtnnjMi/xqlvTFU1QOkI7A6gH+RcsjgL9jmA0qK+Yf4KRsTnOhFpXXZcNLnm5A1lHnjLrJjIIpk2MpYUTzbdIGozKN0zkRRk+xfA+LwloLpXgLiSiWz5Gmd+zXcsg6cA57IEcQhc0dclyvCU6V/fP869s016rJ4QU+XssirtSuNBjJh715cc1tbGspsgTvOhFd6cX161aYjoEDvc6BM1sU/X9GtTcUOqlz229xPTfTt3eTh8AOAGH+ZNIMiPjyU73DQzti89bEf+BMX7IgH9dj5cuO1/oAPL2J/Vc6c15Gg0MsW9KybDnVp3hTVZ4H3YF5EjzjErMT2qsCrKB7m7pFtmETAmfQg==;0jNWMyHS7pKdbJmYNxdWaA=="
+secured: "sy7ZsyZi51Gq2I7re9uOeYtVcwgcmQvTp0STOiiLdXD5yKvS/13TTK7U1Iy5YlMNk4EvObBoHGM+kdBb7W4wAZ81jTD+9kyLfP9BiTF1jewIu+eh4AnRumiTHFS5AmsMEnfMlp28h8T+RDFjJACO+8De+eZFsA9AedlnMv/0N8IMh1iRnIUirwP1A/ErVAUhZ6+SscDnIk+TDMEixjd/2KwRJXGxsBIjTEY+jC0q6TUK1V0zeH/bVk3nyWYiOwZ3txpPbKs0heOO9dEjWx3UGq8aqfvC6DoyPj4cqdrsyz5F9eV3y3PYij+qXkhJU3bxR8/3cM25za2iQVdb+rbl5OZtLfpj9arGKgJZCaOCwqPgAdQITTLz4pvDu+nNsfc55oxMmUmlbsJb7Q5MC8exXw==;lMgdYQZP/Zhk+dKOxHBJEg=="
 ---
 
