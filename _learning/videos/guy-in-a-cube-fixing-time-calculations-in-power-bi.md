@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT4M26S
 publishedDateTime: 2017-07-05T15:24:12Z
-heat: 58
+heat: 57
 
 provider:
   name: Guy in a Cube
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Fixing Time Calculations in Power BI"
 
-secured: "LCHqcpWEGs+YpWNwtSbSO19CSEpCj6lBITJLVOtusQk+c1d4FrnHFjyhfecYFANDOgsIczLnwPcxrrIgJfeVGER2ZCkYU/dtuLSMPQ1tETDtyrwJQUlsBNWX0hKpSlIT8ntSiDfMVyRQzqPftI8RnleA6DeagUENgRUflFxR3ub9y9SsPwQvUgSkDboElxFWcW6ZJn2SqItqjNsbFq4VyQbnWb5r5MpXbaJgbZQwTv7Y2VqLieD+xm5XAfGelwjTWqySWTfrn134CC3efhVE3MkoTzCL8QYTu5v64PjK7Zi+PE0ATgl8xN26p17JRpka3/zazo6RUfVwqnmjRSvj8HUnhPG3ddduBV2aBmOokXXMdF+8Cl4AI8VaxZs/whS5QEbqTMmzBO1Vu+sm0FDH/w==;d1JhSD6BF9xVFCzL98zhNA=="
+secured: "ZBluGvUZHoHKLRHslxwiwB4t4JAU2UgOvti1aRzn6yqtdA+qzFFFZhyT4NNhonj3D11hsr+3Dawc4qv0SnzsPp/j0Ec74bi7PpClzbdPFvr66AvZ8dFseDq57oVnzU90n5DmQ+9QZSJF5FS9Mf3IBgrK1mPf+vDflM8cmEMBgDMlLMK/gk51RyEg845d8x2h1Mna5DV/gn/B8ntGvGAJLts19lz0RSfo967Wb4hd7W1jFeRIvX0Ir9ug8E2IIFAjo59eiN1+T9oMtiddNEPqidjezZY3VGBUXecl10VmLbf8VzKbB1FzPZyAf6NuVgd9Vjw8t86va7+pWVDNIwFrs3Iy0CtT33EpQOAIQdOc1RF6AzkPlQuiQgMYMmckLDZpxmSYh2mb6PN77DVoLFDp3Q==;qaoVL5YheMRM/JdEf08Q0w=="
 ---
 
