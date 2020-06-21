@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT10M33S
 publishedDateTime: 2017-09-05T15:11:58Z
-heat: 51
+heat: 50
 
 provider:
   name: Guy in a Cube
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Get an embed token for your Power BI dashboards and reports"
 
-secured: "z0oZVwAYJFYkPbQ837VxW5y3oIU70SaphAiyKWfrkgt0a1TqR45JiS27BHCOE8wqFtVZtSAdR+3HDlI7fNgOOfYCjrz9gBo8cHRDVijsc2b1b1dGcUoAueqpvz08CzaUV/k8odiLmFAhozoy7wRGh94qPUAHCi6Qd4JfHmhz4oGrdVdGjUdPLFn7oMmNY2Hc19thjlBqnZQDHBRpUQuyHwS9W7+vCyrHXEAHAVS2eSjeycrTJiaRsk5s48PUXV7mOGWpsrICWY94sKMF8o0WsZujs1XRZe8VzAr0FVZgynpRcnxl8RLQglGGIQzwYgSYSsLDF/Gh+x6RHbhd2ITkmKAR3Mo6tttJWajmrYOBoWAMKH8bc68to05sFwF/NeE9sGmX2CuvP9qZaL/8oW+5/Q==;L34jhtID2UOkEl+2obMmig=="
+secured: "cCqzhA0/g8ahAhfx78pEPv2qqAGQ71jq0lMWomzSlxEL/ODpMRFJZd5L5F4BP/c5wBUHlR9xvXAtYPW/n4BZ2RS2Nv1JvEx2Y9MKnma4Dz4JzQXx8j0KrM66PdRK8c4KTB6h5p1IWIai1NGGpacSrcikmIZzSD9KIcZpLRu56x4H8hE+n8/vuBpCFGzwA5ScFUgxZhZHcxJ8Ml2NAP+QTv0kXIXGC+fvHIt90kHCTDgGm2X5RxwR37EpDGtvt3J0LGiq5DUPeyk2SaJpcMNB0bX/5v4eiZJC1AWod5htChq4I/hGehEujTNJofIadkFotAEYFHHyU/A9PFdSDp5+EQrds36e935hxqMn40a365/s6SWsCl+TY2spAw5lrtw/XIUu0njwpCTdaagDr6YBVg==;7yz85JElQNhnhLQF8tFxHA=="
 ---
 
