@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Link from a Power BI Paginated report to a Power BI report"
 
-secured: "ViCNN/RqCQiJ1fo8BZtLJJmWUbR9MLK4jM/nwKkLYrXHgYlIqayvB259O4ZDd8DW035uGb9C/dajXS+t9bJuC9U2WL2crIp5ZjZUmU6zO7zjuL7Vv0cytetqmPVpu3mbt9J+Gd01ukRh8SfiaOcmbyjEYsbWbQkN+w/79LGUfAF5QKZcK0Pi188IG4zx3i7S4ifmPjOFToQPoc9gQLfn9yjWCNQ7SoxAGE9WI3Hpoz33Y8xRyNPRfFdyKwoQRNi3oILYSQPMDT3KkRRHP325VfHfT/dVe0rvHF/qEnD0tjqpSHdPS+AyKpZ7McbvRPeAxwMSESqamyJamxz565uAb85phgwvN8kuvyIv1GiFAiQYegoiKZ8ioLGi5XolDvKXdaebZZqyv2NAGtC1pOFx2A==;zPhiVxohDgtRnkX2VZaqhA=="
+secured: "ncYGWA5DxIY7vcwh5AfwJN6t++MNDU1GeOdFwoVHbYHx8mmijJMNYRyPdVRTFHU4SbT1BCKhtzxHF69/2iqYe5T0KCJTTBb/c6D1DxaiF/DF5IVKR++Z/amJ71yYUVE8DUtzmGiw/bOb7J1k0Y+fhihrcz2tth7XOGhQP63+2x535ojqLG+d9CB9VTwmoBUqKWelqMGWFtPTh0OpmDcuTBxG7mboTem5FYf6sjfz3d89+yOlfBHZwM2S8mA1qEy9xtfqiN4rz4Vq78XSYaRnuUJX+mxcUwcE6xhyZPtFAHKPokjLH5W8unO+k4F574ay+LccYJoKZcIbBnmkHwU/t9NuFhCk9CWmPTBp1xXLoscpPlbiOX6v+1OMDAE5AjHR0OU//JxAmzL/iH7tPRf1pw==;lqKQTrRO5sz3s/wii4kIog=="
 ---
 

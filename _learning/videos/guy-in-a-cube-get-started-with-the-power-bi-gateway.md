@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT13M18S
 publishedDateTime: 2020-03-05T16:00:04Z
-heat: 58
+heat: 57
 
 provider:
   name: Guy in a Cube
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Get started with the Power BI Gateway"
 
-secured: "HKhOlr0TTQAYotgosYaaWGyQAo4j0ASVfnl2EOu86UMc3rQtCu17ttSkJe0ebjHDv41axwqlPzJ68DfwcQAEeJ2iaQ5Q5QfQP2aUxYtg0atIe3Gr0Xtzg1OWGvGXRopEQxs3B3j3wkYDnSuRnPvN7n5Oq8x5Tr4TUg3ddeT5RZ5hG+IYPo0lPBkDFYSE1Ivs1OuDySHYUVFaP79VH5t+tnnz/0iHkiGF40pXpB49ptVw6fcHAM8wfwmWthJYeSkArgQEAQ/tc7wkYhcHJVhD7P8EvqTtg9dq/Lq6y2jcnjL1GcDRl0ZPFaO5dW6z3rigFJuqhpG1Qgpcm+I0244GgYDsdAqXAFxxJ6tD5g5dI3vwYr+kCEvO3XubtdnEULzBDcDYQugAbesxCT9VkG9wbw==;C/DiJ3GWBmNNVQlhhhyczw=="
+secured: "w4rOWprlv2yft9ScRbqnL7ucIuDIZ0+unW4A7azDT1saZv8mGbzznYNtHFl+bmgB0Fe+VlPCD5ExEGxBHuKHifJPdk9wEdUTsr1AvzicbNsYSWe42aus/wgUMKlDzReaQc5fqkkwUpPidFxWBAv4l3d478oBG/45tK3DIkb9SZyAOFJ93OiOPkpgB2gzoVuOmtlgUtMlOHrJVNbvUgLgGO8w6vU85+xAyUaccSrW4Nl/13lFDsUMjvT9ifava8HVJ/TOJrAQvHR09+OU2dGo+Yr0HPEDwcd5e2rEVr9EK5hZg43fz3HjK8fw7tAmJ2368p+R0jiQZL9YKvZ4WjO7g4vJJS23ZYqMQrczt//OOfqaFWGvYSSjuNqCUQ4gbxo0GoJ2hGf3M0OTXG8gIHEKYQ==;pasvrdUhX2mOg+KjR1CiWg=="
 ---
 

@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT7M40S
 publishedDateTime: 2018-09-04T16:08:58Z
-heat: 50
+heat: 51
 
 provider:
   name: Guy in a Cube
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Power BI For Report Consumers"
 
-secured: "af6a5XYPZfs9QvaPriPYGS+4TCqRrtJT/mL5gWtuyqD9envTs3nlyfFGOcPGbss0ifEN2UcKx+MDCkM64uDl4WoFmS3eiwmWewnUqu56I5VozA8A5zYSKjlKyjIEluJrXW8FxH5JL5ZHwXUJjyOZk1VehkK4CHeeO75BfBqpeil9eBFZLdt9DwfP3vovFQZkQ0RC79AEMtxVoC64HffHPJir+ZcyyQMCkgnIdV4BeTwkXxfdotrBO0GesimFivzeqg4KumEAQc7wOcjup1wSr65pF9HLqSmrVrmbEe10vEhxzQqySPDm7Xeti2CjN9+oRaOi118JQM1xaIcq+2HWR8L6MmgIVOsWHlwj6q1AEpw7bAvnO22onku03BVSndk3PKiXYianPzWH7qsQ27115Q==;r86ACOx318iNshuCgJJvIg=="
+secured: "gLO2JkodMOEQ3tyfUAG1dYJOqEBGc12/fIrZijEraO2YAH5j02UnsE50WpbpdOtK1NZFK8KtG/S9g1BI+OqMQH+grCUVMyfoqsCJq6QUfBenDBVMppgKl77hhhTz2OzeSBYL02TDL6JZjxsBwp8KOzl/aHXQCBDnItv0sYeYtIc58i4p6utL59fvQ7xPG+LD1B6hBJCBNjsZdQi2ncNMlEYN0kLag2k3MG/DQw/5hhmLPXNKvhJUY9w1HdLNXne5LdslRFYnODmsU8J4GJWNQp5ftjkL6gM3cB/61VJUT+NUJGUYXxmeHZxR5z99hM1iic/IGto9nZAqOT2XvuVk77UdFlhPOZnYyYpPXu1u5gX6gt40hjRXvMHwgvkyMTL/lPfNX2F+D/08NfEwzLxVoQ==;8kz7wg2Nm0XGqD5wFKP1xg=="
 ---
 

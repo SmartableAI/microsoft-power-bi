@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT12M22S
 publishedDateTime: 2020-04-26T22:33:51Z
-heat: 50
+heat: 51
 
 provider:
   name: Guy in a Cube
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Power BI User lookup with the gateway using Active Directory"
 
-secured: "EimMTSBmGpDbd4JCGXuLZgixOlO5xFCK3PaGd/YboC+WMrTq+nWLZcCB/n6xA/RvmGSCzkOX5dwwvrAP9JMkqeuqmR1MiJYgXybnnarixxOe6sk98dHjidVP93RspckFwn37jHCBfc1g+GsTDYxW9HlC5/cKXpLYLmJ4HPIgh4R3fVHlaLTqwPRCdeWJdgJMhJfMY2sYXKIlk6+HEWuPWgU1QCwBtOenkbuxgPwmvi//kSBo7xLOvE+BkakYoA6YG43MeZJdDliWJCeCGlV2jr/3Qz4766Ab2HO5UVuvyDEJfgWgC+RM+UXL6dC8i01T9bfQpoYym9ugggsV+oLpikQYs2OeEaJCGuLuDRLm8XOeOMKYieS7ezi15RYd2Y/cNFRw79nve8a5U5HtptLQAg==;WT0MZxj2/f2liwX4paiV7g=="
+secured: "KHe9YOu4rBRXCLuD4KJCuQMLM3fD/7Q7N+zc0Ic3QmAqPq8jtM1jxga4FGww9k4qFHLnihd6apv7kf51EuWqUrfsUtxlPKhvOiWNqwfGhLec9T9lIFvcVjyg49X81SL/Fv6km9ny1dYylDrRXQdgGhi9ISTS+mfszFFbKK3V+zm6oLmsod5rrnc9Gx7RNILHwpJQ6wh2oaC3xhJyBusXAPG329RPu0Q9jx9hn6YlknnPgabMlQ7bgtdt/oxT0h1elqmsk2eubSjJTPbrTufOcMiFGstcCXMJKJawGYWr9L+Px7I0kQ3pdjRPjzq4A8jDG8VLGBMAes/KKse0X+7M8egH06f4XUCkOFR6YDW0ll8V3inGkBqWaS8mMl9zMEVkir2vgYkIhyw0TxS8LHk8Qg==;zA+dj7xOu3URgHHMTP15ig=="
 ---
 
