@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Learn Today's Top Data Analysis Tools, Microsoft Excel, and Power BI with This $35 Bundle"
-excerpt: "Whether you run your own business, are thinking about launching one, or want to make a change, working like a data analyst can help."
-publishedDateTime: 2020-06-08T12:00:00Z
+excerpt: "The 2020 Master Microsoft Excel & Power BI Certification Bundle will teach you what you need to know. This nine-course bundle will get you up to speed on some of today's top data analysis tools ..."
+publishedDateTime: 2020-06-08T16:55:00Z
 webUrl: "https://www.entrepreneur.com/article/351506"
 ampWebUrl: "https://www.entrepreneur.com/amphtml/351506"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/351506"
@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "Learn Today's Top Data Analysis Tools, Microsoft Excel, and Power BI with This $35 Bundle"
 
-secured: "Y4nHyAsPLshwlf8dGMwdztbBv2oQTr92QtJa4RXngAwmB4eq6qChP2OlojmHuGVIv+vRtRYDRepiudn4EZQxvBk78y8VPZr/SllNWKgLhZHZayiDzlkBDk86LtNm7NfySsN0nnsaFmzyqj6ijquhRB0cEcp+WrYoRAAD1l8z9hlbO4lG82ONUT2uxkWZswWSb19m5c6lT4uzNgcqV2cup6CB/dj39h8iVVZOhCRZl0tyIomhBCElrczq/ToExVxtTsncrTOTTKELkXMpPjgIjemsBm7xEYCHIcqcDMp/Pw1wm6CtklzNEJStoBUF65AqiAyWu6bSIYU0ekJ1SkwDTyQWUA6QerVU4uUS9gCIb16DXav9b4h3qzswLc6fZrJG22IG9ak0O726Ad9DPmt1gGfcCjZYzbITcPesLShOjNXT/d1DCOdQOETkxBYu+oT0jOszYWZ3JeGhGRhg1lXVL1ZADmYj762aHPkXTQQpMzM=;Ot2O+q4qT3Rj6tMQzoJUFw=="
+secured: "Xjg32MybUAHWaqZpaw3920amlqJXdguD8MdqFeWG1/VJmxAzkEJELYTrBjG/SpcNe4iC2evT+U5SJOPQ1KupVxX7+74Qmh9fNQMK3S3/9XMN6Lwds221/VbWOHPMqM07gGbkyr5jUlxP1xkb7jqf0FP4kNd75DhqNq0M7kKClIZkIBexcKhlgdLfkigYGRkjPJ6nK8mjPCkLH5ceKZL9nNKhXe/Jfs3Eamxcd9YRGtmzGZ5mG5Qf29gl0M77hwHAhQtUhdrR9GLZqlTzcJ//cG5i3OGZnjfsFW2gPwE3lSh/tjgftu3fn/boqkaKwNHr1cLiKactYvw/6TI5E0Py1A==;I/AANEkoiTemUgzksoUAPA=="
 ---
 
