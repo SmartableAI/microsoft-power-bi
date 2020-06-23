@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "Learn Today's Top Data Analysis Tools, Microsoft Excel, and Power BI with This $35 Bundle"
 
-secured: "Erir4ZvlVBoIhB0Aq1M8h+/NikbF4b5xqL8Pf5bJZi6jMPmFw+qR++y8swvOflNyvmycdBlUyGwm1dwDGSbt1dM9PAnoTRkXJcjFBiFG+z+/YZGl2UknHE8cOOmPLi2Ln2u9o0pQr7SLdLSCCKPzmIje6Dt66P+rttCckJKEvONMuaY53COk4Zb7uhlcxit0nLfDmBOazAVr5fR740L5yZQUIok6Fm7/RI4mTIxrHJpq5IQQ2kr4OzgJp7hToEjFiAhnuplRL6Wa/8ejezhASJRcFcLM3qaol2ROtx5d9gJHJKZ8I9QbLv6XX/B3xglZovTuGG0U6U/XLVlt9llBsQ==;765LMCuxCEjp03gIp0wbyw=="
+secured: "esoVMtiTYI39536U0KUtNUmLR75rRLBWJreV77yBIXICXGd++RexPb/0UCDEmNSIcofCVUMY/y8dDjzmC1Eq8iAFnvqRauMBf4V9hvJ834fX/PLd+Iub1jcXqeD66XJ5s0ELx8ZAelJfcS23YdQF/Y4zkaHZcOHjMZlhej1UeYVITUqYfIqD/pIXKEE/qtOCbjAjg0MQj2+mWxDl2jCdHvONVn0RkRmtmmhR3AN9xpzHbIKxhe5PGncdhVkVx93grgNVHvs/6cgOtRNo54+i1CGd1ccRvukrqg/4GpLwCns5rwK9ci5PaHzf46U6gx9IRHZDLBtRXt3cY9tt+PeCrtnQCIp1eUDH8LWw7LnCmtGQkepE3OGr05e40yHP+ZVyLD2jkfjGHTTvde7emNBoPyqNnbPIuW2NA5S6pP/dkEvIJo9E/pMk4vUY+yvL6Bb0ljTVVfR/9dZIEF9yCM1K1hO3b37U7Q43EiL4hXn1dyAaT2oVb1N98YH1YKASga4NknX08mCmQUcdU3V3s5eSBQ==;tmtyFk+z/N1LON+3hf68Sw=="
 ---
 
