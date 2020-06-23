@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT18M
 ratings:
-  count: 5286
-  average: 4.684071
+  count: 5289
+  average: 4.6842504
 heat: 85
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Introduction to Power Platform"
 
-secured: "X+0AB3iPgPjIMTnCSrwbl4GJyUTckFJdwPmGEAWD+CQ3MxygypQ6ABkBjtf0Upth9gK+qQFAt9pt+Ci8sGGJUx28hBJIApcSRtb5dlsiMDmoRIxAU6gwaHQ9H8xxflAFJ1uEdJK8KHKEoCLoGkJUlnf8i6S1yrA+DTiATkmB0x97C9mELHd9gKDCOFvkf76cFZ55gPo8i5zmsAnkPZUpz5vvpkJeVIdD8cLlx4yO5nPooutxy99HT73D7YTKpBxURN4QE7Aa1OUYtlvyFzE17zFmagNDdHFbgAsqrXJDcffaO8WvBMYB5iIP0VBgk/F+zY/9+8UbTfayX2B0cK7nt+/FHYihB9NSlpLamUFWwiwEdeyBToPBxbf1bdqx7XBZxfBxRG+QAvvvLIYOe/EsjQ==;gxNDrTfgVaDCd2E+y4AdhQ=="
+secured: "4tqTsKJ5umY0WpHb0wKykNrUxGYwPULU9UQefV4MSI+XjUh52BTY6Npijw9dzIjv/VgYs9AYfod6Qxi8jyy4IGpgN3ZA+u8zfO49PVpthjxezWcYjvv7EeO11rwCLUcC/UNG0ANFIvxGeLWkEXQVTulvcujs5NslQuWwuQ8qamMwgZeABVXmfJF3QHHFYlOcPQXRoO/8ulQnwYtijFulXBEQbCzwN3BM+S4Lzbi+PTJusP/AHfBP1qzZrsB/JJeFHdUcNbeM+Drm2MYIam016FG93IAIyNzPLQDPuBsWOdaSrQMMC0WHvydU9gjzsgyc/2Ou0irC1Ce4SL0zdus60z/ozcNRiB+H7QVYoxKcfwtK0qJOfmZBNeDxASDBBm/JVoJHL+FtOT8dp0ucBMx7Ag==;oO4d/5MwdZNvb2WcJRUoQA=="
 ---
 

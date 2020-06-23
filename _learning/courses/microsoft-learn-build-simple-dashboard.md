@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT24M
 ratings:
-  count: 1367
-  average: 4.694221
+  count: 1368
+  average: 4.6929827
 heat: 62
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "How to build a simple dashboard"
 
-secured: "k5WyLrtp9Qz3RO1I2XkltOw3xdv32KXkF01P1xXWVOZMGf/X6+1ONVcEEarBLlhAuxp0426yUAOEw7f/MEznz1Vve2z/Q4b4RJ409sjy015eGJjqM6eZYapGLm/JdCxZKkjLp1lzz52CpE/J2uId0nPIdfz+2tqlxI7wr4nxlnB2qCPhZ+OOW3aGBNnkt1kn2u1NUzPSj9hywDB6ZLtNLb5NWrBimZWxUmzp/+XCTkKggqH/zbItf9G/EhxwmeFjVCC1M0Li7kpt2U4YMVRksIEvT3hGYZBrsq5IEoLwkm6f2NElrAFYwXefz8fv09HzZt3KS24KCOZnoktqDRNYHmyoEN9qGflhHdJXszmPqcyj1/4poatXH26hKZQCqCF+7qUmS/u/ALWKMZSIPSp7oA==;YilUmgqjzDPCIg7A6CxTQA=="
+secured: "quVdXwh7oaUIFunHUYuycoHy5DrlmYvhno9LdRrBfWbdkNqHsUYndy97UhUftj7/Ly7/pmer6vbEG6N9TjcQl04oeDDbeXM9sbjYVBh3UK+7piVMQCglJy2t1qHAL/52xU5E8zZBrnaWd+P+aydELvHB/uwA5ZXU7zgmZcD7XBD74ereNalyNOzC4ja1v8stEFTw1tyLLoqCsJAj2QsEJFzFchbSuYeEvtapMzB+1fYUGrxDxjjawVKaG5Prgcm6ZPXeqQoLCaLpmc/hktvr6lYAQCiFA6QaOoDl8yRL435uakNFHEKx/kvfYTRApy3iJRaMBWYs3HrCslvVVX1w/HrpmD+/+C8rGhL/sNRwC784xQkVsYYfX/iYDnNKiLdmLp/K1IVnDPi91n7qt2IKsA==;CeFK47ZvEud0fbDL47tR5Q=="
 ---
 

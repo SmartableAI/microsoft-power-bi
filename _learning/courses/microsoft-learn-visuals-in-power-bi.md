@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Use visuals in Power BI"
 
-secured: "i78hVpGNAtvacNuc9kAjjPiQ1WxEVnxOKWImkgl2+Xqd6G5btsqHS+BynBvcPPaI9t13hubOGKaE+6VQokFfnZ8Eb6MlOz5nedgWyJWPrxy2AaNQ8UjIhWCxLVRJa60BQumH3xtxk9acI8673n9v3ruFF9PwB5ntH5yDGqGYGOWsOlYumiXIfRb/dQvwtkNdxuHrZH1bFRAOkIEZZWkkX7u6I1e5WhVkntTpP/FcAHSWod1YxtbAhl9lkb5LYFFoSJe2nj719zv9bPhY0wtq8Yx/lC8fszSrgY/ihwtRRI3bCDNT9HDSLe4mplc3dN6at8f2H0rPBmNpyPpIpWEjCZJ/hjmhcjqPRY+p0SHh7cPDpHTXa3KYPL02es18vT+R2Q1Vlsyo2+sRFf7IKLNG/w==;dW07EIpHYcqMAX1Hy1bbxg=="
+secured: "jhixgO+b1sR+l7nzfrkpt+xuXudE7E+HryW6bhekfRp2Okq7iaURnhgVIuMpztp/+4I5gv9/GUrtk8fSA+qkfkY7hoox1t0JPTAhAW/MDJq4UKUL+cYoTq7IkSBZUxyMcXDGsxMkVU+W0DFBzV/TediANNzHZmAkdjRBOGOs04vAcPNxAyvpR5qBAXBLc9Y3r9GNEVzHPaIvpRnB5YIx8uTpGB2lsZXtS6SGy728wwKMagm8kEAjlMwodGZXT4upUQjan5psBGb6RNsWVRJpjs5ofrSFUzbkW3mz+oLHuF6whn7KZtA+esS5OW1brmoCBALO5HATi9cRJcRXu12OqRfWbXiXj0Q7c/vvqcQtivNMxyoG5mI0nwZBhB1f+0w/Ze1N7pJn4BiXkvmIVv2rlg==;VpuE6Y+5Z1BBQ/UtC++yyw=="
 ---
 
