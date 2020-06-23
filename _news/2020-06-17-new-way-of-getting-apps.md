@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-17T10:37:33Z
 webUrl: "https://powerbi.microsoft.com/en-us/blog/new-way-of-getting-apps/"
 type: article
 quality: 82
-heat: 82
+heat: 83
 published: true
 
 provider:
