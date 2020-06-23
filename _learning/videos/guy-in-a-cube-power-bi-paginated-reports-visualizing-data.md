@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Power BI Paginated Reports: Visualizing Data"
 
-secured: "k78X2IIBIrhgpHnxdXwe2JP/wKvHfu7ngbqe7dXkyFMZYBUSWmESKbMJiDYBnko/JIDXSyyvSUe9fovvrqjXf/YZDUMefnqghNhXyvfj/ACm+Hk5kIFMGKxCz98wIyLUUFAqJ6bg3oLyyqqIEC2YndJ6JAgh2qpsN2lStVkcUZ9nY/jQ2xdTvt4HmOZEzWGmzl9pmBr6K8gjpO6Wpntik1vW/jSs+7qwJZ8rpV0IwUcTNRJ37vTE2dm+DP6HqAD93P27vFuz4u0Rw5fRI0VE6W9UgLFlkxi2jHZW0zbDHJaIZ80lTYrN/7aaKjI5G0nx3eGrX3p7Su896Ym7owAKjjzGS6fLASZY4fhtv3+nlRLROWlb+6sMNm8IGSPd0k5LN6V0qFPQuBjWpMN0HxZtiQ==;CSsis40vv/acn/rrfcIV6w=="
+secured: "wUDr90XBq1LM6wDQt403rM4hRAFAIFanGeDAdbfq4dCM8bbgqgYdg9ADyYymS+t/goR/hQeYAb4uQZNbREYdrogvouggklEL3h9hpEo4goFwKyTOkEp7WXfdHinVJzdlcTgLPiTGpSV6Hz3N+acZeCQ9mwrxhXdnadCXFFRyOoHKsz5g+Ss7V+8lCfuARmZO7kCEny6egBWc7N3uPUfKqjsx7D+S178++X9/h3JxN8HlgX3L0BiaVd/WK2F9lcQh0lXh7RmLl1v7GyayMEG8sXB7LhNe83uoa7gpzJz9ewmA52B+rmdF/3fadWDItLW8TO4TXFY2rhnk3J0JYtg++lVhY9/zYN7BkxVbup4SMwMmKutb8YVUQ7HFRz/AeiIbpYx1ozPEMSpI4HfkfMESvg==;2TQu1gFRamt3j8+DaOkFBg=="
 ---
 

@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT7M44S
 publishedDateTime: 2017-08-24T15:05:13Z
-heat: 51
+heat: 53
 
 provider:
   name: Guy in a Cube
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Ragged Hierarchies in Analysis Services with Power BI and Excel"
 
-secured: "eAgamrzKQZ2AdSDwE+Oyj971/iS1b/K5hPQmAPyHwTuko1y/zlDgOtZUJ/KkExkGGc3lRMApxVttLpRY+syMlNfUIziP5+KDtWWKTg20SJKA0snPC9t82t4q3n6Hldf2CET4IQHuK2KkxiiOs5dN+2YQigtGkU5x9xdoU0piJyUm9GZF7b2T4d4HGsZMQVQ4lAewmlfjfiBdGsxjG1h5WVJbaZfjxDTbYl0VGh1t3uv6/qoPQ6F+FxiCiwRDJmP36mvreanYjQqPfmEIbzRZl0NAUH7qIEzc0O56S/pxC5+sJkOoH/RNWDl3k9G39KhB8pzKAgfIX2ZrqjHgZPm5LD2hQWoNam9O8SkcveApb6VjJMUa8P9LpWpU/NSx+asuDUPxDAiaNDKKvBuEC9A16w==;5mLNRfNaPZA1gE1g7M8Fzg=="
+secured: "cXrUaWfXlyCvgo06FJiZTnFj6tP1IBUc2WE6dpswstGI8N/l/EGqcDyulvXsaFuWvdY4+Ook+KRXumyf1RHr4Sv4E0VnbWPVvNttbp6GF29phN9RT5u5C6MJ0u7HZuyOEHTqbTqgtB/ZJnNueg3mZISznrNEqvjac+xyQ063FBt5c2yqaPN2QHiKd65Lll/Grq3Jq+YbGrHsz+1Ea6q7iYPi71krQfGefHTR7oAzJWynKJsa0ocs/p4y8EfhYdQybgBkf2yb0bnSKH9HZazMCjyRt5O8U5f+QKpcOZ5Hm1O8hhVL/kS/a93q+Xkrs2bJJpZDi1MZ4qjwAi1UR0ZIIVXebztLIWFBoKkpB/X6WNQK0h6XrGp/oNLvvyMRVr7YHzySIEGWAl5HFuuGmTpO7w==;bbe8W1jvE4kFEvKX2SQVmQ=="
 ---
 

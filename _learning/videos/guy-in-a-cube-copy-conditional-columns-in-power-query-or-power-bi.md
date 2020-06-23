@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT6M43S
 publishedDateTime: 2017-11-21T18:10:52Z
-heat: 53
+heat: 54
 
 provider:
   name: Guy in a Cube
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Copy Conditional Columns in Power Query or Power BI"
 
-secured: "McaPSLkAr9F6w3LJqmQpmGZGvZABUuZFMMnSJMVWC1J9Oo6cB8LX1wF0gHFTyPtKvWWgXAfDxZzmMx4loObnTbepvHoarVSCgtC0eDF+qnVlNcrTDRFB2p6ZT+XFuwsmWcGvan9PcZ13m1AcTqUgI8ykzZ8SqiIoctN1urT+u4/MbcLnZrBRqMu8DwDaHnEHGlUSoMItb3VISmGh6LaPqSvFMFS0mBoJ13OakAMHBgeUk4aJHhgzYTTMh/YZULMmiENCHxP7Y2PI6NI/LB82N73RUTYxGyIng4oLKTtTgPGszsDqtCLS6f2ykfxOoCFFafHNLHpUlCYX/dMy5tcdygUxBttc9J/90wryy+GJrMRd9XC46+AqH+0H+/8qEGw4gBaEdfV1vy4/DzA/k930IQ==;Bxv+RQCvpe562/D/8datlQ=="
+secured: "H8nZiOkeNxJ7xs6tPlh8T18aQZ87L9UhqZ+bRd82VvudORPWAbMGwx+M2nqLUeY28BoBNOA5VLdR18q9hxzXg/tOwwOn3Dlj6OGZpUTbIXA0lWxpM2UnjpmSbjO+VtuCcryIvmyE0FHwc6zYg/6PLdpT/GnjXo14QJM0oxyvFSPqs5WRzF/iCvckpMfdRgSAIxYnKQXKRVoS3Ae4KS1IBelMBEFl0T2WhKHhJ4tpJF8JiC7Dqnm8TmnhQ7jG54CIzfEOaXGZKwC/inyfZWVNkR2epEV0EBEFQkYgYNQKFf0Hk1pzXEoH+f8aWF6V1Wttge/2TVWuVqK3WSZ1xU/5oVKNtoJADa+KYhZBJi4XLFEyKw4s/xXnflzXEqKSDqBVKVLT+XOWv3dB4S4ipE6kPw==;cIIkCwxDqKk93M/yJRqEHg=="
 ---
 

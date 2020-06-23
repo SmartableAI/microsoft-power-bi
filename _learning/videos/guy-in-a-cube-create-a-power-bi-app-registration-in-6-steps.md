@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT8M3S
 publishedDateTime: 2018-02-06T17:30:22Z
-heat: 50
+heat: 53
 
 provider:
   name: Guy in a Cube
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Create a Power BI app registration in 6 steps"
 
-secured: "E/cmsjCP8cc9lKgLyVRlxmiHwFAXjOBAZboOSnye3c74/BjSMc8NgIPnCRGy8HYVD6OG0bSHetFMeq/GTXKlyUtSE9CYw+MuoSCYI+WPmjcLmyJf2gwWs+E+768eszZogc2vZMMoADNDleuZ1zXTtmMI35nlOuA8c79lBdbUat14YIBBagW4KoYdvk7vPAyb3j7Gt5KrPBFqbWGCcR0RmXN5UFuxIm1Mb9cmpN3jjAm3iLucG8/SK7RIe9LGOf2j0Sly1FYOqFggHGbtyJ0rT7Rfi9JcINEcJv7eu8id4ENWOKNCubfp64mgiXVve1HdKN1aticqyKeVtsJEirm4036WdovIEprLGQR7Hb7RShgAHpavlzP+RhIkCqwhmRKhlD4AWShaIXZP3gFL1/5L6g==;dyF8XjrgUOa+HxpZhiEGnQ=="
+secured: "UAXhtQOcxN3MrZG/ascQnYVbiTO8T490Z3/Bmww/Dpi6mFWNJXGYpXy7R7myxDO6HL9l7LjZOuA7X2mvkrhQZ1wC5/cOVSi+6pddnQWXy+ir6P0R16XevvOpia/32SnMQMVqEACu5be/HNVNePvkXaYLoku3yJCXNCmfXok8ML5D+XKXtZLI2X/2Y3vR+XC4evTgww3z1t5mwd7eoskyh7x/Q2Ww0R4Zfo4rCS61YGcl/dLPvKJwVpbIbec+tpdLAoljd1depldk1pyW7dQUhVtlFp7B+aF31WohriLa3fZTqAdTcz6y4OKFtNjJR1OOejIvwkcMYvM7DNWSebdCXEqeOnpYrpnnHIOfn263NWZ8htZBrJefyrbYe6S5eDDK3XecX5+tyC9Gnl2EGQLwoA==;L2MC4affvmzb6yuFoHCT1w=="
 ---
 
