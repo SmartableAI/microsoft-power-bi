@@ -8,7 +8,7 @@ ampWebUrl: "https://www.neowin.net/amp/get-the-2020-master-microsoft-excel--powe
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/get-the-2020-master-microsoft-excel--power-bi-certification-bundle-for-just-3499/"
 type: article
 quality: 91
-heat: 91
+heat: 93
 published: true
 
 provider:
