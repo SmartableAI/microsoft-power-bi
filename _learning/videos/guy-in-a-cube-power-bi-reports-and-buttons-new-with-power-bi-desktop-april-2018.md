@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT7M53S
 publishedDateTime: 2018-04-25T15:52:10Z
-heat: 76
+heat: 72
 
 provider:
   name: Guy in a Cube
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Power BI Reports and Buttons (new with Power BI Desktop - April 2018)"
 
-secured: "9jl2D3qusrIlJAq01nIACLOXeOibWxdbIL0ieifLX+TA7dLKgpzzmQkaqk8XCBd5nNpi2+b7yVTalZvy+pN5SSrbcr1pGGZnD3Edx/6iMVLDijFi4cZraF0eUoNcRzZAyzjxFd+rsTbKC2muAc/q2hBucS1y5XUhCLKW5ujYZRnWPi3LyS/SPFENlA5TWzSSLTl8DWjOJXQtGZ0P5pD78jCv5V2Q6/tMStk0l2bTjFslpSDjnoB5/OEImgfixWxX3vdJ6znkxM10xUm/8yrcfwHgK2jqoGr2CcOKSkBjz+zgk7hfSsKwmPhCj4iBF6v56/Gim17wvyBJ5aMX7N0r32QeapKijzipqJvle7KJa/bF92nkAAQ9GpMFVrrJg47ejGI2Ssnu/Iom6vt7gm2mwQ==;Gd7LTsJMD42mLqJYqqUqzA=="
+secured: "U7+ay7lYDn+NerLty5JI6UeZ3kYw3/PvOuTl3/FI5LoNBF6zTCW1iYLtoB9NkdzyIePyrJoPC9NOMkXP5oqNJPSUrZV9CjDryUwnZPhh2eXj9uKrPoA9L7jUEFv8MIaqHmGzpco1CQ1fX1iVL0mYcjLKQ/Ul4p7I7hSCfIULC6Tdl2jr5V1ok4xXYSZZmgJlDnyr9Jk3ADEoUhEc41tqyLTL7km7gcnDLFhiGV8jhKGPOwrjvyCBgnPRQDFpWiAQHcVo7U//XXYl9VKRrDDQ3BaK+jQ+/7R7nd3H5BadvIBl/+y4VeRlIHsyuRdYPbz9hAGHn1e4lRmd26RzVkVvrMdH4L52BAksZCSA2EShArxjj+/sA5ifW+sZxkehCeZBkzmopck6/kN45VjeFI6x6Q==;0EMayPT6CQS41PgyUkVfTQ=="
 ---
 

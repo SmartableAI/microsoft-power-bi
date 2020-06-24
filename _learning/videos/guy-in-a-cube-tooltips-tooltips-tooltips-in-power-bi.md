@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT5M43S
 publishedDateTime: 2017-06-01T17:08:07Z
-heat: 55
+heat: 54
 
 provider:
   name: Guy in a Cube
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Tooltips, tooltips, tooltips in Power BI"
 
-secured: "A932q25/fQqt6/xcOv2EBVKGtIXLytYUA+ntkUhDXzzahRYHsdiHY1W8O0Ps9HvrRMXGvliYWGUpj9FvAoATpZvUgQCsHHmK9UmBizD8UTNMh0/YQ/MGDlwu00+G+4+q298gd1QrAGCzUcn3sd+J813xRaVFFqDW6JWEpb9KRO06zmqdiCRg3N+XVEnrnxw3gNcdDdzL1f6PtOMnyvilV7Gf0z5dsLvbWHgzrCEwXA1rfq1n1oE1/NUJ4n3EVMKX2Q9EdO0qOEDhjVTJMjIcfD5AtUWXa9vXp2p+b3YFi25p1A025fqBUKf9GoGqUDWpUWQY0CQUupBXqvgcGqX3rfPqr+e5yIfVEvP+FLH4WItEDeD7FhQOFiqNWbuxx6+CfA026Rs3WkUkHS18AkswFw==;V8C13lvYZ1YakIOo156Vfw=="
+secured: "WT2bF/nRf2I3YDo4mYIYdIuOEPzW79yxvF8kiYi8G/WfwQP2TT56cVloy4q9rR8UpaUxlMcdVjy+wB/vnzpwHUCmIoM+dKwG+Ck4TR8g2jPvB5FKzntjVe+qPowDPheCUmMVQ+c2ASvMCnYwtluEZk39mk3NonO9WO/pKNl0LfY7e+U61OZj0X/cMspi/zAlVIY1UdBoDWIWyxqwdioSpA7aNOWqfVsLYbkBnzikfEN8qc+lqxDFH2Y/F+M1olEISm05sjChZFg/RhtipPWG+4DW+l5mknzq2JFdH0/o/04JcN78jndhl9i3MkeoI4zUqa+UJgTkUlXgvcP1cP3wdSwE4PTZg8iFmt788LWxB/4lOcTdohpJGtr2PG5imkkV5QRJ4+WraebmMRhup6gaiA==;mGbI/5OXCX5Oekpo7Mu2jg=="
 ---
 

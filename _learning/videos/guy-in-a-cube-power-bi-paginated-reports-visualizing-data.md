@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT13M41S
 publishedDateTime: 2019-01-09T14:20:10Z
-heat: 51
+heat: 53
 
 provider:
   name: Guy in a Cube
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Power BI Paginated Reports: Visualizing Data"
 
-secured: "qWCYhYQg8p0IZqRVT6We7bFtVMsSMpeHxtdsoYzcwEmzvD45aRHS3+LSJQlfkUs2S4uvoTqmogOgd5PQ1knGLBXWLA/t2uVHyTFBro39TMpq8o2+KwzmXcq4+cQY2GYFbHqvVZ5uBemFPH1ns04Tz7aKKJ5h/VR7CN4f7R0YWh7sx8yp66B92ocqr7TXCxbW+ibp4pf6tRTkNjICqR/bJWvEDsVehlziT2lCCJGSIQA46x3IF19shaKippDmWV9cFUr+WgJOXLLghvQi3to/5hRem+DHzerfgWfgRWMEq28CgXfUTQ5b0nz54YvGLRYbg4PajM4VtvbRkNqnPFTtysNQLxLpTwa7BxZK+npCQVURcwPcPVkqchitW2KiNwyeYz2wmEalWewf44+TS/k9dg==;F3ggzdneeKxvv5lzlS1uqQ=="
+secured: "1EycqM+C5MIAH2n+yIVPNhl5roCBi+jU/C1ELMfiLh8yzQ7ya8TbToAboDLg4pViD3zuRv54YM88n2QMIjCCxG4sk8fV36/TQd/pNItNMhJ1KVfyCYSmIzTzTtymxcNOqOzL4JtmZ+bZ+l5X2bZjskZCAosMfetMVcrUbwGv+iHGlnXhJEB9KZZZcW0/P1JdY/m7aLzh9EGLJAeXW6tVj2RzaEiqdO6qb51FnFDtRglwLMVIAVbhfHedBU7Mj5EMmk0sKEoe543w+20328MUP8Dq69DEF5C/TvGEt1sVM81+ikvwA1hoJ4a/yU02MiXMrlGVdnt3WotuC8wXRLRBGTQCtPkdHVFUPDhxWxMZxB9Now0F8RaYcEntOwLJfGmYv4yzq62eFepa+FeN2XAliA==;W+lMmr56etz+QGHQJAi2wA=="
 ---
 
