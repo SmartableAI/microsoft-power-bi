@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT7M46S
 publishedDateTime: 2020-03-18T15:00:15Z
-heat: 53
+heat: 52
 
 provider:
   name: Guy in a Cube
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Are you HITTING your Power BI aggregations???"
 
-secured: "755RDVdMoBJllvF08aAKhBuVe1pl5n9rGJ2s83uZknv6dNThrHJXMrBeF1+qNUhhQsxlF27oeOd7cV9We136a1cot5jX7PxNCJwOc3sQ5r9YNlLArkLowgDObxg92idi+jU8ccyDcXqzPlamxKGFIJzQEfNiGl24/BncrQTSf2CVuNop4fo+8CUBsZvuKOcTXKpoZYZy2q0EDJOUxoh1fFZx3CAoaUgW098svA4agiNfhAlC1r4UvJf9GUt+GBSkB6uAQqj2ba0f8ZtnWJ95fKUlYP0Z3eNnsc9OjujGltmi1mr/FAiq+Glx8IJEPWbIWgccGWHXmN0O11WLynkZawa63+l7CgrB5zJTOydX2Ha9o0nIEln5BP2E6dlriwXZJN7W6q+K1Ua++IyQ5e+q2g==;hiBs8i/X2RJFrCFwPRiBVw=="
+secured: "rfzyLoA4Ovwtxei9NV1Y7zvtJ4L8cKysaVLXjr15rQKDJWYIORrPwE2021jyId9LZInWdzk2epnmmCecks/luKkX7eNR++V9bOHNICc3lKTNV4PVJ3Wb+dfWOGDdNzAwRk20Bpsrq46kC12NiLoftByqhpMg2HmRuN9OZjyr4ymi0+4GgUSRSFdmjuioHczE2e2VSruyNXckC9EdQ36gevMESO6k7OkoN3up5wNgmwyR+dcFGjwuQn4G90jUcrPAodesSxXbkIKPNiNf2CEK9zdpSuc1U288UDy9Oq1y5ubsKajEYvfED6DyQplxdMVUxfgeHEC/Cq5s8c7dbBES0nxieCQIzsfXjMq4PAUwiSCI9TWEM/ofHbOymFe/Hhd03WENuaVOOFy+dO8p3t9T3Q==;DqiIpoULUuE+ux2bijGO4w=="
 ---
 

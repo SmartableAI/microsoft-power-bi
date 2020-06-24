@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT4M7S
 publishedDateTime: 2018-03-20T15:10:00Z
-heat: 51
+heat: 52
 
 provider:
   name: Guy in a Cube
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "3 ways to try Power BI"
 
-secured: "HcFNz0vVYIsG/O5MI+TjbAxKYufRDFGPk+PKfMB3/BiZD+tiyNkAq9jVfnuG0XGIdUexXMYcMNX+erZR3TrWD6ETAbBDk+clPh1DaQVxr8EjKcpOKzyEqIK98HJvK2vRwqQ1o+jDDAbSzTQGt5VMFBRHSbvNXCXIixm8gu/wgYCcz22SDKDrLnlWL7Yj+lo2D2lLbZXBX7WKpI497GIRF0nEOtWs9uASmZ0kqPq//Jbe3E/l/Q3F/daqA/umMyPk/4AW4h7N8X9FM90OqF5nX6rIqzBX8vf68XpMikZq5tqteKfmkpkW3qSyakvnnx0Pw6ZCqChZNHH5/jjIKPbnrYA/gxsWIzDdCFlYrPnElyHkvbKIqWChlSMzdW80qUNav03L7pk+fQZ9BtFMPHLpUQ==;uggwwsMtVgZNaurqr6F6cQ=="
+secured: "LIpAXyRA8hGmjYH9AQ8iRzN+thpYVeVNo9l76LR+R4uLXsl2iaW4KpfU1QFoVmoJPiSAG4y+4caZ+/E9J0UM8/V1RufpFmg81x/8bA74oCU3QW1PYL/W67N4UUp/2MD9LU1usRtSmZ4VyafXWXXi7+/s1DWcHaoIkl9wQ7fmV2K0g8O/at15krvmozOMJwapirrswj10OYEwvPo/7563gDc/qq4YlHfaZZTpObOCeppyYZ721jN/ZnXEqXkoLeiHUXpabCj4GXBZ8+xCu57MqUAj4s+sJO2YlX7ShCiwwKCDm0N+TPR3G44HCtNm5uQaCisZKyVkvA/bN4Esp+hZfySQ6XYFRGRDd0oX+Tvpu0uCf86Rt3DX26bDVxlHwFbdWbsoK2JTP0TU5ttpl/v8KQ==;91IuanKYZv2Y+mXdggAbMQ=="
 ---
 

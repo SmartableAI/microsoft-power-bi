@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT7M7S
 publishedDateTime: 2017-07-19T16:19:21Z
-heat: 52
+heat: 54
 
 provider:
   name: Guy in a Cube
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Report level measures with Power BI live connections"
 
-secured: "5p2T7h5gslROdOR31QjCGIs1B6gqHHwDPylQHKoNFO/R4Nrt3J7fURIxtWYP0c43KqJSLfyCxOkg8rQxGJpXyjf66rtuO/8pQJsz9aCXHaGB3+X+5Q43vXewW5Cl8b4tdTHzj/nr6AE3gXJ5YOT4MMlvg1qZ7UKiuewK5ugdAhW2lT6A6587QO0pRlBsZcmjM5KnS9xXkb92TT/LU1C/7sLH7f13QMbu0RgfzY16Qwd4L97297bOEghm0LqnhIGZXyz6ZzAVfUK1dH1Qv8oLbSamDUVwEgeukdQYAWcHBkQRqyWtEtmAS150VnGL9kfFWcZT+bty9A3oojbvk3eWOVsJ4zdPIRlh1ica2GXzH603ZD7EicX4sVRqOaTAW1K6/ZnGReavn96CeU2nDq3knA==;3yKs4wlyS/7C9LUDIiFmew=="
+secured: "uW3TvGfC1xrYlPvXZ5i+9YsDxFTJhQzjwNJ89kgr0t0QWuF4hpfV5pFJeEgIB+c9X3eoyAQXNiZ+FV/miwkbO3RVXANL87QwVDKfOy2LC/NRMJsZhj/rb6A9X7wAISc0hMSuEgdeM7DHqWjDoQY/tjPy/4QaDsdcyv6Ju/hmrklXgnpm31k7lkMkCyhAW2AoD2YHYDo1VjQnuzpV0rYs7yFAqY5RERu7iwKEy4iAIbdFHYw8Pvh8uXs+Xd9+EI6yoQYaxyD6xxPFxCeaeE/ukujbPgtR1j92gAMqAVTNfhYMv6jXC69w8G4G/P/bBda2JGOSX0mzFN44oIhSnQgycWRj6pM6V2crEKTgn3Q8IeEWWArzNgBeh4wyZsHGkp5sEOUsqd7q1hUvV3/JxEzRfg==;5GXkilBGtc5PghfiHvfLPQ=="
 ---
 
