@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT6M43S
 publishedDateTime: 2019-01-16T13:23:10Z
-heat: 56
+heat: 57
 
 provider:
   name: Guy in a Cube
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Link from a Power BI Paginated report to a Power BI report"
 
-secured: "JFc8AY4zyY+gdu49nHMwJEffydjYfuZxE6qGX08HqLkPiM6LwCkNFlq0UWkKGrfBDBghkmY7pWFiyvWXuY6nYyE16InL0QMUvN5CNv/QLYqQtHBIaTlTD/r52KSqalBYReA8lhOuci0StTbuNp+KQ1JZ6RTySqB2dAJgulqX8AHK9OdweXEGFp5RRYNJT8SsV0bwx0FZTLMFIUsxwAQuP5YoGSjfFgPdAFhIFBuiNCQ+NFHgcFCBCcG0ydfGd0NJEBZkpiY60/IRXnI7PIV8YL0rsGENmFxqEF3HVBhOZd//8+AcsgupGgKEi9X/YlmJeCXYsNhTniwK2VmKKC6jjZjwpX3ShKifdd3mSnjwpi7lzj3dBgcsEXuiSmJ3RWEcHcEET1BjOpRGEyrQFGTK9g==;h6XNiC4w8srk6Mey7LmPPw=="
+secured: "PgLdRpfDZNTfA7/kw6LEipctn741pF/htpZq8Q0h0Y7QP9J910tYjJcEAXdUe9kPPsPK6ecTFOPNR1TBq6A+3Jcg89A3VSLn+3PreFBi55qDru3gCtW7NaRnTP20jquuOSLYEN+P4+6ie3zbNGZjambTZkRBqSMfG+t7EWrNPQd+w/6jSoQCnKeylZt0xCaiSesiHIiwRy42vZqBy2RExXWcnCOresGIW088d/pvts2M+NL42xCO1n/GHDzsfHp83d3JSmfoOJoMuytPi1wOqpl+AONDWvvsSV4DNFj2dCDUdrUk9nTczpOoRvR8ay39cmr3ErYlqPfWQm0VAnWihqB8mM+IjRR1igAkZPf2YyELTFhNZ6WhZIFg6+PcxSaPkO/+TZ0tOWAPo5lexGynlA==;X/JAy6awQsQNEvt4mY9wxg=="
 ---
 
