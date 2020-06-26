@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT53M
 ratings:
-  count: 2479
-  average: 4.716418
+  count: 2480
+  average: 4.716532
 heat: 61
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Explore data in Power BI"
 
-secured: "Kd+07YAl7XN1Fb3qCAfhXBZFi0cDHymRiSmlbXCARqetIO8oFG1eLJCHmRd6sv9q+LA9us9ddgqbN4L15oBaASSOT6pOmuOQPayG9FJZonoypZ17m6ycEwyV6ij1IT8X1+5s6M0Wr7j53xFPjmUro1H+Dnn3CVd87Mz0IdqVslgK9612S8Jv6T1Kh/qN6vj3IrQ9WeJNUtyZiNm5upwMPq0koZU4UZQpcU1chrDfyUQN/GBvz80rPSHqZKjGXuUeSeqUuBqCb0dbrUo8qZYjwOzL/38xy9aWuCOINXgNh1dLbcRzxg//ImF2juiZrwUoxdzdooChEB4e+U24UCrQY0z6gzJNFs81fTszfSUL9PL7wqDtffjcNFel3g+bGg5x/heeo+FRs/OFTpF4f+F73Q==;NjlRdJoSgScmCE0sviCKUQ=="
+secured: "3XIvofAynHzNXHrB19tYvSGbV9Zv3+m3uLeguD59hU4G4T3vNePJ7lCDpxBEeN9HZznncydQ1QXfTD7dC2Cf+7X8ARDUBHsAOgm9KIckMC9BNKF+o8U1UGXWCl3c3gDtgZ2sSf1hklxkt8dqEUlohFxLuUcqcOD49WPP8sivnU3PTM12si/XivArpvb7zev8qlLFl9485MFIj9EBnSJU/UEtblQNDJV7bd13KiDmjmopW1yKXA1KFQ/ReXKtlj2OHVUf84SS3GQdCgBe8wsmQ3ubqiPcrvUmUReIKpeDdMbQBkKAZ3PFnb3DAcR+dYSa0lXCDAfICZ7VvM3Qtl89RdN1tJ64Po/5zD+ZaUrS0ph/rheV9fqvMpIO5QYeaf2a4Cb8DwNdVDv3poMjbr/neg==;m+A0FXyasOmtEuQJdWBYAQ=="
 ---
 
