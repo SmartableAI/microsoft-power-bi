@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT9M22S
 publishedDateTime: 2019-08-11T11:58:34Z
-heat: 51
+heat: 52
 
 provider:
   name: Guy in a Cube
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "5 ways to get Power BI Support #pbifamily"
 
-secured: "Vdsp1YFss6+KLHhMkGFP1SgSYiWcZlV+b7GmA5kVA30nLQlIfo3xkcHiOovLld8VyLfqDMjqLtmzOKeYmGiZwG+4IPJFjC+8sfa1il9wjQqgBOh7GGwTiuBNf2VefLZWxBlI04wddTOh2S4NvLdPW6p2i784zQXEsZebcs7Gp6/uokjir7POVIkbdcJ1FWBqm2kZkx8EsCLQk4jOBuk6V9bLVakv7lz4+OKLrDQCNrrS9EF2vffUAA2KKBJkRP4AzIOJ9rqD97EGy6BSjzcOBBUbgY2e7iJLAaJjcfrhhLZpJ3Gc7s7NjhaD508vLvtIbjropsRTMAjKqXmoJ5zw/j0jzn4ODj6fzjWuE0+0GGx+EL/gMpYG6dLBolgBkIwYEgiCQaBKOMRmGLhIsdc1NA==;tJ+xptSxSSuohyVXe5/y5Q=="
+secured: "sCnd3N0jRxsD3GG8ZIiTarLtl0byno/fsieDBTNtJcxEMKHaycquEf72+ap49UYCYqDVUe4Jy3TVIKe6/SMdzBK2ywrU/AYAin44GsOw8oU7qtPs55aJ585JUvLBM8PtTo5s6xdMI4YC6PZ+gyCTP7Er8lo80WGb89yoXJktMOBO+R++qNvfnWR/GXW+A72e7wK+8PN2/LepRSqp4ZUFACqehgcJZPDT/jRjM7aZH1sKtqNfXc+WxoBqFF7B0QjsW2AodM5BkOMvRrgcJK+2UUJess+2h6x+ZiHDux0vfif8FO7YMsCGnIrb8di1Wx8TsYMdw7kX3xanQ2ZFul/NhmpwmRmaC6GAXcMP9g1p7/Wyiq0YuDQBGk8YZtFsgY/2dFeMgGMNrQwp1hH+ezsoyg==;R7C79Eyxka115Y87nSSJeQ=="
 ---
 

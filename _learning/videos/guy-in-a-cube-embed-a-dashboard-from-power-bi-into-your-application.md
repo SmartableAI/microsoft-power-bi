@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT13M43S
 publishedDateTime: 2017-03-01T00:37:16Z
-heat: 67
+heat: 68
 
 provider:
   name: Guy in a Cube
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Embed a dashboard from Power BI into your application"
 
-secured: "dgv58CXgH7KyQOojCz8BEr9PkpMIUEIZ5a44ksBPLC+1vtz7VExSTK5hkvOcazxFjjInU3BNTbNEVP9GjZfJHfXlaYshuM/cQ0HR/vJhCdET46b+uK3KBW2AVo8KnkivxP6TzhQNQeMKLodyhNCqAIZpYbUmgpulpPaQt86cgOi/Ssmu8uL8VZTGQoAyCzwPv8sQqFIWLY4bya0UcGIn7oSCe/YgFsSL4III/yM16rj8WdTkBHWobriF3dk/J+za13PYx97ZWtE6Dofoef6al03BB3M8ojaehb4GV8/BhbLVYl3KhwmxjyC8+umQj+Si3lIkJJyLAJAUpv5x5dBNfQLE0//+wkgAmG60ubLQ/dDm6hvhjFpgMYXpVbuUfvL+6SndlJ4LPIS3zTonhGxqHg==;6MG9crJ1P4R3W14e85UgGA=="
+secured: "zW3HjbWFKX+55NRjwM68kLq5+v7Jw82772j+wS1iN/tZdo5YI1Pw/2FTq4QXm/fBPrQzYuOgW3JjuCwy61oXEIDhJt3sG60iae3irFgU8zNR4Y+dIXwSIDQCjJJgo+lBSppf6ppEKaHT1sh59eXGirIKwySzQmQrsFjvh0d7CEhBkOooN35QC0Q8AFj7i2tErrEmjuU9M5K9gVJr+mVSqs+VcNnpLYnZcbZvqEayVU68haRKQ/fsfeIk+gbpZVUpcBQv4jadvPLkRo+8hj+FxFi/2dYawW/sTpSZPwapEdx5LlgxWLyBldb2OZN54wJbDhs2Ysl6GGe3jMmDhmfQzKNlr/xCwXLso/gi+E1Bmn9GTwkySD7F1bLTqUhyHzyeuUJwr024lGXN2/0JPSbMdA==;QKOJdq6ZyDPGBD2Iof+96A=="
 ---
 

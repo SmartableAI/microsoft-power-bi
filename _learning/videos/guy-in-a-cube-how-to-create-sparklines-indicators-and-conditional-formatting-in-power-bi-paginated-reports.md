@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT7M20S
 publishedDateTime: 2019-01-09T14:20:35Z
-heat: 51
+heat: 52
 
 provider:
   name: Guy in a Cube
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "How to create Sparklines, indicators and conditional formatting in Power BI Paginated Reports"
 
-secured: "LYqtfrmGRHgIwnN/2iljXBN1I0pyv1CM3RUtkdeanznBS0ATML8EJTS8Yxw3xnl9QO7//gGOBxK3ZnxvOH5x7ECpeU8kEr1jj1MbJJYVD50GXHkt4ceduyJn628W3b5NzGWSrO/VTvnJ4F+8CMLUrynmeHAU5qe/jHMWBztgAP460H42ici1Y5V7Yy+O7WkNbgBWDpaGUeVD9xwwuchPGJbrgw3nYkF1JSLq+gj1ucBLgrRWUkoPH7TA5I0Bv1r1eNQlToSBFfMDmZP8hQnmFz4PirJyjx7tBQxMhoqZhpLc6i1W1EB4sjyFUGIrGY+FLg38OSDPq4EO5INGfSro2F05eBQ0QR9b8OuJLKb/Y6h6EpncNTchb2KseQAEiMj8veRqDheYpnbpwZE14hkUbg==;yByHxTVeT0+b49ZJXNYmqw=="
+secured: "Q9/jW+yiIyJeKbaVpwo1eCxRZYYzyhoWNdbHgidNLaZqFLK/Nna/o6xVD3mJDC8CWwhQ/7cnrwbEOjZeGB/rv8KT+pTkT+xmYm1txDOJ4cAXvikUIMqCaow5r7vAgFoqvd+ABi7RYSX/VJsb/3FYDeumpXkn7d9/Bw24mo6astFSIABrqext904tVvoOlVmcsTh1suxedd/0ucCBba3qmGOvM3bkrVIQydTTMrr5Km1H19TIKvNGnV+hXSAwQvgEvsCqFHSzuLokdL7bDJChcupDYw8ZkD7M18eL3P+MQ+yM58C2jEugMQVwAQp5Mhn12Td73vWHRP9S1Kjh+bPrSbayXOoG2X8n5Nl8XesYhCNdKex271ozw6t5SGjFV3ekoMaprhaoNjNpQ9oeERAfgw==;6+RCTYG/LF2KPgJYv9PXDg=="
 ---
 
