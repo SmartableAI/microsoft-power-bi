@@ -4,7 +4,7 @@ excerpt: "Success with Power BI begins with a great data model. In this module, 
 type: collection
 price: Free
 length: PT5H31M
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -15,7 +15,7 @@ provider:
       height: 50
 
 items:
-  - courses/microsoft-learn-design-model-power-bi
+  - courses/microsoft-learn-design-data-model-power-bi
   - courses/microsoft-learn-create-measures-dax-power-bi
   - courses/microsoft-learn-optimize-model-power-bi
 
@@ -26,7 +26,7 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/design-a-data-model-in-power-bi-social.png
+  - url: https://docs.microsoft.com/learn/achievements/create-measures-dax-power-bi-social.png
     width: 640
     height: 320
     isCached: true
