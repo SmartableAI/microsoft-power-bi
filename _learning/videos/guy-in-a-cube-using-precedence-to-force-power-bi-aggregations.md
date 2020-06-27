@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT4M6S
 publishedDateTime: 2020-03-25T15:00:11Z
-heat: 50
+heat: 51
 
 provider:
   name: Guy in a Cube
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Using Precedence to force Power BI Aggregations"
 
-secured: "tPrCci3Z57rwlHvRMcbBt021UWdm/cV47c4+aefwpjHFPLeufBFScDrfz1aSA8N9NmiQF0wp8KJeJV/ukCdLCd5YCxGDeJuj/RnAuGlhdxYDBXaFmUD2eOfz190FbYGHP3NZuYexALSJtDe5mSIcx7wL35dLWI1LFr+YRArAPYeakiRwmsUa/QL3ismcPsct70X1V4bfxy30kKoe0v8iMCCYpo3LCO6kBmfO4LGO9XvqnB7fcJO6fW7Q8JLeUKHVRxWnsQUZqmyT830VZtyOGqVEDYfv1f7KSk/YfkQaSXghByZzXRkdYQCSiHkSxGhufnjeLeQuHJJdKZu5xR+hVivOLJyBTnIPHRe7NK3MkuS/IzDJsSBb2xK2hSvY+tXX5Q6jd7lIls4CJ93OaumUGQ==;FHE612plM4nR+gve0Yk5PA=="
+secured: "46rL77Tjdk77C03rx+3PDB97O9HPc/TCfjkOwr288jJsyztbR9J8TUPTqkfHlyEKBDA4pxD4Pqzly94VuvzjffQ71noaxuX8T2bFvK5i5Xjy+2bKulF3X6Y+mhc1Fob8KkFLb9tF8YrltZWq4rLAlkQE/8jAiRv0NZAv9AaW55BKO+Xjc7wo3xfdHGCa3S96MEaCK1/Rh5lpW2fQg6iglRvn05W0w6D+qBgscEJLIVKYejOz5+ddPjpT1qD1r3edkfJADLTHv2UekXPRRfLY+3E7FDmfxukmRGIvRr6bt5vzxnnwImSUanw617AzUhX4BldDaB1eG6X6IOrYPpkyCL3Ka/UE95IVgE7AvwoiSBugLPlGo3Pp9mSGTjdtpMfle18bLsG1CyWFfgqmPYpx5A==;uLZ3V09ORq3FtolUmVsy7A=="
 ---
 
