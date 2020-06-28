@@ -8,7 +8,7 @@ length: PT35M
 ratings:
   count: 3545
   average: 4.748378
-heat: 52
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Power Platform - Introduction, business value, and demos"
 
-secured: "UnqEHPO+HpOovXGQBrG2+u41T3sgDAIBGvtORQbLXTIVpv0c7R+IDqnXfkwLi7My0BSjzNnzMXalzRJkBmFNjxDpYR3HC7ml6Ko2PDTzXtM2Ndc9iNtPFyX4DAd8NwdoRQ2o8QHH2fyVLmP4gs/xLRG1VvTbumb8dPak0+xD19Qq98lEPsiTZ7mBklvbowbWJ0yCbx6zUdW7SibS9peMqUMY5q+79MSwv62tN/XhJaYGDAN/e515V46XntWB7nF4Bx6eLtlERBCDCX9/QFOHSTEiYrRfxTzHYApI0wa9EL8BTTqlzhNb3mzzSw7NXssk6Hs2eb2frcxqWAWpzqy6mpGyrPUhu0N62MVcSGLPJ2bg20xRSaDxbED0FDLo193aQsHSBdPKA7J4eDwhG/6YBw==;2qbtvLo/e72cAWnxgTZPtA=="
+secured: "ZzLTHieYJQe+B69HSw9aMWKXeIlUItkGSsQdyAQ7Iq0SxFed6k0twwjYJCEoI0exfwza/p62LWfdKkTNYRlYY/uP+tw7XpY6g33lBirUvuVgUoIC0drkEojgid+hFz4fHXlfuNT/79D8mvnctvTvfLui0pab+bOBJjWhle2/3q7VVuvlF2Zgd1mFaLqp4D1yva93uAqN/7YwgXqg4V7hz/UWNVuDq4n4o7XM0SuXI2DFL3hdaztnU3kQMbDsUJ2VSPoaSC0GAWomsMDrd4atV2kmVhScyCkxwfkjpA+zR/JnGGpI0Fy89qBBrTUnbrb4Imx8FdK3vEFoY4014VgxizpXjRnP3AnUEDyL893qQju7yIsCeGmPO8P2uzjjMC+CV1sz+2Li+C3T5Dxp5xwBNA==;p9w6zgbpDsWIhZ4AxM4xBQ=="
 ---
 

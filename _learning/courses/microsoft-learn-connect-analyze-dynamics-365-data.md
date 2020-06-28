@@ -8,7 +8,7 @@ length: PT57M
 ratings:
   count: 780
   average: 4.6384616
-heat: 53
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Connect and analyze your Dynamics 365 data​"
 
-secured: "Asdwy6MvHPq95tmZO1QEumtJTKOmGsyK0ulXW1LylCANb4BwoTyo1R+ovDrM/MItTycpHncXKSi3lSurCb5CzhYpFezfdcRLLJhrkkPnqDlKj8x1wQ+O/aHqY1psryWkXQKZD6rxly8ZTpXVADwEM14gSC6YjtMQCDwMYlG+qvPiI/g4pilpjO1SqZ/faM/eKWzO1tEQue2gTlEJrqVk1Fr012tlDF8PBNpVdXNTxVK+rtyW6+u8PGKvl2HZ9ZV2ze7TPmtQADKgWSY9GquWSNTM9bkxR2fEaptNKl9AjnTyFCtsPSEFVF1YxLLRoVDTbTVi0nnnylAyOLIM6DooKiwo9nK5Q32jecvKSQBTFAcuhqmkLzMQ/qtB/wa+TemvJeBFrn85jsGjKmRbNFG3Kg==;zGMdQ6pVmU2osk1vqMvi2A=="
+secured: "MMH5eZeArNVOQ5HYJW1bLwQiLhcCr4SeTMCf8Mc+2oY8ImBdvIk/DUl4Rzm4GdDGbSrRq5ufCVIiOLP4UXOGkIrNUQfyVVTfLw2UYXYGcfgfYAa2E2LdgfnCjmj3nEoDTNiKFWZjbpA2E6Y+s096YxBfapVqFOubgx5ya7+ILU93qj2HkbtsW1iMgm+id4OfYArmroAeRDiDrZzQ7oHLGoUiuzUK0ZShJ9YPr2HSFVdWGiMtfUh2KuimEVQG+S1hGF2SIeAdObxtiGU4Amv+z/bb3ugK96fD+38gzybbp1l7flPq7Rt7uNazXUXzX1ZY7Gr/zUbZsTX1SAmQTt4fZU5Uvfdtb9vrXR8XhxXOwNQu1i96OULhaq9080XSdmT79CDCcggPjUG7znAEjAE3lw==;QQn4MGyubBPC8mWOBo5Olw=="
 ---
 
