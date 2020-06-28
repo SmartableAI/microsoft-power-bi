@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT6M55S
 publishedDateTime: 2019-08-11T11:58:47Z
-heat: 53
+heat: 52
 
 provider:
   name: Guy in a Cube
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Power BI Apps for Consumers"
 
-secured: "8zGRjEQxhbx6hENncA17jEizTa4hIErnJeVWHmHzx69wV5JYjIzYXjHrLv5BNKebc2aYPgsq0GvvAPgGJFVXN+75Mjt+LPSl9qBd3p+39e2QIU3+gIS0othpCIz5yzvzKrVY4wyupoE3CNbfBING0+cd9A2UZtSHndgmLTZJiVLbRpXh4qNcvQn0y3D82RI2WMs6X78s/CyfI1VzMsQ8ba/T2PDhZNaJvJI6e5BGiAGLKxnSwuJlJYoE8QxenDAT6ZQ0vUVvVpVqjJ1at0gW/7uqrEB69gy3eBkLxHM4Y1qPbBGujKjrqTIg2CH0QoWWY0XH4TjTr3mzIcRa+35PVGeuQmCevupEouCtNoyU8XaqbLS5rTcd6atN9lU8Kx6xwjSjw9cSspdGKqqqw5v6fg==;0jxbefMOKpZAgDRT4ImO5w=="
+secured: "ywb5zicNDqJoOhKsqmxDHXNDNTi2+tkK3Vu48Ao7LSS2M7V3Pd8W23UK2z0DlHOBAPYVMI0VJoFzH8CYMo7C9/EVC416kItyPbPVwTCB/miDUwqNgFwFKpmutamDad67AB9+y6JUrd5yJR0x9f2FylhZ2p72wm/9rys0C3DgT1cSAEyMWiRzjX9H0bd2JvTgGfRPHwP84ylf8b9S9XFcROu//c64lWdkg3eNJTnYu6qvviEEQrXYgK0rwrokM7CTczZv77kyM8e75e00ybnzQJMT0xbGqEsA0CSkEEBnWmSWHB6DBNW0FOZyJiUWEMQ6I1LcMsThmz3BF00KOkYqIKWpvhluEfkH+7QW+Jfu8pQGfoBRXCJgeSlfx89HbNvGqwPUqqNgokIjq+yT9i6EIw==;UERZk+ydvK+NKQmin5xUuA=="
 ---
 
