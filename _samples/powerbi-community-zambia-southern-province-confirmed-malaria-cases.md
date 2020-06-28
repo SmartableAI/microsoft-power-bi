@@ -4,7 +4,7 @@ excerpt: "#MakeoverMonday W16 challenge The data is a simulated data set based o
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Zambia-Southern-Province-Confirmed-Malaria-Cases/m-p/400456
 type: download
 publishedDateTime: 2018-04-19T12:15:00Z
-heat: 51
+heat: 50
 
 provider:
   name: PowerBI Community

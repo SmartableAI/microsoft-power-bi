@@ -6,6 +6,10 @@ type: download
 publishedDateTime: 2020-05-25T20:17:00Z
 heat: 75
 
+downloads:
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3997/2/01%20Simple%20Charting.pbix"
+    title: "Download PBIX"
+
 provider:
   name: PowerBI Community
   domain: powerbi.com
