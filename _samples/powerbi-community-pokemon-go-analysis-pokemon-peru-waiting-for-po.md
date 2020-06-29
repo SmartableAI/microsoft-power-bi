@@ -1,7 +1,7 @@
 ---
 title: "Pokémon GO - Analysis Pokemon: Perú waiting for Po..."
 excerpt: "Power BI: Pokemon Kaits - Alejandro Sanchez - Peru A small demo of pokemon, created by a fan !. enjoy it. More Demos:"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Pok%C3%A9mon-GO-Analysis-Pokemon-Per%C3%BA-waiting-for-PokemonGo/m-p/54560
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Pok%C3%A9mon-GO-Analysis-Pokemon-Per%C3%BA-waiting-for-PokemonGo/m-p/54560
 type: download
 publishedDateTime: 2016-08-01T15:20:00Z
 heat: 50

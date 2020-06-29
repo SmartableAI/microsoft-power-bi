@@ -1,7 +1,7 @@
 ---
 title: "World Health Organization Life Data Dashbaord"
 excerpt: "WHO Life Data Dashabord. Something I made a couple years ago Thought I would share."
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/World-Health-Organization-Life-Data-Dashbaord/m-p/753069
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/World-Health-Organization-Life-Data-Dashbaord/m-p/753069
 type: download
 publishedDateTime: 2019-07-30T10:49:00Z
 heat: 51

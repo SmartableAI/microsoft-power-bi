@@ -1,7 +1,7 @@
 ---
 title: "River Vs Boca"
 excerpt: "River Vs Boca since de beginnings to the end of 2018"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/River-Vs-Boca/m-p/609606
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/River-Vs-Boca/m-p/609606
 type: download
 publishedDateTime: 2019-01-25T12:24:00Z
 heat: 50

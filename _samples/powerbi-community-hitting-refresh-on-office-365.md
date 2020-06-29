@@ -1,7 +1,7 @@
 ---
 title: "Hitting Refresh on Office 365"
 excerpt: "I read a copy of Hit Refresh by Satya Nadella recently at felt at the time that it was a fascinating way of publicising the direction of travel of"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Hitting-Refresh-on-Office-365/m-p/303112
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Hitting-Refresh-on-Office-365/m-p/303112
 type: download
 publishedDateTime: 2017-11-14T11:01:00Z
 heat: 50

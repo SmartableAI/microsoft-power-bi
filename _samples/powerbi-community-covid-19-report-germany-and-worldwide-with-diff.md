@@ -1,7 +1,7 @@
 ---
 title: "#COVID-19 Report - Germany and worldwide with diff..."
 excerpt: "Ever wondered how corona data differs among different data sources? Yet another (but our own) customized visualisation of corona infections in Power"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-Report-Germany-and-worldwide-with-different-data/m-p/1009298
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-Report-Germany-and-worldwide-with-different-data/m-p/1009298
 type: download
 publishedDateTime: 2020-04-06T00:08:00Z
 heat: 50

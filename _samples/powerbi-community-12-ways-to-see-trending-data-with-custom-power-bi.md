@@ -1,7 +1,7 @@
 ---
 title: "12 ways to see trending data with custom Power BI ..."
 excerpt: "English | Spanish (español) For full screen view click here: https://bit.ly/2xRqNti Para verlo en pantalla completa click aquí:"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/12-ways-to-see-trending-data-with-custom-Power-BI-visuals/m-p/1084406
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/12-ways-to-see-trending-data-with-custom-Power-BI-visuals/m-p/1084406
 type: download
 publishedDateTime: 2020-05-11T08:43:00Z
 heat: 52

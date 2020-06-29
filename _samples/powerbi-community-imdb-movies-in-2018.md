@@ -1,7 +1,7 @@
 ---
 title: "IMDB Movies in 2018"
 excerpt: "Hello there! I made this power bi report with the oficial imdb databse and IMDbPY pyhton package to get de url image."
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/IMDB-Movies-in-2018/m-p/827908
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/IMDB-Movies-in-2018/m-p/827908
 type: download
 publishedDateTime: 2019-10-24T14:02:00Z
 heat: 50

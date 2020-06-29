@@ -1,7 +1,7 @@
 ---
 title: "Trip Home - Power BI Mobile Visualization by Third..."
 excerpt: "Note: This visualization is designed for Mobile. Switch to mobile view for a better experience. Third I developed the Trip Home Power BI Mobile"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Trip-Home-Power-BI-Mobile-Visualization-by-Third-I/m-p/690689
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Trip-Home-Power-BI-Mobile-Visualization-by-Third-I/m-p/690689
 type: download
 publishedDateTime: 2019-05-14T04:22:00Z
 heat: 53

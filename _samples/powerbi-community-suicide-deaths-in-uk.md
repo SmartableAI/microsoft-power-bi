@@ -1,7 +1,7 @@
 ---
 title: "Suicide Deaths in UK"
 excerpt: "2019 Week 43 makeovermonday is about: The age at which most people are dying by suicide in UK"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Suicide-Deaths-in-UK/m-p/825984
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Suicide-Deaths-in-UK/m-p/825984
 type: download
 publishedDateTime: 2019-10-23T01:46:00Z
 heat: 51

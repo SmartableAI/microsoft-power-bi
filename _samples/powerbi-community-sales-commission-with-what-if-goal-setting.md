@@ -1,7 +1,7 @@
 ---
 title: "Sales Commission with What-If Goal Setting"
 excerpt: "This is a simple demonstration on how to use the new What-If functionality in Power BI to determine the earning potential of a sales agent. The"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Sales-Commission-with-What-If-Goal-Setting/m-p/235539
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Sales-Commission-with-What-If-Goal-Setting/m-p/235539
 type: download
 publishedDateTime: 2017-08-21T17:49:00Z
 heat: 51

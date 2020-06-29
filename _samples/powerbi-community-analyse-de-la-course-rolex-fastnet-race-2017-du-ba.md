@@ -1,7 +1,7 @@
 ---
 title: "Analyse de la course Rolex Fastnet Race 2017 du ba..."
 excerpt: "Du 6 au 10 aout 2017 a eu lieu la course de voile Fastnet ( http://www.rolexfastnetrace.com/ ). Le skipper Maxime Cauwe , Directeur financier du"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Analyse-de-la-course-Rolex-Fastnet-Race-2017-du-bateau-AZEO/m-p/261972
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Analyse-de-la-course-Rolex-Fastnet-Race-2017-du-bateau-AZEO/m-p/261972
 type: download
 publishedDateTime: 2017-09-30T09:23:00Z
 heat: 50

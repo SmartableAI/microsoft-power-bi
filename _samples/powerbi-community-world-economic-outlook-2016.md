@@ -1,7 +1,7 @@
 ---
 title: "World Economic Outlook 2016"
 excerpt: "This Power BI dashboard contains selected macroeconomic data series from the statistical appendix of the Woeld Economic Outlook Report, which"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/World-Economic-Outlook-2016/m-p/329122
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/World-Economic-Outlook-2016/m-p/329122
 type: download
 publishedDateTime: 2017-12-26T07:55:00Z
 heat: 50

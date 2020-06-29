@@ -1,7 +1,7 @@
 ---
 title: "DataStory Valentine's day gifts trend (2010-2016)"
 excerpt: "Solved: Discovery what is the main gifts offered over yeah for Valentine's Day, from 2010 to 2016. Power BI allows you to understand trends with data"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/DataStory-Valentine-s-day-gifts-trend-2010-2016/m-p/127774
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/DataStory-Valentine-s-day-gifts-trend-2010-2016/m-p/127774
 type: download
 publishedDateTime: 2017-02-15T07:17:00Z
 heat: 51

@@ -1,7 +1,7 @@
 ---
 title: "NBA Fan Cost Competition"
 excerpt: "This visual was created using a hack on the scatterplot. I actually have an entire video detailing how I developed this in the MS Power BI Recipes"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/NBA-Fan-Cost-Competition/m-p/208284
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/NBA-Fan-Cost-Competition/m-p/208284
 type: download
 publishedDateTime: 2017-07-08T11:31:00Z
 heat: 50

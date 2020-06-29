@@ -1,7 +1,7 @@
 ---
 title: "English Premier League Players in the FIFA World C..."
 excerpt: "A quick view in the number of players from the Premier League that participated in this year's World Cup"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/English-Premier-League-Players-in-the-FIFA-World-Cup/m-p/462651
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/English-Premier-League-Players-in-the-FIFA-World-Cup/m-p/462651
 type: download
 publishedDateTime: 2018-07-15T19:12:00Z
 heat: 50

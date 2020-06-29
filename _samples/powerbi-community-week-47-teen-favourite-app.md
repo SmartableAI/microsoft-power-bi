@@ -1,7 +1,7 @@
 ---
 title: "Week 47 - Teen Favourite App"
 excerpt: "makeoermonday,Week - 47"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Week-47-Teen-Favourite-App/m-p/864764
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Week-47-Teen-Favourite-App/m-p/864764
 type: download
 publishedDateTime: 2019-12-04T02:05:00Z
 heat: 50

@@ -1,7 +1,7 @@
 ---
 title: "OV UNV Data Challenge - Udoye Onyinye"
 excerpt: "As a data challenge for Online Volunteers , Udoye Onyinye created a report to represent the geographical mobilization and demographics of United"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Udoye-Onyinye/m-p/1043238
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Udoye-Onyinye/m-p/1043238
 type: download
 publishedDateTime: 2020-04-22T22:41:00Z
 heat: 50

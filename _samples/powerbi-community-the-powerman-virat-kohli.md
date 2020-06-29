@@ -1,7 +1,7 @@
 ---
 title: "The Powerman (Virat Kohli)"
 excerpt: "Summary information of the great Indian batsman Virat Kohli The Powerman."
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/The-Powerman-Virat-Kohli/m-p/478909
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/The-Powerman-Virat-Kohli/m-p/478909
 type: download
 publishedDateTime: 2018-08-02T05:48:00Z
 heat: 50

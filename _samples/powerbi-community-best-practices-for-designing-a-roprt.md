@@ -1,7 +1,7 @@
 ---
 title: "Best Practices for Designing a Roprt"
 excerpt: "This report was created with a dataset from #MakeoverMonday to show the best practices for good design and the User Experience that I recently"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Best-Practices-for-Designing-a-Roprt/m-p/441350
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Best-Practices-for-Designing-a-Roprt/m-p/441350
 type: download
 publishedDateTime: 2018-06-16T14:31:00Z
 heat: 50

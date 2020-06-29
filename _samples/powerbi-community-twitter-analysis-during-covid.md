@@ -1,7 +1,7 @@
 ---
 title: "Twitter Analysis During COVID"
 excerpt: "Analyse de l'impact d'une crise majeure sur le nb de follower de certains comptes en France. Hopitaux, Gouvernement ..."
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Twitter-Analysis-During-COVID/m-p/1140624
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Twitter-Analysis-During-COVID/m-p/1140624
 type: download
 publishedDateTime: 2020-06-03T22:13:00Z
 heat: 53

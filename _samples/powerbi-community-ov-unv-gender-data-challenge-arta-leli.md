@@ -1,7 +1,7 @@
 ---
 title: "OV UNV Gender Data Challenge - Arta Leli"
 excerpt: "Data visualization of gender volunteering insights of UN Volunteers."
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Gender-Data-Challenge-Arta-Leli/m-p/1088451
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Gender-Data-Challenge-Arta-Leli/m-p/1088451
 type: download
 publishedDateTime: 2020-05-13T12:15:00Z
 heat: 54

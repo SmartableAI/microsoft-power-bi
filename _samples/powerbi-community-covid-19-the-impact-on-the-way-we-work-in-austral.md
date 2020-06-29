@@ -1,7 +1,7 @@
 ---
 title: "COVID-19: The impact on the way we work in Austral..."
 excerpt: "The sudden onset of the global pandemic accelerates our progression towards ‘the future of work’. The Voop.Global aim is to track the change in our"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-The-impact-on-the-way-we-work-in-Australia/m-p/1043100
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-The-impact-on-the-way-we-work-in-Australia/m-p/1043100
 type: download
 publishedDateTime: 2020-04-22T21:03:00Z
 heat: 51

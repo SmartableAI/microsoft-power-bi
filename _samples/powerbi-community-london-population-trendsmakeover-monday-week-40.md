@@ -1,7 +1,7 @@
 ---
 title: "London Population Trends(Makeover Monday-Week 40)"
 excerpt: "This report helps understand the population trends of London and it's districts through 2011 to 2050. It gives insights on various factors like"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/London-Population-Trends-Makeover-Monday-Week-40/m-p/809688
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/London-Population-Trends-Makeover-Monday-Week-40/m-p/809688
 type: download
 publishedDateTime: 2019-10-03T23:44:00Z
 heat: 51

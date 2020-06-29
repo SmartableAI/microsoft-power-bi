@@ -1,7 +1,7 @@
 ---
 title: "Tracking Coronavirus  Outbreak"
 excerpt: "The r eport tracks Covid 19 progression and provides summarized view of Corona Outbreak across nations with an option to drill through specific"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Tracking-Coronavirus-Outbreak/m-p/1093073
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Tracking-Coronavirus-Outbreak/m-p/1093073
 type: download
 publishedDateTime: 2020-05-17T04:31:00Z
 heat: 52

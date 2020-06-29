@@ -1,7 +1,7 @@
 ---
 title: "Analyzing Data from Tennis' Drug Testing Agencies"
 excerpt: "Based on recent news from Serena Williams that she was being unfairly targeted by the drug testing agencies, I decided to combine the data and do"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Analyzing-Data-from-Tennis-Drug-Testing-Agencies/m-p/475750
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Analyzing-Data-from-Tennis-Drug-Testing-Agencies/m-p/475750
 type: download
 publishedDateTime: 2018-07-30T14:44:00Z
 heat: 50

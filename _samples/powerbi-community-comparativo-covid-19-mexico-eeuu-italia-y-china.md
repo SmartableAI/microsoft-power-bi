@@ -1,7 +1,7 @@
 ---
 title: "Comparativo Covid-19 México, EEUU, Italia y China"
 excerpt: "Comparativo del Comportamiento de Infectados y Fallecidos entre China, Italia, EEUU y México"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Comparativo-Covid-19-M%C3%A9xico-EEUU-Italia-y-China/m-p/1108435
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Comparativo-Covid-19-M%C3%A9xico-EEUU-Italia-y-China/m-p/1108435
 type: download
 publishedDateTime: 2020-05-22T17:39:00Z
 heat: 50

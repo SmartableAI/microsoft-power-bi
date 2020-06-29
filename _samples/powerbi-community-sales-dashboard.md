@@ -1,7 +1,7 @@
 ---
 title: "Sales Dashboard"
 excerpt: "Tracking sales activities in a spreadsheet has become commonplace. Often referred to as a sales scorecard, this tool allows sales leaders to better"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Sales-Dashboard/m-p/484507
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Sales-Dashboard/m-p/484507
 type: download
 publishedDateTime: 2018-08-08T16:32:00Z
 heat: 52

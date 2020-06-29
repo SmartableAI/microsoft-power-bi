@@ -1,7 +1,7 @@
 ---
 title: "Year on Year Comparison of Entire busines"
 excerpt: "Hi Folks This is a Practice file for YoY Comparison of YoY Performance of Certain Business. 80% visuals will change their reporting Element"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Year-on-Year-Comparison-of-Entire-busines/m-p/860256
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Year-on-Year-Comparison-of-Entire-busines/m-p/860256
 type: download
 publishedDateTime: 2019-11-28T20:21:00Z
 heat: 51

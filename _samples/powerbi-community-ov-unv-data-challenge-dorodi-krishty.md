@@ -1,7 +1,7 @@
 ---
 title: "OV UNV Data Challenge - Dorodi Krishty"
 excerpt: "As a data challenge for Online Volunteers , Dorodi Krishty created a report to represent the geographical mobilization and demographics of United"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Dorodi-Krishty/m-p/1081701
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Dorodi-Krishty/m-p/1081701
 type: download
 publishedDateTime: 2020-05-08T09:54:00Z
 heat: 50

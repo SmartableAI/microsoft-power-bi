@@ -1,7 +1,7 @@
 ---
 title: "World Economy; marvelous presentation from Power B..."
 excerpt: "There is an excellent application of Power BI, need your suggestion for further improvement."
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/World-Economy-marvelous-presentation-from-Power-BI/m-p/133123
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/World-Economy-marvelous-presentation-from-Power-BI/m-p/133123
 type: download
 publishedDateTime: 2017-02-24T23:47:00Z
 heat: 50

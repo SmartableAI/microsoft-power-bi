@@ -1,7 +1,7 @@
 ---
 title: "Gartner's Magic Quadrant for Analytics BI Platform..."
 excerpt: "This report presents the evolution of the features and capabilities that differentiate the various products in the Analytics and Business"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Gartner-s-Magic-Quadrant-for-Analytics-BI-Platforms-2008-2019/m-p/640603
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Gartner-s-Magic-Quadrant-for-Analytics-BI-Platforms-2008-2019/m-p/640603
 type: download
 publishedDateTime: 2019-03-08T08:23:00Z
 heat: 51

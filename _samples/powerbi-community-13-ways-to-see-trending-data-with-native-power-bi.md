@@ -1,7 +1,7 @@
 ---
 title: "13 ways to see trending data with native Power BI ..."
 excerpt: "English | Spanish (español) For full screen view click here: https://bit.ly/2SUp6Tb Para verlo en pantalla completa click aquí:"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/13-ways-to-see-trending-data-with-native-Power-BI-visuals/m-p/1083280
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/13-ways-to-see-trending-data-with-native-Power-BI-visuals/m-p/1083280
 type: download
 publishedDateTime: 2020-05-10T21:17:00Z
 heat: 52

@@ -1,7 +1,7 @@
 ---
 title: "Go BIG and go home : American Thanksgiving vs Chin..."
 excerpt: "Explore and compare the difference between consumer activities during American Thanksgiving and Chinese Spring Festival with this data viz!"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Go-BIG-and-go-home-American-Thanksgiving-vs-Chinese-Spring/m-p/732884
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Go-BIG-and-go-home-American-Thanksgiving-vs-Chinese-Spring/m-p/732884
 type: download
 publishedDateTime: 2019-07-05T08:12:00Z
 heat: 50

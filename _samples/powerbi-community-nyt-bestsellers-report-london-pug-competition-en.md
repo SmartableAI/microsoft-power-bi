@@ -1,7 +1,7 @@
 ---
 title: "NYT Bestsellers Report - London PUG Competition En..."
 excerpt: "This report highlights the books featured on the New York Times (NYT) Bestsellers List between 1942 and 2017 with a particular focus on the books"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/NYT-Bestsellers-Report-London-PUG-Competition-Entry/m-p/441345
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/NYT-Bestsellers-Report-London-PUG-Competition-Entry/m-p/441345
 type: download
 publishedDateTime: 2018-06-16T13:48:00Z
 heat: 52

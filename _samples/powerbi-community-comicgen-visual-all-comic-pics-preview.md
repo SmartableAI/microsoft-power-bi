@@ -1,7 +1,7 @@
 ---
 title: "Comicgen visual all comic pics preview"
 excerpt: "I got really excited about this visual and wanted to see all faces. There are two pages: DEE - comic lady DEY - comic dude Hope you find this useful."
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Comicgen-visual-all-comic-pics-preview/m-p/1078750
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Comicgen-visual-all-comic-pics-preview/m-p/1078750
 type: download
 publishedDateTime: 2020-05-07T01:54:00Z
 heat: 51

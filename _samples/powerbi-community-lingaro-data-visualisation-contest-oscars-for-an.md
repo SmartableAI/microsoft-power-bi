@@ -1,7 +1,7 @@
 ---
 title: "Lingaro Data Visualisation Contest - Oscars for an..."
 excerpt: "Lingaro Data Visualisation Contest"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Lingaro-Data-Visualisation-Contest-Oscars-for-animated-films/m-p/920352
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Lingaro-Data-Visualisation-Contest-Oscars-for-animated-films/m-p/920352
 type: download
 publishedDateTime: 2020-02-03T14:42:00Z
 heat: 50

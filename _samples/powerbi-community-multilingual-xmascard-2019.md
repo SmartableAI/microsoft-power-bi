@@ -1,7 +1,7 @@
 ---
 title: "Multilingual XMasCard 2019"
 excerpt: "Hi, I collected so much of XMas greetings in different languages and I created a very simple BI application as unique online Christmas wishes card."
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Multilingual-XMasCard-2019/m-p/884743
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Multilingual-XMasCard-2019/m-p/884743
 type: download
 publishedDateTime: 2019-12-26T16:52:00Z
 heat: 50

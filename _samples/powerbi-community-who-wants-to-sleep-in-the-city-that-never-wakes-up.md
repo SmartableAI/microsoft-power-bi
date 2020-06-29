@@ -1,7 +1,7 @@
 ---
 title: "Who wants to sleep in the city that never wakes up..."
 excerpt: "When my Wacom tablet arrived in November I started sketching the below girl, my very first freehand drawing. It has been put aside for a while but I"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Who-wants-to-sleep-in-the-city-that-never-wakes-up-The-airbnb/m-p/599162
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Who-wants-to-sleep-in-the-city-that-never-wakes-up-The-airbnb/m-p/599162
 type: download
 publishedDateTime: 2019-01-11T06:40:00Z
 heat: 50

@@ -1,7 +1,7 @@
 ---
 title: "COVID-19 Clinical Trials"
 excerpt: "COVID-19 Clinical Trials Here is a simple dashboard with COVID-19 clinical trials pulled from ClinicalTrials.gov. ClinicalTrials.gov provides a REST"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-Clinical-Trials/m-p/1045849
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-Clinical-Trials/m-p/1045849
 type: download
 publishedDateTime: 2020-04-23T19:55:00Z
 heat: 50

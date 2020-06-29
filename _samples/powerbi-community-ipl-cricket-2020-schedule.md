@@ -1,7 +1,7 @@
 ---
 title: "IPL CRICKET 2020 SCHEDULE"
 excerpt: "IPL 2020 CRICKET SCHEDULE AND THE TEAM SQUADS"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/IPL-CRICKET-2020-SCHEDULE/m-p/957136
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/IPL-CRICKET-2020-SCHEDULE/m-p/957136
 type: download
 publishedDateTime: 2020-03-03T07:25:00Z
 heat: 50

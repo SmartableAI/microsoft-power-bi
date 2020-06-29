@@ -1,7 +1,7 @@
 ---
 title: "OV UNV Data Challenge - Pushpa Bhandari Neupane"
 excerpt: "OV UNV Data Challenge submitted Pushpa Bhandari Neupane, an Accountant and Newbie to PowerBI ."
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Pushpa-Bhandari-Neupane/m-p/1090368
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Pushpa-Bhandari-Neupane/m-p/1090368
 type: download
 publishedDateTime: 2020-05-14T13:45:00Z
 heat: 52

@@ -1,7 +1,7 @@
 ---
 title: "Week 43 - Suicide Data"
 excerpt: "Week 43 - Suicide Data"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Week-43-Suicide-Data/m-p/864856
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Week-43-Suicide-Data/m-p/864856
 type: download
 publishedDateTime: 2019-12-04T03:43:00Z
 heat: 50

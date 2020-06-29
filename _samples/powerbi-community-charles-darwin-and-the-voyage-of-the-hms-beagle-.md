@@ -1,7 +1,7 @@
 ---
 title: "Charles Darwin and the Voyage of the HMS Beagle - ..."
 excerpt: "Charles Darwin circumnavigated the globe with Captain Robert Fitzroy between 1831 to 1836. He is most famous for he theories on evolution, which were"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Charles-Darwin-and-the-Voyage-of-the-HMS-Beagle-Storytelling/m-p/279703
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Charles-Darwin-and-the-Voyage-of-the-HMS-Beagle-Storytelling/m-p/279703
 type: download
 publishedDateTime: 2017-10-16T13:41:00Z
 heat: 50

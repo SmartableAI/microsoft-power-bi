@@ -1,7 +1,7 @@
 ---
 title: "St. John's Gospel Translated to Word Cloud"
 excerpt: "no numbers, no data modelling, TEXT only. Click on a word to view the related sentences; click on a sentence and view a cloud generated word visual."
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/St-John-s-Gospel-Translated-to-Word-Cloud/m-p/249885
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/St-John-s-Gospel-Translated-to-Word-Cloud/m-p/249885
 type: download
 publishedDateTime: 2017-09-12T01:19:00Z
 heat: 50

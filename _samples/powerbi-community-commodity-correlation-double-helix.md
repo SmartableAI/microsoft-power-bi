@@ -1,7 +1,7 @@
 ---
 title: "Commodity Correlation \"Double Helix\""
 excerpt: "Introduction Recently, I was paired with Austin-based Energy Consultant and Energy Complex journalist Dallas Salazar as part of the MVP Mentoring"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Commodity-Correlation-quot-Double-Helix-quot/m-p/135256
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Commodity-Correlation-quot-Double-Helix-quot/m-p/135256
 type: download
 publishedDateTime: 2017-03-01T12:55:00Z
 heat: 50

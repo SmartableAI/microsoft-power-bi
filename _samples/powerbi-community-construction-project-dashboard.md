@@ -1,7 +1,7 @@
 ---
 title: "Construction Project dashboard"
 excerpt: "This interactive report contains the most common activities in the construction projects along with their productivity rates hours per unit, a"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Construction-Project-dashboard/m-p/544131
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Construction-Project-dashboard/m-p/544131
 type: download
 publishedDateTime: 2018-10-16T23:02:00Z
 heat: 54

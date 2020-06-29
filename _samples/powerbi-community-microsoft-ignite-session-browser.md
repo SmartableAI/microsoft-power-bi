@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Ignite Session Browser"
 excerpt: "How many 300 level sessions are being presented on Tuesday? Which topics are the best represented? Answer these questions and more with the Power BI"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Microsoft-Ignite-Session-Browser/m-p/65022
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Microsoft-Ignite-Session-Browser/m-p/65022
 type: download
 publishedDateTime: 2016-09-02T12:20:00Z
 heat: 50

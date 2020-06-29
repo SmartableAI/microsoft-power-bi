@@ -1,7 +1,7 @@
 ---
 title: "3 Year Analysis of Gartner Magic Quadrant Leaders ..."
 excerpt: "With the recent release of Gartner's Magic Quadrant for Analytics and Business Intelligence , in which Microsoft is in the Leaders quadrant for the"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/3-Year-Analysis-of-Gartner-Magic-Quadrant-Leaders-for-Analytics/m-p/623702
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/3-Year-Analysis-of-Gartner-Magic-Quadrant-Leaders-for-Analytics/m-p/623702
 type: download
 publishedDateTime: 2019-02-14T10:25:00Z
 heat: 52

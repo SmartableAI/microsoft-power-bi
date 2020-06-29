@@ -1,7 +1,7 @@
 ---
 title: "Indian Premier League 2008 -2019"
 excerpt: "This Dashboard presents data analysis for IPL (Indian Premier League) matches from the beginning till year 2019. This can be useful for all the"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Indian-Premier-League-2008-2019/m-p/756185
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Indian-Premier-League-2008-2019/m-p/756185
 type: download
 publishedDateTime: 2019-08-02T01:57:00Z
 heat: 50

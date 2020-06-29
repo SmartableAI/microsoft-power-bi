@@ -1,7 +1,7 @@
 ---
 title: "2018 Grammy Nominations Explorer"
 excerpt: "If you're like me, every year before the Grammys, I look through the list and scratch my head saying &amp;quot;who???&amp;quot; The Grammy nominees were"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/2018-Grammy-Nominations-Explorer/m-p/323808
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/2018-Grammy-Nominations-Explorer/m-p/323808
 type: download
 publishedDateTime: 2017-12-14T10:33:00Z
 heat: 50

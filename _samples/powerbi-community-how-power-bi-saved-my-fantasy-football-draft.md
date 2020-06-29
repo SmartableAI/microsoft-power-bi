@@ -1,7 +1,7 @@
 ---
 title: "How Power BI Saved My Fantasy Football Draft"
 excerpt: "This report and the content below were created just before the start of the 2016 NFL season. I'm a little behind in posting it here, but I hope you"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/How-Power-BI-Saved-My-Fantasy-Football-Draft/m-p/87926
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/How-Power-BI-Saved-My-Fantasy-Football-Draft/m-p/87926
 type: download
 publishedDateTime: 2016-11-09T06:56:00Z
 heat: 50

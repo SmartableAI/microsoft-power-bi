@@ -1,7 +1,7 @@
 ---
 title: "FINANCE DASHBOARD"
 excerpt: "CUSTOM VISUALS. VARIANCES. SALES VS PROFIT. TARGET VS. SALES ANALYSIS."
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/FINANCE-DASHBOARD/m-p/829382
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/FINANCE-DASHBOARD/m-p/829382
 type: download
 publishedDateTime: 2019-10-27T11:34:00Z
 heat: 53

@@ -1,7 +1,7 @@
 ---
 title: "Road Safety (Back to School)"
 excerpt: "Hi All This dashboard is developed by 12 to 15 year old kids whose names are as below: Avantika Nannegari (15 years) Aryamaan Nannegari (12 years)"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Road-Safety-Back-to-School/m-p/785683
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Road-Safety-Back-to-School/m-p/785683
 type: download
 publishedDateTime: 2019-09-06T05:18:00Z
 heat: 50

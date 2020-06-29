@@ -1,7 +1,7 @@
 ---
 title: "Mutuals Industry Review 2016"
 excerpt: "eyJrIjoiOGVmOTY4ZjItY2E3Yy00MDVkLWI5YmItYTI0ZGI5OThhNTZmIiwidCI6ImViOWExMWM5LTJiMTctNDMzZi1hOTJhLTA4MjQ0OGVlZGVlZiJ9"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Mutuals-Industry-Review-2016/m-p/104217
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Mutuals-Industry-Review-2016/m-p/104217
 type: download
 publishedDateTime: 2016-12-19T18:23:00Z
 heat: 50

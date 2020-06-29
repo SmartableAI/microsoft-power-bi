@@ -1,7 +1,7 @@
 ---
 title: "Business Schools Dashboard (France)"
 excerpt: "Hi all, This is my first public dashboard using Power BI ! This dashboard makes a comparison between several business schools in France. Data is from"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Business-Schools-Dashboard-France/m-p/187496
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Business-Schools-Dashboard-France/m-p/187496
 type: download
 publishedDateTime: 2017-06-03T15:55:00Z
 heat: 53

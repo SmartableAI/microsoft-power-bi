@@ -1,7 +1,7 @@
 ---
 title: "Demo Beauty Salon"
 excerpt: "Demo para el Control de un Salon de Belleza"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Demo-Beauty-Salon/m-p/425994
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Demo-Beauty-Salon/m-p/425994
 type: download
 publishedDateTime: 2018-05-26T17:47:00Z
 heat: 50

@@ -1,7 +1,7 @@
 ---
 title: "Back to School Contest!"
 excerpt: "Can you predict your shoe size based on your height? This Power BI report utilizes a data set of pre-defined height and shoe sizes to determine if it"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Back-to-School-Contest/m-p/785840
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Back-to-School-Contest/m-p/785840
 type: download
 publishedDateTime: 2019-09-06T08:17:00Z
 heat: 50

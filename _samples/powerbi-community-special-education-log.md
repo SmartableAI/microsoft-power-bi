@@ -1,7 +1,7 @@
 ---
 title: "Special Education Log"
 excerpt: "This dashboard is meant to help analyze the service hours spent with special education students towards their specific IEP goals. Tracking service"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Special-Education-Log/m-p/847739
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Special-Education-Log/m-p/847739
 type: download
 publishedDateTime: 2019-11-15T10:12:00Z
 heat: 50

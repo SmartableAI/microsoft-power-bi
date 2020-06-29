@@ -1,7 +1,7 @@
 ---
 title: "UK Public Sector Local &amp; Regional Government"
 excerpt: "This Power BI demonstration is provided as an example of how a UK local or regional government organisation may use Power BI to visualise and"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/UK-Public-Sector-Local-amp-Regional-Government/m-p/120229
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/UK-Public-Sector-Local-amp-Regional-Government/m-p/120229
 type: download
 publishedDateTime: 2017-01-30T05:00:00Z
 heat: 52

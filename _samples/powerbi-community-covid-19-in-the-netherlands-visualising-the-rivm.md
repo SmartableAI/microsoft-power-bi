@@ -1,7 +1,7 @@
 ---
 title: "Covid-19 in the Netherlands, visualising the RIVM ..."
 excerpt: "To visualize the official Coronavirus (COVID-19) numbers in the Netherlands, that RIVM (National Institute for Public Health and the Environment)"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Covid-19-in-the-Netherlands-visualising-the-RIVM-data/m-p/985506
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Covid-19-in-the-Netherlands-visualising-the-RIVM-data/m-p/985506
 type: download
 publishedDateTime: 2020-03-21T23:29:00Z
 heat: 50

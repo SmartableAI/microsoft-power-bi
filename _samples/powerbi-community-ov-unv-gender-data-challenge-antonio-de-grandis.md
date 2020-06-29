@@ -1,7 +1,7 @@
 ---
 title: "OV UNV Gender Data Challenge - Antonio De Grandis"
 excerpt: "As a data challenge for Online Volunteers , Antonio De Grandis created a report to represent gender data of United Nations Volunteers."
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Gender-Data-Challenge-Antonio-De-Grandis/m-p/1061151
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Gender-Data-Challenge-Antonio-De-Grandis/m-p/1061151
 type: download
 publishedDateTime: 2020-05-01T07:36:00Z
 heat: 50

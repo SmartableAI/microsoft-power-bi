@@ -1,7 +1,7 @@
 ---
 title: "COVID-19 Global Report"
 excerpt: "This report uses data from John Hopkins University to analyze COVID-19 Trends. It looks at Confirmed Cases, Recoveries and Deaths in all countries,"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-Global-Report/m-p/994023
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-Global-Report/m-p/994023
 type: download
 publishedDateTime: 2020-03-26T14:06:00Z
 heat: 52

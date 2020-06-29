@@ -1,7 +1,7 @@
 ---
 title: "Buffy the Vampire Slayer"
 excerpt: "21 Years ago, Buffy the Vampire Slayer premiered on a small, teen centred network on US TV. This show would go on for 7 seasons of network TV, a"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Buffy-the-Vampire-Slayer/m-p/374399
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Buffy-the-Vampire-Slayer/m-p/374399
 type: download
 publishedDateTime: 2018-03-12T08:30:00Z
 heat: 50

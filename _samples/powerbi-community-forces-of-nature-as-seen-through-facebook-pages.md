@@ -1,7 +1,7 @@
 ---
 title: "Forces of Nature - As Seen through Facebook Pages"
 excerpt: "Forces of Nature - As Seen through Facebook Pages. Data Source: https://datachant.com/public/Facebook Data - Eclipse 2017.xlsx"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Forces-of-Nature-As-Seen-through-Facebook-Pages/m-p/349176
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Forces-of-Nature-As-Seen-through-Facebook-Pages/m-p/349176
 type: download
 publishedDateTime: 2018-01-31T08:18:00Z
 heat: 50

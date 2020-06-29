@@ -1,7 +1,7 @@
 ---
 title: "Sales Manager Scorecard"
 excerpt: "This Sales Manager Scorecard allows you to stay up-to-date on your company's sales by automatically showing you how your company sales has done the"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Sales-Manager-Scorecard/m-p/53842
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Sales-Manager-Scorecard/m-p/53842
 type: download
 publishedDateTime: 2016-07-28T12:35:00Z
 heat: 55

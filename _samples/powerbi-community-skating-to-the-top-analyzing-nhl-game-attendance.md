@@ -1,7 +1,7 @@
 ---
 title: "Skating to the Top : Analyzing NHL Game Attendance"
 excerpt: "Discover NHL home game attendance in this report! Attendance has been increasing overall but take a look to see who leads the pack and who is"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Skating-to-the-Top-Analyzing-NHL-Game-Attendance/m-p/725581
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Skating-to-the-Top-Analyzing-NHL-Game-Attendance/m-p/725581
 type: download
 publishedDateTime: 2019-06-26T18:59:00Z
 heat: 50

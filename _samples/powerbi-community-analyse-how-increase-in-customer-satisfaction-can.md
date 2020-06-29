@@ -1,7 +1,7 @@
 ---
 title: "Analyse How Increase In Customer Satisfaction Can ..."
 excerpt: "Customer Satisfaction holds enormous significance to any organization, since it has a direct impact on the Bottom Line, unlike other contributors"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Analyse-How-Increase-In-Customer-Satisfaction-Can-Maximize/m-p/243229
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Analyse-How-Increase-In-Customer-Satisfaction-Can-Maximize/m-p/243229
 type: download
 publishedDateTime: 2017-08-31T08:13:00Z
 heat: 55

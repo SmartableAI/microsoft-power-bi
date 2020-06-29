@@ -1,7 +1,7 @@
 ---
 title: "Anime Analitycs"
 excerpt: "Using data from MyAnimeList is possible through this report show all major Anime on the site . On the first page you can see how they are distributed"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Anime-Analitycs/m-p/111203
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Anime-Analitycs/m-p/111203
 type: download
 publishedDateTime: 2017-01-10T03:53:00Z
 heat: 50

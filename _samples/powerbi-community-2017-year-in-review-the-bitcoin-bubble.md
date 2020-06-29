@@ -1,7 +1,7 @@
 ---
 title: "2017 Year in Review - the Bitcoin Bubble"
 excerpt: "One of the biggest stories in popular culture in 2017 is the explosion of interest in Bitcoin. While many people are firm believers in its staying"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/2017-Year-in-Review-the-Bitcoin-Bubble/m-p/349639
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/2017-Year-in-Review-the-Bitcoin-Bubble/m-p/349639
 type: download
 publishedDateTime: 2018-01-31T23:57:00Z
 heat: 50

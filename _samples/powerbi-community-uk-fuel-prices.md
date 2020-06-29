@@ -1,7 +1,7 @@
 ---
 title: "UK Fuel Prices"
 excerpt: "Submission to the London Power BI User Group in 2019. Changes in fuel prices (Diesel &amp; Petrol) against inflation between 2004 and June 2019."
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/UK-Fuel-Prices/m-p/792351
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/UK-Fuel-Prices/m-p/792351
 type: download
 publishedDateTime: 2019-09-14T03:00:00Z
 heat: 50

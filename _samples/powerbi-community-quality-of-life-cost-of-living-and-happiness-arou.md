@@ -1,7 +1,7 @@
 ---
 title: "Quality of Life, Cost of Living and Happiness arou..."
 excerpt: "Hi All, I leveraged the idea and used the link below as a reference to build this model, and I also used the same data sources that were mentioned"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Quality-of-Life-Cost-of-Living-and-Happiness-around-the-World/m-p/716949
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Quality-of-Life-Cost-of-Living-and-Happiness-around-the-World/m-p/716949
 type: download
 publishedDateTime: 2019-06-17T11:37:00Z
 heat: 50

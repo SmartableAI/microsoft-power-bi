@@ -1,7 +1,7 @@
 ---
 title: "Présentation Résultats ( Concours Dataviz France)"
 excerpt: "J’ai pris l’option de créer un rapport Power BI qui permet de raconter une histoire ( DataStorytelling), et plus précisément de montrer qu’avec Power"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Pr%C3%A9sentation-R%C3%A9sultats-Concours-Dataviz-France/m-p/261928
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Pr%C3%A9sentation-R%C3%A9sultats-Concours-Dataviz-France/m-p/261928
 type: download
 publishedDateTime: 2017-09-30T03:13:00Z
 heat: 50

@@ -1,7 +1,7 @@
 ---
 title: "OV UNV Data Challenge - Dina Haniyah"
 excerpt: "As a data challenge for Online Volunteers , Dina Haniyah created a report to represent the geographical mobilization and demographics of United"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Dina-Haniyah/m-p/1082664
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Dina-Haniyah/m-p/1082664
 type: download
 publishedDateTime: 2020-05-10T00:57:00Z
 heat: 51

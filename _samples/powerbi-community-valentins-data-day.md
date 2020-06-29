@@ -1,7 +1,7 @@
 ---
 title: "Valentin's Data Day"
 excerpt: "Valentin's Day Data with an example of custum visual"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Valentin-s-Data-Day/m-p/932818
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Valentin-s-Data-Day/m-p/932818
 type: download
 publishedDateTime: 2020-02-14T00:15:00Z
 heat: 50

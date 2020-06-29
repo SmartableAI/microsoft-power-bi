@@ -1,7 +1,7 @@
 ---
 title: "Airport Authority Performance Summary"
 excerpt: "The Airport Authority Performance Dashboard provides a quick snapshot of all relevant data with a user-centric view to offer a detailed analysis. Any Airport Authority official can use this dashboard to make informed decisions swiftly- like interchanging terminals in case of delays or emergencies. They can also study the most popular flight routes, their patterns, and the sources as well as destinations of major airliners. A passenger feedback section provides insights about the travelers’ satisfaction level regarding various amenities. This section is further divided into terminal-wise and month-wise level of satisfaction."
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Airport-Authority-Performance-Summary/td-p/628963
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Airport-Authority-Performance-Summary/td-p/628963
 type: download
 publishedDateTime: 2019-02-21T07:25:00Z
 heat: 179

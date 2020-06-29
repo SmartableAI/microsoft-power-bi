@@ -1,7 +1,7 @@
 ---
 title: "TECH: Gender Gap Among Keynote Speakers (WebSummit..."
 excerpt: "Hi! We used the PowerBI gender connector to append gender information to WebSummit, VivaTech and CES speakers lists (2016, 2017, 2018). Some key"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/TECH-Gender-Gap-Among-Keynote-Speakers-WebSummit-VivaTech-CES/m-p/427272
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/TECH-Gender-Gap-Among-Keynote-Speakers-WebSummit-VivaTech-CES/m-p/427272
 type: download
 publishedDateTime: 2018-05-29T02:05:00Z
 heat: 50

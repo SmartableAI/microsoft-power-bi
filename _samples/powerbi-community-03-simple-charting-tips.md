@@ -1,7 +1,7 @@
 ---
 title: "03 Simple Charting Tips"
 excerpt: "English | Spanish (español) For fullscreen click here: https://bit.ly/2XBkuD4 Para verlo en pantalla completa click aquí: https://bit.ly/2XBkuD4 Tips"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/03-Simple-Charting-Tips/m-p/1128288
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/03-Simple-Charting-Tips/m-p/1128288
 type: download
 publishedDateTime: 2020-05-28T22:19:00Z
 heat: 54

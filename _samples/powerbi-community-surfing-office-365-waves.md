@@ -1,7 +1,7 @@
 ---
 title: "Surfing Office 365 waves"
 excerpt: "Summary Here Power BI is used to analyze Office 365 roadmap items. What can be a better approach to use an Office 365 tool to analyze Office 365 next"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Surfing-Office-365-waves/m-p/436415
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Surfing-Office-365-waves/m-p/436415
 type: download
 publishedDateTime: 2018-06-10T15:39:00Z
 heat: 50

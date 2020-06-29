@@ -1,7 +1,7 @@
 ---
 title: "OV UNV Data Challenge - Jeffrey Hall"
 excerpt: "As a data challenge for Online Volunteers , created a report to represent the geographical mobilization and demographics of United Nations"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Jeffrey-Hall/m-p/1028519
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Jeffrey-Hall/m-p/1028519
 type: download
 publishedDateTime: 2020-04-15T15:29:00Z
 heat: 50

@@ -1,7 +1,7 @@
 ---
 title: "Gamification Power BI Visualization by Third I"
 excerpt: "Today, most businesses rely on Salesforce to track their employee activity, pipelines, and revenue. While they’re able to monitor their progress and"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Gamification-Power-BI-Visualization-by-Third-I/m-p/708390
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Gamification-Power-BI-Visualization-by-Third-I/m-p/708390
 type: download
 publishedDateTime: 2019-06-06T02:11:00Z
 heat: 54

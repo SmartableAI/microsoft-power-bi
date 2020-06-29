@@ -1,7 +1,7 @@
 ---
 title: "Touring cycle of a Metal Band \\m/"
 excerpt: "Was looking into web scraping for PBI, and came across bandsintown website which collates all touring info from a multitude of bands from around the"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Touring-cycle-of-a-Metal-Band-m/m-p/213979
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Touring-cycle-of-a-Metal-Band-m/m-p/213979
 type: download
 publishedDateTime: 2017-07-18T04:15:00Z
 heat: 50

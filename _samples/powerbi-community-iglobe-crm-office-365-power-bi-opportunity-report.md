@@ -1,7 +1,7 @@
 ---
 title: "iGlobe CRM Office 365 Power BI Opportunity report ..."
 excerpt: "iGlobe CRM Office 365 is a simple CRM for organizations on Office 365. Focusing on the user, as a part of a team or individual, iGlobe CRM Office 365"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/iGlobe-CRM-Office-365-Power-BI-Opportunity-report-Demo/m-p/349819
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/iGlobe-CRM-Office-365-Power-BI-Opportunity-report-Demo/m-p/349819
 type: download
 publishedDateTime: 2018-02-01T03:43:00Z
 heat: 51

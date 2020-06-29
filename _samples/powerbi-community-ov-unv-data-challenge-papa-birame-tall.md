@@ -1,7 +1,7 @@
 ---
 title: "OV UNV Data Challenge - Papa Birame Tall"
 excerpt: "As a data challenge for Online Volunteers , Papa birame Tall created a report to represent the geographical mobilization and demographics of United"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Papa-Birame-Tall/m-p/1082674
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Papa-Birame-Tall/m-p/1082674
 type: download
 publishedDateTime: 2020-05-10T01:19:00Z
 heat: 50

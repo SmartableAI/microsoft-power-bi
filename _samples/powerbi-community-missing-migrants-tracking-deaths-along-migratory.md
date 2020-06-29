@@ -1,7 +1,7 @@
 ---
 title: "Missing Migrants - Tracking Deaths Along Migratory..."
 excerpt: "More than in recent times human migration is at the forefront of the news with wars in Syria, continuing strife in Afghanistan, the recent migrant"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Missing-Migrants-Tracking-Deaths-Along-Migratory-Routes/m-p/342271
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Missing-Migrants-Tracking-Deaths-Along-Migratory-Routes/m-p/342271
 type: download
 publishedDateTime: 2018-01-21T10:52:00Z
 heat: 56

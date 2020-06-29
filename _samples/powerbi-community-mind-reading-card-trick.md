@@ -1,7 +1,7 @@
 ---
 title: "Mind Reading Card Trick"
 excerpt: "Created this fun report using Bookmarking functionality. Reference : http://www.caveofmagic.com/"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Mind-Reading-Card-Trick/m-p/330548
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Mind-Reading-Card-Trick/m-p/330548
 type: download
 publishedDateTime: 2017-12-29T12:12:00Z
 heat: 50

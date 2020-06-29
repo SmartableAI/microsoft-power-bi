@@ -1,7 +1,7 @@
 ---
 title: "UK Baby Names from Office of National Statistics (..."
 excerpt: "This report analyses the popularity of baby names in the UK from 1904 to 2017. The data source is a simple file of names and associated rank in each"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/UK-Baby-Names-from-Office-of-National-Statistics-Storytelling/m-p/792472
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/UK-Baby-Names-from-Office-of-National-Statistics-Storytelling/m-p/792472
 type: download
 publishedDateTime: 2019-09-14T15:34:00Z
 heat: 50

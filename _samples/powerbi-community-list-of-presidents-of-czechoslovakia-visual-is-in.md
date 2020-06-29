@@ -1,7 +1,7 @@
 ---
 title: "List of presidents of Czechoslovakia (visual is in..."
 excerpt: "The President of Czechoslovakia (Czech: Prezident Československa, Slovak: Prezident Česko-Slovenska) was the head of state of Czechoslovakia, from"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/List-of-presidents-of-Czechoslovakia-visual-is-in-czech-language/m-p/781303
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/List-of-presidents-of-Czechoslovakia-visual-is-in-czech-language/m-p/781303
 type: download
 publishedDateTime: 2019-09-02T03:02:00Z
 heat: 50

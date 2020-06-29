@@ -1,7 +1,7 @@
 ---
 title: "Austria Tourism"
 excerpt: "Austria boasts one of the highest per capita income from tourism worldwide. The report summarizes the latest statistics published by Statistik"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Austria-Tourism/m-p/277381
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Austria-Tourism/m-p/277381
 type: download
 publishedDateTime: 2017-10-12T17:35:00Z
 heat: 50

@@ -1,7 +1,7 @@
 ---
 title: "North Korea - \"Handle with Care\""
 excerpt: "I was interested in this topic after seeing data surrounding North Korea's progress in missile technology. The country also launched two missiles"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/North-Korea-quot-Handle-with-Care-quot/m-p/344991
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/North-Korea-quot-Handle-with-Care-quot/m-p/344991
 type: download
 publishedDateTime: 2018-01-24T20:55:00Z
 heat: 54

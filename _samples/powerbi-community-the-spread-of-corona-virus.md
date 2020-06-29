@@ -1,7 +1,7 @@
 ---
 title: "The Spread of Corona Virus"
 excerpt: "This dashboard tracks the spread of Corona and details the tragedy of it. This is still a work in progress. Feedback is appreciated."
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/The-Spread-of-Corona-Virus/m-p/987165
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/The-Spread-of-Corona-Virus/m-p/987165
 type: download
 publishedDateTime: 2020-03-23T07:31:00Z
 heat: 71

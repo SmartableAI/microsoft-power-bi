@@ -1,7 +1,7 @@
 ---
 title: "PowerBI Data Comparison Tool"
 excerpt: "PBIDataComparison PowerBI Data Comparison Tool Here is a PowerBI Document designed to show differences in data from two similar data sets It’s a"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/PowerBI-Data-Comparison-Tool/m-p/658314
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/PowerBI-Data-Comparison-Tool/m-p/658314
 type: download
 publishedDateTime: 2019-03-31T14:26:00Z
 heat: 54

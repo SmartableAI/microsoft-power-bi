@@ -1,7 +1,7 @@
 ---
 title: "Exploring Top Chess Openings in Power BI"
 excerpt: "Explore a few of the most popular chess openings through Power BI by using the What-If slicer. Simply move the slider from left to right to step"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Exploring-Top-Chess-Openings-in-Power-BI/m-p/240955
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Exploring-Top-Chess-Openings-in-Power-BI/m-p/240955
 type: download
 publishedDateTime: 2017-08-28T22:48:00Z
 heat: 51

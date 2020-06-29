@@ -1,7 +1,7 @@
 ---
 title: "The Squirrels of New York"
 excerpt: "Created for #MakeoverMonday 2019 Week 48. Includes my first DAX measure and the Advance Card viz from the marketplace."
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/The-Squirrels-of-New-York/m-p/891071
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/The-Squirrels-of-New-York/m-p/891071
 type: download
 publishedDateTime: 2020-01-06T16:21:00Z
 heat: 50

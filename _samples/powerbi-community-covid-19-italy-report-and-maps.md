@@ -1,7 +1,7 @@
 ---
 title: "COVID-19 Italy Report and maps"
 excerpt: "This report is a reworking and an enrichment of the official italian dashbord at this URL"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-Italy-Report-and-maps/m-p/1019440
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-Italy-Report-and-maps/m-p/1019440
 type: download
 publishedDateTime: 2020-04-10T03:58:00Z
 heat: 50

@@ -1,7 +1,7 @@
 ---
 title: "Power BI Gartner Bakeoff entry - Opioid Gallery"
 excerpt: "This is the report that we presented at the Gartner Data and Analytics Summit in the bakeoff."
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Power-BI-Gartner-Bakeoff-entry-Opioid-Gallery/m-p/377969
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Power-BI-Gartner-Bakeoff-entry-Opioid-Gallery/m-p/377969
 type: download
 publishedDateTime: 2018-03-16T11:53:00Z
 heat: 65

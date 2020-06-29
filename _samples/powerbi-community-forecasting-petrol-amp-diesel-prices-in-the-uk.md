@@ -1,7 +1,7 @@
 ---
 title: "Forecasting Petrol &amp; Diesel Prices in the UK"
 excerpt: "Created for #MakeoverMonday 2020 week 17, this dash features the built-in Forecasting in the analytics pane. I am pleased with the way I can play"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Forecasting-Petrol-amp-Diesel-Prices-in-the-UK/m-p/1056433
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Forecasting-Petrol-amp-Diesel-Prices-in-the-UK/m-p/1056433
 type: download
 publishedDateTime: 2020-04-29T05:30:00Z
 heat: 50

@@ -1,7 +1,7 @@
 ---
 title: "OV UNV Gender Data Challenge - Sunil Kumar Nayak"
 excerpt: "Gender volunteering data of UN Volunteers ."
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Gender-Data-Challenge-Sunil-Kumar-Nayak/m-p/1116931
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Gender-Data-Challenge-Sunil-Kumar-Nayak/m-p/1116931
 type: download
 publishedDateTime: 2020-05-24T20:34:00Z
 heat: 52

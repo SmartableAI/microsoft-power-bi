@@ -1,7 +1,7 @@
 ---
 title: "My Own Google Location Tracking Report"
 excerpt: "This is just a example of how we can see play with our own Google location tracking Data with PowerBI. These report is developed using my own data"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/My-Own-Google-Location-Tracking-Report/m-p/804808
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/My-Own-Google-Location-Tracking-Report/m-p/804808
 type: download
 publishedDateTime: 2019-09-28T03:34:00Z
 heat: 50

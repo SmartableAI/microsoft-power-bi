@@ -1,7 +1,7 @@
 ---
 title: "Las Vegas Historic Tourism Facts(Makeover Monday W..."
 excerpt: "The impact of the Great Recession on the city of Las Vegas"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Las-Vegas-Historic-Tourism-Facts-Makeover-Monday-Week-45/m-p/836910
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Las-Vegas-Historic-Tourism-Facts-Makeover-Monday-Week-45/m-p/836910
 type: download
 publishedDateTime: 2019-11-04T21:00:00Z
 heat: 50

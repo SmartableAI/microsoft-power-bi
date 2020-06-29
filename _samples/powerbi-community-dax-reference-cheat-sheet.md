@@ -1,7 +1,7 @@
 ---
 title: "DAX Reference Cheat Sheet"
 excerpt: "This Power BI report provides the DAX reference \\ Cheat sheet. This report extracts the data from the Dax references from the below MSDN link. The"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/DAX-Reference-Cheat-Sheet/m-p/483212
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/DAX-Reference-Cheat-Sheet/m-p/483212
 type: download
 publishedDateTime: 2018-08-07T17:27:00Z
 heat: 91

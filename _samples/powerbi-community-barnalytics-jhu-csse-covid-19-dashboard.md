@@ -1,7 +1,7 @@
 ---
 title: "Barnalytics JHU CSSE CoViD-19 Dashboard"
 excerpt: "This report has been developed to help out the community in demonstrating how to connect to the JHU CSSE CoViD-19 dataset stored on Github ("
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Barnalytics-JHU-CSSE-CoViD-19-Dashboard/m-p/993401
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Barnalytics-JHU-CSSE-CoViD-19-Dashboard/m-p/993401
 type: download
 publishedDateTime: 2020-03-26T06:29:00Z
 heat: 50

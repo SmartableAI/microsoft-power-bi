@@ -1,7 +1,7 @@
 ---
 title: "TOP 100 CEO's in 2016 by HBR"
 excerpt: "This report is created from Harvard Business review article - Best performing CEOs in the world ("
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/TOP-100-CEO-s-in-2016-by-HBR/m-p/83972
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/TOP-100-CEO-s-in-2016-by-HBR/m-p/83972
 type: download
 publishedDateTime: 2016-10-30T20:15:00Z
 heat: 50

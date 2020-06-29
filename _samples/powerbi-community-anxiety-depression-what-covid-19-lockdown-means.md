@@ -1,7 +1,7 @@
 ---
 title: "Anxiety, Depression: What COVID-19 Lockdown Means ..."
 excerpt: "Questions about survival, humanity and the future, the changes and the chaos that it is bringing in the lives of Indians."
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Anxiety-Depression-What-COVID-19-Lockdown-Means-for-India-s/m-p/1097521
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Anxiety-Depression-What-COVID-19-Lockdown-Means-for-India-s/m-p/1097521
 type: download
 publishedDateTime: 2020-05-20T00:54:00Z
 heat: 51

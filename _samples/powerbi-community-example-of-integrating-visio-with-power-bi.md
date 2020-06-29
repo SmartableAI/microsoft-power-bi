@@ -1,7 +1,7 @@
 ---
 title: "Example of Integrating Visio with Power BI"
 excerpt: "This data story illustrates how an existing Visio diagram can be inserted into a Power BI report and used as a heat map. The details on how this was"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Example-of-Integrating-Visio-with-Power-BI/m-p/248406
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Example-of-Integrating-Visio-with-Power-BI/m-p/248406
 type: download
 publishedDateTime: 2017-09-08T09:30:00Z
 heat: 51

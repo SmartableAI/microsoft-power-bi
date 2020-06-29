@@ -1,7 +1,7 @@
 ---
 title: "COVID 19 India Trends"
 excerpt: "eyJrIjoiMDBiOTE2MWMtOTg2My00OWU1LWJlMTMtYmE4ZDU2MGQ5ODNlIiwidCI6IjI0N2MyMTU5LTI5ZWItNDVhOC05ZjVlLTQxMzgzZWRlOTAxNSJ9"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-India-Trends/m-p/1042123
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-India-Trends/m-p/1042123
 type: download
 publishedDateTime: 2020-04-22T08:57:00Z
 heat: 50

@@ -1,7 +1,7 @@
 ---
 title: "SSIS Catalog DB Dashboard"
 excerpt: "Hi, This is not so much a Data Story but a template for a dashboard for looking at your own SSIS activity. I use SSIS extensively with my job and"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/SSIS-Catalog-DB-Dashboard/m-p/244677
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/SSIS-Catalog-DB-Dashboard/m-p/244677
 type: download
 publishedDateTime: 2017-09-03T13:21:00Z
 heat: 71

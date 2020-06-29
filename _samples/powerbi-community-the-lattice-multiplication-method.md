@@ -1,7 +1,7 @@
 ---
 title: "The Lattice Multiplication Method"
 excerpt: "The lattice multiplication method is an alternative to long multiplication and can be used to multiply numbers of any length. This report consists of"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/The-Lattice-Multiplication-Method/m-p/771189
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/The-Lattice-Multiplication-Method/m-p/771189
 type: download
 publishedDateTime: 2019-08-20T12:27:00Z
 heat: 50

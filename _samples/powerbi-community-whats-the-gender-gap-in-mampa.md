@@ -1,7 +1,7 @@
 ---
 title: "What's the Gender Gap in M&amp;A"
 excerpt: "Hi! With NamSor API open source connector , any PowerBI table that has personal names can be enriched with gender information or other diversity"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/What-s-the-Gender-Gap-in-M-amp-A/m-p/417939
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/What-s-the-Gender-Gap-in-M-amp-A/m-p/417939
 type: download
 publishedDateTime: 2018-05-15T10:12:00Z
 heat: 50

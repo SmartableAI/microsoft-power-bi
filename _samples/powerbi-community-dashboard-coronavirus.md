@@ -1,7 +1,7 @@
 ---
 title: "Dashboard Coronavirus"
 excerpt: "La API https://api.covid19api.com/summary sirve información con la cual se elaboró este dashboard para ver la situación global del contagio del"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Dashboard-Coronavirus/m-p/1008256
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Dashboard-Coronavirus/m-p/1008256
 type: download
 publishedDateTime: 2020-04-04T11:14:00Z
 heat: 50

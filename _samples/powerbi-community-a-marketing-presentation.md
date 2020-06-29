@@ -1,7 +1,7 @@
 ---
 title: "A Marketing Presentation"
 excerpt: "Presentación de Ventas eyJrIjoiMzJhZGRmMGItMjNjZi00NTA1LWI3NGQtNDQ3MDNjYzhhM2NiIiwidCI6ImYyMmFlZDcyLTc1YmMtNDI2YS1hOGQzLTFiYTgyNmY0ODI4MSIsImMiOjR9"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/A-Marketing-Presentation/m-p/425992
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/A-Marketing-Presentation/m-p/425992
 type: download
 publishedDateTime: 2018-05-26T17:19:00Z
 heat: 50

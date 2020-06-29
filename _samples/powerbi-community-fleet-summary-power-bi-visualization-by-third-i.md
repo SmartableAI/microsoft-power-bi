@@ -1,7 +1,7 @@
 ---
 title: "Fleet Summary - Power BI Visualization by Third I"
 excerpt: "Billions of metric tons of greenhouse gases are emitted every year across the globe and the transportation sector accounts for about half of these"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Fleet-Summary-Power-BI-Visualization-by-Third-I/m-p/672993
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Fleet-Summary-Power-BI-Visualization-by-Third-I/m-p/672993
 type: download
 publishedDateTime: 2019-04-18T03:19:00Z
 heat: 53

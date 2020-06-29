@@ -1,7 +1,7 @@
 ---
 title: "Reporte de Consumo de Gasolina (Oil Consume Report"
 excerpt: "Reporte de Consumo de Gasolina por Tarjeta (4)"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Reporte-de-Consumo-de-Gasolina-Oil-Consume-Report/m-p/434805
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Reporte-de-Consumo-de-Gasolina-Oil-Consume-Report/m-p/434805
 type: download
 publishedDateTime: 2018-06-07T08:48:00Z
 heat: 50

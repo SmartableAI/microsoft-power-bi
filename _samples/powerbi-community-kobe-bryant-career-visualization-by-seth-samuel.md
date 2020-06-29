@@ -1,7 +1,7 @@
 ---
 title: "Kobe Bryant Career Visualization by Seth Samuel"
 excerpt: "This report is to pay tribute to the great sportsman - Kobe Bryant. Contact: https://www.linkedin.com/in/samuelseth/"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Kobe-Bryant-Career-Visualization-by-Seth-Samuel/m-p/1035021
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Kobe-Bryant-Career-Visualization-by-Seth-Samuel/m-p/1035021
 type: download
 publishedDateTime: 2020-04-19T15:06:00Z
 heat: 50

@@ -1,7 +1,7 @@
 ---
 title: "Income Statement with Ratio Analysis"
 excerpt: "This report shows a completed example of a flexible, dynamic and attention-focused Income Statement Report. It was built for and demonstrated at the"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Income-Statement-with-Ratio-Analysis/m-p/792479
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Income-Statement-with-Ratio-Analysis/m-p/792479
 type: download
 publishedDateTime: 2019-09-14T16:02:00Z
 heat: 59

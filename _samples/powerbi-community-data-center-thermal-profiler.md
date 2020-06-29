@@ -1,7 +1,7 @@
 ---
 title: "Data Center Thermal Profiler"
 excerpt: "EWEN’s DCTP (Data Center Thermal Profiler) uses PowerBI to present 2D and 3D visualizations of temperature and humidity in Data Centers. The system"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Data-Center-Thermal-Profiler/m-p/141361
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Data-Center-Thermal-Profiler/m-p/141361
 type: download
 publishedDateTime: 2017-03-13T03:15:00Z
 heat: 50

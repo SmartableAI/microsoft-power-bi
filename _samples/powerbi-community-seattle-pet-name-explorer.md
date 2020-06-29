@@ -1,7 +1,7 @@
 ---
 title: "Seattle Pet Name Explorer"
 excerpt: "The Seattle Pet Name Explorer is a fun way to search for popular and unique pet names in the City of Seattle. Built with Seattle Pet License data"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Seattle-Pet-Name-Explorer/m-p/274940
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Seattle-Pet-Name-Explorer/m-p/274940
 type: download
 publishedDateTime: 2017-10-10T12:36:00Z
 heat: 50

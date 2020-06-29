@@ -1,7 +1,7 @@
 ---
 title: "If I Were a Rich Man - A Bitcoin What-If Calculato..."
 excerpt: "Many people will say that 2017 was the year of the Bitcoin. Whether you have invested in cryptocurrency or not, here is your best Power BI tool to"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/If-I-Were-a-Rich-Man-A-Bitcoin-What-If-Calculator/m-p/332301
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/If-I-Were-a-Rich-Man-A-Bitcoin-What-If-Calculator/m-p/332301
 type: download
 publishedDateTime: 2018-01-03T21:52:00Z
 heat: 54

@@ -1,7 +1,7 @@
 ---
 title: "Lewis Hamilton British Grand Prix Qualifying"
 excerpt: "Inspired by the British Grand Prix results posted by F1Fanatic.co.uk this chart re-visualizes the data in a different way to show just how closely"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Lewis-Hamilton-British-Grand-Prix-Qualifying/m-p/48913
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Lewis-Hamilton-British-Grand-Prix-Qualifying/m-p/48913
 type: download
 publishedDateTime: 2016-07-09T10:23:00Z
 heat: 50

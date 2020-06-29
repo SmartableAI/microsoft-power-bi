@@ -1,7 +1,7 @@
 ---
 title: "Wimbledon Championship Winners"
 excerpt: "Your Wimbeldon Champions analysed, this report contains the analysis of the final games only. It also shows the sucess rates of countries and"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Wimbledon-Championship-Winners/m-p/736419
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Wimbledon-Championship-Winners/m-p/736419
 type: download
 publishedDateTime: 2019-07-10T04:10:00Z
 heat: 50

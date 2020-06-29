@@ -1,7 +1,7 @@
 ---
 title: "CPI 2018 (Indice de percepção de corrupção mundial..."
 excerpt: "Através do site https://www.transparency.org é possivel verificar um trabalho em conjunto com governos , empresas e cidadãos para impedir o abuso de"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/CPI-2018-Indice-de-percep%C3%A7%C3%A3o-de-corrup%C3%A7%C3%A3o-mundial/m-p/686940
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/CPI-2018-Indice-de-percep%C3%A7%C3%A3o-de-corrup%C3%A7%C3%A3o-mundial/m-p/686940
 type: download
 publishedDateTime: 2019-05-08T17:14:00Z
 heat: 50

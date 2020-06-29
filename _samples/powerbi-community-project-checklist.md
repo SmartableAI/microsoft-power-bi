@@ -1,7 +1,7 @@
 ---
 title: "Project Checklist"
 excerpt: "Who doesn't love KPI icons in tables? They provide instant feedback on performance metrics, alerting us to a job well done or for the need of further"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Project-Checklist/m-p/227899
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Project-Checklist/m-p/227899
 type: download
 publishedDateTime: 2017-08-08T17:46:00Z
 heat: 55

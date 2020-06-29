@@ -1,7 +1,7 @@
 ---
 title: "Pets and their likeliness"
 excerpt: "eyJrIjoiMzZjNmIyMzMtYTJlYy00NDM1LWJjZjQtYmU2Nzk1OWY0YmQzIiwidCI6IjNlMDlkOWNlLWIxYmYtNDRkYS05Y2Q4LTc1YzRhNTJhOGI0MSJ9"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Pets-and-their-likeliness/m-p/789899
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Pets-and-their-likeliness/m-p/789899
 type: download
 publishedDateTime: 2019-09-11T15:04:00Z
 heat: 50

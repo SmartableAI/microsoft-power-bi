@@ -1,7 +1,7 @@
 ---
 title: "The Andrew W. Mellon Foundation's Grant Database"
 excerpt: "A look at the massive contribution The Andrew W. Mellon Foundation has made to various organisations over the past 48 years."
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/The-Andrew-W-Mellon-Foundation-s-Grant-Database/m-p/218888
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/The-Andrew-W-Mellon-Foundation-s-Grant-Database/m-p/218888
 type: download
 publishedDateTime: 2017-07-25T14:07:00Z
 heat: 50

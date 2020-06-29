@@ -1,7 +1,7 @@
 ---
 title: "Green Plastic (Back to School)"
 excerpt: "Could you imagine your life without plastic? The plastic turns our lives easier , more pratical and safety. You production is the basis of fossil"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Green-Plastic-Back-to-School/m-p/785803
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Green-Plastic-Back-to-School/m-p/785803
 type: download
 publishedDateTime: 2019-09-06T07:42:00Z
 heat: 58

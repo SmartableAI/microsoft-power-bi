@@ -1,7 +1,7 @@
 ---
 title: "2017 Musician Deaths - Effect on Spotify"
 excerpt: "I wanted to use Power BI's Bookmarks to show something fun and interesting. In the case of music data, it's apparent when famous musicians die--but"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/2017-Musician-Deaths-Effect-on-Spotify/m-p/346554
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/2017-Musician-Deaths-Effect-on-Spotify/m-p/346554
 type: download
 publishedDateTime: 2018-01-27T11:48:00Z
 heat: 50

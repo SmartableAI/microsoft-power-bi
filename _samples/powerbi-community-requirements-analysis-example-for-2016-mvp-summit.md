@@ -1,7 +1,7 @@
 ---
 title: "Requirements Analysis example for 2016 MVP Summit"
 excerpt: "This model came from a real world need to analyze a list of requirements received as part of a Request for Proposal. These situations typically"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Requirements-Analysis-example-for-2016-MVP-Summit/m-p/88492
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Requirements-Analysis-example-for-2016-MVP-Summit/m-p/88492
 type: download
 publishedDateTime: 2016-11-10T11:03:00Z
 heat: 50

@@ -1,7 +1,7 @@
 ---
 title: "DAX in Power BI - Back to School"
 excerpt: "Hi everyone! I was thinking about how to participate in Back to school contest last week and I said what do I like? and how it can be useful for"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/DAX-in-Power-BI-Back-to-School/m-p/785063
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/DAX-in-Power-BI-Back-to-School/m-p/785063
 type: download
 publishedDateTime: 2019-09-05T15:59:00Z
 heat: 58

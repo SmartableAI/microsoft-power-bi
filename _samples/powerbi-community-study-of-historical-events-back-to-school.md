@@ -1,7 +1,7 @@
 ---
 title: "Study of Historical Events (Back to School)"
 excerpt: "Hi All This dashboard is developed by 12 to 13 year old kids whose names are as below: Medha Bandari (12 years) Vibhaa Sharma (13 years) These kids"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Study-of-Historical-Events-Back-to-School/m-p/786138
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Study-of-Historical-Events-Back-to-School/m-p/786138
 type: download
 publishedDateTime: 2019-09-06T22:36:00Z
 heat: 50

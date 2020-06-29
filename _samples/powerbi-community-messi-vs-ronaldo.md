@@ -1,7 +1,7 @@
 ---
 title: "Messi vs. Ronaldo"
 excerpt: "Who's the greatest of all time? A statistical breakdown of Lionel Messi v. Cristiano Ronaldo over the past decade in the La Liga &amp; Champions League."
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Messi-vs-Ronaldo/m-p/1037226
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Messi-vs-Ronaldo/m-p/1037226
 type: download
 publishedDateTime: 2020-04-20T09:52:00Z
 heat: 51

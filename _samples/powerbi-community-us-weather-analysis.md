@@ -1,7 +1,7 @@
 ---
 title: "U.S. Weather Analysis"
 excerpt: "An interactive dive into weather data provided by NOAA, showcasing Average High and Low Temperatures across the United States from 2010 through 2016"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/U-S-Weather-Analysis/m-p/58483
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/U-S-Weather-Analysis/m-p/58483
 type: download
 publishedDateTime: 2016-08-14T12:07:00Z
 heat: 50

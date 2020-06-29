@@ -1,7 +1,7 @@
 ---
 title: "Analysis of Leading Economic Indicators by Decisiv..."
 excerpt: "The Challenge Every day we are inundated with noise about the health of the economy. Take for instance the following headline, “Consumer Sentiment"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Analysis-of-Leading-Economic-Indicators-by-Decisive-Data/m-p/218886
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Analysis-of-Leading-Economic-Indicators-by-Decisive-Data/m-p/218886
 type: download
 publishedDateTime: 2017-07-25T14:00:00Z
 heat: 56

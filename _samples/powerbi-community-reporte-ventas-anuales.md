@@ -1,7 +1,7 @@
 ---
 title: "Reporte Ventas Anuales"
 excerpt: "Reporte de Ventas Anuales con Metas Individuales y Organigrama del Área de Ventas en Visio"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Reporte-Ventas-Anuales/m-p/430587
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Reporte-Ventas-Anuales/m-p/430587
 type: download
 publishedDateTime: 2018-06-01T18:58:00Z
 heat: 50

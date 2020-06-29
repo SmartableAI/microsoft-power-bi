@@ -1,7 +1,7 @@
 ---
 title: "OV UNV Gender Data Challenge - Gold Ehigiator"
 excerpt: "As a data challenge for Online Volunteers , Gold Ehigiator created a report to represent gender data of United Nations Volunteers."
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Gender-Data-Challenge-Gold-Ehigiator/m-p/1081672
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Gender-Data-Challenge-Gold-Ehigiator/m-p/1081672
 type: download
 publishedDateTime: 2020-05-08T09:29:00Z
 heat: 50

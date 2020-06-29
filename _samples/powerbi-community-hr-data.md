@@ -1,7 +1,7 @@
 ---
 title: "HR DATA"
 excerpt: "GENDER DIVERSITY. EMPLOYEE STATUS AND PERFORMANCE SCORE. HEADCOUNT DATA - PAY RATE BY DEPARTMENT AND SEX. HEADCOUNT DATA LOCATION WISE."
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/HR-DATA/m-p/829381
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/HR-DATA/m-p/829381
 type: download
 publishedDateTime: 2019-10-27T11:30:00Z
 heat: 52

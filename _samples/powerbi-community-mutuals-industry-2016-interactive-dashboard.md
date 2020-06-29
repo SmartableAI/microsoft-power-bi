@@ -1,7 +1,7 @@
 ---
 title: "Mutuals Industry 2016  interactive dashboard"
 excerpt: "The report examines the performance and the role of the mutuals in Australia’s financial services sector for the financial year ended 30 June 2016."
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Mutuals-Industry-2016-interactive-dashboard/m-p/104216
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Mutuals-Industry-2016-interactive-dashboard/m-p/104216
 type: download
 publishedDateTime: 2016-12-19T18:31:00Z
 heat: 50

@@ -1,7 +1,7 @@
 ---
 title: "Where does your state spend and get money?"
 excerpt: "Understanding where states spend money and raise taxes can help state legislators or policy makers make better decisions. In total, 50 states and the"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Where-does-your-state-spend-and-get-money/m-p/398485
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Where-does-your-state-spend-and-get-money/m-p/398485
 type: download
 publishedDateTime: 2018-04-17T14:12:00Z
 heat: 51

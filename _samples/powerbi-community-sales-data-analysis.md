@@ -1,7 +1,7 @@
 ---
 title: "SALES DATA ANALYSIS"
 excerpt: "Superstore Data taken from: https://community.tableau.com/docs/DOC-1236 Sales and Profit with Timeline Slicer. Matrix with Icon sets. Top N"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/SALES-DATA-ANALYSIS/m-p/829375
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/SALES-DATA-ANALYSIS/m-p/829375
 type: download
 publishedDateTime: 2019-10-27T10:45:00Z
 heat: 50

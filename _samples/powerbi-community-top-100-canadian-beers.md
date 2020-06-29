@@ -1,7 +1,7 @@
 ---
 title: "Top 100 Canadian Beers"
 excerpt: "A walk through the geography, style and ABV of the top 100 Candian Beers."
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Top-100-Canadian-Beers/m-p/407267
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Top-100-Canadian-Beers/m-p/407267
 type: download
 publishedDateTime: 2018-04-30T06:03:00Z
 heat: 50

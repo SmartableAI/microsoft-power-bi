@@ -1,7 +1,7 @@
 ---
 title: "How the Internet Works (Back to School)"
 excerpt: "Have you ever wondered how the internet comes to your home? Have you ever wondered how the internet connects one continent to another? Have you ever"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/How-the-Internet-Works-Back-to-School/m-p/785774
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/How-the-Internet-Works-Back-to-School/m-p/785774
 type: download
 publishedDateTime: 2019-09-06T07:07:00Z
 heat: 52

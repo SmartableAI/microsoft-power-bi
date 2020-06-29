@@ -1,7 +1,7 @@
 ---
 title: "Association Réseau Etincelle : les décrocheurs ent..."
 excerpt: "Le réseau Etincelle est une association créée par des dirigeants d'entreprise. Elle consiste à entraîner les jeunes sortis du système scolaire sans"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Association-R%C3%A9seau-Etincelle-les-d%C3%A9crocheurs-entrepreneurs-de/m-p/261567
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Association-R%C3%A9seau-Etincelle-les-d%C3%A9crocheurs-entrepreneurs-de/m-p/261567
 type: download
 publishedDateTime: 2017-09-29T03:09:00Z
 heat: 50

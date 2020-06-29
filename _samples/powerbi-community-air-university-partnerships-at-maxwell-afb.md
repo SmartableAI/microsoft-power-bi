@@ -1,7 +1,7 @@
 ---
 title: "Air University Partnerships at Maxwell AFB."
 excerpt: "Summary: Building enduring partnerships with Air University at Maxwell AFB. Air University promotes a culture of innovation, integration and"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Air-University-Partnerships-at-Maxwell-AFB/m-p/446340
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Air-University-Partnerships-at-Maxwell-AFB/m-p/446340
 type: download
 publishedDateTime: 2018-06-22T11:10:00Z
 heat: 50

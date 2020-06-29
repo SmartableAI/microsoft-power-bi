@@ -1,7 +1,7 @@
 ---
 title: "Super Store Report"
 excerpt: "This report analyse the performance of the product based on selling."
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Super-Store-Report/m-p/502104
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Super-Store-Report/m-p/502104
 type: download
 publishedDateTime: 2018-08-29T01:29:00Z
 heat: 51

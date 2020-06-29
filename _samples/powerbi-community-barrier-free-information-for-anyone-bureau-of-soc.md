@@ -1,7 +1,7 @@
 ---
 title: "Barrier-free information for anyone (Bureau of Soc..."
 excerpt: "The Tokyo Bureau of Social Welfare and Public Health discloses the location of restrooms and other barrier-free conditions as one of the ways to"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Barrier-free-information-for-anyone-Bureau-of-Social-Welfare-and/m-p/968214
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Barrier-free-information-for-anyone-Bureau-of-Social-Welfare-and/m-p/968214
 type: download
 publishedDateTime: 2020-03-10T23:52:00Z
 heat: 50

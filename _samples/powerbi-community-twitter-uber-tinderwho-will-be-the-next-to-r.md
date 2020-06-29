@@ -1,7 +1,7 @@
 ---
 title: "Twitter, Uber, Tinder...who will  be the next to r..."
 excerpt: "Hi, This is my second public dashboard using Power BI. This dashboard enables us to track various KPIs of most famous mobile apps, such as : Linked"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Twitter-Uber-Tinder-who-will-be-the-next-to-reach-1-Billion/m-p/211197
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Twitter-Uber-Tinder-who-will-be-the-next-to-reach-1-Billion/m-p/211197
 type: download
 publishedDateTime: 2017-07-13T03:20:00Z
 heat: 50

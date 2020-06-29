@@ -1,7 +1,7 @@
 ---
 title: "OV UNV Data Challenge - Raghvendra Shivhare"
 excerpt: "As a data challenge for Online Volunteers , Raghvendra Shivhare created a report to represent the geographical mobilization and demographics of"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Raghvendra-Shivhare/m-p/1082679
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Raghvendra-Shivhare/m-p/1082679
 type: download
 publishedDateTime: 2020-05-10T01:39:00Z
 heat: 51

@@ -1,7 +1,7 @@
 ---
 title: "Visualizing Asylum"
 excerpt: "This is an examination of the US refugee program from 2008 to 2017. It reveals that the infrastructure does not have the capacity to handle the"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Visualizing-Asylum/m-p/686027
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Visualizing-Asylum/m-p/686027
 type: download
 publishedDateTime: 2019-05-07T19:57:00Z
 heat: 50

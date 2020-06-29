@@ -1,7 +1,7 @@
 ---
 title: "FIFA World Cup 2018 Russia"
 excerpt: "Web Scrapping sur la coupe du Monde. Uniquement dans cette version le Groupe C."
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/FIFA-World-Cup-2018-Russia/m-p/479907
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/FIFA-World-Cup-2018-Russia/m-p/479907
 type: download
 publishedDateTime: 2018-08-03T05:34:00Z
 heat: 50

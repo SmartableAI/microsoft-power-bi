@@ -1,7 +1,7 @@
 ---
 title: "Chinese Zodiac"
 excerpt: "A tool to allow users to identify their Zodiac animal and get deeper analysis on the characteristics and up coming luck for the year ahead. Kung Hei"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Chinese-Zodiac/m-p/358800
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Chinese-Zodiac/m-p/358800
 type: download
 publishedDateTime: 2018-02-15T03:44:00Z
 heat: 50

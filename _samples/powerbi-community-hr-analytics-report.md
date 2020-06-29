@@ -1,7 +1,7 @@
 ---
 title: "HR Analytics Report"
 excerpt: "I have used a HR dataset from Kaggle and created the entire report. I have cleansed, transformed and modelled data. I havent spent lot of time in"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/HR-Analytics-Report/m-p/821924
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/HR-Analytics-Report/m-p/821924
 type: download
 publishedDateTime: 2019-10-18T05:45:00Z
 heat: 54

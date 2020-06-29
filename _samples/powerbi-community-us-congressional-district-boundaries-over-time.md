@@ -1,7 +1,7 @@
 ---
 title: "U.S. Congressional District Boundaries Over Time"
 excerpt: "Former Massachusetts Governor Elbridge Gerry redrew the state's 1812 congressional district boundaries so bizarrely that one resembled a salamander ."
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/U-S-Congressional-District-Boundaries-Over-Time/m-p/567021
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/U-S-Congressional-District-Boundaries-Over-Time/m-p/567021
 type: download
 publishedDateTime: 2018-11-15T10:30:00Z
 heat: 51

@@ -1,7 +1,7 @@
 ---
 title: "Covid-19"
 excerpt: "Daily covid-19 report that auto updates everyday approximately 6:30PM Arizona timezone. Datasource is Johns Hopkins github. I have provided the .pbix"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Covid-19/m-p/1008733
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Covid-19/m-p/1008733
 type: download
 publishedDateTime: 2020-04-05T10:37:00Z
 heat: 50

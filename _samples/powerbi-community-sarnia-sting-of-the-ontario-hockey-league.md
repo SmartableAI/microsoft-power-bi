@@ -1,7 +1,7 @@
 ---
 title: "Sarnia Sting of the Ontario Hockey League"
 excerpt: "Scrounging for data I found this on the web. I pasted into an Excel workbook. As a sole proprietor accountant I don't have access to much data."
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Sarnia-Sting-of-the-Ontario-Hockey-League/m-p/739389
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Sarnia-Sting-of-the-Ontario-Hockey-League/m-p/739389
 type: download
 publishedDateTime: 2019-07-14T12:25:00Z
 heat: 50

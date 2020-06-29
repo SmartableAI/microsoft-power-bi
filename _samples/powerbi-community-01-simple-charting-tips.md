@@ -1,7 +1,7 @@
 ---
 title: "01 Simple Charting Tips"
 excerpt: "English | Spanish (español) For fullscreen click here: https://bit.ly/2LUKOCO Para verlo en pantalla completa click aquí: https://bit.ly/2LUKOCO Tips"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/01-Simple-Charting-Tips/m-p/1118640
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/01-Simple-Charting-Tips/m-p/1118640
 type: download
 publishedDateTime: 2020-05-25T20:17:00Z
 heat: 53

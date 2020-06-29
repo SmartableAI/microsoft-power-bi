@@ -1,7 +1,7 @@
 ---
 title: "Build your first SCCM ConfigMgr Dashboard"
 excerpt: "As part of my &amp;quot; Power BI - 12 Days of Dashboards &amp;quot; series, Day #9 introduces a quick lesson in converting your existing SCCM query into a"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Build-your-first-SCCM-ConfigMgr-Dashboard/m-p/105331
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Build-your-first-SCCM-ConfigMgr-Dashboard/m-p/105331
 type: download
 publishedDateTime: 2016-12-21T22:33:00Z
 heat: 51

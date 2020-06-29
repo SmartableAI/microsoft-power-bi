@@ -1,7 +1,7 @@
 ---
 title: "Employment Growth in G7 Countries since 2010 Q1"
 excerpt: "eyJrIjoiY2JjZWE2MDUtOWRjMC00YjA1LWI0ZTYtNTFkZGJiNWNjZDg0IiwidCI6ImJkNGZjZDM3LWRmZmEtNDk0OC1iMjU4LWQ3ZjlhN2I1Y2IxYyIsImMiOjh9"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Employment-Growth-in-G7-Countries-since-2010-Q1/m-p/122940
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Employment-Growth-in-G7-Countries-since-2010-Q1/m-p/122940
 type: download
 publishedDateTime: 2017-02-05T09:23:00Z
 heat: 50

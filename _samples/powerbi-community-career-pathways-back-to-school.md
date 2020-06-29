@@ -1,7 +1,7 @@
 ---
 title: "Career Pathways (Back to School)"
 excerpt: "This dashboard is developed by 15 to 16 year old kids whose names are as below: Aarushi Suri (16 years) Prakhya Mathur (15 years) Samarth Sangwar (16"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Career-Pathways-Back-to-School/m-p/785700
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Career-Pathways-Back-to-School/m-p/785700
 type: download
 publishedDateTime: 2019-09-06T05:40:00Z
 heat: 50

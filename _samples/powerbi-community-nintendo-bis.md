@@ -1,7 +1,7 @@
 ---
 title: "Nintendo BIS"
 excerpt: "Business intelligence is for the storytellers."
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Nintendo-BIS/m-p/444632
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Nintendo-BIS/m-p/444632
 type: download
 publishedDateTime: 2018-06-20T18:53:00Z
 heat: 50

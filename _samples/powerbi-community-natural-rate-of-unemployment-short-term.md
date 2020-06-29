@@ -1,7 +1,7 @@
 ---
 title: "Natural Rate of Unemployment Short Term"
 excerpt: "The natural rate of unemployment is the rate of unemployment from all sources except changes in aggregate demand. There's a lot to figuring out the"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Natural-Rate-of-Unemployment-Short-Term/m-p/45537
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Natural-Rate-of-Unemployment-Short-Term/m-p/45537
 type: download
 publishedDateTime: 2016-06-24T12:55:00Z
 heat: 50

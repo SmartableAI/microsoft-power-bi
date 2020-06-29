@@ -1,7 +1,7 @@
 ---
 title: "Philadelphia School District Metrics"
 excerpt: "This Power BI app shows the profile of Philadelphia School District Employees salaries by organization level over 5 years. More importantly it"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Philadelphia-School-District-Metrics/m-p/100714
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Philadelphia-School-District-Metrics/m-p/100714
 type: download
 publishedDateTime: 2016-12-10T11:30:00Z
 heat: 50

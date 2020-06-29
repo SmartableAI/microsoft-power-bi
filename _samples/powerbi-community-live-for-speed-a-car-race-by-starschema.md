@@ -1,7 +1,7 @@
 ---
 title: "Live for speed - A car race by Starschema"
 excerpt: "Last week I was asked to visualize the results of our car racing simulator at Starschema, and having the first glimpse of the data, I saw there's not"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Live-for-speed-A-car-race-by-Starschema/m-p/599153
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Live-for-speed-A-car-race-by-Starschema/m-p/599153
 type: download
 publishedDateTime: 2019-01-11T06:30:00Z
 heat: 50

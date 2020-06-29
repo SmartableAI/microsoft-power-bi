@@ -1,7 +1,7 @@
 ---
 title: "Human Deveopment Index scores (PBUG London Data Vi..."
 excerpt: "Human Development Index scores being pulled via an API. For London PBUG hosted by"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Human-Deveopment-Index-scores-PBUG-London-Data-Visualisation/m-p/875397
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Human-Deveopment-Index-scores-PBUG-London-Data-Visualisation/m-p/875397
 type: download
 publishedDateTime: 2019-12-14T07:47:00Z
 heat: 50

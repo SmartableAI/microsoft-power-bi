@@ -1,7 +1,7 @@
 ---
 title: "Nigeria Parallel (black) Market FX Rates from Abok..."
 excerpt: "This Power BI report is essentially to demonstrate how to use Power BI to pull data from a website and transform/clean it via PowerQuery (Query"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Nigeria-Parallel-black-Market-FX-Rates-from-Abokifx-com/m-p/568355
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Nigeria-Parallel-black-Market-FX-Rates-from-Abokifx-com/m-p/568355
 type: download
 publishedDateTime: 2018-11-19T00:25:00Z
 heat: 52

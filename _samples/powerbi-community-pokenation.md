@@ -1,7 +1,7 @@
 ---
 title: "Pokénation"
 excerpt: "In this sentiment and emotional analysis of over 43,000 tweets about Pokémon Go, we are catching all the states' data using Power BI! Explore this"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Pok%C3%A9nation/m-p/53870
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Pok%C3%A9nation/m-p/53870
 type: download
 publishedDateTime: 2016-07-28T15:05:00Z
 heat: 51

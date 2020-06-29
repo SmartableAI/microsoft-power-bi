@@ -1,7 +1,7 @@
 ---
 title: "Provide Insights into the Flight Departure Delays ..."
 excerpt: "An analysis of US airline data for the month of December 2015. Used to analyse and provide insights into the departure flight delays of Virgin"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Provide-Insights-into-the-Flight-Departure-Delays-of-US-Airlines/m-p/167816
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Provide-Insights-into-the-Flight-Departure-Delays-of-US-Airlines/m-p/167816
 type: download
 publishedDateTime: 2017-05-02T03:51:00Z
 heat: 50

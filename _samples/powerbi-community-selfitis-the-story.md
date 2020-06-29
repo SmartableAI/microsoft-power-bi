@@ -1,7 +1,7 @@
 ---
 title: "Selfitis - The Story"
 excerpt: "Why were you interested in telling this story? For the Year in Review contest I wanted to find a subject/topic that was unique and interesting but"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Selfitis-The-Story/m-p/349421
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Selfitis-The-Story/m-p/349421
 type: download
 publishedDateTime: 2018-01-31T16:13:00Z
 heat: 50

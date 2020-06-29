@@ -1,7 +1,7 @@
 ---
 title: "Baseball Standings Year to Year"
 excerpt: "Visualizes the change in team standings between 2015 and 2016 for Major League Baseball's American League Central division. This visualization"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Baseball-Standings-Year-to-Year/m-p/170678
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Baseball-Standings-Year-to-Year/m-p/170678
 type: download
 publishedDateTime: 2017-05-05T16:07:00Z
 heat: 50

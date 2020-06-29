@@ -1,7 +1,7 @@
 ---
 title: "Fifa World Cup History"
 excerpt: "I'm just excited to tell the fifa world cup history. Check the statistics while you watch the Rusia 2018 cup. This is a report containing the"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Fifa-World-Cup-History/m-p/439983
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Fifa-World-Cup-History/m-p/439983
 type: download
 publishedDateTime: 2018-06-14T08:11:00Z
 heat: 50

@@ -1,7 +1,7 @@
 ---
 title: "Winter Olympic Games (1992 - 2014)"
 excerpt: "eyJrIjoiZTAyNTgwOTctNDFmOC00ZjBmLTlhMzItYzc2YzM1OGExMzcxIiwidCI6IjAxNGUxMWVkLTc5OTAtNGMzYS05NzY1LTUwODU0Mjg0YzViZSIsImMiOjh9"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Winter-Olympic-Games-1992-2014/m-p/394908
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Winter-Olympic-Games-1992-2014/m-p/394908
 type: download
 publishedDateTime: 2018-04-12T01:15:00Z
 heat: 50

@@ -1,7 +1,7 @@
 ---
 title: "Mobile theme by MAQ Software"
 excerpt: "Utilizing the design expertise in Power BI, MAQ Software engineering team has created a theme/layout in Power BI which looks best in mobile view."
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Mobile-theme-by-MAQ-Software/m-p/511914
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Mobile-theme-by-MAQ-Software/m-p/511914
 type: download
 publishedDateTime: 2018-09-10T06:25:00Z
 heat: 50

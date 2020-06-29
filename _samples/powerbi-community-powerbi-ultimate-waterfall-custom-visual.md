@@ -1,7 +1,7 @@
 ---
 title: "PowerBI Ultimate Waterfall Custom Visual"
 excerpt: "Calculation waterfalls (vertical axis) - The status bars represent base and result measures (e.g. sales and EBIT) whereas the contribution bars in"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/PowerBI-Ultimate-Waterfall-Custom-Visual/m-p/148895
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/PowerBI-Ultimate-Waterfall-Custom-Visual/m-p/148895
 type: download
 publishedDateTime: 2017-03-25T03:28:00Z
 heat: 50

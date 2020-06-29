@@ -1,7 +1,7 @@
 ---
 title: "Power BIzza"
 excerpt: "Created By: Alex Powers Contact: alexmpowers@itsnotaboutthecell.com LinkedIn: https://www.linkedin.com/in/alexmpowers/ Website:"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Power-BIzza/m-p/560554
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Power-BIzza/m-p/560554
 type: download
 publishedDateTime: 2018-11-05T21:54:00Z
 heat: 50

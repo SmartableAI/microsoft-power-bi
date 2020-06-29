@@ -1,7 +1,7 @@
 ---
 title: "COVID-19 US Case and Fatality Trends"
 excerpt: "This interactive report is built using data from the New York Times’ Github-hosted coronavirus dataset . The report’s data updates twice a day, at"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-US-Case-and-Fatality-Trends/m-p/1084820
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-US-Case-and-Fatality-Trends/m-p/1084820
 type: download
 publishedDateTime: 2020-05-11T13:59:00Z
 heat: 51

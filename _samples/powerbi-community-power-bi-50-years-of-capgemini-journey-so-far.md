@@ -1,7 +1,7 @@
 ---
 title: "Power BI : 50 Years of Capgemini - Journey so far"
 excerpt: "Here is my attempt to showcase Capgemini's journey over the years in 4 phases. #powerbi #datastory"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Power-BI-50-Years-of-Capgemini-Journey-so-far/m-p/348127
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Power-BI-50-Years-of-Capgemini-Journey-so-far/m-p/348127
 type: download
 publishedDateTime: 2018-01-30T04:59:00Z
 heat: 50

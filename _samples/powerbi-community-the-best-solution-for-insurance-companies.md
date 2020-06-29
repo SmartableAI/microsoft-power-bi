@@ -1,7 +1,7 @@
 ---
 title: "The best solution for insurance companies"
 excerpt: "Hi! This is a tool for underwriters and finance department. This helps very quickly to find out the minimum rate and the minimum insurance premium."
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/The-best-solution-for-insurance-companies/m-p/409839
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/The-best-solution-for-insurance-companies/m-p/409839
 type: download
 publishedDateTime: 2018-05-03T03:45:00Z
 heat: 52

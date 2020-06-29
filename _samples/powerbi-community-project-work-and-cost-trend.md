@@ -1,7 +1,7 @@
 ---
 title: "Project Work and Cost Trend"
 excerpt: "This report from ShareAdvance's Project Intelligence solution gives project and program managers insight into the historical data of a project. The"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Project-Work-and-Cost-Trend/m-p/64333
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Project-Work-and-Cost-Trend/m-p/64333
 type: download
 publishedDateTime: 2016-08-31T18:05:00Z
 heat: 53

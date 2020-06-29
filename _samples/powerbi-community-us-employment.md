@@ -1,7 +1,7 @@
 ---
 title: "US Employment"
 excerpt: "Simple Report using US Employment Data from data.gov. Milwaukee Brew City Power BI User Group!"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/US-Employment/m-p/616508
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/US-Employment/m-p/616508
 type: download
 publishedDateTime: 2019-02-04T18:05:00Z
 heat: 50

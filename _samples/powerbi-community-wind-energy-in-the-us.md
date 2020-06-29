@@ -1,7 +1,7 @@
 ---
 title: "Wind Energy in the US"
 excerpt: "Which state has made the biggest investment in wind generated electricity? Which state has the most expensive wind generated electricity? AWEA data"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Wind-Energy-in-the-US/m-p/627233
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Wind-Energy-in-the-US/m-p/627233
 type: download
 publishedDateTime: 2019-02-19T13:35:00Z
 heat: 51

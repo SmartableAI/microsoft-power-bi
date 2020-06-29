@@ -1,7 +1,7 @@
 ---
 title: "PowerBI Visual Library"
 excerpt: "Power BI には、 グラフィカルなレポートを作成するためのビジュアルが数多く用意されています。 棒グラフ、折れ線グラフ、円グラフ、 面グラフ"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/PowerBI-Visual-Library/m-p/998398
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/PowerBI-Visual-Library/m-p/998398
 type: download
 publishedDateTime: 2020-03-30T05:11:00Z
 heat: 55

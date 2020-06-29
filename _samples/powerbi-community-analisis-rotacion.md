@@ -1,7 +1,7 @@
 ---
 title: "Analisis Rotacion"
 excerpt: "Análisis de Rotación en una Consultoría"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Analisis-Rotacion/m-p/426235
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Analisis-Rotacion/m-p/426235
 type: download
 publishedDateTime: 2018-05-27T17:58:00Z
 heat: 50

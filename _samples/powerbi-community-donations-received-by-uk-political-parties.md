@@ -1,7 +1,7 @@
 ---
 title: "Donations received by UK political Parties"
 excerpt: "Anyone can give a donation or loan to a political party, individual or other organisation. There is no limit on how much someone can give if they are"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Donations-received-by-UK-political-Parties/m-p/816871
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Donations-received-by-UK-political-Parties/m-p/816871
 type: download
 publishedDateTime: 2019-10-13T23:06:00Z
 heat: 50

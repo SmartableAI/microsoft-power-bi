@@ -1,7 +1,7 @@
 ---
 title: "Retail Data Stories"
 excerpt: "Here is a new take on delivering insights related to the Retail Industry, the base data taken for this dashboard is Obvience’s retail data (I have"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Retail-Data-Stories/m-p/811497
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Retail-Data-Stories/m-p/811497
 type: download
 publishedDateTime: 2019-10-07T09:08:00Z
 heat: 53

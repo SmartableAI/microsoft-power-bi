@@ -1,7 +1,7 @@
 ---
 title: "Telco churn dashboard"
 excerpt: "All telco companies need to have focused retention programs to mitigate the risk of losing customers by profiling and predicting churners and taking"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Telco-churn-dashboard/m-p/621679
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Telco-churn-dashboard/m-p/621679
 type: download
 publishedDateTime: 2019-02-12T03:47:00Z
 heat: 56

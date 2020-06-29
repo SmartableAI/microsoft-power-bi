@@ -1,7 +1,7 @@
 ---
 title: "US Mortality Rates 1980-2014"
 excerpt: "This is a re-creation of an existing data viz on the International Health Metrics and Evaluation website. Allow me to briefly lay out the features of"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/US-Mortality-Rates-1980-2014/m-p/227130
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/US-Mortality-Rates-1980-2014/m-p/227130
 type: download
 publishedDateTime: 2017-08-07T21:03:00Z
 heat: 50

@@ -1,7 +1,7 @@
 ---
 title: "COVID-19 Case Information"
 excerpt: "Daily update of COVID - 19 case information at global, states (US) and local level (Houston Area). Overview page give a glance of current infected"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-Case-Information/m-p/1074210
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-Case-Information/m-p/1074210
 type: download
 publishedDateTime: 2020-05-05T17:57:00Z
 heat: 50

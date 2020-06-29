@@ -1,7 +1,7 @@
 ---
 title: "FDIs in 2019"
 excerpt: "This was made for college presentation purpose."
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/FDIs-in-2019/m-p/889550
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/FDIs-in-2019/m-p/889550
 type: download
 publishedDateTime: 2020-01-04T02:04:00Z
 heat: 50

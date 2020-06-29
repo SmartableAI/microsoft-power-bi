@@ -1,7 +1,7 @@
 ---
 title: "Saint Louis Beer BI"
 excerpt: "An overview of the Saint Louis craft beer scene. Open source data obtained courtesy of Beeradvocate ."
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Saint-Louis-Beer-BI/m-p/397557
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Saint-Louis-Beer-BI/m-p/397557
 type: download
 publishedDateTime: 2018-04-16T18:22:00Z
 heat: 50

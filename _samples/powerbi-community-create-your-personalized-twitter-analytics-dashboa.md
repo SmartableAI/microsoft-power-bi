@@ -1,7 +1,7 @@
 ---
 title: "Create your personalized Twitter Analytics Dashboa..."
 excerpt: "Create your own personalized Twitter Analytics Dashboard in Power BI When I do Tweet the most? What day and hour do my Tweets receive the most"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Create-your-personalized-Twitter-Analytics-Dashboard-in-Power-BI/m-p/56778
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Create-your-personalized-Twitter-Analytics-Dashboard-in-Power-BI/m-p/56778
 type: download
 publishedDateTime: 2016-08-08T22:45:00Z
 heat: 54

@@ -1,7 +1,7 @@
 ---
 title: "MLB Baseball Batting Statistics"
 excerpt: "An overview of the pages: Cover Page: This page uses wallpaper as well as buttons and is the home page of report. The other pages are all hidden, so"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/MLB-Baseball-Batting-Statistics/m-p/566230
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/MLB-Baseball-Batting-Statistics/m-p/566230
 type: download
 publishedDateTime: 2018-11-14T11:53:00Z
 heat: 52

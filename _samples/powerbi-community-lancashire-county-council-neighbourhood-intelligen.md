@@ -1,7 +1,7 @@
 ---
 title: "Lancashire County Council Neighbourhood Intelligen..."
 excerpt: "Local government is always looking for ways to target its resources more effectively. Lancashire County Council's business intelligence team recently"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Lancashire-County-Council-Neighbourhood-Intelligence/m-p/232538
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Lancashire-County-Council-Neighbourhood-Intelligence/m-p/232538
 type: download
 publishedDateTime: 2017-08-16T08:14:00Z
 heat: 52

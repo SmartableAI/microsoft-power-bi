@@ -1,7 +1,7 @@
 ---
 title: "AUTOMATED FINANCIAL STATEMENTS ANALYSIS"
 excerpt: "Dear All, Dear All, This is very good for financial analysis of the different business units, here we can see the current month financial vs. same"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/AUTOMATED-FINANCIAL-STATEMENTS-ANALYSIS/m-p/157046
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/AUTOMATED-FINANCIAL-STATEMENTS-ANALYSIS/m-p/157046
 type: download
 publishedDateTime: 2017-04-11T00:51:00Z
 heat: 55

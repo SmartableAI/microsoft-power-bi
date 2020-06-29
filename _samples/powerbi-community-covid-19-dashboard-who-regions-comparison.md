@@ -1,7 +1,7 @@
 ---
 title: "COVID-19 Dashboard - WHO regions comparison"
 excerpt: "This dashboard presents a comparison of the 6 major regions of the world, according to the World Health Organization (WHO) breakdown. The data"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-Dashboard-WHO-regions-comparison/m-p/1030887
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-Dashboard-WHO-regions-comparison/m-p/1030887
 type: download
 publishedDateTime: 2020-04-16T12:26:00Z
 heat: 50

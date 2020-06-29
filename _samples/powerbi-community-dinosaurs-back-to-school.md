@@ -1,7 +1,7 @@
 ---
 title: "Dinosaurs! (Back to School)"
 excerpt: "I've had a lifelong fascination with dinosaurs so not quite sure why it took me so long to combine my passion for Power BI and my passion for all"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Dinosaurs-Back-to-School/m-p/769205
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Dinosaurs-Back-to-School/m-p/769205
 type: download
 publishedDateTime: 2019-08-18T04:57:00Z
 heat: 54

@@ -1,7 +1,7 @@
 ---
 title: "Video Game Sales"
 excerpt: "Explore the interactive navigations, report page tooltips, slicer pop up, and other interactive features. This is part of a a Data Storytelling with"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Video-Game-Sales/m-p/602233
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Video-Game-Sales/m-p/602233
 type: download
 publishedDateTime: 2019-01-16T09:27:00Z
 heat: 55

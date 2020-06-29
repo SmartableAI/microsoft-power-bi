@@ -1,7 +1,7 @@
 ---
 title: "Ironman World Championship(Makeover Monday Week-42..."
 excerpt: "The Ironman World Championship has been held annually in Hawaii since 1978. It is owned and organized by the World Triathlon Corporation. It is the"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Ironman-World-Championship-Makeover-Monday-Week-42/m-p/817973
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Ironman-World-Championship-Makeover-Monday-Week-42/m-p/817973
 type: download
 publishedDateTime: 2019-10-14T23:09:00Z
 heat: 50

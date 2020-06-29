@@ -1,7 +1,7 @@
 ---
 title: "Worst Power BI Report......Ever"
 excerpt: "Analysis of monthly comic book sales by publisher &amp; title."
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Worst-Power-BI-Report-Ever/m-p/70159
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Worst-Power-BI-Report-Ever/m-p/70159
 type: download
 publishedDateTime: 2016-09-20T14:11:00Z
 heat: 51

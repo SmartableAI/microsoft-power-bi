@@ -1,7 +1,7 @@
 ---
 title: "FIFA World Cup 2018 - Explore, Analyze &amp; Watch in ..."
 excerpt: "An attempt to use the features of Power BI to explore, analyze and watch the FIFA World Cup 2018. Experience the game and its analysis the way it"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/FIFA-World-Cup-2018-Explore-Analyze-amp-Watch-in-Power-BI/m-p/460843
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/FIFA-World-Cup-2018-Explore-Analyze-amp-Watch-in-Power-BI/m-p/460843
 type: download
 publishedDateTime: 2018-07-12T03:35:00Z
 heat: 51

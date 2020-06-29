@@ -1,7 +1,7 @@
 ---
 title: "Alarm Analysis Dashboard design insights"
 excerpt: "Description A&amp;E overview dashboard provides a quick snapshot of all relevant data with a process-control-engineer-centric view. It offers detailed"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Alarm-Analysis-Dashboard-design-insights/m-p/1091669
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Alarm-Analysis-Dashboard-design-insights/m-p/1091669
 type: download
 publishedDateTime: 2020-05-15T06:53:00Z
 heat: 52

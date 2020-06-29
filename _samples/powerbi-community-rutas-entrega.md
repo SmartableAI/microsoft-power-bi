@@ -1,7 +1,7 @@
 ---
 title: "Rutas Entrega"
 excerpt: "Reporte de Rutas de Entrega"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Rutas-Entrega/m-p/431702
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Rutas-Entrega/m-p/431702
 type: download
 publishedDateTime: 2018-06-04T11:09:00Z
 heat: 50

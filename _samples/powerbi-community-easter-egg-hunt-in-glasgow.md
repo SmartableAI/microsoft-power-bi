@@ -1,7 +1,7 @@
 ---
 title: "Easter Egg Hunt in Glasgow"
 excerpt: "Easter Egg Hunt around some of Glasgow's top sites. Click the eggs to collect them. (Design: Kathryn McCrindle@ Eyecademy)"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Easter-Egg-Hunt-in-Glasgow/m-p/384598
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Easter-Egg-Hunt-in-Glasgow/m-p/384598
 type: download
 publishedDateTime: 2018-03-27T03:53:00Z
 heat: 50

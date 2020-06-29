@@ -1,7 +1,7 @@
 ---
 title: "My Dashboard Padel Timpik"
 excerpt: "This is my Personal Dashboard of Padel with Timpik platform. My first objetive is winner at 50% of matchs, and with players with a level more high."
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/My-Dashboard-Padel-Timpik/m-p/55629
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/My-Dashboard-Padel-Timpik/m-p/55629
 type: download
 publishedDateTime: 2016-08-04T03:02:00Z
 heat: 50

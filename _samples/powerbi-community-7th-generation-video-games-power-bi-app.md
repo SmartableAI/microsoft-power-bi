@@ -1,7 +1,7 @@
 ---
 title: "7th Generation Video Games Power BI App"
 excerpt: "This Power BI App compares the three big 7th generation Video Game Consoles Microsoft XBOX 360 Sony Playstation 3 Nintendo WII In this Power BI App,"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/7th-Generation-Video-Games-Power-BI-App/m-p/73543
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/7th-Generation-Video-Games-Power-BI-App/m-p/73543
 type: download
 publishedDateTime: 2016-09-30T00:14:00Z
 heat: 52

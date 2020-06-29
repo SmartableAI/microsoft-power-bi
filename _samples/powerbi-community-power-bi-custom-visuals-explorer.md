@@ -1,7 +1,7 @@
 ---
 title: "Power BI Custom Visuals Explorer"
 excerpt: "Use this report that refreshes in the service daily to find the right custom visual for you and download them from the store. I have found navigating"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Power-BI-Custom-Visuals-Explorer/m-p/187266
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Power-BI-Custom-Visuals-Explorer/m-p/187266
 type: download
 publishedDateTime: 2017-06-02T12:02:00Z
 heat: 58

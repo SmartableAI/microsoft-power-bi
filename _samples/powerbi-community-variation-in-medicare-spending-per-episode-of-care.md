@@ -1,7 +1,7 @@
 ---
 title: "Variation in Medicare Spending per Episode of Care"
 excerpt: "For this report I analyzed Hospital Compare public datasets to identify Medicare's costliest states and hospitals. The range between highest and"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Variation-in-Medicare-Spending-per-Episode-of-Care/m-p/660582
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Variation-in-Medicare-Spending-per-Episode-of-Care/m-p/660582
 type: download
 publishedDateTime: 2019-04-02T22:23:00Z
 heat: 50

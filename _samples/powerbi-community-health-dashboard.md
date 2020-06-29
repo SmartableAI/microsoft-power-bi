@@ -1,7 +1,7 @@
 ---
 title: "Health Dashboard"
 excerpt: "eyJrIjoiYTk3MTdiMWMtZjExMS00YjQ5LTgxOWMtYjdmNjM3NzYzNzhkIiwidCI6IjA4MTQ3M2M2LTUwNGEtNDM3Zi04MzhjLWFiOWE2ZjY3MWVmYyIsImMiOjR9"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Health-Dashboard/m-p/658240
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Health-Dashboard/m-p/658240
 type: download
 publishedDateTime: 2019-03-31T05:08:00Z
 heat: 50

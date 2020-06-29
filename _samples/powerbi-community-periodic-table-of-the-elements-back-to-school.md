@@ -1,7 +1,7 @@
 ---
 title: "Periodic Table of the Elements (Back to School)"
 excerpt: "See trends in the periodic table based on the elements' positions. Compare two different properties together in a scatter plot as well. Periodic"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Periodic-Table-of-the-Elements-Back-to-School/m-p/780804
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Periodic-Table-of-the-Elements-Back-to-School/m-p/780804
 type: download
 publishedDateTime: 2019-09-01T07:12:00Z
 heat: 55

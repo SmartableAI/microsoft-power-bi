@@ -1,7 +1,7 @@
 ---
 title: "EU Gender Equality"
 excerpt: "The Consult Blue– Gender Equality Dashboard has been developed as a country based benchmark for assessing gender equality in the European Union. The"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/EU-Gender-Equality/m-p/73667
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/EU-Gender-Equality/m-p/73667
 type: download
 publishedDateTime: 2016-09-30T04:50:00Z
 heat: 50

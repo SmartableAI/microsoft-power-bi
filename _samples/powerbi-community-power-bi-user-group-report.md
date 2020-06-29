@@ -1,7 +1,7 @@
 ---
 title: "Power BI User Group Report"
 excerpt: "As promised here is the sample Kelly created with my during the Focus conference. The report used for the PUG home page:"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Power-BI-User-Group-Report/m-p/172676
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Power-BI-User-Group-Report/m-p/172676
 type: download
 publishedDateTime: 2017-05-09T19:38:00Z
 heat: 50

@@ -1,7 +1,7 @@
 ---
 title: "SCHOOL BEACONS IN AUSTIN TEXAS"
 excerpt: "This data come from austin.gov eyJrIjoiZDQ5OTc0ZTItMTk3ZS00OTRiLTgzZjYtNGQ4NmRjOGRjOTFhIiwidCI6ImUxNzc4MGM2LTczMDgtNDc3YS1iNzY3LWZhNTY5ODI0NWUyYSJ9"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/SCHOOL-BEACONS-IN-AUSTIN-TEXAS/m-p/804196
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/SCHOOL-BEACONS-IN-AUSTIN-TEXAS/m-p/804196
 type: download
 publishedDateTime: 2019-09-27T04:11:00Z
 heat: 50

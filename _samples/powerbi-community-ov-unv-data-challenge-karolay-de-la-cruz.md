@@ -1,7 +1,7 @@
 ---
 title: "OV UNV Data Challenge - Karolay De La Cruz"
 excerpt: "As a data challenge for Online Volunteers , Karolay de la Cruz created a report to represent the geographical mobilization and demographics of United"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Karolay-De-La-Cruz/m-p/1055662
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Karolay-De-La-Cruz/m-p/1055662
 type: download
 publishedDateTime: 2020-04-29T00:56:00Z
 heat: 51

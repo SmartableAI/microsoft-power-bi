@@ -1,7 +1,7 @@
 ---
 title: "Fantasy Football League"
 excerpt: "Hi, First go at this, some colleagues and I are in a couple of Fantasy Premier League Football leagues, I put together this report to keep track of"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Fantasy-Football-League/m-p/80386
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Fantasy-Football-League/m-p/80386
 type: download
 publishedDateTime: 2016-10-20T03:25:00Z
 heat: 51

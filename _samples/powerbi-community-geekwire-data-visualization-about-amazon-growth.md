@@ -1,7 +1,7 @@
 ---
 title: "GeekWire Data Visualization About Amazon Growth"
 excerpt: "The most recent media outlet to leverage Microsoft Power BI and enhance a data story is GeekWire. Reporter Clare McGrane conducted a deeper dive on"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/GeekWire-Data-Visualization-About-Amazon-Growth/m-p/125217
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/GeekWire-Data-Visualization-About-Amazon-Growth/m-p/125217
 type: download
 publishedDateTime: 2017-02-09T13:22:00Z
 heat: 50

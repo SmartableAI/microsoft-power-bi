@@ -1,7 +1,7 @@
 ---
 title: "World Data Visualization Prize Submission"
 excerpt: "I created this Power BI Report as part of the World Data Visualization Prize . The goal was to create an app-like interactive user experience that"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/World-Data-Visualization-Prize-Submission/m-p/615034
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/World-Data-Visualization-Prize-Submission/m-p/615034
 type: download
 publishedDateTime: 2019-02-01T09:57:00Z
 heat: 51

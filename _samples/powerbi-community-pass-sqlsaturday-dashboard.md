@@ -1,7 +1,7 @@
 ---
 title: "Pass SQLSaturday Dashboard"
 excerpt: "Here is a dashboard of the SQL Saturday sessions from around the world. If your not aware of SQL Saturday check out their upcoming sessions"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Pass-SQLSaturday-Dashboard/m-p/489529
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Pass-SQLSaturday-Dashboard/m-p/489529
 type: download
 publishedDateTime: 2018-08-14T10:13:00Z
 heat: 51

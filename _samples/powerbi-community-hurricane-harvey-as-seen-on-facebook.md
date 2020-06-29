@@ -1,7 +1,7 @@
 ---
 title: "Hurricane Harvey As Seen on Facebook"
 excerpt: "When Harvey started, many people and organizations used Facebook to call for support for the victimes. This report automates the Facebook page search"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Hurricane-Harvey-As-Seen-on-Facebook/m-p/246029
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Hurricane-Harvey-As-Seen-on-Facebook/m-p/246029
 type: download
 publishedDateTime: 2017-09-05T11:11:00Z
 heat: 50

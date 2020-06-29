@@ -1,7 +1,7 @@
 ---
 title: "Tracking medal count at the Rio 2016 Olympics"
 excerpt: "In order to keep track of the performance of the most elite athletes in the world at the Rio 2016 Summer Olympics, I created a Power BI report using"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Tracking-medal-count-at-the-Rio-2016-Olympics/m-p/57015
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Tracking-medal-count-at-the-Rio-2016-Olympics/m-p/57015
 type: download
 publishedDateTime: 2016-08-09T09:52:00Z
 heat: 50

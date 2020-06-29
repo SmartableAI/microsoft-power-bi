@@ -1,7 +1,7 @@
 ---
 title: "Power BI Pro / Premiums License Decision Table"
 excerpt: "This report uses the Power BI Licensing options to demonstrate how user entries can be applied to calculate different scenarios. I did not have the"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Power-BI-Pro-Premiums-License-Decision-Table/m-p/286102
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Power-BI-Pro-Premiums-License-Decision-Table/m-p/286102
 type: download
 publishedDateTime: 2017-10-21T19:03:00Z
 heat: 51

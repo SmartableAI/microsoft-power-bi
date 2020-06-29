@@ -1,7 +1,7 @@
 ---
 title: "Demonstration Dashboard"
 excerpt: "Demonstration Dashboard eyJrIjoiYmMzMDcyM2YtMmFjNC00ZWVmLWE0NGEtOTdhNTI3ZGJiMmVmIiwidCI6IjVkOGM2MGQxLTk4YzQtNDg5Yy1iM2RhLTRkMDczYmMwYzRhMyIsImMiOjl9"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Demonstration-Dashboard/m-p/233172
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Demonstration-Dashboard/m-p/233172
 type: download
 publishedDateTime: 2017-08-17T03:07:00Z
 heat: 50

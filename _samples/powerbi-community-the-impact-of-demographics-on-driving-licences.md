@@ -1,7 +1,7 @@
 ---
 title: "The Impact of Demographics on Driving Licences"
 excerpt: "Sumission to the Power BI London User Group 2019 Example using Python visuals demostrating the impact of demographics in relation to driving"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/The-Impact-of-Demographics-on-Driving-Licences/m-p/792359
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/The-Impact-of-Demographics-on-Driving-Licences/m-p/792359
 type: download
 publishedDateTime: 2019-09-14T03:26:00Z
 heat: 50

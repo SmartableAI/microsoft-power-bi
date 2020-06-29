@@ -1,7 +1,7 @@
 ---
 title: "Interactive CV based on LinkedIn"
 excerpt: "A quick two page report using LinkedIn data for creating an interactive CV including current/previous positions, skill ratings, recommendations and"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Interactive-CV-based-on-LinkedIn/m-p/436914
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Interactive-CV-based-on-LinkedIn/m-p/436914
 type: download
 publishedDateTime: 2018-06-11T04:12:00Z
 heat: 52

@@ -1,7 +1,7 @@
 ---
 title: "Smartphone Ownership Among US Youth on the Rise 20..."
 excerpt: "#MakeoverMonday Week 47 @MSPowerBI"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Smartphone-Ownership-Among-US-Youth-on-the-Rise-2015-vs-2019/m-p/849678
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Smartphone-Ownership-Among-US-Youth-on-the-Rise-2015-vs-2019/m-p/849678
 type: download
 publishedDateTime: 2019-11-18T18:58:00Z
 heat: 50

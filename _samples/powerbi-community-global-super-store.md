@@ -1,7 +1,7 @@
 ---
 title: "Global Super Store"
 excerpt: "The Global Superstore Dashboard provides a 360-degree view of overall store sales performance. Strategic users can use it to quickly check KPIs with"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Global-Super-Store/m-p/627564
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Global-Super-Store/m-p/627564
 type: download
 publishedDateTime: 2019-02-19T23:05:00Z
 heat: 155

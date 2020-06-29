@@ -1,7 +1,7 @@
 ---
 title: "Two Presidencies, Two Presidents, Two Persons in 2..."
 excerpt: "On Friday, January 20, 2017 Donald Trump was inaugurated as the 45th President of the United States. Social media have become a key communication"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Two-Presidencies-Two-Presidents-Two-Persons-in-2017-As-Seen-on/m-p/346261
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Two-Presidencies-Two-Presidents-Two-Persons-in-2017-As-Seen-on/m-p/346261
 type: download
 publishedDateTime: 2018-01-26T12:47:00Z
 heat: 50

@@ -1,7 +1,7 @@
 ---
 title: "Cancer Analytics"
 excerpt: "The Cancer Analytics Dashboard provides both a quick summary and a detailed report about Cancer patients in the USA. It helps you understand the"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Cancer-Analytics/m-p/631080
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Cancer-Analytics/m-p/631080
 type: download
 publishedDateTime: 2019-02-25T06:28:00Z
 heat: 103

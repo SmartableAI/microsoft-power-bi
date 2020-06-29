@@ -1,7 +1,7 @@
 ---
 title: "Utrecht PUG Keynote"
 excerpt: "The &amp;quot;slides&amp;quot; from the Utrecht PUG Keynote"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Utrecht-PUG-Keynote/m-p/658074
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Utrecht-PUG-Keynote/m-p/658074
 type: download
 publishedDateTime: 2019-03-29T23:36:00Z
 heat: 50

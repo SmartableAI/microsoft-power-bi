@@ -1,7 +1,7 @@
 ---
 title: "GAFAM Market Cap Comparison - 1980-2019 &gt;The race ..."
 excerpt: "Market Capitalization is the measure that is mostly used by analysts to assess hegemony of a company over a sector, an industry, and even over the"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/GAFAM-Market-Cap-Comparison-1980-2019-gt-The-race-to-1-Trillion/m-p/599499
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/GAFAM-Market-Cap-Comparison-1980-2019-gt-The-race-to-1-Trillion/m-p/599499
 type: download
 publishedDateTime: 2019-01-12T03:29:00Z
 heat: 51

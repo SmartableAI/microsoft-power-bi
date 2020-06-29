@@ -1,7 +1,7 @@
 ---
 title: "Estimate Electricity Energy Usage and Cost (Back t..."
 excerpt: "This report helps you to estimate the Electrical Energy that you use with your home appliances and the total electricity cost by providing list of"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Estimate-Electricity-Energy-Usage-and-Cost-Back-to-School/m-p/785961
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Estimate-Electricity-Energy-Usage-and-Cost-Back-to-School/m-p/785961
 type: download
 publishedDateTime: 2019-09-06T10:41:00Z
 heat: 101

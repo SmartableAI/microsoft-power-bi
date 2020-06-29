@@ -1,7 +1,7 @@
 ---
 title: "Corona Breakdown"
 excerpt: "Corona Virus Tracker is developed for tracking numbers of the virus spreading around the world. Please have a look &amp; spread awareness."
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Corona-Breakdown/m-p/981346
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Corona-Breakdown/m-p/981346
 type: download
 publishedDateTime: 2020-03-19T00:08:00Z
 heat: 50

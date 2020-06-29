@@ -1,7 +1,7 @@
 ---
 title: "How recessions impact unemployment rate"
 excerpt: "In the above example, I’m using the Pulse Chart to show the impact of recessions on unemployment rate in the United States of America. It seems"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/How-recessions-impact-unemployment-rate/m-p/45557
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/How-recessions-impact-unemployment-rate/m-p/45557
 type: download
 publishedDateTime: 2016-06-24T14:04:00Z
 heat: 51

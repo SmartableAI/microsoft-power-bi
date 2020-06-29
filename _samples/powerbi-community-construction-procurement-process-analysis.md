@@ -1,7 +1,7 @@
 ---
 title: "Construction Procurement Process Analysis"
 excerpt: "This report shows analysis for work packages (associated with equipment required for construction) across a lengthy procurement process - consisting"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Construction-Procurement-Process-Analysis/m-p/792469
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Construction-Procurement-Process-Analysis/m-p/792469
 type: download
 publishedDateTime: 2019-09-14T15:12:00Z
 heat: 52

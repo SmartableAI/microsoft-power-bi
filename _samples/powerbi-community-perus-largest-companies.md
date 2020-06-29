@@ -1,7 +1,7 @@
 ---
 title: "PERU'S LARGEST COMPANIES"
 excerpt: "Hi again! This time i've created a single report about de top 500 largest companies of Peru. This is a descriptive report to pretend give a complete"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/PERU-S-LARGEST-COMPANIES/m-p/816215
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/PERU-S-LARGEST-COMPANIES/m-p/816215
 type: download
 publishedDateTime: 2019-10-11T15:24:00Z
 heat: 50

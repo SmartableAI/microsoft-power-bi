@@ -1,7 +1,7 @@
 ---
 title: "OV UNV Data Challenge - Sanjana Are"
 excerpt: "A highly interactive dashboard visualizing the demographics and geographic mobilization of UNV volunteers from 2008-2019."
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Sanjana-Are/m-p/1128166
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Sanjana-Are/m-p/1128166
 type: download
 publishedDateTime: 2020-05-28T20:35:00Z
 heat: 61

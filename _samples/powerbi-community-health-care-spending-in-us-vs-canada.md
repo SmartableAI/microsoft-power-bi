@@ -1,7 +1,7 @@
 ---
 title: "Health Care Spending in US vs. Canada"
 excerpt: "Ontario Health Plan partners with Buffalo hospitals to provide treatment not available in Canada."
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Health-Care-Spending-in-US-vs-Canada/m-p/777275
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Health-Care-Spending-in-US-vs-Canada/m-p/777275
 type: download
 publishedDateTime: 2019-08-27T16:57:00Z
 heat: 50

@@ -1,7 +1,7 @@
 ---
 title: "Covid 19 worldwide report"
 excerpt: "One month ago I started this dashboard as Covid19 was arriving to Spain. In the beggining it was a couple of sheets, but now it has grown a lot."
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Covid-19-worldwide-report/m-p/1019036
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Covid-19-worldwide-report/m-p/1019036
 type: download
 publishedDateTime: 2020-04-10T00:03:00Z
 heat: 50

@@ -1,7 +1,7 @@
 ---
 title: "Feminicídio no Brasil"
 excerpt: "Baseado nas pesquisas: https://artigo19.org/wp-content/blogs.dir/24/files/2018/03/Dados-Sobre-Feminic%C3%ADdio-no-Brasil-.p ..."
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Feminic%C3%ADdio-no-Brasil/m-p/683885
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Feminic%C3%ADdio-no-Brasil/m-p/683885
 type: download
 publishedDateTime: 2019-05-04T18:12:00Z
 heat: 133

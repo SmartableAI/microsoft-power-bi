@@ -1,7 +1,7 @@
 ---
 title: "Campaign/Brand Management for MailChimp"
 excerpt: "Solved: This Power BI demonstration is provided as an example of how a we can use mailchimp connector to show campaign analysis in different way. And"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Campaign-Brand-Management-for-MailChimp/m-p/235868
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Campaign-Brand-Management-for-MailChimp/m-p/235868
 type: download
 publishedDateTime: 2017-08-22T00:55:00Z
 heat: 54

@@ -1,7 +1,7 @@
 ---
 title: "Power BI Dashboard design for employee management"
 excerpt: "Data visualization is an important part of analytics and making these dashboards stand out is an important part of the process. Integrating"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Power-BI-Dashboard-design-for-employee-management/m-p/1117324
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Power-BI-Dashboard-design-for-employee-management/m-p/1117324
 type: download
 publishedDateTime: 2020-05-25T01:11:00Z
 heat: 54

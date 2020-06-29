@@ -1,7 +1,7 @@
 ---
 title: "Summer Olympics: Legends"
 excerpt: "Hi Power BI community, I've created a report that features three key Olympians: Simone Biles, Usain Bolt, and Michael Phelps. They have been on the"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Summer-Olympics-Legends/m-p/61971
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Summer-Olympics-Legends/m-p/61971
 type: download
 publishedDateTime: 2016-08-24T14:51:00Z
 heat: 51

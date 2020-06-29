@@ -1,7 +1,7 @@
 ---
 title: "Inventario por Sucursal"
 excerpt: "Inventario por Sucursal. Drill Throught, Bookmarks"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Inventario-por-Sucursal/m-p/436293
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Inventario-por-Sucursal/m-p/436293
 type: download
 publishedDateTime: 2018-06-09T18:39:00Z
 heat: 50

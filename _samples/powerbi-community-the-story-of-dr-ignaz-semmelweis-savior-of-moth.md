@@ -1,7 +1,7 @@
 ---
 title: "The Story of Dr Ignaz Semmelweis - “Savior of Moth..."
 excerpt: "This sample PowerBI workbook tells the real story of Dr Ignaz Semmelweis. Year is 1846 , Dr Semmelweis begins his 3 year work at Vienna Hospital"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/The-Story-of-Dr-Ignaz-Semmelweis-Savior-of-Mothers/m-p/62206
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/The-Story-of-Dr-Ignaz-Semmelweis-Savior-of-Mothers/m-p/62206
 type: download
 publishedDateTime: 2016-08-25T04:54:00Z
 heat: 50

@@ -1,7 +1,7 @@
 ---
 title: "New York City Traffic Accident Dashboard"
 excerpt: "I have created a “NYC Traffic Accident Report Year 2018” dashboard, which is integrated to Google Cloud (underlay data) and Power BI from NYC"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/New-York-City-Traffic-Accident-Dashboard/m-p/1101892
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/New-York-City-Traffic-Accident-Dashboard/m-p/1101892
 type: download
 publishedDateTime: 2020-05-21T15:51:00Z
 heat: 52

@@ -1,7 +1,7 @@
 ---
 title: "Business Analytics Forum #BAF Sheffield July 2017"
 excerpt: "Here is an analysis of user surveys who attended our Business Analytics Forum in Sheffield in July 2019 The survey data is passed through a sentiment"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Business-Analytics-Forum-BAF-Sheffield-July-2017/m-p/741003
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Business-Analytics-Forum-BAF-Sheffield-July-2017/m-p/741003
 type: download
 publishedDateTime: 2019-07-16T03:36:00Z
 heat: 51

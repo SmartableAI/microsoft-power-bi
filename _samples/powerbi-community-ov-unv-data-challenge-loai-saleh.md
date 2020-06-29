@@ -1,7 +1,7 @@
 ---
 title: "OV UNV Data Challenge - Loai Saleh"
 excerpt: "As a data challenge for Online Volunteers , Loai Saleh created a report to represent the geographical mobilization and demographics of United Nations"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Loai-Saleh/m-p/1096825
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Loai-Saleh/m-p/1096825
 type: download
 publishedDateTime: 2020-05-19T11:55:00Z
 heat: 53

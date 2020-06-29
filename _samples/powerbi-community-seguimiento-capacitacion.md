@@ -1,7 +1,7 @@
 ---
 title: "Seguimiento Capacitación"
 excerpt: "Seguimiento de Capacitación usando Tooltips."
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Seguimiento-Capacitaci%C3%B3n/m-p/546169
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Seguimiento-Capacitaci%C3%B3n/m-p/546169
 type: download
 publishedDateTime: 2018-10-18T11:53:00Z
 heat: 50

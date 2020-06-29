@@ -1,7 +1,7 @@
 ---
 title: "Analyzing Wimbledon Players"
 excerpt: "﻿ An analysis of the players that participated in the Wimbledon tournament, along with scores of all completed matches, and a preview of the players"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Analyzing-Wimbledon-Players/m-p/51132
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Analyzing-Wimbledon-Players/m-p/51132
 type: download
 publishedDateTime: 2016-07-19T01:19:00Z
 heat: 50

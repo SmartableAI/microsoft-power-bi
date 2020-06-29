@@ -1,7 +1,7 @@
 ---
 title: "Robot Wars - Social Media Analysis"
 excerpt: "This Social Media Analysis Report captures data from the official Robot Wars Facebook page . As a long-standing fan of the UK TV show “Robot Wars”, I"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Robot-Wars-Social-Media-Analysis/m-p/67036
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Robot-Wars-Social-Media-Analysis/m-p/67036
 type: download
 publishedDateTime: 2016-09-09T04:59:00Z
 heat: 50

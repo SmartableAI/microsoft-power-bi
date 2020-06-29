@@ -1,7 +1,7 @@
 ---
 title: "Covid 19 in New Zealand"
 excerpt: "This dashboard presents New Zealand Covid-19 informaiton published by the Ministry of Health using 100% native visuals. This is a work in progress -"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Covid-19-in-New-Zealand/m-p/1083078
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Covid-19-in-New-Zealand/m-p/1083078
 type: download
 publishedDateTime: 2020-05-10T17:59:00Z
 heat: 51

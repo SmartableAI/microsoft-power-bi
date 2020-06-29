@@ -1,7 +1,7 @@
 ---
 title: "Global Retail Store-Sales Dashboard"
 excerpt: "Solved: This Report Contains Global Retail Store -Sales Analysis details"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Global-Retail-Store-Sales-Dashboard/m-p/317488
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Global-Retail-Store-Sales-Dashboard/m-p/317488
 type: download
 publishedDateTime: 2017-12-05T05:05:00Z
 heat: 53

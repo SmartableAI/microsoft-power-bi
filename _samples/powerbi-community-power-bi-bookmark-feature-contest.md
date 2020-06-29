@@ -1,7 +1,7 @@
 ---
 title: "Power BI \"Bookmark Feature\" Contest"
 excerpt: "eyJrIjoiZTY0MTYxZGMtZDRlZC00ZjRjLTgwNTUtODEzMjBlZmY5YTM2IiwidCI6IjhhZDJkNjdmLWY4NjQtNDkzZi1iN2I5LWI2ODEzODU0N2JlMSJ9"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Power-BI-quot-Bookmark-Feature-quot-Contest/m-p/329329
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Power-BI-quot-Bookmark-Feature-quot-Contest/m-p/329329
 type: download
 publishedDateTime: 2017-12-26T22:10:00Z
 heat: 50

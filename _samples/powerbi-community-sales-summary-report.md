@@ -1,7 +1,7 @@
 ---
 title: "Sales Summary Report"
 excerpt: "Inspired by different ideas from the community, prepared using the global super sales sample dataset. Will welcome any ideas, feedback. Please feel"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Sales-Summary-Report/m-p/784905
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Sales-Summary-Report/m-p/784905
 type: download
 publishedDateTime: 2019-09-05T09:42:00Z
 heat: 51

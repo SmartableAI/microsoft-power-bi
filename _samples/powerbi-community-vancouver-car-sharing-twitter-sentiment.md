@@ -1,7 +1,7 @@
 ---
 title: "Vancouver Car Sharing Twitter Sentiment"
 excerpt: "This report was created by Zach Renwick . It uses Microsoft Flow, a Twitter connector, Azure Cognitive Services, and a streaming PBI dataset to"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Vancouver-Car-Sharing-Twitter-Sentiment/m-p/691075
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Vancouver-Car-Sharing-Twitter-Sentiment/m-p/691075
 type: download
 publishedDateTime: 2019-05-14T13:15:00Z
 heat: 50

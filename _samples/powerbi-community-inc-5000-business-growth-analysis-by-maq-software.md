@@ -1,7 +1,7 @@
 ---
 title: "Inc. 5000 Business Growth Analysis by MAQ Software"
 excerpt: "Business Case: Every year, Inc. magazine publishes a list of the 5,000 fastest growing private companies in America. The list, called the Inc. 5000,"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Inc-5000-Business-Growth-Analysis-by-MAQ-Software/m-p/473764
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Inc-5000-Business-Growth-Analysis-by-MAQ-Software/m-p/473764
 type: download
 publishedDateTime: 2018-07-27T04:28:00Z
 heat: 50

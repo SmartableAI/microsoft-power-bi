@@ -1,7 +1,7 @@
 ---
 title: "Anime Rating"
 excerpt: "Inspired by the report: https://community.powerbi.com/t5/Data-Stories-Gallery/Anime-Analitycs/m-p/111203#M544 Created by @funichi, I have created"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Anime-Rating/m-p/252271
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Anime-Rating/m-p/252271
 type: download
 publishedDateTime: 2017-09-14T14:12:00Z
 heat: 51

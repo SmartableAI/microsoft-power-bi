@@ -1,7 +1,7 @@
 ---
 title: "Understanding Audio Concepts"
 excerpt: "I got the idea of &amp;quot;visualizing&amp;quot; a song with PBI while driving, and a song came on with a syncopated beat. For us who like and study music,"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Understanding-Audio-Concepts/m-p/704891
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Understanding-Audio-Concepts/m-p/704891
 type: download
 publishedDateTime: 2019-06-01T05:46:00Z
 heat: 50

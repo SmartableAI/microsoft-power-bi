@@ -1,7 +1,7 @@
 ---
 title: "8 Day of Christmas Dashboard - Meetup API"
 excerpt: "From Sam's Power BI 12 Days of Dashboards series, the 6th day of dashboards introduces a Meetup.com dashboard that you can use as a Meetup Group"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/8-Day-of-Christmas-Dashboard-Meetup-API/m-p/105150
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/8-Day-of-Christmas-Dashboard-Meetup-API/m-p/105150
 type: download
 publishedDateTime: 2016-12-21T12:46:00Z
 heat: 50

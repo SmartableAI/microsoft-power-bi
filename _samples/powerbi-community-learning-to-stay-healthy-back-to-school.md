@@ -1,7 +1,7 @@
 ---
 title: "Learning to Stay Healthy - Back To School"
 excerpt: "&amp;quot;A healthy diet leads to a healthy mind, and healthy minds lead to a healthy future...&amp;quot; As we observe the World Food Day next month, the"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Learning-to-Stay-Healthy-Back-To-School/m-p/785922
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Learning-to-Stay-Healthy-Back-To-School/m-p/785922
 type: download
 publishedDateTime: 2019-09-06T09:51:00Z
 heat: 50

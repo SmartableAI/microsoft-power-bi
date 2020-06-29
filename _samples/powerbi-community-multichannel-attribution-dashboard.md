@@ -1,7 +1,7 @@
 ---
 title: "Multichannel Attribution Dashboard"
 excerpt: "Multichannel Attribution dashboard provides simple insights about paid and non-paid media performance. You can see top-level data from all your"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Multichannel-Attribution-Dashboard/m-p/1148175
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Multichannel-Attribution-Dashboard/m-p/1148175
 type: download
 publishedDateTime: 2020-06-08T23:50:00Z
 heat: 56

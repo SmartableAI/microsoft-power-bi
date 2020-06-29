@@ -1,7 +1,7 @@
 ---
 title: "Follow the FIFA World Cup &amp; our Office team picks ..."
 excerpt: "The world cup is on and for this FIFA world cup 2018 in Russia !!! for fun and a bit of competition prize included I hope...we have picks for teams"
-webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Follow-the-FIFA-World-Cup-amp-our-Office-team-picks-in-Power-BI/m-p/442023
+originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Follow-the-FIFA-World-Cup-amp-our-Office-team-picks-in-Power-BI/m-p/442023
 type: download
 publishedDateTime: 2018-06-18T04:47:00Z
 heat: 50
