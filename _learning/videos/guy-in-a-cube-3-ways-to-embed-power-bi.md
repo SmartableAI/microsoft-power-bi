@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT5M17S
 publishedDateTime: 2016-07-26T14:52:10Z
-heat: 50
+heat: 51
 
 provider:
   name: Guy in a Cube
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "3 ways to embed Power BI"
 
-secured: "HR6eUAUeBcR7r3av8GeSlwysmtNPRe3b/TUZkRGjHj0htrhCndAiznskx0b6UW7j1HSrXsDVg2KTYrP0On3TyaQJ/6eo3SCxKV5XK8xc6s0oFDIjK4bC5xOTmzXRa4UJAQIeWVy/z22MqQvub/ZDUqb9ImQ3fqhB1ehyhhMf8bUw1xAaBnbgZcBBNvil6oNGkVOMC4TjRW+6hC5BZ2Sq6rJX45jiHYD2f2iWlaNPjamJxl0xwv8f3pnZ9yRGu1RPxh31jPTXtLT7Lp+466aMWubf1ekiBbrGfVwbFd8IFRPvMJ0oojJo/D9r68xcQ3edLvirwKzrjBIOPqJgul+rHg6ZReQrqM3tkFvFmdXZHJBvMNO8A/3oGHzCI2nFrjEYusJzSpXmPJZxAQDxyKxUGQ==;or/ztdQq/OA235zlRzabKw=="
+secured: "789g2VpPP//g/LE1oYAd197ydL4U4FIcGHf0BnCHPibL3php4bA/stK5+Jo0yi5IG9F8+DDuHgbb+tBKrYPPJjLsvFJJcTX083Uf5AMEFw1ZYZxkl0UguFtnVw0nblTKsf8yN+0MV1/ZBF3yqq6q+sJxu3KbcQCV3PiMBUuNXqfOKtPespMlq9MYtn/KCZTfX2PU38lXMRI5eO8CEtokqZ7xhi1aSmWjod9iNaD0+ucdGgh+tQhXB9sx5z8cyPm3vctkBF9a4QCFHmPbZMISYaIURtoLVkC2HaTZCvKTGVAbhv32Z3vHCCd2ilhSFU7bShPr+6EaNCZF7+btrBAeCP09SlUhdIze+LRJ2B2gHY2WyGWxZUKK4kUFHJiEV4lCs4TvI3TbzWR2oFkH1IiEjA==;sVtIpFlJGc8LQKfpgLJccg=="
 ---
 
