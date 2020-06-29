@@ -4,7 +4,19 @@ excerpt: "﻿ An analysis of the players that participated in the Wimbledon tour
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Analyzing-Wimbledon-Players/m-p/51132
 type: download
 publishedDateTime: 2016-07-19T01:19:00Z
-heat: 51
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjgxMjc0YmQtMmMwZS00OWUxLTk3YzMtZTExMDBmZTc3NjVjIiwidCI6IjIxNGMwNTM2LTljNTctNDg1ZC05YTQ1LWZlMjFlYTYyZGExYiIsImMiOjN9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiNjgxMjc0YmQtMmMwZS00OWUxLTk3YzMtZTExMDBmZTc3NjVjIiwidCI6IjIxNGMwNTM2LTljNTctNDg1ZC05YTQ1LWZlMjFlYTYyZGExYiIsImMiOjN9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/159/2/Wimbledon%20Analytics%20-%20Emb.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 438
     title: "Analyzing Wimbledon Players"
 
-secured: "p0lXhf4d1x9tUnpM8uFaItQi51zPGYcMuqz8SgG26hmpPNiCjGQXCkITRUI36w6EwWmnRduaoqqstr0i6Hby8V3UWpBDsn1NgIJ4T7pmOd1fThIJTplo31sYmhPydcu/ix5te3UELc6qmFL6YIJL1MVoXU5BBgyZ/DGGW7omRkXyhOoP7kRPykaCy8QcgvEvVEa4io75EE67AYoUEJoQmPqjz2hwbeb3F0mROuqL5WlntIY5kuOpPAa6uRA6fD8MDjx13AFCOQiHzLQDEK3SEtgzW6Nsd9fZ5HZb08S3TcJoSq6Jc1BL1lCpJkcG85w+hW/Ufwr3XSiSx6krvtZGY3tAMuuvrH/4uTB+3vImbk/IJiDZfGwKiPIBXPhYeFtm;88YzAnhrsssG8LXBeRYl4Q=="
+secured: "9h+/s9HyMp64CfS5xesqq7aZ3A8/T88AGaOZQ73jgpky3uB2hcy/cRbImFQq15lZV5p6F01vNuMsxbBEkdMVJ6LI6AFLQcSWRWN4Hm2MfV4YSFe1WgDjLKHMqrQxfMrfO6rnj0W5KuoW4flJBUXXj8M0VwPbdy3K09qbmOxZQ8ZFyz4lW2uU3iYNPIA8grktn3VYv51DLb2l8Z/d6HxQceBRKzF1Rq1AQNuHNysAwTKIl2M0koeAjd2eiMrmsTaXB9dhlp7RuNGp9ODxofbXgjHSEsUnqYOiSev515e+PFOPaKO5fMA2cQfJfsSy3FTcVXI6uNVi/8IU+nTmOsJLroC+4607TxZTCWMGyTYz8YVXr33QeGFOlvt2Ni2YGJpYBVCHXdIRWblSCjP+nhwVtVIb6S62B/TOIvLPrae5oVY=;PavP6UyPANc8e070zu7pBQ=="
 ---
 

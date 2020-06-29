@@ -4,7 +4,19 @@ excerpt: "Explore and compare the difference between consumer activities during 
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Go-BIG-and-go-home-American-Thanksgiving-vs-Chinese-Spring/m-p/732884
 type: download
 publishedDateTime: 2019-07-05T08:12:00Z
-heat: 51
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNDQwYmQ2NjItOGZiYS00MTNlLTk2NWEtZjk3ZjU1YzBhNTQ3IiwidCI6ImQyOGMxMDVhLWI3N2ItNDA3Yy04YjBjLTFhNmYyZDNhZDg5MCIsImMiOjZ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiNDQwYmQ2NjItOGZiYS00MTNlLTk2NWEtZjk3ZjU1YzBhNTQ3IiwidCI6ImQyOGMxMDVhLWI3N2ItNDA3Yy04YjBjLTFhNmYyZDNhZDg5MCIsImMiOjZ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2748/2/Go%20BIG%20and%20go%20home.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -27,6 +39,6 @@ images:
     height: 1026
     title: "Go BIG and go home : American Thanksgiving vs Chin..."
 
-secured: "w/jZwKSLV6XClg6bGS4e+R6lPZyJX9UHZW6FHac9ciEQqgFd7iFueOLiSP44vqyijEQMd16pe7NLtSvOWWM0pbEO0QBvH+1wMs+puLnnob2tZJ1EynKUJCG0ZW7sCn5P3qRUaagaU/BrY2psgacrX3wn4Yra3VUoBCxdC9/S4lK0w7aM6YVFmeqgLNaZai8omTJsnZBSNRgEslCa318kmnDVcnC95x+oXlqLymIbJN+YiaO9m2tQIxIRteSrGq3RNbk+16aQYYxg8KNVEWiv6zfOl/hkVtS2J40QbVCxQUfVolRESdokZaG8I71B0vyRYyVo8s5/WP7iHTk2JP+U6Rdmx79Q0qBBRt5KcJTcyb/eX309Tc3EuoAyb/2GjYUI;YPpaH9vWPUjGSKuImfzGfg=="
+secured: "krehsI9Qg3Rg9f4NKOaIAZEvvCEL5Ygkr9ZeTkY9bM9dXHz7yFgfSbCDK+wSfHVsK53hO79huUovYsCCXVePqeiNXV6gVV8Ex0jjAL9O3vvmEkYyelxFTqQN3m5aZjZAzl9x88BeMntQwWnTwlPg6NGQwkcRaOQ/Uh53he7BNp72GKXmjEA9pP41ZgZ/VEK/bPzxNG/qVb3KtTIUUoP+nxdOKRLr7b1N/Z6RzUuvPPvNXAkl4J0xDDOiTYm2BO/gwbKsV0iRhDE29r/GM0szeUFXk1ylRXqTmiLPR6e3tlWk54N+esTu595+gJuRQdTYT3ZxPSC5Erfo+Eay7BK2dhxkJoFD0eB6OI9MrNTnfbv3bpvd4kK/xUnZXQTEcf4kBX+VQQ8IDza5+jQbsLB0jg==;l6q5ju71AVL7OonQ/F7I7g=="
 ---
 

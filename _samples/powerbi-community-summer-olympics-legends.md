@@ -6,6 +6,18 @@ type: download
 publishedDateTime: 2016-08-24T14:51:00Z
 heat: 51
 
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZGY1ZDcxYTItMTA4ZS00ZmNjLWFmZTAtYzMwMGZjZTIwZTFhIiwidCI6ImY2YjZkZDViLWYwMmYtNDQxYS05OWEwLTE2MmFjNTA2MGJkMiIsImMiOjZ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiZGY1ZDcxYTItMTA4ZS00ZmNjLWFmZTAtYzMwMGZjZTIwZTFhIiwidCI6ImY2YjZkZDViLWYwMmYtNDQxYS05OWEwLTE2MmFjNTA2MGJkMiIsImMiOjZ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/248/2/Legends%20in%20the%20Olympics.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
+
 provider:
   name: PowerBI Community
   domain: powerbi.com
@@ -25,6 +37,6 @@ images:
     height: 809
     title: "Summer Olympics: Legends"
 
-secured: "5QKy2qe0Tehp1f0NlhyIh9A/VhrPt9YOo6nw33MOBQErdtXeSQFX/yfTUrPLzGCRzni5JXUErMRNGImYofh7qD7lMpJVdfRxYj1G0LrpH+dXy0BBcElan4jZWcmFKyFy/sz0kglsjO+4wYec+A3Y64xy1PR8ebIXTE6kj58gcQPh/2FUJWpbPsNE6N8qNFtXoJSkoGXh96UjZcQyl8AbSCjVj53oKLwm80nI1E6O0+IlORcSRkovJ2SJFSpx7TweeEkKKM/qQ/KMt3CxUHkcspAFiF9IiXY1zJLJ+aHO8cxrfkVBz0h8f4czve3qZOVmCdaoGj8HvzK/QoKdQQg362fXMReHQDzcotEYbsjMitZm+YFovCo2/jGjK5NH9FqL;WbgHcPJINHtqIgat7zMdeQ=="
+secured: "FGOOH64lnsQULiapUxqlSb0P/Wtwrtfbx8QpvxLHyRF4gnwdQRxo3/zxnkdDQXx8OTZq8GBEunq859PbCx7hrIp7mUaHmTYBMpHE+BQhgBokFizKwMpp4pw2G18FN+w+UzGEMAb8LdDPYT7OtYkbhCs81hNeV7xs+XQ6TUP0iHXGSNjiAvwD4bkWF2gRXJ1Cs9fLY1Q57X0PerBJ4TUmBKM+EmbLcvGiNNjrExKZpe6SzK2xbcTGmFszjVWx9JGfyjAJsa5VzBKXbnxVTGVffFYDSiZ2YdpKJFzfzCyjIlMqeYcS5t0/nKEii+rw7uSLdoLhm+gtHwbNAU1kU81N5WP2l//F7tOZpMxVP4NR05BoAndN+RGnkQdM3o1fwZZP7xwSUSV9CFiBeiSTC4dQwG7rDgPAxvwNsYAhZHxNlmo=;7vy8wzp8guwUHbq128Ng4g=="
 ---
 

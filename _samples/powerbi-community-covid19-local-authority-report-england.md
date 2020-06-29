@@ -4,7 +4,19 @@ excerpt: "This report shows the outbreak by # of cases across the local authorit
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Covid19-Local-Authority-Report-England/m-p/1024701
 type: download
 publishedDateTime: 2020-04-14T04:25:00Z
-heat: 52
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNTk0MWFmOTUtYzY5Ni00ZjE3LTk0ZDktOWM0YjgwMDBkNWQyIiwidCI6IjBjNzk5ZDM4LTQ3NjQtNDJiYy1iNGZmLTIzYmViYTljN2ZlMiIsImMiOjh9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiNTk0MWFmOTUtYzY5Ni00ZjE3LTk0ZDktOWM0YjgwMDBkNWQyIiwidCI6IjBjNzk5ZDM4LTQ3NjQtNDJiYy1iNGZmLTIzYmViYTljN2ZlMiIsImMiOjh9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3759/2/Covid19%20Higher%20LA%20Report.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -28,6 +40,6 @@ images:
     height: 760
     title: "Covid19 Local Authority Report (England)"
 
-secured: "CW7k8B+wNdjLpGHsBqeHwRH7z9WjZqWRhqAEpyjIWFPcSmP4DoF7PlMTn2vUfSz84KgRe8LuKztWCOJvFvpyAlIThU4jhWq26ZEWkcu7lQzbiR61isGc59LKE0rbTQu4q3pf+XlJXddIattw4TENHYgIk6aGTUhjFCez3OBMwa2SfUvxpOTn0RivXaR8MxC5rVcPr4e68/jBO+JG2zaTduCcKdPMExeal0XSEVmBDeaar7Xopp9B2vtUF7AwUeoIDUJrHP/24w4AVjNs6h8FZ1u3fO25ZTII21vmeHuAm1TfgsbY/Bjxu7eAh5k+O+PjwrOEoXGuuPmhpzHyjM5CyFHDCW30qQGtY4dayQG6Vs9hcYW4WxeSQTthPegEp3nK;qopisdtzHCdjq8QcJjdTrw=="
+secured: "TgpH2CH+W8vMJZp/MqeCz8hA1YeT57Hdg9PsH/P5KNALNYdv1fNnLCus3LwcSdtu2t5Q5QcKvxnfyBDRH4j389fskjzwgADY3nMgUzqQS72Mjd30gvzVsGt7SUDjH5IW6PVwcUdSmvB5GQ0RtsK+OM3vf6Nl4jPP8Y5WG9uT7DjV8rcHZSp3dapJKnkJLERBENL37HR0ZP4t0P6Y1Hy+NE27SSuFCcv7o+KhLiVQt297LufciyA2ErczEPsAIzB0NwHwjXdkSLQtanWPyGJOX00xhVsDVpsE1/red+zpbrOapNTyoGrR/C6md1njT4Xwjr/ANAqmZM1soGqbEEnPVtNBBF2eACn33x6jWMkJG4EkYEkcrE7tOa/jJluIGlNCPj4qIXdnAiCHdI3ENmkpsw==;msc/NNnf0xlIrl6BjuaVMg=="
 ---
 

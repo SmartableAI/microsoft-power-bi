@@ -4,7 +4,19 @@ excerpt: "This model came from a real world need to analyze a list of requiremen
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Requirements-Analysis-example-for-2016-MVP-Summit/m-p/88492
 type: download
 publishedDateTime: 2016-11-10T11:03:00Z
-heat: 51
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjE0ZTU2MjUtNTBkMC00NTdjLWJiYzAtMGI5N2JjNTczMTJlIiwidCI6IjA5ODQ4YTQ5LTRiMDEtNGFkNS05YzIyLWFlNjdjOWRlODVjNCIsImMiOjZ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiNjE0ZTU2MjUtNTBkMC00NTdjLWJiYzAtMGI5N2JjNTczMTJlIiwidCI6IjA5ODQ4YTQ5LTRiMDEtNGFkNS05YzIyLWFlNjdjOWRlODVjNCIsImMiOjZ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/429/2/Requirements%20Analysis.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -26,6 +38,6 @@ images:
     height: 936
     title: "Requirements Analysis example for 2016 MVP Summit"
 
-secured: "rBiYwvN2wr4nmrGNqu/MtS/U28MfSNysihjwt1yOy4zm7W2or5SHS8WNYyh7cMiHIbej++amtoH2sLswpJbEi6ExQDNZhjFMYEEghISLjYtoMB5ZJ8LWcoD2C7xtzHg+ybLKEScIEYKAsc2Js9fdprmN+KGH20L1MDIHmZvU9we5iwLspq2sRiIqMSfhj36E3gdjHLqTbz84892R7fuJ3C2crkNEkhDi2KBxzlMKYagt3+bDjLrV6z6HABtnN69DWllPy12gIvQZezmSXr3tQEOuwvYCLbsU4qMiRjFM8HgNPwNZymwE397M56r0NyuvuKthED4k0InoNlByl33z7Am65rxZ9rW7inexCqaj2hnfwjaRGlQWYQHEgsvq0jrQ;DsjP6xg90p+WYXAztFI6ow=="
+secured: "573J3rtFIY3P/WZPu1tOV9Or8vMae5KJVVtU4oNAnw1JlZiZhhj8DQigbacZ8BwRh3EECdboC2+b5oUMruiUZJP9ByXum1/+eqZF2O6T9+m1lIoEPMFDrHsFHbNrm7Sq6eLsAz2Qi37/bI/rAWbwm9A2v7aYme2+YiNiWfHVd2FnGYEs3fRBQjTQ91HPVOEbWeikx7OHf9naWmeUbox6sOK4IMWD5F4bmu+IolpFimQlaDd8p5Y9o/+6KSWj5ZuUFvOg6+fU6aLRZtiEVBedDfmQIucoKRKhA6ANCtqNuAnQOC9gJCyMnk8ugpDHZxWViHYXNO+7KuZaiouaKAdEjVXH6eaTvsP46LmfSpEqbwmDnIDLQMZiHWUR57cPmRRUAtXSlMyH5npvUn7HsrUGeIXSFHojcV11NAX+FBZ0J88=;Asvr9vge5fkCl5M3Va4iyg=="
 ---
 

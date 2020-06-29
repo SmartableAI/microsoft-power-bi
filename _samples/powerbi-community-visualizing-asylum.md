@@ -6,6 +6,18 @@ type: download
 publishedDateTime: 2019-05-07T19:57:00Z
 heat: 50
 
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMGUyMDJmNDQtNzJhNS00ODE5LThjMTktNWJhNWIwNWRmMDMxIiwidCI6ImUxNzc4MGM2LTczMDgtNDc3YS1iNzY3LWZhNTY5ODI0NWUyYSJ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiMGUyMDJmNDQtNzJhNS00ODE5LThjMTktNWJhNWIwNWRmMDMxIiwidCI6ImUxNzc4MGM2LTczMDgtNDc3YS1iNzY3LWZhNTY5ODI0NWUyYSJ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2622/2/uscins2.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
+
 provider:
   name: PowerBI Community
   domain: powerbi.com
@@ -25,6 +37,6 @@ images:
     height: 712
     title: "Visualizing Asylum"
 
-secured: "XNfpZnbvJz49tQDBFMcR1WpUblelbePllLVKXdF4xcZIixMfGNkFueA+KTJi4vmQZyKWdOSYF4CR9M/DGAgKhHZQpQ5ge16noDqMwFp8ESlwFTHlwCES8l6gXRzIGA5uJIMA3tRl029uOATrz3W76Arc7vRG+T6YUClKWctkQxw8K6sDCLsoExm/C8ifGp7RW9/93OyiU9XQlFR33lP7eMO63qHxjJGk3LhvJemr/dgH29xpJqyJES/0Md6DHLfz2Oud4fr7oTeaGr4tiQxYoWjI0C6CkUmWYtZN3xYtVCKU+n/vC5g3DoGNjXCYLbYIfAVxOg/0OkB6VA4P6kNaDfn1xZAo5UbbAskJxch/oztlZ0Jz3IFUbUovUVadq5HO;KfE8nR7HgURuPe5Wy5e7EA=="
+secured: "dYuA6GYHaLaPcUjfktIyIaSrsgxMH1uVkr9scXn3nlDmLmIIZVwbFpbU6ZZithzn+VYZFsr69nb8TMCpDWVkI0lve03vb5YCTjCD1ri33h2qzZLMckhpvXDYRUgXyooquWxspb7oDgxXfkD0+fT5558+jNQsRpVUhlfuWrQrXLKTNwbQinajoPj4cQRUlG5ZJqihqmYrPw+Vq5KNRQ6KPcHte2P9bytVcAeCPlbeYWa9IIm/Z2INefIFJD5tT92DMjnPDLhmK5RPNuBHJcKLLVP7ZKrsigAK0B3UKAOTt2QtitsSPtKlDHSlwWGwk/kComnaeDZZkp0GplLCFgdLNMQm9bKdkpoWBHDGn18kv4N8k0yF7gIlpWA0iw9ooDHXXU+y/sH62i2r+L+/XvERRw==;1ekJ70K9vnhLQuCNBlZ/gw=="
 ---
 

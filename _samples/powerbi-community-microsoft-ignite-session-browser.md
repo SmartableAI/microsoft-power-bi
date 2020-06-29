@@ -6,6 +6,18 @@ type: download
 publishedDateTime: 2016-09-02T12:20:00Z
 heat: 50
 
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMTZjYzkwZTctODhiNC00Zjc0LTlkYzgtMmI4NGE4NGE2ZTk1IiwidCI6IjdlNGNjMjBjLTdiOTgtNDU2MC04NzhkLTkwNjllN2M1NTdjYiIsImMiOjN9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiMTZjYzkwZTctODhiNC00Zjc0LTlkYzgtMmI4NGE4NGE2ZTk1IiwidCI6IjdlNGNjMjBjLTdiOTgtNDU2MC04NzhkLTkwNjllN2M1NTdjYiIsImMiOjN9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/273/2/Session%20Browser.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
+
 provider:
   name: PowerBI Community
   domain: powerbi.com
@@ -25,6 +37,6 @@ images:
     height: 916
     title: "Microsoft Ignite Session Browser"
 
-secured: "dOSLBejZ5GmJYUM/Ri/4emwe6Cbdjv4Lirtab9tZEdwPX0/mHCxhaQxpuv1hJoOM1FXuYfcs0a2ILa2ZmLysEixUfq8b2kwU/meUDwHgBI1XJbZBTyXoy5vYJQ7vdT5jHFVGqqFzmjAX13MnLpZ54S7yfDDqLno4XjA1a9vUzCs2YyW1Be1+hSj6s+ihXKOVsaYOnbBk3tncebxIUmVoY1xflJ0xzcZCjYuOuos9QqwVqcRCByBNfPnVOxI1nYyo9EvFVHLNsUYZIQ/GEfvQrImPvfmZ/CjnjF31XdKUxhd2/OjXw1iMgzrKYASnj5QeTDpLzDGRNIpz0XIK+1sXntX26ObPolcMO/Kr1srDN3GFjMWucthg+Ja7EdKF/URy;hDqgmqwWDKd0JWow/j7Xbg=="
+secured: "8KC8smp/wC7Dcb6l/JHDchihkjLF/OYfohX9ALI+0G6KDcKznKOOknrLPK98Tnp4K0iAHfu9JOjeyhaK7U1LiZg30NOHKUsdlu9J/GSdwzWM+Av9EtaPb1TYyKHL5G4tDiFYCmyEWS2JphkxXarQe/blSC43z7KlKkhlFvaK6Cv80z7YRQxhReQAonpkevPwJU2Lo4VO/yVTk2BbHXxH8Gh8JgUxmK2HXXZGb4qcQi5tBBxQiq0HizenK7WVOsEgNsqGFYIOk4s0YwsePc3FUl7hEmoOSM+fniKbWZRWD3AT3adbMU7OOL5LztiBk6lXZaWlSiKxM7Z+C9DlpvXwxB8TwIAdlUYVJx6VCxagTK/0kxgxv7cELz//AJDvmm8hVrg8Pzl4yRoOFS6C1bYW5Zk+wjITmUkslEmw9yL140w=;VHq37j+RAOJ20ck1CI1bsg=="
 ---
 

@@ -4,7 +4,19 @@ excerpt: "This Dashboard presents data analysis for IPL (Indian Premier League) 
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Indian-Premier-League-2008-2019/m-p/756185
 type: download
 publishedDateTime: 2019-08-02T01:57:00Z
-heat: 51
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNDI2YzliMzYtNWI5My00MTU1LTkzODctZTdmZGE4YmYwZTQ3IiwidCI6IjA0ZWM2MTA5LTRjNzktNGM3My1hZTcxLWE0NzRjMDlhMWY1YSJ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiNDI2YzliMzYtNWI5My00MTU1LTkzODctZTdmZGE4YmYwZTQ3IiwidCI6IjA0ZWM2MTA5LTRjNzktNGM3My1hZTcxLWE0NzRjMDlhMWY1YSJ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2814/4/IPL_V1.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 521
     title: "Indian Premier League 2008 -2019"
 
-secured: "DpsKvylZL0yKe15X3T+oEayCdMZP4jKmslx/lU5tNnQYxEgd/XMcNC672meHmm+iufHpnP1nQjM8HV6HfalugeSfYJiLh/ji162CqFnuP7NnZUQ6d7DoMLIajvipKrE72hb6oY4BVmC9+0Xc66t/gHDJPmXRp0gZcgIID5VB8TYJdUBzV41FmSQTTABjrvPqf/XmAs6im41ZvNzRHbd4QnfivmfYpkihpmtHuqbB0ZNR/+jVDkJ/pmx2ENoGt4w/08gzFJxR+phWpcE5HvkY0tDSSkMM6eVgeDungqTabIAjDwSjqYhALUg5EO7r87oDAhRSwyQgXobV9JLnUBXB2DVzbUXjAIlSyIONgF9q/H6o66PNwMMRNJqHeQ03c90l;ZPZBrQfb7nBuTLMV0B5/+A=="
+secured: "a8Y3ni4Y357GhCS25yiiH04s7DnKSjeo3jVZz9IqOsnlaZ7p/9XA1h91Ed36byDzGLfRa0ikqUUe0Acvy4QEIaUYc7dJYyUA+zqHrS5ozePSIsN8gR9IKUwB+8aGbRN1eG1roATzjjOGSW/BmomG9mlbQOqBRJtdaBhL8E/6tighfxs1TZWNntE+9WaXC2NFri1N3wCsOAMQSjkm7Ya+grZFUYmVPdD27ELAwvYeQ3wH6MRXhS+Rf+hQ5zYLLDlGokOBRiKsfZkMtZmRulzdT89fBLyYaCh/VLoaK2LPTZBv2TPDj7t3yvQNPQhYSB2sCTh4XXZmsJCR3ZnZK2/A7dfVznFI7UwQFOGNzxnou/pzlB3If2cYWBbsXOKJb08xw+4dTm/uz8IMTyHI2RiF/Q==;wFIahxFOfXgMR6v3a58SpQ=="
 ---
 

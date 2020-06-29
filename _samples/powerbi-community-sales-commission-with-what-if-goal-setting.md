@@ -6,6 +6,18 @@ type: download
 publishedDateTime: 2017-08-21T17:49:00Z
 heat: 51
 
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMTFkOWRlMjMtYTBlNy00OTgzLTgyN2ItYjJlMGVlMzJiZWEyIiwidCI6IjA4NWY1YmMwLThkY2QtNDM1OS1iYTNmLWIzMDMzOThkZmZkNyIsImMiOjF9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiMTFkOWRlMjMtYTBlNy00OTgzLTgyN2ItYjJlMGVlMzJiZWEyIiwidCI6IjA4NWY1YmMwLThkY2QtNDM1OS1iYTNmLWIzMDMzOThkZmZkNyIsImMiOjF9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1041/2/wi.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
+
 provider:
   name: PowerBI Community
   domain: powerbi.com
@@ -25,6 +37,6 @@ images:
     height: 343
     title: "Sales Commission with What-If Goal Setting"
 
-secured: "7B+l5IiQqyqG4DzhMzwwxY35O+0UclwuP49l8eUTfMZm1iZes3mDCBKgbkZECjfkrIqTOc34NlNGJ0jVW2DtuuCVCoibNMPwDxbL0JGDfG2EzlnNBbhidVC+lw9DFdftegj9IOYrNqT3u/rImTOePc3VfODjNJFhFgK2PF9B4xhg+r1jFTtC31hQ+TPWti2KVlsKdqMe7jnifABI6dSe1lJ1j1fG4/Qq0a4/TfXlMxtGcZzf+V6ABNVOnXAaVGzle63a/GosbDVvFbc5k/CXBPXq5r4QHUF7aICMyDd8aKbVhCypw1nfuwuwTaSP1AeEv6lhsQpUbrBMF0GY3iKz8BRz/6RZ73hQ375xD7FA1VTAaXhvpnNCooplgX/MpqGL;N3jlNFLrDGeZzamcZLwPkw=="
+secured: "244qdZYwq4Q11QzY2qpQsiGxr0W/aAmr6+oY0s3b5uJ+3/0M6HzEvScCYIUt2YKybDqnc3ubmYg3287Nr4DT8YM8PzwpTU58IAJDPFl3XC+bezOpxM0GO7LrmLABkzkNLVgvALePzBxFC7NNVYec79cefvi7V40eOxc3H9JnqHAyeo1XTvO+Jf2v7gh+j8qJzUqTFj9mdJcL2ZFWsfKc0vcI7J7ULL242uRlXaXmZVEemxN54HYzPnTm2/aMVfVYljH1g3YwX8NCBgcTstZsgFX2fIk3XCajQ4PqKWthIXcHdTKsq09xm3C4KwgF9oQo4y4oqBO1+jw3sOZJbDdypA0N1m8CAyac5oEvSRc49tac68qY1Mz5ko9oCqzCdoGYtHSfRLMBR7/jvC9OGo+tsi8drF82OCdOMH1Xgf3dtfk=;l/Ncf313vk26M82IeGbBmQ=="
 ---
 

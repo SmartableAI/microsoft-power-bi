@@ -6,6 +6,18 @@ type: download
 publishedDateTime: 2018-06-22T11:10:00Z
 heat: 50
 
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMjljYTQ5MTEtZDI4OS00YWNmLTg5ZDYtMDI2NzBkYjI1NTBhIiwidCI6IjkwODI2Yjg2LTY1NGEtNDAxZC05NzgwLWEzZmJhNWIzMDVjYSIsImMiOjN9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiMjljYTQ5MTEtZDI4OS00YWNmLTg5ZDYtMDI2NzBkYjI1NTBhIiwidCI6IjkwODI2Yjg2LTY1NGEtNDAxZC05NzgwLWEzZmJhNWIzMDVjYSIsImMiOjN9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2038/2/AU-Partner-Map.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
+
 provider:
   name: PowerBI Community
   domain: powerbi.com
@@ -29,6 +41,6 @@ images:
     height: 1795
     title: "Air University Partnerships at Maxwell AFB."
 
-secured: "lsiyY7CETCYtAcROHg111QKk7H8OQrMeuxvREIXc+eyozlcgefT9QxoWuq8knMr6ohCpZXDKNilTkHJKsdDq+pvhsMSLFWGPRWrBItpDkMsFpMHBiLBWqSviZCElS92Vf9UvB7n1wIsw41EOPN+6l8t/Xa6upL9U9vciq5J0l0PH+kC95plFBK7iQ8eMTe6wF3qMduZ3u3mzAtIWo4M4pEJqZhNxt3pRPBBekTJkDZf10eCPNd8gEFIxuEGlOzCOgXFlul8EnqtEobP2ewdPGw9H5utOVYu/PQB0ERGec+UJsXj2FErUcz3JugG0eBDBlLJxorcxrAFBRZ9EIz/geUqoBomx1MPsduBJiM2WPUvZhCxIc5Fhe6ONaANN8hoO;arKqep+CwnrNDEJmZVi+Hw=="
+secured: "IZYC3jyDPt56vhdhPFqxOhc/WSfjNfsFQ6XyJQNHUAJ/br5fb1ARR8MJR3CGgIVRHrVIy0KJ+b2g8ckpED5WXjbElc9UU8V+5/VkSAoYTg3KG+PrciNe4Y3GE/S3Q0CvdlC54S++FZKDPHNMZNDLKINIW2+nyMCE/N0a0Ifk+t6cKKMnvRN4FzpUE6ovyDAlu5pR/0Pm75wxhFbpI4AB9xV22xPAE+3DYAzVZPZHmNDpvSBDBEHCeCxso2yhaB2/UdNQOqwUxzVnmQ1albSW7STRlKg5mBo5LmeC98aAUZGJcweRlcFY4CF4yJaZfTd6BGPugL1VP+4Drsoa7hwxpeKOhK8NSK87kComW0gt0ujlro6LA4xxCclwqjEVgQr2iKd5Sla9HXhMsirZOoxfbw==;16SR3EKXlu2v3A+rgX1b0Q=="
 ---
 

@@ -4,7 +4,19 @@ excerpt: "This report analyses the popularity of baby names in the UK from 1904 
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/UK-Baby-Names-from-Office-of-National-Statistics-Storytelling/m-p/792472
 type: download
 publishedDateTime: 2019-09-14T15:34:00Z
-heat: 51
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNDcxOTg0OWItYzUzNy00MzFiLWJiMjYtNTNmYTNmNDA3NzYyIiwidCI6IjBjNzk5ZDM4LTQ3NjQtNDJiYy1iNGZmLTIzYmViYTljN2ZlMiIsImMiOjh9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiNDcxOTg0OWItYzUzNy00MzFiLWJiMjYtNTNmYTNmNDA3NzYyIiwidCI6IjBjNzk5ZDM4LTQ3NjQtNDJiYy1iNGZmLTIzYmViYTljN2ZlMiIsImMiOjh9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2996/2/Baby%20Names%20With%20Storytelling.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -26,6 +38,6 @@ images:
     height: 778
     title: "UK Baby Names from Office of National Statistics (..."
 
-secured: "dBDfk5Q2PW2LO59KLdZWAzR32i4J2nr++Xi106bppJx45wsRhkIceIdWjanMxExkbIJINFG/mbPP7Eb8ISgFj25Ik1Qjb8Lfu6+u4zQ2HIgOp6no/fyXR6bfesS4q+oyJaoPtjRT8+l1ySD5CEVAOLmGaIIKT7OmQkfWTz/vir50KAl/B0H5BY7y6r7Oq6/WeIHwLFab7ZQ+UVBRHBqqaXuT3jUf5Ua88ThAtNOOv7QpIGAF8S5lz1ZbOorW5nsC3Szj4O0wEcJ6TfL+6AO52vavDS9DWmsQFbtvZQSR/aFymxOzdaYGfytF+pJd5VIf7C5pduM8TSjASEXbSAo6b/dKeWAj4VPUqjaOYFyByN6GgD6pBLfjUqd0AN4138PE;I1j/I8JAWWF/hCIfrQV7pQ=="
+secured: "IzEfVGDkQb25pSgkFinTYAMPct7HCORTpPX77igwT0xnvQx6QUKoPCawtyDyJymZGtcY/adAy6mcJd+2oYFGxkfTTeTG+i4cwhyW40iXeWzH4jN5/uX4lolefvc3KivcifnyECBlCAttYjoHLMTZJp77MX6peILQNTy2pT5bBrmiqyzokqK7ThfNgImP24YJmXw85nm8JL3jfq4kxBvuR3lwsgGDxd7uddiF0GZ1L8JkYtAqBFvuFRdkEmc8l6H487NFsrQ9p+2d+E5Ge14iYdGHUduer/QBmkezia7SJ8A2Sd/T7a0r3PZugsd61ltupRZrzU7DqosQJxX7IYvuN6niRF4ajP2Zv/SOt5lzh7CuM/RAKjYE9/xeFWt0qdwufMH/y+/GNOxQt7wFyO1Ocg==;TdafgtuutR/mbbXU4SvkhQ=="
 ---
 

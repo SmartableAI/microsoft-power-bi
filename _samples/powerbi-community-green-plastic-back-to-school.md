@@ -4,7 +4,19 @@ excerpt: "Could you imagine your life without plastic? The plastic turns our liv
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Green-Plastic-Back-to-School/m-p/785803
 type: download
 publishedDateTime: 2019-09-06T07:42:00Z
-heat: 62
+heat: 58
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZGMxNTYzODUtNTY1MC00ODQwLWIxMWItNzAwNjVmNzQ4OGI5IiwidCI6IjU2N2NhNTBiLWYxOTgtNGIxMS1iZjc5LWYzNzhlMzM1YzljMCIsImMiOjR9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiZGMxNTYzODUtNTY1MC00ODQwLWIxMWItNzAwNjVmNzQ4OGI5IiwidCI6IjU2N2NhNTBiLWYxOTgtNGIxMS1iZjc5LWYzNzhlMzM1YzljMCIsImMiOjR9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2942/2/Green%20Plastic.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 728
     title: "Green Plastic (Back to School)"
 
-secured: "w+ei5vWGVxKF2WIQh/7NoMU7dB0+i+o/kPrZSDMrm9WfnPMw44lRRona2eSdDtaUtmW8eYWoLfNdMlsrbjlBUBFSgP22nVIJbfWhcRyMKEFtvPkC4dauv2cfNf/H7epAxg3PmnNv7QHYp2XOam5p+flzrmSOuDrgl6sukyhtI7D3jMRaXqtQzS/4CUq0NOiQL3t17X5/03hPAtMi0AKMC3w/pjvAOKZeMme8/GdYdZVv6LLpVkUri4SHnSB+VAJr3ZxAuADtU+RXTNQEjk1xcHZXjXyKNLzlyw1JsATkLe7r+UPuEiME/Wv1hxzNF2EUwlbp4CHKW6qd6e53MB4dAiYSeXjp01oTG6Q9dh4ot4iz7hP+qk8+uvjtRPQv+c6B;Az2otDDV9LL77+vrMpxuGA=="
+secured: "5N0PS07nDCZ4jnMHKNwt3UhQWx2vCArbcGZUHmtFZnuse7LYAO4Dyh4Rp0f9YQbBm5BOyScQL1kMndZDecNQ1kokQ53G8nr8GZfK/eClcbj+rpCALmGwwz73R+yTiia8YKmwk6L4MOJO1Z46jfI5UfDwIfqIc9fgvK3egxcQBfNISRb2vOTh3jUjlTXDTaZ0+55yXie+JHlxokmGyLdaFCZiCxJQagJIHclj5CHe5DTD2JC33PlCVVwAs3waq60KNK+i+Hd16r7sEQcUifbxaoqpD2grNR5NCrg2BbvGtqLTKcrz9k2UxGifdEqLxTPXA36GkE5mi3UfkQRUpZrmfOsSyjQzXgu0igyCLqJStmPE+CcGjq8Nl9EJtoHqKXMlqU2J4ozhqzsT7YeRt/e1QfYBjZAP/lHeFHnR6MHRn2g=;7/Xbh4o354utJ8YTRnlhWg=="
 ---
 

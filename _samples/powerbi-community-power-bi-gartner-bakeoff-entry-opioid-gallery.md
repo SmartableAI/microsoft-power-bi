@@ -4,7 +4,19 @@ excerpt: "This is the report that we presented at the Gartner Data and Analytics
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Power-BI-Gartner-Bakeoff-entry-Opioid-Gallery/m-p/377969
 type: download
 publishedDateTime: 2018-03-16T11:53:00Z
-heat: 73
+heat: 65
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZTc3ZjNjNDUtM2M4Ni00ZDg2LTgxYTktMDJkMmRiN2VlYjM1IiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiZTc3ZjNjNDUtM2M4Ni00ZDg2LTgxYTktMDJkMmRiN2VlYjM1IiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1702/2/Opioids%20bakeoff.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -26,6 +38,6 @@ images:
     height: 1080
     title: "Power BI Gartner Bakeoff entry - Opioid Gallery"
 
-secured: "2aIvwW4DzYN6jG0Ov8Cs/JztTA6K0ExlVlrARF/+mIHeELg7DiVjHMNr+qQuUlmY3JxN2dvVWr3mai3KOO9t9nyLdwfUfUT2gfHAJ8LE5sP1Z/nzQ7uhQ3dDL/Svrmj/5qyzU7X7UacDQrOFTmYz/EX7cTIn1kI5BEAgo5ZgdTN4akCWR0IFioFV2C5oP478YN932J4AzmPzgYVktFoZIzZtdFS3Gm0QTqC3GH4tx8os+4VpmhN49D9V9/+zU+tE2BzTmUN3MDZi+RcjtsShL6Fmm+0wQ3oINslycBa3Z7GXx+g6yHP6iO7qw6s5svEAnsdyHYC52jWaq6GO6szvZNdZ8Rl65kyw49qd3fBR9DKym9icmSCoET5KFe0T9xr4;E9bgR4SiOznjgapXDVmaqw=="
+secured: "CjHM1X4/HbJr1dzzScl/R4Hq+iLheTt2ClLAssxWQLbOvvPMVR3U1fIIkhWYrRaIm/YiBRBVs20ve5jPsjba3OZqHsa0On8YPvKrfPY11gtwdVnfLe0ya3wq8vWl6sn6r1H6ficOuFSiwrEi8AkOhPaAZ1jltcPopGuufcojXuVYUGaRr+RrcM1dvQx9sYyHhjKsy+CyKI09yJ4d7vdaS6kv3Z2b1nDV/CgGqQV9HXLt3QnXFC3NJ9kjCSS6uwNXT3kPMvhZiUNXleLwA1FH3VMC2LFjcMqp+U6OhkA2lMRBQ72tA7QJSf5JSajLjeGWngvpjm88kglljezDCEEm9Vstl6xREbtBcLM0qOHNW3cY4mU0vfh8GoI9cq6h2wU2N0NqCfW4nu0PQLFt9MBeYUrphL1nEUDgRfgUBtnYXYM=;FNhEwu70a2siwHFBIwz16w=="
 ---
 

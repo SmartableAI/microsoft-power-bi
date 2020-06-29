@@ -4,7 +4,19 @@ excerpt: "As a data challenge for Online Volunteers , Karolay de la Cruz created
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Karolay-De-La-Cruz/m-p/1055662
 type: download
 publishedDateTime: 2020-04-29T00:56:00Z
-heat: 59
+heat: 51
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMzE5ZGQ5MzgtNDM4NS00YjJiLWI1ZmItNDdiMDY2MTRlZDQxIiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiMzE5ZGQ5MzgtNDM4NS00YjJiLWI1ZmItNDdiMDY2MTRlZDQxIiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3862/3/OV-UNV-Data-Challenge-Karolay-De-La-Cruz.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 1174
     title: "OV UNV Data Challenge - Karolay De La Cruz"
 
-secured: "PxOZmwHt8OwlWQdP2hgaMH/ZkQChEm2IhvNIGFuy/RKfFIv8qoVLIQSTKvJhZm9LzN1iRz4XOCP+S1mfVwhezN9Ky9fLxx8IEZXdZwye1Mey3MJJSbA1Tdxj0ZZw0AmOwdjEVk5HPa0ac+xYGvHJEwY89vOu4vPf6shPM29o6CfS4P62Vws5+mVBJ82jIVeMwDr+J8d4NJu5lCA0GaY4FFavv4EBvVNJQk02WAyj9YAAL9DSH5IXDLQOFYm97p7tc5bpKqGEuGJEnaGwf9IwN9KQo9s22XocmsjiCQvknRvh13FcvyrYZROD9QNeHa38BPilsLFi8UVXph1dRpEMXH+wORw1GXOqE5uvtpARGCsTZgLYslox1cAdNsh0Awp2;THhElfBYEgivIxwl2fTGjw=="
+secured: "54/kx8yqlWuZe3O+lsg7I/kUhsVndArDJlqdQJwDjFOnkJEJvoMlWTx3B5YOv5o5grOix3VSpcoljbaLQxBUTPqYXuMlENoQlI7MCcUMDsZ0rodHCXsa+E7vhvg9inBHD87gA4HZ2gPtFnTGLqglyC3FpxxKwOQzvdcfThifhxWWGqmSUEbcMrivKwOLFeDPsfzDgWaJa2wr8uPRHfXMuOZlEyuFqyXGGbW/1fDwykuJx8QTxdPXSnssyLDPTjQmUj1tlP3e/VjvaLKeDVTO0FJSBYrZAdhjT2QRI8Cu28CHkOFwV60q7n9iJBs6/XM1Bh6U5TLsF/Hoirs+v1ftbAN2yfqaxnfYjVz6QabxlLthMaZ7S4AVhtYgxlk/zH7H7k4spBOTTVubWa2GOPIAVg==;7IFbmTykCLEcLyvJaml4zQ=="
 ---
 

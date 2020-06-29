@@ -4,7 +4,19 @@ excerpt: "This report describes 'delayed transfers of care' for adults, for all 
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Adult-Social-Care-for-Welsh-Local-Authorities-5-year-trends/m-p/205238
 type: download
 publishedDateTime: 2017-07-03T04:12:00Z
-heat: 52
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNmRlMWVkMzMtOGIzMi00ODMyLTkxZmEtOTViYmMwYWYwYzBiIiwidCI6IjJmYmQ1NGQwLTc3YTgtNGQyMy1hZTUxLWRiZmY5MTA0ZDY1YyIsImMiOjh9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiNmRlMWVkMzMtOGIzMi00ODMyLTkxZmEtOTViYmMwYWYwYzBiIiwidCI6IjJmYmQ1NGQwLTc3YTgtNGQyMy1hZTUxLWRiZmY5MTA0ZDY1YyIsImMiOjh9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/931/2/Wales%20Delayed%20Transfers%20of%20Care.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -26,6 +38,6 @@ images:
     height: 759
     title: "Adult Social Care for Welsh Local Authorities - 5 ..."
 
-secured: "0melGt2pn+u3GkbPYVY2zOatTpoqw2c+9OmhDH7xEZxkiEji5Xxb1qILZV1FHSKSaWIMna0lDl5vN7dbRSqVFkTqFUltXm/VYk4YIj1RQs9IfbjDiWMwkuRCLEKUBi6L9lL9n0kfWWQzuxVs5Wdy82nVxeoOMtXZWBciY+zxZrXAhBBjbCJf0i9GZr+p6iSNLd4vwbJoZk2beAgfBines8LrY/RyNmWYf9RRbwYANVDYNqfZ4AAz17+X3fC3SQ+FS+R9MDndbAjP/pdI1r0ZTsPaGig9fz9DdzOlZTIDCux6KQZ38d6njqBLxca5iduXOS/ie0/h2kkyn9NEQHGeP9/nFVO00U1PRMdzixk/UDkpm6qQXTEuG+9EBcur5iWf;Z7M03gmYVWHnLUkyzOPqGA=="
+secured: "L3+6oQv3MPA7G1kqTXMlrSJDWuWE6wiA9Vf3EVLaAscfZuazV8DU8EakZcH5b2UCaIpFi6ahCnXiv11BDwsn0dags0lazAiDDw8AH7fdGJoDRWAGLiTp+D0MJ0b5dhCSHJZHqZod/Ly95IcU7OgczRui2c4ZGKL2NVW3lBLfusDYRBM7UyhGC0MxfqXmcFKFIuH7Sl9/H8brnaZe0jtd7SP3WMIcetsFIstzaZsL6B1p2eO70uEhyDRQZmiXXNfd7iDpOnh0kgNCTIYgWj6S0aB4/ZHeUFwGAfB76uH+dslW1zsJonJ1YL3D7cCC7Jdw47+AbJZT2CVnwKmbkGTYY+E/NgT5oTy11ymypPeYVlTCRCCpMDlNPkPrfmMqP9eopPZa/IjgS5dRYmy7NKIiumB/xdEY/zO4IFfQg34ECio=;B+PH72d0r675JWD9MxDybw=="
 ---
 

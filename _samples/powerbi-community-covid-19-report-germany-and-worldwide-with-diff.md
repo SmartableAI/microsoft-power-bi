@@ -4,7 +4,19 @@ excerpt: "Ever wondered how corona data differs among different data sources? Ye
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-Report-Germany-and-worldwide-with-different-data/m-p/1009298
 type: download
 publishedDateTime: 2020-04-06T00:08:00Z
-heat: 52
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZDFhODI3YTgtYTg2MC00MDYyLTkwNmItNzYxOTFjZGNiODBkIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiZDFhODI3YTgtYTg2MC00MDYyLTkwNmItNzYxOTFjZGNiODBkIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3686/2/COVID19-GermanyAndWorldwide.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -26,6 +38,6 @@ images:
     height: 896
     title: "#COVID-19 Report - Germany and worldwide with diff..."
 
-secured: "OzGWkBviKWQzIuRO9qeTN408p7XyGv4sea/vboCE3D1az1qhrPHtzgYp0E+iT0qwCTduXKONwJwmlDTN8jkvK618uVEiQuRYlFxcOb/l3HPJ5Ak8HhMpSzQ3OkVC2xSLGB3B7xcYBNB6zgyUbl4Hw1M7xHd7ZOudG/E2Jt06gbiL85rtTa9GuV0b5GVOcCbO0Y1QwVWQpgznjHw8XuTUK8W5t0kUeAFGTPF+CoNTP5ZRrKsHuyekzpCjXmygx5K/U2JWG37JcQOTi1A7DP++HKUetM5D9Ii5nQ6/eF4StbZUFwMeDm2A7eTIa4ZpmQ20sl4AEHlDlUbU6dbsFWx1laNZHtELbo8N0/WVkvphHj/TMfdRMq8lCWprdU0RUafp;HwyhsyAYgIIX9ujoaIuPxQ=="
+secured: "Vv+slxo0qKsNuLIRmiuhtW4RrMWrlB1Zym1vAIFUgSsAOWsGxM7faC8Jq0GwCTUmh9IJLLERhnzkq0aoP1X2/0paE5dgBqOTO9ZO/hu4JsquSvbuQp+e43/V8Z/hQX23hY8tVGmIXApiiWyAF8co17WhaNV/Lj3fH6eDNhIgs4hXzCuwAKV3ObnOn3eT05qA9oNugiNK0CABZJUUJ9ylACTnKfvGO7Pi6RIeFfu+WBiqR9ZZdufeTupRZZ1IMxvouvTWWJ2UEjBNeghpJkJnnqdbYhFTcp6yUcb4QmeDVGPS02OitVJ1vXlk9mXa6vZwHNkjjuQen/WJva/e2meyJE3BZSBpMdXOEgWaBBpQMgULudrTR7D6Wi+BUeemHs0RP5O5zymxnG4FgBXRQzBF/Q==;dSfwox8ixfqMu550bJp9Cw=="
 ---
 

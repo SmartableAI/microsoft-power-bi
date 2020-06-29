@@ -4,7 +4,19 @@ excerpt: "Daily update of COVID - 19 case information at global, states (US) and
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-Case-Information/m-p/1074210
 type: download
 publishedDateTime: 2020-05-05T17:57:00Z
-heat: 56
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOTAxMTk4ZTUtZGEzNS00MTRhLWExYzYtZTQ0YTQxNzM0YWE0IiwidCI6ImY2ZjQyNWUxLTY2YWYtNDdiOS1hOGYwLTVmYjlmYTNmNTc2YSJ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiOTAxMTk4ZTUtZGEzNS00MTRhLWExYzYtZTQ0YTQxNzM0YWE0IiwidCI6ImY2ZjQyNWUxLTY2YWYtNDdiOS1hOGYwLTVmYjlmYTNmNTc2YSJ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3900/3/covid.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 404
     title: "COVID-19 Case Information"
 
-secured: "VubK5p7s1eRrn4qGGn+6ow/TTggX0gXj7g4CrOMhXoFm/mCazYwfoOSOmahp5dr3/qMAxmLA0Xf8Z9hDWpjw2j9QY4RRfM8iWtJoBIdCzR5c42D/L61iPfSZaKwNDiSLL1H5B5p2twE0/D9Sz0X3CWtmDxA7k7pe1XY4x3IqzwQTcvyX4akyl/XwLf0VvS/CgznWR5mmTlVhWmOcbBDUsP8NQ4ycloUToUzjO9oLGpJ/0/oAimDj71ms4U2o9Ua26DqJcY41IymMPvRy0EzALG5sypt+uQk1Ua7STpeKLQughpFevADxLGA1I+EJdfRmzXxGCC+mKO99uMJEP2vviVIFNqRj3+ti7wmhRmtuDc15jqUK70n3XlGaxshb1UaY;o8YJ/NLM8fH5X5yvKuVq4w=="
+secured: "SwBnmSAPH/o3EPhN7bXMPZNom7hbUra8hteKvVPKkqfLFO8gjr2cRoT8GuFtQJBZ6hXpo9/Xsn7MoMvDipjFug6423lQHsH0vatWpmSBD6ORlOwwimdDZypjtgqRwU8y9dBO0+BFqmSg5xmrN1ME0N7PGxvyYdISy00D+p2Zph8CNmX4o007PT3vqTc5849ICH3foxJLJ/5LO+Y2q7pn41YY/bNE1LMUX+FfaaJ2O3xJ0X4TwgMzem5/3u9qBnbZZe0pxzVTyOMLkrd8AWo1FA1ijx7zfUlDosvybX2UYxu0DcSNcKkZNmPkSyFmP0PzzLCZd0zZaFXOyC+7uvf4+v6IggBAMKmpCca62Aa2t5aW9pvjp7LpwmmawwyyrvYXAHRUrrSIOxjEHFZ6NgLELw==;Ld4bBj65TwfQgpFKm4nFnw=="
 ---
 

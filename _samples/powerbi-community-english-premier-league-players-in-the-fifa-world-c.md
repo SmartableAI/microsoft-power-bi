@@ -6,6 +6,18 @@ type: download
 publishedDateTime: 2018-07-15T19:12:00Z
 heat: 50
 
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOGI5NjdiY2MtYzBhNy00MGI3LTg5NzctM2ZhMTE0NzIwNGExIiwidCI6IjIxNGMwNTM2LTljNTctNDg1ZC05YTQ1LWZlMjFlYTYyZGExYiIsImMiOjN9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiOGI5NjdiY2MtYzBhNy00MGI3LTg5NzctM2ZhMTE0NzIwNGExIiwidCI6IjIxNGMwNTM2LTljNTctNDg1ZC05YTQ1LWZlMjFlYTYyZGExYiIsImMiOjN9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2081/2/English%20Premier%20League%20Players%20in%20World%20Cup.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
+
 provider:
   name: PowerBI Community
   domain: powerbi.com
@@ -25,6 +37,6 @@ images:
     height: 778
     title: "English Premier League Players in the FIFA World C..."
 
-secured: "CjhKua7F88zSvX8G0lHaZ3KW9TcpSrGwNEz5p245evuB3teUwQFNIKAPoMU8m3nRQDJCn9FksuEds3W3Q8lcdMKXV/RW8pyhbgmRXBhnbXluKfuIw00CCAFgy5+Kjooa6v1dRhWcNqYKJ90K36Pe58U4JK4/+nquiu+qJ/YmFTT80r9mqrJlFvwgmssrdR9t5wyWAStBx5DT2Gl43B7+dcNeMQgGeRKQkWbezu9szru9sY2lYrmUN1DXnl3xJFD8QlJzjStXHVVvSXyrlb18fnLdq5jKZ1pI24ARofDXJAGdJH0LZzgb9hQWSC90MWSS/GiXY8Z7M5BNBEoPwVW3icfmPR5gzk0wiVFeRLksEOzq5auf9sX593YOIZKwK/zF;esyXGpNu92yrrFynNfNSlw=="
+secured: "4P1/MwCJUfUhXBg+FJtDJ/Q0ZIzvZxeQ9lJu8zcfoZaVZcC14PfssyV6QX1YBZasJudOdAwLA5WwUQKWJZwBku4YC4VM70f2v6Y+FMeyDu48d0OnSMHK0UYNx7ba3SaowzcwSYa0P3hPFRvjWRq3HFa5Fi5gard7ZERngxLxFj0h2HwJfyLXlUl40sz9/LW1zklInYAoGCTknBA1KYzAox07zH8hdda5ncRhMB1EeDibpSTkhdKlQXbY+aHxZeJ6Tomm9CguBDfpsa26QAZZdzwgj0SSTKVgI1XyJRQuhc/uPSeQYxRKGGQfv3s3csK5E+WIjHGJMUVsdLXMzv2ozFL/j9frju+dgeciC+vmD/+r9iXxAmAlwJe1+f/j7VqgHF9G1Ow//RvFDGCmzY5IjA==;9b03XdWmJ6l8dFSMm9id9Q=="
 ---
 

@@ -6,6 +6,18 @@ type: download
 publishedDateTime: 2018-02-15T03:44:00Z
 heat: 50
 
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMmYxZDBmOTMtNDI5Zi00ZmJlLWEzMzMtZGQyYTAwMmJjZjYyIiwidCI6ImI4NjY0M2ViLTY2ZWQtNDYzZi05ZWU2LTE3YjY5ZmQ2M2JiZiIsImMiOjh9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiMmYxZDBmOTMtNDI5Zi00ZmJlLWEzMzMtZGQyYTAwMmJjZjYyIiwidCI6ImI4NjY0M2ViLTY2ZWQtNDYzZi05ZWU2LTE3YjY5ZmQ2M2JiZiIsImMiOjh9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1633/2/Chinese%20New%20Year.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
+
 provider:
   name: PowerBI Community
   domain: powerbi.com
@@ -25,6 +37,6 @@ images:
     height: 437
     title: "Chinese Zodiac"
 
-secured: "SSmB4MAK/U2iSvNF+mR6NcmiDPV8qv0jlAVnMG/G+XwllkrJbxtQ+TgC+ulF8sqieugtu14USCH/qHY8dqwK8nEBeO+VJiVfDgeGdht5XsvDFPa/z8ZSU0wI/Tc82YlyLHqkntWz5B7sMJtcL72ZzQBaBqdwbq9zDF35cu82XEot3EYhtJEJGq3C2XFFRvGZpzbGRuXKjoVkWSvr7KHPmWvtaPKTiF6OIsSp/Rw7bLyWB8uzYPJmGzX/jqOMR87nJk0HqkPrULDL/v89yOYRsXJS773xsOaW+c6Y3h2Y+uiSh2I47Y89f41L70DCV6JFbg4Qc9wZkpH7I79qr+v5YeevZK5g3HxwNeELvRD0P/+F+krntlMqp2nwQZI+EbDM;eaMe1ILWy6YIsBGiS6/7mg=="
+secured: "WsR+6gfsqtcsASt2BhkFz/8FSfnQJyBU1E6bwaelTXq5gsAUobfX4iGQeDcFw1mjY+579gAYJILWEWz/uOwNXFEUqSc8nQmbdtTvz3o+EtCKpbXe2phcyHUXZDsLd/m/q1/qXh1/cTciZXz28mVn8KP3uZ3aZAkBfkY4SL4m6soUnDh9Zr/8wwdaH76Xa0XxqU4vUd9F+cVMj1OGWO2rS8EmUZ5H7mTtaXcIoyWv3anGiOUNaz14LHIDnmp9lsSGQetpWbm8pigQjLO9Ku2SAz3KAjndRdewyyOqio6zc4XCkkYKi4eVxLXBJusia8dATf+w+OtPqxxkmCZpFp8zhCYDc52eYcKRBy2CD2TUYFwUastddWJFDoomBqMevj2xZWLwUQjTZ8tYXLILvojS6w==;ZZXsiiNjAc3vwhc7B6Spxg=="
 ---
 

@@ -4,7 +4,19 @@ excerpt: "In this Power BI example we take a look at leveraging some of the Worl
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Analyzing-Healthcare-Open-Data-with-Power-BI/m-p/148492
 type: download
 publishedDateTime: 2017-03-24T05:51:00Z
-heat: 54
+heat: 53
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMTlhNjM4NTMtZWU2Ni00YWNlLTg5ZDItM2NiYmRhNjA2MDZjIiwidCI6ImJhMzNiNjE1LTI3MzItNGYwYi05MmU2LWE3NDZlNWNjNzBhMCIsImMiOjN9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiMTlhNjM4NTMtZWU2Ni00YWNlLTg5ZDItM2NiYmRhNjA2MDZjIiwidCI6ImJhMzNiNjE1LTI3MzItNGYwYi05MmU2LWE3NDZlNWNjNzBhMCIsImMiOjN9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/761/2/WHO_Data_BASSBA_Final.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 890
     title: "Analyzing Healthcare Open Data with Power BI"
 
-secured: "wOH4EgZV9aUa6ID//AovzqHcaV4FbsFyKwFQOm7XvEWkHL9k0M8lgvMmzJWnldtVpJG1uWUQzmv8pBZrAc5rsqBIPKNYceucZ05xcS1KUOe7er0cGemUMRg1KLZ6wtczCDkfjHLRWQLWQnW6Kq7vAgxsjp4jldIQ2DrRjJE3p3IqxKLmFScQvrxriEwnNsL2P/+2fiiOK3X7giz7aDYGyaJxhdW1OqLKNkOu+4RiJDHULx7Jv1aJgVhNgemK/NFczSjouvw5exYINI6Y9L+eATpaJ4wNp2detATcb4t4I3jZGEgrDZQL29EkbyHJjg2/LJm5lvAYlJt9B1mRiXmfeQ1d3XFswHLoldxGeo89Vw6CxxD2InOBhK058n9zwyav;NA6TF/rAKEtQSZDUbgHnOw=="
+secured: "2UqL4pWkDKHWTs89p1z07+bMXs4tRU9tcpU37uCJVuMfUzr5XtBBujj9HQFUnAxSPokMC8qzsJW5FXgZGHqcNuVABMj49duF74EfR/ej0QBSn3oeUsZoPLoak4g6qW+V3DRQMxmZc2LnY5TfnRa/KEG4a77AntwAxl/Sv1udsqG3q2q6Cge/Z9BOz8rHNSMJAEE6KalifYVFUi160Q6c7WB9qn2IlkeWsPuPkTUHt6dF8jyExA8//9wkqC0AlsY4pFbFV2hH2n0BcNDkHl2bOSeV8y7wZdVkjPRNlsLX/iqcSfRb+fik9U6/3kW5GnNx7YyS0YQGfyH+EDBq89PdN2h98wQfMQ9w6Q1iRQv3s5YSq7lrsfDROA2xSYBNGZH3Z6LfliOcPVjaisn/WYhk74G9VO2JQZikVsWRTHvTA2g=;9WYkaN9zL05NPNQg/U6DYg=="
 ---
 

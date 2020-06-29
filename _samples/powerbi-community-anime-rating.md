@@ -6,6 +6,18 @@ type: download
 publishedDateTime: 2017-09-14T14:12:00Z
 heat: 51
 
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiODg5ODc1YmUtYzM1ZC00MGZkLTlmYWEtZmJmMTc2OGY0OWMxIiwidCI6IjAyMTJmZDNkLWQ1ZGYtNGVkNy05NzYyLTQ5ZGRmZDQ1ZGM1MCIsImMiOjZ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiODg5ODc1YmUtYzM1ZC00MGZkLTlmYWEtZmJmMTc2OGY0OWMxIiwidCI6IjAyMTJmZDNkLWQ1ZGYtNGVkNy05NzYyLTQ5ZGRmZDQ1ZGM1MCIsImMiOjZ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1138/2/AnimeBasic.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
+
 provider:
   name: PowerBI Community
   domain: powerbi.com
@@ -25,6 +37,6 @@ images:
     height: 827
     title: "Anime Rating"
 
-secured: "ki5VuImFkfhqIaGgkH1dScqMIjgwZNb3R1GReEW7rK52W+/67p2ETHq0gUY6zRMjxWXa460V9TE98MS3Goo/1mUSmLUz38MSOMN1mulmk2sqfbm0oUL9oKJSPMo9+o0OX8ex1Uf/qH8NrYG/Xqgvd+Y4KrZD29ma1KQzVN3qZr+WpgTNcC/zTBrZIsrss+EYbnb+8Ajht4sbS4bWB01jeObkRLjCp1Vgl7Mstvp/FzmrMoUDuZ+vPp6lXMnsjQY/HlhNtILlUO2KNRQtT61xbVpLfqbFq923g+BYM4/qUJoIMaTaXcoTnaCxyyb9vbSFrHgTykz+UR4h+7NuX9k8n73G5ZApFM/6H8UD67rYNNljCBKMkqarcvQEzHaeJrgg;uCI2CJNfjRrJUUdWW19w1Q=="
+secured: "ZPAdQZZxQgs0yT8PPaOg9objeZvQcKJnmseKUsNkngKX9G0PxCxqPYRO6OCoSeJo9kDYDK91TwmMIDmIZeXsqefRHWfI3SgPkdBRDYlm51QC4D4HXzZ4lscTxPPXOqM/O0bxJFjvt9p3sgEV26y3bw6EOtlMZ7Nuh4qI2jG3Cfej2F9vBphv9t8VsxWeJlZsqDquvjM1qm/fa3bMVE4yWmniXsnjYgywLPJdZ+akzWqJOQ8NpjBKidfXUKfAh2AaVWhU1Y2bX0JgmhYtO1kyj7A7Ec11rfxCgobP/xBeS9z9VGMPQ/nexBbksuFu4/cd+KwEC1pMgD8QMPDGrH5mEUw+jJ7wQhKeZzJRriFPQJ0NUvA4kd9I2U3FtCDGC4oLvn3t0kvRldqpa83NAk6Zq6D7AozAcs4xgoUvJAIdPxg=;w2LwEcOR51klGgc2DFGm0Q=="
 ---
 

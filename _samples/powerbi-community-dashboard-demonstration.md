@@ -6,6 +6,18 @@ type: download
 publishedDateTime: 2017-08-17T03:32:00Z
 heat: 50
 
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYmMzMDcyM2YtMmFjNC00ZWVmLWE0NGEtOTdhNTI3ZGJiMmVmIiwidCI6IjVkOGM2MGQxLTk4YzQtNDg5Yy1iM2RhLTRkMDczYmMwYzRhMyIsImMiOjl9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiYmMzMDcyM2YtMmFjNC00ZWVmLWE0NGEtOTdhNTI3ZGJiMmVmIiwidCI6IjVkOGM2MGQxLTk4YzQtNDg5Yy1iM2RhLTRkMDczYmMwYzRhMyIsImMiOjl9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1018/2/Demonstration.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
+
 provider:
   name: PowerBI Community
   domain: powerbi.com
@@ -25,6 +37,6 @@ images:
     height: 450
     title: "Dashboard Demonstration"
 
-secured: "0xsqW/jTiKff1qMawITH/+mfSN8BOj5iie0FFvhpofGjxVP5jMikbUlfTtEZtYaFNbxdzLnFdwUaKbTCbXAUeYKtev5NHvEiIIxdZqc47RfvMdXxeekDU6+xR6s+JVYSaUwlDplO0q4Ewi3AeCShUx4UfAphRcKJNonpNnSQdhvRArlDHvlyaxd39nm1mYGPTBwks5mEHe7Xf+zBVhJzhXUIfqsuQa3qg0aUeE82IvgquvW0G4KPtwmYFrmacmHlv3t+CT1bbEgtAHtXOOSfnv8drqyA9TZ84kTQeagUdkGY7B4vMNZyu1mQfUDa+AAsEygCGGm01TwrhvZLajTlLFtayyGcKwweSEn1ylXMRhA9bdiKyjnJYOMExri/rA8o;EmK76TJWEntoKfK/oxYwwA=="
+secured: "UgxgXWbZuDPd2Vbp15B+WljZl9hzXUUmJ6jlF8V1ioCki36yRVyzvoww+6L18L+5EQ3FmabWhSxw4LCMjinpdUO3Sy8VL+YX9oMUAuU/WeeCxn5RZ1b1mtVSI0ypv34iooyHywlJVJVNZ+j9YvSq/qOZ///GmH7c3efFm1RBeosHNPc1s55wR+kAwNNwxyQPAlA5mI7ExySnmVMYPuyd+CKcIGvAwib/UcsUlm0JXAMAx7BIbKxkW/O+t2hnoEHnlAa3Uul7nWVetSQbu/AofX303zgcUvpCRIU7vecmlmC1yXul1QOfrXgEzVEv7qSszUBBBLqQ0GL3muIIJG6OcShQvvAgy5ww7GAj6iQYRvXJE6rf8G0FfJZYCET3QOVn69+pukDNDDqE5UpotpMjVg==;2MyI2vsF79MHidIUVJx0tw=="
 ---
 

@@ -6,6 +6,18 @@ type: download
 publishedDateTime: 2018-05-15T10:12:00Z
 heat: 50
 
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMmZkZjhiNTYtMzZkYi00ODk3LWFmMjAtMzhhNjQzOGU3M2IyIiwidCI6ImYzN2YxMjc3LTJiZTEtNDdjZi1hNGJmLTQ0MjJiMWM4YTU0MiIsImMiOjl9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiMmZkZjhiNTYtMzZkYi00ODk3LWFmMjAtMzhhNjQzOGU3M2IyIiwidCI6ImYzN2YxMjc3LTJiZTEtNDdjZi1hNGJmLTQ0MjJiMWM4YTU0MiIsImMiOjl9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1895/2/ACG_InterGrowth_2017_PowerBI.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
+
 provider:
   name: PowerBI Community
   domain: powerbi.com
@@ -25,6 +37,6 @@ images:
     height: 870
     title: "What's the Gender Gap in M&amp;A"
 
-secured: "uenfa3y9fZNHDp2agso14Xvi/bxcNusP/a8BUG7PAG3FeeJ8xA+F5SmBdIRg0L30xKBPGjcWe3DjzabA8VRsGAPO8EyfLA7w3e4WaaHsyKtDN1tkjDU6s4yZm3Slf4ehkCpHqrzW1CAahnbpfOOs1GgCqO791mlpD0ycJ0U4MuXi002KnMmJi9ZBMBnwdCFBLtq6GLc3rbdpnaLZyn4IdjzQbFz4kC/JzpWN+BxNesFcQXwPe2etB4e2pMN2wEPAJOIr9HqBc0a+6v08K8bM7ZsAurN1yvn0usz7VHnPNyvmUVWuri9GcFg0EpzbW0A4xAsCAM0JN4BxIgN2eW3Cl9KGQMINS0x3wWQ7Ir/rVcWUab3qHrc6yb8IGNT70+Bi;zoV+tzNKW2JQHrtRrMg1tA=="
+secured: "I60RK/zD4tFo5fF6Qc1X4hmEkYW20cDImaMS1Eq8Isr0q6LfOexTBeqZoH4Cv/zpCSnNVMG3rq1A7xjHSaNAkXpdAEJpTXNewBI8PoheEi5nx6crsFGoA3ohKWhied0cvAkv3sX3pHzkCnOcp0YKufG4hAGnekM7XWtzj397GARPT4HHeAuUHjEKoBif5sgPfPTfrI2ffQmqcU5nfUYc0mXXCbHPbLLsCURBwDng4l8PDCRuwglZwzZb++yLqM849u1CVSgp3xWciZPHF96bh+SEYKBJnGRgGWEIhwgJkF1AD6N8Tka6q+hMHzKnZK34T28lmaOJ6sLIwWDgjynu9CV54fnWP2+4LwyxQqVNpxjK88PyVTm8tT1qcWlhtEVtXQaR9qNpWOPw9y83FkZylA==;wuC04+HDltyXY33olWVjcw=="
 ---
 

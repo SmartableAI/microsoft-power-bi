@@ -4,7 +4,19 @@ excerpt: "Sumission to the Power BI London User Group 2019 Example using Python 
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/The-Impact-of-Demographics-on-Driving-Licences/m-p/792359
 type: download
 publishedDateTime: 2019-09-14T03:26:00Z
-heat: 51
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYzMwZWVkOWEtYjlhNi00YzI2LWExODctNWViN2U5Njg0NjYxIiwidCI6IjRlMWY1ZGU4LTg4NWQtNGY2Yy1iMDQwLWYxNDFhZTFmYzQ5OSIsImMiOjZ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiYzMwZWVkOWEtYjlhNi00YzI2LWExODctNWViN2U5Njg0NjYxIiwidCI6IjRlMWY1ZGU4LTg4NWQtNGY2Yy1iMDQwLWYxNDFhZTFmYzQ5OSIsImMiOjZ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2992/2/The%20Impact%20of%20Demographics%20on%20Driving%20Licences.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 231
     title: "The Impact of Demographics on Driving Licences"
 
-secured: "oeFGRAycDW4a0vY6rG+zcxtIG6gjDu6GJP3HeI4cy5W7Nw8fK9HOyhrvRDpgWPwLYk5hND0r5F/Kg5hwJXozCXJKgIM45YNrHNEIDmZh5NihrbQMZU2k8jNHdlikGTmCBQzzo4VA+3YWHhCEdBzZ33B70U32NIp8u9Phd/AlON7BTaTLC5dbUvZTXRVDmoFOIMcaZc3QGMcz1UkN/t09RrCbsidVHuD+1dIy0MdOvINYYg8gj8Wx2tSX1Vx68wwiHja8tEIgXMI4ePFuNUOy0/PFQqB603vorkbwBgA+QgDe8+qSk8l6OV1RDk/uscSXwiTldhI7gfOKAeU+oY1W3Uxd0y1K/GrzPQVP89btCcfUn+wReQXsd33uO8X4rc3P;QeSsewNPK2Y2a4HKJyf9aA=="
+secured: "Zk/U/1Fm1GcJJ6NDo38Y1+GXqsdCeFSfY4j5uB2c2tZcQuR1/Nn/JetRlsCm/ZjiNoHaAb1StKOFKHDdnoXt8F+R52ZpCr6nYwgfGne1+8+YM4q25PgbbHbWuRWye7M+IFi+9mn1fZIjoCE8NRIlbUEAP4ojqfTSC2Y4nGjvVZ3FS/2rlEcKv7Ps3bzJJzGnKVtaxSdjSuzfGcFlc+l4NkV0kTdXWRnzJqpHYZJ3RDHGcB4olrpC+t6hm4V06kZgnbscKxo+bRRatccsVBCNdnkppBMszjVzyQWpdS85WKYNW8U9s2+mYrzqUFS+oivMrigSVKayIPyLnxsgRjpD6zWziSrO6FexYA08EdtIr9hElZrPqyK23FGDo0aVlVKp2C71TwDxolI3ScE8ss8rbQ==;UM9dXM6GVZOHBFOoVjZNHA=="
 ---
 

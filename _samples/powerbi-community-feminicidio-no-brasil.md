@@ -4,7 +4,19 @@ excerpt: "Baseado nas pesquisas: https://artigo19.org/wp-content/blogs.dir/24/fi
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Feminic%C3%ADdio-no-Brasil/m-p/683885
 type: download
 publishedDateTime: 2019-05-04T18:12:00Z
-heat: 50
+heat: 133
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjBkYjdmOTgtNDcxNC00ZDFjLWI0MTgtZjA4YjI2NTQzNzQyIiwidCI6IjZlNjhlNmE2LTRkNmItNDUwNS05NjIyLWZkZGFmOGNmYzc1NSIsImMiOjR9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiNjBkYjdmOTgtNDcxNC00ZDFjLWI0MTgtZjA4YjI2NTQzNzQyIiwidCI6IjZlNjhlNmE2LTRkNmItNDUwNS05NjIyLWZkZGFmOGNmYzc1NSIsImMiOjR9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2620/2/Feminicidio%20no%20Brasil%20III.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -27,6 +39,6 @@ images:
     height: 505
     title: "Feminicídio no Brasil"
 
-secured: "lUPG0PVd/1Nr5xArd0NDxfddZHVUH1ZXRzjLxLpxAOVB49tj78yMV98ustKIQYHwAJOGB0RWPaOq3xlrWjxYchw/bIq1Em8jZcV1Fk0D0bsWolmsunhpAVWRKcet14IdpI2Px62b8w1Au0TsKfl2Tx4EyJeVAd6/yEMYav3QlN1AKmDSsmc1j7bxqbszvF5Dir6FBkQU+vCRTR9RMNg1z4pyhvM2Na46Be8WYhiMG9lAPdSI75JEIYc2rUVtnLF6pHpN3Xgl+eSKEviw3yoU4ry91pn2ZYqwlVra3bDt6HGhbBg/obMYHUcWzI89eUd/Ohh0F9qI1d+Mw/m8WFboMwKatfrRIUezptwRMxzXnnQxjIpVeUw9EvrtoZSyuXDI;DSHD403PVjxipAlFIeHnDw=="
+secured: "6bYr26kc/JXZ8+jaFkcL6OlmTK+AhXLuqA/KYIPRAgrTxiIjY+f1aFY0ZYMJ2CeY8Kwc+omofSnrLSxT6P5MpVOLLSain39E4lCfTMQNQFrivPTOHDNJphY0gEf1zSRotsjNVSa4FJz6kIGgvUL5u5OBdqTQOvUWdq6nA+rSeZ8ghhF1IDB9Y4zNG5/Aa8dGnGr1IA9ssc52RtZyQoQZzf3FP/VO70AKm4nAzyzVWpcUtVD8BFvZ6140AD9AxOvXLLiPZbbYPRK2k5rRq32HievRDxZxxcB293/gjsbBydhO52VuuR/ybROOD8DViA8nGHq+K03+jfxSMDDqXIS1QRHwxVZQRNTAKiGdvVmW18vwO/bZkjBV6LjngCxpCrZaTZjLVji0I7qRkfbWap/9Yg==;sPTK0iReHZ4X495tQZCGdw=="
 ---
 

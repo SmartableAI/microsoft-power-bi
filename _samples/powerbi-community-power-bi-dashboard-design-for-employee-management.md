@@ -4,7 +4,19 @@ excerpt: "Data visualization is an important part of analytics and making these 
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Power-BI-Dashboard-design-for-employee-management/m-p/1117324
 type: download
 publishedDateTime: 2020-05-25T01:11:00Z
-heat: 59
+heat: 54
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMTE1MWVlMmYtODdlZC00ZGY5LWIwNzktODJhMDU4MTNjZGRmIiwidCI6ImNiMWMyNWNiLTlkZWYtNGY0My04MThlLWQ1NmMyNjMzNTk1NSJ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiMTE1MWVlMmYtODdlZC00ZGY5LWIwNzktODJhMDU4MTNjZGRmIiwidCI6ImNiMWMyNWNiLTlkZWYtNGY0My04MThlLWQ1NmMyNjMzNTk1NSJ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3995/2/Head%20Count%20New.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 800
     title: "Power BI Dashboard design for employee management"
 
-secured: "Od3QnihoML6p97psWeOuA4jHfiGu0bHKPOj5oWFvRmV4oysBEuwTotYbBWiBqF5sxzkvapM8rCEupVQQi8hivxqnN+SjESuM0AN6PuAETFtDOy/i5t57A46UG2/9oCGocGY9giVx9sBPiP+bphXpIEPIq2CKIiCtsPJ7PED8AG+uc/uDQXWSyy1936Z4Q18Ljk/T8SB4YE0k3OsQiNq1QCzQR/WdkdWeZhEJU2m6K8XIBjzhoIWovUJgCVZ95hWupybi2Fp8DZVSh6OnI5XyHm26c3OnyI6DuVERVi5Qb1CG/cM9ubQcKh+RkCGvRlW/bfl6265KerKvibaHLIKmm9ihpgJQrqrBqJEWIkl9cS5GQuskZxYvKlPzpvy5sdZ+;0mGdqRmtqEIt/BWaQNELwA=="
+secured: "JUlq7a5amz31wIKEjUHN5cpwHcPfWh+gLr25+KeU4WRKuONGMu8BCCLZkt1gcF0qCqqKA49wTMPXauqcpYkQoos2BCVWArjC/zYiuQGxe0rvvaoKmdQV+wa90NJI/4Zu8FMT/PNJLw3ljy4lUpv0NOp/o3qBeRq/CwlqATIA3QmBi+wjpG07poYc+M0/3Z/afsnIy5goKU21FTirZ9t8FoqhUcE/VZi8up10aUmEaMWzMTctNHTlZBitpXfSmk/fC26aStf5FD5hpv0yYF21H5cbPO8Mqj+gdwHEAJAtH+YoDeBYNmcEKNDpGH2iyepKN39QQDofkTMeP9BGsrz4e6BzAmsvxHGlv9r8+6kw76ygYUp1jym0QUmZMZ03XP/kMRz9kTcgV0Q8QwbL70qzJw==;WlSBswRk/sYM9E2h1mLJ3A=="
 ---
 

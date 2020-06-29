@@ -4,7 +4,19 @@ excerpt: "TITANIC FACTS eyJrIjoiZGUxNWQ0N2EtMzJkNS00OTQ2LWJmMTctMzA2ZjU1MDE3M2Vl
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/TITANIC-FACTS/m-p/780656
 type: download
 publishedDateTime: 2019-08-31T06:46:00Z
-heat: 51
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZGUxNWQ0N2EtMzJkNS00OTQ2LWJmMTctMzA2ZjU1MDE3M2VlIiwidCI6IjUxZGIwN2I1LWIzOWYtNDkzNy05NGFkLWUwOWFhMTE2NTA4ZCJ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiZGUxNWQ0N2EtMzJkNS00OTQ2LWJmMTctMzA2ZjU1MDE3M2VlIiwidCI6IjUxZGIwN2I1LWIzOWYtNDkzNy05NGFkLWUwOWFhMTE2NTA4ZCJ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2901/2/TITANIC_FACTS.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 812
     title: "TITANIC FACTS"
 
-secured: "cNcyjYytSu05Wv573zS/W+zWIUD5i0Wk+07cUR7bNjewAl3tFCex1vchI43X4b/l0dIV/IfWYtIdI89vMUNTsNH6vUhH0LfS0FyusO2ElVCc96Njuv0y01JIblsuB8md1UMjfki3ki7JZQUlbs4I0T62yqueG8RFZo/35A590cuGIWCeQYcT5ngdHXHr1jEVt5vKLR4YAP6xmkwBf0Kq2zzb7mxSZELxlk3SogFyAz7CvADOS22GQ6Ki3M0xnJJEwfVDsK/1xb/k1u7p9taPtsOgprm4QSu0UdPhlsJSYdv/E5eHDaMCMTtuIYr/eLFnMZn7BxZxu9SN/V8kS6pqJKDMmfhVH4ZPmNLw/7Qf/g3aXsm25QVjF5XNv5XAkvYq;JhDxP0QA+3AivItAvMkxiA=="
+secured: "LSQHVxGeIT+VVm8WioNyvBkQmSExXN//y/GHRWvGKNqxmJ1tmxCg6yRxAFi3YeywQ7N0i4Zdc6dSLzHSzhTsFfp7rQK8YBNQf526lPGK/1f5C8fVQ+1eXhsASmw84ipdcdesoMGi5myEFoiogUq7/mAoOAO4qrOQ+8MBN5PBUZccBJ0uxzO9NKjIxJZZXEBnp0fZepfS9ZA7EwUpf6dct/jmUxC5wpGGPx9VJMneKfBJARNCXeb6vSvyWVLmSgnt8k7wA07HnmRm0F84nuUiqV3kF1SCzWJlOSPWt1ngJul91SgKh+QpvzIJxNKznQQTt7aObGGvg3a1T1t/sFSnR2iF3QVQYp3bbzERJK5eb7tGY5tjy5woE/y4T4hIn+NPtfIXGynhZGSs1xfzcsbTbA==;QLnwq9ouJblvd4hWz2VxzA=="
 ---
 

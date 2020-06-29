@@ -6,6 +6,18 @@ type: download
 publishedDateTime: 2017-02-09T13:22:00Z
 heat: 50
 
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZWIwOWNhZjEtYzZiYS00OWE0LTliMDEtNThlNGY4ZmQyNGUwIiwidCI6IjNkODE4OGM4LTc3NTgtNDYzYy1iYjNmLTBlMTYwZGUzMzYwZiIsImMiOjN9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiZWIwOWNhZjEtYzZiYS00OWE0LTliMDEtNThlNGY4ZmQyNGUwIiwidCI6IjNkODE4OGM4LTc3NTgtNDYzYy1iYjNmLTBlMTYwZGUzMzYwZiIsImMiOjN9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/621/2/GeekWireAmazonNumbersFinal.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
+
 provider:
   name: PowerBI Community
   domain: powerbi.com
@@ -26,6 +38,6 @@ images:
     height: 425
     title: "GeekWire Data Visualization About Amazon Growth"
 
-secured: "7zbgUW8qefJOAh3wr5/SzVc9UtwjXgn4ObTFqtC20o552wmICX+VH/gBHwC9Imz5itkxfuMSJj8mOxs36GdQOFN8BGobvcUseATl1I3rZDQxBzePyIDAuAJTLDuHxfjUUoNWfl5irYTHORPQ1jLGKFVPr/TAdrpeoQjuhj3z3FGpBPWOKTH9LrS1uIalrt3SFy4Nq+F7wUA5Bs512+achNTXXH1pEdQyxb0axcMeWj0RJKAyhfKl97A1cSUngw2sgYSQAN9pG+A47wRE6fVVzCuT0sgX5CjqxAlrNgO6oYJxDAwvq5nyQi+oz0v67E0CNqfAmtvRpcufNnXN9euew7vxr8qNYZc9VR2fVygUx4o44NFzPmsbKqLtd8Jxlctd;LPMYW4GxoIVdXOJ/TSdd+A=="
+secured: "KkGRaaoC+8d1QayP+kJIQO1suh79d4IcjPRiLV1Dt+urmdmUCtidEV2tUZAfjyXDofYDSJFD6XXyR8lHy4LJS/t2vHwU5cckvXbi1+S5wbcXerOkxAjmvvS/96k5KJS9Ur1PadjbZg6WYCKrSyntiOM3TsrVeK0L2mUZH1/hnZM+9ALulC7m43Mu0OG/eDdTfYDM0gGzeInip1Bb9hbcgvcVZn9LCTx/FqPsUNV0X47GBBVF1wbKLLjeRLknJGhLt4C5lIcV7JmRgEyr1dIUULvq8bCBoyBmrBz80L1oZTex8kel7GOg/VlZKDTVXXxXO8a3toPW8oqeTFHPcI4vP891VgLK9tbNc1ECCouN9kjFpS2epCH6c1n85yjTtIvhe7A1uHHoc7yqWAJWNiXymA==;TymLSFtuiS1Uw+CcLHoK7Q=="
 ---
 

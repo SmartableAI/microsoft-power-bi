@@ -6,6 +6,18 @@ type: download
 publishedDateTime: 2018-02-01T03:43:00Z
 heat: 51
 
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYmI4OWM0NWQtODI1ZS00ZWY2LTgwZTUtMTk1NDFkMTUzNDgzIiwidCI6ImIwNzA0M2Y4LWRkNGUtNGQzMC04NDBiLTlkOTJkYTEzZjlhZSIsImMiOjh9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiYmI4OWM0NWQtODI1ZS00ZWY2LTgwZTUtMTk1NDFkMTUzNDgzIiwidCI6ImIwNzA0M2Y4LWRkNGUtNGQzMC04NDBiLTlkOTJkYTEzZjlhZSIsImMiOjh9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1588/2/iGlobeCRMOffice365.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
+
 provider:
   name: PowerBI Community
   domain: powerbi.com
@@ -25,6 +37,6 @@ images:
     height: 991
     title: "iGlobe CRM Office 365 Power BI Opportunity report ..."
 
-secured: "KfdXmRYyGoDvcGKZIlCHwr+/fdSbekfi4ibgYYASUwINHpBPMOy6jsdjb0s9rV5blc9OPByUi+7Wr99YVk7kRX7mjgBLLKGL/aCUwJuQWQ3ACgvnCz4P5k9oZdTGVg++sU+QdvgwfkNfiOsasRj/oRdtHxreF/ZGIyvwpD47yrQgz5EM0OKoj6vp+HEBX6TCasnIVmZ9gRpnjzyBvGBnKoFIJvE7nGn+sSrg3y9BNynZ1dkXWOOlHBpvwhOaIgBc68ItOdhfzKxZXdF2bJ6W6KUhrlKoXG2MCuCHnSwuYP+edPczk5fWRLcXCElxfW+Y69+40qso0dzd4Nyq1Z20qIN0jmkWW6G8EMe4BRlk15LiTR6A5cCUOaLSpXtRC1ye;e2UX95n2MQ7bGGDBKv0cqQ=="
+secured: "bHSVwoza8Jj9NAUNWeh+Ms03ATsvnto5s2t+W8IKsf3oXe/XzFRBfM05NbVRYhPRnQrSuN2QDlIrJBrQJ3hLcPE2YqHca2CD3LRkfrRpcIIjmzk4xhBxsvMwMAbh9UozP4XB8Snnc9T6HnGyftook71q7JaXuCLZFScEp5qeEgMQzgzXy39VU39/7oxI11XnySsKk/lEs0g2rrxs/QSDvBW+AWgH2uUGlUaFujQmxJL8t02F+/rGzGV6HtdJSVspT9pdFbCA+VnKBVctkUcLb+ZSdjWm3aUEN9J519yzdpd976mCaYhGvBIPwtBeISwK1mCAgPTpHnEZlRAhaEZ0hj1cmZIb/7VUSn0Hmmay3Dk3FTcMuinluIRhwG0koaF2UAVBvxaNw31f4D5MGOUr4g==;kXq1kV9/hO2MYcM8lE/wfw=="
 ---
 

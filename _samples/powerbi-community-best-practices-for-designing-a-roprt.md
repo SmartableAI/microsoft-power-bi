@@ -4,7 +4,19 @@ excerpt: "This report was created with a dataset from #MakeoverMonday to show th
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Best-Practices-for-Designing-a-Roprt/m-p/441350
 type: download
 publishedDateTime: 2018-06-16T14:31:00Z
-heat: 54
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiM2FlYTcyZjUtMTU3Zi00YmVkLWFjMzUtMDU0MWY3NzNkYjI1IiwidCI6IjI1YTcyNjUyLWQ5ZDEtNGZiZC05NTQ0LTBhOGU1Yjc0MmM4MiIsImMiOjR9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiM2FlYTcyZjUtMTU3Zi00YmVkLWFjMzUtMDU0MWY3NzNkYjI1IiwidCI6IjI1YTcyNjUyLWQ5ZDEtNGZiZC05NTQ0LTBhOGU1Yjc0MmM4MiIsImMiOjR9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2008/2/Wine%20production.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 454
     title: "Best Practices for Designing a Roprt"
 
-secured: "+gyKBqXsQ/WiKete4GYOFBqUUhfNGSmsf82H5AvyfZdWFvUMiiRCwofE6IHXen/Cobgd7GXFd0ja1EGZrvbZeQTQnV4uZLkdHP0JcoKzxp/mrHQqwT+k9FM/807sdknzvJpcIm+6Rw40wbEkHMHIt2jFDr7vMJpyReP8OtnFHYZ1AGPOsM/rmSAz66S90nz41zCp41PCQjEfDYbydJdHjZch8crLnhZ1NfSpJQ55TJbSDGShszgVPLOIK/ASfvHjBAtHFkDP2BikxplOqf2NR9Z0lqQ7E3IzQzCmfkLRmwGsBKizZ3ODrHVJNez2Sv6BdkqLY101olR+WVmiNslS6+qrBkNLX9F628fd9wWpA3luv7byZGwgtTHCDeRxty6m;chExNgGno6LvrxElthDs7A=="
+secured: "T2ldW0kCRdExt8W2tedvz3v2cWeFJsz9nUr+HJ3OlJQJiHZsPPWfBZXTzNNvQEB6Xq1GvoLys7BU3wEGwEn3jSVYYXe3VVin8bUW2cYpUh4T1jmKUcswgLav7CmzCfAgWP6y41cBq7SkHnZZLu8U1nVlyJCy2aEMl5PdubaCeLdsUBf+8Pdo8qnkjgDzH2GqYLYMpG3rimKQH50bWgCS1bgF9tgjXhGx9fQmQ9tNTlspA/8CJN1XKb2/dJmDc3gxeFrnHXufhQh5NiWnKNU7ooj7pk1u3uudBfWaUnsXaOmSxbSjnCXWIAO/UnuJr0rkyKqCYDsLpYemtfcby5116FVn/3asdzqTPGxwZjWW5yTbAtcHLQY5OhpJ4vE+jycTloqqJRQZjVBUNjsKmI1kFGD2h8SGMGB4zr8wXFZZkR4=;N9BOtiTl9eO8Mf/f6JLYxA=="
 ---
 

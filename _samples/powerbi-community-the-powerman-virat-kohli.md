@@ -6,6 +6,18 @@ type: download
 publishedDateTime: 2018-08-02T05:48:00Z
 heat: 50
 
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNzQyOTczOWQtMzQwYi00YTBlLTgwZDktYTczODhiOTgxNGM0IiwidCI6IjY4YmFlMDQ4LWMzMTAtNGVjMi05MzRmLWNiYzI1ODhmMzBmZSIsImMiOjl9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiNzQyOTczOWQtMzQwYi00YTBlLTgwZDktYTczODhiOTgxNGM0IiwidCI6IjY4YmFlMDQ4LWMzMTAtNGVjMi05MzRmLWNiYzI1ODhmMzBmZSIsImMiOjl9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2119/2/VK.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
+
 provider:
   name: PowerBI Community
   domain: powerbi.com
@@ -25,6 +37,6 @@ images:
     height: 529
     title: "The Powerman (Virat Kohli)"
 
-secured: "r5Go4xaxA86/RgKZ5VSNHzbWHmCZmqJQCBr3eiwpNKbJwp2B1b/hVl/myJbuyXJ/e4Fea9irRs3EEhNQyDb15nGHga6OwY7z996N12jU90o4Y8xdwiE5zcQ8DycXhKKOFc6wuPx9wbguF9GzhwafR0r4rYHY8Fajs9xKdjZW+UKzvH+kYizs7pzflXlB+X2XiQ0w4GXJTE0+vzWhoYrVZt8hHfty+oV99s2mrWXP02l3ShD10K4gYo+5aJThy4hPykMxP1PCphQ7SeHjvvCvCkz8vVyQEFYrVQgtgAblEX5NF2ldZB84P2D2p019iCKISpG8s4LcBH3B1GfrshxZh+RPJtdjquso/jAy2AOYMsNUI+3JIGBywdaLJ9iSc6Wu;mlC/dYI2Ju+4TT2S6W1WtA=="
+secured: "8yCF59Mkj3RLaOOuWDEVMfAasTAWd11Tahnx2vbi1cBRf5l5B8j1aDGyyDiSBaifJAsJnnMj+iwfscVST5EQy0gDSI3YlnfSw90IbECPLM4fGB1n+c7EaCDNhBB4gSzHQhdi0yTRoRkRzK6pXZQP9mx7pYSA0FRyTmWVpoZuka2Txtb0QRbqQtJGrmff0HLYpsBL8Wq8JO1umVKLfFs0LnsyiSp76AWfagJNdzs+HPqBZtl7AWOoewUbraO3VyrRy/yO/UV5k+ntZyE5s0bAiEvGckT8kSAl3z1AjT3pWw6e7pspiFcdu5KEeSB+vek8gXxFx1X1/F0/kuQv3H6Clh4pORAnKdnE09Ydl0y2Ej4M27VCTsi5RaH8mFudO7uNPlFR/iPl0JRwzXPWoT8KRQ==;Azo+8DRAMG5aVuODZXemSw=="
 ---
 

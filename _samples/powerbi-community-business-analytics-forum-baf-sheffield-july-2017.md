@@ -6,6 +6,18 @@ type: download
 publishedDateTime: 2019-07-16T03:36:00Z
 heat: 51
 
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjg0YTAxMWUtNTkwZS00ZjAwLWExN2EtZDcxNTU5ODQ2NDdkIiwidCI6ImU4NDg4MGYxLTU4NTctNDFkMC05NWJkLTNmMWJiMGRiMDQ1NSIsImMiOjh9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiNjg0YTAxMWUtNTkwZS00ZjAwLWExN2EtZDcxNTU5ODQ2NDdkIiwidCI6ImU4NDg4MGYxLTU4NTctNDFkMC05NWJkLTNmMWJiMGRiMDQ1NSIsImMiOjh9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2768/2/BAF3%20Forum.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
+
 provider:
   name: PowerBI Community
   domain: powerbi.com
@@ -27,6 +39,6 @@ images:
     height: 1604
     title: "Business Analytics Forum #BAF Sheffield July 2017"
 
-secured: "Ni8PJSXIHBUppV5bF6zxEbup+xVV2TCYdJEaPZ7fZzrJGJ2wmWjj6y52c6YhDta89nR7Gq6IGbGYBhk0IBSH9gLFNzPrUXuAAR+yr2zPBDxWQIq3WkQDWd9IYX3wlniUJNHfXNOJbqGdcbBjLKf+L4pis9QU0XlKBFAsGmWHQMom8ShrkQ85C43lfloh9xAV7swRH9mFNdmxnq8v3XLLyKHJvFWQAizoOD/Ff5LsoYa0wxmZ/zgLscj2+5sJYSy6JaPi6d0Yp0MmWxnHEEBoWY/qW/g0TcG+sAOqxVKdoxGl16RAmg4mjV5lHBm0mMLp2GzaoN9mCxpDWhouOeY88lkrOKy329Y/OaqPbsngwmqkWkbnlr5Scvc4iV27J11s;+r3nTVHBleDR7iwbLk1rOQ=="
+secured: "Q+jGFPuSq4LFXqzpg+mST9d7SPwdHF/i887OR96TfJCExxC2eYwijMNO4CigMorYdvTlvaS8gI+1s41Mtd7mIiutMRvlMPQnfwwTeBsoGd4v4VPkrY5xY4ti6V7f4H3CRarbMNpo7VSoy6otm/tgp1cIErT0feOzHxEX9TD7o/PRhZCOcNXMsnJlu2uo/t6tbp0G2zcj4YJlw07rBirBJ/1LdjgCGclCm5T90OEAfpednaWDL6PoqfguM60XN0Frd0A+rf64lesv7DOZutEWa/Da2426gHN1/Uq5nw3Hnl0OHQ5EKMoIRe7HUftgRyWh9DF3ed2mKHwFmCf8sR3KFrgMbXa43BelL9cHYw5yzYfkU5X4gycnwhtWaW5XeohiU6tr1m+/9gycLlMhsB9DtA==;9cI9gOLfNL7tWUkJcx+G3w=="
 ---
 

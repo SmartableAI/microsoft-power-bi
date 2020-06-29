@@ -4,7 +4,19 @@ excerpt: "This report helps you to estimate the Electrical Energy that you use w
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Estimate-Electricity-Energy-Usage-and-Cost-Back-to-School/m-p/785961
 type: download
 publishedDateTime: 2019-09-06T10:41:00Z
-heat: 94
+heat: 101
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNWI1ZjExZmMtM2E4MC00MGEyLWI3ODktZDcwOTZlMDA2ZTkyIiwidCI6IjI3NjlhOGY3LThmYjktNDliNS1iNDIyLTM5ZTc4ZmQwYjI5YiIsImMiOjEwfQ%3D%3D\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiNWI1ZjExZmMtM2E4MC00MGEyLWI3ODktZDcwOTZlMDA2ZTkyIiwidCI6IjI3NjlhOGY3LThmYjktNDliNS1iNDIyLTM5ZTc4ZmQwYjI5YiIsImMiOjEwfQ%3D%3D"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2948/2/Estimate%20Electricity%20Energy%20Usage%20and%20Cost.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 1079
     title: "Estimate Electricity Energy Usage and Cost (Back t..."
 
-secured: "R6Fkhvm+g+nf5sSb4IztdMr5iqwU3stPhzIgqE/diwMu/WvRjHNK33ety3SNJCx1tG7A0ec635x/TRLxt8G0D4lyqirTJt2NOYOF9DDN4RWD9FsPP5T7ZPSgXtde7ynnF9Zo8YCy/iATDnUwdaNjIeB1PNnSmB+cKkwaFs767O9Mf3GYD4PGJL4taVqYJWgnIBURQmDunU8j78q3oWSwTNolXAzdnUvSJCzptfWWZANx3xmaRjOMyZc7Kb3QftBcZFfW5Ike5mCaRq4Ke8HhoIOhmwncmqBMGi1YIdpXhxn4SG/XC9QM7tWlXsHyAgNOLidhfqkm0tI5LWQqZaBJi6kBj/2LVQ7O7YqnmDCMR45Rn8IOGzQSa7603E+Inlje;zsqej47lhYC02hFKR16bLg=="
+secured: "P8pReNGQsZcPvHSlKDElbBgzQ5GHjZanDsCLqqK0k19+8d6CROI0e1fAi+IuM0yaI6xc5/o9csuAuwQy3io4GWreIeptUv1NwrZ6Jzdfec0NWd1uVI2lBMAvWp/ZlczRdsRF3VBLFq5tyHFoswW50z/peh2HMhXemW5Az4xkCkDWLp+aUG6Huh/AW/RbLy0vO+PEDHl/DGdxeWMqSIYZgC+AB/Jm/SbRQrFaEjyinRCB2AtVyuJu/duC76S1x1D5772t9+SacQqQTuRsMwjVSGymQOUQwgaToH/tMjsNwCKHWVEpCjgCfVU2OnufbY2/JgFEl4ji7XUDUR+ldDwtUYQE7R63CF5XrLFXFRtwkxbevPFOR6vgjSlD5SZX1os9qc/f6+Ts83JmqAhuIWXKhuR+XhhWfvwxKH//QtwRdGI=;gj2DiqlLRq6AKD/Fp3odhg=="
 ---
 

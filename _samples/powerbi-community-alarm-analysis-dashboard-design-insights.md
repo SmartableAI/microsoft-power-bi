@@ -4,7 +4,19 @@ excerpt: "Description A&amp;E overview dashboard provides a quick snapshot of al
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Alarm-Analysis-Dashboard-design-insights/m-p/1091669
 type: download
 publishedDateTime: 2020-05-15T06:53:00Z
-heat: 60
+heat: 52
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMTU3ZjkzMWItMWQzMy00ODhhLTg0MmQtOTA4ZjU1ZDFhZjlmIiwidCI6IjJiZGIwNGVlLTAyYTUtNDYzMi04NGJiLTIxNDQzMTk5OTEzYiJ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiMTU3ZjkzMWItMWQzMy00ODhhLTg0MmQtOTA4ZjU1ZDFhZjlmIiwidCI6IjJiZGIwNGVlLTAyYTUtNDYzMi04NGJiLTIxNDQzMTk5OTEzYiJ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3952/2/Industrial%20AppStore%20Dasboard%20-%20AA.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -28,6 +40,6 @@ images:
     height: 539
     title: "Alarm Analysis Dashboard design insights"
 
-secured: "3CXRk7nIoO7vqXpztXf7O3Q/ra4r5cOf66+y7boIOd0qtIEP1pr7R2mhNyaTlvs7INe8BTHXO/z/jfHzqEnoPMRraP5/mxD6i3HajMI1QiSk5QQ2sdpTMVJCl7dZl4QiNCvx6EEI402gFgdBS+9xxrao/9jOGYN2/iatpgVFwAcx+lffPyjgQlIzYT8QMLVdhLzUQWOjO56ddr2a3sogQmjEhADTbQT8XLz484HbsR2LEtE/neb2T9e/LTGgsTrO7e1vI/A96ur2VEmOHJ2COiCEE02qwxJYh2O7aS4bAuIJD8YrVaFvLo81tBIokCgsof7YMBnbLvxJ1/qjC/I61gWaxTuq9YpKqdUFmk0Pqa9QpE3/qjL1dK3wxCVdevy8;nQB0/xptmaBlTbjF0aZAVw=="
+secured: "oSry4hr+7yrhPIC2z+IRQ5OQ+a1glU9fugE5f0xXk1LO5YrAL4fffD3QqBoDHDucW7pLe6UjF9iOtb1Rf9AV43xKsA/+7ANZ2cklKamECJQ3CtyDWxWM7GID8elpy/BRGHi+cO4kmMYE/TKXKb1ChDXN5sAtRSLAYxtA24+g5GpaD8PkM8Et5Xi6ur5WHW2TSsX+ClR9rwO1L7ThOIzXPoM6J0egGCZAzJR7I711Nt99FqK/QykEqhVX5MfhF4YGHh12+NfEq217+xl7n/qD/lTL1V2giph4zx5LKYrG7YmJnrpQuOqtLev/g6mIDu9wMSWx3bicw3wu4mWndWK6bPhaseOQ8RhJF5gwbuAN2paPwsvYKp7GvJcBEmmLYbeHMyi/oXLCgjURwAyHaSC5tQ==;KCUP3AUnAS5U6VFkGA+YCw=="
 ---
 

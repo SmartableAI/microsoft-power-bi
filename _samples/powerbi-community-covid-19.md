@@ -4,7 +4,19 @@ excerpt: "Daily covid-19 report that auto updates everyday approximately 6:30PM 
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Covid-19/m-p/1008733
 type: download
 publishedDateTime: 2020-04-05T10:37:00Z
-heat: 52
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjBiZTA3ZWUtODEyNS00N2VkLTk1OGItN2QzN2U1NzE3YmY5IiwidCI6IjlkOWNlNDNhLTcyMGUtNGZmMi1hNWNhLWEzNWU1ZDNkYzM2OCIsImMiOjZ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiNjBiZTA3ZWUtODEyNS00N2VkLTk1OGItN2QzN2U1NzE3YmY5IiwidCI6IjlkOWNlNDNhLTcyMGUtNGZmMi1hNWNhLWEzNWU1ZDNkYzM2OCIsImMiOjZ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3682/4/C19_dataset-032020.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 636
     title: "Covid-19"
 
-secured: "nLWjZIufBuiYQRWQivM9c1YRGwweJgwW0QYg/pjL59GBKtKPfb9j7PEvaRG9gIYLxqgxOGty5EoImDCEp2p4ZtOabkFIKtpuMtYKUS4g8Dt5JctniTIV8pL7y3ViXlhqQ2g7tmsh9F8eq/dR73WCd9YRZDVZcRrv/Npv6UKK0jHZ7OrbbhLWYusDSkbkJs5iF+yvE08fiXYYoSAnr+9VlhCCaFnzfsj4uM8UvYerYXXC4FO1UUVx2O3iCPcEYlSDZzEk4PXE5W8KvOqIHCU4Onn3kVCO9n65vEIhL7/JOATf7IdaIhM81KzbT9zmG80DfWI2xEz61HSharPYqS+R7+zxSyy5xVa8pnL6OCEJUOCa0fqtlKbC5zLSvR0l9+bK;4XsYmjjIWAfssrDoPq6IAA=="
+secured: "iYe07sxJamwB34QONDjthgM2Uf8kKtoxJsfYCXPX0V2yagS6derC1Xx6nhZM2zjjB+/VBuCQ8PibluIe6mRGI/IXg6kjeigY8LWOdWd3gzYrLucPA+OYo6cEl3pRjY2fE2phGy8WrjQs34BZMBgK3MCaG3uddMkHRnsULjWA9sKJHWHaAduuxyu6qpRvnvFbid94St5CtDV20HmX0jdGs/65/kRjyCLOe6kgfv9AhxUF8GYi65MqJbQ7jqQisATTxI7kYf4zqKOdqIWBRHXRllrJJumi5LEn8mmu04ARjnHHDBToYiSonDUMNlXjJlz0TanRreFoM8z1B6BJGzAAgcGt5dPUZQBnSpS2aoi1ZYdWAqmu+KjJqRzXQ3/aZL5u/DfbY13cyacXrHSFXtqk2w==;SsWw9Lj1aEIpN7OvWe8eVg=="
 ---
 

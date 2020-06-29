@@ -6,6 +6,18 @@ type: download
 publishedDateTime: 2019-09-06T06:06:00Z
 heat: 50
 
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNWVkYzk2NDAtNTM3YS00Zjg3LWI4M2YtODIyNGJjZGQ3MTBlIiwidCI6IjY2NzI4MWJkLTM3MTYtNGNiNS05Yzg2LTYzMjZkOWEzODVlNCJ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiNWVkYzk2NDAtNTM3YS00Zjg3LWI4M2YtODIyNGJjZGQ3MTBlIiwidCI6IjY2NzI4MWJkLTM3MTYtNGNiNS05Yzg2LTYzMjZkOWEzODVlNCJ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2937/2/Climate%20Changes.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
+
 provider:
   name: PowerBI Community
   domain: powerbi.com
@@ -25,6 +37,6 @@ images:
     height: 725
     title: "Climate News (Back to School)"
 
-secured: "B60RI7gbz6Z3ZDp/3R+b88iOv7Yyy3v+t/sCu37tfMFRo/3vjVDcTA4+M4VIj+cUR3jtM2xxV/OM2L7sYLElRR2SJdmTz5i+hNbuhVjE/LthowUH99ZptlRqt5CefHBOvtiU4GoXMnsCw2KDNvqE/paZQiWmejVmyltitq+cS19X6qHCEEygPYC0ALQ3CwFcnWv0U14DOwb5Tw3LIKE31ydwwmtY+FhPh6XsSc/b1h2mYyMXVlLO2ltawOYGuNwPPXATXUprFQKHPDdGP/msz5itTXNvj7XhGd0Y9Qn09tR9+U04wOM1z67rMpiCJFlyZIQw8SjMA2PNZajqF2ZnJuP7mviExP4xJQQ7fU2DVS88dYhZjxJfgX2urM5n/mXG;aTjJexr0N1ldQ62Kp49UpA=="
+secured: "vFJLbgW7GdBJr9dULnd2lfHq7xZ/OmcEuWTZaRFOAMfwE9xOdiNCjvYOElP/jPgQBPdrivqH7J8H9oQYqO3MJcqGRjLIsxEjsRid3ctPUduUuYtrz6l5Q9RM32JpQOyiy8DGT6XVEDiWQfTDrFGSTPCLdJhQkBzE3arg+r5pGo7rP/FBk2cYpHhmmt5wLWOPrQmgFkwhR4qmPzcn29xDgwKdxGH2w0bTqubNcU6GvI9d/WwBFpPAtQjg0Y7JLv18bjFLTl3Pr41r9pI43D4SFx1Cf9cNOdJuLCTnQi+U0wPZ53bS7qSG/R9plogGVwhy0xoD2SlMGmPO4fMW10XpcWOXObcOY60A7hKo2LLge6/6GtbbwiPgZpl+639gOitnqunDLbdKSVwshCSH02NRqw==;/2QUG/5pqQnuq1wjXSpllQ=="
 ---
 

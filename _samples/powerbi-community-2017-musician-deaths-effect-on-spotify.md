@@ -4,7 +4,19 @@ excerpt: "I wanted to use Power BI's Bookmarks to show something fun and interes
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/2017-Musician-Deaths-Effect-on-Spotify/m-p/346554
 type: download
 publishedDateTime: 2018-01-27T11:48:00Z
-heat: 51
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYzdmN2IwNmItMTdjOC00MzI4LWIzMzgtZThkZTVkOTU3NzUwIiwidCI6ImFjYzhhYWE1LWYxOTEtNDgyZi05MjFiLWNmNmMzM2E1ODgzMiIsImMiOjF9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiYzdmN2IwNmItMTdjOC00MzI4LWIzMzgtZThkZTVkOTU3NzUwIiwidCI6ImFjYzhhYWE1LWYxOTEtNDgyZi05MjFiLWNmNmMzM2E1ODgzMiIsImMiOjF9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1532/2/Spotify%202017%20Musician%20Death%20Effect.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -26,6 +38,6 @@ images:
     height: 886
     title: "2017 Musician Deaths - Effect on Spotify"
 
-secured: "6kznShK1hoyV2Ba8se4r5VlqNVvipzia3TOwUhutl0kJlNk4rETyld+2ti3Di8cnWERLQJKe4Uge6Zs7A2pBmWM0lJBVJ6hj186h5tTKa/lccT/LyVo+eEomLIgUJ8TJRgMOiyYICfRkWVW8c/wwEet3xFboMxvoNoAVxxK+XqMKx7pRhYFF7Dx/K9vV75vP9k7k2l0Z8pEDGhOaoCZA2T1f+HkhlEuixHvuZ/3QXKrm048k4+VPktix+/gKIRjaQifdVajnWLcQCioORE6Nk/5LiTS4oXxlsxCbTSR003LE0GcaC6N4+CsDvDjvZYOfwAlxjLISETl73vuep/FCC1+G6rF2QSZJTpQYj6HRIv+0ifcwqJU4HqiHvwwJLUpi;22k7VyRH5+qsPa3qiJRRnA=="
+secured: "PiAiSmPETWcexDV3H5/xPh8dCAYBrs2F30Yiz41cRtJy4jtY251tTOq/pmESXvHY0trolS6qekiSr+aadYwrTsuW47xb0WXrcpOPtPgWnGinMWUaIzBmrKkU0ev05jrHlAED1yfow943rEFdW5QYD07U+mGbK2bZ4DEojpI1bwrj575rSK9GAiDgprV/52x+xrXFkOD+h6ZxZGbprJBUFBObFcAf2lQzYcIUEzRgMgEf9qRGX+iV94Nev2LTZs8c3cll59bKcpF+qQgXLxjoix4/ymWNPYVBX/DzTybmsG9B+CTf6UYiAq9mrFvPrfx5LgNQvuLDl8VzPcGrd0+UHv/O9ueOXR3ElBps8uu3hfi9l2jFDdvK9HKrZ5DamzHZRN/YDT2KPI6stjtQyXNl5g==;SV4hMtCwplcXzvRgPDqFJg=="
 ---
 

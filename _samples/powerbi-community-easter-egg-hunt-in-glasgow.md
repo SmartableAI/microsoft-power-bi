@@ -6,6 +6,18 @@ type: download
 publishedDateTime: 2018-03-27T03:53:00Z
 heat: 50
 
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMTAxMTlmODUtMDdjYi00Mzg2LTg4YzItNGNhMWI2OGI0YTQwIiwidCI6ImI4NjY0M2ViLTY2ZWQtNDYzZi05ZWU2LTE3YjY5ZmQ2M2JiZiIsImMiOjh9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiMTAxMTlmODUtMDdjYi00Mzg2LTg4YzItNGNhMWI2OGI0YTQwIiwidCI6ImI4NjY0M2ViLTY2ZWQtNDYzZi05ZWU2LTE3YjY5ZmQ2M2JiZiIsImMiOjh9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1746/2/easter%20egg%20hunt%20around%20glasgow.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
+
 provider:
   name: PowerBI Community
   domain: powerbi.com
@@ -25,6 +37,6 @@ images:
     height: 506
     title: "Easter Egg Hunt in Glasgow"
 
-secured: "gbZX1q1Ls5cfVh6Cdk7nxitraqHZWNgY3jnErOTG/5DpJOk4siG2dNgq4cAbeS7IbuJOrGXiOrPGLIqtI7tVZi6xmEzQKwXbzw2ytBPu210W7jbOrxlaH8tsth1qnW8GtK235UoI5NzUe0rgbtjwQlX40ZNORIlCylDBRd+p095tgd0AgWOzalssz0BV2b9OxCXcj9AWVPpg3+odgrA+O9K7XWdlwU3aEeYfcV4HSN/j8hesyLkcHUE5WYniVNCqzIJyn3BlmQmDUiAjxF3y9oZBVayc8MHAlPAIV0d7YEuota9Nl9HIKYWhCpJSl28ooLo5ZIolkoTExhq8JB/d5679HEAWDJcV5kHRy79ggqCWU6YPJLMkf3yKpwBZuyJZ;rmVxzDWNwPDAMgqPtBeP4Q=="
+secured: "2uxPm5vN6URnx3zoYF1Z9naHaqfnLyYxfm6PF/vMm5gHwMpF7IS2xprKZvrQnI5AGKHIgidelvsOBiAPrCniZ8+NUseY1Fykjxsapgr7PKIszaR4JqAzGr1a5rjw53DaLgc2b+6gHW5tZAFS8lq1bKoSfCkYJE1/ciTC4H2Y20iE5kWP+XvfEUAmcfOIUflBNcg0c2anzjRfdxpk2+KwLs94GQr/HSuN/TVkpJeDks3BLmvlHATeMjtRKXQBqpxFbBp72QKuO050xCmeMO17RkP5f72uGJv+Z4rrcDZ1sYLGql+D+H8g2Fy/EHtMkWWFhr5r8iuZgdqJxG28njrcp+UTj1eU+zj7lvamZ1LhHMFzZ3XWIO15fTBQ3zJshw4dSVpSYdEuaIcqUiIggQeXLA==;bKtpfxmdgyNH3NcgnyKpHg=="
 ---
 

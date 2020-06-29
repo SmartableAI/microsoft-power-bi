@@ -4,7 +4,19 @@ excerpt: "Gender volunteering data of UN Volunteers ."
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Gender-Data-Challenge-Sunil-Kumar-Nayak/m-p/1116931
 type: download
 publishedDateTime: 2020-05-24T20:34:00Z
-heat: 58
+heat: 52
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiN2U2MzgyZjgtODAxYS00OTg5LWFjOWMtNzMwM2M1MzFkYTkxIiwidCI6ImUwMTE5OGU4LWExMzItNDc2OC04OWY4LTNjMGZkNDE2ZjBjNCJ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiN2U2MzgyZjgtODAxYS00OTg5LWFjOWMtNzMwM2M1MzFkYTkxIiwidCI6ImUwMTE5OGU4LWExMzItNDc2OC04OWY4LTNjMGZkNDE2ZjBjNCJ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3994/2/OV%20UNV%20Gender%20Data%20Challenge%20-%20Sunil%20Kumar%20Nayak.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 1379
     title: "OV UNV Gender Data Challenge - Sunil Kumar Nayak"
 
-secured: "09pr0r7wzSr2/eG14kbzlYEAzkW+2ji0G8jd0LyPYViyLocI3AHO6wcqaS6D+OOnAxRNjiBIn7nbrgEcrqMjlpkxmhfWixkTo0FnoLdNDaPejngFalBYygQNSBlOwBhmyIllRoEMNicl/uckO2WiwQ2ouh6Oc520Tl/bCwQDZWobjWqP1Ro2Au/9X34Op5Z8JbybHhR+IH/AFAZh+dto9m6m2fCufueCpak9wpTGsuuIbdtmosRi41QueZVyGQ8tELE701FOq5ImvuJMhYl3ixjnwH90axZqoA9jDY3H60p33sUYTYuEBhDxr5FlDvqDE5Usox3zVe562djTMF1HnIXBdU450K/6NX339150E07pt8iX8j7SQqxtX/47cjd7;sASAG2PYz3vpAe3+nLUShg=="
+secured: "o7EGirFgbHvWCW9GcDytAC/AZYJJ2+hU5n9Fro4E7Ty6KHbsL4tNursBRj8m5LNYHhoRBWNowqoMvKAnpUq5YKQmIpMMqcGEWgeu9q/basUxRU5A4ufCw5fn7o6I+PS0pz8qAr6q9Q+pQOT6tp9u3qlWUeFzJ+7O6jb45zUvSscRfFWMifMJzRAxHxlQnyDAT8AhlNarz/FcYVuYUKu1egxwdd+dFK3iU8sJje+o4r9w+nh4G80iQFxEg9JAeEOi9qADlto4n0laVGZ+Zwyhcc9hn/hU9UriR+rxhIDLXmJbcnMv3GNiWloRpPajwoTpRBiwXWLrxhFJIFEEeMk4GMShAQ/5CC5R0uAYfy5N5mejXc/jwk2zjeVve5iZpC41CKY46FFrzjCF6OnXpQpmnw==;1gndyCqTJdwAqDf0IRZjcw=="
 ---
 

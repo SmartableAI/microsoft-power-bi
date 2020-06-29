@@ -4,7 +4,19 @@ excerpt: "Power BI: Pokemon Kaits - Alejandro Sanchez - Peru A small demo of pok
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Pok%C3%A9mon-GO-Analysis-Pokemon-Per%C3%BA-waiting-for-PokemonGo/m-p/54560
 type: download
 publishedDateTime: 2016-08-01T15:20:00Z
-heat: 51
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiODA5YjhhY2YtMTFiYS00NzUwLTk2ODgtZjQ2MTA0MzNhMGJiIiwidCI6ImIxZDg0Y2ZmLTg4ZDktNDdlNC1hNzdjLTQ2MjNhZTE0MzVhZCIsImMiOjR9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiODA5YjhhY2YtMTFiYS00NzUwLTk2ODgtZjQ2MTA0MzNhMGJiIiwidCI6ImIxZDg0Y2ZmLTg4ZDktNDdlNC1hNzdjLTQ2MjNhZTE0MzVhZCIsImMiOjR9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/190/2/Pokemon%20Kaits.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 609
     title: "Pokémon GO - Analysis Pokemon: Perú waiting for Po..."
 
-secured: "pHz+AMXBw0a63xirb4JjkQRIilbvUkx01c4Lxf+JaUEOnQOjyE8WMrpIMr6lU/awcg4lREU+I5j5vfMnYZk9OYBPEnDajHg5I/rJsFxL4qRS4HFF9JQve11wE9eAkIPNPaVd3N+z55aDjL6X18O14ECapD/FF+Vn7ckbMOYmiNVgnwo62fb8gGYmOcBJAU2NMzEVT2sZeHl0idQR4AkAwdIWpt+ezHklmzrXiqcN0P2sAFpXaPycE8OrDJ2aoiUfPM6+yOjAL0e9jsDix/9MZT9sXew29AJZPtkvv9977AspeSuK0mbHekBLk2ALkZ2lUXX8DhNdZCxQO3Fva2J+2iWfEyTJYEX58MKdkh2SxQWY+b5own4bxXLfduOVOIfq;/gL16oK6N+fJffLCWzp03Q=="
+secured: "ZNosqQ7BXoqahGcg7dyd3MHvyUDtuBE/FKUMT6joL1jnH4JQ1j8M9QP3zpnuGwwRqe61+NE5v4NdTnpdPA0hmz0CsgqOuJVkDGyXG5jjXe//GPxZLveiOl0LmHKLOjuk8Xj1Oa8IF0GwxnxNt9nZmVcWwLioWmo9GdjrVrZgiqbHJA8NsPfGRdToIcLKanih/oqz94kQZfsuNwvOpL0TByRqMWjnruHF5H4iKL+i2y1KG3nuFKO82cJBfGAnv/L8WTbhZE+dbNm9Q2VoaV8voiF4Ow+dpLPwuOchPHr1DWtALB5miBKzpXRsIKWdIyvHa8sHbzlfaWDxIP9XJ1pD4otlmlNYg+svNPKC+uLX6EjJQ5pyrcgo0ZlMwIPLtEPOk06J0C/rw+uTT7ljWwLX5w==;rxoSiLfFhFjVGLOO2LuBPg=="
 ---
 

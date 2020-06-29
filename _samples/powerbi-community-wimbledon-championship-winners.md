@@ -4,7 +4,19 @@ excerpt: "Your Wimbeldon Champions analysed, this report contains the analysis o
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Wimbledon-Championship-Winners/m-p/736419
 type: download
 publishedDateTime: 2019-07-10T04:10:00Z
-heat: 51
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDU3ZjMwM2QtZGVhNy00MDU2LWIyZWEtYzQwNTNiZDk2NTI3IiwidCI6ImM0MGQwZjIxLTZiZWUtNDFlOC05MTU2LWYxNDU5MjA0M2FkMCIsImMiOjh9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiMDU3ZjMwM2QtZGVhNy00MDU2LWIyZWEtYzQwNTNiZDk2NTI3IiwidCI6ImM0MGQwZjIxLTZiZWUtNDFlOC05MTU2LWYxNDU5MjA0M2FkMCIsImMiOjh9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2757/2/Wimbeldon.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 1021
     title: "Wimbledon Championship Winners"
 
-secured: "QW7hstQERuMizDAJ6rRFIj8KZHm5Haewq39XH+2zfNYIFz5D74R1+d7LcTG63FRjYLura+mw45oEUIsjzuRGxLqC8xQp0k8Y+7LTLr8gbm2oqIZ1/Z/i4W27oS/Rz6f4VsokhloiCyV1T5SZBqilD9cX52BlJYXpjXsqYbHJk07ie2+s2YTqBveUjudxVrNAH5yEDPn+nb1Mkk1kCNAwqqFgNQA+7/KIEgRBMCu+pbO+cvxSGdHEDCDOZyUNjAguyugRxbbtspvfJv8pE1C8CE55/QMthc8InWBoCZ6MtTW47PDAOT/sslt0EN5r4DuKeMkkDAbeHXgv8Uu6vAqa1Yq365BWa5bBYC6BxwMaKouDi2a15M9hMb91sXRTSL7d;6Q5hexp+W73MB7KHATQeiQ=="
+secured: "IQyv91HAPckpXy3BXer4AvdIWf2OjuQtu5tJ/Fr2LVz1newB0GiNZa/jTp+MprKkCs3qi8yRJVj4d/JxxAOkYEfegG+pSjDJT1FThNrAzp4Nyru37oLRS3rEEIZ9IF4/BJRcR6MmgfRMo2P6Px8bdnY48jJhtdBqV5+UqebfSrCO9bRtR6REcUfVBlFe8XopmoGjQeVXB1Nn6nN+zh3E0HKHFvmQgxERwVBlgzfPJ8AXhzRu0H8g9Z7wdFHJH6ssjHvlcQSe2KJ4N/uWCXVFeAdQmyoopkePA21fLDu2NQQogqGr8BbyZdnTgSz/yQHl0pWiYxI8riu66lO+GH6FJLwQxqxtDhWk0AD9Pl81ALFAAQTQL7fnap6ucOGiOzY+pU32MkkAAtlJbZL2nELgAQ==;5YCVHwHkIPw+dH2XJG/hTg=="
 ---
 

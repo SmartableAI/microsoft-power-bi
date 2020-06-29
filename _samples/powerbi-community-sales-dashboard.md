@@ -4,7 +4,19 @@ excerpt: "Tracking sales activities in a spreadsheet has become commonplace. Oft
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Sales-Dashboard/m-p/484507
 type: download
 publishedDateTime: 2018-08-08T16:32:00Z
-heat: 54
+heat: 52
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZTFkNTBjZDktZDA4MC00NGRiLWIyNjYtOTAzZTQ0YWM4ZGI0IiwidCI6IjI0ZGNkNzRiLTc3ZWYtNGY3My05ODM2LTNkN2Y0ZmY2NTkwOSJ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiZTFkNTBjZDktZDA4MC00NGRiLWIyNjYtOTAzZTQ0YWM4ZGI0IiwidCI6IjI0ZGNkNzRiLTc3ZWYtNGY3My05ODM2LTNkN2Y0ZmY2NTkwOSJ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2135/2/Sales_Scorecard%5B1%5D.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -26,6 +38,6 @@ images:
     height: 846
     title: "Sales Dashboard"
 
-secured: "NkezV/B+eF5USWHIvDCVvYEFB8ykb/jiexUFLPHsBb9QKntdON7YFK4RjNEriiN8O98csus9oQQ/HvaZdKnvsSggbHIfzDDBbdSja2mp57ltk6WldJ1mIZQ2hP37TQmcF/egIkNaldNs5vRgpOZ4A4+aCXljLg1EC9U/h4SHkE6PXElFS4Zzbcm3LFmrJsfWQdpOxp3ta6A8ynaIdvcETjdddIukiCQQHqF7UPGdWEbpB0+VsBWN6RtesisWx3X1UDr2lgW42vSvFgapjw74waDOKHiMYTSfXCM7wamHAroQD4oEiSKJob6sJ4LD7gsrHJp1+l/gImoH1SPOl90iNvgDAbRK8csUenNazc1MR8iQqYByq2UPIpNaWB/ihLrc;ZAL6sZzgfSMaKdz8aQaUJg=="
+secured: "FkrFy4p6ydW+0y5JfUjBBZhwzpQu6ZQUAGxHYSNQEloErY34vnirekQqJq6VpC9A2lmCZqyTuKAxK35z74YoTWCnCoNWqpRjSFnAtRMYzUvL2bj9tHPnOV5nXE4E/pNYLoMiX4BfpAizls8wh7ZkZsB5MYFZcrEEFEdMR3XwfxHvn2m4bfB8JTR+AUBTDQ2XVE9B4aaz7Zx80BH1SkkGolK6YpNkNCPBXPK42tmu4PKlLG1vXDcktzofmQnJ3DpOlyFgafsqpCVr8mzFiduG9MQNgY9rKR6gPda8xapl+WCXraoZO61WvG+ytzlZISYMtVCjK1axeNiSqCMFRpjEtfNsxtz6cLv/+Ntn7IbctpsL8Y+cDxnWbcpNNqqGjtGpv+kDarUVeXTDffyAoPDy7w==;Phg1pls/fRwN889wbsnqjg=="
 ---
 

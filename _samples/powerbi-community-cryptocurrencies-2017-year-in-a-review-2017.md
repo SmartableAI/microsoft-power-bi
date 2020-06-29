@@ -4,7 +4,19 @@ excerpt: "Hello, A news I followed a lot in 2017 was the cryptocurrency market. 
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/CryptoCurrencies-2017-Year-in-a-Review-2017/m-p/346217
 type: download
 publishedDateTime: 2018-01-26T10:17:00Z
-heat: 51
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMTViOTRhZGEtYTFlNy00YjcwLWIyN2ItOWMxZDlhZmE4MjdiIiwidCI6IjRlZDQ3ZWQ5LTY1NzQtNDNmYy1hZTZjLWY3MWI0ZGRmYzI4YyIsImMiOjN9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiMTViOTRhZGEtYTFlNy00YjcwLWIyN2ItOWMxZDlhZmE4MjdiIiwidCI6IjRlZDQ3ZWQ5LTY1NzQtNDNmYy1hZTZjLWY3MWI0ZGRmYzI4YyIsImMiOjN9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1525/7/CryptoCurrencies.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 843
     title: "CryptoCurrencies 2017 - Year in a Review 2017"
 
-secured: "61HWvdBQNchAs+7WfqxWgvzPy9Ke0G55XoFlLgP0k3Ss5MuVxLbjvFgQHgREPHZL98+cQhq2gLRUCB2jc+XfqPw9IyNjHcJvVPpqWFyjNZiRctdvpH8yNly0qhKo4ugV0oRaR+llbs/zP+dHt0iQB1tReVstpRLPR0czyK3b/WW5yEWdxphpJT9ecUf/cGM/us4NRM7PUCTAthhIYeX0vK4fIUPJVoGw5jcVezhxACRIYUKkESy30XYrsiTst8g9LtOTyNlkDroCHi+LFexaOdfOUR504YdXd5kchdK4Wu2PewTEb3bfRoHSxFeCXekhji/1rvU383jeyPt44BtOe1C9jvVJjago0kSTkBjCbCvOIknyMhT7bnAht+i5uQz9;p8yVhhFfcWoAtM5AXpHe7A=="
+secured: "H9x5DqeO630qKQtvNyO9rMUXdmgokaMie7M+U+I829lVpdGJVtGWDKJ0Gy8RMZtJy18wZgb8Ha2M2AJFntNn+p1VTo5UluvLTCUlhd+D8wZHq859fjDJ1nooAahGWw7hUTJtFwbOHjLWBqZnkBUFvaH6qkK3NFSP/Kqie2976XeOaGrLWRTKN3R1qm8GzcuRWyWZw4iK4u1f31zg1KoS54dfjP6hu80TH1LsiLSTX//IS6ZiKOyXlzyZGeCLwYTjGqW4x8MwyYvAXoC0ZLiH2sIP3yf12dhdw5wbdbzO9zBClHuZ2BA8hOHTqOm+nDumaIXTwS4ju+kPkvQ3f4mhW4ja9S+tVk967rSTWkIv1ZqZxMTVoZUD/u4rwDYt2HN3OLLzPHY2t3YTPTGTZR/ZiQppQhks51gsOOhTyr4zwSE=;pqa+JLSyMdYtLPoQc3OAJA=="
 ---
 

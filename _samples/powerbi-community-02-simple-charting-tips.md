@@ -4,7 +4,19 @@ excerpt: "English | Spanish (español) For fullscreen click here: https://bit.ly
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/02-Simple-Charting-Tips/m-p/1123672
 type: download
 publishedDateTime: 2020-05-27T08:11:00Z
-heat: 68
+heat: 52
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDliODczNGUtMGRlMS00NmUwLTlmNTMtYTg1MGMxMDg5ZDY0IiwidCI6IjEwZWM3OTJjLTU4NzctNGU1ZS05OGE5LTFiMWQ3YTNjM2RlYiIsImMiOjR9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiMDliODczNGUtMGRlMS00NmUwLTlmNTMtYTg1MGMxMDg5ZDY0IiwidCI6IjEwZWM3OTJjLTU4NzctNGU1ZS05OGE5LTFiMWQ3YTNjM2RlYiIsImMiOjR9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/4013/2/02%20Simple%20Charting.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 758
     title: "02 Simple Charting Tips"
 
-secured: "lqRpy6cP4k01MYqAb/I1e+biL8RRFQE3iX/qlWUrdyp3OnFkIZaBEdxZ20bmbr2Ld341hYQrfDybjb8oJFXef3XhwxVW6VqrAhVcYundwmW2AHNUw21oBQCW8kayye1kTS4dgaj7JOWqeWQOHPJEbZpg6TJnZfWHuFmU1eQREEELf2nXmslGeSDy+4Ll/El4u1KoJO6b5SzbSxre4Ekkp7WjFrZZOaMVNcuXeFy3TjKZ4WKoItK5jTO8h/TNINHSRG/hXBU7RrMtyEQ6tk5gCPvSz4XcEMkzS+A9xrJjPrLgnHo8WhEj+wcPH771Tx6eiyDSY6y2DXJ42hQft6+SBWCwvLv7Vk3510PR1y9Eo2ENihVNim9AetIOhEcgrEHs;kq9FBJ91VDOfDRhg+v6Pgw=="
+secured: "F9di3Vf2m02i55UuHXGGlccXNfHXh9EEHJ+eK4O5H8Zl68ELXDPXei1JLPSSFTW9m7QNsO5SMVEX68OuF5yLICu8jUt2aZZ3BpkDfBNAH98MqxI955frSQGICc9jMneIbiqHGK2PhmgBPbnUzUymNdTkv/3uTI+DAVNE+NhKCjAdco3VWQDVGHbKtm6dzw1/4EKR3kt47ac/INEXCuEJtVF3/G48u9xxyzVUMxZCzL0vK+OlE7xbEo0f5Qid7VH5sj78YhKspjFAUbFopvLQr6Pwz2PyhTBcbzU/SXzkkjf4ltSYzY5Then+k+sM7yDX/2UDsXgC2laZqr9CK+OnD6Fs3YjdDoJetgPreejpLETuAxQ9PW+Wm94bKQjqP9qukjqY/MrCGVM1s9SZxaKE9w==;bFQIA7fCg3Qw08Q5Itj0gQ=="
 ---
 

@@ -4,7 +4,19 @@ excerpt: "Our goal was to create a simple dashboard that enables the user to qui
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Pomerol-COVID-19-Tracker/m-p/1010226
 type: download
 publishedDateTime: 2020-04-06T07:40:00Z
-heat: 56
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNzk2MDU2MDEtODkxOS00NDJmLWEzYzAtNzZmMmUzMjVjNDJiIiwidCI6IjliMDFkNTljLTk4NzEtNGM3Yy04NmE2LWIyMTRlNGJiOTI4ZSIsImMiOjh9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiNzk2MDU2MDEtODkxOS00NDJmLWEzYzAtNzZmMmUzMjVjNDJiIiwidCI6IjliMDFkNTljLTk4NzEtNGM3Yy04NmE2LWIyMTRlNGJiOTI4ZSIsImMiOjh9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3691/2/Pomerol%20COVID-19%20Tracker.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 878
     title: "Pomerol COVID-19 Tracker"
 
-secured: "p+/YBK3EuJ2jRvWI2cxcTBCwFVDvEOSGGP8iW7KNzFN4VlC4ucu+fW7jwTanZr6OXAQsY2GRyvjHmjZateBaM3piZ6YR2fH2xD0BRkfcgq+p/UShXgnaFPbxlXTe43hhlmX3Kx4w5nybXRkQiqP2uxlN4zjqDYcC9WOFEfs/t04l/DIqVHyAH/sXrBsFAswjxuyAfxEaMuQuRQGIpmDBo1GckWoextJBtpMpE4vTZBtYxsmlEBcycjuak08nEhZLP8V6Z59hWNK6y2vQ+z/2wESK8LMN8C7OX3t5Qdgv7TuUcqzgwM4yuJbUr3p3PXaiVqmajn/irunuYBuxvXpf9DWGDaJ5sfM+uY5315Ught2AL/a4WhxISI70NHLrIVWs;spoEY3ifmlk549jMsjxlgA=="
+secured: "+w8WstwaekWnDjSnbzJY0Rmup3MX4QZ+GhSObD4cI9dqp2S6t6nlPN+dpTpxkofmSIJT3Ey2kT+OrHkJ0PE9neJ8XE/Pq4ZjVzmPVSx1O34m+oQcHzHBxEgtzQU6RT2e9Io8l0ReGBxMvnyTHGM/b4TxedW1v6KZVyYIFeNMyW4pjwEDU2t9JbfU21F8WC7T5aLFO+vNWpNmp4+kHutKLvRvjH4xBYThpM1Hql1/A1w7/l/npz7GT46XcQoPNDSRLEWTnclkMEw+CFlDJkVGvCPk7jCcdh1e8X04RVZf1J95+pUgaEyyMpY957zZcw0kPuNZO6Y4bzK7Mj7wqBLM0aelywuUEh/JZ+bmLwS7uEG6xgttfk6/Ne/9b1CAkMF2AvUpxJBzM/nKkunF+QGs9g==;+PuBI0CcrUAkMYstG5/XFw=="
 ---
 

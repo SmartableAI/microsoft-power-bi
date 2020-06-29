@@ -4,7 +4,19 @@ excerpt: "As a data challenge for Online Volunteers , Maher Fayad created a repo
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Maher-Fayad/m-p/1043525
 type: download
 publishedDateTime: 2020-04-23T00:55:00Z
-heat: 53
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZDMyZjBlYWMtODQwYS00YzRkLTkwMWYtN2YzMmYxMDlmNGYwIiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiZDMyZjBlYWMtODQwYS00YzRkLTkwMWYtN2YzMmYxMDlmNGYwIiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3822/2/OV-UNV-Data-Challenge-Maher-Mohamed-Attia-Metwally-Fayad.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 1182
     title: "OV UNV Data Challenge - Maher Fayad"
 
-secured: "p7z81hB1gpvKbIWo0cYAJDELVWhSStrrMFNmiBWuUybmBC30WLs8xSxIMwZCvB0Y+a4V5YKDO+EC0KANHZr9yJcUMYTg97Y4q/XdtN/KJOZTXTFQ15jmTwjzVkJ3tMplfj9X8p8R1YncAuM3FZjNwY4EjNvqii9Mgu7W4jEuuLAlyxIieKpzEMQvrH2Sqy6mnByRF1E97L5caH29AE+fna9jlOdLJlkZgdRTo30UdTxcYCe3kVNNmQEgqEkpc4nMCkg6xlPxUP6FkjVm4sNgoxvivnqSG1z/DLP9kpTBgF8rnb1rkrQ7tCJZft85IREWQw0sBbEFrTxmoS87aaroCT8QVeeY/JM8NlFHYHN9oyXmYXUEVl4r0k7qL9U9wjJb;dxL9wTPLxrT05jLdcXyZ6g=="
+secured: "ACX7mqiAOEIxtjcS7HxC3nyp6WzTLWfVESrKCd0v9jlCNUyi2PJT2V/8d6noq+YVUqxoL/TBu6y/+C6vn56/1yVUt5U1poz/NK2Ky2YR4SJn9iIvcvXP2k9AXM4RRjOL1kFZRY1RxwD0Tz0SyDvr5tBZfhKTnVJlp6y77qXKeKDXZZm6b8W5i4Vg9DPW2pCGUa+Y6V8jWzjOF9nfZZ+XKrxs7CuunlDkzIhqniJ2IEBq0jwIZA2skqyaEoxWv0qsobgw70sDzPEAJHYez+mvUBDV6+I8/EbEkzoTVuLX+QVHcW/LpScuAESDoivjodcrtUsTprquBiHxVqOFkYQlQNO0+xAHNic7YPBYEg+188exS/qWNU1snvi/cQMms5eErxLPfXXaOpZ90z4VUEYNuQ==;yfNZ05Ol89AWFxWPBUGNMg=="
 ---
 

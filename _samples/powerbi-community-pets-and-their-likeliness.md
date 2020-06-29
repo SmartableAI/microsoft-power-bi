@@ -6,6 +6,18 @@ type: download
 publishedDateTime: 2019-09-11T15:04:00Z
 heat: 50
 
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMzZjNmIyMzMtYTJlYy00NDM1LWJjZjQtYmU2Nzk1OWY0YmQzIiwidCI6IjNlMDlkOWNlLWIxYmYtNDRkYS05Y2Q4LTc1YzRhNTJhOGI0MSJ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiMzZjNmIyMzMtYTJlYy00NDM1LWJjZjQtYmU2Nzk1OWY0YmQzIiwidCI6IjNlMDlkOWNlLWIxYmYtNDRkYS05Y2Q4LTc1YzRhNTJhOGI0MSJ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2972/2/pet%20population.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
+
 provider:
   name: PowerBI Community
   domain: powerbi.com
@@ -25,6 +37,6 @@ images:
     height: 719
     title: "Pets and their likeliness"
 
-secured: "PMO4tPwzCEh52bBX7Y2Tp5D5wDH1Pt6VD0cG+eh8RqeaXkjjDTGDtxPVlWeB/o1cd9IsSi/23WusdXY7qlDN0rZ0puu3NtOO3ma5L4rF4Ihm0lQPaD+O7XRgFXkJJz0DVKtl9NUg5eZAx9dv5KZsNg/fXzIUOMQZiXHEVSKprtVjNj9VgevzuzEPQ7MMkZZ8OuWNUIv2nfgNj4QgLcpKkVozBsNGXhcHkCSuZwi9Z7DiTnNkdvl31ZmmmX1sIpIvuHxl+KYxW3U7fiEuvO/iOZu2oEbHkJOQewInHz9nEN+EUyTUgM79K20f9ba+O7AppEd5LnWsldfcW2Damc2G1HBvoq4wYhvo0FBy1Jc4ZsBDIOrtTWqWFn8GF27BlQvD;nkcFCrf+LMNyflq1F7AcXw=="
+secured: "sNblOncwByiZKXBcPmTbCJTYr5XA6jZ04fravOGR0FJ/lnZ5AZw64P6XpAOxgEAvqys9RWI5ajXIk5R8GTgAzkKnvhHqBFPfQTMksx8uov9CIqKBfzSuROPkU8YWVN9HAlzceAjv10LYsvc74cIwoioIerkgboMt/Efs3VQGiDiNpw7U83vptQe8eyv5i0J77hkyOBWAspPT94w0B0y6PD6b9eDvG9S0q4mLEwxdoPLHl6QDL7ZfCDy1DAKajalPtE+Kzsa1E3SlKI0uvYDxR5uWs3k6cdc281FFu9+52QFDJaNJi6wAFAx/i2i2OZu8zcRpTcHHRR8bAqnmaw3lJo+gfXNpvyyP9qsyDPFEPBMVaEPrcP83eAWrhq8V7YoeHQQfuQ0Y61oeF3KBwzQBuA==;D8OVa/uxSIXpF8hCR1OUQA=="
 ---
 

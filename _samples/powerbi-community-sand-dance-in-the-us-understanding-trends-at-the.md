@@ -6,6 +6,18 @@ type: download
 publishedDateTime: 2017-03-13T11:52:00Z
 heat: 52
 
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNTcyYjUwNjAtYTg0Ny00NjQ4LWIyMDMtMDU2M2QyYTQwMjdhIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiNTcyYjUwNjAtYTg0Ny00NjQ4LWIyMDMtMDU2M2QyYTQwMjdhIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/726/2/US-County_SandDance.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
+
 provider:
   name: PowerBI Community
   domain: powerbi.com
@@ -27,6 +39,6 @@ images:
     height: 771
     title: "Sand Dance in the US:  Understanding trends at the..."
 
-secured: "Ose0NxCTBp+3AbScTOhdR4l3+4J+y3lRYoDHShU/T5P2U2IM5F2t6AN0Qr3uj/UdRoWbiSPg4d3OII9cWSrhgRdC5uj/GmUhOG6bYtMG4OQ5mjMAPQqFKC0k4dbEctU6IAV7rFfLfZIJkeNvCKFibouOvEZ57EPFoOzVDNrXbB058PDllLqTgsx4pxRcGsfKCp9t4eIwRMdqQpysUShNMxWaHhb6QRfbJdI2+gKbw8yKQQXVJ3is5X1yD4WaQzNcuCMuvEW+Ia+76ICgmKDY7T1ZF2ec4JYynIgmm8/bBQrWSFgCnIipALXms74xVGzAsfYg/hcVk/f33gK6QAEOhInwWb7twhNJ7sj+GI7VrerrI7qh6fm8pnMIO4sXwWcr;QDBKu80wcWZHm4XXtwiYyQ=="
+secured: "hLSUv7zYazCH1rltB2nvnGTD5JzQpWVXcfGElRl5TwL/1KA/9/QgebduuGXNGXwl+LUViSCVJlfjySguIXa5Mv25A3AxayaOwZGzfuAF5O0/SQheoVtE9VLZwypFFA3ele+jq/P9fIg7CpM32A+CgyTZIuQGcgvA5a6IPO/KOay7ncJ+nXOPtDSRi57MHZms76xOmWzsqN9HVspJxweFaiB8TBfTmyr8DaaKSPUUV9v2f1sEOiYpnThTuq6Zxufwp5rSoJSOOqyNVWp3NAi1FcmtjrUVjga+igZDemXUwbY6Z2HZhvwJtQIaBWrcpHbk22WxCzV/4rmAEG3htaVE6mWA93wayCuEGRNqOZGpnjI+gLMirm7yi78n1HMHWXix41aNav9/BigdZIYQrs8AXTAeKRPa0eZONIk/HYW9q0E=;S/LINjfHupcwi5GfvY+VBQ=="
 ---
 

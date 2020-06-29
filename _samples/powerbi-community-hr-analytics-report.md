@@ -4,7 +4,19 @@ excerpt: "I have used a HR dataset from Kaggle and created the entire report. I 
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/HR-Analytics-Report/m-p/821924
 type: download
 publishedDateTime: 2019-10-18T05:45:00Z
-heat: 56
+heat: 54
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMjY5OWYyZTMtNDNjZS00YWQ2LWE2MmUtZDkwY2IwMDNhNDcwIiwidCI6IjNlMDlkOWNlLWIxYmYtNDRkYS05Y2Q4LTc1YzRhNTJhOGI0MSJ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiMjY5OWYyZTMtNDNjZS00YWQ2LWE2MmUtZDkwY2IwMDNhNDcwIiwidCI6IjNlMDlkOWNlLWIxYmYtNDRkYS05Y2Q4LTc1YzRhNTJhOGI0MSJ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3076/2/HRProgress.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 926
     title: "HR Analytics Report"
 
-secured: "Pk/vfqmLtQI1HHktBOqgMsXSFYslAEipY0beHZDEb3gQtunvzbhEcQ/cF13TsQYWZjp4MnyoohB+RniC6lhnhj+BG0gTciKmt3xmch/k+72sb3FRhbbflQB5CNMdAftIAaYQ0t8wv2dwm4Ce1g514H9xAM4R37bnH5pJ/pJd0aU5Vj4T0Q6EQVq5Dg6UquxwPOTwOPQCAmpEEVaDVaUVenx6IYwzUxvM6nVikXlFZnqVbVCcxN7uA5IGbv53dQqe7RypEByTeMrO7/G45RKId4R90eo6kSnQ4L3UMUc/x1v25gDWHIDNhg5aiLTvMi3YpGhKsoM8FTj2zjM7RhCARxG6v9pIEvXe7drDpEaDpXZzFX1tD6dhqJ5GnnzN/M3O;D7q2BViohVcVunNPx84AiQ=="
+secured: "/yMsNktzwRfs10EP4GtTR4SLv1/o5uiJzA7E0063HxzXquJY6WpEE5xoC6ecgRZa1YW8YCyTLQTeJCmB7OF5X6jJU+KtO+iRnAMtyebsPD6wj79k2nW64sc7k56me7nq7yV5IRXcUIywHbadL1ocYsEmxrpRSogFXdZVT5w0SxZzKSrvGLO9vYI9t5qgfN/FvOaQOmzHX8Q1L+ryGwXmzADVkPyOtu9tsI0l4kS9TZxHOVWXyyuAU9ZTXXOzw+FMr1iYOkCRffjz+S7Uk6TnoAu4EMs62yOztrrwIKxm8iC0VmUM3jMMwEvlWAxow2PrOKXcZv0xg8jFtCn1BI39MA6TRsPqO4M6Jc6k0icJ72dbPzAmQ5iHvmM3JgTQQCyBdsNxgDCGSNLVZoIqGlOm8Q==;NyVorDQrR5DzFqKyjn67Gg=="
 ---
 

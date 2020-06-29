@@ -4,7 +4,19 @@ excerpt: "This interactive report contains the most common activities in the con
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Construction-Project-dashboard/m-p/544131
 type: download
 publishedDateTime: 2018-10-16T23:02:00Z
-heat: 55
+heat: 54
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZDYzNmU2YjMtNzI1OC00MTNlLWE5ZDgtZTMwZjg4YzY0ZDg4IiwidCI6IjQxZjZkMDg0LTZiMWUtNGM3YS04NmFjLTA2MmZmMGQ0NWY4NiIsImMiOjh9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiZDYzNmU2YjMtNzI1OC00MTNlLWE5ZDgtZTMwZjg4YzY0ZDg4IiwidCI6IjQxZjZkMDg0LTZiMWUtNGM3YS04NmFjLTA2MmZmMGQ0NWY4NiIsImMiOjh9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2299/2/productivity.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -26,6 +38,6 @@ images:
     height: 833
     title: "Construction Project dashboard"
 
-secured: "Gba3Dt19yluqd3qCBnc+MQSsHaqIPAkqoTEDPVP/AunDWidWcLwtKxyFihLWSRLwP8U2XShxZqctgpOTWFCymu9pUHRmC0Qe03bdsNXYqXKyvkRD1s3gmSLxSZZTirMP6LJk5f19pYP7ZLJdo7Wv2xnxk3+pNtpHGcF5s7E6ZUyDDWX4XONeVWUkG0b+6Bts5YGAPF8hivFMVDmXRGL+7C43GCztCxTdT6sfR9pXsVnpZ4a7ud7t6qcwVq99pnGuoTOTikdFKsNxWciLEIXl/Cjj2PGWjOYLTnA4J9SH75TGZwdHZFs5VTdZ6SiywJXgynHWpGQMOKY1lfBA8a8sPpMsd44Z6S96WzNv1HZqIsPa1OPqzNI3r5j5TiRYWmAh;8IYbAqVRt1HE+wmoYVN1vg=="
+secured: "hYxiPjgRbuDE0bpvbuJ1Myrk9aTRWnscBpqYUrbhjg2sUws4nN85pCwBll0c61N+XZKiKgFARBrilOi0IAD7VAjG70YgvEmyQTojKXkT0q9ymfhbBe5UQv2JlfxFvZzZe6OF1KJddUg+66uFpr5WwSVwC5NmNTQoyuc5N5XcIG3J7/bA5dnofmo3N5PBuyQ5JVNZLzaT37r/Y1DbJS703ihn/GX9+cYTaH2xrbhnk4O0pHWjC2JZ0If2adaguIqXe49wYDBt8142hnFnLziQqd3wYnHZpsm21FMRfzMZjPcdW/6xyH/ESCy9Cf4xsSRYT4Afxg9J0bAlW/fbP9s4/9elgkrA1kTJobrhj6I9IiXzdusU2ULBPrSUlnIPgwClfE8GxOcfc4Db2Q0NBLJpfWLQKAHklwCTalxKudUXEaY=;1VY19n4QT/zoWUZl3OCNSA=="
 ---
 

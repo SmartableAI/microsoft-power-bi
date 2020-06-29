@@ -4,7 +4,19 @@ excerpt: "This interactive report is built using data from the New York Times’
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-US-Case-and-Fatality-Trends/m-p/1084820
 type: download
 publishedDateTime: 2020-05-11T13:59:00Z
-heat: 55
+heat: 51
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOGY3MGI1OWEtNmRhOC00ZGRlLWExNWUtY2RkNzdkNDZmNGI0IiwidCI6IjU3MjU2NThmLTU1ZWYtNDBjYy04MGE1LTgzYjA0MDdiNzJkOSIsImMiOjZ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiOGY3MGI1OWEtNmRhOC00ZGRlLWExNWUtY2RkNzdkNDZmNGI0IiwidCI6IjU3MjU2NThmLTU1ZWYtNDBjYy04MGE1LTgzYjA0MDdiNzJkOSIsImMiOjZ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3930/2/NEW%20Covid%20Tracker.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 687
     title: "COVID-19 US Case and Fatality Trends"
 
-secured: "gC11UY8o3LPeU3n7ec3mvcP6KWssXzjSpFMf9FgM0gZyYdSCaWC5ZfaMmKYBAwPtogzMUdJtOVhc13+QkJ5LCeR0Jyfit1yEBW0S6XQwzPjYq9Vhqjub0lU1cVxEUmhJAI2SzC0J6SHFko/F7Erm2K5SVyrgYgpnGsqyeXX6hrLoMgKQ3/6cI0VdKaHp8RdWen11u0pGbG1bg8R7oQVDPMT3+QZZkFMVdp5oUASHNBlZV5gM4eXGM65huQLIFxnaZIGzbObSaskBw9s1xQrwAlwalAXHu20c9EWZd6HbV+QrHzsnehln0/2ttKvTID1laOprWyGAI14JZh7bcy8J4lemW9bQUOQnPBuFF05faSmzmwXJLdOAQ5Jle1OFER6k;s2xMdfhMHVHeGdX0FRgg1A=="
+secured: "5jsv1EcbDHJUSt+BEA9/wfuW6G2Shaz/5l93ehxeYwG+qmJjjtBS6EnjQz+emeuIzvJMAi7JC7ztKZXVfF4SGMmXhCIaV5VoSqQm9iHgYYzegdiAclHYHakPOe70DpymXjEyGxx/B06HWG4nNgn9IijYTar+CKc+THx+6Zbho3huhknUXwLfZ8hhewom7vNpQz+vUWHUirk/syIdXFKWfD7psYsbNDSOT8OEE4jSaEGGXjJJkXUH8v3DgRpQx6N4xxmYgfLAWlVPi4GdzH9K+zXqFNxwZG2uMOn1Hx03jgkFCXWBrwouXh4xQkLEgej1pheNxRJ/dahkTNlsRQKkKFLneJ9LLE8OCPmQ/oKtzY5a+/mTU639b1hxrZvlC9ohxbvfMDw6U95CzJwoeNwuZg==;gHpuq5EZTGF8Y9ajCD3pEQ=="
 ---
 

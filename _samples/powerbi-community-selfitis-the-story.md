@@ -6,6 +6,18 @@ type: download
 publishedDateTime: 2018-01-31T16:13:00Z
 heat: 50
 
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYjBiZWFlOTUtYjhjZS00NGIwLWE3Y2EtYTYzOTcxOTU4MzZiIiwidCI6Ijg0ODgwZjIxLWE0OGQtNDA4Zi1hZmZmLTg5NjY3ZjQ5YTJiNCJ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiYjBiZWFlOTUtYjhjZS00NGIwLWE3Y2EtYTYzOTcxOTU4MzZiIiwidCI6Ijg0ODgwZjIxLWE0OGQtNDA4Zi1hZmZmLTg5NjY3ZjQ5YTJiNCJ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1561/2/selfie%20mad.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
+
 provider:
   name: PowerBI Community
   domain: powerbi.com
@@ -28,6 +40,6 @@ images:
     height: 785
     title: "Selfitis - The Story"
 
-secured: "Po0gvNaOys+E9EBWMUgZ/Kh88Z/oEvFO97LPWHKpE4oATjAVpcWUB9dAollkffz2fKnp6q6QdkfLPsbK0/7eIor0EvHdEfJfo9/LHbgODAWexyb9jkmnASGZ7qy7B+lE9e4GDvVTKxYrYTu/KHjAJNuIjpbigEZq/U/tNIa18xAtLj9rXR36E04Zk4gfao1Yi3wJUmNU7DcMwdsbver++4wMuIxkdwhb7j3Tc7zIyl1b6adjyaBjHHa46jGqg2bpGQUL1I974MH8XS+ezIr+u8UL7uFKXjb17CZflKBk4/HOypiBCV/ejY4maTYEwA5pG3NcW4OIix0aWc40wxZmWdopoBqv/giCg8Sl5ZveEQP86qcWOLX+uJfXRACTived;bv+xOJLqfRPkfiZCj33Djg=="
+secured: "158efgKFodZJZaGxnCdEI4RKFYvSinDswQOu1pZq6f4lyYQnaEwXmIboH5ZyobxQJsFjoRYREttq4hPUkxduFlRy1h6wR0AXMeS8jyTrt0dMzPtJzXl51pIBNEhBKzN4iWJdKkNoGcfP5iE/s8imj8Zx0jHZIbkleyz1+yW8+V9Tr19w1H9fgEgTUrhRuZIsJT2OK4PqdV0QTMUxAxdXlMiRAaT8ir9bvKXQHECQ+It/r6pCdF7RxZqOl8GuPQeRetbJfu7meaGl8MXMCbnoTCJEtrQ3yJ2z/F+muO7o0yyBrPNV+rp7lD8c1zhsFPgN22JJjRFBY0+EUpHgHk2rFstwlHHRh9cH15WwFhU8Pt2qEU5OwWkUrlrLHZl1MI1zqlaobW2B+2dwdljtNmNAmA==;FOlqVElETnnf26ei14NSvw=="
 ---
 

@@ -6,6 +6,18 @@ type: download
 publishedDateTime: 2018-04-30T06:03:00Z
 heat: 50
 
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOTBkODA5ZTQtNTkzZi00OGZiLWFiNTItMjUzMTEzMGVmNTI4IiwidCI6ImI4NjY0M2ViLTY2ZWQtNDYzZi05ZWU2LTE3YjY5ZmQ2M2JiZiIsImMiOjh9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiOTBkODA5ZTQtNTkzZi00OGZiLWFiNTItMjUzMTEzMGVmNTI4IiwidCI6ImI4NjY0M2ViLTY2ZWQtNDYzZi05ZWU2LTE3YjY5ZmQ2M2JiZiIsImMiOjh9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1843/2/Canadian%20Beers.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
+
 provider:
   name: PowerBI Community
   domain: powerbi.com
@@ -26,6 +38,6 @@ images:
     height: 1000
     title: "Top 100 Canadian Beers"
 
-secured: "n7S4x4ZSxB8C5bUoUtPRmgo/x631bFMd5G4/T40vBmoN8zMrnQWrsi2mAdMqypipnVqrOCc5LXBVm1+RWqKWrTdZy9OwW7hAsU4ukLX00qSboXz+I6nApetWxbd5nf7Lrit3yWv6qS5MmXVJFmctx0RmBj3O23yZW2ZBijza0jJQxnjggW34WdimF2VxQR0NeOkJ6EOQ/w0nXWREp0ePXzF6RV5pGksnNC+Sbqqs+4vI8kzmGjE1qEcZg7nad2y6519vas9IFzA74LZZZPFNrkdmXqnAk7cpDUvTGIQrgrXYV8RK42zhg5WCxZxACdPly9lpeqhV3vGLvEDCYKQyryFbdgDL/1Mk2vBSoFwWk4+oswQAPdAqVHIthBwvOstN;+bEBC2JB4E6wwGOm6IvCIQ=="
+secured: "iSgNGge15GhngYD6hNXkSP/jmY4ARvUmaiZuoxEtP2ou+E6RptFL/vWLt5oIEZ1ENrkbdnth2K/sIKJxy1CjZbiB5WNELfmEVrfC6weGFszPAudyDC5rrIuORLS0ad8c9gg8lxziB2zm/JiY/HN1tD22bTq8VjWLe+sIXMq0QYplUDYZePbNqAmRJbM0SXAo/WMBNGUdY3jcZzmLGj64cl5taG/1fZbA8fhzoIJtx1GL3r6UImYYM8qN/JJ5WJPceJeLC+Yz5BMz/zY5YuasaRxDYuC9f5lLi1WlrQRTmy1Jto3o0lL1vfTXILhIvfB+C/QLIfmVEeFiYEWDQRPszU2negoL44cVYPq16EUp2ROQnssMIuXS1oPunQsHAu5HYY56d7DfVLUwRo0jfFU/Jg==;139okf+yTbvwfXJMOyom4w=="
 ---
 

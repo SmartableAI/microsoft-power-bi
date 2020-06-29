@@ -4,7 +4,19 @@ excerpt: "Analyse de l'impact d'une crise majeure sur le nb de follower de certa
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Twitter-Analysis-During-COVID/m-p/1140624
 type: download
 publishedDateTime: 2020-06-03T22:13:00Z
-heat: 59
+heat: 53
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYjFlMjU5ZmQtMGM2ZS00NzkzLWJhZDQtNzk0OWI2NmQyYTNmIiwidCI6IjE3MmFhY2FmLTM1YTUtNDZiMy05Y2FjLTY5OGM1N2M5NDM5YiIsImMiOjh9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiYjFlMjU5ZmQtMGM2ZS00NzkzLWJhZDQtNzk0OWI2NmQyYTNmIiwidCI6IjE3MmFhY2FmLTM1YTUtNDZiMy05Y2FjLTY5OGM1N2M5NDM5YiIsImMiOjh9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/4052/2/Analyses%20Tweeter.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -27,6 +39,6 @@ images:
     height: 801
     title: "Twitter Analysis During COVID"
 
-secured: "wh7/w/RvBJ89R74h5eWReQr4U8KuvX0ImxZvWLw0kMl8Lg4PwBUK8vn9gl0mgFyqvlInxWsYTySX6srLuEw5u4E7WM389JyiUKJx0H2h+LL/scJo13bnzaVMHTKrQB5D0bLxphsz5q0DnuJTTZAgvZ+q0QLPsFZ1DZfl8AIXDHV2L9RO3A0t10HI2hPtT1g4IIz7lLi0EPACRl8uLHFIUmc/o++3AWgNMjzdFuCTTzMjRwT5XGLy74MsF1gRrb0fFaC9ymHyo0Wzr/Lg1pj/ikaJS4v1oJ9CaBKOPfbiAO/OgoJ5l816yQaOLm/VAVI4smjdc0MJuJQGPINNIUHk1McrijMzcEXg2VbqgmqB8ZK98YfpzvK2U0GLHvCX9Dnp;s/6MSg4nOb39HNulR0nSjA=="
+secured: "/PuMN8bHKFrlqxSOS7XHxZyT5HzNXvhMN5YQVfYl2DzsnCXq3OqYaqQ4t0kTZLkj8P9csna9huh4JY7trdxRyjO7zKD+vdlbXvos/YEFy4UbLD+31huFiUPT9I7JFwfsQo16GsoZH0BHmegnUin0sT0pDgQxONabvkkVpLhExubLWRjAbokQ8mhItg9cnbtf4OWBMpA+uzMoapE5qhmOhZX1PKTX+VlNM4NgfqKkTHpT2ma2Km8PcgaTLKgA8xtw3mEWEsiZ807cRAXQClMefdKeZBJ/CYr8rnYVtaMd99KjAbyy25Y+SpyUHlWu+W5ubs2nFjGpXLFAyNI1JF0Wv80+tNUDR2wyDdElgBOPo+T4gUHMi079DV/6eoRUdrqsirlPBsxqsNiEa9fMIVd95Q==;Wihdqh8vrf/EXKceD9zYMg=="
 ---
 

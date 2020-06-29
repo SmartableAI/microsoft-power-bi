@@ -4,7 +4,19 @@ excerpt: "I have created a “NYC Traffic Accident Report Year 2018” dashboard
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/New-York-City-Traffic-Accident-Dashboard/m-p/1101892
 type: download
 publishedDateTime: 2020-05-21T15:51:00Z
-heat: 57
+heat: 52
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNGUxZDJjYjQtZGU0MC00OTMwLWE1YmEtZDUxNWEzMDc5MjIyIiwidCI6IjkyYWVlZTNjLTk2OWYtNDU5OS1iM2ZkLTQyYmQ3ZTA1NTliOCIsImMiOjl9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiNGUxZDJjYjQtZGU0MC00OTMwLWE1YmEtZDUxNWEzMDc5MjIyIiwidCI6IjkyYWVlZTNjLTk2OWYtNDU5OS1iM2ZkLTQyYmQ3ZTA1NTliOCIsImMiOjl9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3983/2/Power%20BI%20NYC%20Traffic.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 532
     title: "New York City Traffic Accident Dashboard"
 
-secured: "xhF9aFAI5mTkrWKeshkj6iOrKH5oB+8CnCbdU8UHOravv329F3+E+VBljpkXe6IRmui4IiQ0HDRaeVqPVHlmzKPcpX1GSBp1Zndq0IEO+42ZrByOi5ZUemI7HhvdyjbfRQuM/HtNOuJWczSis0rz9D8LM9xh59zkpt5QfAFbCC4op6G1Fw9bP+5to+/H/9SonVdp2GVn5RtAJa3h9B8Srp6PM9YeogVYDQY5JpGOHpz8/zz3U/EIhbcOeXZjTbFE7gH3RdpP3kc0R8HavK7M0Rwfe+bKLIfx4Pu0o29oLEF2O66Wg9KjEQ9c+aSk8xk0oOjzP/tEJ0q/BsyzL8wcoEmlVAXkgG++ZfD5mtuh8Pu2rh68LQ+MCJs3B8BbvaTl;yhBOGun8Iy1gPHYiXuI/Rg=="
+secured: "UYUeA8whi3pY+vfChQQ4Y0Rdfy07Z/ZicMoRbOhJ1XQF/CSnVRumZhRyKHUoPFE8NEnsyDRmkbJwYxHUlbluxbNlzdWIMsjbRdmRId+3GJ9garTHK3Czf1A1I6KbbWYdgzuZNvLoexgYiZ/9jBFYGBPfWFutwAWcSt32YboLT4eGonqbYDrGmm+Jcm+2seaX4VonnXuoRY/2pLmWmJ4HNwv2yEdw7wA2T5HR4/TnzvDffoKn7Fv+8ShwR/WtXm83HCXRIkS6hq8HzgrfpZ1+NMKwfdZexcOPgbojD49eBpCdb/LVTQfbXG2PgWWkpa+zb4Lu+r5xzSFSeNm160Sc3uuv41cA1rk8R8Xb6G73VnUoSpAW23b/roLsEMntmeWDbnfuwPMeSJLWXr5BIiAdFg==;9BcSqS2UXQCA75B+ArmWSA=="
 ---
 

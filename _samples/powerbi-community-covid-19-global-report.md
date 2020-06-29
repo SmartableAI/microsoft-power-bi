@@ -4,7 +4,19 @@ excerpt: "This report uses data from John Hopkins University to analyze COVID-19
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-Global-Report/m-p/994023
 type: download
 publishedDateTime: 2020-03-26T14:06:00Z
-heat: 58
+heat: 52
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNDRmOGMxYzItM2U1Mi00NThhLWFhYTgtMmI4NGYxZDgwNzlhIiwidCI6IjYzMDNjMTI1LWY2ZDUtNDc3ZC04ZTYwLWQ0MDQ0YmZhNTM3OSIsImMiOjZ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiNDRmOGMxYzItM2U1Mi00NThhLWFhYTgtMmI4NGYxZDgwNzlhIiwidCI6IjYzMDNjMTI1LWY2ZDUtNDc3ZC04ZTYwLWQ0MDQ0YmZhNTM3OSIsImMiOjZ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3576/2/KenSci_Covid-19%20Daily%20Update.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 692
     title: "COVID-19 Global Report"
 
-secured: "Z7Ql0u1ux9ihffUDuqxXeTnEySLhZYB2Hrjpv3fLNkwzjYIZnJzzJiCY3v0S69Fx3TGfLs2yjEkrGY25otlHErqCHN74417J9supoGl8xThqtxPuv8vKcEiE4motNNtp7N+kEYG55te5j0x8Hun66kEHq9Oe81syTnAE56Uryd4GsqDM0wsErzqdyC5oHMk4eq2vvxZCOGn6F61WZuMDQO5EiKyHwu3JjnTsr/G6xPSL/izkSlYWxcUBhjbyE+GW+DZEp+GzKrQCz2yuKT/vycFi6M32jdUSgtvhBfgR09wUImgwlREmZ9umoLHZTcNXlj0vyt++SAVYvM9HOp8Jfa9VKzXxeKVmsCO+c8vux3Z3YbreGvHmjJaLjVLpm1iI;cqNHm8LuIv/Gj5NecTqcZg=="
+secured: "U1Nvchdz94LVk9YOk8jCc4J1c5Nqo58N+N3dJ8LRQtST++1xstq4plBwPy04fDXx9nQml1EWfFWROiVKjNLxxJABuoxdMbPu0S48xcv4NxVarqSV6douAv65P3xmbHWR1e9KAagGx1/ElOQa1d8SNcSxWKN74cdXURqODfUJS4++XCbSATTYuBCRsQA/EPAJnKm1pmqv7p/bQreOA/xLEnh4QvHD95+g+Mcf0ezeiIu4C9JKkPD4iJKGnSHB62MfQMbT0fAPDnzVwnIciVT5+7dEznVhEBMWcq1qeHppxYLTmesCrCaMjdjVIAlfMbDUa+FeVTBp98FfbN9AjqPijx8bj/Tc5v9Tjs9rsKdrLp0kCSWwbu/Y0VASQ6E3SCSAXWCG3GGEpDDoHYpJuh4DwQ==;aBDHapl35Ekoc2q7fdn60g=="
 ---
 

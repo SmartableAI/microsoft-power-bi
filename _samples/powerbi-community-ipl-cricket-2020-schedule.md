@@ -4,7 +4,19 @@ excerpt: "IPL 2020 CRICKET SCHEDULE AND THE TEAM SQUADS"
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/IPL-CRICKET-2020-SCHEDULE/m-p/957136
 type: download
 publishedDateTime: 2020-03-03T07:25:00Z
-heat: 52
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMTk4YThjNGYtNWQ3My00YzdkLWIzZDEtYmFjNDdkMGM1ZWVjIiwidCI6IjkzZjMzNTcxLTU1MGYtNDNjZi1iMDlmLWNkMzMxMzM4ZDA4NiIsImMiOjZ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiMTk4YThjNGYtNWQ3My00YzdkLWIzZDEtYmFjNDdkMGM1ZWVjIiwidCI6IjkzZjMzNTcxLTU1MGYtNDNjZi1iMDlmLWNkMzMxMzM4ZDA4NiIsImMiOjZ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3394/2/ipl%20theme.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 100
     title: "IPL CRICKET 2020 SCHEDULE"
 
-secured: "583d1Obea0F1QabDKnU7AQwRN7BuNWJ6UN/F8zCcU5hTx5fLuq1rN+jjDEJ1EgzNtPQsAuUFHD+FL3ZWhWoKBf6iDAC3dAleYpcRHV8DVb0cHchATwhp6WXKbuOe4v+dw6NiF9cP1VzZWxTprCoA1ZgIRa4fZaOIIdYtN9EI2oOumePgRsZhrEjTsfcZ6x4i0sbkuLR4pCWemH5cp9XDEEJeLn5pOCC6tBoDG5Msw610OhHYn5Kh0x8Nu/kG9zJ6lnf/Uua99ULIWq4xNspKJi+iIs5AGHwgtwkgyJvQZOmIUiJAq8akYOiaBIn+l+IO2ifqH+86DP+TPJ+P14LW0eRl6xGjq/qAxYd7c7axfF5YReCvrhsfO/yczO24lBcV;UQ/RMjs5+2IUPq4I5n+QxA=="
+secured: "+Ak3UdFnedo/NYG4KiKyObfUC4hrNtliHRilZCvtrk6yz1xV/Sb+u0rqg7XA3O/zFhNx0rxqCI0rxSEO5lHpXJYgj4seBSnZyhTl0HvyuoJY07h/JEwXGbQPUD+EG3/RhudIoKkuUvvgYlfsWPcyO9Qg2PHLdiTH8FEjX/J/WUaGOo6q2a2pmszWyJQOGIVA8qsBLeGvkZtvIpLthlutp72sqSbvD+j/nrsJdLL0xu1qmK4bwp70jJTz1y4bTN1tKYiRbiJbZ8o1oEdoD3gTicmGpAUNgFN6edU59K4NaKI3NZGx051FiBfQe2c+IErVpeaxxIVKzu2iXje8hqqtBIhqaghMADcroAPWdZn2uC/lREcQSr3m1yFxWkAMEEOOEs/HSMSXlLdPonsxdgiyhg==;h1L5St2UUKwN94F61vysaQ=="
 ---
 

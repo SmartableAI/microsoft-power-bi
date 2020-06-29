@@ -4,7 +4,19 @@ excerpt: "Hi again! This time i've created a single report about de top 500 larg
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/PERU-S-LARGEST-COMPANIES/m-p/816215
 type: download
 publishedDateTime: 2019-10-11T15:24:00Z
-heat: 51
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMmRiZTQ5OTAtNmI4YS00MjE4LTg4N2ItMGM3ZGRmYTNkNjA1IiwidCI6IjFlYmE0NDNmLTIzZTUtNDUzNC05MGQxLTA5NzZhYWJlODZhYyIsImMiOjR9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiMmRiZTQ5OTAtNmI4YS00MjE4LTg4N2ItMGM3ZGRmYTNkNjA1IiwidCI6IjFlYmE0NDNmLTIzZTUtNDUzNC05MGQxLTA5NzZhYWJlODZhYyIsImMiOjR9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3059/2/AE_500E%20-%20PUBLIC.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -26,6 +38,6 @@ images:
     height: 924
     title: "PERU'S LARGEST COMPANIES"
 
-secured: "QCY3Yuy5b5p5T7CL12Z7gvnFYxe+TUl0yYq66pP8keTwgFSm+t1kcQCnJbHf9hef5jEciJ131MZ0eciUlCzYoQBifQRZt6zZPCznLr0glAMmJUuce09VDxwg+Cjk/sWWMCacm1bSoITzZKA66MuHt21R3niaNDGAU4IKtd3OKTMfv4Y/UzErhIrmGPbxKfhA7QXl6Xq5SPK+Ttk57JyrhOtHbekMWtUCZJHdowSFAzzIt0gpurwF9cVdFFL/J6SHNx0hWW9amFHgFvRE4B614O0GAWBvL0MeQMnCne3UdFi9pvjFvCqQs2newwO5olC9zMD2qKXlH8pt9LKIvlo68XyNQ7kad7N51mwjKgnx93XxDKo4UD2P7SJlU22EjOfk;U023DqbSnBDXytydPsd4FQ=="
+secured: "INwd+uXzysA7wA8tAAJd0YAH7Dr/MX7LBI9/iU4FQQtxH86MhrjY4jdCNvMuA5jD+4TATJvD+wLAOjER/6Rr78xm9oKaPhd85a5FTJxA8DYta/FAMzJatqmheo3BDysWmPh+gct7UjTpSrpU/hwej6cczDKJOQbckp8roWYGXHGmlIvn0hhelE5e51/MiV+7SC2rUTE1geJL+WViXmsbgRiV1qVyuaMfOV3fUOp4KWy+hjHA4eKa0ef3G11oubp67CGjTTNQG3qyvH6wE8m24pTMbflwuftY0GbvlikO8zgkgu3JgtgB1By7cqf6Q5j+kPpUeE9gdQFPGEeE2sGz4nmFNquCebjlie8PoRTWFTa8/xSKvuWr2VAgDIHnWdvT02U3daMKWBOqWQebZwGxlQ==;gQ+J+800jS+9vfEEEQUjzg=="
 ---
 

@@ -4,7 +4,19 @@ excerpt: "As a data challenge for Online Volunteers , Udoye Onyinye created a re
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Udoye-Onyinye/m-p/1043238
 type: download
 publishedDateTime: 2020-04-22T22:41:00Z
-heat: 53
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMGI3NGU2ODUtZGMyMy00MDI4LTk5N2UtYjRlMzY4ZmFiODBhIiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiMGI3NGU2ODUtZGMyMy00MDI4LTk5N2UtYjRlMzY4ZmFiODBhIiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3820/2/UNVolunteersDashboard-OnyinyeAlili-Udoye.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 1173
     title: "OV UNV Data Challenge - Udoye Onyinye"
 
-secured: "IggFZPXWC2jSYqOr2gqhA8oELd+e1N3AEXUtLXZqHsqOqnCtPruoSNwPrg0eqiNTINkhy36aA5NB4buv1sU4AD7zTjz05TQnyDIeifoFwNuQ54xGlCYN7UcZYH2zgwxwOIan3/z1/kiuOSHXxkQtUo1mjWjkOmpPhinEC9/Cyu14/qloCXLKxHRtyU5UL0X9buA3hx1R2T6D/TNsnx/4q2+4M1SARKa/w2TW58Y8ccnLtd8htLT9B3VGU2y4YeVsCkWVvA8jmkOa/D1GHFyzpmzs6VQjcj8KtSYsrYxILwQ0CT0E1lDqhTTL+udOlhaG8N0mSuHHtrjHbWNPOX5sp3XT0WuDK8tvMLHMqDkVYdozpSNRDVAGJpr2C/xLd8Ep;q7civRTsWEa3PHYp+PB8rQ=="
+secured: "SRw7FVSAHZ4SNTwlj2gSmk80NN4b8FXjayLr484pTXjJjgBDvtwYRoX/Fdq0+UlCUZgDQc+mlZxJeDj3aSpzAoVjNMNcCunaP9EQzu2W2Kh0yk1lOXBxsYoVatPn9ceNngkWipEmSS06XI8AQLHICGr6NHpcuee2+fp3jlrdNs3KtFOlo94lUZv9M4OEbch258LHxlyaigm7ZeHG3CfKw/GKdLopbptVngjHHjemFgduWdbxQmeLld/wG9/AVcxWhSgHSGV8hMnLwwshDXJ6WQ3bhSH2ffauTQPgdaUwVil6yAXVMHV0bmNcM6HhccHEhFE/J+U9zzufmpO2z5OJANhc5gTn+6Ei2MyOTbNFyKDq5qdt3bvsrB788LfBUUOuy1uLopRi7Kro5vudVTAG3Q==;blIZAdrl+bjhck/moP7ykg=="
 ---
 

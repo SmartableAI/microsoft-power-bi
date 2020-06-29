@@ -4,7 +4,19 @@ excerpt: "I'm just excited to tell the fifa world cup history. Check the statist
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Fifa-World-Cup-History/m-p/439983
 type: download
 publishedDateTime: 2018-06-14T08:11:00Z
-heat: 58
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZDVlMmQxOWYtZDk0NC00N2MzLWFjMTAtYjcyODBiYmMzNjY1IiwidCI6ImRjZmI2MzJhLWI4OTYtNDI4OC04NDEzLWVjOGQ5NTQxMDZlNiIsImMiOjR9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiZDVlMmQxOWYtZDk0NC00N2MzLWFjMTAtYjcyODBiYmMzNjY1IiwidCI6ImRjZmI2MzJhLWI4OTYtNDI4OC04NDEzLWVjOGQ5NTQxMDZlNiIsImMiOjR9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1999/2/Mudiales.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -27,6 +39,6 @@ images:
     height: 577
     title: "Fifa World Cup History"
 
-secured: "AK7FiXAQ6N/TWooYut8MjUmV7/Mgm4o97v9X8WZ2uYraYT67fGK30p1wgt/3xDWw1qKBeX3z8eLZ0ILwP8XMnH3F2J44IT4Ojs/k567ccBNUzNBJtBxgNx7N7e9GZzMIAMBpsZEXQnu9HMHNw9MJhqNvj89ImkKj6k20Vg7kq2RuIXWzQicRRiJsxAjUTAruA7F2ZqloMrD/hliVMIZFoj39XOm5bD1ei467/6iH0bAdVv/can5w/OnkhHb2S6WoHNqEY1RIkwUJk+OtmAKPY24o7HGSMOxwmvPUSnHpuEXeKb1+cxeuqz1sTjtN7rKHfeY/k/bawzl3t3rFlIrEmkiRvBsXdwGx3ffOj7sy5J2boIfDanf1B3zB9oLai+2S;m7u3+onLbRHBMvli++8Scw=="
+secured: "Gi4aiuagI0ShRvg1Agkt/+ZEIq2xpAK3tcvKsgT0X/VNE1XydKoXnoz10Y4+AHJZwDkIuwYRipmB6DXQHOtSRb1YT0lilSM/YiKWfrcwAZVaJJ8sPE0WAjHxDjSsbd4lwd0Xe4RcBezEUccruTTjWe/92M5Z7qAq2hHAdm5uE1qWlcKZL5YWGRQrBsHpJAEIHziviOB0+u3pOM+3yIkvR2O3RVbw3nig7yUgJu8fZ0rtghPioKmEdX6Y1m7nRpb2+atuz9omS3/HBgV6WfO9u/+hh9H7xidzJUUZ+UucZuUQC2hhIZLd3zAY0cCb8b8tSozkOLlxxx6SOwyiKEyJ3AxGgOo9awaUWlWZDkL9SdbhLK4Olj+xF3JiFaiLuq1x3i2o0rJfaW9GgHW9TNY6eMnegk6Nt7H7G8nlqiY5zJY=;MMqiSwmOT5rtVJzmFp/Opg=="
 ---
 

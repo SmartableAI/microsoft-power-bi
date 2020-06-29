@@ -4,7 +4,19 @@ excerpt: "This data story illustrates how an existing Visio diagram can be inser
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Example-of-Integrating-Visio-with-Power-BI/m-p/248406
 type: download
 publishedDateTime: 2017-09-08T09:30:00Z
-heat: 54
+heat: 51
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMWQwYWU4MTgtYjZkMi00NDA5LWIyZWItMzYwMjA3NGQ5ZmZhIiwidCI6IjA5ODQ4YTQ5LTRiMDEtNGFkNS05YzIyLWFlNjdjOWRlODVjNCIsImMiOjZ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiMWQwYWU4MTgtYjZkMi00NDA5LWIyZWItMzYwMjA3NGQ5ZmZhIiwidCI6IjA5ODQ4YTQ5LTRiMDEtNGFkNS05YzIyLWFlNjdjOWRlODVjNCIsImMiOjZ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1122/2/Visio%20PBI.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 721
     title: "Example of Integrating Visio with Power BI"
 
-secured: "T9cdnR44+HbReRAhuWf83E0exmwBd7NCPHdXjZGld6wiuwmwzDZGAWFEWZJO4k5mlEJXAW+Mb3DigFMiB/gB3U2dKi7ERKBdxR8QCnIrfc7ELM214SBKe9NESN0GC9l9hU5dHQ0myzdyAwhRvEXKl8Bb6H0xW/YpRAEs2di1iURqnehGHe358XEN0dUwOVKzluaSya4+oWX0ZIzQnIi5F5fiwVfT+oDGXdoSlwW1dkVQgw0g0fAivXX0sj8uvpMLz/TjEamt5PEZ1VomobIQQNhJo5TFxXfLIO7h/RB+Ga00ClhdYfxgsrLJaYqfGQXu2w6n94Hgxa5IUYrdkkcQBRJXXb5o1OCogAf7icuRONh9EQIU0H/YpiUWYPj/WYrW;rxOXX2V+eJVbeah4P/hkGA=="
+secured: "q4RQmBxfxOLM/f5rYHAMMjv56iJRluoUbKSUcadw6k/Dc2M3+BQyUw/Nd5CHUsm0cq8SFuoJXNHJRMVl4roC9sG5SWY4ats/ooWSiYtdTvADlmCoHG3634AFiUh7o19K56Lmxx9S3OfhM7BdBU8qesNIXAGNvQiYp0O+MXu2Ydp5gOv9PJoiS0YgYLXEN01XqijhnmYWEU+QH8ajH3eFVCrwpGmnxOsCSutgFTqk9A/nkBWiijoDFeBk74NjyalJxZqPZ/PXC9DP54i15cz52q8jmltOCN0Ie3xIAZPgKEDg8WJnkuTDRkaZn1D9ST7x49NwIKjCZBirIUTsCNHWYvNSAXa9U+CDhG2y5y466HAlW4dtlVayz2PRSm4u1HbsTg+YJ+ID/7uAWSns1oP1cZvZupgZZ1JBZCRxqPe7JDk=;Zi3WtRqVQTNA6mZ9X64NyQ=="
 ---
 

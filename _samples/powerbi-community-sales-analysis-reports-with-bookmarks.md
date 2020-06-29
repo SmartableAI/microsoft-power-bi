@@ -6,6 +6,18 @@ type: download
 publishedDateTime: 2017-12-27T06:38:00Z
 heat: 51
 
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYWFiZmE5NDktYWZiOS00ZGE4LTgwOTQtMzFiMmIyMGRkNTg4IiwidCI6IjJmNjI3NTMxLWQ4MTAtNGQ1Zi1hMzIzLWQ0ZjgwMjRmZjc0ZCIsImMiOjEwfQ\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiYWFiZmE5NDktYWZiOS00ZGE4LTgwOTQtMzFiMmIyMGRkNTg4IiwidCI6IjJmNjI3NTMxLWQ4MTAtNGQ1Zi1hMzIzLWQ0ZjgwMjRmZjc0ZCIsImMiOjEwfQ"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1392/2/sample%20project%20file.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
+
 provider:
   name: PowerBI Community
   domain: powerbi.com
@@ -25,6 +37,6 @@ images:
     height: 700
     title: "Sales Analysis Reports with Bookmarks"
 
-secured: "ZhLB9wyYD6JJadaz15Zjp8iHp29s+oxglAR/SGZYc9jlaIa+ZQlKchi/WmHqqll89cpYt0droZFbbliTR3Aj7/LDyCswXjGLL0S3ET+6ZonEu4ckpDWePYBeQ24/e0uktjQn7yFnhH0N0yqPS31xLT3ceUQ0qL+HFN+/MzxWfCBs6VIibHoYgvAgJKS835kKFj+G2LCGyNAR9tjFbH9aHRAIs5B60lP2LI3UdqMTlz9q4no/HgnvzcVi99OSuclhH0qq1d/zbYHhSy+wnus9wkt+XDPmf3bI1rG/QJlTegnCYLSUp/iDOSNSnv+WXtgvLJe6J65ik/6/eIjOZHnmqS0LI4kaaTfwjItb58JmROyp4DJexrFTFYKogb+RREbF;+O8vEsllS4H+ntMtKormXg=="
+secured: "9OkupD3oK53tHSnucTMd3x7cS4vBU7aWWXE1SjLxKec3zXua8EC/gi/+G2ftYfc3wfAA3NARbFqszn/1pcCwD8FeV0S86v9er8tY4MbC/ifCiDUGHpnPuoZq/SQj2MJ8OfhjJbtfiBq7rnZGVwnrV8nrUW+CbnEu7sFk1fkRrY9S67SzD2u796UvWUfdj+LfJeXDOvdnFJHT/CEWEPaz6t+hqbXSi2osb6YMMjsuBzljgmW76pFz7DLlM1ZD0rBO896PuePtsFeKX70Diyhkce35CbMTQ3Va5HUfg7AKUKIBcygkKKonE5R9NkLTBjsL8C/szCRCsvoFLvwd7xUM3iAZWZRfUI1iR1zWjDxWoRdhEODWiJ3ck1+7kpHw9B0CPEaTXCsdZaAMxAtmWFT+KVVKQVmmGsJtV3ZjeTedtIo=;ki1cxAKtIJYblS2uOxLhuQ=="
 ---
 

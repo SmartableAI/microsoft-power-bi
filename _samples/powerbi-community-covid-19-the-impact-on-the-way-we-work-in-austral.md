@@ -4,7 +4,19 @@ excerpt: "The sudden onset of the global pandemic accelerates our progression to
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-The-impact-on-the-way-we-work-in-Australia/m-p/1043100
 type: download
 publishedDateTime: 2020-04-22T21:03:00Z
-heat: 55
+heat: 51
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiY2I4NmFiYjAtYzNiMy00NDU3LWEwZjMtNGE3OGM0ZTgyNWU2IiwidCI6IjhhYWQ2YzA2LTIwMjktNDNhZS1iYzNiLWU4ZWNjODk3MDVmNiJ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiY2I4NmFiYjAtYzNiMy00NDU3LWEwZjMtNGE3OGM0ZTgyNWU2IiwidCI6IjhhYWQ2YzA2LTIwMjktNDNhZS1iYzNiLWU4ZWNjODk3MDVmNiJ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3819/2/Covid19%20Analysis.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -27,6 +39,6 @@ images:
     height: 819
     title: "COVID-19: The impact on the way we work in Austral..."
 
-secured: "0VgTgD5V4ZY+OWu+sFhbh06/Lw1lqkAnMHBcDKRO5qL1IYW7kNEV754ReTZ/VDEUjZjkhFdmI/CDASQkfEK1DAvbbQRDUhhO4I/1YWteTWt8/ORSe86p6oA0id0QrRiJvvHAnLEpoHeNBnrc75MdPvI0T8szLTX22ysJQlh7yM+jOY84cH5DEq2lNEdUrsAA6t/I7uIJX9mp2gvFjjStrJICAN75oUQuJDsDoOpVPKRpDLIw1Tapiom+tGy4myx3E6DFCDayeHxHYUpjWN+E//J5TGoiMXtnLgwjux/1SD28N/XN3s3e5VsZHLMfOSEkZBDBaiDefbXDIi99g7FFoCmoikue/7OdNvoY9d29xydCMogMqWKCq/Eyk8Uxf1XR;IpMtW8pcDcrfi6H13DfEZA=="
+secured: "t8FrOX/HXVUzOUu16MdjTihfnShguY1G5EcWYCU/ELBjjlPWtSmuUt4pB6ZS0FH/Q041VLSV8wlrzr4vaUALXND095pb9YgemhjRiKh+tRBieOwIzLztuz/yq+fBrVNZ80YvBsTrNggtV1Ef2xivVgEGvES+j2yLOT6Bg6JMroEOZghbDLzRAX6nOT+wuKyVHtB751O6d7tjKbQZlOeOmyDwgh1SSFXJ4z4RlJxx8PennmaITAMmcYcx7iFfDYufr9u5nXqwUKt7kKa2Mhr4WD/aD0Zi5B/kkJExRmpm7vedhx6QSMY22EVjhLp5Msean+AvzkFU8qqXtDzMeoGiNHNNT9i0aMMw5+SAi1ibzLEjzek8KEu33IlPUBnix2RbcUSdrDjQ8pneZ/MCPTY6/w==;fx6hmjiaCyFkBvaX2ekKnA=="
 ---
 

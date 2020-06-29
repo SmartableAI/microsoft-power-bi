@@ -4,7 +4,19 @@ excerpt: "Customer Satisfaction holds enormous significance to any organization,
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Analyse-How-Increase-In-Customer-Satisfaction-Can-Maximize/m-p/243229
 type: download
 publishedDateTime: 2017-08-31T08:13:00Z
-heat: 58
+heat: 55
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMTJmNjc4NmEtZTk5Ni00Y2Q2LTg0NzEtZWU4YWMzNWFhMDM4IiwidCI6IjRkNDg5YzRmLWMwMDMtNDJjZC1hMTZkLTdlM2QwMjFkODFiZiIsImMiOjN9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiMTJmNjc4NmEtZTk5Ni00Y2Q2LTg0NzEtZWU4YWMzNWFhMDM4IiwidCI6IjRkNDg5YzRmLWMwMDMtNDJjZC1hMTZkLTdlM2QwMjFkODFiZiIsImMiOjN9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1081/2/Third%20I%20-%20Customer%20Satisfaction%20-%20What%20If%20Analysis.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 613
     title: "Analyse How Increase In Customer Satisfaction Can ..."
 
-secured: "8ithA/BYr1STkYGhDVLFBz0A6n4OAd2r5sNQXY8/2EIStV+QVsG2xyCI0MIfuukOm4G2scswGtoQ1ATli5EJMTILo7qXigGk/HcGonZ2rVsF/r7DsQ6mH4U5E+me+yF5NV4jtzjH8bPpSXEwqvz2B/TYO2BsDe5zKJvnAHrvKi+EY2KmaWhJdyqSdN0apenkLsrLB8YyGp4wPsI5uZTm7Y75CzIa7TDQ9mEU8LODXemIgPUO5ObsTDnvQGk+j+qtTUVMxXQrEQ7vdeja+uAe19ESJ7Y6TuRK6EPwKbgZOH63yr7bRZX/pAed6uKTPMQO2NLL0YIWJv56YsjOSQS3S0pRwUoVegnPyk4bfPZx5ynv8BmbotQobK71isOgY/UX;khDE5noouYimNBa6YqICtQ=="
+secured: "bGzMaJtCpu6Rz6H1dDN9mD7Gox9eM9h/z2Ee+wpDkeJw9eky60jDYXf/DEhdynvo+IJfg5nfD8ASSB50kXF8k/ePloFv1ig/kkxHieykg1gQPW/Ec4Mn2qyVwvJL5Yb8UoYWCqrk6yxPdiqZkujD3FMReefvjXOZHFRzXJqjCQiPEjKoiV2UIlF0B1AH/9JflgJFhGDHKDJI3FXcOxOrEwvAM1qexGHwPpvCZhdOKf6N2xsoRght+N31OVIuRiLAc/bQOL9Ugd2vB+MUWPtwVrIJ7Qk3gXvsEO3vEtpOEuU67RuXeleoLxzUCChdTFG1Ewe0SE6smKIozAZaRKox89vTEaot4G6maQmGP6nPwL8nDn/x+D9hYSal7+c9VA0ziLg63RDR+DtwiHAP3Hrf4GQ/vs7Czi+I4LLv4ODyFwk=;lao8ssAiq7doiKvaAhiTjg=="
 ---
 

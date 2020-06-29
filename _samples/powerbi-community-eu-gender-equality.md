@@ -4,7 +4,19 @@ excerpt: "The Consult Blue– Gender Equality Dashboard has been developed as a 
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/EU-Gender-Equality/m-p/73667
 type: download
 publishedDateTime: 2016-09-30T04:50:00Z
-heat: 51
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDU5MWU0OTMtOWE5ZC00ODkyLWEzMWMtZWI1Yzc2NzM5ZjZjIiwidCI6IjkwNTgyMTc5LTFhMDktNDJiNi1hZmJmLTZhZWNjZWUwZTNiNiIsImMiOjh9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiMDU5MWU0OTMtOWE5ZC00ODkyLWEzMWMtZWI1Yzc2NzM5ZjZjIiwidCI6IjkwNTgyMTc5LTFhMDktNDJiNi1hZmJmLTZhZWNjZWUwZTNiNiIsImMiOjh9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/350/2/Consult%20Blue%20-%20EU%20Gender%20Equality%20Dashboard%20MPNID%204219805.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 512
     title: "EU Gender Equality"
 
-secured: "JqyordyW+UbE8uu7STgmCSUAD9RDF+vPdkLo1CLfSN/I5bkaACQrmxrUswQOFTyLViLOhgMO1ZCEKG8q2SXWRD1ojoApengSC8mfT5Fj3OY765Pe6vC5o650cGySl0ZtRabnSRpEcPOK/P4I1joirCyP0Y3izPI8fvicFeIaslOs6dotZS5bks0l5Ysssk7Tj+zMTSxlzffWkKX8Nxr7HTHpb/rDVP8S9ab8BYur9cSJc63IpbGFJXraYWbmsrYKr5JcBQA9pt5n7ehV35f/Kn9y8h4ysW9EhOlDyLYMnFzbpl30bM4lQCg9WGHmGHj9UShRhopm7m6MxoDpe9GKSJFO+4r5fPk3qrT0m9kX1Ylj3vzdjsQrijAHaP6gI1zM;PitHML2+mzUxfTpGKTxA2A=="
+secured: "MlNCtFKoVfKrIHgAc5NNhU581X3PdbSYAeAuKgey+KxaGSvZMmPQlDFeL6sE5AyxVQ30aABOg1N1V4p13M+ozJDinRJYRFQZHBgAQqgr/m1pF+/qJfaDnr1bqId2G2MC2t/76HIGygYRPokR5lePLr25J6KxgoxvJTtyHDxAgs90oZ/ko6ThFFqSwWzzSGeIgPqDc3G1bszvW/EQkfj6bw9213KlxuBfVLcT2c8S1KQqTytQr7yJIa5Kf+pgJc2vph7qdYCNVlmDDZNzcoB05dNEh538FQOu+gHR9kyn4RvBc4APKztIPGzn+7uetea3ueW8rzo0nn0406ZUDwFA5RL7MAuNh0dolENv7V1OlTS1NPyLz3ibBgmD3ct244gUhN4GnJY3O02dfID+dsKnbJGKmJ6vowrGYrgihMxpSPI=;NQ7fA/Zx4j0i8hMpgflSng=="
 ---
 

@@ -4,7 +4,19 @@ excerpt: "Corona Virus Tracker is developed for tracking numbers of the virus sp
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Corona-Breakdown/m-p/981346
 type: download
 publishedDateTime: 2020-03-19T00:08:00Z
-heat: 54
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYjI3NjRkYTItMjljMC00MzBhLWE3MzktNzU2ZWE2YWY4ZTg0IiwidCI6Ijk2MWU2Y2Y4LTVkNDYtNGYzOS05NjA5LWMzZGYzOTk4Y2UwZiJ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiYjI3NjRkYTItMjljMC00MzBhLWE3MzktNzU2ZWE2YWY4ZTg0IiwidCI6Ijk2MWU2Y2Y4LTVkNDYtNGYzOS05NjA5LWMzZGYzOTk4Y2UwZiJ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3527/2/Corona%20Vs.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -32,6 +44,6 @@ images:
     height: 902
     title: "Corona Breakdown"
 
-secured: "ao6FUD6+gilplybGRlbNq4STEuBGHJhs/mekO2l058Tmy4Vdb6EIKd+O0Fa09fXWAqxdbZDw+2APVxF1hecBXKbpU9d0I99sW97IolWH9qscwhgzy6zjZe7oBpdXOlei3MaJVDSFd7k9y4gNzqWaaM91SnvMDcsx40DvT5T/lhHpD0jdJqDzceYPNvYY30bGt8EkUC8wf+p8UlYzcv/boIxGt56WnNmVOHl0aVW0B9gmt0b+8a+B2W4yLkbGsmnTyvZrm8R5gJbB5CXe4jtJ/10iw111SymgdT9ZICbJdy8/nj7J6LK7iKL5G02aadlobZwDqW5BJhwcufMMOR2uf81Lm8Vqf/aqHAIWkOox1mqyfiiBu+bH+wojTufAZarZ;n8W7rUnZPhUgyrD7xAa24g=="
+secured: "1hM4iqgDgcvlO8k61u/k8EhyIiUc1nNMxNt2uGDWdSXFgRZ6ZZtf/HX1XMSwWil2BqWqHb8K4LP5gud8PzDkWKKgMcE60VrfPeVS+mQS8HrdCUAz6gCZvRW/3eKgCV7E2zfNVmXOQJmXw2LA9g+AHToYtYLKWRIkZUQJKcoDjlfCEuE9KOurmO1unuqqIs/BtCO95OlzoHLpZkHn6jraDivRtUnj7Dij2Wo92eFbvQJyfkmC1Bh+DF/lgGT2E65V63Dqe2Ir5iSb6uCP8MADU1/sDsehkHdWKAoZ9jCFbYJxeoXVr/IIY5mScxcWTh6weUpEDUkcyxho7y406NCESo/U2BEN25ejxCGCLErBfztxI2Jr+jR/pihIrzGHVGG8FQqrXLhH8FSbV5/PCF5wjQ==;8IuHJiR5PmqLN5SuROoZrg=="
 ---
 

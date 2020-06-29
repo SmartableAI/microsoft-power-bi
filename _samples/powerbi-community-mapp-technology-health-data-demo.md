@@ -6,6 +6,18 @@ type: download
 publishedDateTime: 2018-05-16T23:32:00Z
 heat: 50
 
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYWFiYmIxMzItMWI3NC00Y2IwLThhODUtYWJlZTgzZDk5MmY2IiwidCI6IjBlZjJiNjkwLWUwN2MtNDA3MS1iZjRjLWU5ZDI5MzdhNThjYiIsImMiOjF9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiYWFiYmIxMzItMWI3NC00Y2IwLThhODUtYWJlZTgzZDk5MmY2IiwidCI6IjBlZjJiNjkwLWUwN2MtNDA3MS1iZjRjLWU5ZDI5MzdhNThjYiIsImMiOjF9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1899/3/Mapp%20Technology%20Health%20BI%20Demo%20-%20Sample%20Data.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
+
 provider:
   name: PowerBI Community
   domain: powerbi.com
@@ -25,6 +37,6 @@ images:
     height: 502
     title: "Mapp Technology Health Data Demo"
 
-secured: "X5BwxPR7Y1VlS1LXCVn04CjuANd21oizGWtWjKvRj1da78BCQCMU03QyohmD3qfO/99dRGqUaYrQGRPr9oGWFLTnj0mQTuKuVfoRiAx8e55GISFj5F11wAtc4QH47pH65YTKbMOjqYh4mrXfVHHGp4voi8wFrr2VtXY7fDXTfeVjZY9SOjv5lYghB4wZZPDU10tTZl3DiYaVRTk1lkhfWgj/qXQjCwr47LrqRPtiKYJlh4vvSchorIw1J8J7Hturwr87tuV77s/b74VZgimOvfZBbu+NgiohJjsOii41iLzySMVeMkG80AXOq2LTrZod2G4GEjCp1esGaGMebNzQ/FywhtsYmBhyjfk3Ix87TFDbf5pV3+Ajb2f8DCtsNzyK;2WVX6pqO0ME/NI2yjS7LJw=="
+secured: "AGK6cLcibq4kn02NLhdwFaCxALiqQidcvqyRpl1HVInZrckkHIhzNUUk3Zf5fgRn0QE1v4TsbaHTGLL262VOm9EmfRT4i/OgH+0OIbOgcO+9J3dbWq6xBAaU6DAbICKY/DcbENqy88SsR/WR72QP71JWJYfQymWCbeCM/AafCsA385nb/p+0hVP202oiOcPAlINVlQhZ4sxdQWd+hqGDoWw86SNWs6xmYRbkwS8tK+Ek0Hge2+mSa6OfhdnszZuk2coyVFpggeYjgwX0mwjcpGdfWEQu/fxrrgqcFfrYInhj+FEdxGuGkVqZdEaqMZYDzSb/iWSFgjUQOnlke7QZLrLaxZtBEgYx8BI2kHPHM+S8w8zi6fqpUSaInL0TVYtYLBrCvWaJyTLV1KZrcsZvPQ==;B84y2aANmZrz7UvnMar3tA=="
 ---
 

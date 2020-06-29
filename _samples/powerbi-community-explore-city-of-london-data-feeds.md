@@ -6,6 +6,18 @@ type: download
 publishedDateTime: 2016-06-24T16:03:00Z
 heat: 51
 
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNDBiMGQyYjQtZGI4My00ZGUzLWFjODYtZjQ3NjZlZDU0Nzg1IiwidCI6IjNlN2ZjNjM1LTkxOTAtNDFmMC04MDZiLWI4OWIwZmJkNzU5ZSIsImMiOjF9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiNDBiMGQyYjQtZGI4My00ZGUzLWFjODYtZjQ3NjZlZDU0Nzg1IiwidCI6IjNlN2ZjNjM1LTkxOTAtNDFmMC04MDZiLWI4OWIwZmJkNzU5ZSIsImMiOjF9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/14/2/London%20Data%20Feeds%20Index%20(1).pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
+
 provider:
   name: PowerBI Community
   domain: powerbi.com
@@ -32,6 +44,6 @@ images:
     height: 4320
     title: "Explore City of London Data Feeds"
 
-secured: "JhE0j+GSV/cQMdDCir6/w4Yc/cSY+PSvZOUyGUD61pMDOoarYWzium889VlRWDaF9K+s2DD+WdN1DRDpoLVbrQR8Jvl3zU9AOc1uPbLeMKCgsSvhQBYgAJU8Htel8cjhsrrr3rIb+8r2rRTS0BDivk5Ufn1ZIqqdUFiuoCqYFO26A1HH5d5X1IWjO7LoQuZyblqLSuo+ImjxscvoOPihxbJD5Utuo6o/FfCvwyVAsUaWTtR4IzFa3VB+f6QsMc1RNrx6rAckpn5reNnSXX89VNBX9YXEBYJI3bZfsCop5SqEttf36jq7bM+ICE9GZIaIbRPiq44LAtV12TscgqF1g+GkXt88X+ESDCU3KIwWC176z84y4sR1qCdJO5dpQBsz;LBKezuJfT0Df4NSvcWOpPQ=="
+secured: "udct4G04xWnD3SXPRHI8NvTz4xqmZ6cjUa4DA+mEQKGDWUllvDSRgc+LFPkDMhHmMrgkjh7vHLMoXQPeWxmC7lAfNQmeEgBP/r/F6/DLYA1AuQabCMLOHoD2+zfUpt95nG40paJVJLfAYn7ZmNoAhUWpZRKysT+9LzVCzhdHYZssJkqd1I1+ZjRcw3h1ErKJmM2k+QptFKWALKkWaI3uM1EFapjOx7H3D2oMrVKVf7Qc7qQRjYSDwEAPPjlqD+n8J38neY641fh8XG43LxLf2wMKmk02dC7cnzZeeJWSVv2uw7GQ2s1PzVjhpje2dIISmDX/Usf/eNPSggtB1+kkXurbZU/v8K3Zy8lcxM5wVrV9o4syxaKg76fL4n2NZsmbt4g/G//CMM8Tg8lZv5BATxDWGmtMtFu/FPxMfhs/hZo=;dYzsLyNg3ah5SSSzyGnlyg=="
 ---
 

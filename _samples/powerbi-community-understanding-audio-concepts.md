@@ -4,7 +4,19 @@ excerpt: "I got the idea of &amp;quot;visualizing&amp;quot; a song with PBI whil
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Understanding-Audio-Concepts/m-p/704891
 type: download
 publishedDateTime: 2019-06-01T05:46:00Z
-heat: 51
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjc4MWU4MjEtNGUzNS00OTI4LTkwYWUtY2VlODVhODY0YTlhIiwidCI6IjVlMTk5ZjVjLTYyYjItNDFiMS1hMjgxLTMxNWQzMWRmM2NlYiIsImMiOjJ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiNjc4MWU4MjEtNGUzNS00OTI4LTkwYWUtY2VlODVhODY0YTlhIiwidCI6IjVlMTk5ZjVjLTYyYjItNDFiMS1hMjgxLTMxNWQzMWRmM2NlYiIsImMiOjJ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2648/2/Syncopation%20and%20Rhythmic%20Displacement.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -27,6 +39,6 @@ images:
     height: 735
     title: "Understanding Audio Concepts"
 
-secured: "EZ5yxVc+9v6uBo5jbZVIGGccLmWKNKDtDcQyqITtd1kbHg8k2cWt37niXPAZo6Tskf3w+quX+1a7AsvV1GQ5oJJLl3pFJsRqUE9eEuh7uqfC0Sh/GcJQvFp8eGx3CWDc7A94363bExyzjnG6H9sCauV+eADl6vBD+KM62pSZ85/Qt3e9lKsZe1Wkhf1xA4GdQAgCjNuo4NxR8nPVzwFxP9lQtiHznO4Qwv2IKrLeemZFbnVMSH1l0AHBxeFOaF7OQMK8SRBvfnR0C9a8H4df/3ODcNIE6kODSNuYdxvG6iTFqmbBp1cA7tbv4c3RAU0EJuWinI0H/zxk2IHgTP3RGAC7bF6cfnkQ+pkwjBhwwQlHIx8ijemsvv4H+Xc25p7Z;PDaELMg8xiq9v31ZGUdUVQ=="
+secured: "Rfu/s8Usean3HpmN6RDenbQMGQFuz6s/R6M71wukrWrjSVGV0DyO9V/cn6llTZI3wLXPTuIE1JTxXb+3nMzXrVnUvsp16xJpCbDWk07bid3Z8oNUBAUqvpop9QtGfg79zNjuWJGGiK/Djq8MeVESxtcnpc1WaVHpo46y8++TQH0LgEA22udIr5Zeh9av4AgnaBnWVf0yl17rc4K7n3LBBGVRjp9vU3jWHABEQbQC90uis++adR7UI1pGrr0dNiQ9oVBRuRcAXLO5ZIvevpUILRGV5lZfNnJvRfz1KpEA+KPORmxu+wRF2U3cNnGkEbJRZPDrFBHUv2iYJMHLWCcLd0AXDaOeLQN2ooyEj80A9/HxQOD3evrDzwC9uqmsxcO1hj/eO4GHljRp0accRBHKgA==;HeKBD4L9xz54M/27DP/cJA=="
 ---
 

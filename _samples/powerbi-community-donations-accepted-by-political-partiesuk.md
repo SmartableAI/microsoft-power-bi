@@ -4,7 +4,19 @@ excerpt: "Anyone can give a donation or loan to a political party, individual or
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Donations-Accepted-By-Political-Parties-UK/m-p/814338
 type: download
 publishedDateTime: 2019-10-09T23:23:00Z
-heat: 52
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNWUyOGY4ZmEtNmJlYy00OGExLWFlOGMtMDFlNjdlOGZjZjAwIiwidCI6IjgxNzdmMWQzLWU2NTAtNDAxNS1iNzdhLTY4MjUxODQwMzRiNyJ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiNWUyOGY4ZmEtNmJlYy00OGExLWFlOGMtMDFlNjdlOGZjZjAwIiwidCI6IjgxNzdmMWQzLWU2NTAtNDAxNS1iNzdhLTY4MjUxODQwMzRiNyJ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3055/2/Donations%20Accepted%20By%20Political%20Parties%20in%20the%20UK.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 835
     title: "Donations Accepted By Political Parties(UK)"
 
-secured: "ZKYw2qp5h1YUU+lgQkLYv4u2L+22ZFvVEh/Ete3jTf7a+3vZHAVDt5ou73JAGtrOVrNSGSn5dtDtOp6WtasgWKWeTGt7QfdoXuuu6fjLSjnOj4ovjEJHN4Nl596FUuVeceZ6kqd+k0HeUPIdJU6ybbukrNjofOLglsIS82mrvyjY8iOyK2pPvWVFsQ59l1Hj284xaYGfKIS7rF2KtxxyUvsUoFRMSWyuH9V9iEOZVLZqaXCSjfcmiwH2goguNhDxiG2Md9mOfYt+vvsrfee2cOBsQJ3yFqCagHxRpm2EDOMdJCdPgGpGLXSr4K1/Lmd7GgbpnW3iQGdO4AOPFqs5CrqIL6J+5Q35Ea3Tt3+9jSm40uVx3a0CiDyaHPw06wBa;Re/EGr4JQTh8WCmfvUl1Xw=="
+secured: "xfRpZF9oqlBLbCwffytCFMrVcrnDkQNhUL7uutm5om9FjDwYwI4scoan3UgQA64eg0waHQPunumkTQp+jaJIzhyi1JVLuw0HdCiAjWK00VI38VxlpaCVN42F7U69hZ+4ciCGsoYPht121DBRpbubQYWtNQ25CbOke3sTjEPIsycucZ67UMtvBDcOG6xHZvfcqGcbGGXXTZoyT33fGKJbmWscR8AJcSxgdYZvV3uP6DONUcKBcxopsUTU0MIwh1xNVpGClFNMXoGD3GDKINRxzxwdevnhlCz5B6pC631/zyt383PLgGKE9A3vo9VHoon5ERI63Mky+wZes1e6gNnIjnlR2xsLOqQ1mfAuHR0T9n1Bhe/TK3FZRt2hLC/DwWnIYfvw7gUkHkilhkGFnwHe0g==;6RNLXf3IoT/EyJojrxi6RQ=="
 ---
 

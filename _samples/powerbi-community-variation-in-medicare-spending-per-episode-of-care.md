@@ -4,7 +4,19 @@ excerpt: "For this report I analyzed Hospital Compare public datasets to identif
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Variation-in-Medicare-Spending-per-Episode-of-Care/m-p/660582
 type: download
 publishedDateTime: 2019-04-02T22:23:00Z
-heat: 51
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYzBiMDAwMDgtNWNlZC00Y2Y0LWEzOWUtMjZlODM3NmQ4NDAwIiwidCI6Ijc0NjM1YTNjLTZlMDgtNDgyYS1hYWQ0LTZkNTBmMmI2NDMyYiJ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiYzBiMDAwMDgtNWNlZC00Y2Y0LWEzOWUtMjZlODM3NmQ4NDAwIiwidCI6Ijc0NjM1YTNjLTZlMDgtNDgyYS1hYWQ0LTZkNTBmMmI2NDMyYiJ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2584/2/Medicare%20Spending%20per%20Episode.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -26,6 +38,6 @@ images:
     height: 752
     title: "Variation in Medicare Spending per Episode of Care"
 
-secured: "tc9kyqMdWZS4OB+CpNMVdJJUQEymXTD8tEzYODXXDKvLRZSXt0UbdwNW9Qcs+dr0XH4hJ7tuEQfTASxYTZQy2I7ghML96SphiwBdewVJMfInwvwIkTvq4iruD1xnW9Vu2lNd00AFthEXepK+8dsMx23q4eurYlSGmot4S5C+Ly0PBqbJf3MTpQrqWN3m3c4+gR2e1VFlucUkU9zzOSzYlJas27mXO2HIlqDKwa28NHHRSWeVAcnSt9/P549sG9jqG8uycjv8COhX8iEk9ayfBltzqrwQS4xj3B7dG2CmPzCAIpFj5O3/3HIzGl9oSuTECUJIptNihvEUQICotl4RumzHZrkyWCg933zJwZP2fCpbRIDDhkT1jA7SOGZer7BV;/88acjoy6DVLCunHsYQy8g=="
+secured: "+iUpbMX8QclfDRw030l6l3g1tmY1DPnoEd1h6eUAE58GpJ/SWhVBPqluVahuN56wWyaJTZoSdBMD40zGEr/0u6bZ7tqaOCE8DyEaT8Xd0Of4vYFNRk9CcuAh4BSs/S1dNxn06BES0555jH7etkmU4DiQtrfr0BnfttWpCr14Y06GlsdOBI6v3JxSgdac/KXLjsNoFG8ACkcpB3BOm4Hq1TRNhqC38GJ507Ozvt7rab0s9Su1pQTwiOJLc+1AKiRmKaORP+E2nLllLGWKFydbFUwSRzHyHJodxbZWQs5HvQsk2q0rjur5wov5VEaK2ra0Pk2AK8T1eOlt/CcafFxhs1W76anCAaZFhZe89OdPrbCZrIse6duroqlZH8DfFbJ79oEMdFzlFmFRR5stmNNcCw==;dANVz0fMC5ZlVqzfb/B87g=="
 ---
 

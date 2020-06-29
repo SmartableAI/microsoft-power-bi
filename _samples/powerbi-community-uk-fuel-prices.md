@@ -6,6 +6,18 @@ type: download
 publishedDateTime: 2019-09-14T03:00:00Z
 heat: 50
 
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZDZkYTIzYjItMWFiOC00ODg2LWEzYzktMGQyMzM3OWNkMDgxIiwidCI6IjRlMWY1ZGU4LTg4NWQtNGY2Yy1iMDQwLWYxNDFhZTFmYzQ5OSIsImMiOjZ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiZDZkYTIzYjItMWFiOC00ODg2LWEzYzktMGQyMzM3OWNkMDgxIiwidCI6IjRlMWY1ZGU4LTg4NWQtNGY2Yy1iMDQwLWYxNDFhZTFmYzQ5OSIsImMiOjZ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2991/2/Fuel%20Prices.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
+
 provider:
   name: PowerBI Community
   domain: powerbi.com
@@ -26,6 +38,6 @@ images:
     height: 317
     title: "UK Fuel Prices"
 
-secured: "j+Q9nmzlhCwMICT/+BOZROuqmIoQXljmGnEfuOowyvEduVz5QzW7dhgQzGOdc0Bd1HmLcCMef4KcDyxBEse9TwrWLRppnBUnJga4XN6S625sn8Z62gmoUoHqQeNKOsKik+ysnZ0f27eOAHCQxrBxcAv+R/HLpWQ+AKc6AXfkN5L0vGzybzdXx+wyjn9ztsMiRAxI0qMFK9RYMT0EEc3xzbjG4LUH8bMJW0qTv/AyOmYqtch/MhqSt6fkettCTClJ+IiRNgPJpU59XsWXR4EtZ60xkaU9GapbVSu114+SoPqRN/KNYT++hVfibHXEGPCo6dJQUQTTJlYmuX4+yvf7fasvyjzxW4DKxj0fjpmElgsVXJAP7tdk1SJQ6FsZ2Byr;+CtGADmyt0LTuzDKjBqCDg=="
+secured: "VdPUWTEA1rD0HabHRkQxgrLBFNdzanA1c2MuEaKs/I/tDzxjKvb05bN14rSf1ftb6yoWGFLHanzR2OnmueIvaWMPUWkXefRSrFuJCmRpYKQcykNpBtvW0Cc461CgThjtFoZvb/XREAD7YXE15bUoiEdGAWuoPF7AUmA2BtkMGZB1xr6IFZneqUkRQIlsU4Gf7vxbOfoIyK6SMMUcSi7feosoX4789wsGR8JBo0+w0ce8sXj8JQBRdETrX0HrNbAAnr0JFStgJkVA8XtHFDIAvfycxjg9HXT+mFmOSjdYSXRnTvq9KsmujKbBtt48OQSKj5X+Q0FHEx1bRgfqUml6zgjFo8pJWVggcK2LXeksPayuQszFBRmkIhD8xByGTJytgArdoyD3FdpK1WgiPvVY3Q==;eJaXLmSGJgr1pYBNRMzlwA=="
 ---
 

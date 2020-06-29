@@ -6,6 +6,18 @@ type: download
 publishedDateTime: 2019-08-20T12:27:00Z
 heat: 50
 
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZjM4NWY1MWYtOTRmYi00YWY1LWEwYWItNmEwMmIzMjY5MzMxIiwidCI6IjRhZmMxYzI3LTRjNjAtNDhiMS04OWFiLTJiYzFiZjU4Mjk1ZiIsImMiOjN9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiZjM4NWY1MWYtOTRmYi00YWY1LWEwYWItNmEwMmIzMjY5MzMxIiwidCI6IjRhZmMxYzI3LTRjNjAtNDhiMS04OWFiLTJiYzFiZjU4Mjk1ZiIsImMiOjN9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2869/2/LatticeMethodFinal.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
+
 provider:
   name: PowerBI Community
   domain: powerbi.com
@@ -25,6 +37,6 @@ images:
     height: 662
     title: "The Lattice Multiplication Method"
 
-secured: "hBRtpHQ4S4tRPC/Dk5TVM+od+TVaTNFBjsvzdlXr3/aWYeTCsvIeXTEfrYHo8xobk2+EnK28W2zA3sySARUFJO07qOdhUwjX9nscxFdQaRFsEO58LYKtI4hcvKn9xE7NyktnOb7SmLpf4f3MGt0SQ7qhCRQ6UOaD9tDC66behvaeUfFjQXclLUb2JZXeeKcf0HC96DmiBseP2rk8Jk8Lx5UPX/iPM2DOC8aoLznJKAC8EyUxxPnBHAsHNjgglJHTl9LIoJ1jcNAP9qbaNEQXZL+yLUiu4dVjB0dhkgWIy4mWAOA++gQQPR1qA51fL36xZA0c4qdzgMVHpNzmP191Ni1zDu6/8acJ2JzyFGRhDdvjrv0+8euOPWSPAJOM+AIQ;n+YeUgLU1tPHxG3sLxLCug=="
+secured: "c8vN534BalNJAp2MzIKJdYCNRB4Qb4PJ9usR4+f91tkPOJO2A18E2+zF8c+FbZDRqRizaWktJ67OjcIAF/GT0iQrCusS38Tl6UIE34b4AHONZxnuPQ7NDlXM1YimrlQ5OyY/Qw9Xj8iJB9PcOJ4WaqT9R4sXmaA/pOB+BjiEoN/gYldhIugihysrADJ1jII9lX/1i1EkASSe8cDnO4NxgUhjhcvMUVwfMe+d/7rIhrfXTkykCeni5uWPWCEM12ewPEU9YXZW2csKvt48IN+KFqjjlbpNlr9Jkemj/JMzBdM2UOm/ssQDU2FTc6+8EKPdeEbdkciqB3PfGNNa7h6z8EscRblkXEovjt0+uHfhzzHieVEqY11lBIhpJszUpjJ3/N4E2j5+2+kZTwbOcdZFIA==;sc9yHEtmM5ZcSpfBgFApMQ=="
 ---
 

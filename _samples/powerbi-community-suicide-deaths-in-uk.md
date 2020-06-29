@@ -4,7 +4,19 @@ excerpt: "2019 Week 43 makeovermonday is about: The age at which most people are
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Suicide-Deaths-in-UK/m-p/825984
 type: download
 publishedDateTime: 2019-10-23T01:46:00Z
-heat: 52
+heat: 51
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNzNmNTIxZjQtZjNlMy00NmRkLWI4MTctN2ZiZDBjNDhkMGNlIiwidCI6IjgxNzdmMWQzLWU2NTAtNDAxNS1iNzdhLTY4MjUxODQwMzRiNyJ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiNzNmNTIxZjQtZjNlMy00NmRkLWI4MTctN2ZiZDBjNDhkMGNlIiwidCI6IjgxNzdmMWQzLWU2NTAtNDAxNS1iNzdhLTY4MjUxODQwMzRiNyJ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3084/2/Suicide%20rate%20in%20UK.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 608
     title: "Suicide Deaths in UK"
 
-secured: "OH4WrJ2WIEMmQ6OfTSrl8OX/WtFuuKlOV77jrW07XspZrZgKsUuYhD9q/Ztyx63ZRLcc+MCRLQvt2/w4Kl46VF9Na7DCjYtSvxOUTIrgBnBD4ExhV3TN/thJo5Rh7xSjUjCzFVivrpWq85WzuDyl4VHoy7D0PFHo8HC2uAgX69XnYInrFaK2UNCvVe/EhGCR8Suj6QBrbDeE+WFR1280IvmTR+9lzebKJnDMATZ78hWdiKkkFeLPg+bJa0cxwM8SQm+FyHxM0uox+JERcJxSbd1Wn7FzEa5sZo5kaXIb9eyrNPj3J09ULmpSSc3eNao6z9EaDNXa71E/ttSOFLSaiY3FGA+k5oD8FT/xFNLfirPI9YxWU8CP4ZemEW7M00pX;KMrEh+VPeU3bzgSwMg0fWw=="
+secured: "va4As3guVc3VnHEcU4UIH8fmKSqTl0uQ6mgBVKDtK91uS2OncTjLMJH626mu9suQsKHv1z3ZuyP4NRmV2ZK3UqKjB8m4Fa/fqgbQ0dLaOjSdaw/uveB6VRN6Aa3VqWtT/wXmAMxqNX6Yy1Qk7o9O99rkwpA7A8hnlzommZEih+9IPydDSn5esPYelhsY7eSgaNpu1FcCBwWuX60L5zJfnfFc8Nlh7VawyLex20tM1jORt5BpQvMqSWKRCSTUJ7lC809R+DZHBp+mopcLYwfMfZdpffoWvglWlR6NrzbeB8bxgszOKL3wQhslYH+22eC9RyJH0cZ8Oequ60vr8FPiKxP5QcieqPSRagNecVZSHq/Fg6tHM/uLXNrkt7j6nEybEpIwnP5uiaQi8NZGssuUFA==;6GqDbD1eQ/lmN1z7gRNOpw=="
 ---
 

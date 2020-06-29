@@ -4,7 +4,19 @@ excerpt: "Human Development Index scores being pulled via an API. For London PBU
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Human-Deveopment-Index-scores-PBUG-London-Data-Visualisation/m-p/875397
 type: download
 publishedDateTime: 2019-12-14T07:47:00Z
-heat: 51
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYjQ0YTY3YTktNTVhNS00ODdhLTg3YjEtZjkwNDcyMDk1ODg2IiwidCI6IjRlMWY1ZGU4LTg4NWQtNGY2Yy1iMDQwLWYxNDFhZTFmYzQ5OSIsImMiOjZ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiYjQ0YTY3YTktNTVhNS00ODdhLTg3YjEtZjkwNDcyMDk1ODg2IiwidCI6IjRlMWY1ZGU4LTg4NWQtNGY2Yy1iMDQwLWYxNDFhZTFmYzQ5OSIsImMiOjZ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3191/2/Human%20Development%20Index.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -26,6 +38,6 @@ images:
     height: 302
     title: "Human Deveopment Index scores (PBUG London Data Vi..."
 
-secured: "sM80K6UWzhoGKKZF1IlNPNApJMII2GIG2V/9RfyIC5jD/DFpWLkNI3h0ZM9Kjbmyw2xM60tP65IzD/tPC1Dx++K2mqbGLc8GaurWyH8khtUaSqMeHIHeovM2Wh52Qb53iM+bvOHVeYvV+tEBJcpL7mSzYTmdYSC7Vp65t9wQQ33Tq/A8v91s52Sor/aK9cuL88VmTbLByilSPBe+UgeY/FdIJSgS43wvymBhqtn7xGrMs6AA2seJFN7AjR/zo8iUQ+IfN4AT4XIwd9Td70FjnWRa4S41rCIOrF6g0NLw+CY1ODiJZbg5nut7WibjOVjr/PZ8KCSUlVha0o2JQeyPMxTdQzuUXDMAVy525PjrcJXdDiAbjAbQ5nWaE9LWQ/0F;kzP8vAgFFMoSA9DyIW7A3w=="
+secured: "OGbITieVBdpzDNIkm1O2JNOOXF1lzYO7kOaQb/jU6M8tbha6zuEA8hGmPi23UaroMRTgnbhxI8c6zsVD5YnlO9XlZ1PNzNdU9JazElxJEfSHtGEHK/yJ21Ok3k3hYH4hcO9ux8UvDlrgc2I3860OYB1x9uIacPE+MTdjG4E77TTkMbfI/agkvXRY2thw0F63kAa8bjE5Gtkt4CGv8Hd99mFmhgF1I4WO5utX3Nn1NKvofTfhbzVK3AssBLgRmz5/nMN5TGX9tufolavm0aFaAA28b8lqyF+Se4TXLJ2QEKBLq6svH026A892SsYfcKr6ESucoQikz6wUVFYVWN/5UCnG9sdNLXatkTyexoXNbsEYYH7/M/bN6kRfD1bRD/RLVpbN6mCWzoUMFYXLK52jyw==;ktpRBH02y38/nw9kpz3iYA=="
 ---
 

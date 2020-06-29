@@ -4,7 +4,19 @@ excerpt: "Calculation waterfalls (vertical axis) - The status bars represent bas
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/PowerBI-Ultimate-Waterfall-Custom-Visual/m-p/148895
 type: download
 publishedDateTime: 2017-03-25T03:28:00Z
-heat: 52
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNDAzYjJjNmQtNWU1NS00ODNiLWE2MjItYTQ2ZjliMDhjMTc0IiwidCI6IjJlYmI3YTRhLTk2YTYtNDVhYy1hNWFmLTdjOWQ5NjUyMGFjYiIsImMiOjh9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiNDAzYjJjNmQtNWU1NS00ODNiLWE2MjItYTQ2ZjliMDhjMTc0IiwidCI6IjJlYmI3YTRhLTk2YTYtNDVhYy1hNWFmLTdjOWQ5NjUyMGFjYiIsImMiOjh9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/762/3/GuV_demo_min.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 1579
     title: "PowerBI Ultimate Waterfall Custom Visual"
 
-secured: "TKupzuujVstJWcmWg2AcM9rrkTDmKil/utP/amIpVmrsz5v48eYhRaTRqZC8O9gP7cJ/dLAOrtrgjwIPMnkBds7wPd8tmG1G6Bvw0Nyj6HgFbqLsbrMAQKGOaxw0s7RUALw1A5VjndWUXtH5A8Z3LfwBS9ffd7RxUe9cAvF+8Hg2/pLcUeOxqOXcg+XHoa5dOiw/s+GutL0X+Mlsbtt++gYOX2apZpRa9BRon6nm++qHa0jJj/y/bO4rE9PgOKoj4wEXLDYlHI5AjWcYZgrGxJe348M130i8IE1mKRr3GhmUViULehgdQ0k4JX+jaVTI2Uqhqyb/fJ5NaxMrtAM76ctbh8a9kRXXb3bXOnivhZpUiNLwyXVNDB7X4Hn+TssV;D10lFFhrR0XSDnBqKoUy4g=="
+secured: "I2swgmh3DqncENVq/GID+JshpRRUj5NbNCxQuV9tq43vAkaCzAG/OLs6t94nI76jqegEYUB8vzcfotX0tF6APkpgxvyeBYGzAPyUiuBQ4VcTFNoQFxOSptBXj806SXF+NSOt8hvbJRgvMRJqfY2EZLdYXh7OGa/QJ/bymqxfuU3atI+ObAcxa5EIHcoBnlWaQhJwSXMYu0xmd9qI6Gu2PZKMeQrikZTXzXxIYEOKreK0JVeKOAHfVJJPsB+2V/y4G+5DB0HwXc142ZglaDMjraNwnhrLoDCUPInCikEjHE4SQUdKmC/E9EydY+wAdlgZml2TQXtomYnTm2/wi4WmI4x3l68yelpSsya+oSNkwPOTRp3/iGuW4NGKGizVftnNw78NjcXdnXq8qIwaLmASYEpDp6Tfm336XS/muOXflGM=;u8hpHtav09oCqICAtm0djg=="
 ---
 

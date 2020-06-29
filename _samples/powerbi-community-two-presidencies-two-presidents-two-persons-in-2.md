@@ -4,7 +4,19 @@ excerpt: "On Friday, January 20, 2017 Donald Trump was inaugurated as the 45th P
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Two-Presidencies-Two-Presidents-Two-Persons-in-2017-As-Seen-on/m-p/346261
 type: download
 publishedDateTime: 2018-01-26T12:47:00Z
-heat: 52
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNGQyZWU0NTItNzA4Mi00YzhlLTkzMmMtZjMyOTQzZWMyODZlIiwidCI6IjIyNzNjNDFiLWI4ZDAtNDVhZi1iZWU2LWUwODQ5NmFlNjcxOCIsImMiOjN9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiNGQyZWU0NTItNzA4Mi00YzhlLTkzMmMtZjMyOTQzZWMyODZlIiwidCI6IjIyNzNjNDFiLWI4ZDAtNDVhZi1iZWU2LWUwODQ5NmFlNjcxOCIsImMiOjN9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1527/3/Facebook%20Analytics%20Dashboard%20-%20President.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 775
     title: "Two Presidencies, Two Presidents, Two Persons in 2..."
 
-secured: "g69XiQXMyGqsYMR6VUiK7oDuWoduvF2o6IHpAyPq5xkfNehlZDpPXg5Kq4s7AAvVbaxSQZjjmyBtPrHWz7oGTfXR6Pmzg/t9pEubHBqSzMUJmPkD3eGgRr+YSDOC7k3eJj8TJy2eB1bhSJimRh8quhaTGWVDiowbFrvOStYPeIBNXvfWAbbCy+6auabnwI0epdlpB42NW/c87oVdIQEqHUsYk74qz4qEott1Vea4TRdIG/s92sLrK/yHqPDixHTqd6a14j9alQMXmtAz8nw/7+2ARLBIWGOCRgp6u43ll9xpAWTxJjDhFrrvwMp17wahLGnjiMlg1Yz+wYZAzdysMAFS0qQvw8SaAe08BmvlIZg1pnLMteS9ox9rrQIOW2/E;uHy4MN+V6PJwVUk/6cwyRA=="
+secured: "y03sfp/DEMIqL95NYwlXQT1AARD/WHJwQR9ykw7C3hcOnjnfznd5KY2vEfctBAD9Q1A9wWkr+z9UU/6UtMXqcVBkyfvMV9bi1kJCoQ6Q/+0p5LT5bw0t3I7p5JpcTc3j5beyjCT7l1BfjuqtBEslQwDmHatx0prHHefrtb+z8jKq8xfCk55Cu1KXaA59Nx+ZNNV1yACQg8Ht/sVGix0HvAj89yTeb+6U7klz4n/kVTKF5CEEyXlyItBpncLZyI48G0gDSNyBN7k1axyHwmjlzFtdPe5Hop6uUgr8q7pzX5l2eJGDzYMjG7SxdJWG2j1YCe1PGQBvLKrVji9LsuTn5t1xMeW/BGAknOVQUr6jZXxV+6hdRKiegG2uP6wTI2XSxiiCEdq3drsjUVP3wwueyiDFpW+GEWCN7bQrKci8GmM=;dCKy9QNJuDDAxrBwACqiJg=="
 ---
 

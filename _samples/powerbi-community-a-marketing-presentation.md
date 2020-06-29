@@ -4,7 +4,19 @@ excerpt: "Presentación de Ventas eyJrIjoiMzJhZGRmMGItMjNjZi00NTA1LWI3NGQtNDQ3MD
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/A-Marketing-Presentation/m-p/425992
 type: download
 publishedDateTime: 2018-05-26T17:19:00Z
-heat: 51
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMzJhZGRmMGItMjNjZi00NTA1LWI3NGQtNDQ3MDNjYzhhM2NiIiwidCI6ImYyMmFlZDcyLTc1YmMtNDI2YS1hOGQzLTFiYTgyNmY0ODI4MSIsImMiOjR9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiMzJhZGRmMGItMjNjZi00NTA1LWI3NGQtNDQ3MDNjYzhhM2NiIiwidCI6ImYyMmFlZDcyLTc1YmMtNDI2YS1hOGQzLTFiYTgyNmY0ODI4MSIsImMiOjR9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1925/2/MKT-PRESENTACION-OFFICECONSULTING-03.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 695
     title: "A Marketing Presentation"
 
-secured: "0NA+PfWYa4bCfaRr8IoV5pOMJRHP4TDvMR6sxpqPrGMjxewKVud8YvdS6Wdmxnwcx6tQRL5+14b5+n+11XqqNxtJwY0rGFmz5K5y0C7kL4dtzCXEJT6oR5Gbr4E418sCGwrCc3m2jQQqbH76NEXiLpuJIVPSwv9dm+Aj0Sfb/nDtjcwHlX/sahhLrqwMMCX+pcff5D/17leCB4udWGH4wOZSclnzISdZtAvgN095VTr8Y2p+F/bBVSh01Gy6g1oJBgNRQVomHuZQ/6igpLNg35nq2RTCNUzDwx2DpImsMkFeou3Us7wmgGXZOctXZOo2auQm3YOrKv0OqyPvbEfDQBmBZJyBHUImq7XPBcEJas4vXuszN+IY6BG4v/X9GgBz;pbLulVzzROfYf1pGJJEQqQ=="
+secured: "fcxtfVll/os9XoOq6biXHkMlR0/u8QBn+/neNvUMI2Oufqp0pyqAxQYoXDuBVEvBz2GKDrW8THo3fvevtxhCW6+TSVHgkQ4ZAJ2wasvdTP5PV46IBAbGK9BbP/EziuVIJSwQtUyOn0vjaf6lOKsBbU+gU/hDuWFLa02yG4W/o2w5tT37c/V1sZH99NvgwJ7cdtVSoo+yEWrq5oTyhedlK4dPI+wO/3EQmmfBn1VPNS4WkA6m0IP0Xc+pJm8uH2tK8TZDEfK+scZGOb+WnJn+XctnUVq6KoXLwFDfQM+1jblX/reXglNFF3git3EvpIB2D1UrH0fj5KvnZ7gkHu6icXG34/NRYlEBnSr4gRB5v8x5AKgMITKUs8F5a4GORcjMGLzTMg3h+8k/+GqWk8fdjmnqiEFihyqoYRo1NCcQhPY=;xGActwP3UrSUXqoehXRUcQ=="
 ---
 

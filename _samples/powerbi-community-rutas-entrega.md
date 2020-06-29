@@ -6,6 +6,18 @@ type: download
 publishedDateTime: 2018-06-04T11:09:00Z
 heat: 50
 
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjcxOWQzY2EtY2VkMy00NDU4LWFhMDUtMjliMjBlYzEwZGI5IiwidCI6ImYyMmFlZDcyLTc1YmMtNDI2YS1hOGQzLTFiYTgyNmY0ODI4MSIsImMiOjR9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiNjcxOWQzY2EtY2VkMy00NDU4LWFhMDUtMjliMjBlYzEwZGI5IiwidCI6ImYyMmFlZDcyLTc1YmMtNDI2YS1hOGQzLTFiYTgyNmY0ODI4MSIsImMiOjR9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1947/2/OPER-RASTREO-GPS-03.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
+
 provider:
   name: PowerBI Community
   domain: powerbi.com
@@ -25,6 +37,6 @@ images:
     height: 737
     title: "Rutas Entrega"
 
-secured: "AfCbeSjN3ibpXpwzD3Z/pMEyv/wOFJxHvexXXYAXp0+CRuhkUK1cSArlm7hmhUldsTytYj3FmjYPaq113Wke18wrbKA20yl5+Acv4MulJgzedKcRMjZ0ttkMyTwAv8HHJjv6gI5fpOT7WVOi5dLRb7NSnK08kbO1L6WApLPIxzjTuq7AQPaNlv8jVQSIWvxQXWOGaxTFUAE9GncOQ9ExRNMPR12gIMnE/1rrHz/1b8UpPX6qr3ydDgUu+suQh3k4lX0oxhLZapz0/RaVt8PC3Jd87q/XHKQ2w78ACNx/6xuNi5KWQMB8SENxq7P3TaNyw6wRx8v7wrc6Co2G95lat1O2i+PbMvEGnv7ze+EEtl1uOPvxl932xenoDITvMGb7;IWPEvzXdrHt/DMmAb16YFA=="
+secured: "GA1Chm9IBOc63eEzT/6psNONvxze5U0u9btjGo0Xcim/FaaBPDFTkD6RCLe5RkV1kavz0D16i/YRhernT4O03B63beQS1awOcO2yIW35uKM71n7WaLnjW3T8YVQEItIuXjr7cF7dZxdCCQSgF6GQtg8pNr5xAZ0yVjncsktbqX60IcCU2V8W11Voy2UnKwl6X/cPSOULlaOeAo/cyIp01MviNWPMnl/Vz/4K0+tbDvOeLG7nif18u04bteB1ogSlAqjfkZVqcxrT/oEXlKB4O6iubTH1uoI/C4mLYGUCnksnqcEMO7heweDXl6kNMJzjV+24k0U0MPLLYKTUhZ+YLy3uxKs4ePR/ICw1NwzE/Bffb9zZAh8vzx63hmYN2x7k96AePACUUTZllYMWVojC1A==;XkKQ+LW3H63qRi/aaL0aRw=="
 ---
 

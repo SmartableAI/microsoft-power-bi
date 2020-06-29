@@ -6,6 +6,18 @@ type: download
 publishedDateTime: 2019-07-14T12:25:00Z
 heat: 50
 
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNzYyNjRjNjAtYTViYy00NTY3LThhYTItYWY2ZmE3ZWNmOTAxIiwidCI6ImZmOWUwODE4LWViZDQtNGI4OS1hYzczLWU1NmZhNmYyNTcyNSJ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiNzYyNjRjNjAtYTViYy00NTY3LThhYTItYWY2ZmE3ZWNmOTAxIiwidCI6ImZmOWUwODE4LWViZDQtNGI4OS1hYzczLWU1NmZhNmYyNTcyNSJ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2763/2/sting.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
+
 provider:
   name: PowerBI Community
   domain: powerbi.com
@@ -25,6 +37,6 @@ images:
     height: 134
     title: "Sarnia Sting of the Ontario Hockey League"
 
-secured: "KsR6hmvBQbvMdDiLxnwoyOz3iH2LgEaPTdmCpcIVOUxyPgvrgWoAmMMV7/ZUX2Dv1V1syTuboaViLd6aK1M5u5OcOc9ck2QxKBCAaKyUDqpS3YJLVT7sqP4jmZ5ua/hRitnfDTUW08paTctoztwhiZEej6C/3bfCAz97CdzEMkq8RgTD/dDLzbSldWi5yl8infj2mg7OnE0jVenQwkGxCv/sSt7VWnv2VpgYbT59c/JloHaV8jgNm+Du7lx62usSw9z0+CUmbjdfcfO6m6ZTtKwGpsmUXIhZgXzEGXeBt+lBup7u296FhkYIIah+thKuo6j4yd1iGKP9CAOkaXVzdboEYzMzTu2T6l6YW0E2CX+K0pFeOoQnQS7tlW7Gii5o;Cv6sskQnKTNC63V+yaJnxg=="
+secured: "/N2Vn1+y+gLkWkE4JZyKSfzsMHisgAF2r1h6VrrOait7oswvRo2qqMw7mxenTc46/P2KOSo8SSIsOYX0dDRC4FBALP0xNGXm+4Zyjh0IZWXwMnV3Ayuo7/gkdPMUe6r6yZXyVKxsNj0/5oZM8CkPM5uS6zT0nSy/Ky+ZX8DLGWjFqBJdsCKzhM7ixLYd1hW2NZifDtgdT+XGMpGJUG2OfA5wNjO1cuN5PoVX1CgMBmHnIGe8QChp4Qq0hcT8r3i8L5znykougm3rdlpDpqBR/a+TRsk/dXqF4X8kAvw5+mrVGLHSedTvvzfMu73wcHpWcP5RZG9T/n+sHsDCcZOTSDV3GhBAP5ZBc9XS7dSlgaHDfLvTluF6s4t4rSCMosBEVhpbcBlZ5aQnxC0ugEOmig==;RgtGBbGqzSFH0315wk+qXQ=="
 ---
 

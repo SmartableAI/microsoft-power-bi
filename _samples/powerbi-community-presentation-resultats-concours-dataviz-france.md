@@ -4,7 +4,19 @@ excerpt: "J’ai pris l’option de créer un rapport Power BI qui permet de rac
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Pr%C3%A9sentation-R%C3%A9sultats-Concours-Dataviz-France/m-p/261928
 type: download
 publishedDateTime: 2017-09-30T03:13:00Z
-heat: 51
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNTRlOWNhNmUtZDNhNi00M2FlLWFkNDAtYzc1YTcyMzhhYjAxIiwidCI6ImU0ZWZmOGU4LWU2MzUtNDI2Yy05NTJkLTA5ZGQ0OGMzZmM4MCIsImMiOjh9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiNTRlOWNhNmUtZDNhNi00M2FlLWFkNDAtYzc1YTcyMzhhYjAxIiwidCI6ImU0ZWZmOGU4LWU2MzUtNDI2Yy05NTJkLTA5ZGQ0OGMzZmM4MCIsImMiOjh9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1172/2/VehiculesVariante6.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 1043
     title: "Présentation Résultats ( Concours Dataviz France)"
 
-secured: "1hDa8uLiJrbgipB3YRy6kjYWVSCaztkMHGm3JzNoU5uw5w6IhMUyqWGgunskD/Ga1bb5sIq+4Qhl3+BO2fY+nB/Hh8fi6Tkv1+/tPHkHB6LIZHS0OYrA9CA23foHkjhhxkD7BuVmF0ZlVVJcFi6e2Zes/ZImn1q8ndlctTuiRLh0hskDYmgmmVejn01IfeHMPCRH2Gg1r0+fq4E226EVaihEpWeF3Xdrg+6kZOkj//7rq35CjDU1bpFNNZ8ka8xtN6oRZ2k5kWkNhNxMBTwJdfqYKTuB2731fQ4w/AIPVMUhCsjyShJQixT6Kr6ETRGT4Jxd5tMfZFdb4PPqGmpMG2B+SHQeZLaJTUZo+KNxA0DnAkRBJoxIlKK3xLtOfjuv;jA/pTzuqgt0E8NVywTOdmQ=="
+secured: "fpEWDfYV46uuZp9mq+2cUSKFNMaI28PftNPycqcKp0eC0vuXJe1Reb6hcXt+fwBAdfB9poUYKo152jeuT13EAezV13AFoWGg8E1yQaghcckMgCK9YkXhu5fUGv7I30pk0OzCGiAQuV4lftb7fQFcHSFD85nvXS+LAEfQVRi0Dq2/PG8K/3hdgsw2JlNAnf41csO/kYkq/F5jAwLxBk3V5EJsc0kxJ/20pVKzcQE+Mwoz5+fDMSHGkXFtyJI3tp/+iwSV8m7sX15uK/dMbZ8rvVlmfRgg92BzZOHb9Rskqk2RaRlKRLyOi2B7oCvuAptRldCGFGTqSluCWYctbtjKAZxdFCQXsw1CgFRUGWNRpfekFmdiXi07JPbjej8oY7xNrBQWHbqYENgT5PCz5IE76A==;LRNxWBQqB4IYjy64jfsjlw=="
 ---
 

@@ -4,7 +4,19 @@ excerpt: "This report from ShareAdvance's Project Intelligence solution gives pr
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Project-Work-and-Cost-Trend/m-p/64333
 type: download
 publishedDateTime: 2016-08-31T18:05:00Z
-heat: 56
+heat: 53
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDcyOWFiODUtNTM5Ny00NGE3LTljMDAtYWRlMTU5YWY1NGU5IiwidCI6IjZkNjM4YjFhLTMyYmYtNGJhMy1iNGI0LWU4NjU1MzcyNmZiMSIsImMiOjZ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiMDcyOWFiODUtNTM5Ny00NGE3LTljMDAtYWRlMTU5YWY1NGU5IiwidCI6IjZkNjM4YjFhLTMyYmYtNGJhMy1iNGI0LWU4NjU1MzcyNmZiMSIsImMiOjZ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/260/2/Project%20-%20Work%20and%20Cost%20Trends.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 943
     title: "Project Work and Cost Trend"
 
-secured: "WNED8EcjKkb99GbDIxTTAh8YoaBGau62FcTyuWeSj4c5bCPTdfJhzaGTCFsUDOZNw2VZbQF0/AeHm+ik0DdQk1eD8KDSreA9UyuHbdrytxO1MfUa8Jjt92YZYxqfsCk4sYyxHWpQ82pF4DOTFeMntfnfvSMnC6ZB5dxoGPpowsxCRWxX9iq8l4ktPcPRY+7vY/yl7ikyTPZda5VnyHStQslj4+4N1gIyB4t8I7V6Z3EVRBv/Nfsu0IziNhX1YzSwBBg3R15NNmRUfrQWv7xnwiJniLGVK8Bxquev83QWzML//FUKG8S65aK7/CKL2u07THMuJjJ5CRK6LpSJcGEQJIMrtBhk6LJ1u/5h81F8eyCwPLMo9x6LsMKbSgqy43M6;3HOVff6E4rr/v4Mr4Eft+A=="
+secured: "tQzZsimz+V1XGi66oW6tAWgOItqwC8ryoppuhsFp2my+gXcjXKPqi7QptWpMTkoyaRTgXhZojHtoc8WZHhHBv7stwCOATcnLcFMBMk7kzpsYEK42hpW2ceuic5Fkal7NoJ1c2yPTSGS9ceSyRcp5lVnwqv1Y2fxOMNEUEFRA2MfM0okuaQzfm3pFCHQ+4yOkv1Bz9U524y7N0ABCsTYmDJBOTKHmbE5sjIeMStvTADzS2hY+Z3vnwznW6s6sSOsmcrID9mhBntb6g2AHU5KF6NRJcUMuHq++A6lMuKaphEZIjOZ2FLnvUmXrMXjB+hyG6CILQXE8xemk64efD8n2uFDakpmOJjLOwV4gfZSbPzCU+EpNcKet65ChZ56A88F/i/UldLIKaFIkbbHiJwImw6b1M2U9BsRrkAT0e2fmnnM=;0YCUnrMCGhHAJGRkN48L/A=="
 ---
 

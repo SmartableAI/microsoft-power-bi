@@ -6,6 +6,18 @@ type: download
 publishedDateTime: 2017-12-14T10:33:00Z
 heat: 50
 
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNDQ1ZDRiMWMtOWE0ZC00MmY2LThjNjUtMDRhY2Y2ZTA3NThlIiwidCI6IjA0Y2UzMWRjLTExYzgtNDkxMi1hZmRkLTBhNDFiZmU0YzAzYyIsImMiOjZ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiNDQ1ZDRiMWMtOWE0ZC00MmY2LThjNjUtMDRhY2Y2ZTA3NThlIiwidCI6IjA0Y2UzMWRjLTExYzgtNDkxMi1hZmRkLTBhNDFiZmU0YzAzYyIsImMiOjZ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1305/2/grammys.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
+
 provider:
   name: PowerBI Community
   domain: powerbi.com
@@ -26,6 +38,6 @@ images:
     height: 649
     title: "2018 Grammy Nominations Explorer"
 
-secured: "1sguimyq/0lei3/7z2sxOC1/hgPOV6vuCyrK2iYcPAszpx+Ie5d5R4J/18SduJxaS4o5K1eUesWpT0ttfUT9LZYBhBlm4PPhTXX4IZ41MRqkV39+GPOcDAJ2o53Ys+QbXrxKY8d/nEQ87OvgPxxybx0xQssj4s0rQ5GkdosNASsS/k/RuFvMeEWWG8x2bnC3P27SOnW20jxoGWDr7He5x8C0RuUChfyX9Uc8f2rZzmVw4X5ZaUW71s7jlbhcAWqOq8YU4yjCu1ah8LZFKBnFHYWoAGBadPtEkFZ8UYlzMDEgRtZBiuG0wad1c0ZdoD0u1vOUG2Fkdw3/V0p/EwYkshCiOAdWCZxe2tQLqXYY9bhtUznzqrFrRPDA5REjIRB+;qzDSsUr3H0IQPsaH/PLA0Q=="
+secured: "hifQjXEzux4Og0hTrrpCXdP0PgZMPgX2RzUgaDOd7wE1a2JhqX9ca1StIPB39BVXOEaNyqDdDaft14nmPDTSrnhDbGq+AkbxI0dcUZsQIEaEJK7f+InSIkvCMV8sqwcpZmJyrv/5jD3bgLeZg+LpjYvOQYpE+YgFatbfrHwspMEUMHXsSpD+vVXcdsxhxvXKLe4EMikatKGQcPZjnbY1RfqGYPMIEKwtVcZA+uC1qll7MKepHxuySdgerS7zsLDRxFlV09IQZzB39gFKChf3wqJiqR8x0YlKT+9X9CeX7RmSfG6GpoH+i8/Tgk0zQdj7EF6VJ6GhLintKyqNHvQeWrskrzf9HZ6mwSQYTR5BC2ApxfGs7za2ESB5iANNON3RBYiv9IyD49elZrnYbD3Nfg==;lLn8swRCHtfjZmdyL/SYWw=="
 ---
 

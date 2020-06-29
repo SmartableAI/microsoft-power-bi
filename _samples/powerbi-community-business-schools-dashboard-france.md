@@ -4,7 +4,19 @@ excerpt: "Hi all, This is my first public dashboard using Power BI ! This dashbo
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Business-Schools-Dashboard-France/m-p/187496
 type: download
 publishedDateTime: 2017-06-03T15:55:00Z
-heat: 54
+heat: 53
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNWIzNTY0NzktMWY1NS00NDI1LTg0OTItZmUyYjcxZWYzNjI2IiwidCI6Ijg5NWQ0YTRiLTE1NGYtNDUzNy04NzAyLTc4YWQ0MDE1Y2Y0YSIsImMiOjl9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiNWIzNTY0NzktMWY1NS00NDI1LTg0OTItZmUyYjcxZWYzNjI2IiwidCI6Ijg5NWQ0YTRiLTE1NGYtNDUzNy04NzAyLTc4YWQ0MDE1Y2Y0YSIsImMiOjl9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/878/3/BusinessSchools03.06.2017.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -27,6 +39,6 @@ images:
     height: 303
     title: "Business Schools Dashboard (France)"
 
-secured: "499xHKTJGII5/Pzp9Kp5+hAwZVIy5wgNckfmhmuRf0pGaopaUG46NzRGDFgWDkucQi8QMFbE99Hl9KacRoa19jMM46rjn3/SUZM8XCVF8AJJxMVGoGdR+jMdumbMFDDFtjlbh8ayPlKl48+V0av+2ByL8XU0N8uibkuWrstfz8kxKnHRrSirnr6GCyZl4gS8bryItIf8OEi/3VFodoF9DPePqU8e7fRFg33q9is+AsLTwANcmMoFLrzC6lAVKNR3laKIXPaMBufFoCoAnPSeOYZy4z8ABIEax7S02tHGTq+kX4FIXtmaHEoMEgM03gjL41Wt+YrxuolRpmrYvhzJKPjqlWBEijStKaTfYzEajM9RgZp95AiphfH8BvMKJbZk;+hP+TCg/ntkgNLg7cCqh0g=="
+secured: "VPOuVfw2lyMzEzGSvcLmq4ped0MYFeNbEX3vyXD8NJHmGTgsWYWZDTi52p/vaI0nfQU6T4g3yde5y/+oQpM2cmY+f99lTphOnOKKd00BRmBz+xYZDqjRRLJbjJjtCHhKtTuEzyhdCLiWLKPz9hp30TUqU6HFW65R59yZlirjIKKSxApwBw1kI73ToYM/Dscn6vut90U+CMlIlODgGBeqOUz7SIBb/fcuBOr2hwd1tYCoFsAVW5Dte7uiL4666jXsEB76K4yQfKDlHfSSorVymbFZvIkaRWHYN/5TDSOsLA0BOsdvnOcQmGg75j/GgHDJw4ISa54CsyAKytZEuGDFCydcAv9Qik9HOirpYm8cjq3O5kZEDWCb1lXebhzDP4eDn//xYz3fOYX4tpZHSbuCDDBxWJTDVN1/2ejZRO+hs0k=;4UvyYDhVW+lB+uNWQ+SSHg=="
 ---
 

@@ -6,6 +6,18 @@ type: download
 publishedDateTime: 2018-01-31T08:18:00Z
 heat: 50
 
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMWM3ZTIwY2UtZWQyMy00ZmZiLThlNTItZjhlZDEwZTgzYzEwIiwidCI6IjIyNzNjNDFiLWI4ZDAtNDVhZi1iZWU2LWUwODQ5NmFlNjcxOCIsImMiOjN9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiMWM3ZTIwY2UtZWQyMy00ZmZiLThlNTItZjhlZDEwZTgzYzEwIiwidCI6IjIyNzNjNDFiLWI4ZDAtNDVhZi1iZWU2LWUwODQ5NmFlNjcxOCIsImMiOjN9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1557/2/Forces%20of%20Nature%20-%202017-Year-In-Review.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
+
 provider:
   name: PowerBI Community
   domain: powerbi.com
@@ -25,6 +37,6 @@ images:
     height: 677
     title: "Forces of Nature - As Seen through Facebook Pages"
 
-secured: "qrm38vdl9CXiBlZy8ps2gdpSDwouStkUdqweXMhpLK6mr75F5TZhRbJR8RuiGjIHFpt7TiqqQGnGSBq4yWqsCp+ZPkuZsvvz6p0pkQ6uhizCEeYr42Nt1Dl3VDFjJnP2AmRLWDM9q4lClPbE4Lcbzxp4W92UiCiGRCDEyqy63+mQ/iA0DOcZsmglLmsfXvaHxyhz/D31ggL5A4o9+LW4qw4ipAkEwXJRQdzA6FVZXdg4wLF3u1PFbLR+v3FVuXdwBUYIGEIfWdsJ57nxdKFWvsQdcKBiGxyUaYkrXaMhEx4RvOBaDW+FRXv4ut9FU1ZvX43hN6dob39UBEaFKn835S1XSDJ7KCdW1vinvHC/qUy+Iw3SnqbHpUYio0GlMntG;lkSg6JvOmgVGqi9dpfU2Yg=="
+secured: "fiYagkYnLwLwpH3PDmexlSdXqibeoplqMHmEs3Uo80AEbCFlXe3ElTWcuOsCg5X3DDFX6TPNsvXbJO42/AyiztUEuD9EL1v1y/ddTeMHoiE/9nC2dYyJt8WGmDxusBlQsDK9uoB0yfIK3mCgE1grPJq7ENlIAup0WChKeJZK/lCq0aY8Oi5K+kmtj09dh2zrz+5cLWkWfJMsvhxYp4aXyAThr9MJWG1R8xseRmVC0BnZFPnR9X2qs+DypQctXqPTMH8cQ7L+SpLTqgnMWzCcRTUuNEv3xfULsBVPwANhUQLKKX+kaz4TI9fqvliPsn7yNpCjrIIS4opTsWBkaHnkKizqPjRHj1h3GfGhaV/7X+E+YlU5GvVr1NK1jmDTdC+7309lCsdK3xhIsMBFLvfCfw==;I3nHW+kDfbN43uD8Mreb6g=="
 ---
 

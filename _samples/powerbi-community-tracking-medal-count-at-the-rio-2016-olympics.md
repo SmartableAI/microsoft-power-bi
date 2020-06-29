@@ -4,7 +4,19 @@ excerpt: "In order to keep track of the performance of the most elite athletes i
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Tracking-medal-count-at-the-Rio-2016-Olympics/m-p/57015
 type: download
 publishedDateTime: 2016-08-09T09:52:00Z
-heat: 51
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMmVmNzBjZTktMjUyYy00OGFjLWJhMzAtNmM4YzNhOTVmMGM5IiwidCI6IjEzZjU3MGNkLTQ3YTctNDBmMC05MDkzLTc3MjcwNDVmODBjYSIsImMiOjN9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiMmVmNzBjZTktMjUyYy00OGFjLWJhMzAtNmM4YzNhOTVmMGM5IiwidCI6IjEzZjU3MGNkLTQ3YTctNDBmMC05MDkzLTc3MjcwNDVmODBjYSIsImMiOjN9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/212/2/Olympics.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -26,6 +38,6 @@ images:
     height: 670
     title: "Tracking medal count at the Rio 2016 Olympics"
 
-secured: "vuADYjdWU0qX8LFcD7Zy25zukS/rerDDa3/h+HHPOTMzzQMz0FPV8gkBZS6rNmSruyozlR2UfMrsUtFiwNB3Ujv1QjC9Z4JfsRGpB+8kOXPeJiaRAnnC01rVtQA1Z/1jY6PdyQ0wC7Bt2pWfbYoAiJm1dCOHij07YsQI0q7DcXDDwK70qLsMSh9vLLi2iG3oIn+Z8yGJZBEIuRXL22R+/hq/ICCWPFPTu4HVn+lQKQ8yvQxCN0jfv9Xm7nt1cn035at2aE9S84+ib3f6ih+denihxjHdoHhP8RfqbimXPpl2Z3dIUAgsvI5hXdFJ5vN/nKUsx30S6EMm5bNb7Cf+I0OdrOfZBaa+vdTnEBI6tk5lsv9af5xw+Vu1CNQbAqds;AVjVxNyLVtXLdKMIFaTsnQ=="
+secured: "HonoT++rHhx4lAwvPIrGGfOLAJNS5lbhT1085uJWu2b5T6wAC4m4AIeaPJUsvfuQG5KftgTEVCzLFgwM7Kh5WrnIuPmKT4c49oU4Pa2YtbJJaW5sig0UrEd04fWqphzG5p5zWVEpOl4LiU/URaNmmIbuIvjYAGAFUGz8+OlnsiKPdCQLXGWPPgA9WvfYgzxA64ktP67Cz7UwEA5JmWrMj2Owc6951iYzlmp4IdRmldThWP6M3TG3y0+uDYmQ8kJpbtKkfoCfw4owgFbp/CFgkuMWafUvjX8KRderMEhe1WafXRaDPIGP+VH3oiIvQdIMZF1ww2OSuxh5AU53yRQNgPgE8bG4pLVasrfvNfdxoEcE5QHzKK+wupxpagEAx5zBHR/7AjdU+KXDir68+Sw5qqBte3tO7kbeH6PL/+9+Nyc=;S/tjc8xC533UoYpaFjNz0Q=="
 ---
 

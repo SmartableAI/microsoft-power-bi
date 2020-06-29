@@ -4,7 +4,19 @@ excerpt: "Created for #MakeoverMonday 2019 Week 48. Includes my first DAX measur
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/The-Squirrels-of-New-York/m-p/891071
 type: download
 publishedDateTime: 2020-01-06T16:21:00Z
-heat: 51
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiY2RhZTZiZTEtZTdlYS00OTgwLTliNTgtYTBjYmZmYTE2NzVhIiwidCI6ImUxNzc4MGM2LTczMDgtNDc3YS1iNzY3LWZhNTY5ODI0NWUyYSJ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiY2RhZTZiZTEtZTdlYS00OTgwLTliNTgtYTBjYmZmYTE2NzVhIiwidCI6ImUxNzc4MGM2LTczMDgtNDc3YS1iNzY3LWZhNTY5ODI0NWUyYSJ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3244/2/squirrelsfinal.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 468
     title: "The Squirrels of New York"
 
-secured: "P1w+Z54/aqMUHXIrIe1nbtun7kpoqI9J3Q7gdOnS6TwCftwcQf8AocLIkRoP/BkP/pcLXWWkIgN8ua9FG+UL4DYturKgMH2YdS9B0ieVbdD51NdAsovRWqQBMpSqqYH31uzWvBvQcugGoMV/QHwB0N++jl6hdhOpcmaJ2gWVqgimzh0U9KJwTa7QzjQKz/2FeASRtdfvZPLKNiItZzFaGwiapR0IgfNyWkdJm2JnxUXsVxDMk5TbGefQIptmccLUpVD0o8Fn9eP2zfDKNrO/nSKkDYQ2X9nyeLIZUEhYNRjkJkRx0+KYbTgMEYrLy1E6yNupb58sJ7hUYXNbfembkI4xFT4TsDQp+vdZXAhdA8lehVyXrPkWsFxsztujGr9d;vdCp/kOc7/meLjRpcmsqGA=="
+secured: "YggQ0LYfO6MQ3ZBlpURDsSBgc+di5MnLwqAv/FLccALsyikMjPIBj4cyWYJACf+kjUNOOiVZWKzX+v7ElqCXwz/meo/RVAmW3BrxmXb7bl8hmukh/i09NP+E6kfB64NLKzP0zSg1EnV7c87dkkRH/SK637rkY2W2f3QhSKtU8POVkRFL7yUF7FQCY4Um6Y7KKSnRJKPjuBoJajq05/CmpxqbKRCDu4caPBxj7zlaplWkdETJMBR7IUoFRtaVgm0Gy1lHGrMRnIRUmC3x1d0Osp8S/9hOTGito3r8CIQGtJy26hh1a7jxe7gguMA9En6XrfI8FKAeCbUceajIX1x3nHHzNQz6gGw9n5yOhJ29ioJp+P2GaAUL4v/SScHgkMAoDPxscjLZ7N9Dueu2KHk6Tw==;yWlSObxYKZJGRNFHz2ANow=="
 ---
 

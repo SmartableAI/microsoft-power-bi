@@ -4,7 +4,19 @@ excerpt: "Superstore Data taken from: https://community.tableau.com/docs/DOC-123
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/SALES-DATA-ANALYSIS/m-p/829375
 type: download
 publishedDateTime: 2019-10-27T10:45:00Z
-heat: 52
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMmU3MDNjNzMtZmQyMy00YzE0LThlZWItMDYyZGZiZTMwOTY1IiwidCI6ImFhZDM5OWY1LWEyNTQtNDMwYi1iMjI5LWY5OWY4YmE3MTM0NyJ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiMmU3MDNjNzMtZmQyMy00YzE0LThlZWItMDYyZGZiZTMwOTY1IiwidCI6ImFhZDM5OWY1LWEyNTQtNDMwYi1iMjI5LWY5OWY4YmE3MTM0NyJ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3088/2/WebsiteSuperstore.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 747
     title: "SALES DATA ANALYSIS"
 
-secured: "laJH58wCJuCxp3PJgTuA8KHiUL/UUl0pihmTZayHTma0hW+MA7CWaMg3M6c2ohOlYkw/yPPravqp1U4tthIDtgHsKNDT1NHDSofbLMzUdaWauwVXwtbg1vbqLpCPEJsjKSzZKj6necpXgPsw8l8IT8OecIN52gWS3VHhfFFZDrn85VESqimQR9Mx27D9ty9ZYW6RUTRcurkvkAAThCNN+Dkz1/MdvwlzsBx6v3/v0ELKIrrj3kTrbYMOpJTX7oUDmxORSTq74etLGebMKSPT3yHQMQJshKDVI1gL+vx70CXm7sO6yGqH+QZhmVb23+amIcpD/egtxNP/SdprfDzjNnoUqHcZIstKR0PyPTUtl4IiD0nSEd3YANN7T69R2S8t;gGCoz9Jgd11Q1bz2GFuLwg=="
+secured: "l6BmeFUBTiqdbdNVfH59b/tctrtY3Fl8+EjkUrO+L+iep5sD3DLYExGPM0atFY+CRxCcUCI0O7MrO2dBOMxPwKPashgmkrz0PTpoog0w3kt2CdHPcs7IWWwOW72iOEHDIpTg5xhyu1udUj+1xWVUzNE0MbFotcuNMNRJuRTKza3yVB43FmZS/j85pZ3CdQJM3uXAOGrMi3ceAoof26wF3N0gieaMDYCVT6pyRq/MOORN0TRbyxQ8giu9YUYiNTL4T/TQBKcWd7Xh5ucKPElslJrGdp7AYsmIms6a31bJBFQxO3xnIBOHvqgzkNjVJhfEkNvy1EPOtk402LBUH86ehQEvy5HcLsfg1USzOoaRmYzkABavq72iHN9iKkl9jqSnz3fUW9SjCCakMPscPUOb9g==;0grLXnmtsgmsg+dWVj115A=="
 ---
 

@@ -4,7 +4,19 @@ excerpt: "This visual was created using a hack on the scatterplot. I actually ha
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/NBA-Fan-Cost-Competition/m-p/208284
 type: download
 publishedDateTime: 2017-07-08T11:31:00Z
-heat: 51
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNGIxMTNlNjgtMjRjNi00OTUxLWI3YTktYTUxYjNkYmE2NzE2IiwidCI6IjBmZmM3NzMyLTNkYWYtNDJhNC1iN2Y4LWRhMzhlNzE1YTgyOCIsImMiOjF9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiNGIxMTNlNjgtMjRjNi00OTUxLWI3YTktYTUxYjNkYmE2NzE2IiwidCI6IjBmZmM3NzMyLTNkYWYtNDJhNC1iN2Y4LWRhMzhlNzE1YTgyOCIsImMiOjF9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1100/1/NBA_Fan_Cost_2016.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -26,6 +38,6 @@ images:
     height: 866
     title: "NBA Fan Cost Competition"
 
-secured: "MJA4e4U8kPwFjGnMpY7SpX7jIfSHwH6nVa+w5aXIfjhiIfLKo9qxJv5Lk2LuHDCjp3PLVc8mOU4G/4cw57/ddQ5m1XVx3Qw0Stsxfpu1FnclU/LYYEmK6fKWLPuk52sKvA5z9m/q9yQGY+fIkGKNbiTcd4o2Ngaz1H20EGvdKniMuasUJM0nsN5QinDS468aOGGV1wnbbJnGfIxUF37qsYHr+SUD6jaYCLHPwqBkcEAcHa6srpnx4ofOmD4GVnUnY09sCJLATK6JjNSWekuvP/pg4ehOTXmKmZZ3aJhwEFZDTy2jPhG2iPMYUuGtlkt+Qb8jHedG3yfo5/1ZUoTpZvk1glfv1n5qYjdtT4xR776N7mj8lubrhgi3rtP/rMN+;7XADwS/+lSZiWVNbGCuyyw=="
+secured: "mv7qySreO9tqm5qcFNZnbHE99IBlNhNolup/Wdcva3gXRx0q+c3/WJi+I1gv6yGw1b/y6DI+9MNjKlawiXLzwXKcvHZxvaLaG2XctGlwAj4D1pNFhj0b2QsuMMbtGBDzHbQ7q5XJuN2AC6dInKp0qkO50hmfWI84LqA5UCHsi6gJyx4zwKCoR1IvFU2JklKZ/BK8m/bjP5XOLfrvn/h+kPR68Q1X4rGEmfer7GJGrmEBqkO7C4svH58AIXpLqWOSmGOB6J09l+o+5dXNolHx24DzaF1MQPhroPKzJ+ZGVvKQtwyxNAzSGawJ0MLd9oXUNYHEI25o48DDRunGwKjHoungHwwMoxZIe6qADZ5rhYZ0Yf4QzSxArUFGlA1WXBSMDuci4n0E6fpC3Vr1yR9UOnm5/ZgmzTMxc3myIRuzEys=;RwAGj8kgvb4stRN9EnxtTg=="
 ---
 

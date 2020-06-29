@@ -6,6 +6,18 @@ type: download
 publishedDateTime: 2017-11-14T11:01:00Z
 heat: 50
 
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYWYxMjk3ODEtZDRiMi00ZmEyLWFkMjctYjdjMzgxZmYxYWZjIiwidCI6IjFkOTEwYzM3LWE0MjktNGYzNS1iYTFiLTM3ZDViMjNmZTRhMSIsImMiOjh9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiYWYxMjk3ODEtZDRiMi00ZmEyLWFkMjctYjdjMzgxZmYxYWZjIiwidCI6IjFkOTEwYzM3LWE0MjktNGYzNS1iYTFiLTM3ZDViMjNmZTRhMSIsImMiOjh9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1245/2/HitRefreshPBI.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
+
 provider:
   name: PowerBI Community
   domain: powerbi.com
@@ -27,6 +39,6 @@ images:
     height: 1183
     title: "Hitting Refresh on Office 365"
 
-secured: "E4zX0kvQDu/UMI95i7GddfZY5mD0XL9jYoY58CSbOTk1ngS1eXbRc6tL9WMz48qEv2P5MloEXwiWC6N/7fBpYXe13lJWIP4GnNT6/tUdtRij2cGh3XOiG5B5cePvhyoLziiEaI9xtBc+HHbQE76ZiWPkcs2phVecgPQXE3PLt2qoEeAdpp8mqKTDpnWRPLeyUZCnGLMkmMXvRkd0dx+wG9519uRLEcHpSNg5OabS68eQpCwpIiP5yRn0BNXlE/YJ39zzBGBBTMj461iJPb0VtthH539IYF7K64+6ATXC7zNrxptz7zC4VGFKQzzcaxPcW846S3GNjDVTXQ6V5/PU1rLKVyEXNW/bSxzBBCyxjIzwp6sDnNZealWSlaafGEXs;W184w2q5AQ2e8cn66MlJyA=="
+secured: "npW/z4G1gR516faArGRHyT/cyZkSHWoHcf3N+/fcxEQr4NNQg0yiBAKxMZjoGEGWLZcf7O1on7LXgKQuqhJA5MPILF+lae6aLt23t+IP8aBmFkbS452jNFB4Zs05t0AHYqNM1tKxdfwGGqq+XDF5nM8rpbJGb7YaZDDHRuxlbyOeztUBMRWcI5QQT1sdLIPjsPwK5bHKRSblHYq2x+p8Z06CJhDni2EVH9Ro5Emxwc5X6vcr9uHhTtNKV46+ONNWo5zkPHe7N33e7ffzYos4zYqiwaJLhnSPI2WidBpG7AHvQPMkLyt9/St43qJuFW77/ulj9u5O7pPP+eKmAbAXdV87Xmd+uQjFCZWh/sLCx9oVgXQn130aBgPWFCvAKWGbnDsz85aOYZlXClzWAGmMeg==;QypnBCJppBp61eWRCqXs2w=="
 ---
 

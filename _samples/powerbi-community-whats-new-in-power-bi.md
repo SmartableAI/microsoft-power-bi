@@ -4,7 +4,19 @@ excerpt: "What's New Power BI Updated Sept 18th 2018 With weekly and monthly rel
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/What-s-New-in-Power-BI/m-p/100643
 type: download
 publishedDateTime: 2016-12-09T15:16:00Z
-heat: 56
+heat: 52
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMGQ2MTFiNDgtMWIxNy00Y2IzLTg4NmEtNDAzNTQ4ODU0YmJjIiwidCI6ImZkMTI5OGJlLWMwOWYtNDM0OS05NmU4LWJkMDk3MjEwZTI3NCIsImMiOjF9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiMGQ2MTFiNDgtMWIxNy00Y2IzLTg4NmEtNDAzNTQ4ODU0YmJjIiwidCI6ImZkMTI5OGJlLWMwOWYtNDM0OS05NmU4LWJkMDk3MjEwZTI3NCIsImMiOjF9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/486/12/What%20is%20new%20in%20Power%20BI.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 606
     title: "What's New in Power BI"
 
-secured: "+a+BBeXSNfxYZHLAc9jRyxZtNZ8Sv4P8rhWbRua3dHoinNfcItmPzdXwd+tMFVTCZglCmOwyRmKzTKHz1+vITd8dVipy1gOP52SVa77N+5k1T5R6fpDGADlAaA0X4lI0sdqmKo0FuE5Y5XWBdqOv9mN1gFINGG/5DbwVEDfgOD6s4MyJocCyU8t+xo/6XRDHCbmtnU2OO7t6Zz7q0pZqBXJVhPH7Po75ZCexCUjHXAtFiu1v1yl3paUns7vB1LVubwaOBZr4XQ1ofefK9BF43ya+pSKn99e7JRWLWlXAQGPHitwsb3J+YaEc+M2ICznkzgcCGIffbb5CqBOS8ZJ6zVlrfDnF+9hzCHOzfeCAocDpbbRudLRLdtETrLPk7qs2;dClNb9PR9q4/0Fwww2dk8Q=="
+secured: "i4sAEXuUK6xdNLBJik9ZLfo/yttp1DzhcA0eJ9Y1JeigPbNj3q2QQ5gOgwgq8Zsz0p8k1huOvD7kSejVNIsL/l6OtUFJxzXB9E4SwqBGWZl7sPKRPrDxw2xa8/fd3/jFpMdCk2iyegjwowQ1gW/kJ2hu7Vys+93chxgf8qrYqLhR4dXF7FKoSjDVXAoodQdN8umNzTrphLJcdW4O4xGqR5fie4QA2o505BKd5MtSDOuxGjtBBGxEzAAjK7raX85uBTztjKZdIqT/hAMr+07GXZpJNQTJIDIlJCmGjjMUoROVfN7COdpF14qaN/UW3dZ4OW60874D8upXZhHLoczGc26k5gAWIJyETGJk4rbfa2FDsCL9ZuzIanTADS3jg8eKisPWnwtGXyB8SO5a+2XanWtrOibBQaFj7djvHO1ZYi4=;Z+kYDllos52Ma8R55U5GdQ=="
 ---
 

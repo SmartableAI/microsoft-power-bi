@@ -4,7 +4,19 @@ excerpt: "Valentin's Day Data with an example of custum visual"
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Valentin-s-Data-Day/m-p/932818
 type: download
 publishedDateTime: 2020-02-14T00:15:00Z
-heat: 54
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZTlkNWVjODMtMzc2YS00NzE4LWIzYzQtODI2YmVhM2M0M2Y4IiwidCI6IjE3MmFhY2FmLTM1YTUtNDZiMy05Y2FjLTY5OGM1N2M5NDM5YiIsImMiOjh9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiZTlkNWVjODMtMzc2YS00NzE4LWIzYzQtODI2YmVhM2M0M2Y4IiwidCI6IjE3MmFhY2FmLTM1YTUtNDZiMy05Y2FjLTY5OGM1N2M5NDM5YiIsImMiOjh9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3340/2/20200213_Actinvision_ValentinesDay.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 819
     title: "Valentin's Data Day"
 
-secured: "kEyXfOkEP86ZHJWc6fE2EQZccrP/dcL53c6Aq215go3QQa5lu19W1mxDsb5AbZ2lARzFK/xqUjcxi9ANHO88wDipff/VwvoGYP5egoQb7osHhgRKygi8NrJ5hWQWP3fLN0Z4fJkBdz3PoReDczqq6BT1dtqHYS3aq0L8AX6ECtV6HPi3/6NM5Id/Z+nD8qmazM69kNWFyquofoCKHC5/6f9G3bLUd/Ui5PA+Nhg0iNwWFdS3lcAzq95jyLA/NdDPs7pIcOXa4QUduyYuBJ/HtYeSYyWqfGJmseIcK3AMvzGWPGTEah9qIjHSz9ocxl4n1vbv1Up8q3kwJwpios7cB5UyUuP1kgcaSOlin4xin5+zCqDHgM5MILmLTBSwD9cw;V4Ws2ULMpsbGs4poBHLjvw=="
+secured: "ggUtoWMvcGYEpZV58DOHdumqHKZWwRgxlG9xOA6S7CkFNwpV/BZakYYCSHf41Rf9g13tobQZ4MeLHpqXAkGkzSMFP7QTAhXeLzVCOGtdF9SM3hRNvpCO4JgTFWj4mtNsx/UhHPtiZFJAc5crVF90cwZ5FUoMBOSgMHM/CFvo5S5KXfvAl3R98aVfzs4PXx4Djsp5bVFhMq8l2LM4gK1CWyF19wxGcvIeu528WIF/SNw/1AUcBvtcYetM8+dMUnHy7uzUNHY8s7I2DCy1wTdz1tgq1SKYRMkWbLAXJaCXn+wOXkxBXdJBdObTRYT+xM77lAUzVI0hBet79VT9oRwVSx3bQdN0S1TN7LGPLyNkn9QlueQOEfqKhixZTQSbizTy84xRwjdCBjttOLn8oZt90g==;yrP0P+361i0gbgdxIHDk/A=="
 ---
 

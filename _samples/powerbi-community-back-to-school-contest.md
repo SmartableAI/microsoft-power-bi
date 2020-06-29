@@ -4,7 +4,19 @@ excerpt: "Can you predict your shoe size based on your height? This Power BI rep
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Back-to-School-Contest/m-p/785840
 type: download
 publishedDateTime: 2019-09-06T08:17:00Z
-heat: 51
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNzYwNjVmMjgtZDRiYi00ZTRiLWFiYzMtNWEzNGU1ODVhZWM4IiwidCI6ImIxMTBlZGRmLTIzYWUtNDU3Yy1hNmYzLTczNGQ1OTJiMjg0NyIsImMiOjF9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiNzYwNjVmMjgtZDRiYi00ZTRiLWFiYzMtNWEzNGU1ODVhZWM4IiwidCI6ImIxMTBlZGRmLTIzYWUtNDU3Yy1hNmYzLTczNGQ1OTJiMjg0NyIsImMiOjF9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2944/2/Back%20To%20School%202019%20-%20Power%20BI%20Contest.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 183
     title: "Back to School Contest!"
 
-secured: "melkBM1ErRLd3VrYE+lwIs8T4U8+9Bm65dE4nlB77MewvuyJ2z9hZDQ93jzLy8hLe0FcDJIYnoyXecyhC2hZ03l0garcw/Qg24N+MJAsXGtAz7j22wfmqagwZo0XbjvtGaBVAkc5/rG2fvfR9H0SiP3sqCz+mREgN9itoONAasUjDbaMj55N6GZG+3dYxpNktGUa4WnIMb7LWHYu7KQmiPgjbyLEmJBd1kiFwjV25tgn9+7Ycc1c+a+qTik1h/cDkq1w9EdSZt4ehuGkvlVLtNptsGEomoujD6pOQptLgyOz0BzGcuLFPEIlO5pbVaGH0Ja2CniQ8CFmImMOWwvd/jm2DRGCqnQhe62/KAKIAvuDUbvTgx6EQnDQfcsp7CWH;kAG51WLLXtPl0KRl2tSNjw=="
+secured: "zGYLVh/HNfRLmIKy0lUAfiqkD0D6sLtLLjTP0fTvcdivejC66F2pNNrNYlC8QKXCzovXa+SEpjmYKtuqwNwM98THAB04PTlMT9hYlaScXSzw65gDwzFfToX3p//yPBNHOQ37qHc1dbn5KyDWJIAlcuwQWg8ZJHtNcE/+OcLjPW31CP5MXs4ftxMjC30T0XP7I30sscRqCU7Td1m5UdGD2raZ+Yw7+MBk+CaS3HFsFC+I6BKjKGHwGUSx66KepmmXmJiSPWLc21/I0qdOHjv841wTfwbpauKHWfIo1mNHWH66HZXb+lLIaSi5pbWZsL2BUvqrS9H8gjRJUsKlIUGruxLhjXk3Critfk2RjIkkXadKTbaO1UHiyb3ztW9QwO0fV5wRL+65H7Q1X00YXlkPiQ==;+DBIW6lNq4o+Ye/DYgrVQw=="
 ---
 

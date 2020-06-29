@@ -4,7 +4,19 @@ excerpt: "This dashboard is meant to help analyze the service hours spent with s
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Special-Education-Log/m-p/847739
 type: download
 publishedDateTime: 2019-11-15T10:12:00Z
-heat: 54
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZWM4NGQxOTItYjk2Yy00YTM5LThhZDItMzlkMzc3NGViN2M1IiwidCI6Ijc0OTQ3MzI5LTdhOTMtNDZhOS1hNjI2LWY1ODgzM2Y4ZTkyOSIsImMiOjZ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiZWM4NGQxOTItYjk2Yy00YTM5LThhZDItMzlkMzc3NGViN2M1IiwidCI6Ijc0OTQ3MzI5LTdhOTMtNDZhOS1hNjI2LWY1ODgzM2Y4ZTkyOSIsImMiOjZ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3134/2/SPED%20Logs%20-%20All%20Views.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 830
     title: "Special Education Log"
 
-secured: "3waNuVCUglHcRcXvrvWq9w8QwiTku6s9TlGCdLyTlGXhVtZx5Vx10382wQzDACg7Sskw7U6u9OOYg4TafoGhId8xbETlTEy5k9/Zoa2d5q8HU97ie3WA4tJJk7LnzIDsfhDIXabHlBvf5KlJHdkbT/hRJPr4k+emhpcrv8Pa094SyBCQMwjH7hLETMNjYjtPw738HoVtGvwqpyHd7JyFL/xYiYmWwShBZ4DpkICqv7ZyU7W2jXN2zTWHCHBZ8u9wLnU0CyVHEXQPRnOMjul8Rz5ESEtv5434sImOQech4sgKXx549YVfYQioOWLTTbyBLdRUahCtZ5CIVaqA402nn1tFfirJSvqmzQcdlYIrdwP3AIVKmBjrW29Vn52R6pYT;Gj+/4K149IAhcvfQmsc/Gw=="
+secured: "BKPYSdsfEUl0gur5FCWaX57ufXGYWO6RPru7MLHQNYy0OH/rXnnsIWdiwzPu0MCDbYioc/Df480h2+6VEJqwk/dHSqtAXzE+pcqk/5z3ddJg18C4SoCKibhmCcpF6aHEqS5XvbENEMN4teOjLdQo7dqXW8MCueNr6r35ILC/olXGIxamxIOOQVbeMP5LLmZDfJ9o+MGezn3GY3xbDbkGwls9Q26aWcgESFCrepQFrczgLqrvDIj+Ccqi1WDZD314MC/yxAa88hyMnpYGRq6R1zjLX4FXLoi0uTh1b8h5temF70aOdO+ZHGYVOvzt8SeNRhmuUVEkt1RQD+I8c4R9XIrV5kF5Lm6FeXP+BoAsn2zvmKQidMJbw51P6UOqR0ZNz2V3PXo0TMCXJh69WoJv86SbFPLiiXqPIwji7mwcwuk=;vXr6PsUNgZm5H6xo42vY6Q=="
 ---
 

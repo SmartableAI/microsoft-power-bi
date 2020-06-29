@@ -4,7 +4,19 @@ excerpt: "Explore the interactive navigations, report page tooltips, slicer pop 
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Video-Game-Sales/m-p/602233
 type: download
 publishedDateTime: 2019-01-16T09:27:00Z
-heat: 95
+heat: 55
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMGIyMzMxNWQtZGZiNC00NWU5LTkzY2YtMjdlYjM2NmZmZjhiIiwidCI6IjBhYTVjODNjLTkzZjMtNGY0ZC1hNzJmLTdiZTkzMDkxOTZhNiIsImMiOjN9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiMGIyMzMxNWQtZGZiNC00NWU5LTkzY2YtMjdlYjM2NmZmZjhiIiwidCI6IjBhYTVjODNjLTkzZjMtNGY0ZC1hNzJmLTdiZTkzMDkxOTZhNiIsImMiOjN9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2441/2/Video%20Game%20Sales.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 520
     title: "Video Game Sales"
 
-secured: "bGL/U95Jr1Ul5P7rR949pwpY+JtJKcg6WC3UAJM4KVpw+YJDzV2jcCY4uwGoIz8Lr/beKOoytbPOPpwpdMcqDS2Sxx//oji1dALwBH1frJnZmLUkRM5i61E1zKr2fmVPV6XGaVp++wJGoWxGLqaE8xwUN6SW84kCFR6tjuQAaAvJ4UhSw+yPsQ75vwTastPbAGdhuVT5yMVLcSLPzvMaAOBADcaqHyiogPWW5ZAmLDEe2KamAL5YrfAHoqEQx0Hrw4HCKldcFdubbtHWoz3jE/sn4MtKqics8gFt2I4TL/DApyVj5Yu75qiYzPYaAGfsDq4rC73iti9gKWMkDU5P50PX5403p/mqu3x83uPEguyUgPAz5VNevC0M20EphNmA;CVQRTW76B02k0FsBIy1/BA=="
+secured: "/37skzQTRcRZeo9JRNAYkqqQ0Et9xd1VaEUlwS3HQgSl5pPt3DjPckgGf0yyklyckh8SjBUpGmPiSgGA3GFhEWtTuM9xwbOiy28MLWMJHvwrxn9DaB8bphEl5qWwdHYEx0BExJmQqO4QkkGhPqvAZSAxIjSjfyHoCcXUKEdI1VIR/UJamIDVF4Cuvte5gETNhFD0/CdEUMKCMm57YMnFNXTzgGjJAkSrWKtcx2QZeOBGIqEBT12u2Xrw3vNukMmxqrS6QyHKCujEDNUpLaRjeQsvJ42EeNy2FcCZ+kn+lNQ6oUT5BoKFoLDfpSC9fn6tFlZLF0twbyXzmvgmVJrMmJz4G3U5JlVmojpYOGASG2Am/oneFSovW7wjAdPGxnT46d5EJSPYRVaPGal9Ws+u4TUNdYvVmUYPoAJUEaBomfw=;n6UHN4p1cqtnmedpNTmc9w=="
 ---
 

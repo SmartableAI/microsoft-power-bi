@@ -4,7 +4,19 @@ excerpt: "As a data challenge for Online Volunteers , Dina Haniyah created a rep
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Dina-Haniyah/m-p/1082664
 type: download
 publishedDateTime: 2020-05-10T00:57:00Z
-heat: 65
+heat: 51
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNTdjYzU4YjItYmNmYS00MzIyLWFjZDctNjNlZWQwMzQ2ZDRlIiwidCI6ImI0MThjNGZiLTBiYjQtNDBkMy1iYmIwLWIwMzI1YmQ5ZDA4ZiIsImMiOjEwfQ%3D%3D\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiYTU0YmVkMmItNTUxMS00NTBiLWIyNmItMTM5NjliZmU1NDJiIiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3917/2/OV%20UNV%20Data%20Challenge%20-%20Dina%20Haniyah.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 1191
     title: "OV UNV Data Challenge - Dina Haniyah"
 
-secured: "peF81iBSNjdfXBqrUJ+sgGUFuHiKzoIi+nJ2kIjBITh2QdC51Dytth8vFi6SL8Wj8Pv4VqYyAdV+zq3xPV7eT4+bnzQOZhV/vLBAjvb3CxwKlK+Vp7S1Evgma87yiTrq899SMHKBCjgFm/fRlj1QavdM45jIoBD5V/xFuM0iXIRRqSJA4nlL9PoEKQyAhm0s/JeerC4iMLtlfixQmaBokrlWYO1w/7d+2yYX7uE7c3PdsO7fhIYnt6Djy9FtJZ1DarxW/1QADqepf/ordVqEDGVjdzqI4V3gCNyPc4DKw1dv8DIEe/yhR6zFt3scn5TsIRq+JHRaOvimWn64qaxR1X/JCJdDrktdUZ0QE3X76dtikUJR5tiSLJCxTJPNeloy;VQCpgP9YGhpAfrthQeScrw=="
+secured: "Vekq9Koca46E+i15DQD+F6PlE65b8HLE6kJG+HffljrkXLPZq1H0hAB0VdKZ7VwUPIYLrP7kSUGsSaJry0n6WUXdXq/4SfEmN+3kuf0DLjgVAt/2tLWVK2pkbtPhvC/n/uwu0nhtoYvJ1pGICenwwsOYMrOXYffQq80ZpvtMJOk/gHL5FRetO6q3kXkxtOXfovQ7+YLJwfJOvU2QmGIES0Ttq5a/Hp2gklGfd5Gf7ouF4byKG+jWSnLkJ/TqoQeP4o8e6OuhiBn1eDbTY6VymprYEiFtn1oKRhWW5eZuwJbvVCNfOyU2WBGBJifOw1qUphvMVMFY3tQT/iHH8IKLmy47wZae8HCn3SInFACML8eyH7LlmcSfnYEU9yHsUXujiKNyLaUh9Hj9OrBCv2Fz1Q==;1YpuckfM1RQFenvlsgHvMA=="
 ---
 

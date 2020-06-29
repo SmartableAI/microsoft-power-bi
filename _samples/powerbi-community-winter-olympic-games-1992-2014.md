@@ -6,6 +6,18 @@ type: download
 publishedDateTime: 2018-04-12T01:15:00Z
 heat: 50
 
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZTAyNTgwOTctNDFmOC00ZjBmLTlhMzItYzc2YzM1OGExMzcxIiwidCI6IjAxNGUxMWVkLTc5OTAtNGMzYS05NzY1LTUwODU0Mjg0YzViZSIsImMiOjh9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiZTAyNTgwOTctNDFmOC00ZjBmLTlhMzItYzc2YzM1OGExMzcxIiwidCI6IjAxNGUxMWVkLTc5OTAtNGMzYS05NzY1LTUwODU0Mjg0YzViZSIsImMiOjh9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1788/2/OWG%20for%20web2.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
+
 provider:
   name: PowerBI Community
   domain: powerbi.com
@@ -25,6 +37,6 @@ images:
     height: 1053
     title: "Winter Olympic Games (1992 - 2014)"
 
-secured: "NYll+EL01kgyNO2dJTv6Rd0rm+4NIyFnMtmvvXgVMah58/1y0r2aXm6KAuUG3zXef1zSNrWACJ0fm14RHj0oSB907RYn7aNSItxJ+Y6m7F7UVwNOox7sUmLGdh17HR9Vrq6D5dZ9ilvu8ZdWZvNt0KNDbnbGd/rFGPlxqfD5Cc1I3/mi+7hVST63d4DTPrweO65Y8k3xco9a803EDFHGBjC95KJXuNPRNbXnmRRcslwqnQmQ1/m/Y0ba/f8dNQkBJeEyIl2eNMXaOmf9lFYICX/Y9hxh5PvRzflTTV3zYR+XSj6L2vNY4JzouXJszaYDS5/baqleqb3dGhJRMAxSXsqELvU2owLIfta1rcCD84hn7Kmx/TVrG3OXIj6TlAgT;aDk9lCVfODZee/DMPZH7rg=="
+secured: "vJCa5XbFnPrk05kdLsG64Ei+e1WQBVjf6YWW6f70YqgulgEzVPRHQr8DP6kmOElc2/Jt27pAsoVI0KPO5cQDwLgxhpzfnbHo2kMxIU6hsgHFx5fjYHPqdOv44jNCWh+iiB7uBkQd33DS/fWRY3wQMVtrUd7i3c1ROPDm66nokkAAEcpSNClg+tuFc3+TjOIYKMKgGLWi0kmoRi0h7uXaYDh2CD1krliNP2emqGD1Litd6sPVR7Ci7zfxVh9cbEL5/7I+j5XrfOAh2igUEyXvTZbTSy6eHYkQlY2bUyEb5NSX7lyUOxVZQ0QRvhJqQqSMI3hs1glrPS/4Z2WmzaZZ6btPQiLtlhwBTHcpBobo6dFOwJye5hzG05+TiKhvtt5j1HWCFqaTDGoWMdY5xBeAjA==;ff2BHz009myhif2OzBlPew=="
 ---
 

@@ -6,6 +6,18 @@ type: download
 publishedDateTime: 2019-07-30T10:49:00Z
 heat: 51
 
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYmUyNzMzODEtZmVmOC00NTMyLWE4ZmUtNGQzMzIyNzM1MDNhIiwidCI6ImRiOWE0ZTJiLWQxODEtNDE4My05M2ZiLTVjOTQwMTNhMzA2YyIsImMiOjh9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiYmUyNzMzODEtZmVmOC00NTMyLWE4ZmUtNGQzMzIyNzM1MDNhIiwidCI6ImRiOWE0ZTJiLWQxODEtNDE4My05M2ZiLTVjOTQwMTNhMzA2YyIsImMiOjh9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2807/2/APaterson-WHO%20SampleDash.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
+
 provider:
   name: PowerBI Community
   domain: powerbi.com
@@ -27,6 +39,6 @@ images:
     height: 845
     title: "World Health Organization Life Data Dashbaord"
 
-secured: "FRBEuyRWvsjSm6fQpRMV99dh23RCZFlVLNZT0fyvldqMkWtGkKz5wpAvfLv8wzRqJETaHGZMgW0axOpIETV8WnnvAsllXnz94GgGYBdj6qNHLKaJ9Ah0D4vbmpd3tUCD9m96AtkIiRqUIsFAqktjs/Z4WPzxrkUHXsYXL2wPMwsbEMGt6LcDPTr80lHAEfCD1dXzvZC8QwoAq82S5+Z7QSrTaA6ld09bCJlkE2CfeHFYZBF1wTeVy6g2SR5Rgckw+AlcndnNsxrVeKENBOzJUmevarK+FtURLRer1pOLxGhwWhPeGxP4+IyqEVLMTSXCI+rQtKRtNiutx5CHLh18uOJcbp30pU7FIzHll4rs43CUXSgk0+eTFQI5h1bfr/wv;iPbGeHDsQ4NfeDq1B2sw2w=="
+secured: "EQUf6ATv2WCSaJ8ZdOIEVCFdbjYuAATtj4mFu7GrySmQmd8l4vklIRLh93l2XzMwvxeguIOgPkerlFntCygdYslmJIpqVQ8eoY+pHRmpcjbsdwZD8DJ+sNS4DeWMl4Xg5a3QGBoR4iUHmHIHyNSEuq5wOIdby26LEp/s2qQeFmNlClqPYA85WGz5Il/V3HlTwGraSnviABF0SwCLijcj6Xrn+p0xWWhhDK1p3XbqvGDWda/ur4Zn/X/yulytBspO1GIQAjouP7JnWMBWjJuaEGlqnspa+t5jSnQVck3oD1tCLBjqCnHDWVicFdPq7RMP3P4pWOtTE7CjrvRjbiBNP0YwFXBC/oysOPUIlnPgQpO5FzxtEkSCU2ds644WFAHZyXQDjaCEvH7cPih7LFqb3A==;3/rQ2jj2W1GzeeV3yvNv1A=="
 ---
 

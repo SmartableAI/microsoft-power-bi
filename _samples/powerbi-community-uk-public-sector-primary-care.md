@@ -4,7 +4,19 @@ excerpt: "This Power BI demonstration is provided as an example of how a UK prim
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/UK-Public-Sector-Primary-Care/m-p/120381
 type: download
 publishedDateTime: 2017-01-30T10:45:00Z
-heat: 51
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYmVmMWI2MzUtZWQxMy00MDg1LTk5NTYtOTM4NzE0OGVkNzg5IiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiYmVmMWI2MzUtZWQxMy00MDg1LTk5NTYtOTM4NzE0OGVkNzg5IiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/603/2/UK%20Primary%20Care%20small.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 736
     title: "UK Public Sector Primary Care"
 
-secured: "Ws03n2/WJGkEmSTlZV4N9F+mTzRh9RMrYWy4Qz4Ds/9MTU9E0k50oi7gaWd9idPVy/wIZxu88kTl06ACVn3UQjBNar3nEK0XdcHiuMZ9GlOdVOgKEAU2G4PfqFHP7oCgTNpDFJkvuXPbqLukcXMwcjRKGIfjqqrKDFEZ3qv1QNcY6EWU/IR11TOzp0p0Bq0dEqjWXPLAV7C/j2TJirypEzBC2P55u4wk08j8ZvQKihTYR1R2LXqCPDF1NDv2cGe58qtcGAIhGfB/I7h3AkMShrbrUlZi8ZaIaayTPeuyJ+ISQ9Z2qHe3GRb4C2DBNUF/+HxoinsSMroyf97oueXCoQ6GNIxu8E9kV9shdA8CEnTwK9ZAaG2Fz7YApNKiXhG/;p6zSDyVsVd3OIGx/ZmCFog=="
+secured: "JePAXlOo32aD+txGVLYpYmkJ/FsRaBQW7VUkIMfBt1hu2oMOwRz3qPgOIX/Rxx300mDCIw4am8ejj/kGTEiYFIe77RenP2lWjoeBQyJV64HqM3m+9wmkdL5o/bUusgkYooKLqJumzWnzX1MNm3h47GI5xIT33TlrWB+EqpsaWdeG8Ycp73qcMsgO1+rdevkxrme2RTfCWQ5aG2HY28a0iuSYaRYrI3MBB0E9Y84YBsA0cyKXCf0wbJAFVC8ndobym01RieU1bHx6sp8fGXD2RQhkVfp4d/G/1+GbBIpwselSGx1S/dY3D/n6jA52MnSBAe7ownPxwxhu4ojc0gziypWWI4JJG5rHuuGfkqakDQM8bnV44Lii2F62gPBN0I4Yawo5ErjeVFuN9oig0Z4py8DwWarlCwX3jOEoyc+XPMk=;UHHHxaoGK3IhmWRVaJC7dg=="
 ---
 

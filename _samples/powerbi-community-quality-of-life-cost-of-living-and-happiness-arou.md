@@ -4,7 +4,19 @@ excerpt: "Hi All, I leveraged the idea and used the link below as a reference to
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Quality-of-Life-Cost-of-Living-and-Happiness-around-the-World/m-p/716949
 type: download
 publishedDateTime: 2019-06-17T11:37:00Z
-heat: 52
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNWQxNDZiY2UtNDM2Zi00YWNiLWFlY2QtYjBmOWUwNDk2MzEwIiwidCI6ImUxMzk1OWFkLTYyNzktNDIwYy1hYmEzLWE5ZTgzYzg1YWQyZSIsImMiOjh9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiNWQxNDZiY2UtNDM2Zi00YWNiLWFlY2QtYjBmOWUwNDk2MzEwIiwidCI6ImUxMzk1OWFkLTYyNzktNDIwYy1hYmEzLWE5ZTgzYzg1YWQyZSIsImMiOjh9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2684/2/Quality%20Of%20Life.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -30,6 +42,6 @@ images:
     height: 1045
     title: "Quality of Life, Cost of Living and Happiness arou..."
 
-secured: "oEepsauzpejwNiEVo4Luo5a5OBICdhLWl/mmq7fGmDm0QI2mwpAIBB2YSNH5rMkM+iN6wlPwdJcKKCIJfO1G1CL60KWhN76GPbnJ4Nb07W4f9qLMB12oP62sMUp3GUPm/5IxRuYWs4m3KH5ck0NgI0NBkYR9uh5UsZ2sDTGhITZOGhfq38/iU3V+mLlcZvpwFTPr6Yq5NmxqIGIwCXeTzjN8BRjkACCkXQ9OTOEK9AuXcJ5obgzCFkefXkMZEydzVf1Bzc92fZot5kn9D4W8AKyvvblW7wCPnVM0STAH7Ew47F4U+Jd13vzFHj9y0jFhOadnADiJr9AoVa6exRl3tSr78QgdnYos0HQfQpjFNaD/m98CTdwZwSdD21RpCik/;rrF0r+uIt+L8DJLyvIK00g=="
+secured: "DISH7LZqjku+hVYleWIMcUik0HFQD18LFp0FU/WA69VEdwipG099CCUxpNNnGeNIB97xXq7w7jK2sNNDv/QNbS/mZ/3WoCAVwhRVf5vbsNmZKDgpKyB1K98y3Pb3Bc1gWkX/UIeIvuD/Q4+ZFWOi0olqywJW8d9YmHcnlbh9UY3Z4yCvUamA1rIPDeQph8j3AO+KMYSKsSfkpnSEDAwRe6s1AlkMxztTaiPI+MkHb8AB7MP3ZYwSCVbyboxiYpOb9GAVYWiOttcR+jsHgwS1a7k9XWzJtLiZQq+HuMFr1aAMbW5taw6NmhFqeyUaUH7QqLyAL7THdECnlK+OkqwpnUAn0jZeqz2Y4iRnCG6gy5rpDQVehmZvUICEl2hzcr0FvGOe+Of45/6dIeq7RCd3Vg==;yyc9/WmDo/dN7c+vYOsbcA=="
 ---
 

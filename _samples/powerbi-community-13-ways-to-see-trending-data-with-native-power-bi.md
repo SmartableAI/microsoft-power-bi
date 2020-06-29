@@ -4,7 +4,19 @@ excerpt: "English | Spanish (español) For full screen view click here: https://
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/13-ways-to-see-trending-data-with-native-Power-BI-visuals/m-p/1083280
 type: download
 publishedDateTime: 2020-05-10T21:17:00Z
-heat: 57
+heat: 52
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMzZkZjRlZWUtZWM3MC00OGRjLThmYTMtNzljN2UzYTQzMDNhIiwidCI6IjEwZWM3OTJjLTU4NzctNGU1ZS05OGE5LTFiMWQ3YTNjM2RlYiIsImMiOjR9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiMzZkZjRlZWUtZWM3MC00OGRjLThmYTMtNzljN2UzYTQzMDNhIiwidCI6IjEwZWM3OTJjLTU4NzctNGU1ZS05OGE5LTFiMWQ3YTNjM2RlYiIsImMiOjR9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3921/2/ways_to_show_data.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -27,6 +39,6 @@ images:
     height: 1022
     title: "13 ways to see trending data with native Power BI ..."
 
-secured: "yvbQHDqYi6RXrjBPEhK4zYELxNpWLiUCfYP7oVSxV07LP5z4gBFfuTEkfKzjwkz5tBSkrQRpBkYiWjKv61jOqse52hpv57BdEuhK0gnzcxaxvAwlIf0ILtqrtwYZ/ZaTJkuymriJuQpqf2kE3aEilgEML54jmRTY7uefC+fu35vdZ1n9HA1UUYUyE6MeNwjLeePEFDZJqqQxXfuYOjZEAqfJgdFNvrn8B81nM10K2BA1tXjTP3v3Uk6SzFOP1798Fx4ZlGjmFZm6E97RQ1c1+nGtF1isFeR81SN8z4gWbUap4MQO3SilVvGN/3sm0gydqr3lgH6XaQGThcggvszReNMNmyqSL/HBai96iNcARIKyjBYCCdFL4Dhvd8hg7hD8;0yDcNiQk5IGPK3ipzImG3Q=="
+secured: "+QLbuOdQ8511eBPW4e3psiyXKzKZAJoB1Zuppl9Kt4609pZPq24Vps1Mb32bShc5cybReadC0jIlXc5Ll39CUSawpGG+3uQZiQKIzUv+WV9sd4GMTZP7YgqihB027aoCzRGWVyvH56p9VzIo21dMBucr+I5HUFrwUzmYWz5sFPpQf3F/6UtnIt3E1L03ykaLLOzQbe1nulaXYZUqayFpYDKcaj2MqAmv3ezQsu/66Z1iZhkffZGx8wkIk2TCapa+EKQKBJW/l7DFqbBF99cZFuDiR+LHaFFhQbfssGXZfVW8LrdTxxxTK7jQl0/aFZ4QUWjQooz20YKqg3w3U258bHRAjXMEUZruA6kdBMYH5JTohlBjq3tuuLhInY5kCFwto6/rD3RIAcdcQG6JqHYo6w==;AMdr8hRNIG6o/qPLCxi4WQ=="
 ---
 

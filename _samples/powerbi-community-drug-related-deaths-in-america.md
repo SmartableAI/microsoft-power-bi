@@ -4,7 +4,19 @@ excerpt: "Portland PowerBIUG Global Hackathon 2019 entry by Team Crisis: , , and
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Drug-Related-Deaths-in-America/m-p/744865
 type: download
 publishedDateTime: 2019-07-19T16:56:00Z
-heat: 51
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYWU3Mzg4ODUtNmRkMC00ZTJiLThhOWQtYmQxMjFmYTZkNjMwIiwidCI6IjBhY2U5YjBiLWVmYWUtNDMwNC04MTBhLTE0MTdiYmQxZDBkNiIsImMiOjZ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiYWU3Mzg4ODUtNmRkMC00ZTJiLThhOWQtYmQxMjFmYTZkNjMwIiwidCI6IjBhY2U5YjBiLWVmYWUtNDMwNC04MTBhLTE0MTdiYmQxZDBkNiIsImMiOjZ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2785/2/Henrys%20Uncle%20Hackathon%20Final.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -26,6 +38,6 @@ images:
     height: 1017
     title: "Drug Related Deaths in America"
 
-secured: "M3M8L4CHpG54DLAhGGSTfeA1hjso2J4Bej9hWkzr/pgK2b5XfsOkYlFrNHj/mc/eR3LSCYaO2MkmV3YslcBNimjsdIzEGXHFkVsmvvv7HZgjJWFe9NN++Om9ODHzv7UCqhwxTLJArFeHQolZ0pY/qjK+XV0OWRvfB3I8rxIKWXdNpH296WtMKI9cK2ZmGXF5PyYz17y0RfIcvPZlOb5x9qCXsXZy6fPddJ+cSqctFRn/NQoI53sf2Fs1DJjxfplBzy7+AZ2sJNg3uyGsibetdUXxS03rjZXXXqu2TatgWuGO9vih/W1ca//Zf8j+cV5epftNpWe+LAp7GzO2XzlFVXQcUm+W/fSB9f+3+Q+G4kCmZcEGsFOW8GNLVO3mxO9n;8a3PFqcE3eCE77zCOQMcFw=="
+secured: "sEw1e4SzFldmQakH+8UHiJ/Ylc2wOaAISIMJ1VYs+aBVKQt1Pg2FMQwu+TNS1ILIiZij+YueXD7NXqrEsEjRs/du7dWP7GV2EchMB0CtDqZnM8z4wvsofUvz7qMN3ND0x/fZbaEFh8uABsjfmG+S3OCuD+7KhtxZdQgq3gu42G1clnv8ewv2qktWNDIBuKznbYQilAuDDfeX8spkKeS7d7PVOxn+WfvVt4ckl0tH7Vfy0RdVfTN+k2jFi82E7WTl/dBlaXly8ndC8DllGvd3KxY7sh7WZ6xijZY4gBEV7ZK/7NsAd+eC5sw0R/O9rotc87K3yUav5Nzjj3AurPSH3yexsKovSm8BRsclrinQ4McK2lNERq1Z3AzpQLLadUiAVCCGedOweoaecIpFxVx7iw==;Slk2E8BKsUGS6x+lrrfz7w=="
 ---
 

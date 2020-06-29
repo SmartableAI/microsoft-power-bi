@@ -4,7 +4,19 @@ excerpt: "Data Challenge UNV eyJrIjoiMGUzMGIzNGMtZjNlNy00MTAwLWI4ZjctZDJiNWU2YTQ
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Daphne-Orihuela/m-p/1145156
 type: download
 publishedDateTime: 2020-06-05T17:53:00Z
-heat: 59
+heat: 52
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMGUzMGIzNGMtZjNlNy00MTAwLWI4ZjctZDJiNWU2YTQ3NzVhIiwidCI6ImM0YTY2YzM0LTJiYjctNDUxZi04YmUxLWIyYzI2YTQzMDE1OCIsImMiOjR9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiMGUzMGIzNGMtZjNlNy00MTAwLWI4ZjctZDJiNWU2YTQ3NzVhIiwidCI6ImM0YTY2YzM0LTJiYjctNDUxZi04YmUxLWIyYzI2YTQzMDE1OCIsImMiOjR9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/4067/2/OV%20UNV%20Data%20Challenge%20-%20Daphne%20Orihuela.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 541
     title: "OV UNV Data Challenge - Daphne Orihuela"
 
-secured: "xbndjkGoB2VLNVrgWy8xlFQGUr96hMlVVfUUb87O8EeYvzw1vu25DuNtEwhPj29uOMZwmrWH71LXHtqg13UsdsOxGiWIMO7k9yXQdKeF8uSZ77E79p4HvYHW6l9X20RMdmdg+NnhBHoVM/Lfk+hqkG5GtwvhRTLc04rJYd8x9DAihx0NVNEMnZC4MXFqC5k5vyJysJqrJyXoNBGQC9gfb9+lmhXlyuqX+mXlBKgmFxdVHmRcETHGpySlZzCVccRjDaz7Kc7r8hHSRkt08A9nRIr0grLlt82HaWx/+R4LKZI6XrCHtyExXoyzkbwWvGk3YfqS4nuNx4Dgp0XNCfnJAbaEdGUjuOCckgk0kU8Yl8BCNnapki3qCzCMyQwA89Kj;H0MQlA9FpiWy8oyc0ctaew=="
+secured: "x/NWYKOmgsMrITr/UDWQpAYtFe9zf814tzH8fm9LSrxe/fX2vatsF+U4AmG3BB5C7/L/izCp3Bs82taHENfdBlC4Kktfnuwk8rBvDOyUnfYp/jfmd1IBvJxI9prpLlJCFbuAwFxoY/ZVT9jiZusbJUtCfAqhHaRmG8HebbY+zJJy8rSW2/DKUJTVUoi/6eUYQ/Ebd/tbQIATw3x9bgFaduZ7juTaND6eaKs+teB1CFx/tXGk7r+ZjUhq20PAhkiII9IU/F97UsrFkoK3PDramNNVvgphV/17J0OnNNIvvhbI5aXyB0hrapj6fHxovo2yRdz0NqRt8OLMgcXc13JnSKJB54Pj6vZCTpem/+Y5dHDFnhm8Us4xtTCD8SjJ5jJrl5egQ3lXZ7Gu9ubaGAIE0w==;vs4a1GYt3AMaFmj/9a1vMQ=="
 ---
 

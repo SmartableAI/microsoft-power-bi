@@ -6,6 +6,18 @@ type: download
 publishedDateTime: 2016-12-19T18:23:00Z
 heat: 50
 
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOGVmOTY4ZjItY2E3Yy00MDVkLWI5YmItYTI0ZGI5OThhNTZmIiwidCI6ImViOWExMWM5LTJiMTctNDMzZi1hOTJhLTA4MjQ0OGVlZGVlZiJ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiOGVmOTY4ZjItY2E3Yy00MDVkLWI5YmItYTI0ZGI5OThhNTZmIiwidCI6ImViOWExMWM5LTJiMTctNDMzZi1hOTJhLTA4MjQ0OGVlZGVlZiJ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/512/2/Mutuals%20Dashboard%202016.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
+
 provider:
   name: PowerBI Community
   domain: powerbi.com
@@ -25,6 +37,6 @@ images:
     height: 796
     title: "Mutuals Industry Review 2016"
 
-secured: "+GhgnvCFtt8CMYT8ql1wzWVU8B/4pSeR1nrvH4BkQa15gWkuagW16Ql7q28i8xzHMmNIFILzSyy6YKt4VIC950X7yXvp90dpNMYa2EodPexuhlv5Iw4EEYZbtppy0lt7kUteLyGGfeKk88P0TOrCAS7MQ/ipqlR00QX877CqSlPknk9CVwx+CU4ZSLRbKJyjDJ/XCLt9sOZ7L68QAJdVqB9EtZ44+NvToHn9EkNNWPurzCtHxiDQqvqRZqkBYne/l82/SIncGGR20aMFOOp0xk3PR60O9UciV1ZvKV3NRTrBEq8Lmdsq7h6Ugvk2Z903X5eU55srmn4iR3B6/aqUSiCX+Q4+Tn5tjWG6TJd6gR9mTqwNS+d4BO1ECDFrjceY;hOnVlhGPbJ5SRuH5YIgqYQ=="
+secured: "1PUYyBnMBq7Og2Wf5iQv3yxjCsc9I0WJip+/Gs2EakEXhWM8rSv4hZxB66PmGBL33ZXrpHgD8+ioQaRohAJ3UhZ4Hq3/7HeOiWAFERLGCd4JxLU9kmep/rKcAoUvDBThWPqhrt2pOqYtTiFZ97Yxrifw2fR/+2/zXpAj8PUlh+GBdibeBU5GcYNDChtjUzzEQ7a58eqcmY8evVZNagtOFszgR6pS8EtAkoTIP6znwzC+zaAp7kcZIYZTdoOXbNBF1qiXP1JAgV/q74tcJRRsZuQJfgrniHjVY1rbxXNt2B+NuccRYeW/B+0puery21uVPyKOQkWCCSiq3jpZAnAPETuM91aaEjn8EfhGC9hS3QAMje2mIPFjJbz3XGD+R8RTHf4Ik2PHo2fx8oP6NiNTPg==;6d5hrHePrUcnqTLIJnfkBQ=="
 ---
 

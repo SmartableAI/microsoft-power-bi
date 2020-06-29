@@ -6,6 +6,18 @@ type: download
 publishedDateTime: 2016-12-21T12:46:00Z
 heat: 50
 
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNDI3MTE4NDMtNDM5NS00YTVmLTgzMDMtYTkzM2E2MTI0ZjgyIiwidCI6IjA4YTBiODI0LTU2ZjktNDk4My1hYzhhLTNmZDM3M2Y2ODQ2NiIsImMiOjF9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiNDI3MTE4NDMtNDM5NS00YTVmLTgzMDMtYTkzM2E2MTI0ZjgyIiwidCI6IjA4YTBiODI0LTU2ZjktNDk4My1hYzhhLTNmZDM3M2Y2ODQ2NiIsImMiOjF9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/520/2/PUG_Meetup_EN_no_Key.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
+
 provider:
   name: PowerBI Community
   domain: powerbi.com
@@ -26,6 +38,6 @@ images:
     height: 1088
     title: "8 Day of Christmas Dashboard - Meetup API"
 
-secured: "MUftjYm0gDzcdClwDvLSaJwuiW++i4NeCvCF+wzRcnQYtXi6R7648/z6OXqmkYoRHxgmme3hZLeLcyP3m+aZVfIbFMPHykLolY89kdUYvZYhPeceOChSufHefY6IMdbziCLqC6AhP0QiKyHCpqyjSm3w5KC5tHDRmLhXAilBFTbciOE+mnSWI8CJcry62tje3sTwzMGUJ39P5KkG5MYQ0Vr0Q5go6Bv2TYeN+QUJypw4s1e3cu5lm1fb6ZeWnkgQf029qIuXFXwIdWOh723UEjxgqL1AJpPndRwI85dQqhL4NiiOEtMr8yPDdQbxbMWIWJst7jY7xX6FJYkp4desz2ukC1R1Rv9a+E8hH1mZKjw1IiW6y/3X/0YheZPALwc5;6atPh7ibL4D6zwLRAnqVWg=="
+secured: "OEUS3hwCiDJHjDQs1FMJbgA3YipLCkDlQFnC51JJsbepsC/GZR+651ySEWKnZxaQtX3nUYj2caaj7ps71fhGhnEYFaVfOv6NlrEwKiKLoyxlkp9oAYapwFQrOk6JW1zP7T2DXxb3LIi6RET77ajUW+aEGwpP1iXh4uAlx24BMMlOU68ukFmPSkc1U6BJi2rIES92iC7I/X/Jori8IT7P1Wx4fXUSnUcmkPdZWGIPzTdJpHoN2jBjrWUzLe1WAjK028q92OqxOZ2cp66mc/AVMq6HZyES2P9z2PfqawPQE0bv4UZBw4IQCzFpdpKyLAGTsKc2f2alZkyLDbXwBstmiwMNAtqja00ZrANi2nhOckkA1MrSDfTqM7NiASYgMFlDWTiGsKoWWyjWFdP0vD6Myw==;5CXcdZ5a/TSFQK/gTcqA7Q=="
 ---
 

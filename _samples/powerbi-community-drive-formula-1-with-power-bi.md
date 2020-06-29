@@ -4,7 +4,19 @@ excerpt: "Formula One (also Formula 1 or F1 and officially the FIA Formula One W
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Drive-Formula-1-with-Power-BI/m-p/349544
 type: download
 publishedDateTime: 2018-01-31T21:37:00Z
-heat: 51
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNzBiZjUzMzUtMTJkZS00MGE4LWI2MDEtNTFhMTI1N2JjNGU2IiwidCI6IjllOGUzNDEyLTA1YTctNDA3ZS1iOWIyLTlhNzJiY2JmOTA4YSIsImMiOjF9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiNzBiZjUzMzUtMTJkZS00MGE4LWI2MDEtNTFhMTI1N2JjNGU2IiwidCI6IjllOGUzNDEyLTA1YTctNDA3ZS1iOWIyLTlhNzJiY2JmOTA4YSIsImMiOjF9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1572/2/Formula1_2017.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 621
     title: "Drive Formula 1 with Power BI"
 
-secured: "l8MZ7wJjRoVn+fHJgNGklP2t/brXWex1lZXyOCPtIQ3OEI53/E9WBEorFOcjLooSJqtKd8ElPNLjWej/Zc+wcVYcVGelBvmNyTkaJXMIcaFOszsKybWJuG6IM9JIaQLHOe2G9YU/c/sUuwEIBh7H0sPS+rzhReN9zocCPAuo23AIX7xUaxxIBZerLnC2nqcZ26nERr+siU20vAzXz13ww8cqqKt+WLp5XOWxSOHoYmkxZHDiqYKK4EfkTL3l7qWNCfw6ao1czt0sb+UFDM8Pr36Dwc7c215GSZoybKFhFQvGFcEelrZWl0STNvOCfNV50flA1gyC0pt94ru3hAZ1FBQs4LZbEJoUaVtqyJw3kfG4RlC1XfvqQ9PJqjPJqhGF;Z6JJID59bOZ68BTx1CCsBA=="
+secured: "7WmSa5P3e3T95sg7fXno66YhMEnElejzSTasZjx8/Ye48/GVx7VqMZrVN8nqQFefnmnBCLOUX2HgPQUaIxtitytMz40ca/wDaVUQAXKTTU9SAD6fRkK2gqDLQ0mo0v171y10E4jeFjTze2ahPC06fGGoBSGQKVo4GXeTF286dqxTzKY/rjDw5Qm3QZu+w0ZlgIJaLKoFiiDQjSKpLX0A98vjsp65OvBF35SqK/J9g3K40wUcN2nKxq/FNzwVnFejT8YfbHJWwh+VAiJTr1obAXEz0rcVyFnzXa4j8Cce9PHfmSKek9VolZwGKE7wET9eSzTFJu1MYn8V+jbZX5fo9WIY8utdOh16J+t5WRMvhKN8mkjPBAuy2gtS3713V2CxyeZ5tdigYF+pazCsJbjLxg==;10/Yaj2joDyUYGLpqZCV2w=="
 ---
 

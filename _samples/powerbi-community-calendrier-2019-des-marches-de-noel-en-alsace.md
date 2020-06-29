@@ -4,7 +4,19 @@ excerpt: "Calendrier des marchés de Noël en Alsace. Découvrez la magie de No�
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Calendrier-2019-des-march%C3%A9s-de-No%C3%ABl-en-Alsace/m-p/835975
 type: download
 publishedDateTime: 2019-11-03T23:54:00Z
-heat: 51
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNmM3MGI0YTMtN2MxNy00MTczLThmMDAtMmNmMzBlMzNkMzQ3IiwidCI6IjE3MmFhY2FmLTM1YTUtNDZiMy05Y2FjLTY5OGM1N2M5NDM5YiIsImMiOjh9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiNmM3MGI0YTMtN2MxNy00MTczLThmMDAtMmNmMzBlMzNkMzQ3IiwidCI6IjE3MmFhY2FmLTM1YTUtNDZiMy05Y2FjLTY5OGM1N2M5NDM5YiIsImMiOjh9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3111/2/DashboardMarcheNoel.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -27,6 +39,6 @@ images:
     height: 824
     title: "Calendrier 2019 des marchés de Noël en Alsace."
 
-secured: "NlNE4bt9L/jvLOo9YDRsBquu8xkokl2DWWN1CarrTZvkIulGNN2nHXJcG6usO9OQK8S3ar8fQJya9hIXq6nx4SRhB3NIC7Vi6oGR7MloGFVQD3g8LHDt+nepJeQLwm66EL05sdW46nONlpeINZHygtWnr6uV4IdBLADWWGNQIeG8QQj4Z17YXVer3kZX4xceo2jvkR02fuqJq2v5+NbEfCPBxXWB+ZgT8QCT/5QKEzuXqZy4cRK2oFw/SJhYsEJEEIrLGW9bEco9twhV7nLn3IL9tUymdLAUouose2TiWUnvq8S30rxin+0sMg8GW60VV/a24yNUEB+s3wHLHuyArNs2iCiC7hEP8tAnyeJLH7wrl/6BOKUiT3PmVLSw2xo7;zMos6E1iVUy1cMl7bMYLbg=="
+secured: "o/1uNgKVTAgaRzxkzAxf5beUapBM1cfKdgTdymYiqHfaMPNJ7b9YSadhszWXw7AbHCY0v3VKo2AlXl6MfGG5yKwqlslwNW7SyM2YSorfkU7DnTvqfTJHcnZoDvdSt+a0b6e8SYWVzu1PJiR8ve5tSdsqDGqOv95j5WG4na7FytjSm3ZmbRiyBj3aQhv9S7oYdzvP+gavOrmoNtJefIhFfTgr0CeBNzReqCh/oHZzZba4oFqYLVtuznjc5L/XhWiB7dhppxWD5fe+SOxZHTztC+OspVMTljfyWVadNF+BbFUYAdLGl6PE5+Y2nmCrtMNPEH+931FFCKDa+12gnoSTxwLG7CD0ebFfBTTJv4UuRc70PmdzqzDFlYd3YU8ySR3VrRtMDZHFjoUeHVyMtrfAQw==;4DfQ5w6SZh+gsvn/VexhMQ=="
 ---
 

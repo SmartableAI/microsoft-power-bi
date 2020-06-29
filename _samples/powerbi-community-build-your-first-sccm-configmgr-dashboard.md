@@ -4,7 +4,19 @@ excerpt: "As part of my &amp;quot; Power BI - 12 Days of Dashboards &amp;quot; s
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Build-your-first-SCCM-ConfigMgr-Dashboard/m-p/105331
 type: download
 publishedDateTime: 2016-12-21T22:33:00Z
-heat: 56
+heat: 51
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDZhZjdiNjQtZTg4OC00OWI1LTk1NDgtM2U4NjQ0ZTljMDBkIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiMDZhZjdiNjQtZTg4OC00OWI1LTk1NDgtM2U4NjQ0ZTljMDBkIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/521/2/SCCM-ManufacturerModel.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -26,6 +38,6 @@ images:
     height: 832
     title: "Build your first SCCM ConfigMgr Dashboard"
 
-secured: "fP1U6pHrlOMgWRvWZ6iQoyBHcXuP1pHb8xJAT2OFobYlecewkYgEFSScLejWRavjsmG7k80LRKuu+4rauNh8zn5qylCWciiaRTGH0Q5Wr3XFDlnUHYgqd9fH+HkpVQTRXEmTdh3X+3/SgUIJjWlYK7phPPxKQBuPkDW7qYZPUN11mXv21c8f4Ily/VV9DG6wRUsfdPn8xUyNI+PcXg/uu3jjVSm9pREoXF22wiOMCGI4qnP+UcLFxLlTmNQOcYg+93cd+ubymZ4kYI6SV9RFIPu5/crS+k64OUDn7haCyT1qlFqt405LVuo+FMaP/lJvvq+aaSqWnaMG6mFABIB+QRw6KAIe+T4Hhtn7mLD/koD/xJq4uLShhdZzASTrGP5n;BIvER3EQ8MOLqy+bN5I84w=="
+secured: "irpTc6Ypq/ynGQTAJ/Ot71FXLMkTVNWU+FYMseiOKg3MyOHsV99CNNkWJClvOtduj7ai60fMh+yTe28aJW4ARSv2aGZoAxv9pEuu0e85a8BPGFpdKzQInjcJZbC64qgfJW252SD+HzFvMFYh8dBZE8iYq0Q74AQ8CVIP7ng+31O1voicozNs7Su0HJHoZEFYt8sFOTRNfJVv2TplxVZCZzmY4fNTHs/Y2tHT0lk9ylgdQjSkUM7UAb+DEBqo5Jb8ayjgMdiKRHKkCJlOZu7G2mIm/k15HbXaqqRTWM6/BXVkrGgH7y/CJS2TNSfuHmVK1hDKILnxA8i+7I2XdYG5ntox8hLpBGEqawSRgCQ7jncYQLG+sh5LQkMdV0lAeuWRFF2ljcCk0PzSEolL8RLIhB3YFGWCcQA+BnQbkhqk1Vs=;U7ZnvxrQYULdLW/1FxqbOQ=="
 ---
 

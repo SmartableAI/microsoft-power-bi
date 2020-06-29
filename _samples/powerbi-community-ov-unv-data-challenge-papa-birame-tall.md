@@ -4,7 +4,19 @@ excerpt: "As a data challenge for Online Volunteers , Papa birame Tall created a
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Papa-Birame-Tall/m-p/1082674
 type: download
 publishedDateTime: 2020-05-10T01:19:00Z
-heat: 55
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZmMyYTRkMDctMGJiOS00OGI2LTljMDctY2MzMTgyYmNiNTQzIiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiZmMyYTRkMDctMGJiOS00OGI2LTljMDctY2MzMTgyYmNiNTQzIiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3918/2/UnvReport_Birame_TALL.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 1169
     title: "OV UNV Data Challenge - Papa Birame Tall"
 
-secured: "lvMSHYuZWSg+Ui5q/Avvlap3bgJ4KANI/fspofai7QQ6uAVt30VrAp6skH6Wr1xLTWb5o1LmXBlNWaOLy8TuwFQvpvfzu85mpXMUm5WDRluDfXXbrBAaFt1OT+eCEjiImiEij1KWDPQl4IFnyabrk5xLG42WkFsokW7XRgqXK+bF7gRGOSL1SiEdLOAmYJdvDHxn7vSfm8xo97Z3oMfPo+gWjX3aATu6hTNps9mH0mqQbPh1mpF9sTWArT38veslD92AwDdvWilFaRwgAT02+HZVyxoOLBL9lEIuoWpMBN2N+sBuHltF6KiDh4X1P81/zklj474thgHTyUrBriq+tV0ErP0CqJlnnR3XHzJ0+k0GhwwWPaNPkNI07TSIWKTO;C7/fjBBlN3y0FR6A5XFxzA=="
+secured: "jGh4dnrFTU0tTlmmRj6VFBKq1gItxqT7zWa6EGaMmh7jV+fYVMAF1hGzO9fconXC7rv6BNIRpZ/LItuLN51r4FFGxaTdJCM+53LU0aK/JqbX0CPK4QX8kWg7sGKTg38pYSYmwfMs7RG3SIxzrg8SNowLJAzvMMTwh003fGRt94wC4C4isPJEtwG1ViQJH3Mqmq61PSda4EsHDDW1SQkXTSnOFj37ykKHJ3fbYmp8jxnxz26FkRnFsXhsyqnGmhDAcYhPDQdOjF4XALRUM7SAO7biT+mzzXJrOl2/yz7lsLanosLYspFoiwukW5MRK1Z604U61tFpvA8E37CwJpU9cLa5aXmx7fbZGo8Ds/gkLUkrTS2yOcRaph3ZsUD+W3OhRA7XrYdsnunAwzr1sizMAg==;cVNgYspQfA7GrVoqfk7Sjw=="
 ---
 

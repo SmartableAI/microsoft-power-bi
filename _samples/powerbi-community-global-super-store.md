@@ -4,7 +4,19 @@ excerpt: "The Global Superstore Dashboard provides a 360-degree view of overall 
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Global-Super-Store/m-p/627564
 type: download
 publishedDateTime: 2019-02-19T23:05:00Z
-heat: 174
+heat: 155
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZWUzODU4MDctNzYxNi00MTFmLTg5MmYtMTk4OGY5ZDBlYzUxIiwidCI6IjA0ZWM2MTA5LTRjNzktNGM3My1hZTcxLWE0NzRjMDlhMWY1YSJ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiZWUzODU4MDctNzYxNi00MTFmLTg5MmYtMTk4OGY5ZDBlYzUxIiwidCI6IjA0ZWM2MTA5LTRjNzktNGM3My1hZTcxLWE0NzRjMDlhMWY1YSJ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2497/2/Global%20Superstore.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -26,6 +38,6 @@ images:
     height: 768
     title: "Global Super Store"
 
-secured: "NwlglPZWcdtTrZiiInr5UikwPE/e1a4FHAN16ZuTaRUsQrf9zghsyW5ZeEsYgWhbD5IM0NpVpmNcToNrDNLMbH4ZuqqfK2G4/Xgu/L2sb/jHWXtlwIjOL84eloi6/R9WMl7fOuht5SCxPPRa7IwGRAkt8gN69zv+nxwXS0bUgh4ZRlN6PdNLDTcYvvRf4WqmOBlIv3Ungw04ltyCeQSFHJ0LAc96qliS9W3EHcgcRt/GIPb4jXuZD2IqQNxDuIH0A09MC7Yp5YON0G3mkD0gqv7GScvjnjRNyYdbbEJYohRWzRAZlC7OHDsXNmNubgXTvIXc8D4FfSxb/EIO171funNf5USpMA3nxgbR5/TYuhSxUETHpPJ2K5RTTUMeD9v1;6g6/pP6AspS53S8wFqMwBQ=="
+secured: "ARjQjY/oB8i5w/7N4GSUMU+ZJgbM/vG3J3PCy4dtUa4s900NpB427IUOiq+l3QClNmdUgC8F4U6YzO73s2E1YA/Wxi8RcSLXqg6qcmvlfGewjYu89EBBgTd9lmUHFbLW2I1QBmau8iL5jrbrz2ecHUbcKa2nS3ZZai6bJRNkdcbrZxapklrFZ2MRTnucirYcDX1raB8AsjFLzicSZOVm5un0rvdmDYRo+6rgOqdB9ZhiTI22MOSDEues9VeGJlc02A3zTZ13XxRiQRap1+k4uz/ZeOOv6F7zoZDNzocu6jYeTRuCtimUc0ULJQrXVuZqtUf1Ci9AQ1JEpaEEgh2BZKTyTbJ9YkX//sLI401Ehx5U5MSqdSydQwyi5lxYucSUwf2fgTpCzeMLyo1+BCbV8To+ObvondMgA+5rFSgKizw=;ma8Vj5H5T6qEfgdghbH5pQ=="
 ---
 

@@ -4,7 +4,19 @@ excerpt: "This was made for college presentation purpose."
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/FDIs-in-2019/m-p/889550
 type: download
 publishedDateTime: 2020-01-04T02:04:00Z
-heat: 51
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNmViMTg3MzctNzgyYy00MDEwLThiNDUtYzQ5YThhOTVlNmYxIiwidCI6ImU4OGRlOGJjLWRlOWEtNDI2YS05ZGQyLWY0NzJjNGFhNGM4ZSIsImMiOjEwfQ%3D%3D\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiNmViMTg3MzctNzgyYy00MDEwLThiNDUtYzQ5YThhOTVlNmYxIiwidCI6ImU4OGRlOGJjLWRlOWEtNDI2YS05ZGQyLWY0NzJjNGFhNGM4ZSIsImMiOjEwfQ%3D%3D"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3241/2/INFOGRAPHICS%20-%20for%20presentation.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -29,6 +41,6 @@ images:
     height: 726
     title: "FDIs in 2019"
 
-secured: "zcd0RIEIIrZba/6O7fZpiOIl6V/f182wdCKmEouVh0POgUR68AWHLJQ0gJNe/g/FVuN6DrMW0fM9auOESeXk2jAbw50iKS4ErFQoetAGm8u9oeixbvXp1Uzuku8jN6DZsh1TDKspDZaz8MTAX1Xvf2+YOpNDEecnezbZr363J3ldeMlc51HHrWtF1xl7x3/b0Ni6qJFFnnCiAoV7CoItlH3+2km8Uc0nVf03OtIbLkEoQf0rUQqzm7mzNcoi/4xJQgNWd3DonGYAPUfin7Syfpz6NChQ0hkm7rJTi7hpv0R+lMjN8SUPfIVkvbX/l2QL7MmxZk5nkKu/ZPVN/qubGD20OJzuz2nejam849TMJz2ZAC/Q8uZ9fW347FAebKbG;sBYMhkm1uCoD1U8zGAikpA=="
+secured: "jSDAxp0LeeM5E42sk+wOnL3mni1nA3PWaU5wkEbjTxYWmTcHhHuh+jIMNy2BnwND/WI3GUYGCFuk8lYnIvXkfQSxdCcsljTEDwdGK3W6nw7CzNzm/aNfLRu2fYeqJGieWYdmzuGoAb4U/J/qsSdUjZ29fEUXj/7p+wdNFJVpNCW9JcLrSTj4JAnMieqkVuwdblml3TFnbVCHKywBlhSUr2DoLHGfTYzHNIvlKl9BaVT6SkHkMK0GYLNNpdL6jNwGHnhavACdbLHT429F5/3eQu7+cpAYofgrCPUzDMRp3lqrfJnYjpg6ud9HZ/yZ85nSIMJ3jcUkP8da4d6zP5y96y959ia+H66D7YP9KeLw+TPkMStGEsIBUwd0zu8cQqssQCDb2BRDkPXu0soUievRrQ==;Ram0j9W/wZ1Qhda45a7YDw=="
 ---
 

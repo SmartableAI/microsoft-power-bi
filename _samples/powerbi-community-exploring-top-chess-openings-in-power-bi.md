@@ -4,7 +4,19 @@ excerpt: "Explore a few of the most popular chess openings through Power BI by u
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Exploring-Top-Chess-Openings-in-Power-BI/m-p/240955
 type: download
 publishedDateTime: 2017-08-28T22:48:00Z
-heat: 52
+heat: 51
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMmE5NDRkNDQtMTNmMi00NDVhLWI4ODYtZDQxZGQwMDkwNWI3IiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiMmE5NDRkNDQtMTNmMi00NDVhLWI4ODYtZDQxZGQwMDkwNWI3IiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1066/2/ChessOpenings.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 793
     title: "Exploring Top Chess Openings in Power BI"
 
-secured: "6P/mydfldk9OudgJoXTs/2CUq/tRetVR9mTRlLI2GUWjdrtRG47MLijt1SO4pr/1hkyKSXuPHAMxOd5/lWty3Lf/1K+w9G31RTBGluZIiuSRb4k719FYdkt9lxPZVwfLU20i6rsduPCmPsAVzdM88YqmQYb761H8qvIdNU3IIz65L3+EE1z4uChtDe7nlpakmrBpqH3+xgLqNVrODALOsBppi8/lHWvSUfd0aUMziHDWILdbv+30wS1F/l7ozy07YobyitObxXIaORemLb1z/7WAo0U2uWlL9+I3XdO1t4RT1bqBLusle+YoHHHul0LGkU3gylBYRD7rg4XMR5R0TuTAhRuCpq5vs31DdZH/L1nHOrq0J6xedaUTqtcxQVvd;FQ+lgvxDYuN+pV290mpSGA=="
+secured: "M5Viz90me3J3NzB1rgy+4ejlZrorzf3MSh5lHKXuSDPRdsdbA/vNstEpSsQSCAGP8xAZsKA5Z2gjxprLNJ88o2VsWM3Dg74TFLYkrYlf4K4Co1+dNs4VR6fbD/sKVUFv+lLuPqQE/W9URa1Ag0HSaAuSJhvqnmjgZDJfSaZsBuvwvnQpn2lPV73gXV7eQb+aeQloKu3tnRFd5ZdMiaLRl47HAqHjjoRDBQ5MpSSwervBVrE3yitD240mwcqYYiqz2kMeHvpnnN2PLOTEiLNi10iS5Ci8ki1ENXIIj1zgAqtA4L58B+QsCLFB386GrtfxuFvczSccEmqb+nRwLSTMBOEdPHwOmQyFc6uEPK+0RNS2I+x316uboX8cFnFyJ2zV25xM1dHWNDtx08qvTv56r5/sDZ2+N5o3I4CvUkun2U0=;w/4ZonExUfScpJkWKaPg8w=="
 ---
 

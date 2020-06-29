@@ -6,6 +6,18 @@ type: download
 publishedDateTime: 2019-09-06T05:18:00Z
 heat: 50
 
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYWM4NGFhYjktY2JlZS00Y2FjLWI5ZjUtZTM4MzY4NzgyNTgxIiwidCI6IjY2NzI4MWJkLTM3MTYtNGNiNS05Yzg2LTYzMjZkOWEzODVlNCJ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiYWM4NGFhYjktY2JlZS00Y2FjLWI5ZjUtZTM4MzY4NzgyNTgxIiwidCI6IjY2NzI4MWJkLTM3MTYtNGNiNS05Yzg2LTYzMjZkOWEzODVlNCJ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2933/2/Road%20safety.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
+
 provider:
   name: PowerBI Community
   domain: powerbi.com
@@ -25,6 +37,6 @@ images:
     height: 575
     title: "Road Safety (Back to School)"
 
-secured: "+TQmuTFNLBOI4Rr2h+abQovKy/LaKbifPiook0Vlugn3NrwjqP6YKZ2CgpmSsR2WjRcIzYzr4i7aetL0v86wNIPgEeJ4PfJDW5eTiSPxLs8cEkWiwwXCqoxVSki8n+TX3xK159X5RcUnxk9tPJODXpagDRZnVWgkRD8tjD2MQcIq1p1lD692J70OoaVKVP1myzVBSkh0i/5z5aKnyz0JTPx3rszOcH//0Nzp9w2b/rYhWHL8sSAvcqi/hQRAgjP0QSk/jR7/oW004g9KQkUZde7RWUM8jecAv4555zJqV3zjkK6WbRmmztTEq07t0Y6gXMuc25PazaPeEoN9lFfYBvnBiGHl5dp0mGQu1UbWIZIVZeR3kKEMBtS7F/2NOEN1;8fiGgS86UJZ29X02r3ySWw=="
+secured: "VpWmX3hWN+o+KGokne3zEXB5zXE2qYyLX0W7u84t8RIsF6L3qaONuxPkpZ4vAxjilkV5i4VFPAlC9pBi8ojDF06LBIv4jsffJEq7kmyU6EYD1lHctMpnw+sQcC8HGq7j4/2OSKJh9bsypXwW1kA7+gwBT8UStfFNoz5yCyWh9PoTdS9zHpefORBi6vaO19YYxbv+vin5a4NKSHIEwJX4ydjjl3imFzRqqpzONkhQn9HLlWiXbHcaE2TmWzIanR1oIuYuLMoKAuryhifEPZxLxXllpyPRSIIa8zbqv7NmkyfFyyrA+b8kH8QO1fxmrTBgwDoTXt5UvvSpwfeWT+eoGCg5Ir6bovPmktOtG77vGELJCKBMp4uLbrE4O2qBF5Zp2VyqTYpD0zTGIjPE/aWP9w==;fjGWhkPQsD9eM/EKe174kg=="
 ---
 

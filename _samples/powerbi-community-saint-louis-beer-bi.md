@@ -6,6 +6,18 @@ type: download
 publishedDateTime: 2018-04-16T18:22:00Z
 heat: 50
 
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOTIyNzVhYzUtMjZkZi00ZjFkLWEyYmItZWMzMzk3ZTcxMzk0IiwidCI6IjAwZmVkODUxLThlYTMtNDAzNi05NmY4LWUwMjRmMDI5OWJkNCIsImMiOjN9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiOTIyNzVhYzUtMjZkZi00ZjFkLWEyYmItZWMzMzk3ZTcxMzk0IiwidCI6IjAwZmVkODUxLThlYTMtNDAzNi05NmY4LWUwMjRmMDI5OWJkNCIsImMiOjN9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1794/2/Saint%20Louis%20BI%20Beer%20Report.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
+
 provider:
   name: PowerBI Community
   domain: powerbi.com
@@ -27,6 +39,6 @@ images:
     height: 936
     title: "Saint Louis Beer BI"
 
-secured: "qeJfBr57BcZfGI2IgHxh5g2DB5Jq8WL5XnEoIhPPOLOSyi9QCMnLNZGRI1Z+SA/zs4Ho1xM5+uYK82huIYHECEgNsq/H/2UtY1zwZh/jyYliSLYTE9ziW8W6DeCM846wxXTHoZTgxv5vc+qPZWaSGreMvbinOxLcw8GTwU4eAHy6Re2LNqsjLiVAEsoe73WezmLglM0GzUsHXlFegANzw5luxRsgOd+JUv90XtKCWEXwPL3vyzk+InhpS/bgFksueRAb9WLppPN4vJb0y7PzuI5MLeAwj/EskDU9xfEBaR9SgbCJ0kOdRaw0rx+vYUc6Lg8aeiywvAZ2vyi0Fp8cHzLdY1auGmdv7RTCI+kkz7/bcaXQsKR124pTwAzzH4Gy;Xf9BbrkCaMmQOGGT/iCbnQ=="
+secured: "h4p33UeapRSpKC0F2xwIl7nxySpI5PQGM681mc2cqMKHXAL4mDxkOia163I8pI1c5oXTM692thZnDd/zx4pSKXtQmO6bMQP0bF8xDdxIJRlGyB5JLjzJ0i3N19CY89kOIH8DRL6RUKddlWTgzzTx/yWfynBDn8dAD2oy0c4e5uNZ32UUiz9DUHA+CvTETVZyme1QORMhz+FpFUAOJGm9kt3pRH704iIcTqHWSUlN1wDUOMOFDelzAmBbBPFjs9IdFDA8aiHAeI0sg8ZFWfUiMjfKRfVkesJpy2mXu+rWO4CCEVXF2L15cLOhPwP4lCTw2sJPXK9k4VRPLju20A3I2Y1Risq3iKOJ14GqqYpYwAekJpF6YYFKscSChjOAgDo1+d12J2KtYN9RcG1Y28BcRA==;bQOH7+ORiQi6pkiYYKsd+Q=="
 ---
 

@@ -4,7 +4,19 @@ excerpt: "Hi everyone! I was thinking about how to participate in Back to school
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/DAX-in-Power-BI-Back-to-School/m-p/785063
 type: download
 publishedDateTime: 2019-09-05T15:59:00Z
-heat: 59
+heat: 58
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiN2NmNjI5NmEtMGUxZS00ZWRiLTlhZDgtMjU4NmFmNzkxMjI4IiwidCI6ImNhMWQwOGIwLTk1NDMtNGJkOS04NzE4LTQyYmVjZGRjNzc4NiIsImMiOjR9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiN2NmNjI5NmEtMGUxZS00ZWRiLTlhZDgtMjU4NmFmNzkxMjI4IiwidCI6ImNhMWQwOGIwLTk1NDMtNGJkOS04NzE4LTQyYmVjZGRjNzc4NiIsImMiOjR9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2931/2/DAX_In_Power_BI.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 1018
     title: "DAX in Power BI - Back to School"
 
-secured: "ax8eu59WoXiqbtxieRxQQMrbRxIT05JlqUaix9vsWwQiAEdZkimiPmfpp6UU9x5OHbQVA59jR81o0cW6VVE13q46uAyTwKkgEfjeGvEF7zJWflUDdi+D1fOR3LtFLnY1VAUc8KJM1RasHt6UzRmMhx7kE55KAxoeBJeXXrxYWuIDndX+x6D+l1RdtFUqxQgXY1GlG76DHMf96MtwslYpfSoFyMH1xWQcgIAbIq5WkEjmRa2kk0iR0vUe0ToVHBcn6VWOUlEcE9n8zuFM7DIjmR/QAhwk/DpFA6viXg4wwMOyJy9B++Hv9j366AHnRFOpTotXy1A5xjgaQOADpCDJzkbQyxFHgJUdWA1f9170vkuzn4GjC5hmaUZM4SElVLoL;OIBYA3opz09a12EJUMuIYg=="
+secured: "VznHkOK7CT+IIoB2d1BQcNaH937WhHsBKmyOfq3lRPcUvxDWt3nA7S5j6IgphEnZvEQ08edE3JmPcPktSKOTUevqkP9ySaujrfFbesu/bPPi/r33o+MjGwCJf0Us8HaXOFNgsPaRzjyLUkEhUOfGtGV8qnUHkLC9bwhQ2O4fd4SYBXkaUX9IB4j7ei0kfOtDgIa9cQDSpdaooPkH/E7eqSI1JsNCTGOyvzTrr1HqKyhpYBxPPF13Q0a09qm/TMfFIGKVcJNAMhUVYQAqhKe9Ly6ZZEJBKgeoPosJlXaWjnHc/U3eBx32kg5DDo/WvJQjzhi3v4c/AIZ5OpPLEC1dR9rv9zb6RIpexR2ag4IvgWJVhoc/DlcI5wcORqMJ1xvkrJaI8sXMuT+PpTQYtlL6laXXwuyABZV+ig2x/KiRPsY=;fXfnRgqED3311pr7mFqWTg=="
 ---
 

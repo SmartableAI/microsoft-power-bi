@@ -4,7 +4,19 @@ excerpt: "This Power BI App compares the three big 7th generation Video Game Con
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/7th-Generation-Video-Games-Power-BI-App/m-p/73543
 type: download
 publishedDateTime: 2016-09-30T00:14:00Z
-heat: 53
+heat: 52
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMjU1NTM3OTUtYzRjMC00MGUwLTkxYzgtNWZhNzBjNzE0MDQ0IiwidCI6IjU0MWQ0ZDFkLTcxOGUtNDE1NC1hNTcxLTk3N2YwN2VkMmVmMCIsImMiOjh9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiMjU1NTM3OTUtYzRjMC00MGUwLTkxYzgtNWZhNzBjNzE0MDQ0IiwidCI6IjU0MWQ0ZDFkLTcxOGUtNDE1NC1hNTcxLTk3N2YwN2VkMmVmMCIsImMiOjh9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/348/2/7th%20Generation%20Video%20Games.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 889
     title: "7th Generation Video Games Power BI App"
 
-secured: "6ESovVgwrb3t023PkTQQLMuMGRMMFMQmnmmbhyIrwKsptGM0EyV8K1oRYzinnqTXr664XE8+cofFJf0xs4JGOl4BHWj1HNPVd3y2aFkB/RNskey4Yc6/EWdYsNwTcecTYC80Czmw3XLXL/GFlwWtvb3ubIvmDqTHMJuHqvHrfYI/YeHOxZiX2GVLbryhwquFcfhrkJjXMzq5+gcaZi0GEgCghOUJzQgu/ELc+5gr09BjhUfjt+AXkhTcSvY1d5SpJ5hTgVUeVdbc/Tl/4P/NRffSCxRwfc+t+Da4UT3awanAJIePwyraEuVnY94DLdmHPgELZDFN3R878yMX8blxp3R/7IBd80W/HiKbMCjVvvPuYYtITupP+unwUFXOUWYP;UfaDTQfuXLZQ05CzWt46sA=="
+secured: "jJA5PCCHeOjYwqrXXEjw2KK8kyIwfU3Ykgiax2yhCxMJOdnb0Bagp3Z+uwkuHK79PWHAxnMT+ZIAeIrnfI3gV+j4zT1G5ymUDvx0vG2F3JOzxnsWsF3Tm7aSrfIKZgmBxjZSVAbo/XkIcxJFWic/QhcFHf8qPLDrZ3aVWslEyqt7ysZjkNOGrkhHKYZvcsUOdS2txxpNmUSI0EuGzUOGn0/3aAIFZ/6ZTSoofDep+/w85tqCikoDgYCBZwhyXR2YZ/RqsIqa+5ab33ql8TZ8NVaOyCPjwsacNcQg5CItknDoM4QxJsRQg5bkkZy8Nv8gKg/pFlqcF+fre2EaTthQDDLVoOtzgeXtIS07xEuMbszgrz5+AFDmlvRiCzAkWqYu6BQ0ofXRN78Z0bSNUtrHlS/22ztLU44Y/tTZit8u+jE=;4z1TGz4vwjF1zMqbYZgUXw=="
 ---
 

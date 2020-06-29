@@ -4,7 +4,19 @@ excerpt: "Inspired by the British Grand Prix results posted by F1Fanatic.co.uk t
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Lewis-Hamilton-British-Grand-Prix-Qualifying/m-p/48913
 type: download
 publishedDateTime: 2016-07-09T10:23:00Z
-heat: 51
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYTQwYzRlNTktNzQ2MS00NjJjLTlkZTQtM2Y1MDU5NThmNDQxIiwidCI6IjNlN2ZjNjM1LTkxOTAtNDFmMC04MDZiLWI4OWIwZmJkNzU5ZSIsImMiOjF9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiYTQwYzRlNTktNzQ2MS00NjJjLTlkZTQtM2Y1MDU5NThmNDQxIiwidCI6IjNlN2ZjNjM1LTkxOTAtNDFmMC04MDZiLWI4OWIwZmJkNzU5ZSIsImMiOjF9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/141/2/2016%20British%20Grand%20Prix%20Third%20Practice%20Results.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 427
     title: "Lewis Hamilton British Grand Prix Qualifying"
 
-secured: "JXHSTbXxrxlPE/SPVztjHbhuEwqkLC1gXJ3u8fOaGMZ09m8P3fLiIxm5rKIRxlPmjfGDyRxarOZfRGdp7B4i6BA4Df+Ocm2y2Vun2aTku+hPHjMuC+e05wUPgKAYUs1VpxvMZPkktIcEh0YgrH4G6jOMUNbVIzX9uedlPdjVVu3l6LxbWLiX1AgDxqubwalbcU7eAOpgOWoIIObOhZV23RS78GIA52KoSEiUfqRNIrA8j4Z9+qQymVA5Ga1eQ+MsP3KaH/uqvUT81wsu/EYWU+9rOT7CdwWro5F7Oh1zOWAZHey+Pnc/8+B/ycNkl2/PE9I7Z2em/7/vGxsNsgFEWcX9QlkCdmcux0SWCV4yg0QibEcFoxBauSHVn5JSMuF3;qJWFnLkexXipJ9/dZgDYwA=="
+secured: "0+yXKzRCVF3iJ7thTUNWwLM4/mR09jnUafqFPArFII8slof0pP4IQ/Cqs40JXM2XWLkI+x9/bhqVGg6BkP9qBH+VnlIxAnQwNo0jHezj2aThDHzTjExByzueXtOiPgDVS5tDtWu7T9ZBMW8I0aO7rL3jb/6Lz9qEwMrZYr/E/Jqk+NyH3jS8Q5crO/1LxdemgpV4T4nv/xiTnPfK1dUYU0U6jZvZcP81YeadMl/rgDxlW5ayobsOWssgmYTlwS6P1FvYuHX9QvX0YYzWxRkbZQ9W7anYbJg+kbwDCOuC+N0jgqNQfEhDY3zHbyWxx0AgTghRypJvAjkhcyIPWB4Sk25Fpm0t9pn0uQMliIGnqEOWUrSoKlSnqSBu98CPJU531sPm3Ts/tGoj3sOHfGH4EmHaEyeNteyb0DWcoCSrRqg=;AGDzNgQwRk8Aq6kgADkWpw=="
 ---
 

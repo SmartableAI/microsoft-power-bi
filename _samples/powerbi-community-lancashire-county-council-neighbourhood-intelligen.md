@@ -4,7 +4,19 @@ excerpt: "Local government is always looking for ways to target its resources mo
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Lancashire-County-Council-Neighbourhood-Intelligence/m-p/232538
 type: download
 publishedDateTime: 2017-08-16T08:14:00Z
-heat: 54
+heat: 52
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYzIxMTM3YjMtNjBhMy00MDg4LTk4NmEtMzgzYzhkMjM2YmFiIiwidCI6IjlmNjgzZTI2LWQ4YjktNDYwOS05ZWM0LWUxYTM2ZTRiYjRkMiIsImMiOjh9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiYzIxMTM3YjMtNjBhMy00MDg4LTk4NmEtMzgzYzhkMjM2YmFiIiwidCI6IjlmNjgzZTI2LWQ4YjktNDYwOS05ZWM0LWUxYTM2ZTRiYjRkMiIsImMiOjh9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1014/2/Neighbourhood%20Intelligence%20introductionv2.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -29,6 +41,6 @@ images:
     height: 735
     title: "Lancashire County Council Neighbourhood Intelligen..."
 
-secured: "mnfy+o0Zz0UZOCTAr32+DikO0t8eOGRImgzuasZ2ZeM3GJIM3NRnIKeF2Rb15XY63RqqxK50XANQDMSHItnYiinUJPw4TXYEllDEKS17BIQH6tAhCJGoTERVV6jjKkDdItySPejaLklI5fEKb7GCmYdTLpULi7wazT7db550/WM9vZgbpTJ0sFmMI7mF37ToJs6TX7SMXk60UgW4B+VMpRX36vB0fri4U7UQYWGND86GAhiDuv14zFjqs1a3DsCpgySJI/NeE5oKCOYNSuXh3VE6TaUQFR6Fp6wLhLw8nRJHIhV9YS3dqU6rOTqkWvCXgmLhNdp9NUdA+mZ5GJcalsktCKxCDYbmTUy+4O1aYWcSeOS7KYPl6BpvIrLEU4Rc;UsH9QzBOVniHXp79Yj9kFw=="
+secured: "Mgjk0/B6S0IQjET5v5Ct9b82mS402uPbm+dHlvYMfs3sobcfDTpmSu1EBxRJczZeLpoDciowRGQlf3T6aXesmccShVOsULNUgzOrrE0mWihhBzC196LyqlFVzaiZzpl4YTokdI4aykD95DJVkSxEew/ey2+NO98RtsIRfoy+URE4lJJSzFPCPcZyrGDWVhSBGJuj75vEKZXGgrIzPveqDdu/pwpjy40ObtbUyTbXj1SwgyR78dAHY90O+67xpp7zuBiHHGYMW8pIAp6jbyZpsiYDa3JUrn5JeQSMfcY22TzkA/O8A35M7OEp4p0n2IvU3yciTL0s+cZhpnvs8Ef1FAzGIqLdcORmloZrlD1pNS0jrhzsWDw7Nd24CKFVziLWJUMlbkpYyk0L1ZO5RySOn2AOC2beTX5E2jPRp+ewEc4=;uZiwSGONuqCIRYYQp8EfGg=="
 ---
 

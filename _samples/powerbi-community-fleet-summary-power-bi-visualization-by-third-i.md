@@ -4,7 +4,19 @@ excerpt: "Billions of metric tons of greenhouse gases are emitted every year acr
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Fleet-Summary-Power-BI-Visualization-by-Third-I/m-p/672993
 type: download
 publishedDateTime: 2019-04-18T03:19:00Z
-heat: 58
+heat: 53
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYWJmMDcxYTctMjk0NS00MzkzLWE5M2MtZjcyMzcwMGUxYjg1IiwidCI6ImExMTdlOGM2LWRhYTMtNDFlMi1iZDJhLTgyYzUwMmZlMzM4NCJ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiYWJmMDcxYTctMjk0NS00MzkzLWE5M2MtZjcyMzcwMGUxYjg1IiwidCI6ImExMTdlOGM2LWRhYTMtNDFlMi1iZDJhLTgyYzUwMmZlMzM4NCJ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2597/8/Fleet_Summary_Report_by_ThirdI.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -26,6 +38,6 @@ images:
     height: 622
     title: "Fleet Summary - Power BI Visualization by Third I"
 
-secured: "SDLczYQvYD8RgNmStLZ9DxkryL/p6ns/KqcibfG0rTv5Mo67k33VoLuZjpBYKE6hxwHEe3sxNYOcF1McupX0ybE7XphUR7MhVfrp7Yl9iEZ9UbIDnB+9KaODxYHloHRq3Khw/tpPKcHvCIWtc1Qh19id9+n+mAIwq5sFPX5S1+sDbrU/IfxXlecQy6m0rpvaRigMPJG/SToTmohF2Twwg0XjVQXE7UrCgn6M78YxxgKafh6UbnoK1LaLNZwdm0IaXnMJnlCT9j0qhF7YdnyQRmaivQyPy/me2lvD3J8ZpeiL+WXt8MYW8xEbM8ZH85JFTR7JAicBXCBkKKlUanHBNkwcbHL61+lGr1iFyrKN3Zv3Mx3pujtRyOgLiJ3ro1tx;MnWMvERrxvmRyipiHjs1aA=="
+secured: "Pmqwr8CivKdjcAmkczSpdbkOieyuBQYToIJkojkpysRmP5kfTrgL06p0vSSDCqXYceEJNQdj8iI3rSDuss2egLicG3r+s3ot4h1Qkuxzg5wpRIZBJVeco8D9qP9kycmuExZQEcPPmTwMaBrTauFsCkEgo+8vTUi8nXf47i0I0zGb/XukFNrvDURaMVjEUFGPA+CvQ4BbPCNM2d+6Owj+c6uMkY7aAHiaVgdSu4UWvzxukr9cB8oBe5XfmlCWvVyJwgBuSrBr3BVZy/GH/iUvLpzTqiYD45Lerd+4qKJC/Rlo57MKTEB/VGtlgX9iTPalG3yjolHZJCJj5Pq5aIPlg2ujV5K6nizpwxa49IcHLV3qZ6aryWaboWIuAfkyJ/ZAJHGC72mGreaHQlcKvvO1Bl7fOSUH94BO9G81HcvW2e0=;X5lF63BURMUDKfoKvxD2qw=="
 ---
 

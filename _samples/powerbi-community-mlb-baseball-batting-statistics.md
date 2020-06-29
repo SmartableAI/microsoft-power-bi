@@ -4,7 +4,19 @@ excerpt: "An overview of the pages: Cover Page: This page uses wallpaper as well
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/MLB-Baseball-Batting-Statistics/m-p/566230
 type: download
 publishedDateTime: 2018-11-14T11:53:00Z
-heat: 53
+heat: 52
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNGNjOTRjOTEtOTUxNS00ZjRmLWJhY2MtYTZlNDU2ZWU2OTFmIiwidCI6IjZmZjYwZDM2LTkyNWYtNDc4NS1hODU0LTUxMGY5MDllZTU2MSIsImMiOjN9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiNGNjOTRjOTEtOTUxNS00ZjRmLWJhY2MtYTZlNDU2ZWU2OTFmIiwidCI6IjZmZjYwZDM2LTkyNWYtNDc4NS1hODU0LTUxMGY5MDllZTU2MSIsImMiOjN9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2366/2/Baseball%20Statistics%20Analysis.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 898
     title: "MLB Baseball Batting Statistics"
 
-secured: "n1vJbV+5a05cd9gBRDO1KKLA/AnIcHYEfUXen+4LEdEOasEbR3/L0xC4zebMeNiOItn71h+GFnyW0/+eSXSffiXy/2EyJeXaRmdNo2DVZrctN9PD9ApmdU8SQWMX/W+FtVqWVm+cbEf6LWJm+XZld5A1CWGoH3GcjJx7SlROMIuBBSlF50qs4pFL8JUly4PnWvliVOEEUdNH6E1G3/UXrORwhrtxXCj3TB8KUVlpo8hmGJJb7aA3NngGdAdv56qi4sKA1roYN47S2ApHKSuhPbbnJItRaGj+4aGcq75KDVVcH06Vi2rigPWGs0VFZ+z0FZ0gZRRTbm8aNrSGpkeo1PCDUOQFIkrqgKYSBJAhwXKqCDzNPPf1oQjle8u8OdNr;FelUYZY8kj2V4/o0zKWJWg=="
+secured: "agYWMwpfyLJpqjHwBYzLgpQUV7yg5Osse7YP6A2mtg5vFRzI40UAHskjqL6DlSsWlHFBQXautB0tx4OT5lxk5w72etHOTKPAXjtjdm3Bk4s0opT4820w71TfaugdzBGe9LUghO5YAPUg05BSOTiT4wHH05MIHNagN3c0AjYUKydW/Usaqi0JFmDYyvNT3d9c2yUaE2BmFhhV5ALPQlJnb2/dmvxHJnx6Kd3n7gvASQtKGQRffZty4dFChCigyLVoT15hrdFgYepg6hCsSP2AtqFVTAzRkiXFwhu3yvsZ3QJhMaqw7BHol4oQ0S8Dmnhw2Zf566cUt0XsAlkucpBSlUeuhQrCC1Ll3gSEY1aZ6nZPKDdXj82QV1eFd9LS8nyNNu1sAEZNdydLJvDCa9jqz3qV45JWRA/SQGBhAWeYLrc=;jC5OAiM/gjhaVIAo8SY8NQ=="
 ---
 

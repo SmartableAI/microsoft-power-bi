@@ -4,7 +4,19 @@ excerpt: "Solved: Third I developed a Power BI report to measure carbon footprin
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Green-Defense-Power-BI-Visualization-by-Third-I/m-p/637230
 type: download
 publishedDateTime: 2019-03-05T05:43:00Z
-heat: 57
+heat: 54
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMWE4YWY1NWEtMzczZC00NDE3LTk4ZmUtM2U2MzFiNGZkNDQ5IiwidCI6ImExMTdlOGM2LWRhYTMtNDFlMi1iZDJhLTgyYzUwMmZlMzM4NCJ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiMWE4YWY1NWEtMzczZC00NDE3LTk4ZmUtM2U2MzFiNGZkNDQ5IiwidCI6ImExMTdlOGM2LWRhYTMtNDFlMi1iZDJhLTgyYzUwMmZlMzM4NCJ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2537/4/Third%20I_GreenDefense_Report.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -26,6 +38,6 @@ images:
     height: 627
     title: "Green Defense - Power BI Visualization by Third I"
 
-secured: "fbi4CnGZZac7ad9EGsML38lN9MZT+ujePGdu8Iz0bN2Gi2Pn0u53W2I4TC2RTq7L9WMlRSzoEfIIhBhXwrOWCLokCvjeI8Kv+M5QAq1MrpI9yCdT2OYPw9CADQUpGzfcpe8koQjtoT030VLBCOfQgJUnGAFAQLITgUf3Fsz4B0MR2zCy7kCgwHNXl+3doRFB1co9yozOJvThsll3tl1fcRHaFQP282r7JY5nQKFD93QOHf0u2d3GJ58c1z7/+ZU4RFLa9dOAfQyu6ADaJJoRZN5LXdx5ASHX+zDxZKmFYof2CaeHplSMBtmoKHO90x76UpsdqO167r7d1OkYtyQ0BcPhskJCWAb/jpD+T+xm87TChWw1gYLJVfMd23Ez7hZl;lSOAkrQe0w4+a8WMtRrmIg=="
+secured: "ibKTu2MmBA0bNXcAzBk3lw1RdHadVi2zdlpunBufXJ213hV/ChAxdnzF0fRjJnabX+VJDETTIdNp6mgn7Szfjsjw160qvfQsvELejuK2HGNiSxe9f8rwF0s2gkMI/XSwWc8CEVyL6/MhWXjX9B7psYEK/INLjp/xMPSLcywRTv0yMw9N6a3lW6R7kokujXAsWE9puQVIzDhoET851Wewkij0CEFNI8rVfMgrtzdrXniLdfdFqixdHjN/JPzU+pgLku63FphS3bb2vWqZZfxv7I127EStPdcmBBXGJgleItUBfDKpjfOIcOYUOJRSp+ZsE/7e7F9ycXePb6OGR5fXJz1xJMiNVRCwmCKeWIeejxKbu2nONHzoaJ3yibrnnISZBdodiernL5CBxY1BlI4Fv3oRp+mSHBTkODdB5n0Sgt8=;zm1MBVxM3XcJA8kfKm4fTw=="
 ---
 

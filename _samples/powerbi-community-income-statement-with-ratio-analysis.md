@@ -4,7 +4,19 @@ excerpt: "This report shows a completed example of a flexible, dynamic and atten
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Income-Statement-with-Ratio-Analysis/m-p/792479
 type: download
 publishedDateTime: 2019-09-14T16:02:00Z
-heat: 62
+heat: 59
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZTVkNjlkMDItYTk5Yy00M2RiLWJmMjYtM2Y4ZWViNDA0NDYyIiwidCI6IjBjNzk5ZDM4LTQ3NjQtNDJiYy1iNGZmLTIzYmViYTljN2ZlMiIsImMiOjh9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiZTVkNjlkMDItYTk5Yy00M2RiLWJmMjYtM2Y4ZWViNDA0NDYyIiwidCI6IjBjNzk5ZDM4LTQ3NjQtNDJiYy1iNGZmLTIzYmViYTljN2ZlMiIsImMiOjh9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2997/2/Income%20Statement.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -26,6 +38,6 @@ images:
     height: 765
     title: "Income Statement with Ratio Analysis"
 
-secured: "0xPh6khcnFfHEG8LaZO+FX3q16fu+Gl/AXukkV+ed3nYuVskOWMjScrxr9wYS73ZpIM3x87wo6CD7JQTsNmDkvkLWj7xX0BgOA6S4rJcsv6b620svBTMTTW58epBcmvOnlDYPlcXHa20UijIIgBeMWXWR3HJEF51pOcsjcaAFzQ/K6i0P1PdLBCHic10M5+26tbto0wQwpbMWZcxyNEkGiv4HEAe8XrU33IkkOcnjyRFsYC7jAjVw9vLmFXd8aNqUf2jgDHlJQU0hdhZ2/ZXfWmhci7YB2PJkzuB0kkDohcVtaLMGC8BtYRKhfX3e3WGKikA8PSOZqcEPteW9Gyfw8I8j+wPaLAtPiB+6f/59IipKIg0tVDH1x4gHJMhUtiR;TvLK8d8N8AU0RNwx/pYn6g=="
+secured: "+R3B+QGu1/G9c7Oi9wBtl+71vs3kJAl+MVelwTWRPVJ4b46g39ZygScrtbrmEOf0MZKhjI8kjZJIVPJrsPLNOas41qNLCdRK08qHQerAjY1EPAIlCyOAI1zG7UCQ4YjbVvOgCVP4xRMy5i2QEo8y+ZBU351hr63bSio2YapAf9SBP69ADjp1wZvnzzMYZQHx2sGRTHkAFnMUsBNlLPIxbyw42WcFOOtmCA2p+ds5vfQjbPtELzWw2pIt6YAwFQ3vX3bAnvEIsi04UPn8tSQ77Bq7bUAY3jQ2eev6VVVN7ldCkbyOn/B6Yi/34cjisLtL8Dbj03phpOnR/hksCYwoULlfUEIgdD6nHkgN0dXKFzw7gf/Dy6WU73aslfDczvNsmIyj3V2Yh5Lp66+KADIdoP+tzmR1BLaHR+UC1IvInsg=;peMJKCzoAa+kK0WpkQTrgA=="
 ---
 

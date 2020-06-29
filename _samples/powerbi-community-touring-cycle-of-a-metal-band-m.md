@@ -6,6 +6,18 @@ type: download
 publishedDateTime: 2017-07-18T04:15:00Z
 heat: 50
 
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDI4MDcyZDItZWJiNS00NmE3LTgxMGUtMzJkOTc4ZjkyMzg1IiwidCI6ImM2YTUzYzljLTM5YjEtNDgyNS1hMTBjLTM1YzY5NDM1MzVkNCIsImMiOjh9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiMDI4MDcyZDItZWJiNS00NmE3LTgxMGUtMzJkOTc4ZjkyMzg1IiwidCI6ImM2YTUzYzljLTM5YjEtNDgyNS1hMTBjLTM1YzY5NDM1MzVkNCIsImMiOjh9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/964/2/Behemoth%20Touring%20File.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
+
 provider:
   name: PowerBI Community
   domain: powerbi.com
@@ -25,6 +37,6 @@ images:
     height: 768
     title: "Touring cycle of a Metal Band \\m/"
 
-secured: "QotQbmRmTf5I5Yjk+NNItv/2rHz++b8GxwkpOpHAe3gzl+iMZW9m1qbSJm1/vzTo3JPVFP/UBPv5Cu8iILK3Ls9JSsPCU+fkMfR+hJtCxjjN10F5OvUR43l6fknsOPuglb1jtdFak96v2ECNgOvupJIEVbKp+TnTduGWlDEoRPXNlCS6ZUKuEnmuuPp77ERpLZLpWKXYwWgPE2eT53KiF2O0EvkgXySl1B0rE3HJw7FesqyPuecE0762iLtDPa+3ZrjrpMa3/ZQ+WRhYCDhSN9PX+jcNMYwS2n4iIucEvC7k1Mql7Sws740vk46G3zlfb2VyjDl7U1VWcJt9rC02gjCpNwOyqn+5ExzySBojsEAJAmav7dDEWaCJ07yt4qGD;LL5MjbP8aPr0CUAzoQ7DFQ=="
+secured: "7zSP5q7prdO9+JdgiUVzuaDckUn5uB7jwhPo/A8noyPzSEhiC4GmdXXWVCFw2cGCYSOouJcw0MfFky/0Lr41Y9wsEXdaoBUUQChR09mn1Jnf4uEB5who0W55Z9PQ7Ac3EN0nlGo2DIIroQ6MuGmmQGRxey0/kvbPgInmX9Hg3vnbWFuc0UqQqCsDN6F06d+zC/E54c1tUJJ1kaozWgMl8d+kH4i8LdWa5DyAGjJQfzSXAtBGQrP2OBBi9nJZVe/KDC6oGhPXBlhY0QBmjS0/F/y+ed3sLIriCcj/mlpMj4X6BiAuOKByDF6pWxLiI+ob5GdiFA5yGUu2lGeHXmu2fMuxOJpJY62AL63x4nG8CaSHSzrYE91pR+5rYQ/QUpUZUyS4BYkE0ZTARuITKVc9nQ==;b90GNDHQ2PlX7LagkydCwg=="
 ---
 

@@ -4,7 +4,19 @@ excerpt: "English | Spanish (español) For full screen view click here: https://
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/12-ways-to-see-trending-data-with-custom-Power-BI-visuals/m-p/1084406
 type: download
 publishedDateTime: 2020-05-11T08:43:00Z
-heat: 59
+heat: 52
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZTc5Mzg2YzUtNGI1NS00ZGQ5LTgxMjItNGZiMjEwNzA1MzJjIiwidCI6IjEwZWM3OTJjLTU4NzctNGU1ZS05OGE5LTFiMWQ3YTNjM2RlYiIsImMiOjR9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiZTc5Mzg2YzUtNGI1NS00ZGQ5LTgxMjItNGZiMjEwNzA1MzJjIiwidCI6IjEwZWM3OTJjLTU4NzctNGU1ZS05OGE5LTFiMWQ3YTNjM2RlYiIsImMiOjR9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3927/2/ways_to_show_data_v2.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -28,6 +40,6 @@ images:
     height: 1010
     title: "12 ways to see trending data with custom Power BI ..."
 
-secured: "KRjD4PXGcNhXtOeaocHx1y3WmMLdNot0NKXMp+R1g3MC9jUIynv9RAfbyaCd4SBofZh69uvMMWrrPv/bkCv4tKpRmxFCGiWEN2fK3X505jvJok9Pctz39ASj1vumz6ZBS91vjJQgtnfUED0D1fhydiTUu8IjOpqQ1RiQRvEkvR43w6Id2XLQ8qEqQcIq3VtPoRIcDjHdIN4yPLtC0KIG2wcHTBv1oXxw8H2mN3ifJX0k3EC/X/hPIis2xSO7Jl420ZuPxFyfrnriqQhQtmsk76pH8jBQNUoVgP3Z/53SgBtDylR4pGk3uQ7Nm3Lz1/JFLoSWNJ2USiPp0MLq6XKtw8pComQ5qa0e5JHQSe+ThdzeDCgksDQEIUNBQ5jskOMI;HXyRTYIMLBLRrjMac+kZjA=="
+secured: "jKcRCQoNQQY24DSnjhAICMh8XJvcC4irssKyZl9qH41VoflqaVIlJHYeZxfEO+a7kQZ0EO68Vs7U+mEdKjPjrXLalM9qKwhhPtugp2GQBrTnO21pSQ80kPXvHIhARxH7XmZqIuwrY8IzNiv2hjTuK28/wt5FOOhBy2IbY+Xd/uCMpJjRqAxH0Spt4ZDBv3zIlQy/QKO2PubbVguRYO8/Gh0XTvMo9rloqOqA+BJpNA6/dMTxrWCLmQ0snrJZVcNVN/NL0fOM6OgyWwjnwNXqcC0vxQd2TyoNRejKuSlP0zbKAuZJjxKV42uJId4wUX5T3f6gb77+aCo2vNfqc5/yuVEEj4RA8aar5IB8pk6j0forul6Ek9zO5aEqu9+k94NOgWjSebtFatfJk1gRYfGmow==;oLbe+1xc3DLPDbWEeu6E0A=="
 ---
 

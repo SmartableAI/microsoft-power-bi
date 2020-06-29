@@ -4,7 +4,19 @@ excerpt: "This report shows data about COVID-19 Coronavirus in Spain, with patie
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-Coronavirus-in-Spain-with-patient-details-Gender-and/m-p/996350
 type: download
 publishedDateTime: 2020-03-28T00:07:00Z
-heat: 51
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMWQxMmI0OTctZjYwMS00OGE2LTk1MzUtNDRlYmQ0ZjdjNjJjIiwidCI6ImI3OWIyMzE3LTM0ZGQtNDNlNS05MWEyLWNkNjZkM2FlMWYwYiIsImMiOjh9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiMWQxMmI0OTctZjYwMS00OGE2LTk1MzUtNDRlYmQ0ZjdjNjJjIiwidCI6ImI3OWIyMzE3LTM0ZGQtNDNlNS05MWEyLWNkNjZkM2FlMWYwYiIsImMiOjh9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3592/2/Coronavirus_Spain_Age_Gender.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 100
     title: "COVID-19 Coronavirus in Spain, with patient detail..."
 
-secured: "yIDYqzhODNxA/BYpz7Sxht3ILjD6bAGRMcmqakrYDcoY7+5VJdwOBfYu7stUeQqq5AYHtpx+fbmfzb8fblWfhw0YaPaiQNqw+Vct8DaY0gmug8IBsfyRC5gbgrAQWjCG9wu6NSTRpltNd8BsE8bnUT+49WTLjLn+s8oXOdow10d/zkZPCeJ3sDCDkoSKEICMZowPAjrF03OiG5CzKUVx+tahWocusN/atyr2EvvFBsCSQzJLtQKGQNanMupoRjv9PwwDBmxCNRQTdZ/UgIIwaYdhUskNL8tv2SrGc7nvU1JUcrTAjzHBbmVfdPuujpThXdd3/u7OrJuZRpOwR9vCfWseEVCBsbjmlh9y/kufV4H0/0l3DqtoDBvHe/2J1rG7;MCfwVsZUnGows1N8rewXKg=="
+secured: "LXAUiKNMvYolfqEldtBMhELflI7TfI1gy18K4onijalaxhQ4hHSybmKNZJiSoSQ4pW+VeZLFq4OxoCmXSRSZ4ntCFIpqsm73nKSeFCe+6ld4QlcqD34C1xVb5LraxsPrOtsFybaTP8+jcr807+mn9m8Elhq+RiLlxtM0oeDFKChRk6ZAyHAUKP3MtlzOk4FhdqgcUdIEjB5RTNOjgJny5a/YGiFU67f/RNyrWmPZByUEqPnWD6EER9wzYXdrMSIRSBg2OvAPSseig+Ne2hhOPaoVt6oktdo9M6R0AlAcEExcgCwgTu4iXLCgrBP/w7yicOPIjk9nmjcHw2NN7gBLi3Ry9rh1tEqEUN+tCN/woU8Th/s7KgUJvGgsU+DikFK3vxDsncwmIvIRwJ2igf9/Iw==;PoaM7CgIRyzegDZoorBOfg=="
 ---
 

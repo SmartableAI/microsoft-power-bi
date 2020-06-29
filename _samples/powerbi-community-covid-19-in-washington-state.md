@@ -4,7 +4,19 @@ excerpt: "Dashboard showing the rapid transmission in Washington state of COVID-
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-in-Washington-State/m-p/974538
 type: download
 publishedDateTime: 2020-03-14T14:08:00Z
-heat: 56
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDA0NjYzODgtMDk1Yy00M2JkLTlhYTgtMzM3NWExM2E0Mzg0IiwidCI6IjdlY2M4YWEwLTgzMGUtNGQ4Ni1hZjc4LTgzYTNkY2MyNjIzOCIsImMiOjZ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiMDA0NjYzODgtMDk1Yy00M2JkLTlhYTgtMzM3NWExM2E0Mzg0IiwidCI6IjdlY2M4YWEwLTgzMGUtNGQ4Ni1hZjc4LTgzYTNkY2MyNjIzOCIsImMiOjZ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3476/2/DOH%20WA%20data%20viz.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -27,6 +39,6 @@ images:
     height: 932
     title: "COVID-19 in Washington State"
 
-secured: "eRUpTuSzCCaDQxWWKRG6Nuf59yFCQ43o66WM1U4KStfbbYmQ5vUpdXteR0Fr9/TmLXpYTCHpiKlLGJ6F6PyUmp1TPcMl1EIx85j9+UdMCTf7zPNHM3SRAJbDN9lyYTBX4r5785cVQvMNuL8loEjY0zCo8SdXmY85+4D94kUeZ3zaT40aVx1Yo0x5L+i/jldz8nIwjTyvOnN4mu3m+gYXmeMJYEPaVqlP2yfoUYfNV01vOFdLz5M6A5u34zulpgHRX3xYjk9ECIqJfIAP7EBVot7auXgklRhsSmzwoD17QEndlb/Qn7SKpgIJ1mybOJa1CelltSmlEAuqyhv7qO1IjiR9rIkk7l94fvSvR3NlaOtfDv8RPLcsTiMqYR1mNd+K;/h+tnM1OAXWNc+w5WUZFuA=="
+secured: "GQaOKpnKk5ewF/+CKtlJdw6zkWtR7hJT0PKXafro7lLxjPoAEJ/WKejW4UdPC6NkyU2ZtZGYwlVfyyHt9ivAE93CTZLdpQ8e3+26GV6kps9PztdadWmFsr08axPHa+Y8MPST1pzWXy4yC4S+SaVCIdd5UDGdu63Fh8lrVGa8VQeNbOVkbKs9bNpt1XIpPGOKdxxPMiBBkYkqZQFb3/hQeshlX7QA9RT0N+ilUOhhzN7Z5Tu7xuI+mmgNl6YtGyVsp84IuhRfVsnqReNA8SRho9I1cidAjaf5Rd0LYoX96rjTDFpZat8RFKfh9sUvFNXQ1leMt8gYSY+2V60KXpy7C1mmQPBG6/UQAaNVaqIzS2FROJXhveg4mwSKtWhzzQ6e41hoEmQhrD4/9Qoa4KcIDw==;HvQ+rPboqcgCA0VZc4J5Hg=="
 ---
 

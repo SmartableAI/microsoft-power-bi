@@ -6,6 +6,18 @@ type: download
 publishedDateTime: 2017-12-05T05:05:00Z
 heat: 53
 
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiY2YzY2YwNjctMTY1My00ODk2LWE1MmMtZWViNDk2MTdkNjFlIiwidCI6ImQ3OWRhMmU5LWQwM2EtNDcwNy05ZGE3LTY3YTM0YWM2NDY1YyIsImMiOjEwfQ\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiY2YzY2YwNjctMTY1My00ODk2LWE1MmMtZWViNDk2MTdkNjFlIiwidCI6ImQ3OWRhMmU5LWQwM2EtNDcwNy05ZGE3LTY3YTM0YWM2NDY1YyIsImMiOjEwfQ"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1295/2/RetailStore.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
+
 provider:
   name: PowerBI Community
   domain: powerbi.com
@@ -25,6 +37,6 @@ images:
     height: 532
     title: "Global Retail Store-Sales Dashboard"
 
-secured: "VwqtBhfUsZkXbTkTO5y+w38jPNGZffO5W9QChcueo4aBfoViWjn2TR2sccs39F5KuXJBZwpKvgdy2iygk38M39XkaRnRQvglhA6ziUdhOR0m5JKjla2ybHxkuPKkjVKuONc46dRyU3tuMUY7GpKWUsGzQEYY95wGew6RJ6Bx/ViexSTUIKmeB5N0tf2PUzNZmFWOYZSCz+Jw1kF3KVztdoJhTEkjUjqQzjIXcxSqy7Nx54mOaZFVjCclJpTN67G3hbAx4nnTDu9PxZYX++Ume7LZS4Xzu7+2z4SUT0JPRqLKbz2HFNRKEQFbfscudMng7+1pBji9AFCZjjrufZE6mOkCiVFmyjcUmsogzRtHwNuBBjLrbi3q2rst6TOQ4VUa;yTTjMSyNIWLZpfEc27WpAQ=="
+secured: "WuHmbEmmlhYgAap9v/LXPR6UoJ1POOfwcPQ7bNu0c47HSgwzl/2se2k7TB+a+pNNmMSTFAAAs16gykXLnSF4SM1rRfukt0FnnNFWtwpxxzEUIIFk/B3sC255xGncGk0u6GSeVm2DXp0TLDkox4GeW6b/Uai5EaIh4GzINondo78bNLy3duhgxhTP0dsFMrxOWh0q6efIpI9gFuCt03NafWYnTn3N6xwbQNRBfefC3UPbDIQA+gy+9Cq3EurH/QZyhMjWHLOoRxij0O1+rUANHwfS0sa+15JlyARBo3kMGqbx6VEdhuHa1eSgLYaEgBcHk3eBJa01Jh+qftgo1k3q3ZmV7/I7/Yu01BlIvC5YBiRMY9roMhiu2SAtn/dBtbywoUqN0nMwFNEn+WtpfOK1jcVrmbikv62N6a6iuHh5A5k=;MUyzgihz2fW9DlQdFKqW/Q=="
 ---
 

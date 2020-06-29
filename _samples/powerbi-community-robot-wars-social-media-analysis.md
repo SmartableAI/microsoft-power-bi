@@ -4,7 +4,19 @@ excerpt: "This Social Media Analysis Report captures data from the official Robo
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Robot-Wars-Social-Media-Analysis/m-p/67036
 type: download
 publishedDateTime: 2016-09-09T04:59:00Z
-heat: 51
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMzc5ZDcxNmMtMzEyZC00NjM0LWI5YzYtODE5YTJlYTcxNWYxIiwidCI6IjMyMTY2YzE2LWJiMDItNGNlZi04OTEyLTFmNTE3MDQ1Yjc5YSIsImMiOjh9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiMzc5ZDcxNmMtMzEyZC00NjM0LWI5YzYtODE5YTJlYTcxNWYxIiwidCI6IjMyMTY2YzE2LWJiMDItNGNlZi04OTEyLTFmNTE3MDQ1Yjc5YSIsImMiOjh9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/283/2/Robot%20Wars%20Data%20Visualisation.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -26,6 +38,6 @@ images:
     height: 741
     title: "Robot Wars - Social Media Analysis"
 
-secured: "IfCVxiAFZUcQTBYbEuT6l07c1nRDpmn6GR9kTQTo0Qe3Kj2GsCruh6702GdjTuh/L30qOxfaFkmwEOaxIuZod4Qw25J20v+QEJlQJKI3sQCz292cNrN3SKXmOntkRfHssPY++kMA6wYJ14dUzIbrd/EJla3E1dJxYsksz0YATitYXaCFuieWml2SsF8HNx6N8CFMfa+qbZtQrJ4eDRSTx45WCn8ZBlgzqESx2f9KuX9e+BeHzgG/Hz5z27t5u2aBFKUtwVjjbqFQeZga0XDV9/A/MwptZ/EGM9Z16jnoHH4wCFCdG1SfSHDjCvXUQClIR05fOH22aGATZbxXQu0clR1YJ1MuGir1t79BgBxB/Sra74hu70D7pVptbQ4yg+Eo;DROO5yVCZ9qAENQxj/94Fw=="
+secured: "LEXoxjWPGQOsmvVz22gHYY9Rbf6rZXU/0KxXJERPC/JjSwWNI8rRhQNHatHOtO8579FIKJtrZT6w0NNDIiNKROlCYGNux2FVx1sQxrKftNoXSkEBhhoW5ICnStteHAJS0bNP/sS4VOAGaFSaFiFKj4/K9LLg5lsG0COfgyjnEdH/6auImiPWjianKry7ct/Fsb4jr4VPPkaiRtCIwkCoF/gT/9/FCcJ/d97P3l3DJAHXzhF2HL8/Ic7nThkxbB5phr4Xc42PbKqEg8fKbBHpIORRevsIEHIYAf3OIvattT/M9K29OLI7XketDFavnWnYxOUEnFJDR+/Wo0fQ3U0ccGI6USJmP882Ls8OHGMNjA2DRcCu3/nZLTxQAF2t2FlE3T4CW2kf/FzaEd0+EClqU5WSdt+GI/kGEsd/x8g+nS0=;gQsuJPmIHtUt1+XlkZ/FYg=="
 ---
 

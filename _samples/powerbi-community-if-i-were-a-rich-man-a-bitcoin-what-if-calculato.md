@@ -4,7 +4,19 @@ excerpt: "Many people will say that 2017 was the year of the Bitcoin. Whether yo
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/If-I-Were-a-Rich-Man-A-Bitcoin-What-If-Calculator/m-p/332301
 type: download
 publishedDateTime: 2018-01-03T21:52:00Z
-heat: 63
+heat: 54
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYzM4NzdiYzMtOGMwMS00ZTkyLTg0NmQtODNkMTZjZTRlMjFhIiwidCI6IjIyNzNjNDFiLWI4ZDAtNDVhZi1iZWU2LWUwODQ5NmFlNjcxOCIsImMiOjN9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiYzM4NzdiYzMtOGMwMS00ZTkyLTg0NmQtODNkMTZjZTRlMjFhIiwidCI6IjIyNzNjNDFiLWI4ZDAtNDVhZi1iZWU2LWUwODQ5NmFlNjcxOCIsImMiOjN9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1422/4/If%20I%20Were%20A%20Rich%20Man%20-%20Bitcoin%20Calculator.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -26,6 +38,6 @@ images:
     height: 1082
     title: "If I Were a Rich Man - A Bitcoin What-If Calculato..."
 
-secured: "BJgUQWrGGufUB1td/Yjg/Bkc+755twlR28m4Vdsggc7ZbVms1YW1vEx0w8FKdA/+A90xj/M+lumVKRfJBv8AymMiIidbK7K0pEjEJFfi/KZy/IAnG3UPqe4d1qX8LqSdZtJcHh9bojJ+3dBiBUFjMGtCzNr66V8TQsXQiUX+m4073S1guug4t2DPsbrdq9JtIMEITpqEK8eF9PNlqj/Qv43FKxILJWLSrEzq2rvW075HxT5+M0fPe0nwRQHRcrHXS1ERRcRXnik5SQAIjGaSQ2tqlCg1ay4DwIoQD3341W0snsZfwvIHwxNe6WnQYIJYKs+VboWEKv3tprDjff0oeNrp1QiLorkcXyx5VW34kzd7FfxNP41Je/k3ZjpZ0t5a;KXaL964VYNKlrRy+NXoRVg=="
+secured: "g8dSaSUwjrMP5EEkJaoeNblHtaEStdHfpDYaetziOQWEGWFb+QgeWf8bqjhQj1e+nd2L0thRKZZ8+WhuUSAfJ8J+2ysC3H6dnHqmqhIH5KEtJGBjyGOo3eLc2Lh6F8iPtUO6eTk8KPFWrz57pdu3fGfTi3GlVsjaUvfpVFEQIdtMKi55jOuinX1ZT8Y0NAFCeMHYGXdSzi5uQNmImT97QtZwNkVnGY07Q0fiPR2N+MfimP9bm7paFc00t1SAh7ec52oFjSmBBR22bjmuMWFj1UDl2JdU4H0X8D8YD9CGO3tU3TcfKEHLVciyJCPUqDVMRrbXC57LGr8muwizzavKQe4Bs33mqQx2LuU1yTBn31yMR3ro6S0skdLnDNrBmpELj7DD8xRh6M0hLDI+WFmp3p0x/0buItduHAcdKbxFyPk=;4mW23yNKwq53tbsCU8pVAQ=="
 ---
 

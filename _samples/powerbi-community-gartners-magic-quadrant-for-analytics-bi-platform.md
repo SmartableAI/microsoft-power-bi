@@ -4,7 +4,19 @@ excerpt: "This report presents the evolution of the features and capabilities th
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Gartner-s-Magic-Quadrant-for-Analytics-BI-Platforms-2008-2019/m-p/640603
 type: download
 publishedDateTime: 2019-03-08T08:23:00Z
-heat: 56
+heat: 51
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOGJlM2YyYjEtYmI5MC00NTUwLWIzMjktNjQ5ODUwMGIxNjc5IiwidCI6IjhkMzJhNDI4LTk4ZTktNGExNC04MjYyLTk0NGQyZjUyMGI3OCIsImMiOjh9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiOGJlM2YyYjEtYmI5MC00NTUwLWIzMjktNjQ5ODUwMGIxNjc5IiwidCI6IjhkMzJhNDI4LTk4ZTktNGExNC04MjYyLTk0NGQyZjUyMGI3OCIsImMiOjh9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2539/4/Gartner-BI-2008-2019.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 653
     title: "Gartner's Magic Quadrant for Analytics BI Platform..."
 
-secured: "0d3pjt1rvZ/VOu4iczM54W3yNxXuokkKCLs2ZXkHW5SLATzVv8y3jqVFTDiyhugh5BeuUSQXAAPWHiTTS9b9zqu8pnTf6vaHVJztT00i8biZ9LjzUNxHkca1Jz22JjcpBj9aEyx76EC/I70f8AXFfu31xfGyI2Q0PExC2UvP3EDtQGDNoXTzuO3UVSIpRerEoUBupZrytq+VrajAj5eZPvpzOB1dF6YX6ANo2E3jzqLDGJ+v/a9a6BQyrl0X83wKYVmk3DSHnq9DcBDJC8INPRqXOS++/gITpERl7MzaEkYfHmTS/daCU5rHgUx1ENQSGDSYyVnXvGg3bVP2dAj0M1QotNSOjSAGxs1kBT1LRvYvJMYf+LfXObw9WL+qhlvV;afNxuSqXsRF4ZThfjRJdbQ=="
+secured: "9tj0B3lkif4IUgOV1yi/ZdgJvBevFg5YGrw2o+3kRkacdt9TchKJO1M6ESfw7nL+7nnDwlmvYLhwB3XTxpVOMYC94dJd+QE6e9WsMTNDU/oLpHWsNSohKlkdYiBfoQhtT9OfxEBvUJdnp3/S9Ydkaa7ArVVm+GB8ZposY6oOKmCiOQSItIvy+sHjM6REgv2pVlk20AIoziGWHk62oSQdtrZ7FC3yGe/udjKEqf6om8iN9iYGDu4kChm+n5YOKyzIw44YWWkoxpRYIsvOsAYdK+TWAHRju0uwHRLg75x3KMZgvRI4/ACgAJR+/nbnh4UqURQ1m8WgDhJe4Fx51VbMmNtU0uonTjOeS7GEQ+Abp40a6nTkNSXGJEexRVfyvGLbPQrzCtTRyTqt2ltCQvLfWNtEi29cnw6B7FYpzKwc4lA=;QktwLH/4vVvK287FiWoJAw=="
 ---
 

@@ -6,6 +6,18 @@ type: download
 publishedDateTime: 2017-01-10T03:53:00Z
 heat: 50
 
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMWNhZTkzMWEtOTI5OS00ZmQ0LWJhOGEtNTliMzBiZjRjYWY4IiwidCI6ImIzYmNlMTdhLWZhYzktNDEwYS1iMWI1LTMyYmJkM2UwMTVmNSIsImMiOjh9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiMWNhZTkzMWEtOTI5OS00ZmQ0LWJhOGEtNTliMzBiZjRjYWY4IiwidCI6ImIzYmNlMTdhLWZhYzktNDEwYS1iMWI1LTMyYmJkM2UwMTVmNSIsImMiOjh9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/544/2/Anime.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
+
 provider:
   name: PowerBI Community
   domain: powerbi.com
@@ -25,6 +37,6 @@ images:
     height: 646
     title: "Anime Analitycs"
 
-secured: "NQOG/MA56qPxxPgav3+fzbDKM60tXhE42EhdMA51qBCv7C7Q9WVIjA0MlwGMNlIrxLHtMlCt04jyI5GuHY8jxlZUgATB8A5k6Arht7a2XVbmcMfsPmVp+vYtILoEcdnA3X4L7wv4qyoH9IXgqSX1zFehyoJhwLL0KTA3dFU/9EohvAFgh+OQfTTssV/pRk9LXFcGH3bFNmWls33oP69qgZKkmCbGGs16q+4ExeJmGv6zrKXr+xEjUxt+TubGqGe/pG4LedLzWNcYit4QoGDAJQYFybQpSd8rGbLtdGQ0IOLIc2Gs/QpAe1yUH+jgnxiT2Sn6Ha1IKGfi0sElj5fdEIhFTiIVk0+Grt77KsxMO+QftTlJ7RSZMdiXH10tVEVx;ywMd28xBRYuDxOr+5HruZQ=="
+secured: "QyxZLoYt3a6KyWUmANa0PZqyHnBn8c16+MFG0OL9KPpRQ2C5EWpjLSKfLsdg124NKKR9D5/zoOi0d8yQhn82xhAlHshwrZMJO/iRLR2p68dFGZyotA0UUaDCpwtafSXI0bQRGHlWF1gsDN5Gv/EmfXguM1ZZKKM29s3uVtZhWQZHiO2Ql21ouCSVAJdZ3b1RqAYAeSloa1kaX5b4UNCiDNUhD/ACQc5PIZr2yGqejMhifvoVMx5VR0oaXxD4GetnPM/njXNFtuwZxhXhe2BqV2TpmoX1bsejUI4p7Vkzk9tk7I/zxJCrwTxmLRhkEcTgdc9q169vdEfwk0hAsPytO3q6Uk4O+EJn/uE+NA2hPcGRjGJybMoNaZzv8ttekf/QclvhPlve0qu9nd+pFbKRpQ==;CO/X2dWwI8n9jv+B16CfVA=="
 ---
 

@@ -4,7 +4,19 @@ excerpt: "One of the biggest stories in popular culture in 2017 is the explosion
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/2017-Year-in-Review-the-Bitcoin-Bubble/m-p/349639
 type: download
 publishedDateTime: 2018-01-31T23:57:00Z
-heat: 51
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYzM5ZTY3ODYtOTFkMy00ZWRhLWIwMWEtNGM4YmQwMTgxYmJiIiwidCI6IjljYmY1NmNkLWE0NjgtNDFiMy05MmQ0LTY4N2ZlOTg0MjFkMyIsImMiOjN9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiYzM5ZTY3ODYtOTFkMy00ZWRhLWIwMWEtNGM4YmQwMTgxYmJiIiwidCI6IjljYmY1NmNkLWE0NjgtNDFiMy05MmQ0LTY4N2ZlOTg0MjFkMyIsImMiOjN9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1582/2/Bitcoin%20Bubble.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -26,6 +38,6 @@ images:
     height: 469
     title: "2017 Year in Review - the Bitcoin Bubble"
 
-secured: "5/sABlZ91mpDJuDijNGtdfHQ9vo1s5fIPoVpHFzIFH5JgE3BJSqlG6rjQeDU9Vc2FIEV+OgzGFni9eYGmZMs0dD21P4UJU0SO9hLlhRkBKuEyYCEe+SBjPW6TgOmjzoLE1nrQqJioVs3fbfBvG/eFyLEVzGFniQuEDehSZ4CNJOvOYOCGcamkukeUugJACoEuZADU2KRld1ZssBTpI34+7wdaxyhgiAQ/FUYYS8oZuk6IHThuDskBlJJ2ly31J7burY+QX2ERBUgPTHfNzQ8m0SB+ia3GJlFEne8Wva1C2NxMOAZPuYciTT4+ug2GBJCLRjo9OF97etOLAubQDUAtsYetqcFSGeetuh6Wy47j6otkcgUbtVNDkzCamSY7daK;euK8mOTr31iXAhqE4Ughpw=="
+secured: "/3DjQQFB6NU/wU//vS8kbcL2Sppj5ouxgKJBbREB6ODoS+FJTkoJ7zK3zwpWpeTwj7lzFkMubs8DVlRWsifWQjIny2Uyhll3sY755gPjTGynCdtSVgMjYv2ipw672Bi/lIQJajs8nTDDcy48F6X+D9XNh1KoQUj9Y6NVtx4+LkgBOICC5WsmUCLNu7LICgimgCwzGqQCM9nG2VPndEg/2u24SXHgji5OoEeGlMdBPRqzIil2ja36ZRl4ac3ZeKXR35/qS3+ypgz2EStmahRMft9VIeb9dunOVjx2ecr4RiAfc3sPG2qHcusSOFA9FBanyzcwT1lgKnHdZKuVDLutmq0i1Inv0GLYt1FSqej82DUkYca+4G1zrOt8advbWtICIBp4Yo26zF+XUrQjYLiMqF2nVAB4Ok7jLyVzhrpOT5o=;orPmiU2I8R+HGWVkOedCcg=="
 ---
 

@@ -6,6 +6,18 @@ type: download
 publishedDateTime: 2017-12-26T22:10:00Z
 heat: 50
 
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZTY0MTYxZGMtZDRlZC00ZjRjLTgwNTUtODEzMjBlZmY5YTM2IiwidCI6IjhhZDJkNjdmLWY4NjQtNDkzZi1iN2I5LWI2ODEzODU0N2JlMSJ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiZTY0MTYxZGMtZDRlZC00ZjRjLTgwNTUtODEzMjBlZmY5YTM2IiwidCI6IjhhZDJkNjdmLWY4NjQtNDkzZi1iN2I5LWI2ODEzODU0N2JlMSJ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1384/2/Compitation.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
+
 provider:
   name: PowerBI Community
   domain: powerbi.com
@@ -25,6 +37,6 @@ images:
     height: 541
     title: "Power BI \"Bookmark Feature\" Contest"
 
-secured: "bE9kmbjtC4Lh+D8aD4vsy9zEnJcxcYBxJmJA6BXXwa3bxZkLRxfIiq8xMx4ts645hj/8iuGv7XnmG5U9e6OScUsDC4lZe2G8xEvv6b3dcIel9lQeafuEAT0LEGBCpfmsWQsueWDDFtQm5i6Xa+u+JCHHf8KdGqkb578rPr0hTy0spAUKMJDYOsZzDy64za1VBSug2eL6vXHXjVwAISkOFtYKlBnbxJHoGCslOq3+kK2qd4R74AluNWf579FbzehfiXypZLkv5U8Q6rZzsB8dA5G6i5NOQCltLLTWuN+HbkVeSKm4K+puYC+nqjYShH3Oq9nKSgMlNZIRZyNKd600MWYAUbwcgucW6j4yfp7qxZKBDhF+J6wlHSfYMytgP4Ie;F31ThUaP0Tsi2Crdlu81IA=="
+secured: "3RaVJ2Au6tj2m9mEGOi7KrxUxDHxCN6R25xw/w78v3olIMVknLPaajIfIxCU+smEy1QJXRsfcoQfDbacvM7UB7ey16upNx0bQfTMjCO2BhRNkFctQ+yjLsq7IuEE3zILTtthst7XnjNnJxbJO/apE5404IBUKofuDzTjg0fUgTNh8mve5qx8iusM4xX6ok6jvYtKsqA5C/Dz31ztN3rNw8r/hdWHU4I/4U1KcD0dSCKocJUods3Ct8xNAFr1yY34UR5XtUbwLrG23vi73oeSmWpglnHwn3gXMxFFRvA37x0uuy4g5dSz7t3qZ1SRMSJWWXciCOokn5+jBxyz2m0s77IZtDTEtNk/NsRCDLIqFLWfUlqIcQFmT8aq17GF8rDk4I2c5rLVPZM14K+5KfKKgQ==;/kKGG11ePSo5hN61fF9bcw=="
 ---
 

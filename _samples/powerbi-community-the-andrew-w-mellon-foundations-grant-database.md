@@ -4,7 +4,19 @@ excerpt: "A look at the massive contribution The Andrew W. Mellon Foundation has
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/The-Andrew-W-Mellon-Foundation-s-Grant-Database/m-p/218888
 type: download
 publishedDateTime: 2017-07-25T14:07:00Z
-heat: 51
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDE5MjE0MzAtZDIwYS00NDIxLWI5NzMtZmY3NGUxMTQ1MjkzIiwidCI6ImZhZDQ1NTNhLWE2YTgtNDFjYy05NGQ0LWZjZTgwNmE3YjE4YiJ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiMDE5MjE0MzAtZDIwYS00NDIxLWI5NzMtZmY3NGUxMTQ1MjkzIiwidCI6ImZhZDQ1NTNhLWE2YTgtNDFjYy05NGQ0LWZjZTgwNmE3YjE4YiJ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/978/2/201707%20-%20Mellon%20Foundation%20-%20Grant%20Analysis.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -27,6 +39,6 @@ images:
     height: 512
     title: "The Andrew W. Mellon Foundation's Grant Database"
 
-secured: "Ltl14Hzri6Ss6Ul27Iw3OnPTELtCp7Wj9cYmISoeTi0XgzGJh9TW4EbvhcYUjVIncTdq/auDAJL7XianrkqEev9HENrIitfPOJLqB/63De2URBLi9b7eHwdFJWfEetfjKu8XZlaDZk8oYM8B+lZh4+feV99ZY8K94mR0JROxWDHZWtFqoHZFeGjqCkv+lfMiTZsn31kHlxG9kpBnDqkxZt/1kKU8qrmfdie+oVPU2rD/boO9sCTv4UqCiEZqvTCuGxTIR3iZv84p2FribJZfE7RqjU9y1eUPkyfOEsrhOKu7uYs0p/4tg3peCZHwvEojzJzAV0HH4JWmSzN1ZUA1Gnvd+TZ3J1e/3FBKlKntbGuuBcMUYZfMjzD2HxjoM2KN;tddTUXphQHeleqDKRTDaQQ=="
+secured: "QqhcNcA3qZAbo95JskIrMRfpWWrTnIVKx98ALxmH83OWX1kHYcYCGWCGAOCdst59OwPObX1Vgy0m1Zy6IwKx84bWUik7puHPIvq1f0ePB9i6tu+9AIYsbdFk/XcHwk5b05xL0M5bj+B76Nbw9xHW7cmzxAGX7aJSssnsFa8Bop67sOrVP5LDLY9u5pUXs+g05UhYFMYGpzAAFHeIdYxzJZyWcp++dIHrSPmuCWU/X1dv5KWlKimtbSYr6bw3FGIQXkbSoHnPGppIPQ+qOBIYNWFspVQMkktdALL5Uc5Jbqe4UvwLORceaKhZSMxHNK30DFdLExV1guRPqoGESEQEzZXDeKbfoUM7T8QbYlRuXTY1s/sQ6iyuo+v0tISrwqTIHUymEl3kFkEGvBCWIDjxHKPzSeqQMUBx3QJlxLRvpX8=;QKyHbQ2/MM6Bms6R4zdhnw=="
 ---
 

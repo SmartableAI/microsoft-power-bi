@@ -4,7 +4,19 @@ excerpt: "The President of Czechoslovakia (Czech: Prezident Československa, Slo
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/List-of-presidents-of-Czechoslovakia-visual-is-in-czech-language/m-p/781303
 type: download
 publishedDateTime: 2019-09-02T03:02:00Z
-heat: 51
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOWQ4ZDQwOTctNDMyYi00Mjg2LThhZjgtNWUyNWJhMTJlNjlhIiwidCI6IjMwZmQ2ZDAxLTk1NjYtNDMxMC1iMjI1LTE3ODRiZjExNjc1YyIsImMiOjh9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiOWQ4ZDQwOTctNDMyYi00Mjg2LThhZjgtNWUyNWJhMTJlNjlhIiwidCI6IjMwZmQ2ZDAxLTk1NjYtNDMxMC1iMjI1LTE3ODRiZjExNjc1YyIsImMiOjh9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2907/2/prezidenti%20Ceskoslovenska2.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 897
     title: "List of presidents of Czechoslovakia (visual is in..."
 
-secured: "haqAz1uyULAW9iwj9CN+jkvKW+VrFONPWX7pTfBOogfglD7pY563nZbqcek63X5TuuECM1hIexpPif8trUpZv52x74jlVWn0rvjGaNTPQ3/SXtmCiHlpGZgKlY1dGJrbEIkFiP5gnIkNsrhALAnBu9+6CYHd0vBxWV8R/VZygXRyYlw957ULd2DVidosMxxVuwghSFMkRIEC2yZ5C+bMAHgGs5DkMuAbC5R/2tXO94iX43TPk+oZ+KNeW2RdrIrWwKBAtxf044PaWyCfbUKc6Mopubl2/eSOrdxfsMZmN3fWuZjncipUvN0Xlkj/jEyEP3B2bYg/mQAX8W8nEs498DhKAN5CUu0KrIOgO3Ji6MlC036F5RlKAYhypf8I9ztS;F/a4/QaXnYc/tpEnEBGo4Q=="
+secured: "uw4LwWu1A3ZzbHjMjoSe9p0tTmNuWCKkYR93JBC1Xrn/y7SNt1Bl4ncKt+g0rMDVcvXT46ELk6c2v0lG0qOxlJvSa3JBgl3HdTE4tfvtqa/sPWHqIiZcJLTz0LoAp5BHWSY5PoyRYqy9NciOotX09xyy5PHQcslQBf8APhvY+7cXjYDR3GJAnReEMSvDnUNs7+zLB9XVOa9Xb5v7miZoCXa+Sv2BdqOPVNqZwQ7FFgYoFJtNZUZapAPU2QvzQQ8mJ64rLHvdwVSUHWxPeS8Rntilxc5KUPJGIPHz4pnw0Fjrp6fqhoo/GOddYOHM2QLzY725i3jEWtKGj/9cPGXNhBHBQ5wAXGcHnVX1NR/7mkcodav20nGfHammWjE/hhW/Y1bsywDrraMDNk3p+CiypQ==;CnPTgSudAEeVeP84zeIcMQ=="
 ---
 

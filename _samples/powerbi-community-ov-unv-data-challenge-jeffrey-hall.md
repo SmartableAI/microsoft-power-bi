@@ -4,7 +4,19 @@ excerpt: "As a data challenge for Online Volunteers , created a report to repres
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Jeffrey-Hall/m-p/1028519
 type: download
 publishedDateTime: 2020-04-15T15:29:00Z
-heat: 53
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZDUwY2U0N2MtMjFjOS00YjFjLTk3NjQtNjMwYzc5NDU3Y2E4IiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiZDUwY2U0N2MtMjFjOS00YjFjLTk3NjQtNjMwYzc5NDU3Y2E4IiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3774/2/OV%20UNV%20Data%20Challenge%20-%20Jeffrey%20Hall.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 2446
     title: "OV UNV Data Challenge - Jeffrey Hall"
 
-secured: "C01KhcJrhqJuddtwVBWmmEHiHFsODCYLCBdpgvdfbLmVW+EenP6jTbPwCBVjFgmhuGlsabDTfCmvdfWrfKa10w61H1vAnRTz5ZpSZjGE/Lrovex8hUF4eTaFv827rEylOloUe89SYlfWB3KG7PEIF4SwslU+dm38D3wwkaqU0fSZTtFhkP6r8N43PQrY426AqhddGehEEPgN/VoauVtXvv609q5siSql2Eq+MP99ryzDU5ABY+webT6QgxegbirLb04dk1ZjHTDaIWxkeKjQSBj3k1hHdVQ8LJ/34M2hL1GORcW0ruTovIHlZhgSbHze3dvm97Qn5euPzfzNNvHdUMGwpDeRdNrLm7Ojd8oWs+t2UGTeCzdpX5XriddcpzXs;Quc4WafyvaGc/Ai0tuJc5w=="
+secured: "dyK2ZiNaHNwgIWkbNGgEYBi8eMU82PLuaekLRX3LXqxwGJBn4k4OTBcYxBzN8fbBgC+LNB3CvchlNc5rTM/1G/gH0VUQVuGH2DUnNw8OxQaowmjoDa3v41566So6WeWRZc6xQm/ZQ+M9aRZ1LuQ6t6p4jjkiAx0EOYDDNCzEf65tfS5vD0hCTMsaQjW0Y8D15BSSGjxrPhw7DJ4oNJd4u0ThSCwF/detRzPQgFo+diGP2JqKOsKrtVHI4db7eq5d6lzBpupzIb0JDCZe7I/qJRyAjsocpHpPuq0lDODNq8yGI35e3P5QowHwNcE0+UaA5CcTmxjxG+ORxtHheJ6HXHfKQPfdR5JIXu/+o6Zcia8qH1iP/3LRkkjrhNMyIYkznN13O0QKGWNSQdc7B4KUdA==;Yi+U0J3PIDz/9z99XnFybA=="
 ---
 

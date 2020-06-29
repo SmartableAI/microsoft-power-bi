@@ -4,7 +4,19 @@ excerpt: "Solved: Discovery what is the main gifts offered over yeah for Valenti
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/DataStory-Valentine-s-day-gifts-trend-2010-2016/m-p/127774
 type: download
 publishedDateTime: 2017-02-15T07:17:00Z
-heat: 52
+heat: 51
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZjlhYWE1YWEtODJiNC00NDU3LTgzNmYtOTBiNjFiMzUzZTA4IiwidCI6ImJkNGZjZDM3LWRmZmEtNDk0OC1iMjU4LWQ3ZjlhN2I1Y2IxYyIsImMiOjh9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiZjlhYWE1YWEtODJiNC00NDU3LTgzNmYtOTBiNjFiMzUzZTA4IiwidCI6ImJkNGZjZDM3LWRmZmEtNDk0OC1iMjU4LWQ3ZjlhN2I1Y2IxYyIsImMiOjh9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/643/2/2017-W7-Valentines%20Day%20Spending.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -26,6 +38,6 @@ images:
     height: 812
     title: "DataStory Valentine's day gifts trend (2010-2016)"
 
-secured: "soXEpky/um8ZIx6H1xFioQb97S+cgXVNVBMkGv49gGF9TXj7I49D5sO1G47mx/7eD4vntHYbPc/ZOohe8cfs1Lt6mgxY73Z4mDoTNoWK01Tz+FSzVyzv1m4r7zWM8HRP4MYON2SQiEKhxMp++rKqVSAU5861vKCMqo4aLEXOmFxOAGSfb+zdF0QTkiHHd6RbYErhHGppcfP0Q5L5nKwdCfHLm5pQCKXql2NQGybUfYKZ185aG9uc0Zz8McdCATeHA8jcOjkPZZb8t9KN/OaFkW8r3WAGK7cY9Rsmd6SyWdI2kN/n++LxAU9OmdkFrXIyRGd9TIrXL94VYZIk+OTSL+lw0wMLHHKolcjX19TeZ+2Rd+Ayt3IcZxG4gYHTnQ4u;lCqwhGRpQl/R4+gkDfrumw=="
+secured: "XL1JaNiZWYsoo2Hqe4sUrj8ft7Ha3UNDUAccEnuugIFDirmRSGu9P+a3t1sOTnJXm3meVzrF+fZ8pOEFyQTUiMyEFb2BzaUqbvjYHeSlUEH65I49CerM+9BNOsXnnt2Psf+h3V/X88R9mXjUdbKWvUZTDkx/52tq3bSuS938lD8WizsH8BzTxgFLDzVYmExyhgNWtJPeOtWBt33tPt5/64G6L1zN4Rf5OI8wznZ4ob/x7Ozouxre9PVtlWKYQ8cFhx2WSHoFhesTlwWwqZ7vjkF1m6/Dbcv5Gwnz8/2LNv4WnMJJp2rgTxUA++wDDCrBIaDzGlXbQXW775acp0XrfT9hWZSvi2p+3pe0LvIVNPYP3FrurQwziEecLa2ltjq2y909I9JfMtDYM02C9ni8b9IasVbCbcULGBmUEHh8TII=;eUjhBLUt/ukyraCQ4xt04g=="
 ---
 

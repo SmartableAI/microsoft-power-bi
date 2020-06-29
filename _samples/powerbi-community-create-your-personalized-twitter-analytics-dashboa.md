@@ -4,7 +4,19 @@ excerpt: "Create your own personalized Twitter Analytics Dashboard in Power BI W
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Create-your-personalized-Twitter-Analytics-Dashboard-in-Power-BI/m-p/56778
 type: download
 publishedDateTime: 2016-08-08T22:45:00Z
-heat: 56
+heat: 54
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZDE3NTU1OTMtOGY3ZC00MjEwLWFiNjEtZDFkNTc4NDc3YjVmIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiZDE3NTU1OTMtOGY3ZC00MjEwLWFiNjEtZDFkNTc4NDc3YjVmIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/354/2/TwitterStats_SQLSamLester.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 522
     title: "Create your personalized Twitter Analytics Dashboa..."
 
-secured: "5T1fa9aK5s2GldsuukaPaGVIKm4or5qCBgylw45b/N0fK9Fd8fAAwEz+raWRU1LzZNc0rkRUi7x7JXhdYvcE2E2Wei46i+NvfhNptL9d7DAldJB1FebQi4fw4npgKPph8m15i2MWsqr6WMBBWSyyEwBUlJCFUOjnzJSTAfMRhOVJI2CwlJ1k2sf+6cKELWAGeC8sPim33TTa24E1JB0GTkHayc1CWqvKbzajgaeuL9GjI1cVne9Tg34SavkjJ89UIr7I1+jaD9c/QFjgI459PYB1/h99PWi/flNOX03Meb9oc98KDgAFbiBzUwL8Gcad5I/efgQH7jr8MdF7PHz32A+ZaTtMK4vlxsZcfbeV6Gj+ysZ73MbJIlrgjukh7G7/;u6w3fXEAzmpZFum31PrgbA=="
+secured: "NYcfbQrAJ5JOD4Z/VPAjT5K3e7PmRqqbSucT7rWN5fbuFYX9tNXKoHhkcZKFO27Q5UMbvduZZX3+pEx/7GPvLYoKEb1LpsJuLgRpFi2Rnqp4b/JdUiF/YwRRiacGzvh18gL2pO8+SpQJZIJcn/7s26q1grdM36ntOOUscgL4HcczFA7KRM4jvMRwKoMDoIMuGfUGSUON8r2WWKaKgZSBfScqJ17onqGhV3WT80ND4EpMA4eWoXhDgY0K+WCs9zBCivNawlbUDXYl/wzcTQWTiDPW2lqk4w1FaPDIo4a88neaLKU58nPhie7XzXyXgEErOR0M7QWry35iL3Y4UAlK/rjZRFRBUFn17R9530YKGZ3KcBEl9M47ce1L7L82IHTZCsQ3rEJBi1173gTCzd1JxsyNnCi2j8aKhbLf5OlKrVo=;hy/HnAR9+0raBXgenSqy9g=="
 ---
 

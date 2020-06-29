@@ -4,7 +4,19 @@ excerpt: "Inspired by different ideas from the community, prepared using the glo
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Sales-Summary-Report/m-p/784905
 type: download
 publishedDateTime: 2019-09-05T09:42:00Z
-heat: 53
+heat: 51
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMmIwODI0NzUtYzNlMS00ZjZkLTgwYmYtYTU3MjZkZDdiNDcwIiwidCI6IjNlMDlkOWNlLWIxYmYtNDRkYS05Y2Q4LTc1YzRhNTJhOGI0MSJ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiMmIwODI0NzUtYzNlMS00ZjZkLTgwYmYtYTU3MjZkZDdiNDcwIiwidCI6IjNlMDlkOWNlLWIxYmYtNDRkYS05Y2Q4LTc1YzRhNTJhOGI0MSJ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2930/2/SuperStore.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -27,6 +39,6 @@ images:
     height: 840
     title: "Sales Summary Report"
 
-secured: "kAzEG3s/sM6ZzSRTtTvT5VgDQbojRaBdpi09zH2hDkjWybxfF2K391ALSnS1TopPQgOj1qIlLd0bYuvnnCibAr/z5dFfn+T7cU/rmYsGhYN8NIgogddUK20feLF8FDwJErZan5+faE2sWIGqayAXbWT7aUe0o94Zfhw5quT0/xNr1ami6btEuCXuGwJIhh4ukTUUSgbWGP77a1l6ifQ3nMONhQde64Ve4NxIu6gPbu1AAtHdNDVM9GDY3biYW3JLp80vLCPboaW+clZkGdYtclYFqT9g/qNaRrnxJ9WgnWxya097IQbkUGESVZrsHjdNolb/li367Rgd07InVm+flt/IcZzeDJAtyLsvRPDuxUGQaydPhZ2K4FUr+SJwv9iC;kEo0iJg4q+snfIgbGY4HnA=="
+secured: "FACeNHuQoE5U+R7jck9p37+zXg3icr+SYielThCYnq53+MsXRqAb8RrEgjfALg2y20X0PCstYOBw+D+8O6zNPRfwbT/Pbrbvalgd5uRIBkx/yznPHkogv4dCalUy5NNifxmtHsvPBfY36OXA2uJAftN5pwCyuiT+EelD4GRIX7e/gyzS+mqVsBN6fdyfHuunTp/tMnLhx/FJiQtPcOz/qHFtJgcCYidJ49gEQBxIS6D5EdqrvE3Mw0efRtYHzl0jIQ3MENL/tkSwV6/CiNbxr2b+Mg+934YEmesQ/PFcVoLkfJ6rMBuO7sdiJw2QBBIXNajMh24Y+aSnImJc+WtCuBBTs+NgqezyTEOH7nXKSaOHUvrBoFMMt7Gc17QUuj3wYu7wj+H/zaQwSNiNz1hn5tb9h/SyP+Pm1QiJNtmTQ94=;JjvtxyvoVfTPQOUoiP+w0Q=="
 ---
 

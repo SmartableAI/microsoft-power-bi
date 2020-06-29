@@ -4,7 +4,19 @@ excerpt: "This report highlights the books featured on the New York Times (NYT) 
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/NYT-Bestsellers-Report-London-PUG-Competition-Entry/m-p/441345
 type: download
 publishedDateTime: 2018-06-16T13:48:00Z
-heat: 53
+heat: 52
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYThjYjM5YzEtZmY4Yy00ZjBmLWI3NGYtM2UxMGVhOWY1ZTU1IiwidCI6IjBjNzk5ZDM4LTQ3NjQtNDJiYy1iNGZmLTIzYmViYTljN2ZlMiIsImMiOjh9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiYThjYjM5YzEtZmY4Yy00ZjBmLWI3NGYtM2UxMGVhOWY1ZTU1IiwidCI6IjBjNzk5ZDM4LTQ3NjQtNDJiYy1iNGZmLTIzYmViYTljN2ZlMiIsImMiOjh9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2007/2/NYT%20Analysis%20FInal%20With%20Cover%20Contents.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -26,6 +38,6 @@ images:
     height: 543
     title: "NYT Bestsellers Report - London PUG Competition En..."
 
-secured: "l80lwOtjjUpxqYdp53zTIUkpDiQaQ4HTUDmHhWBdpN1xEmI/eJ+MlrlbsW4j4rauWz3qEWVk/DIi2TGShGxvby2NYAVsatFGMwM4SH+jMm9QJbd9x4reYHk8Vh95wvfcBO31Swjr3yJftR/yUHqjO0xFNS6RZgnr4BMq44bYB3qPMsRaNrhPi3Pip9UOh41rBvhj5gC5ITn7izP0udvJw+uL22WekYsUedSYDCzP1B9UnCYq2zNu5VKYnu2Jp/U/YuAB+OpXzKiWBfJ5Hcnnf1DiVZWbbCi3daSHsJKHof67JVwaG4eGbf1X43tr27a2qaz17rFejlFif7ttpOHuVQX9d675ndnxsJIYNa9y1h/IiLycd5S1rhYTNsj+swO7;1hKXaKWBIqOY8p63TL/3Bg=="
+secured: "nxEVoZbhr0PrmtUQ0TYOZ5yfidc6h5yqHpQnwOkY4cyqCI7UViTKzVqp4s7BAyVFw1YO6Rwunqfx585NKtJTe0AL7lHPvzTfM8nuJarO1VnTxHrw3Q+As8+I3uUN1eEQPapg7LWhuXFZkm6RshEb4a0uCNHtLV4MLD9QRQNCF6OpmzaWyg8tqJ7tH4eNbfBW4dxdlttqTU24eAXt6aVZlbBO+5LEQ5TmaWXs35/fo0JGw1WR28ytv7thdwgktCamwjn6mbd2395Dlwm4XotwM6Qb+PFHvEkoS0tB7Z2OEaHGamWRbwIug29imSW9oWj5Fe656R/IEZUFt1oid8wPQJdQj0OHPcr17eF6D5LLngySilFjX8ynNZ+uA34aA30RoUw48FgFdlTRiLTBgJhpmR2KUporsHaj6TKoDuglQns=;/IkYx867g8iLR+TO8sZN9w=="
 ---
 

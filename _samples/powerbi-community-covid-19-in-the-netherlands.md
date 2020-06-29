@@ -4,7 +4,19 @@ excerpt: "To visualize the official Coronavirus (COVID-19) numbers in the Nether
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-in-the-Netherlands/m-p/985504
 type: download
 publishedDateTime: 2020-03-21T23:23:00Z
-heat: 51
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDk1ODY4NTEtZmFlMC00YzZmLThkYzEtMGJkNWUxODdmMWFjIiwidCI6ImI3OWIyMzE3LTM0ZGQtNDNlNS05MWEyLWNkNjZkM2FlMWYwYiIsImMiOjh9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiMDk1ODY4NTEtZmFlMC00YzZmLThkYzEtMGJkNWUxODdmMWFjIiwidCI6ImI3OWIyMzE3LTM0ZGQtNDNlNS05MWEyLWNkNjZkM2FlMWYwYiIsImMiOjh9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3538/2/Coronavirus_Netherlands.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -26,6 +38,6 @@ images:
     height: 100
     title: "COVID-19 in the Netherlands"
 
-secured: "/uPGUNTC5yv80w1ApUsibxWVBSwIiJtrLiIqihM5jqN8meFjzvN+aVV7ZwjRPHi2yvoVTAMd1xqU+EFQ0MvME0m2CQKCMuY/ZzEcb26coIzHH8xUqllak15woDl3LEkznHN6FZm8kT5dzMoEgXD6xykUI41MDAdqMqxA3aaZDuiGEo/ZPOsSoMwIlb4rB/KB385HeCglS1tD2qmrOntTn8sAioPj8mLlhhQ0gNkcTzoGJOW/QZkzeod7B++4AjT6+q0tF+Fdkctw7MEc+C2ExO6luY2Hgr1wPxmIXWDfjE4vdiaiBigpZ0RaDI63QK11pqDttw5zLnInHWuPALOYUC/H9zZ31LhgYr1NKVONW4BfgU0dd6Wy0pHwILc1geU9;YySjJRA8Wm8EPTbu6GnScQ=="
+secured: "m6YFUjRYLVHP0mN7kQzsM6E3OPu4ozRe6AOpqvGTsPIsyP/Wkl8o9eE9SmVCJp45AoWJExWIsFVjhXyNIllRzStG9h2+qcx96zG7Tc58jkjZZg1Pz2fioWThjOZIDt9O8K1UzpPaeeHYRFxJ4KR+8BUYuUznmoR2AJO85T6uVjPMutHnD4JljKYhsnVHC86N0rIR+merPTPDIlV/OYwV7R75zEUizMS2xn/1rV2AXYSeHxgoXaMwXYiUm8VfbT1N9hPp6Ti4DXMZEoABFBOGIFfIVPs54R+/m9h6fuoHPVrQEFY9Dc4LpvZC1zVdiUThfY0yBZag7dNGboEeRsiwDkrNXYsGr5VAzxUmsWgTpsJX5r3CIos25oCEh9GXfRU7vkownmGLnTX7TvpXkyeXsQ==;aW+MiTsyJSQ8uY3wB0AOvg=="
 ---
 

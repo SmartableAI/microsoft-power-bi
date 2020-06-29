@@ -4,7 +4,19 @@ excerpt: "Questions about survival, humanity and the future, the changes and the
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Anxiety-Depression-What-COVID-19-Lockdown-Means-for-India-s/m-p/1097521
 type: download
 publishedDateTime: 2020-05-20T00:54:00Z
-heat: 56
+heat: 51
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZDAwNWQxMDYtMjZkMi00YjA3LWE3NDUtNWRkNGY0NmM1YmEwIiwidCI6IjA0ZWM2MTA5LTRjNzktNGM3My1hZTcxLWE0NzRjMDlhMWY1YSJ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiZDAwNWQxMDYtMjZkMi00YjA3LWE3NDUtNWRkNGY0NmM1YmEwIiwidCI6IjA0ZWM2MTA5LTRjNzktNGM3My1hZTcxLWE0NzRjMDlhMWY1YSJ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3977/2/Emotional%20Wellbeing%20Initiative.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 1033
     title: "Anxiety, Depression: What COVID-19 Lockdown Means ..."
 
-secured: "bz7nvsxxoNa+RVXD8ZZR9u6eCDSF3V7CrU5EMoy+lW/iT5tCUbjqaJxynOBaDKLCMooRfPgULtZudFfW7HNFe/lt/k3o7SK/oq0YRMa2bJlQ6Hc/68J8TUAo/r7/cVdelwHlj5DIJmeImQVON/U1MvUiVtU4VaMZ2u7GMNiyqQgubSlUMD9yAkW6EI6Be8OBuZwDKYE2drbqtpZWPAhm9P889oZcknXYU0NnszCiNTzqY7ohgGXFuvNME3cEr6Y1wSE0fahy7vwyHnZFIpDq3qJ4uJnswY4nqMsUUpwKKSJTVUKm034AaKTSbpGwiuPgdlyrobOG36446V6MqfxoyCwHHGmY8bee2zi4n/cE3xKuomFTRg8PouTh7jW2IIWD;xHhUSUKHGYP0v/aT3blvCw=="
+secured: "4D5dP/dlXQHBFlJd8hlNkOaSlbqKrGaicO6kGhaMJpvMSeyX4byuHJPYot4BawATWVK9RqmbzKrbNbr03tSKf67HZZWe+52rN92LaicNaaTC2ldsELTRr4udDEd28oNZOTipibL9591ZaJxDaYe1qF/Hn0MXN4t1S/sGP9cnpjtprBEQYD19lnekaBNCFd4GdBn7xPJRlU8L9vd1o7zL2n1JBjYHQPxwyP/NNft8EV3DETRkkaikB8FiyhywNf0J4aSN6CXfS6nBblgIL0+8QeTtNynijgi+5a5PPCHdPE1rmcyUPBL3qc21V49F6F/BEuaF+P9gGsqHvd8RZO4O8kzuJcOafQmuXSepOkKa0OaJwLCbfxiL92IXryyJ7dufXTIvIBfH5rR73cVH1I5Gtg==;y8Tz4oaPgcQKZxNgWL6mQg=="
 ---
 

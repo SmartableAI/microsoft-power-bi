@@ -4,7 +4,19 @@ excerpt: "An interactive dive into weather data provided by NOAA, showcasing Ave
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/U-S-Weather-Analysis/m-p/58483
 type: download
 publishedDateTime: 2016-08-14T12:07:00Z
-heat: 52
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOTdmNTE4ZmQtMmFhNC00YjYzLWJjYWYtOGZjZmY2MDZhMThlIiwidCI6IjIxNGMwNTM2LTljNTctNDg1ZC05YTQ1LWZlMjFlYTYyZGExYiIsImMiOjN9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiOTdmNTE4ZmQtMmFhNC00YjYzLWJjYWYtOGZjZmY2MDZhMThlIiwidCI6IjIxNGMwNTM2LTljNTctNDg1ZC05YTQ1LWZlMjFlYTYyZGExYiIsImMiOjN9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/229/2/Weather%20Analysis%20v2.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 400
     title: "U.S. Weather Analysis"
 
-secured: "qO3mgb+hiElPYIrko4nCmmmw1TJXkar7Q/IwsxUyM9jAwv6CgC0Vq+5nNH75FRk2e6O4vl1gOA8G1bqX92WMI7WDT3rFJd+PBBfOzT8O6961HPyGL4GzAp39QlZIRyyjgRIJA2OJ5JyGULY+qzCL/bt+/pf3dvLAsJlOim5QX/CRYwxr37DKwZyLcYmt+ZHneFawawNeV+5CVUF9UEQn9imFl2UiD6drN+eGghAxYBIvLQ0I5h/8cptc283TK62Hr+hk1lcy0fLs8VHSxVLe5EEnX7aAP5Jb7njGiIHPFPqDRTcS6JKEPwSFx4KKknBho5MIBCbJ9zDQF9QbciwEudgaBmiCPi46D2EYp06vxkmUBPPjIJ7m8Pb+NHCAWzLb;1c8adeQiPLbP2FMuv+31Dw=="
+secured: "J7bAyCeNSlXpIteGfPvMcLvNqrsWueHrackZqHhdyLyFTk9k9vCkPQ6L/jDQmpFCQFgKN93YyNMSSLiTDYyubsrTIV/ynTmXruUzL4BUENnXnYy3nJm894JwrsixstLp6iyqadX4UGUmlltJkzGu7a5YiYJzpiGrYpCCx3xmoMK46g5Jpm2qPf9oolt3HIa6QxGDKt+ZFCEITdI5wxZLQtabGRgYTvY+HoxMoUOKPSwkho2fZbUHiZ4hLeKKo52Ozc964C3pNYTzlIFT2xprzUZ/rLbfjFd+IQ2byAne1QzVlH9MGkFIgVTf1gXoRJv2OJFGF21eqNKI8MRJ6BsIfrirfsVok4GyJZdCRMA5wY1fK8iYdpc6J5HJHFg3GAB8BIPavVLy8vF3TZc2acJcw87NsQzmbmyR7uqsdIHVP+E=;lUO37sxOC2FJzCIrAisdYw=="
 ---
 

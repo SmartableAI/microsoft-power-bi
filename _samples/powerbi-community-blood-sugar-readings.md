@@ -4,7 +4,19 @@ excerpt: "This is a history of my glucose readings over several months."
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Blood-Sugar-Readings/m-p/733457
 type: download
 publishedDateTime: 2019-07-07T09:20:00Z
-heat: 50
+heat: 51
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZTRmYWMzZDItYjA4MS00NzliLWIyZTQtNThjODUyYTYxMTkwIiwidCI6ImZmOWUwODE4LWViZDQtNGI4OS1hYzczLWU1NmZhNmYyNTcyNSJ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiZTRmYWMzZDItYjA4MS00NzliLWIyZTQtNThjODUyYTYxMTkwIiwidCI6ImZmOWUwODE4LWViZDQtNGI4OS1hYzczLWU1NmZhNmYyNTcyNSJ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2751/2/Sugar%20Reading%202-BillHipple-PC-3-BillHipple-PC.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -26,6 +38,6 @@ images:
     height: 1632
     title: "Blood Sugar Readings"
 
-secured: "w6tcedW4+8l5Z52Xvrb6o6nb20xWn7OU+c4s2kbzJfjPVKUP96o8I63y0mDO4ybdykuZ+/oQUzyfOyVCORUByOTvxG334Myg7bw1G8d0ZLa2UNbcmIl2C6BTyv3JkWMJGItfoZx4uXX1dkhHaztPd5w3FGz0XNyl3Nt1KGyCGzN7ZbThyM9v+sNVDqgW5iRs1N28YRfYbYiUmmA4/qSdG5oKtlpOmt/SbtAeaa7ilEf/CA2Kl0jQzPQFqfjMCVD0BrR+/7ElnPtCq1z44p4YMPrE0Ho1ZQrkOtfVTs5gssJ7ousCkq56XBRVY0zyKl3hJ5w7QlSVn08bAN2ftH3oZcxlheLJ5722X0HDSlWOXXvbLggQ2lrSH/jojJkroMPX;498ZaxEFoPY7u3+8Ok2lvw=="
+secured: "Z53rcZjlmWuWiAJbUzdiwTCA0gf+RDtgvR7CjxxteZe8W3a+3v11c8DI5u1MxjZaRqifgCKUSmpTe6sY38VCCPo4ASzOrAQugW/1BKR2/3jQtYDLlfrcw/0MQgGM2+YS4z2kj0yyKGE6UX71Hie1pibxq3Ead69Q92VxqdvB4bTypLCDt6N3BCt7lv/y0ikPsPYWpYPiFzO2jSt1ZFfF7twzvriD11YIxKOQ77KQa2fpqHDFTfY5DkNnWL/ugEctG+0mBSW3LjxbTRQWK3usLOH0FkQ2ZyXPaqHfeDofRgIhsEP9/VQKdyDsBt52RS8Rws/85hCppWMRc3pdKicdiLfO2caPsgSOw/GELlZ44f7fATDCDHtlQwAm/Oe+gdjAhLNf+0FuJHTYv3aKtKCSMQ==;QcQtyYRV7DAlMzmUH8DRFg=="
 ---
 

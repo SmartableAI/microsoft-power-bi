@@ -4,7 +4,19 @@ excerpt: "- eyJrIjoiMjk1OTFmOTMtNmEyYy00ZWI3LTk0NDgtMTU0MWY2M2JiNzVmIiwidCI6IjE0
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Fr%C3%A9quentation-des-A%C3%A9roports-de-France/m-p/1151304
 type: download
 publishedDateTime: 2020-06-10T11:36:00Z
-heat: 61
+heat: 52
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMjk1OTFmOTMtNmEyYy00ZWI3LTk0NDgtMTU0MWY2M2JiNzVmIiwidCI6IjE0NTJmNzE3LTQ5MTItNDE1Yi1hZjg1LWQ3Njc5YWM0MWQwNiJ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiMjk1OTFmOTMtNmEyYy00ZWI3LTk0NDgtMTU0MWY2M2JiNzVmIiwidCI6IjE0NTJmNzE3LTQ5MTItNDE1Yi1hZjg1LWQ3Njc5YWM0MWQwNiJ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/4089/2/Power_BI_1_FPL.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 168
     title: "Fréquentation des Aéroports de France"
 
-secured: "5N+zg8NzETkgbgypfiBhVDV0sx/xoxTIiL4d4asNg9OkVlhifAsmIPt/7IjhclYs9ZrwUmol6wzqWATqBeb07XKRy6fSOGE7cZbjCoIyO25vqsaN98SyS63SU9vgPGuBNY/+NwyJpv6CzdJ+zr7+QB/U9EEdnDIKXsjBYSV1r/iE8G8PS6WNMTA5cIEWMpevy1sq/k2pd3xvE8bchSiYBIkQBzIOc4yyDyaY/nTP3hBpv0NvPrZI+42klkHbjYu49lETVyM1kTGxAh+vqL6pxBlKAm/u8I9NseiYctANe5Wd3a6+XrC0g22ZbzWl+n6M7UYXbriRZLxrCUJtZcVstIkVx3mC1eukw2KE/ZGkqlwFXedjDQ8jjGsK38We8mh+;hh0jpwpAINU2abTiT0BUMg=="
+secured: "DghwJ3jeDT/AjVu5QtwvGPJqDExw+h6w3TH845qZ33oCcXS3KOKGyz/l5SnxCb3Bc/t3IzVugUBsfWxAx3vmm2e5qEKw4VQUt5ApKxn/FOtNvRKQxF/TkAM5o9WfZg+F2jXfyOqw/MqwxSqLT6NJOyYsqRQU93f8PS1pFEOwfYyb+vRpdOU+udccQnc84QjGrCN6DAKElcuzfXv6dfx/2csROpPKyvZN9ID8HDhOFsmxARejG6j1s9xZpyC0Apf4EWrixxmJQWSbYGTK3iKZD5y0gVoa3KSiroxnFmkN1rkggFd1azC+aig+pZmQ3VVqmweWRlwhjeFuoM1XetE6u4Vzozvz0V24VxVolH/Ibd4pNw1n9SrA/3P6gEscG+73ogKj0YtuenUqWFnxCuShEg==;4uRP+EjAeA5DkPFia2QViQ=="
 ---
 

@@ -4,7 +4,19 @@ excerpt: "eyJrIjoiYTk3MTdiMWMtZjExMS00YjQ5LTgxOWMtYjdmNjM3NzYzNzhkIiwidCI6IjA4MT
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Health-Dashboard/m-p/658240
 type: download
 publishedDateTime: 2019-03-31T05:08:00Z
-heat: 52
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYTk3MTdiMWMtZjExMS00YjQ5LTgxOWMtYjdmNjM3NzYzNzhkIiwidCI6IjA4MTQ3M2M2LTUwNGEtNDM3Zi04MzhjLWFiOWE2ZjY3MWVmYyIsImMiOjR9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiYTk3MTdiMWMtZjExMS00YjQ5LTgxOWMtYjdmNjM3NzYzNzhkIiwidCI6IjA4MTQ3M2M2LTUwNGEtNDM3Zi04MzhjLWFiOWE2ZjY3MWVmYyIsImMiOjR9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2580/2/patients.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 540
     title: "Health Dashboard"
 
-secured: "WdJulRXNnxmxs453nvFm5d3r25VTpX4AA7QQ5LmeKm0Slh/qRg+lVXpC/QXr7pSaqkKlJw2eKAX4jN3wvbmtugJzwFg4oMC2c9LQNekD2a5mG/6PmplbfuaUVUuh+wjDrsInUdvZVVase/3Fw9JEtbJCv53iwtJ4TzlIqMjHXWBRJyUk820DGVRtNQLXzcLBjTlJVPAzPtgEahxSYmdPdWrEexCL1bGNrBdZXLIQoDyRg0t7UhttYFW/K48xN8K0Uzl0HBsCDRcJMe1jHTf5Lcc3UW8nHHkAzC8tLzD+i7WqP+lO4yKtToAAlRML/3mcdMGrom0uuIoHnkLBxZgxqob71WAJI5K9o1NQ9mQNZVgYA5I2KvTiNUfjetM7lo1b;sJLIfmqvVwQtZnQ1iCmARw=="
+secured: "suW6Ffk9240t1h3k8lMq0fEijGYJraz4DSy2ZT9Pj4cyPdpbg6qG77/2txk2ALcf4vFO2ZbpkOYP6dFIkiQ4Qn8M/PYlV9SbXqPMhS9LPunuVjd50knX61TbdOJ8/1k1YnkPTqiA7ZjBZXpG2Q/DNpYZ2aGxUMcRD4iZes9mp5yCsrk2yAliPf65SEQkLV8C1Gb5ayFnCyuzGMPjihlcD7H/7k+Rlj8L2lftPHcniX2zCw6H3jJmdELJoUlB9SjP4CUmLsseLEL6gxzdxjtpwdoEl26zd+HBLSr7IUefRv8Zo5pTdESG0hfYNKroP+Nx3cmTXMiKIIvY94nU1hc7v30xw8wD6ne8sg+/IzExakeCUI8m5aovzidwhcMXgguDdoaVL4TsLtlpY3ddpHE3bobrsaaC6Zinyq43ylQ0ge0=;qcFyRtV3AzWABX7AkOWblg=="
 ---
 

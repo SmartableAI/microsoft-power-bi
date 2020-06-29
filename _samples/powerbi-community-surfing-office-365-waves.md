@@ -6,6 +6,18 @@ type: download
 publishedDateTime: 2018-06-10T15:39:00Z
 heat: 50
 
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNWRjNGQyNjgtNjk3MS00MmZiLTgwMjItZDBmZmM4NmY4YzYwIiwidCI6IjRiOThiZmM2LTUwNTItNDVmMC1iYjlhLTEzZTkyMjhkNGNmMSIsImMiOjh9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiNWRjNGQyNjgtNjk3MS00MmZiLTgwMjItZDBmZmM4NmY4YzYwIiwidCI6IjRiOThiZmM2LTUwNTItNDVmMC1iYjlhLTEzZTkyMjhkNGNmMSIsImMiOjh9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1980/2/PBI%20O365%20roadmap%20V2%202018-06-10.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
+
 provider:
   name: PowerBI Community
   domain: powerbi.com
@@ -25,6 +37,6 @@ images:
     height: 515
     title: "Surfing Office 365 waves"
 
-secured: "eIvMz7/00fEsKfHi9lx73YRqkp4TuM26peh6cl0DOp+oI/iqBqdmDevK/Ap7ewOaHaUTrDjhwLvbrx5m8XVcGeuL2FFigEPpZkS+cqQABY7JBRfY+a+DFw/OjKbnJ6oqDoPVENL/6EeIbFOQTvhM5DDvq628GNVSPnOVW3bxE8iEWzYVv72Q4GNpAN8llYFANrGFlwaimdD7MwjN1wHbXsq9Rp0/vne7yJHEvIkOrlYnjG+WLH5dbBKbJed/QzjfMmu++OiHdZxjlCie0/o8QrKNPCToXM+EnNoEsJV0CbRiSsQUxYqid4PbegXhJHCqfhoUASWQzUpEG5K2Mxg0wacnOa+1CnWQPesbg4gft/vaU7l9qcONH2Vb2978+zN5;CoBK1uWjAvH5O2+aP4q4Lg=="
+secured: "escFevWSLM2YCVHt+rZAzum73rckbtCpa6OepT3bcyMG3yVYe9+l3QzXEfL8XBQJpRtg894sXWrz8XknZDCjyzqZ/NiSBM+UXpVxGWU6sfLql7YHfAtnqVg5G47HP1nMSUR74L+5n65vgzRf17OlbBXzYHBF/iELEJOfacPt65jsappjMPWR8L22nBINoy3TN+dadIpVf4i5K6BjhLnwbo7EbewlJg9PK5oH83MyqHXDkFus+z6KBxvpATzZAwq2rr8eEJ4TRk21uhFV/xTdbytO7gjubMdAsVaWjSIiYNHIqJDSx7RTQa+Iw+zbExFcekO/kNJpzfyCyZj9e0rW7k9N/zH1T3ITj4ppNisC/OoVqMq6OraW3UrmZAwX0ymHgZDlVJl09p8+QICxTRBsug==;EQbRhJgk8u+8GXWYXhGYAQ=="
 ---
 

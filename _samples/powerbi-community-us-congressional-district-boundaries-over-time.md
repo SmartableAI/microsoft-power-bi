@@ -6,6 +6,18 @@ type: download
 publishedDateTime: 2018-11-15T10:30:00Z
 heat: 51
 
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNGY4YTQ2MTYtY2EyMS00OTRhLWFlMGItZDk2YjI2YTFlZjkwIiwidCI6ImRjNTliNTFkLWVmZDItNDYyNi04M2EyLTljMmU2MzE1MTcwZiIsImMiOjZ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiNGY4YTQ2MTYtY2EyMS00OTRhLWFlMGItZDk2YjI2YTFlZjkwIiwidCI6ImRjNTliNTFkLWVmZDItNDYyNi04M2EyLTljMmU2MzE1MTcwZiIsImMiOjZ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2369/2/Gerrymandering%20Over%20Time.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
+
 provider:
   name: PowerBI Community
   domain: powerbi.com
@@ -26,6 +38,6 @@ images:
     height: 1928
     title: "U.S. Congressional District Boundaries Over Time"
 
-secured: "L0WiFjpd2HDfdmIyvCbntuzG3dmnMklYYKn3UOLzbU/RIrQEbUkkTXA1RS5QsEh9Aun3y2D/PYC7EB6lg3AE5SVRHYtLdb2wDLF6WdqfLlV5cO0TcAIJJlcCkFN+rY/Q2zMbqa7B30uy4T5tVg5L/XENsvc8T4D1LbF3zcg1kPzWpspElAq1qs6jp4wSAN8Ell5wvWBEjH+C2a0OoWUX97v9jiAZ6OMOae8nXldigkMC9LT6Ax2iOrCuGAIYIQuKCARvux3Sf9czmFlaB+MMMa2r8WjIzZEECNPl7Di+y0CVKnyT/5NJHOC2s09xM7akvVbGmKQiuaZ2OPt+hIJo0w6vTo7MaBp5fAXiFSo1pcrc7dwuJkpW6V3gH38k2shb;YOG1U/rKnMtG2J0vNSKMaQ=="
+secured: "Ks4XRBBe2LxmqPvVBxVdRvlbeeP2jreijkrhJ1cTKrGo5F7lzQvn403Lrb/gRqMvdKRrMPpnhbBpA41vUVpwwzDCFGElnOIJ2+Wgk9lXDTnAgD2uVBh/yTKjE2W+mdxSyQM6QlpmyhaNwTymGCqFo9wv4zvtMlboo+ZJVA4LNA4Bci/SDeL/x5tWQGLdq9cFFTZ0/nWTMzhUOv4a19KkyYRsc/4luTEGh2Ntw3/osnFOK1L9g7NvdYhtQpuhkw+LU7Fm0TcV2ssXqzexhgZtmEykcN2wP7W8tJD6qMGUbDBdy9vpjtHVFhL6/Rfg0d3H86zgy3wXuzM5E/OBBNQbXWXMGbT280OHUiVcwBgMc9yUQSjZ4+F7khFDrvt6Jtj016wl1H90MoPPXlF0tYKdIQ==;hX3YcpbuvAwjThyqzY4aIA=="
 ---
 

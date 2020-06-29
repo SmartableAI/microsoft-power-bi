@@ -4,7 +4,19 @@ excerpt: "COVID-19 Clinical Trials Here is a simple dashboard with COVID-19 clin
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-Clinical-Trials/m-p/1045849
 type: download
 publishedDateTime: 2020-04-23T19:55:00Z
-heat: 53
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNDc0ZmYzMWMtNDBmYi00N2ZhLTk2ZjYtM2U5ZGY4Y2JjYjkwIiwidCI6IjE0NmQ5YzY5LWEwNDMtNDlkMy1hNmVkLTVlYTNjYTBmOTA2MiIsImMiOjJ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiNDc0ZmYzMWMtNDBmYi00N2ZhLTk2ZjYtM2U5ZGY4Y2JjYjkwIiwidCI6IjE0NmQ5YzY5LWEwNDMtNDlkMy1hNmVkLTVlYTNjYTBmOTA2MiIsImMiOjJ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3825/2/Clinical%20Trials.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -27,6 +39,6 @@ images:
     height: 872
     title: "COVID-19 Clinical Trials"
 
-secured: "zgNXphKKl85UJ93TvjCzlAz5Xzm7YGbFN2RuEJm+yshmYhLVJwYXZDuOgR89k5GKxpko7sVV2M4CzGJNinK6DUk2lKL76upZf0NEEBcwwlANPhGH1ycT0BpmlS5OvmCZ4m4sR9dYXfM+PiLt7GfU1yMDMxBXjiMYeP4KDEurdjwGWME8jEjlvqjSkKavCYWJGYpD6US0awk8ra6ABSwAtYJ6d/5YqSTLcqleURAb8MobNDzVcc6qse7rw9c0IdCUcQaxg1EQwkpz6eNVHL4DcMreAC9xtn9R1xDSSP8h/pRppERfQIoceuVN1h9eNVfuKoejKRl/GfYpT709CdNh9eS+muj1RnjNFumhgAdpKYSzfudcpi5ws8Doe64CplAA;qVPu+telkEiiMmbF0ErBEQ=="
+secured: "w+mHQ+x6HehmDQs60jEpWm6jMOIIhBltktAEPi0ZLqKnvc3viaV4CD9usb+hcPFOVawVQmzo2tMw7JXC6ePwsdGzT7U71Sg6miULnZjYeikKk7GMzQ/gmcHJbdMefH1QMFbQcX+RNgrvtaudUID58KZffAqUc/rrxopZNvKREMv2IqAwLj5pVJrri6dieyBNH2phgRrreMpJKUlzYWaAsRL2kb0ZqMrXvZqMb+oWlzkdei+I38Lh5HBuTCr2BL7odaDYvgIBwpNxEzqK1tn5hFJNzJ6X9ZNpjQC5dLOyyFnzo8JE2udcNLckro4/MSgdU+GsfWSFPyJRDXn6wHVlbheXBr3+fqU1TBZ2FyNOwHFtrOUX+Ku1+9aKkuOwZKhWro72A8J4pgtyE/0hFd6/mw==;AZZHRI1vL3rq0ueqcyzLYA=="
 ---
 

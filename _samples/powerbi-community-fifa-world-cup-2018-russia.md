@@ -6,6 +6,18 @@ type: download
 publishedDateTime: 2018-08-03T05:34:00Z
 heat: 50
 
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMWM1YTA2N2QtMTM2Ny00OTM2LWEwMWUtY2E3NjAwYjViMTg5IiwidCI6IjhlYmE3MDI4LWE0MzAtNDRlYi05YmIwLWE3MzMyY2U3NGJiNCIsImMiOjh9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiMWM1YTA2N2QtMTM2Ny00OTM2LWEwMWUtY2E3NjAwYjViMTg5IiwidCI6IjhlYmE3MDI4LWE0MzAtNDRlYi05YmIwLWE3MzMyY2U3NGJiNCIsImMiOjh9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2123/2/Russia%202018.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
+
 provider:
   name: PowerBI Community
   domain: powerbi.com
@@ -25,6 +37,6 @@ images:
     height: 1034
     title: "FIFA World Cup 2018 Russia"
 
-secured: "PYaomjGwSIWgi2loCSeBOoOTYNMC8A2jUShjBYvrj2V/k9lBCtjwNgEUa4yW2Z8ygo8WxYgawVlFMyH4tUIvMpXRn9sK8JQ6+9CDcZylD8n6cbvBHkdqBRszKTPc4nF+n7aENTUW3iIPLJo+Kl7wnCjsrw2+REgHjb5eXprX5jGfg+KnxdIuy6JBJwvn9vnudzQsUS0HDBkJEBS/1bHvWt5WSVmKwsPoky1jNbHmtWeBFueAW2ZhC4yj63/wfCzco9Xmg67xSv7xSC+OnWsYCll01m/iZkb3QjF5/sNMPkp2owE0zn8DJyybsE8hINgphFnSLpWztdUUdeF48J+QRnP1dYDxpyfLe09PjMXNLR0QbU2jB/scoDqm2drHMz/3;PTrWgrk22JGFUCIM3FiuPA=="
+secured: "r4MEE8a2lxi4+iIlQY3MYoS1IQM4aNY8DFbF9RZLucQypdWvadQzf2sECA0zvrdL7qEejnRXux63TMw617pIURbagdXZ5On7FtCOH2U75mX2ZYeme8JkHr/x7YrmX3vsZmK8FZ/G4+f8ZKoKi+zQS5n7JwdLXuyeuLlgIMNWCgxpARsdpzAlENjQV2eFIHsgnLac8O8bYDL1xO6SITw54kNm4gMffjRiuAs8tP/yk7WCboKsFxkO3PQl2BLjlsVgzneRl9HfjcoF0vI79IgPIMONJ5xqQqsJDDNd6upk2/CQFI3zmoQlhzGawMPdkiJVGbUnsRE6F2hTa+N8vGqBuYg4NpVyHY3uej2WagLsojI2aasXpxN51AWLR+NcV8qUmWp/4k+W1i5n3k7KifSzTg==;AsqPhtOSaegb7UMSJsLMUw=="
 ---
 

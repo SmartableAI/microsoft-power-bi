@@ -4,7 +4,19 @@ excerpt: "Business Case: Every year, Inc. magazine publishes a list of the 5,000
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Inc-5000-Business-Growth-Analysis-by-MAQ-Software/m-p/473764
 type: download
 publishedDateTime: 2018-07-27T04:28:00Z
-heat: 52
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOTRiN2RjNTUtMjk4OC00YWY1LWE1YWUtY2Q5MzFkOGQ2NjYyIiwidCI6ImU0ZDk4ZGQyLTkxOTktNDJlNS1iYThiLWRhM2U3NjNlZGUyZSIsImMiOjZ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiOTRiN2RjNTUtMjk4OC00YWY1LWE1YWUtY2Q5MzFkOGQ2NjYyIiwidCI6ImU0ZDk4ZGQyLTkxOTktNDJlNS1iYThiLWRhM2U3NjNlZGUyZSIsImMiOjZ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2111/2/Inc5000_Analysis_Prod.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -26,6 +38,6 @@ images:
     height: 635
     title: "Inc. 5000 Business Growth Analysis by MAQ Software"
 
-secured: "d/ONltMNTzCCSbJwme+lLy3TgZtEtwTAdGW0eTgn1vMCVQ+ySFkeJ/rJZ0t5RErKJa871Z5jQcWoS5bdWOx5KWuJmWrYXjBNlJB8acSlq/tE+Kcx8TyLvtzTfk2/h4/VlKASA47TT33X3kNDyY9Pel0SgjRh9Alp1rQkVI8MP09hgZFeHirx5La8Sz0L6O1PRCaMEdj6hdFE9btZZw/LntbQdkFN5YphYdbqvbAII6jl8QxHYFSMKBFBLgTQpRsTpu4ZpAvNr5hQ2Ci2JG/BJOc4cyRaH0sl73NUc+DT1Ctko7t5qn46gfNcO9LJsESKqC2W+FQs7R2DxWGugCUSEHyBrHKQ5mSPs+Qmq5MxT0K5G5PVR5l/OrPTJFCh2ZKK;7EATDNpeuiDYvADj9dcfrg=="
+secured: "mFDCDV89NCIEC3pIkYeDAAV2Xyu4KcQomIFfwLE49aWHrIbRzEJZQDqXrg96bjxFfagttTsiuBIP3QtoP9vsgh8ryWI54SHNO4zJ02S6Kqalerv6AxlCvSWC6QGpkg0nPVVIGwqizFRrsIHQzidaroKgcWIW3bax8rcwYXPb6qfyNqcLiLH/eEaeuNKlXp0aqGjmF/VFg2IY3tsuY5vJZaTrXWij4//rXWkqeodYhy5GF576GNgks2RTyC8XW5UPM92FpBFcmUa4jRkCiDeDNYAAEulumrHG6RlPM0kAhXigEG1lzdR4dQvFcWMVfRziDlLAqQQxXhiXx6JW49ItqO9TYqWSpm8F9vVq47QuW1KVQmBC+UdlW2C0AUg35lkokM7jl9yExHfoeGTB4tZ3TaEbS3TSydlsYIv6G2FxAWI=;4DLkbbfOic/UlpyDa2iRIQ=="
 ---
 

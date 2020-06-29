@@ -4,7 +4,19 @@ excerpt: "#MakeoverMonday Week 47 @MSPowerBI"
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Smartphone-Ownership-Among-US-Youth-on-the-Rise-2015-vs-2019/m-p/849678
 type: download
 publishedDateTime: 2019-11-18T18:58:00Z
-heat: 51
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMTQ0YjBjNWItZWYwMy00NDliLWFiZjgtYzQyN2QxZGQwMGM2IiwidCI6ImUxNzc4MGM2LTczMDgtNDc3YS1iNzY3LWZhNTY5ODI0NWUyYSJ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiMTQ0YjBjNWItZWYwMy00NDliLWFiZjgtYzQyN2QxZGQwMGM2IiwidCI6ImUxNzc4MGM2LTczMDgtNDc3YS1iNzY3LWZhNTY5ODI0NWUyYSJ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3140/2/mm47smartphoneownership.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -27,6 +39,6 @@ images:
     height: 712
     title: "Smartphone Ownership Among US Youth on the Rise 20..."
 
-secured: "+BoAG1EM3E2/LSQPhL8FvSEWz0bK72zvsh4dkVTkD7kLlDprOwoDS6oUQ6fBmVaqdzxOhJa5fZiQd/K0L+k810Qq+WdKxZDbGjZgJqFYhc+u3ZQPd2J3Il0BmoCKtpO38vEgsylWZLF83Waa2YF/BN4AqRyO6UGtGOyHqP28rYkBF8yO8OXsMO5K7W7LNa3LTZ3P/7Kbss24iMyELBUuqEeRUto31AOQT6474rNou6UBe60iqQs3CMPXnZqMAvUUaJimkGfD17QaZJ5mKPU68d/3yziTqxXmoQEUMvmr2Qjz6Pynnkq/rqMFgvJPfB59wvbBF0NQG99LgbR29CDZ9BhRCeHh7Gu6NxkAT02lMEZ/R2gFQcNhsKjaSWoSdH23;nXBGnxnYXl6pYXTiKD0kVw=="
+secured: "kd5nwXyHuXTQ5/33VK13qxGNrZSiBY/+LWqGPd+Ty0so/ssuU2cVNM7vDvyg1DIrebuPBl5Xvd1gHygq6+9B7rzNTEn9N5efyM6lpNx9I2FOHCoyWvp6CB7mnqjCdrHt0zEYw2EwNRDWsZjUVoEmwTIuOvwwmvXX9EXTEzc7GoJr+HygTnzJAvwycyDsTr/GYPFwVm+yo7XX6P2Gkk5w/gQ8Zgj1s8yTz62C4l1nVuZkAOZjoGwIDOSWRLACKrxKpnPiA6mpgJ5TGDIKQPaMkMp+sA30e+5tPUBT6V3m2E9oNeXsjmPwl/FBGCbxyRfoqc8rPf2LdX/M+rxM8tMR3xmDNs9wMRbbZncZ9SXUOJDQmLIemuBUxFlDT9KxE1PNz2Sqfz0y0sL6GcmyrcgZVQ==;uBhQKw3Xb9Sv5R6GBO5jlw=="
 ---
 

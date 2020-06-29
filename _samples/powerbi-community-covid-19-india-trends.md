@@ -4,7 +4,19 @@ excerpt: "eyJrIjoiMDBiOTE2MWMtOTg2My00OWU1LWJlMTMtYmE4ZDU2MGQ5ODNlIiwidCI6IjI0N2
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-India-Trends/m-p/1042123
 type: download
 publishedDateTime: 2020-04-22T08:57:00Z
-heat: 52
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDBiOTE2MWMtOTg2My00OWU1LWJlMTMtYmE4ZDU2MGQ5ODNlIiwidCI6IjI0N2MyMTU5LTI5ZWItNDVhOC05ZjVlLTQxMzgzZWRlOTAxNSJ9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiMDBiOTE2MWMtOTg2My00OWU1LWJlMTMtYmE4ZDU2MGQ5ODNlIiwidCI6IjI0N2MyMTU5LTI5ZWItNDVhOC05ZjVlLTQxMzgzZWRlOTAxNSJ9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3817/2/Covid%2019%20India.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -26,6 +38,6 @@ images:
     height: 1080
     title: "COVID 19 India Trends"
 
-secured: "/7mlVkfRxr+8vbmmO+6bD8y/uich7xPcRZNq8tPB7P8WvZF/PfOb15LQSqjmAZdFusF7go92upzA/GSQDmjljX+IC0pnDvTjasuf+XwAsew9I89gRvl8BZkD3PnNrnxb/rwATbj3by3mMf09XpDAYnGSTx+A7VJr/+C752e1U1ITezLgmCG6KR26T7MRj/yyNkVEItKSV5Q7ygvfLL99WjBlb8Hx7DbnPuRRD06JyjZNFJ8SUMSmmelMIH2eGm3BqMGFbYavCTdzdP+fsTiso6I2tESzAVD8lUVMyQYL/DSNN9HtckSw7IXSsQi4n+qtPYmEo7IbRP+HgJsQtYgazsEdcNNWpyAUMD8a87nqqxZxOTaT1Qcuw6xrlkiLQI3N;Q+ljS1OMpndkey1nV7jCUA=="
+secured: "+XHsGtPdIAiuGujw/Pr83gUgpHLmDHS6IoVPJPnigJyU2izPV1aPdlERpUeWZHfVJdpoEwZhE6ttozClgaMtcGbWd6awBKd8EeSUgAXN3uZeU+qGrvySJdoVM1zyGXMOgdMGwAatLy7ayNCcTlwGYTpkxaTpm1TKlYRHRXgSFnVVFWuc4j5R3zRKG+c0B2MEPmL2REvv5jMLc9JGxCdQDpOhwSR2g2Rcybm3rwpdZVUta4A3L98MX0wQquPNiLuomlH3DIOJBFfdDRQcwrD8SvR6hgGudk31XI41qPGGX3iYXxB/f+E5aElfiyPmPwAt/qxEx75UFPZ+JSO760jhIRB5gCcYbExxNQZgMWhWX1exbOfVhudGrQ9BQQEPCMmWIWOzYUH4ZLzrbZqTzKU6yA==;t0pUBWKHzWQyGt8kISnEkQ=="
 ---
 

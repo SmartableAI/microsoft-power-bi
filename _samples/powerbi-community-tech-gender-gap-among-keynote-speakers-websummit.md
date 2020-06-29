@@ -6,6 +6,18 @@ type: download
 publishedDateTime: 2018-05-29T02:05:00Z
 heat: 50
 
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNTI1MjBiNjItM2ZiOS00ZjM1LWIxNjAtNmZkYmJkNWYyYjI2IiwidCI6ImYzN2YxMjc3LTJiZTEtNDdjZi1hNGJmLTQ0MjJiMWM4YTU0MiIsImMiOjl9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiNTI1MjBiNjItM2ZiOS00ZjM1LWIxNjAtNmZkYmJkNWYyYjI2IiwidCI6ImYzN2YxMjc3LTJiZTEtNDdjZi1hNGJmLTQ0MjJiMWM4YTU0MiIsImMiOjl9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1930/2/20180523_VivaTech2018_v3.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
+
 provider:
   name: PowerBI Community
   domain: powerbi.com
@@ -26,6 +38,6 @@ images:
     height: 1391
     title: "TECH: Gender Gap Among Keynote Speakers (WebSummit..."
 
-secured: "nIhPLFU+HlsD4wp8SvKHFHf5O6Ll4cdGGVeQSH6KqLn7t95N/fzJf4ZdzODJizfidfY2gsSso+SZVVzXP/oeNUaqnd1Y8rJR9t43VmOALUzQ9Qif0RZjlv/M7BorcGwbRMPM6DrRwrI+vICbL0R7ur449OwrwBmUWHt9nPeUXSHXqY9aFvbithra3eFnVwkWmW5JyQAu4KxF02m5s/sFfyckpjME+RV0/XtYLM44zu6+49yfRE20c4BjBGZ4WlfXDYpOPYQwnws3c399/baeP1Pk9Gm/AcioX5mi0lPCpaGAboayAOhKk/4yfCsoj8Air0y/8tZ284MQd2Sg2i4PMJKV7BAzam6L64ipE0Qq3oux4HNROG7SYkvcCr0m0kN1;UF59swpWCHY/Fm2f372nig=="
+secured: "Hw3I62DpB1vtLofszpI2ML2+QhsdGrPLVKFxAR6wFbHTMFuGmZcoo1PKxfBFa/pdwHUYZI1A7XZlpvYX0z7oAnai/GawGGWoXMFtlu9PpYr3nWtOo4qC/Ufc6I0d4K1frVMfXYHSmnf8wyD4QilikSHoRf4efLMTPLJTizeEJ0/NruXc35MmSwvTbKNme3PZAj/7kjZpsOQcWz6TywUWAzNygonQ+k0C+yZymWFhabO559uUd0SvEhKIv8uGPhrAKbZQwPsPsiS0U3GLr5o/E3yB2ZDtT9vquW1Xb6d59wd37x3saZmxm5POunSq5ZqGLJiTSQV7+msl5TWAyIakH+eAV+wci345BHV7kcWpe6lIOWtKm7fsxTfuqw+ompwK47uXq2j+vRu4R8m2F3ybsw==;onnJPtUrdYO2SJfLkV0VMg=="
 ---
 

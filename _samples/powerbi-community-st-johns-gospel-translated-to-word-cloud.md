@@ -6,6 +6,18 @@ type: download
 publishedDateTime: 2017-09-12T01:19:00Z
 heat: 50
 
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMWZkNzU2YjUtYzQzZi00ZTg4LWFlZTEtOTIxOGNmZDczMmFkIiwidCI6ImI3M2IxZDZlLTIxZDUtNGUzOC1iMjM5LTgxMzRkOWQyYmY3OCIsImMiOjh9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiMWZkNzU2YjUtYzQzZi00ZTg4LWFlZTEtOTIxOGNmZDczMmFkIiwidCI6ImI3M2IxZDZlLTIxZDUtNGUzOC1iMjM5LTgxMzRkOWQyYmY3OCIsImMiOjh9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1131/2/john%20word%20cloud.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
+
 provider:
   name: PowerBI Community
   domain: powerbi.com
@@ -27,6 +39,6 @@ images:
     height: 539
     title: "St. John's Gospel Translated to Word Cloud"
 
-secured: "DmoZro5JjQJRH11U99g12mNZ4BGlQP1gQmVor1Q5rCoF4natjtQSBN8p7z3xrF6ff17y06mZsE+33DNQqL2x1crdWOF98dtZ1EEapbvScy1//xeNDh32RRLJ2zeKDG0UbgE7u5n/nJFyEltJQQW92BMUIrQGVYIO/Vw655g7BsQhHDPNLK5nOKFuL20XErDoAyV8pd3zdyflyv42MMVRLjBHVZskd2VAfQsm7D1oYrUduThhsniViWUV3r488Omy2erIMshiKi/l7QjzHqnnPt1RIv7RI4O6DduYkD2Wca0UMuYnGe++EJFkJkAV3k8cEKVQIIOociSYclOrsKT5RnOP/2nEXUiVf78RFkPbBKiFlzQEtkxVLP7ugbcc4Nmp;xSx/tO3DvQXXTffPPDXv0w=="
+secured: "rawlzLdlcueHFC+I5l3AmMXnnn2obweHGqbq1CMkJf4SfWNDcoNKkv8Hrq4aUVRdLcaTRxZmlGw+H9npKrtfQdowf7SaIOD1T1Akp7/r+0pAKgSEY99EtMFQNg8dyoMfKJy8DP+Lc17EAqDMioBVxMqXU9WMpARSgWciYoqNrYHb9BxqNom+CKnG8pgnT5dNhOTNfCJFGQTSYbqLvdXpyf3QMcqoyMHdmIUnGUQ6HnE62Tbnl5vKvAyFmcOdpi9jbv7aIgL7StAYnami8IWlICgj1eY7x9WTEq4z5QvRmDShunQOvP1+8YDnUQPjqUIlEocn9MrwS7H9LaQLni0aRMwF22CMkV5bl2fDbWKOr4OMuHXwY98hDGHuImzs2YplqYSXZmactnPJE0NHEcxLjg==;B2YHWNHhv9FXkm/+9GuHlQ=="
 ---
 

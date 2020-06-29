@@ -4,7 +4,19 @@ excerpt: "Have you ever wondered how the internet comes to your home? Have you e
 webUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/How-the-Internet-Works-Back-to-School/m-p/785774
 type: download
 publishedDateTime: 2019-09-06T07:07:00Z
-heat: 56
+heat: 52
+
+featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDRjZTdiNmMtYjAzMy00MjE5LTllYmQtYzVkMWU1ZWQ5MDEzIiwidCI6IjU2N2NhNTBiLWYxOTgtNGIxMS1iZjc5LWYzNzhlMzM1YzljMCIsImMiOjR9\"></iframe>"
+
+actions:
+  - url: "https://app.powerbi.com/view?r=eyJrIjoiMDRjZTdiNmMtYjAzMy00MjE5LTllYmQtYzVkMWU1ZWQ5MDEzIiwidCI6IjU2N2NhNTBiLWYxOTgtNGIxMS1iZjc5LWYzNzhlMzM1YzljMCIsImMiOjR9"
+    type: "preview"
+    title: "Preview Report"
+    attribution: "PowerBI Community"
+  - url: "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2941/2/Internet%20por%20um%20Fio.pbix"
+    type: "download"
+    title: "Download PBIX"
+    attribution: "PowerBI Community"
 
 provider:
   name: PowerBI Community
@@ -25,6 +37,6 @@ images:
     height: 434
     title: "How the Internet Works (Back to School)"
 
-secured: "URR6HW4p7zV8VcnqEAtw6IvOCwGbcfZSd3xuaqC2HkffWJACRSKbNDXchJAjAvYEv8QefMF2j6YuAdu+qnD5BizRRHezzbsMFpkRxumqWsUzTSd5kStsiYybzgiBr+NdGansdc7Ic/YBEGNQULO562m9dPgXhm068RQ+NIqDjV87M7ne4fTL3e4wXJ/wZirTUoybCPDhbMMWt1jHad7Jn8epq671aBmLnzY0Df9HjltDwVToPFDKkxnwEjUDPWyuKOisbSv5b97l2ItKraoTTjLjUlDsI7ohqxmdbMfq8PQl8BTN8B+pb8rSJeemIY2evYOA20XdiLyKyCUJi6r5NeOwjANZ3IA3uKs4IW7x585B7RtS1CY4JT8Je/6u5sU9;HXBHGLbNNVNHL5Ie74Um5A=="
+secured: "KUYRYVtHo8dp1Xnx17AzF5t2YwUS9gA8m2iGNtEt3NQcAnt36gDl4fOlODw4dFYmvykx5JT+4S8pU5401CeBSeFEcg9JoufbkLGzPO+Y+wFz46/T/iY1RVr4So4khacDPw6wepfWtT9dqi4qMaaEdG5IiyvsryqicEXojsQ3+RYXYENiQE8WZgf4kvXcCTKRFRhvbYblwEHd2ZqXZcI1GAxKyk0f8+zMzKd4cYtUWA74K7YLytukFuF6Q7O2sP4uP1bo3N9Fuw7eI3qc191CJLEUVvbfQSTXskNjiGeaOCbnRPuhMbiAZcW6IVAoMgUroSZtPtja8VwvtFeap1qGRFK0AeBenuf0LryZiJGBkiSScHLtaLNQ2y1sVGoDYmTbyGbpdit59PVj2lIEX9RmqRqMRGyTzkrKMb3CJCXk/88=;vXlXiL9NpLmje0XM6KCTxA=="
 ---
 
