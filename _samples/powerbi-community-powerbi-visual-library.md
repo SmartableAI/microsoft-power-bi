@@ -5,6 +5,8 @@ originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/PowerBI-Visua
 type: download
 publishedDateTime: 2020-03-30T05:11:00Z
 heat: 73
+removed: true
+published: false
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYzQwYThmMDYtOGJmOC00NGIzLWJmYmQtYjRjMjFlNTkwMTIzIiwidCI6ImU2YjBhNTdiLWJkYTctNDA5YS1iYjVlLWI4YWYzMTE0Y2JhMCIsImMiOjEwfQ%3D%3D\"></iframe>"
 

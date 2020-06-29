@@ -5,6 +5,8 @@ originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Worst-Power-B
 type: download
 publishedDateTime: 2016-09-20T14:11:00Z
 heat: 51
+removed: true
+published: false
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDU5MWU0OTMtOWE5ZC00ODkyLWEzMWMtZWI1Yzc2NzM5ZjZjIiwidCI6IjkwNTgyMTc5LTFhMDktNDJiNi1hZmJmLTZhZWNjZWUwZTNiNiIsImMiOjh9\"></iframe>"
 

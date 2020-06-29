@@ -5,6 +5,8 @@ originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Analyse-de-la
 type: download
 publishedDateTime: 2017-09-30T09:23:00Z
 heat: 51
+removed: true
+published: false
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZDA3MzEyYzEtYTNkMC00M2Q3LTk3OWMtYjZlMGViMWExMmE3IiwidCI6IjNjMGUyMDA1LTU4ODQtNGFjZi04YjI1LWJlNWU1YzlhYmQ4OCIsImMiOjh9\"></iframe>"
 

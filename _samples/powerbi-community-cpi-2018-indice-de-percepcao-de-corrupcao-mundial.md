@@ -5,6 +5,8 @@ originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/CPI-2018-Indi
 type: download
 publishedDateTime: 2019-05-08T17:14:00Z
 heat: 50
+removed: true
+published: false
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMWM2NTJlZmQtZDQ5My00MDhkLTljZjMtY2MxMTVlY2RiNGQ3IiwidCI6Ijg3ZTcxOWVhLTg0MGUtNDFiMy05Y2NkLTM5MDg2YzllY2NiNiIsImMiOjR9\"></iframe>"
 

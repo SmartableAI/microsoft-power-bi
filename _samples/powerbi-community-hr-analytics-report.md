@@ -1,6 +1,6 @@
 ---
 title: "HR Analytics Report"
-excerpt: "I have used a HR dataset from Kaggle and created the entire report. I have cleansed, transformed and modelled data. I havent spent lot of time in"
+excerpt: "I have used a HR dataset from Kaggle and created the entire report. I have cleansed, transformed and modelled data. I havent spent lot of time in analysing the data and choosing appropriate divisions/breakups for report accordingly, rather than spending much time on the visualisations part. Please let me know of any questions would love to brainstorm and learn along. Also, please suggest or point towards any wrong doings, would love to know them and learn from my mistakes, if any. Thanks!"
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/HR-Analytics-Report/m-p/821924
 type: download
 publishedDateTime: 2019-10-18T05:45:00Z

@@ -5,6 +5,8 @@ originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Employment-Gr
 type: download
 publishedDateTime: 2017-02-05T09:23:00Z
 heat: 50
+removed: true
+published: false
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiY2JjZWE2MDUtOWRjMC00YjA1LWI0ZTYtNTFkZGJiNWNjZDg0IiwidCI6ImJkNGZjZDM3LWRmZmEtNDk0OC1iMjU4LWQ3ZjlhN2I1Y2IxYyIsImMiOjh9\"></iframe>"
 

@@ -5,6 +5,8 @@ originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Fr%C3%A9quent
 type: download
 publishedDateTime: 2020-06-10T11:36:00Z
 heat: 56
+removed: true
+published: false
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMjk1OTFmOTMtNmEyYy00ZWI3LTk0NDgtMTU0MWY2M2JiNzVmIiwidCI6IjE0NTJmNzE3LTQ5MTItNDE1Yi1hZjg1LWQ3Njc5YWM0MWQwNiJ9\"></iframe>"
 
