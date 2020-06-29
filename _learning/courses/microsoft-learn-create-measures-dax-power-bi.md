@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT2H40M
 ratings:
-  count: 4
+  count: 5
   average: 5
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Introduction to creating measures using DAX in Power BI"
 
-secured: "QNmN1rs52fevOs53qiYZYV2S4gWFKVxzIU/xnX9jveANcbkgbYIRoJXSTq8R3oyY5M33aSET2J7YO1M91YtMS27GY4NX/00LMvNzNFuW47aSZyxdeUYWVZJiJn7Mfq+sH93tXEJzKmuuinautcsc6bMqfXAyHP8sXS0i5Rl8nlvY0IMJ/e6adHTusFBbEV/AW6JsqsmfsoG4/+6RV8wygvodA1SzU2y7rb1vCI0LMyxhh3+VJeeSYoeKA7gkVqybiuoCY8xyWlhKZFUOq6UhXAUwL+/SYXZ4tWy8CWFCt4aicqelGwmmqCR0PKD/A0pQwHBEMjGEu6MNaQWcgn6l0Lo285aFe2Mt2o5zhOzqiGcoCPkrZy5NNHx0+jujN/ylzwrFEhcgwBV+ucDp8hJedw==;m2Gec7PGVZjCHxpfg12iaQ=="
+secured: "JbhlG0TwCxVwWWecu9gFDLKBiGbZx4jHHpGEEmeKKBYiboI0G1PxD/ZVzS3pwSRQ8zikZiAMehvdxY+8IYcXlTtPXJmbwgw2rRBB8+jhZLxPv/RzUUF85K7yWl0hKwv4XIk9vbQ77heo7YuN2RFU6OGzgDNnoHoPyetzooytGo6hxkULSK6QVNndLvKftUyf/gCJ3hbETusp6M9ntZsL2uSt45g6VlA//VouOo5fFo6WZ4aihR/dlNuoorIDJPnck1ra8NGEUvDm45CuzKhDVDSxHKMhRrMthCKaAY0x6m9sCjTvKyxwwjG9RQOMQfk1PRMJN6op+IRHiH3vKT1r0OL4Byp/GCj2iiMzSzMhSU4tB+UVlXkdAWO+cYsOUVAPduVPyxix4Dd09JX/sJ6X0A==;E0ot7jzVCzIE6EfY+HBDlg=="
 ---
 
