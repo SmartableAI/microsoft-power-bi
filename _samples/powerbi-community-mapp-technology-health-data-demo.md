@@ -1,6 +1,6 @@
 ---
 title: "Mapp Technology Health Data Demo"
-excerpt: "eyJrIjoiYWFiYmIxMzItMWI3NC00Y2IwLThhODUtYWJlZTgzZDk5MmY2IiwidCI6IjBlZjJiNjkwLWUwN2MtNDA3MS1iZjRjLWU5ZDI5MzdhNThjYiIsImMiOjF9"
+excerpt: "The data is derived from https://www.kaggle.com/c/hhp with fake dates of service and fake names generated."
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Mapp-Technology-Health-Data-Demo/m-p/419326
 type: download
 publishedDateTime: 2018-05-16T23:32:00Z

@@ -5,6 +5,8 @@ originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Rutas-Entrega
 type: download
 publishedDateTime: 2018-06-04T11:09:00Z
 heat: 50
+removed: true
+published: false
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjcxOWQzY2EtY2VkMy00NDU4LWFhMDUtMjliMjBlYzEwZGI5IiwidCI6ImYyMmFlZDcyLTc1YmMtNDI2YS1hOGQzLTFiYTgyNmY0ODI4MSIsImMiOjR9\"></iframe>"
 

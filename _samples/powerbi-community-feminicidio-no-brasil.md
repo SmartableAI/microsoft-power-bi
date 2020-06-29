@@ -4,6 +4,8 @@ excerpt: "Baseado nas pesquisas: https://artigo19.org/wp-content/blogs.dir/24/fi
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Feminic%C3%ADdio-no-Brasil/m-p/683885
 type: download
 publishedDateTime: 2019-05-04T18:12:00Z
+removed: true
+published: false
 heat: 133
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjBkYjdmOTgtNDcxNC00ZDFjLWI0MTgtZjA4YjI2NTQzNzQyIiwidCI6IjZlNjhlNmE2LTRkNmItNDUwNS05NjIyLWZkZGFmOGNmYzc1NSIsImMiOjR9\"></iframe>"

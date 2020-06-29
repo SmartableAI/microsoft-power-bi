@@ -5,6 +5,8 @@ originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Sarnia-Sting-
 type: download
 publishedDateTime: 2019-07-14T12:25:00Z
 heat: 50
+removed: true
+published: false
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNzYyNjRjNjAtYTViYy00NTY3LThhYTItYWY2ZmE3ZWNmOTAxIiwidCI6ImZmOWUwODE4LWViZDQtNGI4OS1hYzczLWU1NmZhNmYyNTcyNSJ9\"></iframe>"
 
