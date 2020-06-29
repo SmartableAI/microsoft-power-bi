@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Optimize a model for performance in Power BI "
 
-secured: "CM0L+h66+QCdontzZ7JzHeVHEBNtFJBgCoC70reEyJYDcS2QjWF/Sze3zIeW/UeJPpmTIivT5OLIytS/XbUTOHZiSVjVNGRJ+PJc/SmhHzhFnvPMPWRiFD8f3IfKltRCVRHRq/D1cWO/+3s38w26FKFUi5opuUWo57eK6Zmww4I1D8Wd5nLJkyVgtwPZU8pxteB2wkye3EMMZ7FU2AZmFAytxhEtAX8q7ca95PKqbRPvOMWKAsygbEHufbpuz/3EncUxErptfn0xZaS9Lj/9pDqOCbg0H8+LsJe9zV4porUETnwG5Tp1eiHqO09CAe4Mt7GxB1/1H4w46XMYEplpSd+uXmdi1XBI6fnDKZ2/VqlMDuh6xIq7bJzrnIaJQkWTg1vKCRwUysKyfF+NaYhD2Q==;+Hi6JO4pw4Qnq7nVS1wqPA=="
+secured: "9l+V8E8JwLSstvvzk91YxzXqCotTVdwC7RCz2rYReZG7gMA5sLWlcdFfKVH/oRrt+O7au+ad22gsWYz888MMpbfTS8TbSrlYOG7AruhhNppUdpVzvv2aJ7xxlMfU18Hz4WMrjs9LNYbSZGD6OqDrnhYnfEs65N8HMnBn81tWPfJ+rYnjtdFfLQoljNgoXg4yUleDWWk8dp5MqmUTfdkS/FjNnGnFXMEzh6vkWvvWCA1tw6JiOjLGYRV3u+bUoBj9aEhaRMTI3GINo2srsHGKZutWQj9+b3WBtv+AhmQxIX9Nh+gAsEeSLYifxzi+oAXDHgUVIrgpDroFQ0CiUQHv61sVw5T/qWkjMm1wPTQque6eDCOgemWVw2dahYenP/EbT8OTvDsOBA7AJQ9x5so+/w==;QdtdthEP/GbdHRR/qVHK1w=="
 ---
 
