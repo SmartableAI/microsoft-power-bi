@@ -258,4 +258,4 @@ exclude:
   - .sass-cache
 
 remote_theme: SmartableAI/build
-incremental: true
+incremental: false
