@@ -19,6 +19,7 @@ provider:
 
 topics:
   - Power BI
+  - Power BI Service
 
 images:
   - url: "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png"

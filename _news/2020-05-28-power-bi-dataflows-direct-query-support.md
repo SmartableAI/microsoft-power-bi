@@ -19,6 +19,8 @@ provider:
 
 topics:
   - Power BI
+  - Power Query
+  - Dataflows
 
 images:
   - url: "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png"

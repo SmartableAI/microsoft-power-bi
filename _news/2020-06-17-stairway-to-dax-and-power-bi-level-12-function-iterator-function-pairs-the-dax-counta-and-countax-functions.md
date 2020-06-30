@@ -15,6 +15,7 @@ provider:
 
 topics:
   - Power BI
+  - DAX
 
 images:
   - url: "https://www.sqlservercentral.com/wp-content/uploads/legacy/fe5ef968727133c0249391a48f9273d1a5e8d8ff/33775.png"

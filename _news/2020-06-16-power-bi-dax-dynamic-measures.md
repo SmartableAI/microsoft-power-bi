@@ -15,6 +15,7 @@ provider:
 
 topics:
   - Power BI
+  - DAX
 
 images:
   - url: "https://dataonwheels.files.wordpress.com/2020/06/image.png?w=485"

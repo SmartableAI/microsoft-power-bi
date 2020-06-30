@@ -1,0 +1,9 @@
+taxonomy: topic
+_id: dataflows
+name: Dataflows
+parent: Power BI
+keywords:
+  - dataflows
+services:
+  learning: https://smartableai.github.io/microsoft-power-bi/api/learning/dataflows/
+  news: https://smartableai.github.io/microsoft-power-bi/api/news/dataflows/

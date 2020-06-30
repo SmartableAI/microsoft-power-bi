@@ -5,5 +5,5 @@ parent: Power BI
 keywords:
   - dax
 services:
-  news: https://smartableai.github.io/microsoft-power-bi/api/news/dax/
   learning: https://smartableai.github.io/microsoft-power-bi/api/learning/dax/
+  news: https://smartableai.github.io/microsoft-power-bi/api/news/dax/

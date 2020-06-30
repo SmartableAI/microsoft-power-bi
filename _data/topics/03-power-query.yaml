@@ -5,5 +5,4 @@ parent: Power BI
 keywords:
   - power query
 services:
-  news: https://smartableai.github.io/microsoft-power-bi/api/news/power-query/
   learning: https://smartableai.github.io/microsoft-power-bi/api/learning/power-query/

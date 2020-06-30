@@ -4,8 +4,8 @@ name: Power BI
 keywords:
   - power bi
 services:
-  news: https://smartableai.github.io/microsoft-power-bi/api/news/
   learning: https://smartableai.github.io/microsoft-power-bi/api/learning/
+  news: https://smartableai.github.io/microsoft-power-bi/api/news/
   samples: https://smartableai.github.io/microsoft-power-bi/api/samples/
   people: https://smartableai.github.io/microsoft-power-bi/api/people/
   events: https://smartableai.github.io/microsoft-power-bi/api/events/
