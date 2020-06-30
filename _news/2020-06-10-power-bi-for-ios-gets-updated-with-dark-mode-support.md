@@ -8,7 +8,7 @@ ampWebUrl: "https://www.neowin.net/amp/power-bi-for-ios-gets-updated-with-dark-m
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/power-bi-for-ios-gets-updated-with-dark-mode-support/"
 type: article
 quality: 97
-heat: 98
+heat: 97
 published: true
 
 provider:
