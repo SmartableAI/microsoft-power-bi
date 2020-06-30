@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT10M52S
 publishedDateTime: 2017-09-13T15:10:24Z
-heat: 55
+heat: 59
 
 provider:
   name: Guy in a Cube
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Parameters and Templates with Power BI Desktop"
 
-secured: "j98m5tyubzBGRcuS4lvbFZCNH576Cu/Q+CPCDsEb6Feg1M9H8Tb2solSIBQinvHVqXQ/yYm0+L86ubmgZ/4HFsRKJ6bKI01I/d/yuJgj+/F7wuGssg3UFpP+xRPfhqWIYDupgdBX1L1EYFDjTTdBNzdD5mcx/0eOM5Opdpz/FN/e9gUHBMAiW7AG5B3AJqGecAGzhzrz7fNnNEJI8jQs5H7tOvq9E7roDyYWF5gw7RDqzE0A4Wvy/eDC9N9JpwCAKQQWRH/2A89vVlGPHMS7IgBIsmfmwBnrPAzlD6bxxc8wcj8hk1ehwWIcW6J+0JZbLjQv2hoM5ZI0IaSGX8ms1nPX+Vawtk2av3RKvKlVQaNcIxpb8R0cmVtVYxSnrvbhAqeCq4he/HV9lhzbz62OYQ==;rSIF338MVqtYMuwN8AQf8A=="
+secured: "XsDjsij4PXL3XUdJhpFMFjNP52Q+1J/38nPDs6K8jhVd3fREM1d0DwmQ+MpnmisT+vVcDgrw5vgkiTAb3CvN//s8M4K/457PE3jQU35DxijFIiXlU3M9+khc44hQMOGUFfM7MR69Hi2OrdvQ6XIrhTaewxiGkbAXbQhbLXbvzVTkW51HNs1sOXeJIa4X4GN092AxkRGbpXZeomyd0dM2CSSWL0gYbWkQ7s3TKHBxjzUiPiuc4pLcPIWg7psHCANQfhNT/d4OaKkojkW7Q4xfmpq4BCbkH8x7vifnIZA4B4qSILlz40BpuyzG4kI0V/nW6bDA3+AF1+rjysCCgTZ6Vz44Y7AMg1swYGT+8soHPSh/HXbHwC5kcLeiZuRl4Hc4EB4DagwMzoOP0ZxX8QMhjQ==;Hpd7XjTtmU6EkQzpoONaBw=="
 ---
 

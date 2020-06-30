@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT11M6S
 publishedDateTime: 2018-01-10T17:41:50Z
-heat: 50
+heat: 51
 
 provider:
   name: Guy in a Cube
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Download and Deploy a K12 Power BI Solution for schools"
 
-secured: "sw6HSUHc4eeICdem/eAk2W9mTTwLthegh+gtkr0uEm6DFH7as/nX8oAYKAoHXR/ZoxYgm3Uc7ZNH6Hdl/ECLEYx6ieqAlC78aqDIrWh9TCadB7vcact44cVNhiXTlPYEr5E+l/KcjUo5UZ1fAwfkGsKERYcZnELJdoLGbYO7juWM8WkhUwX3uFNXI+fMGZ0ZK2/EAJIniaJqgJN/gpNMk7yZcUm0ogS9tGBPAvcRr9tvFOeOdEp8IXOG2qYa/mxGCAVQFuMA4Tcbux3carHddD0u5CBps0zQRxfZCDLvxsO+T1mRqG0Royp+9WLDAgFrHkaZGg1t16R5yZ5xVDHUq6p/lKv7rlVRsXpbVnSDphRcdro+AzkDk4R5cMH12i/I+i0noha5XnkC21WhB8xBlw==;MHnJATq+jyKOAbi9jAO1tg=="
+secured: "KsRMA1DnbGxrQI6EC9zKHRQdwYZPasuasvdU9bcKoLtllwLwoWqhLJt62wXjzO6D18UMT7cJ9J24y5Rqwj9a32HdhTASIN95avvu8uf3GP8dTS0cddOOjouMOJ5vuVQy06zZAZ2M3dpJdLc11UTGGUMrzNQnRlkbl/88tSQtu2jmtkkQU9dzkOs/QU82m6zZ59dv72trYJ64GyjNehH1CvIs/hnr9RWaUSd6JXOmuhb79jbqKkyclDWed8m0el+sVptmEihRnUK70QzjdfiW8Na6+JcSXsJfowmg391PdRezVW8ZD0DZfXYbrlQYK8PJpJJqeiCgICTR26slthf9drWs6hD08zSwgJ2dLfrEuyMkRJIhT12fTjmQ8fF2Ne9M4tFx2IUX6TTzMqUX3c1W3Q==;7S0ipXDRn7KCxYhEg42MZQ=="
 ---
 
