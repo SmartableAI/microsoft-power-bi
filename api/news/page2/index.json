@@ -467,7 +467,7 @@
       "title": "Power BI Desktop Update - March 2020",
       "excerpt": "We're excited to be bringing you some top community asks this month, including multi-column sort and dual axis line chart! We're also releasing new button actions, a new DAX function, and improvements to the decomposition tree. And, of course, there are new visuals on AppSource and new template apps",
       "webUrl": "https://youtube.com/watch?v=DMjvJGGB_LQ",
-      "heat": 154,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -506,7 +506,8 @@
       ],
       "topics": [
         "Power BI",
-        "Power BI Desktop"
+        "Power BI Desktop",
+        "DAX"
       ]
     },
     {
@@ -514,7 +515,7 @@
       "title": "Power BI Desktop Update - February 2020",
       "excerpt": "We are super excited for our update this month! We are releasing two of our top community requests: incremental refresh for Power BI Pro and hierarchical slicer. Additionally, we’ve added some improvements to the new ribbon and a couple new DAX functions. Since our last release, there have been several",
       "webUrl": "https://youtube.com/watch?v=TN61JvbUAxk",
-      "heat": 154,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -553,7 +554,8 @@
       ],
       "topics": [
         "Power BI",
-        "Power BI Desktop"
+        "Power BI Desktop",
+        "DAX"
       ]
     },
     {

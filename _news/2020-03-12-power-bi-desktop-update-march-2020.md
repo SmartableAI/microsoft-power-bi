@@ -5,8 +5,8 @@ excerpt: "We're excited to be bringing you some top community asks this month, i
 publishedDateTime: 2020-03-12T15:13:54Z
 webUrl: "https://youtube.com/watch?v=DMjvJGGB_LQ"
 type: video
-quality: 154
-heat: 154
+quality: 156
+heat: 156
 published: true
 
 provider:

@@ -5,8 +5,8 @@ excerpt: "The easiest way to do this is to go into the Power Query editor and us
 publishedDateTime: 2020-06-16T00:00:00Z
 webUrl: "https://www.sqlservercentral.com/blogs/power-bi-dax-dynamic-measures"
 type: article
-quality: 37
-heat: 37
+quality: 54
+heat: 54
 published: false
 
 provider:

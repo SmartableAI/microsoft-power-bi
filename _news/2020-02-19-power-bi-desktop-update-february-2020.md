@@ -5,8 +5,8 @@ excerpt: "We are super excited for our update this month! We are releasing two o
 publishedDateTime: 2020-02-19T19:09:37Z
 webUrl: "https://youtube.com/watch?v=TN61JvbUAxk"
 type: video
-quality: 154
-heat: 154
+quality: 156
+heat: 156
 published: true
 
 provider:

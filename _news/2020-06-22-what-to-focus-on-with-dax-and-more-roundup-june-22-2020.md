@@ -5,8 +5,8 @@ excerpt: "Thanks for watching this week's Power BI news roundup!  Last weeks rou
 publishedDateTime: 2020-06-22T15:00:25Z
 webUrl: "https://youtube.com/watch?v=YvSuCayng30"
 type: video
-quality: 122
-heat: 124
+quality: 139
+heat: 141
 published: true
 
 provider:
