@@ -14,7 +14,6 @@ provider:
 
 items:
   - videos/guy-in-a-cube-expand-lists-in-power-bi-also-a-look-at-m-syntax
-  - videos/guy-in-a-cube-row-level-security-in-power-bi-revisited
   - videos/guy-in-a-cube-tooltips-tooltips-tooltips-in-power-bi
   - videos/guy-in-a-cube-fixing-time-calculations-in-power-bi
   - videos/guy-in-a-cube-report-level-measures-with-power-bi-live-connections
