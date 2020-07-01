@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT11M4S
 publishedDateTime: 2019-08-11T11:58:15Z
-heat: 54
+heat: 53
 
 provider:
   name: Guy in a Cube
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "The new Power BI App Workspace experience"
 
-secured: "vIHi7/3V2LYdznVes7c+kZR5v6AIrt6LcIhIeBToEykPn72VIQnzMtwhx23o3xRVmK6mUwMbUraLOGZ3lEPHK+l1FuWnmppWAP5A2YPzhhmJ3W2LAwCk4Xo48Fo9pky1YHoUDN31wbT7Svxq0gQ+8T8ILW+z9QiQp+LTBeOj0sq9m0vLosck9hkHDH0hLYZVosYaiHVDIub3iNzYY6PeJmIUoCYGCTHJIVd5kdZd4p7h/NFHc9dxJIc4ot9XsodIcmm8ddMXwdBROLqwVbgJK0c4z7EMNJWsv2ch3Mu1kJ4LuI6ASo/gpQ8VTzdqeTofiP0mGFSjMmKNgU3E24WUFWKngRlkQoLiyKu7kUKg7/vuVKnA00Tki1fgM3ykxHjGuY/0hw+KYuX1H6Lf5vONPQ==;qcU0RvH4ozHUAtO3PzofpQ=="
+secured: "2PLHyz3KjQ2L4uKFo9cs8M3bBDdBEjWb5RNZIqTBwqX7Etbvg3p71zFFuNxs8u2kX5GEkDH16KeruBIHVeTpB6Dk6fIHEqAg/V9/Y7iQBOIaFHEbZz6ItqXp+pbw68TLXH6u0vsXh/GexYb2R5GS40w9UKRZLFZwm7Qv4+kjjQ24oRmLbpodxhP14+8xFgNpWfXhWKVt0gYiJYModN/SZn/RHOVxF4vhpZ3QhSwqTxl5DvtKjs/tBEMIYlkDCd5+ZmHzRq2mvvJF1vvgWbmZM+7v0QN5QWDCajI8if4yjGchq96X51iCWku/5DbcWAm3VfZZUqLJ7MFumDJC8fvqeEHZRNSjvNfCQTLI7MzVY6Nk0gSq7YZFTlpAx8K0hk7iu1iQ/YNzrmbwPM+zMYh0pw==;iGQj5h4XU/s5JFtIo5vujQ=="
 ---
 
