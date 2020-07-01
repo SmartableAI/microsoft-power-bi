@@ -8,7 +8,7 @@ ampWebUrl: "https://www.neowin.net/amp/save-95-off-the-cost-of-this-data-analysi
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/save-95-off-the-cost-of-this-data-analysis-with-excel--power-bi-bundle/"
 type: article
 quality: 96
-heat: 96
+heat: 97
 published: true
 
 provider:
