@@ -4,7 +4,7 @@ excerpt: "Created for #MakeoverMonday 2019 Week 48. Includes my first DAX measur
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/The-Squirrels-of-New-York/m-p/891071
 type: download
 publishedDateTime: 2020-01-06T16:21:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiY2RhZTZiZTEtZTdlYS00OTgwLTliNTgtYTBjYmZmYTE2NzVhIiwidCI6ImUxNzc4MGM2LTczMDgtNDc3YS1iNzY3LWZhNTY5ODI0NWUyYSJ9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 468
     isCached: true
 
-secured: "n6XEUTiUbTHcWbrjGIqfKKNM5zIUG863oTaWpBBrH36tLhvNvtc2HmQLY8AWyheNur1NcqgiSJIDDTGD4Wb2XeGMk/qAORGQNiJIPj68vrbBT9z/uemfBlhaE3bcFQfNXOlE6AxixhJblq7UJPSWk+3LBxThI6wScfQoriauZ2zEy1NhtHN6g+IOHl6Odoj/yZ57gF9unMA6+fZDmS+mTe8VFiPsLL6Oq4QPAf+rmf9c7TKlahEaqXxo6l80Lt2TdA3QGGyZZaLexLYL0cCxlp+y+6ToDgNf0h5ShMdU4ANqkm/BTAuoABPBIhxNqEiyCA6enZ7TAd1sN1Bm72JOxGm6SD9TIkuPlILKAuWsu6rl/TK6Rd4sXYHw2VM2xZGi;KO3c5Jcr+NAVZBrUZ/w6oQ=="
+secured: "OYajx7G5Un1LSlJ1aku9CtolhIgcPbrsgBUyLH5FaQdqntWAr/aHa/ilvTPBGKgkFxW0UUAxwRlJpVZj/nqZxcmXcMBd9/xBvdQ9pXs+QDtKuLx7NQb+2IWpCLxtvhqZra51nL9E4eQ9c7RkuoHfjU7LpY0orQRycTv3LDV5Y8aULVBfTIB8S/9hy7zH4eRdG/7xbGBRMITGVpgexc4JVlk3XxvrZFaFlgLkAre0DSF9x46DHJRF1cyD/Jxlox0TsSe1Z11z3Ju5eafGdPiiYn/2KQodOOIIb+Ub9RZdHlb0ar1afQmMUmoxT1Yx3yvd0/0iFE7rr8/rqEXtdQLDbewPNB1dQ2R7di9tKarWjLlEGS514wEr5pUBuWTtddNXk+H+S2bDdRBCzMhGos9Wxg==;TtReBcx7aMsu+7Q6sXgMcw=="
 ---
 

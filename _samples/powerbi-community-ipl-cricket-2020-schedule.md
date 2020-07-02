@@ -4,7 +4,7 @@ excerpt: "IPL 2020 CRICKET SCHEDULE AND THE TEAM SQUADS"
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/IPL-CRICKET-2020-SCHEDULE/m-p/957136
 type: download
 publishedDateTime: 2020-03-03T07:25:00Z
-heat: 52
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMTk4YThjNGYtNWQ3My00YzdkLWIzZDEtYmFjNDdkMGM1ZWVjIiwidCI6IjkzZjMzNTcxLTU1MGYtNDNjZi1iMDlmLWNkMzMxMzM4ZDA4NiIsImMiOjZ9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 100
     isCached: true
 
-secured: "c3Wzs6ALOBrldxfq3Lz3MD3dar1z6jDmV1OKGmhtQLarvwBDf+9qvDgVPaWq4VbNlj3OlBu9kDx/80CVZfZIF4qZOVILQjRCUWlMPocwyQ0bcufwJFAJAB4fx3M6SmO/mKHhWl83UVf9zd+YDFU+Rexl2+asejVimTZsTuRyPanGBQ0qUqS7jEOho6ilDYCS5Lq/a/efqGGExVjIQ3Dag/epZLDISWB7JT/NQvAfGk7Qiwf7ohHqnAGTxfPi5I1uE5ZWuOfyOES17KPcKSxpod+HljMV7xha7DO1yK0mbv6JvDq8tgBYVtKZa3QiwcCSigcp6MfZ/h3tdB3T3g/Zo7kk4X/Tr8hwWyIwpDDbxji+UM81MSlfjjMDU8C8N6IE;ruBds4E6d5xsBxc9G4N2YA=="
+secured: "kR1CrgF/ZDJQQlO3HW1EWtpsaIz+tswsn0Fx/kt1Gk8yU2ipOGUk57znzueSyt+r6brP3CvMTvUHydUwDeDj/8R4BQVcol/EnX4lJjHWjjCV4uEE34iC9GVBlF3djNmbdKabvqF3taejqamH1W33MhYrQlRw0UvYRikgXGdWZ6nBL8c1vtLmE7SzSkk8RsMZzwicq37SVqPZBHL9qllbl2Bb3QDWm5A3SCVg7hKhazlbe66KZcceKmbkD+H9ieUehwbs1K382+6LVBZsZH15A2mwnDVgZCAYWPfp1k9ibqS9Hjwe/1suOItgnwRy/WoUMrCSNf6xsaH3k20m85kiX4YpbmHvUFgs1nROgU7k5NGtbBhpYsbb4o0UkpWSiz4LGRhCgPhaTVjJLPOMz+astw==;BYAJlC2QU8IXIAfbDWJsPA=="
 ---
 

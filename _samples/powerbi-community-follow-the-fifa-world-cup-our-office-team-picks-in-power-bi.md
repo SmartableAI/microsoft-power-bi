@@ -4,7 +4,7 @@ excerpt: "The world cup is on and for this FIFA world cup 2018 in Russia !!! for
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Follow-the-FIFA-World-Cup-amp-our-Office-team-picks-in-Power-BI/m-p/442023
 type: download
 publishedDateTime: 2018-06-18T04:47:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOTA3MGRkODAtYzNiZC00YzA4LTgzODctYzM5NTQyMmFjNGVhIiwidCI6IjAwZmQyNTZjLTcyMzUtNDhlNC04MTBjLTJiMzQ0NTY4NjBhYiIsImMiOjh9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 831
     isCached: true
 
-secured: "JJ14f5ek/SefoV7xfiuu/fhtJ/ieC3KP9+Q1TL9IOM4kGkzr7SJzBmNV0U5c19H4oo63FI5TNi5DZF+8+zK3Fl4++pdSrfak27wNN6TYdcrJG9kbULAv5jy1NRIMY7naDNKXZ6BcTmamM/xVxDyjyaTmhKcR9l4huUQaO2HY9NMay5cTWIjwrYAJgX7ta6Kcpgsyw+CvgC0ShmR7k/edWRZ6puht4lzniynf+tk5eWzY+TZ3v7nuNAYPNLPwc9iTKnHO7Fq8Nww+9v2Q5GSOS9V6DIVB+/6FqOEvkwb11H+PJx3RQaf6M4plL1isbGvsfcVUStQv6viwYg2BWCTtK45rmZBS5kPEW4vFSaKnfglnt3mlvmVUeCZn7pavc9Qs;wVWbBs18KWVmbOjYBtE/5w=="
+secured: "dcPsgl5uiHNdRPD+wVy7uDSrJ/A1/Jgv6LFZzLCgyEp2md/BvFy746ONhBk6yhgDSJuKGaA9yY5wWe0bWx5ACd09uvsgjXksTQyQefWUpo0aCS1L5OxMbOGrfSfctxGVADuZWTZY3cN0eDfbP394IlrlMmVYkc26HrvhiZebqbHPLY3n9R4MKkLHmTYX+3+A61k4XF8fUsi8vJO+DN9sBL8x3SlUFojHmWmuwNEwocZwWN2xyCDKkfcJYGibkThNxehZHIKK8nkEK1+CKzrKBjBXXI9tvDpubuZqCHV1nhVxYeD5TpBTUeTXCfPDoEsoIQQ/MdzJt5QBmWvr8A2xW7XkLMwv5ke6Nse+tpRu3vtsjr4LCxYQ1ldoy0WS83aJx7JszYgjrr62SQBxKQzOizm7lE4UUjMMTOqZOScQJHY=;53aOJapxLS2GndWVjLghjQ=="
 ---
 

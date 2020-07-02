@@ -4,7 +4,7 @@ excerpt: "Inspired by the British Grand Prix results posted by F1Fanatic.co.uk t
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Lewis-Hamilton-British-Grand-Prix-Qualifying/m-p/48913
 type: download
 publishedDateTime: 2016-07-09T10:23:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYTQwYzRlNTktNzQ2MS00NjJjLTlkZTQtM2Y1MDU5NThmNDQxIiwidCI6IjNlN2ZjNjM1LTkxOTAtNDFmMC04MDZiLWI4OWIwZmJkNzU5ZSIsImMiOjF9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 427
     isCached: true
 
-secured: "guYz/XZaTEZS6ZapjyuR8XMSo2g+dZIzzXbhl/IEHvwHxEFLg2plkU6L4RPGkKQS/NCazqMZcLIh+tF//IFyS4ehARSL1VmsxLaLPGvkiDkgintLuQ+LOPpvZCqRdqV8AqqMpJ6uoZAqPUbnE48tyPDYnKw5HCF7w4OQsjZszNKemtEnPW/0SuXasW2T6vXQAORoXU+FWOW9cAiIBbV/F1htBqEKMz4FMMskj2ZwxnTa7RgeF3iVSdIfEOdRKcSHu0nq25Jk+WC2HLO4dbHzm6pqjIoSuCWvg90TXiWPhoWnj8ufgiBacEeBJAop9UxJCOjdKKxGH0RisEm49BT1bUKxkhLFqM1dS/fvMDf/YgUoEiHnOw7CnBDrh+2j2+GE;Pgk34Ja6p5fKS3aSBGssMQ=="
+secured: "g0YeHGEpNRDd+2WTSs0Ov2s4bC7yjZgPLcVz8O582QSfR8RjvobWW/e64Hv/Qe4ZFL3mSkkVWo0xc61z2KNjTYOgDLVVejpbghjhp2uhqQF+omeAB3pZbG+pC51f9W/eJlUYuLLy76ZNPIdiupSJe3OXgCNW4kvuQ9COnwqoe6lGPqRkXCZJjdntIJRUA/CTDk5VA400IgwlM7glizqOLNuwFRGjO+ZTefQQOkCy6z9Uwp/H4tKbnXcc8M/dcvIGtdHF6BiEKrD6R21Lo4koA5MhVqOCV9TaX8kID7F2nvYEDPTZdhyoYNauM1+4yH+24iJyt35KEMYx6Kr/kw3BIJAI3XMdFvpnhNtcKuO1sp8+3uXPxDTwXAqqzZ6p1l2NI1j90Ziyjo13Ysy0I3X9h1AWxww80iAg/iHTpmCB7sA=;xKrz5AhBW66sPSDQHK97cA=="
 ---
 

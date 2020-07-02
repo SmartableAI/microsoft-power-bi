@@ -4,7 +4,7 @@ excerpt: "As a data challenge for Online Volunteers , Gold Ehigiator created a r
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Gender-Data-Challenge-Gold-Ehigiator/m-p/1081672
 type: download
 publishedDateTime: 2020-05-08T09:29:00Z
-heat: 54
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiODJlMWI0ZjUtMGY0Yy00Yjg5LWI1OGUtY2RjMjdhMzg3OTM1IiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 1192
     isCached: true
 
-secured: "GO+6MpD6C4J7xHLGiGwddQlmI1dCyakMiubYsuw3WG9SR2YHdG+nsrHZNMaHxxm+z8tXuCpuyYN6xKXq4IVDTxPTLu/yazJ963luVrR0FsrpvcmTR1FlZNmm6b9fygeiomPKVXUIg9bjVBeleQLdoQQ6PQXszd/HVwp2gBdH5h3k4gXsbJWv7KuDXbrCPUfJSTsCEjpIyWoR9QRpdGCwcR2Nv2TulgXoxmX5Suq940U0HL2/h0kIx/6K5zP6K8tnLrkx1HWsf3D2St/i4wQw4Px2TqkSWjzPmeYulUYhyesjC0J+h2y7yKWxStYiw891dHKmdtUbWqSa617j92Nj5h7nhCPmc/DKbd2lIZ25qI95WpCV19N/p8bZLuSftQp5;VSIUKH9yeOMCsvpKuzuWIA=="
+secured: "vqoh8uhdIOJ08R/tP+JUY9jXLIDdLRfTCeUahavmxsU/JHw0c25m49I6z1H1guQerHf6eVIV2EuIwDcwvTcUsA2zDCWaajUCZp03v+/KeFoPyxoChNrrqOzyjpW8yI1S3B4r2TR/XBX0Ni2isuwmLBNV1x398TjZiZ4D6i8SPapVeqRwTgwxzpzKXlBoq6h36ZsILWq96sEywNWTtygaj6AKV4JPSwvc7Ohxe/FsZd+/BwJ+NY9VKimksbQ4pJf3m352TM3pK1xi5YtBgud6VcaPbaQvAowlBVJC29OOxKYYAqyHRl3mniS5BaTLg4vSjbL/TiVnI6y59XQ54nAKY0GLGb4JqKZdGpHfVqFtzrEXXvrgz+iPoepXkbAvG3Oy2oomBxrmvh8hwEo7WEwFYg==;vg54hiZ78wrrGSJhgXgciA=="
 ---
 

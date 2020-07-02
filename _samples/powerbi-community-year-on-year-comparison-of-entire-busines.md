@@ -4,7 +4,7 @@ excerpt: "Hi Folks This is a Practice file for YoY Comparison of YoY Performance
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Year-on-Year-Comparison-of-Entire-busines/m-p/860256
 type: download
 publishedDateTime: 2019-11-28T20:21:00Z
-heat: 56
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMzc3NTg1MzktNDRhMS00ZDM3LThhYzMtNjRmMzI0YjBjMzMwIiwidCI6ImUzYWQwNzczLTQ5ZTktNDU4OS1hN2RjLTcwMTllNjBjMWVjMyJ9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 679
     isCached: true
 
-secured: "cWHj5jkENT75WT1779h6JPLo2OEjlY358CfQ3IoIpfXX4SH7oMf7WsKzfjGkhSV0FokZuWcza2zGRX9gLNSXFMmdT58eAWglaikPCOdoEEBZ8RVjteYOzdbxkCsoRl7TLUy86ztUUhKHm7gxTthqhMUvE8+X6VzjXxuoziteDBfJ1pGRHVX36ke8vkP1Ai3S0PYArdIHLY15FWnWWL7c+gm8FoN4/Mxz3trfDhqO8FZBKpNEwnUTLYD0OyVfdBZI5UONZgwJW0fHeKbSnHAi6Zrrbf/kPaS4E2PkCDlgTJY5itg5237vOuezAZC0b3zCHnAEVm+Lt5dblKlAgTAi8epweM1czdqZjnmMVVq8i7jol8Z7NTjmLpxdzOQ8lNp1;7ApLtSNVCSEjBQwpc8W01g=="
+secured: "RAbrUKaWIyjK33alFc8qYmGuOIjKc/V1lvzNFFlLEq2u51oA1XfBVCb6ygpOhPO/1BFzVsG9djFXRdUsqjjHOlR7AGjeuKaTN49B99mQyJ1Gb33uh1aBU9X4nV5hv1EYHmSd9Y5akxqa2jZd+/Ocyge6oacGEGxH0A6xgU1uNwx1BIzEPu4MRbXYPfCPUPxsSEGNWRc+5qcUP/bEeemCDLw6C/KjxQZNhucWLyA09G0I4qFHm9F6K8bfdAMRCOdQpEh5SjrPAEcgKf+EegzkO3HkAzsVJZR0zqBJH/pf3ZYU5ddWj5R5JYQJ6u28939MG3OC2202PRtAoVMkiuZ4x0CWKw/lwkGyBX7Japt9sQAN+Hha8EXmSS3Dh3o4qfbAKhuI3HqXIadVlAleCdiE1szKpJ9jLrpJKnnnbH3heAE=;diqtfgC+Q+7R84yPJhS5jg=="
 ---
 

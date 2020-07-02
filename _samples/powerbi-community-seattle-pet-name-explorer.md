@@ -4,7 +4,7 @@ excerpt: "The Seattle Pet Name Explorer is a fun way to search for popular and u
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Seattle-Pet-Name-Explorer/m-p/274940
 type: download
 publishedDateTime: 2017-10-10T12:36:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOGRjZDE5MWMtMWU2MC00ODMwLTk4ZjQtZmYxOTYyMWRhZDI2IiwidCI6IjdlY2M4YWEwLTgzMGUtNGQ4Ni1hZjc4LTgzYTNkY2MyNjIzOCIsImMiOjZ9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 738
     isCached: true
 
-secured: "/KRg/zQyhqWUuYnh6bg0uzs+ioAEaL9J+v7PGVA/fdJaj0bcbPgYEwsGCOALyjQaDRNYPH3CR5x9JOCc0GxgnOS6Nygl6d0cJ1jEQ/4yAnIG0XGNJYuTyaZ3bHCNLO9n+CN5VA7eH/RD2IvE6hXwmy0Avyz3g2RFpzh6DUOYgxvPs/KApRdcQF1FxuQAA9wiYktQRgvwEgTy9JPRhqBJNX5rkh0Rg8xxKbmE1/Vj5eRYQP0CCBb4BCHmkI+siY1A4EwjCRVNcepgtjgXQJnXI2agmDa/NlRaECrG88lBOqvfHqTv29+E0xOiECj5eu53PCnqt9rvkM3F8f84RiyzcFkum6ZY97YhK4ckdoce1U9lkQf+/2/we02fwGq/qZ/x;H5x3wyRvRzSL5XTmFegzHg=="
+secured: "WMEnX/7k2QKFhdQP0iayhJo7wjnDyXBoevmSoCJNvl3DC2EE6b0kdBEbCYK543DvfR3WbdNl/qWVUqJPApW/5jtsJFjDo43bGMHjSUTWw2kRlS6n+GGIDQZDnhX6f6ce/QLmMnwAZcKVSiXaHEfR4RBdehqkFZxzpTdVCUz8q88TNWetti1ASx4//KmBQrWpU9aRr9itiCVp1o2wq2KnBwOpBTzNDh6My9i5UWqD1XgPlD97MUwjsYn6O+5IuKBqKDgbWK9NnEX1V++mGhqE3/g/AXK0uQ7rzCkpaDUbnvDvssIjDHIc6GKX24iKJs5LqnVKYRQZVnUcbyqZDH84GsxzxCdwG1VtAIevAfVdUScrKRzeOdolDecy9SE9/tHYBL0ceH+jtJ7zZA2R2V5zFeeADgpt3E1+J+ezq8gH1A8=;ZXRsclsco29HW6AQS3/zQg=="
 ---
 

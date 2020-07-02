@@ -4,7 +4,7 @@ excerpt: "Can you predict your shoe size based on your height? This Power BI rep
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Back-to-School-Contest/m-p/785840
 type: download
 publishedDateTime: 2019-09-06T08:17:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNzYwNjVmMjgtZDRiYi00ZTRiLWFiYzMtNWEzNGU1ODVhZWM4IiwidCI6ImIxMTBlZGRmLTIzYWUtNDU3Yy1hNmYzLTczNGQ1OTJiMjg0NyIsImMiOjF9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 183
     isCached: true
 
-secured: "hpsDxQEOj6Ch7wRFrHZgprfotkoo/sG2Xh8jIqUAW2t8KOQfoSkO3P1Jj+cszRchcbu9KJrRCAO+Xrp3FJygfvYLlfwqyfJAmR04w0TTJpsd0p1bSYN/pa8pDLAXqmaZzkp3lP2saZtc+0Ewg4Nx6J9nbQA7xPQNFgfheCetbbJXi3V6JPpapCCtKG2xPwD+0nKrH1OOA05vPB2EkDNGn5ZV5dmZNFDdo3yztfLqL2LlikOon+nXgPUjoDAeUs3fSAMfJ1o85o5zRV0CPqIw3FJgUOAwwSHfLqGd5Xv9QRTYlgnEllhzclZ85ArIgJl9BJT7XVjQxfgbHEZ90psocpdts1pXWPxcJyH1VJaJCaoGwcjaLpgce7OkUzUkKKsC;cTXE+KdtJgYUDf4ehoi3rg=="
+secured: "DyOEMcNrZXBu1ULCN1n7844n2hmKd3+AqlfbVcBQGy+dC0hygkxW3gkyFXpBXmsY+lv0+Iuz0i9qXy5uko0+MAZKeEB40yHVVSpyQjsujTOikDFzdz1TFlPZnXUvP9C32rnSEMY02lqGp9TEP8bFFAYVyh9F/IOM3JsulMCyrOq3fNJGPxoxAwFd8QTB1EM3WXbGSDQywv26yZEo/fE5+orQgSkkPDuaQLz5lrUFVlb9+O4w3FyRR7bQ+n/LJUwNug5ibgnWhZ4Rl7oIJxY7HzAzxYRrDFm63zO5JaGN1nKKCpLTSvC2VFDL0F1m0Sn7rn5DfAPXh95TFguDHaE8wBHvbxopAI4opdqMvSqKjWECTIDQ1C7gzbN15kPqqOQZSK+74HB+4p+0cvx/MZ6/zg==;BCISFGCqQE3nGHmxsIPuQw=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "This report was created by Zach Renwick . It uses Microsoft Flow, a Tw
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Vancouver-Car-Sharing-Twitter-Sentiment/m-p/691075
 type: download
 publishedDateTime: 2019-05-14T13:15:00Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMWEyZGEzNGUtZDIzMS00YjgxLWEzMjYtMmMzM2FmNDQyNDE2IiwidCI6ImYyMzg3ZjRlLWNmYzQtNDFjNi05NWNlLWJiNDdhNzdkNWIwYiJ9\"></iframe>"
 
@@ -42,6 +42,6 @@ images:
     height: 1106
     isCached: true
 
-secured: "/KkykLiHzTTFBKwOIQAiEwTOytyFUH/wFoobSYYu19R5R7OZDGUSVmtNNkkqbpnDOHipVVcplm+B8n4RKBmFMkAFESi3FPsh4PWDDX0wxKgtm5Ee6NAeJZzypS1FezEmLgv5nXV6UwkInSNIF5kf4QyWL7VCQEiOUzF4Xk6OrugL5bpnJ2tqcWVEhUTJDq9ZaZEgXdOO43fATDyLGW/EhrQGHl+om5EcLOxnyMS23xnB23MrFHNl6ERkKQs3rteTvzfJAXK8B2owboo4wY0iFOc3OSmWs7HHjGXDfR3mlsgQRgmsEsL6PUUwc9npREGw/bjPs4HnZf6QgSj5upC9w5IhSzoiVUcrvN1Ih63tR1vUKB8iUN3qQAd2qUDbJWZt;ibWLNDjwv4LOs1DuJ30b2g=="
+secured: "NuE6q/4nwSv0q8x+h7VYoLueROig6ef/wIbOZ4YGjN4F1ZlYlys38UE2lAq4Y+ZuATeHXiDOK1uMx/YKanfZLJaZBkWXgoTLK+664BeDK6uBKwOuY6oR0EDhf7BI1P6RURqzvrcyo+iuvE8/k+K64XUb52eTrqoF1m8/JyXAGsdadpymNoGTGzH58HSkLjO1ZLfsQujA2t26xTNFVfFzbq/cagVMZ4YQB+7SMXaKD9ClmxJ/an5FAYbr/cI6cQgX2i3pQNAP54jiy7qI3tRRMhG1Xntxp4gVZ+0UfRuFvHKaK/GIc+Uvmnhjns9r4lMoIYdSuWSBsWMaEXYl2BRJL+Y2i4C907hxuLMJ8JvDGzPn+TyOD1iykTP/pRQI6mCmfACWNvhGtqR9oj+YvyFrqg==;Axd80TW5yVeL8tPcCCyKIg=="
 ---
 

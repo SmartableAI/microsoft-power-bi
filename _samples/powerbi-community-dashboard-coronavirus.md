@@ -4,7 +4,7 @@ excerpt: "La API https://api.covid19api.com/summary sirve información con la cu
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Dashboard-Coronavirus/m-p/1008256
 type: download
 publishedDateTime: 2020-04-04T11:14:00Z
-heat: 52
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMmUzMjNlMTQtNGZmNC00MzgwLThjYTQtNzQyZWEwNjJiY2Y0IiwidCI6IjUxOWYzOTM2LTYyZDQtNDc4MS05NDIyLTRlODMzMjc0ZjFkMyIsImMiOjR9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 803
     isCached: true
 
-secured: "bMDZNqKZFNtH0jFP5QpGS1ttPW+UCr0BRKkGm2ZzL/EQLLgoZW8ej2WnlbB1ND1GP8kLOLpsMn8L7QZEGqg+oyMbTlgCMtu8wjx5yQ55JU3TQpBls1NBR7FShlH5oXCtf5ZLr+nGoiVT+e/qgk7/p4ceNBrPF/iMQbIA2Dx2LUO6R/MJ2wVF8/OBMvUQU2Odt7jIAinpk1Ij4EXrTZ3401u7WLSctRpdiwgs4jUD4bB0sQ925QhJoqsqko4URNwR5FFsNxD0s3UU5qnK/mFi1icyrOhpza6nGAv6h+Wn2+vFxkispS8yLQxr6QehPHa8G/BV84uHBkmOWULLibtCgPa1yvea2HaWDXfqbzb20UZJaUNqmkeT8JkKM8qFAW/L;wC/LDyvJIXjw6bBZxvvu9g=="
+secured: "skSYWZADVBgcckfwYeuIyG2vfsGIFkPuvb2qqqFd+ilLuaYONXGRjufapuzkzxf+a5NDmESjLGMgdUwlSUQb0dk0w3gnYn+ArxWdxS8AQWlWNvfQSAxVljLiPFMyI7dYgtcvim36QIE/kKWNK9UJSqdKsZI7M+jtndCNYfhUhCJYT57ATIx7DEzIBI9HhEvXMdJGAu1ohMAvSVaS4AOze7hg5QCWZsLKuhq/Rltccf37KmhfQ5ECim8tltI5T0uGAo3PTfU70bCUWTd0006htdAvcAOAoR3iz1vd8y7BxrnOMnU9dEri7Yq72Ltc0jmpn6ZhkVQvUuTsubxCyIKAqJAw9hw6vd46hzJpXqgM1ZhFd0R023Ka/nB34zNgBEX89nTWUDKnyr7MVzB0khvX7w==;w76WA5/45TRpR+uldLyoNg=="
 ---
 

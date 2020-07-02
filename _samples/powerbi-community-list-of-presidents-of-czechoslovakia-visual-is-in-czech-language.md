@@ -4,7 +4,7 @@ excerpt: "The President of Czechoslovakia (Czech: Prezident Československa, Slo
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/List-of-presidents-of-Czechoslovakia-visual-is-in-czech-language/m-p/781303
 type: download
 publishedDateTime: 2019-09-02T03:02:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOWQ4ZDQwOTctNDMyYi00Mjg2LThhZjgtNWUyNWJhMTJlNjlhIiwidCI6IjMwZmQ2ZDAxLTk1NjYtNDMxMC1iMjI1LTE3ODRiZjExNjc1YyIsImMiOjh9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 897
     isCached: true
 
-secured: "r8NGUeErWv6p7AhyNIZci2dEOQwsKvgdS4kkRykzaMiU4gqH9sZ50hpajhbGaX2zYxHHv+HFgxniD7pLqhKjMZ4wZZZyfSqlhl4DgirBT5X31n64yGfMEHfyEGDLIvyxKs9cp9w4VaFjlZkYXjnx0oOjtGyb52KTNmUY5XFznxAGrLSqsdvR4pQk7o+ZTj8OWs551fXzteEtjXT9U6zvqQMNMklesTGnbH4SeinMUd0tQKcw7eOIrrPDPY21Qv/8I5rNr+zu18l02q6qkGMMFTtOLx6laiFLL0K1QQVFX01376aX6atBLvzw5LAPZpFRq/8B32pbGj7G+tlQEPyAnYOgQIZN7SWPDs+dLgEGt/YnXU3RbHsav2pUQR5XXJ+k;pZpjSSrVlt54HcJsthK+RA=="
+secured: "M1gA2Q6DzirL4Ht5EW/8XL30I67lgEM63wGUilai0199PvfAAhyGB2rj7NdZpebqF33J2nuUzCEhAIy+oXB9/U6Avc10R6hvDglwE5j+sX6BI9pe7II1H+4opZJKjfAUVM/gxXQHGerqdofdhkfZpH5wZ4N9MB/MXj2rL+IDr63rAJICp3ztRYCXz0D9sHDIeJjRS5ivhHnLCryympQzgQ3iQZcPX5VFW2a7c4y+xhBkSnKHvsbXzhvMXCazGMp2rquBSQ/k3/pQz/DIuHH3X23P0Z07jrwyYpihP383Mx3I+DoJswm/uNd7/shbQwOBqs/dOO2yeTFapO6Dtc2fyMTyQpdI8D1cw+x67YpZ/idc0dgb8ywUvP4MgrMAdHvB+lD/wIWuqKRp9qZmfQiC5A==;bGRmEU7U7qnbW13c5g8yJQ=="
 ---
 

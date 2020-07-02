@@ -4,7 +4,7 @@ excerpt: "First time creating a marginal histogram in PBI. I wrote about the pro
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/How-far-do-turkey-vultures-travel/m-p/343737
 type: download
 publishedDateTime: 2018-01-23T08:40:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMzU3OWQ3NTktOWU5My00ZDg5LWJiM2ItMWFlODZjYzVmNmQ0IiwidCI6ImNlZjk5OTUzLWM0OTYtNGE4MS1iMDYxLTNlYmU1ODRjY2ZjYyIsImMiOjh9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 1350
     isCached: true
 
-secured: "nFTQx2e18cJKAe7qzl8GKP78tl+WL7qU0daNISY0sEQnVXGPyFbKUaBCcHv4xB6+uCY/Mx+0eVFcy4H+dVkTky79p/OlVWC5JN/wqgYe7qsqqPMjpC8tRLXgjCzAN49mmFehPRdR9aH0siuiphutDyjvSXUJtnFh0d9ipq/zKvTac3kC+yBMu3FfnJc7LnpmiVzfb/RESxlPdrpoGks48j7WmXtFlM5ZopeMf4KgeUt7ONX9b2htg1q003SAjXInSE7oZzA0YOK56f+aqvACZWlVLIN4eIxAn+xN1JxAMK/JDR0+CleYR1N17PTeNB/GM8hh+P9wlTXBukaQc/oxcz6rA8GNo9SlEQZeY3CxnvyHPdc28HpyWTmN9U/j1IJX;M6JRMUuN57DFL3krHbNUQQ=="
+secured: "vz/AkL0JTbZJF9KN56a6vgeQTh3QWbi16stgBoJT8+3id6E1oz16EglmzTeKJxEyl3kg/WUF0712Laq+VT+y4qpMkoLzkMCRLFgQufOygC41qjAX/AQW47i10TbrlgwEE+H5a6rk4EpGyHYypHJvp0nQtm4gZRTLmEA05sZHgok/NWDTaHP8wgj9XY6H2l1TZon9tLM41gvDbbwlKNAoS4HeQnCWPN8Nzr3/+4C/YmjgV/TnPDx0PxZAZQ+qeHTj4rSesHdK4TYQXSovOsigT/KCWHxJ1bDNLHlvW7D7Xyv0x9ylHU5lYGB+Z73UXepAun/6RQtCdB2u6mUV+bXi5iJkrtXEpqk6XkALvbNAzAK565oVaFjgEfD/UJH/yzqSod3uLBeWquKXEDSWtnW/DQ==;HWZvdETFvU/Go6KZ/BfTCw=="
 ---
 

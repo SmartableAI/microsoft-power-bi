@@ -4,7 +4,7 @@ excerpt: "﻿ An analysis of the players that participated in the Wimbledon tour
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Analyzing-Wimbledon-Players/m-p/51132
 type: download
 publishedDateTime: 2016-07-19T01:19:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjgxMjc0YmQtMmMwZS00OWUxLTk3YzMtZTExMDBmZTc3NjVjIiwidCI6IjIxNGMwNTM2LTljNTctNDg1ZC05YTQ1LWZlMjFlYTYyZGExYiIsImMiOjN9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 438
     isCached: true
 
-secured: "InSDSpxPktcvEgC320Q43veJ1javswvP2OM5ZDofGw8fKHT62gFagBq2tmckWplkW4pllAfUtShvBp9ugik/25D1ClLbVGfTk2SFfZzecuPOMsyIUhLR5bP1TZzXh26Y14PL+PdtnrxV614hfsJ0y19JZwKn166OmBZcnhg4oXmK71e2RvMbSNGvqIIBccP/Tl/RS6C1y6VlmRqHt3TRu37n0uz02ZW0dnhKPwBJKSjU14u2JRXVqZjOmIrEgAhzVeIbjdfbQT1IgprUK74f40G8b/NUgDD/N+mZgxk1SAOPYy1ggDNG0IK1uUHmL9cmT74rOOkmpzt5uEH76x4Tlr649wcsabSMwtYQZR0kGN6B2CFd4fM9ifyqFgH6oWTc;zH7kdJcjFtQ6L/eM6JlmSw=="
+secured: "9ikeI3WpQdJQIgc5S/i11F14ngjduYmP5pHFdZ6vtFHU+sEtz90h36i9bA8OxNcRpz18W1BxuDJNxfDTtaAGrazDygtUY/kHT4P45Hi+Lh+loUdfY4HaZ/SLrHpT/9VdCvgwv7bM2bUizEs3EoN+M8zvnEbGfnNruFoXCJwvrIKuK3h2ifLKv1Rz4A980HgY5OU7qi1fCeUlR60dSaSEiU39KysktA/2S5oO7DMB4MgPCuPbbGyf+CXrCfAatrl+NQLSN7qWkJ46x8beaGG/zeu4Ps0RxT5ZleYyw8doUR9EJd8ENgydowFkQf8oBk5QrR8aFCAzp5imxvuPRgUyCRobZLf8Nwp0AYU/LZc5Xdruu0F1em1u3Yye6iVuP0Zoosfzqsm50iFq4EasKZ8Rm7grl3dStMGIEtn6gIdqi9g=;5OKj7yVFxbRXtiHMagkPzw=="
 ---
 

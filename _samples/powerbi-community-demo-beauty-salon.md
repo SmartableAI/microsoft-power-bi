@@ -4,7 +4,7 @@ excerpt: "Demo para el Control de un Salon de Belleza"
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Demo-Beauty-Salon/m-p/425994
 type: download
 publishedDateTime: 2018-05-26T17:47:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjY2ZTkyZjItY2U3ZC00MzI5LWIyZGMtN2U5MjBkZWFhOTNjIiwidCI6ImYyMmFlZDcyLTc1YmMtNDI2YS1hOGQzLTFiYTgyNmY0ODI4MSIsImMiOjR9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 751
     isCached: true
 
-secured: "6lu+gSMDdGX6lPYnfNwdrCqio/zjUP4ziEOBhHK5phVFWXmSGcFeI7zsNB+ZiYfZsb8qowmVv2L4nCH9p/nRL+YCZu4irIIXGeFxGLxw5q5FIcFuqGiBn2SSHoP4kt/bqOcO02pxuIiHScgBNEBcVpnR0Xf1YYcIZJdLaQBXD/c3FbBuPquZOly0yZr9fphKV9ozNbMtyw7aQvnzQJQZrjvx0KKUHyaQZgcjgCTjS5/aJXSIrG6ds8+V328V8DsifRZtJki/zZp4p1csqta49hXtiG8eWlEa6d+a0KLbT+sJ29XIcwSg9BbAq1z1MpKaqn7Ren8lu5VKHUz+IsAQSMpQ9aYBdpLMPiwQXoPjNQVIz8+Pm6L8b4SRDHPywGTf;wke27iOolWr2c0xcE3eLvg=="
+secured: "FC3sy1dSsDPDumMP2VJzcQo4E7j/6kg36Zxpxlce2aB41qbkby5SvJp2Z1V8nLgqN6DmgZhqG3Qvp7Rf/mY4pbkCmipoUXbJbkjNrlGiDINmlj2Io9Vg1dwFd+DuCdHu8/w1ErrVX1X6HS2Mf2WEpfivMZac5IyL5ZUoZX/z9qd5k7FRi+G1D1F0zEW4d2FmILhGQydVIXPmXYrIu3Ldfe/9r/RCPqpCVLZyBRZ1go7FO5uCaL+dQPflnrK1tYivIe/CHg1YeUdYVD/yP9ZeWn3emWyj7MxMius0Ylv4o8JZKYEx91jyXSnkhN6A1E0VLpPwo2BYtO1uyjf7yuieoIbV9E7ZmkGqDJNXDNXGay4w6NyGDRAKgfGZXVBBv27LqPKlXFX4/alZUDDDZn6evQ==;Iu3oy93d6XQfCu1972uslg=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "This report shows data about COVID-19 Coronavirus in Spain, with patie
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-Coronavirus-in-Spain-with-patient-details-Gender-and/m-p/996350
 type: download
 publishedDateTime: 2020-03-28T00:07:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMWQxMmI0OTctZjYwMS00OGE2LTk1MzUtNDRlYmQ0ZjdjNjJjIiwidCI6ImI3OWIyMzE3LTM0ZGQtNDNlNS05MWEyLWNkNjZkM2FlMWYwYiIsImMiOjh9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 100
     isCached: true
 
-secured: "GhdECFde9RPJeULk3vT8vCjjAbThgmOW9y2qAnbKpTwlycHZHkVxUHqb4RVJpgMEjTSGlJfkFdSFYsobBRuZZJeXPNvqWE7o6VLU32F9w6/4W7SuNSmePU03hn+vf23u5ARxlB1y6gwi2E2IV5zcg1MfuZlYAHyUgI8qk1Va8CJ/lh7qWTQpZabWRbZQQgqtqHnZHtk5ePpAz3g8kJDE/zUHJGIeaXkPvyU3HHJ01IR4a+q+lg20ysitqcjvmnWE4j9GEKJNPt0yfi5s4D8Aqmd8HCgix2OWmLwn5xdbD8ttVHBRt0vAwtYTW7dxsUNwzFfPuR8PUons1hZ2hvzzSuMUnjMNiY+zZ9gzZ0lERTDXYvTBCGHmvvGv9xw/1uD1;tOzDwg+jLO8+oSlENEviog=="
+secured: "OgR9r1kV7ex4jBLse/cnMISHXWz1APos3HYg2CtaDcDDCTLcfo6MTOQNeAJQMfPhxQ8uKBvIuycYY6K8iZFV/LaXg6gIUK/YaLZ/RbY6psG3gE9te6mt8qchyOdJKfA9g6dPPmdZexwcQCXn857ZvS0vSB0FPXoFRGyFZ9gSGSVDCj12AGcZPVSxpY6hJ/vHMhL0MDsfvS2fDPyBj5JIWU2D0D8HgB8HUT6DIigDE4h/HK2uP+6RdAW8jS0VLVYhQPX/a/huC0P4rdqZnBymLoeH3fxzU8ljFeAdysZOdNr9Iur3h+f7fTWrBpzTFV+hrEL3+HnT7/fHmmp+15b5yXwDyrHbIbKkm5+Q0b8jRxtVcWrOWXVqe5uDem26+ys5NH80L/3ObBACYE2GtgUfdw==;e7R1a2Xva9w3WfqyNGCfew=="
 ---
 

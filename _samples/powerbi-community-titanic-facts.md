@@ -4,7 +4,7 @@ excerpt: "TITANIC FACTS eyJrIjoiZGUxNWQ0N2EtMzJkNS00OTQ2LWJmMTctMzA2ZjU1MDE3M2Vl
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/TITANIC-FACTS/m-p/780656
 type: download
 publishedDateTime: 2019-08-31T06:46:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZGUxNWQ0N2EtMzJkNS00OTQ2LWJmMTctMzA2ZjU1MDE3M2VlIiwidCI6IjUxZGIwN2I1LWIzOWYtNDkzNy05NGFkLWUwOWFhMTE2NTA4ZCJ9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 812
     isCached: true
 
-secured: "8E3urSMX3HzRfC6EolDh6+00AJiACgsu6T64vjoGgmryvcPSJm33dQENzBPKCsoRWgaso3rYwtgm1x6ENTtRTplufEvTDAIKw/uMh3VdAcF7eTz86M49E43pJZD4tKDZAjxyIfD7/KO0Py8mCyryZ88q3d3w1Za420wC4MfQCkURvID6o+GCNFp0/goEvh/80hgb8xfbLVa+kOKQN7fsx1/V8/jPVAwhK3S+DRtPmYFeMWiUFwGOWHpmh8epY1UWHlcW08GSEQV7tAiBb5wc6QoTqy1yMNMFUTOl++4pjVj41U3aVkyjemzOoPgwLFwh907XLLYQTheBpH5NUw4zHaGozIENo2X+ZQRpQmqFOfFt/CH1uzdAKxOoHSrhyAPu;Cso+P2LI0feLV7hUHR7+rQ=="
+secured: "y9Doxe5VdV9PbJ0pOyYNukmlhLkufgTd0hyyoHea1AFvvfAcbOI2kdYDPP36GiCzGr6qan4JQoWuXDO2AB+fGEuyWYfkX48LHWAXvWA8rivMrU7gnJolL3WuyyMNhWk6VlHxeNRlGS9Z3rGvwIdj/PL9bnATEUt0IgYpZUjL8JhPKBKK7tQGfIoHNziZFFWGXz+g1hQz0F+JtFNQZKge4cshrHz6oAnVJRiGun14SaBuPiXabxB+UCFvfQdW3xn6DpNTW/ZagGqDUOOkcpaS/obqMdADjEq2M07NtTD7QbwjhWjSbuEkoVphi/qOfbWetsWcgIyrvkOqVUbNc1X8ixP4Zz4ezPxr9O2XpPp3aCtfvcjtl4uHHRmPSKK6uY0bTfM34PpBIK3CB+fIVuGYDw==;AKq6aT5nSOAH3MUB0LP5DA=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "Hello, A news I followed a lot in 2017 was the cryptocurrency market. 
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/CryptoCurrencies-2017-Year-in-a-Review-2017/m-p/346217
 type: download
 publishedDateTime: 2018-01-26T10:17:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMTViOTRhZGEtYTFlNy00YjcwLWIyN2ItOWMxZDlhZmE4MjdiIiwidCI6IjRlZDQ3ZWQ5LTY1NzQtNDNmYy1hZTZjLWY3MWI0ZGRmYzI4YyIsImMiOjN9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 843
     isCached: true
 
-secured: "Pt7zpTLiLfuue5+b7H95X1aBIocimJnbTpRV2kPykPYJlSvezlBOclX7/kjMCif27q6wHd8PD4wqSDv2/gv7srdJYAz7Q6+xOD8D89BdvWYMqzwLUgV/I2XnKhhDRtbPjF0uif/0HDVqFZCn73/tjg/p/GsoIE4riGH2o5ClwyH4dCfsX532f7DPCIR6iyrXvH6gJX3/S6kSvN9OU83x6KqLOBzDCYOjfZacgREQEOhSA03FfuCZzQGHxnrb7b5tgJphgS8AzUT/10iVSsIN2bA/HCTbAwZM6Ix7wLFjLQnocWUaUYD8/zesaswgIgbvOhv4I4Fr1e1rJz/1PQ0ySXBHz6Fl0KMxfYTRBdSfMyimMKTzyTjTF3h4Q1BwVlEF;Ew7ucBShiyEojzOUO1xyLg=="
+secured: "rRhLffzyeRmnHD+PVPraSSGgkjF/RFW2xKH7+8U697oaOU1tGEHyJXoJ/OvAc9Qh7Umxopsdvyw6OtaEL3miIRjARWRkBzb0/ZT79ThuP1dyC7KyvB4evlxid0qPVOcqFylHr+gfdAzboWZcXKwC3chp1ySxRpB5SeBxnZSsur1RLi24pgcPQcpn7DKL79Xg/OzpD54ulKt8ivLM+ATSjyYgsQkn849N8cLzmS5KKCkgCC8V1nmBmho8Wc9s+Enbd1d1m2xoqymRbjj2wkbet/ViZ0ADS7npZ/hZeL6Dj5xSFKOxLIx79BLDbdOkoBQ7t1nrbGe3W1NC0voOhysnrUGlQisEYFUKC2Jv8fMvw94trqADfWGl5IeYAPiZhe6A0/CpHpPp1wh3PKdhdmhmH46sDwqAvVQotM0iMWtUPVY=;864HdF4iTa1r3ngJgH0KKQ=="
 ---
 

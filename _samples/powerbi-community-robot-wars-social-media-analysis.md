@@ -4,7 +4,7 @@ excerpt: "This Social Media Analysis Report captures data from the official Robo
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Robot-Wars-Social-Media-Analysis/m-p/67036
 type: download
 publishedDateTime: 2016-09-09T04:59:00Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMzc5ZDcxNmMtMzEyZC00NjM0LWI5YzYtODE5YTJlYTcxNWYxIiwidCI6IjMyMTY2YzE2LWJiMDItNGNlZi04OTEyLTFmNTE3MDQ1Yjc5YSIsImMiOjh9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 741
     isCached: true
 
-secured: "lg2EI6shxIvEaqA+D8g7LUAxXHhYZV8/Qj/0lVOV6+JTbLiwea/GNck8orEl5KLuqoMSTRT8jOJpVKGIXGjwH6r9X3bXMTaHIa2bXL1IRJVe3DktvRD6TTDlgAIPj/BLR60GNnflF4KUEjgnbG0nWp5Qv80sYtQ7xCz6H+Ako6tTBa3MrCXi0dQgOBDvf30KRPIyEPXwfEm+jZPlpDsJaIRQ6LMpH7Rv3tHqgpQE7Ckzyut/ccREGZT1vGqJtNMsx4ZmoTkSEuglafVnNLmaFwFNQgnFEa7stsfQLAV3agg12nD4DtPSPC9HuDIk2nvO49PPoc/6fGR3TEbVxkN6PWYAbXthbMsyDEw3SsQxDW3cYtorsRXDdkt9rBRNQ0Hi;TUipdKDdWnGXG39Hb/i6HA=="
+secured: "6zQPDY1AY+P5KlQwGM37qo9rCSIwA00/cMbv0SXr5osvjJRk+GwESXNrDc03BXuPoeZDNTLjuod+CKx1RHrSrZmTgLbu2EyJMkeANLy/bzueRaW3dLcPgD8/AoF+VmquN2lQu925uCarbJmrO9/tCtaLNWLfAgWKPtL2ZVc8xe4UHYLbPzYTwTyZ4jjOk4cK3AUfob5RzXse9Dxw+8J4nwXMnV1zwSQGYh3U0AuSG+ETlUEffD6FZgtRWxFgvVls61lv0899JzN6eB2gY3701if3YDn8+o5iFOHB0NHQ28v5lDlBOOepKdU5x4Rd5ggZrjyx1nxf7pQr0/YLsgB5OWoXlgFxxgyeh1Vac0RvHDzbG78/lfFRwmt8hreTYkkI7CKciL1ItHKuncT2z8xAl5I+US8xtV5dPVJ3zAooucM=;XUgz3ZrUlgj6Hjq4qHaBMA=="
 ---
 

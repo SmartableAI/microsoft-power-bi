@@ -4,7 +4,7 @@ excerpt: "Reporte de Ventas Anuales con Metas Individuales y Organigrama del Ár
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Reporte-Ventas-Anuales/m-p/430587
 type: download
 publishedDateTime: 2018-06-01T18:58:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiODU4NTlkNTItMTVlZC00NzU4LWJlMjctZWRkMTdhOGZmOWUwIiwidCI6ImYyMmFlZDcyLTc1YmMtNDI2YS1hOGQzLTFiYTgyNmY0ODI4MSIsImMiOjR9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 825
     isCached: true
 
-secured: "dAQz5b/bzz10a18rCKhtHRz7ytukWRcKvzk2x+9Xh+hgO9Dv0xTUKB+5G6CiYYkhM5AH6C/mqeFgpfiQqJrJFwSpziy7NPQST9rOlxsZT6v+azn68x8F8iQF/wzG5Tg2nBsihRHDY9A0Q5A7SIfG+EunL1VyD/0FX8/q14zoqN4+aGEpamN70mmmvfN5evYeXsq2O5lCTPhkfL1So+LnodiSxY2JUTgzX7bIXehAkbXuCc4Ql7y77cy+jbVm9kn78EDg6yIZqoZjZ5gWtynvuoP6xrXfVXLyulJdgyrW20GkNSSb5saSH+FRPorN1izDcG/u4l/V+Xf0o4kGcYIsAIcXismwozDhJvC7Zr7L7vA3JW2sCoCG0Lz7muoMjJCy;X+EFr2dS7dU+c2ehsN6hcQ=="
+secured: "kw1SYoHI+AAEmEtaBg5DOY+O+Ios1rpKqWSUR6o85A39I/GzcdiFZv2WBBBvDYIpfYY1SM0X6tGcvOrvKXHF58Vs4m1hAq6SB1yLSQceXxvdgCvIVQ3rGV0u9Yr3Tx1txQMfqQfh390z4CUnV+mmwFEypRvQ/GHcjch9Yi8niSJHFfYaOzHVh5Gb4UFpBCncmFTu/9toPOmkU4aaSm2e0S2T1VzmGw8R3OsJdIg4aHEotqDHj9GHJo045SYzHs0DupsWEscx4iVE2+uMKQRcXgGPSc0T8n6aWcYcTNoFju1W4dZkqWWq9vSbdmEwlsv0O5Yss9RkKPtlkXtVkIZrLw9ZO9B3QNNp7ZRMnQblm/0zMv506tubbIQGmu4xrGZ2cE/fzKxMeuhieJ5Q5owkfw==;A0Ge0icy3kCFM0nx5povUg=="
 ---
 

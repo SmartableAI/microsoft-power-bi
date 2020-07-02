@@ -4,7 +4,7 @@ excerpt: "As a data challenge for Online Volunteers , Antonio De Grandis created
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Gender-Data-Challenge-Antonio-De-Grandis/m-p/1061151
 type: download
 publishedDateTime: 2020-05-01T07:36:00Z
-heat: 54
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZTU2Y2NmNmQtYWRkYS00ZjE5LTg4ZTEtMmU4OGQ2Zjk3ZjRmIiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 1229
     isCached: true
 
-secured: "aJG7BYouvL113F6/IBt2WDUeJ8Egb5CLH/LPk/+Mu2G5BW97kCujTTHzr2zFkqkAhVBsJMDdBgY8EPCWycEDLDZsPgeIsYYkUFXCBRxO9NgAbEC/TM1oW8aAJISwbemvT9mhrplZ50vEcxw2zjomBj9M+aKCnvzbdhsddK9nhKJmPG+94oHmuUMlmCVeMy72BGMsuiPpGLAe6/bO5pZ8ZcEJGGzucIK+ERbm/cPsAc9l75VQDmax/rpZnqh+Y6rXydIaswgkTjIwtG5GCcYwIYV9uXNsAn9SuElLrzYQKLktYSRL8nhIiJaB+Qb47BfYZnCENJC51pBJtxbOF3mkatlytScrgp+4faHIkwSh+00q1fGNnx3l1svFKb3Zy/mz;yO/TVNC7EUARJZ/ArHk7vA=="
+secured: "Hx9U7HvD+FPR+78EA6pOZyo0gR68su1QY8f7xz/+eozqJt1jVXr1D1/9kgKLnVMHUvFjS0zTZ98Pzpo+1ceObjVRaSdYa9UGgWZ0lzLbLdj1cxNznz2E+L+Wsg7aY7SfUqdfLDdi3uW+Y9mdMNtwggED3V4dcmMYRkHQOPhjtljgm1D5FbQ91m+yFp+Fvj3q1y4DEtlYGHhpfXiZACLIZp8kA1POG9EQ6wLoje0GYj3GVU0oRhK6MOakG3vd+JQf8JtNkHdX/mWekS71G3oXhYzKQFF4ORvkBKjVbmhj8Rj8bakbczrCfFFseeHGtOwvTfMQD2Fgqhe1059SLoApa/PX50rjnUqRpt5FE/durUFW/jForgClkwZ0Dm5Jykp/YvqPhx3gX++o1zafMEAbHA==;49ba+QUPzd8+WqBKQxRDKQ=="
 ---
 

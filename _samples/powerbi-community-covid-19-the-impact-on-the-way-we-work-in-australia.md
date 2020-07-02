@@ -4,7 +4,7 @@ excerpt: "The sudden onset of the global pandemic accelerates our progression to
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-The-impact-on-the-way-we-work-in-Australia/m-p/1043100
 type: download
 publishedDateTime: 2020-04-22T21:03:00Z
-heat: 54
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiY2I4NmFiYjAtYzNiMy00NDU3LWEwZjMtNGE3OGM0ZTgyNWU2IiwidCI6IjhhYWQ2YzA2LTIwMjktNDNhZS1iYzNiLWU4ZWNjODk3MDVmNiJ9\"></iframe>"
 
@@ -41,6 +41,6 @@ images:
     height: 819
     isCached: true
 
-secured: "eiojqtx+O5cqHPOPHeA8UqCjWcKTzQLIvqN7nxauZNrjZmj8DzkacJsaq7gJfFtLxHztYR5MGkU1LhbQDexC4QCejx/o00bV1T6S48jpvOwlX658VUcoEQywDaEyr0v0l6G3NxOyIH7PbXN89ayYA7ZJIUSAI0EYIbilLtq4M3D5MkeLDJW23kcjaOif+vU26StHYqGBLOTk27n7Cirw37/jkfa0YETdqpnw+piK4HwA8QIBJjKtKfzihy7dclbg6qQSpSCOl43DQupGi/4y8lJ55jcBGiFEUpKMVsEO/Imo3mitGVL8EFYQ/jGzcuv7r/l2/ZX0chLEtChR8WbU2HN/JkFs/mvlgA9LRNCPHqWiYNUqEY1OTBIYxraBEhmB;URb5TljSM8SLcPnp+8ZRGA=="
+secured: "1XiTU9TpVjzAZdU2ZWN2Onr5VMsVCiuvof26R48xpKrLPd2NvhZi1+QwbjZPueYBZhEf9Z6vv6/C4yOPA89lLLeS8VthXJSFx+AOQ4VJ0gjykaUymCSAxJwi2PH8tnu+/ofbLPRJjbwdWFk9o8B18Hw55+ZUkiTqKbeys2ZdosCzV8czEKf99yaadCHKDZRR6REeIzUyYBWlPcRh0ooNsoEp17mulWsE10n6cwUtpNV+7/g2bSQK+dMY/ouwvBbUKUvrNhSWOuDnQKfbcVNtpBzF+rdEPgceh2ssa/+R0Al97mYQU8JBLVhDgWSzNp381Ax+fMKqDJtZ/wOq7yRqSCaeUzg7jo0+T5IvmPGqS8nVEwxhUeNPZ3jn7x1PgWuds2Zh8xZ6OYKkoPB8XOd9jw==;kDJul97mAymKohQXNeeuqQ=="
 ---
 

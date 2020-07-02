@@ -4,7 +4,7 @@ excerpt: "This report is to pay tribute to the great sportsman - Kobe Bryant. Co
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Kobe-Bryant-Career-Visualization-by-Seth-Samuel/m-p/1035021
 type: download
 publishedDateTime: 2020-04-19T15:06:00Z
-heat: 52
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjQzOTI4OWEtYjk0My00ZjJjLWEyOGEtYWMyZDRhZWQ4YTE1IiwidCI6ImYxYmM0MDQxLTFlY2ItNGIwMi05YzVmLWJkNjdiYmJhODI0OCJ9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 659
     isCached: true
 
-secured: "IQbhLRj9FaSeOozgNe15jsfkosrsAn3o1hU5oV5ahyfNxyssz1+YEvYazfkIkZ3n4/7qUM1K0GBWg9FVp6JIq1yzdYXXcdv3l0XKwoxgUpD6ShkfcVLRTu/p6WfbDcRqHJoSB61olHoc+36+xjfHHKulq5WqEnRQfKgPQIarmQr/g9K9IU1RrPiFkqePoXYssqiueQ7hM2Nz8m0JouyFRLfCE0OswGhfhmD0vK8j8T2X9pUsD8Y1+OfSlGE6EE2eKlss968N2I7pN1D6Yb3qhWTe0EZrxkaETuYtJ14FD/Fjb+oxdzGzKqMekwg6+uwZWS119RA9XUqZcWv389fkD+KYi/xjGmnCRAmwyvonXTYgPQwp2jR3gfT2qRUQwSmr;5GFAVsKaYrwQIegxdnzv0w=="
+secured: "veUGW7s9LDtd/A0OpwttfxL9NeAqOz0Usj4Dx5uZ7P8i58gKbzQGqhvcMyuudJWyaXQbddR4A8tvgVTCBgPlLK00sHnW0paCWPOgd4zHwEghmOSweju3VEzz26WwIZ5GWJ1bt6qhutguX24GLd9B4t6/wAdvamw3gXLJRVA4wlrGnRHu5HaU/CDMOQqbKDofN54vxtJY1JvoQM3e9uRSzxE2OI0Razc3sioryj/ixJwyN61L3ZxVKdMoHO9TUai6OP0ydv/wkwmn4oPacgzvyMVa0v98/kAYw/OaK2JsgtIfPrTweEWrWwxzJWwvH/ZaRtIiOz6c2AwPhM3PbHyh2BCOHJKcdMo2839t8FpECWxH5fBYSUHRvlLfExnArKozbkE1UlvILCNkdWRyMiSp8Q==;VYgQ0JNNv74DRSVhJhdIIw=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "This report was created with a dataset from #MakeoverMonday to show th
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Best-Practices-for-Designing-a-Roprt/m-p/441350
 type: download
 publishedDateTime: 2018-06-16T14:31:00Z
-heat: 54
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiM2FlYTcyZjUtMTU3Zi00YmVkLWFjMzUtMDU0MWY3NzNkYjI1IiwidCI6IjI1YTcyNjUyLWQ5ZDEtNGZiZC05NTQ0LTBhOGU1Yjc0MmM4MiIsImMiOjR9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 454
     isCached: true
 
-secured: "+1azA55N3lG5oSdEpXj69leqAq4t2RFsGlEB1b8vzGmeoVGv8gJ1sMupUIICDbBNur5mAAZNGBDeyEXmXRuENuP7UfNxl8Srw5JiV+rqUVgkXIsHmUs7MOpolJL1vEYW1bZ/HkBXgyLvbS4WcV+TVBIAjUAI6/v3L7DJxaR77xqrO9WAchaja1s1maKce9w5dhcVQ1pd0eit+7E/DcQm00KZx2z2Q8SHqHFI6CpKb2CeB3QRdt02mlAychAB82d5sxW4VOVIMVrokcyXYl41H1IcY1WIo+v7rzCT2ibIpO8Vyi4Njvtp4uaNVg/+iQoVOOVZv9sUikhuM64NL8dJy/4+lI8Mquf95kLDhAwrDHvrCPddy3lPGsEbVj/UtCQF;esVCUiOaMsmw3vQOdhIDUg=="
+secured: "1t7pyFEUCj2KdqPCY0Yex5e9XfW/aJ4h7Me0obCJVwKXPHtThoTp5AzLOdhUH4n88QELPil3luR2+HVK8RT8KUWyuD4PcIL8hxhITyjXB3uXf5zXhmbtOXV5Dad42v/uTLrSjnXgtEp8fvAo9BjV5+Dd25JryKMwC9w8cWMdkWk9yo7ylWp4rmWu5nXHonE6C/XTIwxKDf5Y/jthPWSQF156VlZuYdDIvd0fSxiyVao4vD2Ts5RCH48BeiO3BSduRSzTyr9w7xdIPCRUZIJlLTCMKvgXyYK1ImW3sLBXYk2zoRvjdMqciwuekGS1DpXaTEH684dkCVLXaV6YTfQkrJrDrywtbJQVtBM0wNFDM2IvI5YBRJ/K0WaVkP4BHmJ2RytnEAewOsJLMnPQqOz1C2mSy/VNPwvQvNeEqZAtcWA=;JpE/UfovN8sHGT6S8Xy6zA=="
 ---
 

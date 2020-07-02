@@ -4,7 +4,7 @@ excerpt: "This dashboard presents a comparison of the 6 major regions of the wor
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-Dashboard-WHO-regions-comparison/m-p/1030887
 type: download
 publishedDateTime: 2020-04-16T12:26:00Z
-heat: 54
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZWU2NzAxNDktNjEwYi00MjAzLTk5MzAtOGEwMWIyMzJlNDY1IiwidCI6IjY5YTIyYmE4LTdmNzYtNGYyZi04M2NmLTk5NTJjODRjZGEwNyJ9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 803
     isCached: true
 
-secured: "Parkhh9FsZtsPlMD2Ih5I7STLSt1mw18G5sOsclhfsHRcidLKyhBdegRY8/0H91LNnDzruZes5U1ofKl9RamUn2cp2Gr6e9YTKSntWmmpRdJFQHqlQpUYcQy2eLEs52520ygozcoRNh196Ejn4wss59hM6ADODIcSdzxYSaA2PcjN00UO0gfTucsBp4p4x/442Z4No6Xx3Ft9oDwopEUpn1BDRH+Ev4wU0HGESfu0eyNOSKWMCVZRsGrk3t+UdAqb+rhbob7lPEozQ+6I+C1DiFhe955sNzJavQ7fODSWJ3CeeAC2+2NYIxb44Qr2ArJzx1iQtLZwhLrl4SPfAiwFPxU+yGx4WO4yHEAhBxPgQ8DHARfPpCHzn6VGswbuFir;kvl0xproLZm4kCKHUd/u7g=="
+secured: "3qCrfMTA2CS0YR9rvv2mntYrHQOEUTn0WnUlFnUuECVm9itYdYdgJC+3uBvmhvRBZrXBNk+NsNWGtGUNjV4NNHusqZgF+EutYVEnOKGQ+FilvM9b8WpYn0h2QYYRBnNbc9/FMmOntcAhFwL1Ls5wtL02ZQwi5sFQLrdqjJ/+CPsKmCfJTc58cd/Zxlj0KMwqr+dUOZYbBLJAbL5T81v61P302gU0IhjvntvIFizYM0l+vwsxuwsY4+E+OpbxtO8Z8HR29RqbC+ZoauFBVBG0jbwFDRi3N75YkawP/KXnru+gbVH/7XTWw7zMwWFjK3uJccos1cGZRJEMg8xqDNjYwNq1c9miJNlRqZYgyhK0JBd6/lus3HJl7fp6bu+RGTANO095ARZ5HwM0A1MXG4KTcw==;fkNP3a8WEqqBKSUq7rmNew=="
 ---
 

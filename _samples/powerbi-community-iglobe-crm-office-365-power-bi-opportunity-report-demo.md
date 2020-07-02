@@ -4,7 +4,7 @@ excerpt: "iGlobe CRM Office 365 is a simple CRM for organizations on Office 365.
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/iGlobe-CRM-Office-365-Power-BI-Opportunity-report-Demo/m-p/349819
 type: download
 publishedDateTime: 2018-02-01T03:43:00Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYmI4OWM0NWQtODI1ZS00ZWY2LTgwZTUtMTk1NDFkMTUzNDgzIiwidCI6ImIwNzA0M2Y4LWRkNGUtNGQzMC04NDBiLTlkOTJkYTEzZjlhZSIsImMiOjh9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 991
     isCached: true
 
-secured: "N6y4vi3IcmOq6HmjDIsEqze0QQ8veEli0A1V875ZcLxQOQGE9fdrKdaYXpsmLZjcRGOQ+LTJ1VuVJLk8xVczxNGGXMw5+z3z9oQ8XQfal5VTqGLrZEU3abuN+cFhYlkZcWS8IeoMElqzXDFjTqf7tglSSiUKaH/L54TgbAoj2tH+c0nnIipwWUYbPIx8TkGJNv8w1MOczgrNz7aoTHS7Dm42ER0hUI+84blEcF/6M7sOUt4FqApsK4EhZKKH6vvccUBfyftUI3OGZ6xHBO6vuAFP1biCCHxgDAMcmCLJkCv3MlXSwg8aMUkllZV5NTIRi6GKnttGnKH1YGK8dlx0hrt/FiL1SYUDk38uH1Prjz2wTn5QvFBbivI0KKjtqRR7;0pqUuqyXmjdlq3FmCkV2tg=="
+secured: "RMJ3+YVt/Mjq//h84a5stVvyeICIA+2V0LtaPQzsLhCIp/tCj37c8sppFNt8dEUQkZGM6FdLhVykFObbkqi6qy5a+tqUrPcOCvUHJOg4WgY+WTFIBBZ8CUaLvMJ1qYnzZ20AYdZJdrByOcQwl2SVMtF8vSXeFkIPzviVC0wsv/wx98t7/uF/uNYP0ShAfnXVmVsVGolvbpPKRjIv0byd+Jkzoli2lUXidLKSiPj8t/uU2c3elN+9iSxAfxJc2QOxU5R/p2+sB+V2qcnbJEDReN6wytBIu3v/kli2hlhuFvAjw3gSNNjZPma5l4GPKSM7slNX82lXDRxzvSiD0OG2CNikZAQ+sjXK2yvVH+E5Ils0K/UT20kPdJknAnQAFn7yuOEMnQDTqYdTjA/ktDyGiQ==;wlQm+hjkVYghDm4/SwkVLQ=="
 ---
 

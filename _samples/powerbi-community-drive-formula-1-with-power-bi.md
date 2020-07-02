@@ -4,7 +4,7 @@ excerpt: "Formula One (also Formula 1 or F1 and officially the FIA Formula One W
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Drive-Formula-1-with-Power-BI/m-p/349544
 type: download
 publishedDateTime: 2018-01-31T21:37:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNzBiZjUzMzUtMTJkZS00MGE4LWI2MDEtNTFhMTI1N2JjNGU2IiwidCI6IjllOGUzNDEyLTA1YTctNDA3ZS1iOWIyLTlhNzJiY2JmOTA4YSIsImMiOjF9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 621
     isCached: true
 
-secured: "ve/nLnn5cL5Xt4iF1Q574raX/63zTUFOBlGiAjq93FKxjDW09IcNK7CPFHMnsbrUNrOaEZPNuJLJVw+LZY094XnQWem60T9veCHGev7AepLTJY107h3h5x4FO4/fSz81MjjvWKN5G7x1qV+nWuWZvCfuBMQ7IRLwJq/hzdX8klT1BagpagtSlKhbn9FevoAqLwCxbR+6g35jc/QyYSfqAtZF6ScEuOp4wywPHu+p7PYLTKunuHYa8V18A3tN+HibcsXfMATgNaKX+SWxCd7JR03jsl55HXpzXTUhvjERkbAs0oUd17lSht9pcJHIc5DrxJUe0dW3ES8JwDgAyB5IvTlyZOnhoIhzkLKO1PZsudqmjt1c1vcXKuKQd/d5JERj;9tWSPWR8Ia9/ykoiVbImKA=="
+secured: "4iPCdFXfFNHxJOswfxj9snRrLXJ4vmA6t3t85QwMVIbTad9yCW9FQNm/ugo7wKNXlaqzHyABwuT0eAUpx3F6cp0txKMMAcqIzQYl+2H8X8kU4NFuYlqniSDCdgcDWmJ9HmUq1ndXncGo03PipQJlOLqYU0+C+UarqrEXAVukw4lY6AaZKDtsJ4ofX4j7vH2QCRnDvcXyJB7xShLWyx4kVq3cTYaPVGXGhaPeUvJ1Whxe/cHNhZF0rl86PjFL3oZb8spGelxMcJPqXw35w9TB0ojz9BGFg3hEPmSvOGLI4XxaY/d//0qqJv3QJcDLDCj/B2kmQ3xV5c0lJHuw8FhHqfh68cTauA6ocLyeUekpEqER+XT693J91/8YIfHQfB/1Lf6Rql3Vb1cN0sgE+MJkwDJRZrdu7nkGCjX3umUwavQ=;TlZl70lTE7F72PHJfQz90Q=="
 ---
 

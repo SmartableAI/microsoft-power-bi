@@ -4,7 +4,7 @@ excerpt: "This report is a reworking and an enrichment of the official italian d
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-Italy-Report-and-maps/m-p/1019440
 type: download
 publishedDateTime: 2020-04-10T03:58:00Z
-heat: 52
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMmI5ZDNlMDktNjYxZC00NTc0LTkxYzEtZWUxYTk3Yzc4OWNmIiwidCI6ImUyMDNkOTRiLTc0ODUtNGMyZi1hMmIwLWQxYTRjOWMzZjZlNiIsImMiOjh9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 741
     isCached: true
 
-secured: "oBkJqphrfP39cNRE3hZHaumuCSb7Agn3yorZDJA6SIA7N5k9Q58LEJogZOuIy5z/U4n3z798m2UMpo/oLExjFgIWm82G4YunBMBfXBC0p1t6dhWCgJrxUEQdcsptCx4rYceWybOGnlsEmB7UqeHmLwT6keSbhqBXdriybIdjZRialO0Svjckj3HvJdRuj59vQbS6WBH5Mq6Fh8tXrzjEUunIVArGVoy20TRJnP/5NunDaHYiQpxABc54GTBXJU7VG6TiGwq+SuZuAcwbxVnhZCIYq4oh3JoYMDIiKqIaMVHbS5VonRYNA/CK8Jw70ezwDKwjAqVZWegSPhCdcCI4jlAVTJ/DQ9zgMZX+XgDEp/iLHskZJMClhYIGE1p9G+Q6;2UcSUqD6TtqGeGkp4/D2Kw=="
+secured: "eSHFQG5EHmxXzvJgCQB5ccG8VUeRBKQ+GwfKYNQy2d2lQRjbUNp1IYLWJGVOGGZDDanQLdgGg1Dzpcolohsc+79j4SuTkVCxQmjKkSMUJEzXc7VNMbW6MybAP0apkl3PrRazmZI2WkWlv7SGmsgwO93hLlT7gjA0ZSWqjFLUCm/7CdRLGfXd98DDtPVCYe4FHe+Sudgf8prYQm9fIg9Xf8Ar2dCiiuKc70GjbpQE6xASNO/y+2oFdiw5ZaZCxrw/ZYwciuBxvr5jC9vESBN8XuI1jo0yrAaWJ6pU5wL/cPOm79sKWzm35XFZzJ3pGSnzbHDVc62m1oy5ziuHFUVbCl/y3ecBBV9Rk8yYgTuUA2x28bO2mvs6hocZZlh3FeI3xhP01CuDQ9UsP3Jv20q8lQ==;sh9mqrjpRBmlH0buJC16ZQ=="
 ---
 

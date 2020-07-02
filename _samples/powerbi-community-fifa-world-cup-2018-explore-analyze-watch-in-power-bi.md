@@ -4,7 +4,7 @@ excerpt: "An attempt to use the features of Power BI to explore, analyze and wat
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/FIFA-World-Cup-2018-Explore-Analyze-amp-Watch-in-Power-BI/m-p/460843
 type: download
 publishedDateTime: 2018-07-12T03:35:00Z
-heat: 54
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNzM2MTg0NDEtZTdiYy00MTAwLTk1ZGItMDQ5YjA1MGE2ZTgyIiwidCI6IjE5NjMzNDc1LThlYzktNDRiYS1iMTViLTRhMDc3YzA4MTJkMSIsImMiOjEwfQ%3D%3D\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 729
     isCached: true
 
-secured: "P+1hFYrh0QTn9lnkI8uuG3LzdTOUVXQeYvIqLM582tdLMqkAhSSM4LguOYIrxXE1G9K8960bsmHy39s7KvuUS2lBECRBVTsFQ6MNqQRuHZbv6f3O2UbWAe9ZVGkXDHoO/rTKUx60GaIFEOiZj/QHOMbO31u8zD+v5wiKidbXp14gK9opHNBiGiLOsFQIM2jsiyuHs5CYJh45NTTY5qfNoHYwmKxrT1Y2PjipHmvfyAotGKSGyTw39o5E6ZLoGoiZHBuLn3aVD5szxseIn9LcoHVvmUYjgYqseOIJ8vPnp/Qny+13Fg5WDbFSa2kjJsVrqteL1KQQTUztf1lZTgyQBr3DyCgpyujdcbZa5KoMGL23XYghwPZs2cpohlK1gAQy;V8iD4/sr79hHcNTWTZTQZA=="
+secured: "FHwV69oWTvDmW9VvERRVxR/zn3Ae35V8gDqh4MJYwnfSkmN66ePdqME9/qu6YIX1qkE+W53u8LOcHkOpH7RxWMVgGAEnJbOFPmeW2/AHSIZWckjErf4bWucMHcVzqkk89PUfHIs/f2ozN/dM/WzIklhrMyZkgthmYwHa0M+gPOYhnjiAvzPbLbZGps9HLM0COw8tfLoUmig27540vUYmzXtCIX/7YYHZDxZsKdqpj4injFTu++l7ipsMuRdWdh1sDa72Y3uGHCQ0Dn/n8IlBApEzc+QQvWmOiNSVFa5khOZfifsgPxz8tR4OmIiO/Hl8n/955RxNMgGqfuSg0epp5CVk5M8nyDNSt1HLnr5+Y4Nrny0ieJCilnWSQHIEGVO8iQhVELGyTrJuXY4S+CAQX3EgBIM5yqC+n/RReb7qres=;6xC7azQsYfft/y2savSIZg=="
 ---
 

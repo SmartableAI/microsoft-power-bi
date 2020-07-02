@@ -4,7 +4,7 @@ excerpt: "As a data challenge for Online Volunteers , Papa birame Tall created a
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Papa-Birame-Tall/m-p/1082674
 type: download
 publishedDateTime: 2020-05-10T01:19:00Z
-heat: 54
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZmMyYTRkMDctMGJiOS00OGI2LTljMDctY2MzMTgyYmNiNTQzIiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 1169
     isCached: true
 
-secured: "rnQIIhZPF56fW50ozrm5WqRRYgE9IqsmWrmTsSYDO4JOQyf3jIJx4Bb0xVmBzHLyy9JBPG0FtKO/zsyoCFXYTuBpmjju6lZYNagV7ZYwGkGgwquFREuLeFADCesN925aiL0kYfEuLZcGxnG57t1/fwkgyk99X9UH941Y269YEc+2Gw7XZhspsUnwSCJNLa9Ye+bTKwvE6HdcGOgotSbeSV3hVsmijLUzKxTN2kgjhg3SrHBU83Y/i/6IwARiZQ6WN3stxPGd2RNQww5HV2WWdcu+5j6jql55hySklGKo9UTHlF3glgbbDU1CamxJhD8GVv6Cb//HP8NC9DC0ePzNGUSnBXo9UzdwEAf6we2S4esnU1O7c2yHn0R+h0bn9uIo;1bLNxatHvudiSUSXoQq6Zg=="
+secured: "9Km0SdXziMvZ3XqvvSmmzHiGQsni08tB+JvV1YgGBYLRmz8sJlEgKv4BkXnnAZits4I6A5cLBmCHb1zbk0f/9/F78lc5/vjTzxHb0Dllx0sJYjPvKbyiLQVMzc1OhZG/kt+lqcdibP5re6QncrBSnhvnsSsJ/SsbxmjmNJCsC28iTM+7MnfT7JvAuVE2N9iHQWePnSrN8yvX4+mlYHAmod35wQqzrUcecZGAG+M0vPch8TJYuhJw4OiTBCCWPouQuzCoi6YeLyJfb52DeDka3L4KqiYoVW+1JKnCzZWzyS0wZJlhhG2ktCvXMJFnJVyYuBcOfgkfzq/ATs29Ru+ew9Q2fT4wppZcoLidiR6Uxa4+XmF6IQAAE6b/BWGb9lAGtPiCfGWxO1UEjHSgqx412w==;NCLXUJyBor7hi0i8AffQ+Q=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "As a data challenge for Online Volunteers , created a report to repres
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Jeffrey-Hall/m-p/1028519
 type: download
 publishedDateTime: 2020-04-15T15:29:00Z
-heat: 53
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZDUwY2U0N2MtMjFjOS00YjFjLTk3NjQtNjMwYzc5NDU3Y2E4IiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 2446
     isCached: true
 
-secured: "nEJL/0MPs3BdkOp9ANflTuR/hTiR35pq4cCwzJdsINsL8MSdRcqghHUdeWL1sYmWT3aloKfxqLrTuqe0lEg0i0NepUwUIOMNKZRB5Tt86hXaXKrd6bINv4fUPO6RHcqmcZvt0ujNeWefZA7wF+pC3n2MZozh/yA30fxx+z1/rJaD6lMmxPbnm6hfoDr2hDROQvLRUxrEuAqd4uJq5esZbYy5xIAHaomgZQBtxk5wrRgF5+7JIbucnCrUmsao0xPPEXVg8FT9m8Y6y/DIq0U2V6JrpcuQ+d4UdfEOPe3gg+EQYwAASXpvrZkh/kQTfdbyt+gQ+OT1yeYK1WdpjdAN6uo4X0FCKh/CHnl1Bwx7UzDAgtaFerxgrQypy9qjEZmu;oPViK77bQSnln7xlPsBD3g=="
+secured: "V1a5ZnbpnG90EXdb+YBXy6d1+CLB9n8GbqgySkF+yFeAcsxYKkK+ruBpysYSwXdiH1CpQzaIzHmCfx8nY3YEarB9fy8JI1Re2Y6g+jID9CnpGG17xSb3QPkTQ3dugL9Q6mXebnCkOggAwwkjpWFGcpuVf0QSz7HKV+MB98XPKBr+Pq2XlbEAdhQHycXtGBtcz6lq0voE39v9ThPq36Zge74/TeUk7uxNZlMqAyqBIsDKUdG5FEFX+Fw4I8csqnkc+Py9CBM0TdYefnLdan4HQX4gsxo6yNPJfJ6lHOo/HBrbzxnY+wroOB2t/ban6k5OdBCyETkIW9YSz1Yw+OurvbARWzlN+jyRgImLXlRLy0nnsRKLAB9CBX/tU1EHfK0s0foyku4vBvfamL7a2lTz7g==;IYaXeFZUkU9t7+45d/BOMw=="
 ---
 

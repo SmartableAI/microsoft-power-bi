@@ -4,7 +4,7 @@ excerpt: "Baseado nas pesquisas: https://artigo19.org/wp-content/blogs.dir/24/fi
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Feminic%C3%ADdio-no-Brasil/m-p/683885
 type: download
 publishedDateTime: 2019-05-04T18:12:00Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjBkYjdmOTgtNDcxNC00ZDFjLWI0MTgtZjA4YjI2NTQzNzQyIiwidCI6IjZlNjhlNmE2LTRkNmItNDUwNS05NjIyLWZkZGFmOGNmYzc1NSIsImMiOjR9\"></iframe>"
 
@@ -41,6 +41,6 @@ images:
     height: 505
     isCached: true
 
-secured: "FJcIXZx3+wmyDmx5TRmbd+/hvOofzAmHQzqaKJlxd7R0ny1D4cB5X+3bFBvFlQv3CbzH+7qAcRrsdYfe9z1d/kBZjpp9QwvRj7LHBsIcOSS3hqqeRFxlNsINWw5WJw34UzM9x8kayF9EVjr/piqFmkmTgs/6nlQogkvFZwGuEc06rcfx5fS5SSZeMW3mqPC5nDNbrU5frG3bZSJU3Qo9HYy/Vc9L3KnrXxbM9mSJCVCp0TuQBe4TzoRl+PlPcmiXHBQMFWTFAIs7h62l1yZQiXFl5jmvKrE6OfZasbtc6BqqOoqfzn5KbCvoz3lRZfPg+vpKbAhro6VdqXyiL34wJbz8akPWeY3rxqlepzG+mpz2siInV4cG1thTTaUg7krg;PC+OELQqntGicAns1YiNuw=="
+secured: "18fLjoXE9yaDboGYtoyusZXhzSnEMYe9YL14aycZmsISRbBSJ/bMCzOVs3bYXh2e9lax6jatCaApM+spDE/GN8beJSAD1BpRpf9VgZS7XbJEXOUNVlzewysOUjAgqkjfeKtR/oT43acB5N9jTZPmyCtr0p/oB+7vha9VWcrTdWNxs6VkzbffCHAWRtplGhTqkLiMfuUb62UtyxepC/0TtQUIKHQyMEMrVnQ5pPDXchP7iDhhhdK3d0ys2j4ktf9drB+9DY3QUBP4zvUcCYU8PkiOcFAQLUN35EtxhEJqhuLNEfHe8zRCXUfpUN1HgK6h5OO9iUk467AJjbypODFN7TLSWpQsSt6GcfvnCzhf/4GKbVEZavJz81wSq8UQ2iahZTbcdvD6jkJu8+EOi+GfaTJt/whG7kQ36sD5+kablW8=;OEfBQdbEu0leTi4K/9mudQ=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "This report analyses the popularity of baby names in the UK from 1904 
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/UK-Baby-Names-from-Office-of-National-Statistics-Storytelling/m-p/792472
 type: download
 publishedDateTime: 2019-09-14T15:34:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNDcxOTg0OWItYzUzNy00MzFiLWJiMjYtNTNmYTNmNDA3NzYyIiwidCI6IjBjNzk5ZDM4LTQ3NjQtNDJiYy1iNGZmLTIzYmViYTljN2ZlMiIsImMiOjh9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 778
     isCached: true
 
-secured: "oFu/2ANNPqy3h8NFBQo4O8tGOcLVNLM79BN8GMy3Hn8F+o8bF01jIK9ynTRpkDCY/N9i+1KGqDQVvgFVL1TRBOI7Y56m+4LdFqWlZ4dihTk8S+NB96BFOg79aCOLKYwJJiyAO9DEIQbyCLyFAdPyigO16Qwimv1wP6jniVJkAP08GZMnNXI3tj0tk2xTCu/grO4YPogFKck2R19BudlyLESuJIKIVp93wkmpeNSM/yVAMB+nwb0pyyiYTcy3BU9mXQ/nRHy9ECu/RR8IY9EI0Sf6B08btISkJYB471KYnDXWKCLi6YlUxonpsjwe4a1Nt/n3st0Y3FqfCiez96MlalIVolSjyOJrwSaPeFSkD1x+PputWDf5a/2gYqZ+1eDc;S80Lhi27JzA74BSeNR8s/A=="
+secured: "pHy1AKaX9V6DiZAqZ4fz0e0zUetSpvH1PoAZSZytzGNVAxAx0+Kajkcj4MTTeQXuR39MajqpboSAyhKp5gHMkbvoDonMOgE5Uz8ZYutHN1nT55Z2cCth1ioFeFabSJmL/1hdJKayf7kZZerQ/sz5giMbKiMEYdQ0PS4WOT4xGLjFjEj77QTi1ZGDHdW3GHswQIspeMJIG07oDlgM+koFOeUSu7QpgfmHCsN/9kYOKvktsSJxefGd3pIC6uiYSd2VzHfFXuuGo9h4fTBLu0TGzP/oy+e+BLWafJxf+jNToBE8ZXqjWKG5TSj8tb5VZ4nPSudbK2SD1AyH3u5JmF64FntIqxAzVzN8ljnZ7m3/3YresA2hZfEBntUk+G2lLgpjRxpQp/MVBep4KdvuwT7Pew==;HmLJxHwfowulfjg6dpNhlg=="
 ---
 

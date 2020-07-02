@@ -4,7 +4,7 @@ excerpt: "Hi Power BI community, I've created a report that features three key O
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Summer-Olympics-Legends/m-p/61971
 type: download
 publishedDateTime: 2016-08-24T14:51:00Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZGY1ZDcxYTItMTA4ZS00ZmNjLWFmZTAtYzMwMGZjZTIwZTFhIiwidCI6ImY2YjZkZDViLWYwMmYtNDQxYS05OWEwLTE2MmFjNTA2MGJkMiIsImMiOjZ9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 809
     isCached: true
 
-secured: "0zco1QPyC3uieYJqkxGhoigZMyiGBrkPWhRaisOIkhaw/xRjv+/FkDiNMWd1NGgu/aI49ssvOyvdYT+O7v9D82W7LdHWX88DQJWMEX+TP+gae8IiaUTLq/lclaqpoaAB/0nAmszn2/KbUCt1xj80Qx8yFWyLy1c1kIOfaYCHNm5WwaAXDZK+CAqq+JkEmWfyMhA2j/BJplbC0z7hz1//Otm96Tbo55C28z6rSZVrou+m10Zmw95h7E2yUXsR4ow0f0TNUqoNK4Yo6D434Q/BWD7YL6YDZIueeEoARUp9fZ15r5sYZoRqJhfb66L62DouFH8O9tWNs60g+hkLZKCWSrVl4xJAgPRZWdW3MljV/5xe4D0pk7gpPxhzSnttsgif;y1qKEkg7+onieIG+z9C6VA=="
+secured: "n/RudQ47Reqlaklm6Z+Zq/0NjbZaxWnyiXXYcQ0lF37DEtKWnzFr70TblMILJYlM/1o0DOH1Pi5QeTSxgfI51+0TGH+F7/Yswu3I55WmD2V/uH4ENxgd5x95NfHRXdoqY7Hi+/hq7BDQghhUwbAtYScUaIppP+NOvrB24r730Elib+mOM7Pf4yShMeTHEQTIzv/gsmx433jbVdQgNGw6upSZ9TKEayDaXBlPc5Eg2iTz6ocFh+yKajJ4fJIleEEyY0BWlmKTOJXXzWrLyb5JaqR7S43BLK5aUAL/Xc84vRk3NZENzz61iO7U5uOm3EE6hljC6giA5ch/Ow8gtbof1sPEgkpruydN5jyRDznIZ4WNwKq+dmxpDlESS+g23RdtshnCmK1ec980jmoIiDROKX4EI8PvChUc986JODTXBtU=;jnnQxKjCATdBYUo7/juy/Q=="
 ---
 

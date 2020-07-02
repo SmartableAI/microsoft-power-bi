@@ -4,7 +4,7 @@ excerpt: "Utilizing the design expertise in Power BI, MAQ Software engineering t
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Mobile-theme-by-MAQ-Software/m-p/511914
 type: download
 publishedDateTime: 2018-09-10T06:25:00Z
-heat: 50
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiY2Q1ZDY4Y2UtODUyZi00MTBmLTk0YmMtMmM0YWRiODcyYmNiIiwidCI6ImU0ZDk4ZGQyLTkxOTktNDJlNS1iYThiLWRhM2U3NjNlZGUyZSIsImMiOjZ9\"></iframe>"
 
@@ -43,6 +43,6 @@ images:
     height: 636
     isCached: true
 
-secured: "jEUlNJqzM1qssxg+FuzucMLBHlO5/iMQ6wX/SS6fBldyHEWzO0S2l2izjzgeLOJyD4+zU2YTmP5UHyEZZvVDG1rVhlrYV0vSOPhyD9ZLJZqemMNQwwNUFIVZzRV4myEwSmnwT9AAklhdSB+mm+1PcX5/SLS9z73RiIlkNuSVgH9xKK56F6xIpHjGmN4ZXZAKjNxRLzqzZ8qxbP2CFiiz7jY0Bstov7B+rEEEktApbHY+uC/s2hU7stRTVlkiWdIXXm/g4FswS5Up6hBMEKrl0yIoiKFR6r+UDuPexqArGZeuNxbR4LCVFjgikE+GgarKIBe1Pz4QxtqVqS8ycX9cil4mLqB2aiG0Z9OdC1R6ltPN85tHFEWumnIsE75f04kD;vhiFZ14dzBkWdmqdKkUJPA=="
+secured: "4x0f0YwcDJy+ksNeIqpe73VmI1sbP0mHhml08MANzooVJzUK8HLIHjHZSxH7UOzg20c4PZJDzkESf4EF5iG6bmsKpufga5VLJ5u7of9j9XPmFkbokxWwmgLnxKVNJDxLsEO75iMl7fdnMjqVVSVnLVQaHsbiDxaTN/w6o40IcRiUP6i9DSwGzq0lidQmlxJ8xIw2sd3dZtHMx1yfrYQKZmFmM2516rQCm446yRsUEqkKw5vMX65dvGtZGEhjF9XrYM6OOs/0RxkPc2Nvig3jFn3j1S6osoVaLnFmxoODikIsSgRTpADW28MNt++1YL9GOW0LAoA1JPgwllpX0T1jCCdOi6Qgk+p7CfqvzjxQPyr8PtiBXED6615KvIFIt4MgpfGX0wWZpluXpNifTdIl0A==;TlXAgJyE5/VN2b2RmVcCOQ=="
 ---
 

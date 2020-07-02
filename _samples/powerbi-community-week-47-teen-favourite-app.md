@@ -4,7 +4,7 @@ excerpt: "makeoermonday,Week - 47"
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Week-47-Teen-Favourite-App/m-p/864764
 type: download
 publishedDateTime: 2019-12-04T02:05:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNGZmZDU2MjktMDdhNy00MTA4LWJlOGMtMzc1MDQ2YzliOGMwIiwidCI6IjY4YzRkZWNhLWQxODEtNDNmMi1hMmJlLWY2ODQzMTIwMjNhOCIsImMiOjEwfQ%3D%3D\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 525
     isCached: true
 
-secured: "JPxa6fws5UvOo5SrboauDwyEqoBV6srQL2j+NfGPrDvE4II71W7Zc4LmCw2k3HZL1MQr6yJagk2AHNCMwVlPrKavCfs5i2cISI7JGQf8UXhhhIcw/pHhNvIcMZhQLxcvsj87r6WH9+aGXorY1nd4yBxqpcTy6HD46SRz8lBqks9pz3fxZsXxtNtVXBzOstxTX5kvIbjmLKXlOEUtKKnRgMaJ0HyNyjkhz4SwCfocIDbayBPkctTpR0ZZjkcq8HMn+UcnHq8gQ/6NKea42vDaUFofRy8+t6xnitrG043FcA30EYQP3GHd3YmakqK9fBhO/I7ttLc+FOP9nFjK63iyZevcsxl7a1bUlQF3XSNPqPM8hlVs7ZV6z+CCEsJQSAQv;bBHsaGZ4yY2c2fvOrEtvlA=="
+secured: "80cTWauR6LpRrrF/afhca8tt3174tq12Lb7D9qFSeia+P9G8lrU8topiizQTOELaawlxfGXmByVVCHXV9mwwvYsnG03vggWUnDQsGpSJTfO3WJCPIiUChIUvq34HRosXYxRg/gjWLAwlODOASAIfoGVhZqaLAK5tzKfye15a5VhigtR4lByrcnOgNax0QB0bRrsTE28OSrXaOGV1v8ATEc6jz23ZRIKrc2D7ZKKoWmdNhUq2rOcTLU5cx6kKBR5khkTNzSem92fVqtY/1XYMK9ZaLyRlpFhXGQBfIK2VtslkM5xsTHbu/Q4Yxf19gDN2v2L5NaWNnXtCKC8vFgogPAgIYZNMvlKZR5wH+Xpyxhw8LRXhTAIao7IvIC8nuPpFV82FvvE4CUgaU/N4pAJMng==;3i2WaUe+gGPOgWEdSKU13w=="
 ---
 

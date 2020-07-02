@@ -4,7 +4,7 @@ excerpt: "Anyone can give a donation or loan to a political party, individual or
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Donations-Accepted-By-Political-Parties-UK/m-p/814338
 type: download
 publishedDateTime: 2019-10-09T23:23:00Z
-heat: 52
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNWUyOGY4ZmEtNmJlYy00OGExLWFlOGMtMDFlNjdlOGZjZjAwIiwidCI6IjgxNzdmMWQzLWU2NTAtNDAxNS1iNzdhLTY4MjUxODQwMzRiNyJ9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 835
     isCached: true
 
-secured: "2DzCMmoQbHtBpHwPLCcyZX6sTsqKPPjBZgyFXbjQQGG3sSzq2QwZJB2Ly8fa3mnQF4vse2qEhUWFa/bm57MsxJE4ae6XD034F5IKJrxA9HLW4wgTA5FnrJCnpObRZhWYRUfMp7H4aCTnILXFt4OfgLj5qJ3lXTVbks/BhlpD7fjmzGg5N39T5YPH0uVBA2OQugpZnCCj4uxyeHZfvSgkQmkWdPx9dWHFDmoyS5k8ZUch0g2HuMwYcltEMwhRwgpiuA0yAgEmp2pkkemu/pX7BfyTzn+F1CIXv7oNSDU2qSomNh07wNnDxswnWyabVpbIqHGYjtHn8WEZQGtxBFcR5F5y+twnz3J6q2UxwRWwRIwgVgqMDmeXotAFcu5m3dr3;FpEmTCpOGxmynJ9TNgZSTg=="
+secured: "TWaa3hgLh6CD9H9ryVCJjPVqYidMFfxYXi8Eplh2ejyeT92sZe/ITTiJEW4/22jTEGTJVPaGUVvi/urK69YWpj7btHxWetx09cPtpw3HKDZEgGWp0EDOGhTY2niqRYUw2wVvfsRBn7znQYDdQFiSztFb7241kqxZencwaiEpjG8tiOYtRS1IQuoHFOFH+apZQAHGLQ6uKhk7xf74BUSJgdHP9Ed6JsAsjlNYAb9K/XiCEmQKAcAYCO63NBj/EQM7KNuwu9JfdtBL3MHxT7PmrRy0yu8dFvumLTdBKGQB2WOWMAvcpHonfu/dgQ15KzE/LXikOwAixwZuPoJwdW0xtAGw3u63rUdu7hLtnZJhiZYEioy7XymF1+nbcwQGOOrqrXYhJYMpbihtWUJuVNZv/w==;MMpmgvo7vOOHxcQ6exjC4Q=="
 ---
 

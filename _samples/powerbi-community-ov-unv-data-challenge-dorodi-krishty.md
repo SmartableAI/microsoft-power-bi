@@ -4,7 +4,7 @@ excerpt: "As a data challenge for Online Volunteers , Dorodi Krishty created a r
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Dorodi-Krishty/m-p/1081701
 type: download
 publishedDateTime: 2020-05-08T09:54:00Z
-heat: 54
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOWM0ODM1ZTctZjg5MS00NmFmLWJhYWMtMjFlNTAzZTI2MWNiIiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 1179
     isCached: true
 
-secured: "CATc/2FtgHsn5yymgfObhqZ2warhKztf9LYyVnReIgaLSLseMqToyG2sZ0OJNOV6l9dZptvwnff+azBIWcomdR8C0MAv6ldd9RNmJ7TXVmPtL6ajyeU7UmQwaCc9GgJT+cGnHaLD65kaudDrwcu3qxQ8WdyfzkHfCeFUO5DYG8IRhdJXcso37c/qmwUYD6GpZUdnrLz1/biGYVbB7U0FGt3JM3HbwUaJwAN7O3X9vjQU/IZiqb1tWQOCqT1kl0R/N+kM4yrr7Zez0vcVFjbMQ2fkbZM5aE2E13+U0/dMH3LYpM7/xiOGFHNfrghMgh6/zg2PD1qPWkkhP4SpobcCJfPc/4Fwb+lLVOkecNt221zMvaqkjpLCnfE/Y2ajTEoW;VqyXfij4choNhu3PNERU3Q=="
+secured: "B5bpqJVV/6DgNqzKs98v9hKpNfhfz4iG05BPpmtLeJZ+Q9wGgFYQSqBnc02q3+wu+9Hkwk/WYUOLWKKVSMPUNIq9zioLUW2f3XKjoEc7SxGCncosZndwPkCIoMjTF/QprVW7eKw6DW8fzFgdncBpCw3tp31hAWGY2It3rVqcbdFbkzD2JCInjBLGkIgSxEOiy6PT/7tWKJ4XFtQIk7iq7AEDK6Hnz9RJlDepjKMjfeys05KTWVBR0llyVaLx6WxA9RypCrD4DUmiQ0uM3AhBo1jkb/0gBhRufukLDcB+uNo1KOFmzcjQaHIoMSjzZKhiy3R3RHUxPoTuGU0mWIRiaYHdExJsgVHJ28wfaapt72UW0/7NMCBEZf11IcWQhO9H4nJ9WmQt715CJJGZpsLTlA==;eKy5LLVTeAx4llt5SM8SIg=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "eyJrIjoiMDBiOTE2MWMtOTg2My00OWU1LWJlMTMtYmE4ZDU2MGQ5ODNlIiwidCI6IjI0N2
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-India-Trends/m-p/1042123
 type: download
 publishedDateTime: 2020-04-22T08:57:00Z
-heat: 52
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDBiOTE2MWMtOTg2My00OWU1LWJlMTMtYmE4ZDU2MGQ5ODNlIiwidCI6IjI0N2MyMTU5LTI5ZWItNDVhOC05ZjVlLTQxMzgzZWRlOTAxNSJ9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 1080
     isCached: true
 
-secured: "p0U/NXcfielRRBLtvQZkoTZoDPZZjTQ6XRAvs8osBN78UPbOyL94dMNsYj5QOFpEeNEb4Pw8vI+LSaAZUfqyiJCpPLYq7B0IzJAQN3EUlkBJOzZAMdZQPygLJh6BMg8BhPwqahNQlbvydBBeAPy/ZoJBqTpRpEW3JC9FjXeFrc23btxpUcSVt0Xo1PSNtayJ2nluL6UBo4gzKQvY8kO49hyNvdq+7Nz2otYdPe4nQZr1dP82f6FrmoRjV6kn9318En1miorppZg5fsbI/cLjR4PY3Q+EeNbWKZXd+jdmydBAA58HS+2Wb5OdR8/5HUT0YyGEp+8G2fYkbX1iBZ7+1a96qwKzEFdlvplYUJm2VFL7L5byVbtsBIp/KJBVEWG8;vb6fcUK2zY45TtlUEkgUwA=="
+secured: "MDM8iXVt94rsPcJHKsFDA6gLGiepvtB2JRkE9sBgE4KznGSzAr8kn1PEYSZTqfIV3eH0zzws/m1/rJeELxUSrIGxzY2X9je9iSHYv2++Barj6Tp4y5qQ/cVuRpEL19SXjHSMArY3oS8novbHUy4gkXfrF73ZsIKaprqz1aate+DugovIlCXJH36z7iRSRnC4wjIv6TRst6hWYx4bZAB+8YOCmlBmoquQkQL9xow+2zpWYH2EQmW50VIqVFXjDyG6ZM2w58LuvjFMyWWnMqYneDEE9MJFF+ViHyXehvTMJgavubumGOq3CkDGUWH8gnUgb6R89Y2SDNthdYnihLVLnd6ZQ8XPTmKk2h00HEXbSU6qyDVHYSCM++5kHgDjt/l9u0jk+83JbDVXvCkwc1yMvA==;lZV0QnoCONJDWpN1ffGyCg=="
 ---
 

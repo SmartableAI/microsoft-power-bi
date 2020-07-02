@@ -4,7 +4,7 @@ excerpt: "Who's the greatest of all time? A statistical breakdown of Lionel Mess
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Messi-vs-Ronaldo/m-p/1037226
 type: download
 publishedDateTime: 2020-04-20T09:52:00Z
-heat: 52
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDI1OThmOTgtNWE1YS00YTAyLWI1ZjItOWQ2M2YwZGY5Y2FhIiwidCI6IjNjYTg2N2FkLWM5MjMtNDlmOC1hZDZiLTkxMzIzOTZjMWQ2ZiJ9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 1110
     isCached: true
 
-secured: "2AErNDGNTCZp8rVlxUPAYyLZdpL/ltXelesIVX58d3nTBW6TKWt5gdjhNSFOvla4oXPg8GnO2zf3j61QGyJ0Y8x2xZSbWYjQteK9x4hFZFrg00pa8sIwNwjSyhXsi/6FeLJjvNkxPXKNubsF9fC+HlGqEr3cH5XBgYyZNxZ/9o3c1CHq4jOJz6V6ojgy/2OAl04liYDgL+Rqe9Ghse0475rO5Ddi0T1qmG0yL8n7gQfGUtD0806uBy9mqtxAsHOrDF9z37HrkATRou6AdUSqj2CMv/YJExhTRIRo/Lcco2+nEsRXuzrInHP+WH5bhqx0VK7wiNsNrL++k4N4eX9xvgsHfbq8pUjoM/Ls+aYK4VLyIHBmILf/Ffzut/TidiUx;xxuZE3/nFC43q74Zx/1shQ=="
+secured: "3uEuVhad+AqgU0fjYFR0CZlB8rU5gmZM4qXBqx/gRYK7rq23MeeKbbJpyovJBlLT/1QcuXdkcZA3l12ImjflYzH/iYj4YKAcVy72jA/otGhb5fkylwYr5+F+P6GysWjtc6qWl+jRgcRKqWS4pM5hWQAcTELVhxhS2CNBRC1xBdudFAyFpta/hm0y+QFnTYQKhcwLbAQ3XuX8gB5Ti6Dr7WRcupjkd5RHfoJ/y2L1RHBuh2l5TOwFEudvtA0zMSJipmhXRB9z/GnoI1oZw/vG9OwFvafIPkQyMpPWOxcRkDsroRYr5utEN8MdVlDV0mnRQZi+98ZYZy+Q6DMungswwgEhmJfonqI6s71wtdWXhC19qSor9AoHpyzqIikg6BoYam8g9rfnAimr5GVsziEviw==;IskjJfuhodluhKwWFenDwQ=="
 ---
 

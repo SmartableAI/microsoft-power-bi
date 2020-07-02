@@ -4,7 +4,7 @@ excerpt: "This report is created from Harvard Business review article - Best per
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/TOP-100-CEO-s-in-2016-by-HBR/m-p/83972
 type: download
 publishedDateTime: 2016-10-30T20:15:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYTQ1ZTkwMDMtMDYyYy00OGNkLWEzMzctZDQyOWZiYTJkN2FjIiwidCI6ImIzYzUzMjAzLWMwZGUtNGYwNy1hNDQ2LTQ3OGY0NThiZjg3YiIsImMiOjh9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 790
     isCached: true
 
-secured: "ekGzOBf/RBRBOh0ihDEhQlBL3/BLX+x14S55xPgSXH8trXGFXAcLkRYMXfWByauVPv2EvX+Dcji5GtU3QyqDoWEnvOT4R+0fzZAQvbiGSQyxbpvZB8Sphgp2WNLt0Bc9ipyPjUzFwe9aI9yMJL4ewDQq0u1lVAg1eY/mr4hkA4FQ6fPmLvYp9sq8eJxghyhisnQejdOzC88YW39nNNo0FybxZ7vP+wmpAmTBAstQCIGxswrWxyrqsX+O68zOAj81APwrLScV68L5/H6INjIHUOaV0vdbB6o6jBQgZpjypr4fSbSXvbtqM6cQ0FnCNSfaq8fHeAXU+8jN/OYYXGq/kGtetjsvKjftv6D3yFSOva57+yaX/GY8WbKK19GDD4AX;SZf14OAt/f4DKhzFRs4aeg=="
+secured: "q/+KOaUsYgD4HK4jyiQzzpqGLJJFbcAqNnvjj8jjKz2Iwv9mxr1Vc3l/LYhf8u7E87K85BGj0dILOjooNonuAVXB/FdZlMmcSHdiyBHyHIvfHbm6/M5Pp/3Un66zUvNmYwUEXIs4+SdB/t6HFixo6QDjT4XKVYl6DS/XaTtspo2faMsuUGowxW+sYGgWjCKMOuCJJiRfNQYmRomgpgtEjQ6UfsKssko0OV33W39R7TyaIAie0InDVtzmlqjJs6DIVbDwT58NOB3MCyZEJ0zFWucEGrIrGlB5Vx3mfhP2VqmjcfZPCJUjHRq48bzUx8HP0c/HYB04KEpO2i+l4p3CzkjXVgDXn3DgQ6tqv7/7ZmCjn9DLDRV0o1VCvYY4aAKPwNN6p1vge5ekY+I+iAs1A+J+laDfy+kcMMd4oFf+b6M=;MlVrY4UAwpeBd1/xZwCOMw=="
 ---
 

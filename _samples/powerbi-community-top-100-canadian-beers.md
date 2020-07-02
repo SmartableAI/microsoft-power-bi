@@ -4,7 +4,7 @@ excerpt: "A walk through the geography, style and ABV of the top 100 Candian Bee
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Top-100-Canadian-Beers/m-p/407267
 type: download
 publishedDateTime: 2018-04-30T06:03:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOTBkODA5ZTQtNTkzZi00OGZiLWFiNTItMjUzMTEzMGVmNTI4IiwidCI6ImI4NjY0M2ViLTY2ZWQtNDYzZi05ZWU2LTE3YjY5ZmQ2M2JiZiIsImMiOjh9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 1000
     isCached: true
 
-secured: "VVSZK5PpYTIprPDze1nl4YpLtPZbkngM/kGAAMxq8ajDfHTJ/UbMRgK8Iqa7XPu/tyCLfRCdMorjN9+bz19ylAj0J9SfISlXnoQGO03GbMN0/WcxcG3ANBHgub1KCf2s4IOruf7s2OFhlE7Uv3kSnNhCUtepGwMl3ECsogVIDVgxQn6TFkl4fCL8T+xrDA5PS21GqIEviArE5txPUurl/Q2xlsh65EdzuSrZaW84E1dXepYkDXgq3vJ+RB/yjclwOgtStnhiPgm7vlAZvHH+1POflcuRZHFp324oR6h5ZXVv9DpP5ZChwTYObINwJqb/U+bPsQP8KtaQbj9LUnrBNMftaEMaRTnyW24a2ORQ6lv+hHXNIpvbTkxsLmsbxhPP;NJLpQg66UkgT/LbnDdco2A=="
+secured: "+xD09BRpCnj7lImUqxXVcDEcBwzQgRPjyMhMofDLC1Kf2H+H4gF7Ei06xF/GirzmHa7JBsokiCiqulU/C6IApsEd3NFTMh+obCCjixRbCIEshvRUUvS1bRbMCd5VLP2vJRbsP7skS8y59sQNz2hwkuUDVdp2a32L/zb2pKDIsUoeuYyTQQLNBEoyI1KDiuPBYV8+SwI4J/2WQ5YyMcMdKvnNLQIdPAFwQ6LXhlclLoKEnehxrmOXkponqyHq+Ltp/ArAvjHM9TagqYTeK097IkwTlMHr+3GZ3FMGu2zQZa+12ULKEmQL96JTMxxgIHARhBCf2Fj0q0shQMDFqScEavpYXsOMHjWkL6+gbrlj9YKn6ZhgX88nv3+m8U/9n0zlMh+P17f27rfgxq22Org8RQ==;OYnv8U54GlVVES8TYTdlAg=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "Our goal was to create a simple dashboard that enables the user to qui
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Pomerol-COVID-19-Tracker/m-p/1010226
 type: download
 publishedDateTime: 2020-04-06T07:40:00Z
-heat: 55
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNzk2MDU2MDEtODkxOS00NDJmLWEzYzAtNzZmMmUzMjVjNDJiIiwidCI6IjliMDFkNTljLTk4NzEtNGM3Yy04NmE2LWIyMTRlNGJiOTI4ZSIsImMiOjh9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 878
     isCached: true
 
-secured: "pg/ES9Q9Zt4rGMt+V/8ZOO7vgigAvhjpg9/XOnscV4hXFaiWlVXhaMJzLOx2cWdbeca/02ZhwCZZf2A20fmm1J7EIveFE7bNXCxx8eiX9ELFe1MBcAW/UhdmVzRY+TDBNoyBnN5h0VA145dTCeWRyGVach0d2NGPtTrLzks03Hn6TfTJ3opVQbK05xhaSKwGJzsKpCbp5pg12Vx6NfRezU7zSwiIqY6gtpCUxD0V6/eEoGJbwkp2BpuY1pDnbI3cQLaOm9iy8qRgV1vDP9tUMN9Jw6BXauSGjS8OIb/hqLPechcEuTJW0ixk9YACTFnDuSpWxgcnP26d8WRvrPmsul4ziMS67LmJS6sWNvVEnce6+9nCzP8LUNU+faZgU6WN;viuTA1kZNLUXETA1cFNikA=="
+secured: "WHGfHVcNzsDQxmP3MAy38Wkoj9n3IckQlbdyKCVPMZTlEgO+Tv/xm9eilSjoVcGNtnHybAkJYfYLmlC+QKcvH8ooi6Fb4NqSeyNJAbZP5iFHx2mHB5WZGb+dPOdMc0GECW2GKArwn/A0CR1GV2KUhn9FVO31GvtYXi+OX7vTcifrOeu3EirNj3PM49eTDEFf5Gfr2TAqTjy1vEJ/P4iN/uKx4YyliKP2+8SDja78M01EvclzUUY75mMFwfLmxPj8teP9baj/AHDERGbYN0q3JlNRZwrhTqiJWZTVAY1Fjp5HX+0TpnA/ipGGDgb2nt+XIkjjRzjvNXUDzZcVN3rwIdwqTbjwEMnsmjTvVQhejnX54zAbLeqMnJyK6La1+K4Am+fzFNnkXaCzrAw9P8AQ0A==;Gps0ysmUtbRRRoDT815HAQ=="
 ---
 

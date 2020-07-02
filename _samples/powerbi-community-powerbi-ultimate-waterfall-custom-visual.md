@@ -4,7 +4,7 @@ excerpt: "Calculation waterfalls (vertical axis) - The status bars represent bas
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/PowerBI-Ultimate-Waterfall-Custom-Visual/m-p/148895
 type: download
 publishedDateTime: 2017-03-25T03:28:00Z
-heat: 52
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNDAzYjJjNmQtNWU1NS00ODNiLWE2MjItYTQ2ZjliMDhjMTc0IiwidCI6IjJlYmI3YTRhLTk2YTYtNDVhYy1hNWFmLTdjOWQ5NjUyMGFjYiIsImMiOjh9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 1579
     isCached: true
 
-secured: "WYuem50lh4QUrsITvcoPZHPhNC3tbV4hnuiJ6G5FJR02eAwyBh60OqoymzJ64T8bjNsEml7cMNvDBoYn4/BFUM92tlmeW824TOaRUTwScwh3fZ/H8WtZQSNxmO3UOIH33CouxXRcSHgq+1riYZxC5He6aF2yUfK2qKCB4U/0r4Zmxx/1dn6nT6lHuWoprPYNhCP3ZzQ9iJ9sqMdV9xH/WWaN1r4snyUCr8vWW9sBeuIRvI/jbyEn25x1lIURMvm18UMiNQ5En39aOD8YMjlKcHYk6jxInZrEBhTskKtc5B03sZy7XL6V7Q6H1f07VbMCj49Z02np+7vfRY+zGEvx0+Is9AGVdV/nt5c06EQ7BYTpIiio4H54QllYVRyg0NWL;ryn0TBs6lOnEXXwFaOMbgA=="
+secured: "xm0D/Fr6+R8IRmn4DbyApNyrMJ6tFxMHdoFwv6JdNbL15uC8KmEU2h4d4qpnfe2TPzRDf4jEzanxFvETA7goTElxKY9g76CQlscQbEHbikRzU8z98KPrIglOx1er90gWUpKUKOX4ZQCFabbRHn+15FThvv3jPkccI7CFUUk6p+lYKBCDvnuXsJUNLfsH7firkO45VQFrrMrCKiLf4xr1sAvboRreYph7PjDJS06Xv3f2lTUfFqleORpmlZWe3M3g8mFLR8NSrWp8LwCmusA4hWfnY/JwHCjT0YuqihF6GMOCRu8gbvVslePSqItid07od2XWT1QHdECzXMVPK8fB0EGsEo6wKABKhtPVCAy2IBBZfxtUhcSS3kILr7Npuvz3w8aa0qrg9c0TyowGjS120UHIFQ0PZDBIiHsLtF5nWLs=;V7A0P7+MfF6c5mnyVgOiIA=="
 ---
 

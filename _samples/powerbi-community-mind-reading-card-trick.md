@@ -4,7 +4,7 @@ excerpt: "Created this fun report using Bookmarking functionality. Reference : h
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Mind-Reading-Card-Trick/m-p/330548
 type: download
 publishedDateTime: 2017-12-29T12:12:00Z
-heat: 52
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOTQ3MTY2MGItN2I5MS00NmZlLWE2MWYtOTM5MDE3ZGVmZTNjIiwidCI6ImE5ZThjZjE4LWFhMTItNGM2OC1iNzIwLWQ1NGRlMzdiMWQ0MyIsImMiOjEwfQ\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 871
     isCached: true
 
-secured: "WDrXhNJ7/ZTdGux3+FKvd+guOPaVU0PNY8LFbNRPKTANKDhGCfDWLxWPABmrQzl/r0HjmgVD6h6KRJM31o5/zE6tou4cGEEptVezTc6jCvU29sfMNwZUz9m1fHhmlXuQovA7OpQ7dZ6bnduYmUeucQ+ATAVrDl+Vj+YeoWJHKEHZrQc7AJzqQPlWeUGz35TTJ9luBAohrppshMY8dLUJJSUxLtE/0rEl/h4KN3MVB/XEvPH6M50gOfS+b8zG37G72+8z+1h/6CmoUcms0CHNcbTwnrj/aWk/Cx+mO1y8SI9VtRnmKd+H4qU0bDGwdwT0ita83MLLyvruz7aCwRrpSWF9jt9CJvwSdTMKmHlXI4O6L3Hr0oYZ1DpW4+dTch9/;D5xW9n/hbg3H9KbSrMmOtg=="
+secured: "t/KMnoKMW+H4j9tLsWlWg3bjKl3U1/6jTpFxee30YiVZ0MhkiocSY//DgdPMJFbM6rEq9j5889ZKHcIthW2+vUqmCw78UtGkQRxlOdcSFGR/naVCsLVILGLMVCEiXl8+XKeBpQQ8qakDXsmEIU6CyxxmlbX8HV7SJ/GXRdGVsoi+GVuFUblMWO5J8IaBz37Jz3ERjWu5jqF/6htlTbzAu7roGEpnecRV8fXYHZRvxaE55pM3cxRrHO09bJRcaKQ6WSWQBsvdpiQcMOrNU77hyJAZX1WAwBErZ440tkvC7R2t3Vf2af0b3rZTcPLzqqhaCWS3fOEj4O/Y7fBdOPlu4XOY5/UsMxeRdNqFM9nkPxNYC3ewQwTQj4hNIC3I1BUhpNIlynDh1HSMYr3MsdG4F89L82DPGdTfKsRp50di1G4=;PMv72KHr89+Oast9Q3zhwg=="
 ---
 

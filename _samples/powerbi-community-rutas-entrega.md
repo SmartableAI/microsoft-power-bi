@@ -4,7 +4,7 @@ excerpt: "Reporte de Rutas de Entrega"
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Rutas-Entrega/m-p/431702
 type: download
 publishedDateTime: 2018-06-04T11:09:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjcxOWQzY2EtY2VkMy00NDU4LWFhMDUtMjliMjBlYzEwZGI5IiwidCI6ImYyMmFlZDcyLTc1YmMtNDI2YS1hOGQzLTFiYTgyNmY0ODI4MSIsImMiOjR9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 737
     isCached: true
 
-secured: "MtFqnHUqTgdv4EJZ3nXVnT2bmSRjmiPvLsvIMHiT4a3qpxPweI4Qr3THYO/O0TwawgtqstPEnRQ5BDKLdvW14N3moE6dVY0Z6lkqrHRdbGMzPBpf35sseB/G6Fz85LucIjcxyKckE3hWfr6fGnte6UYPGOyUr2hlftHOFXyuyO8Fkvu3D/BypgVBc6/CKBoCNJFx5wgknfMtTTvJy/ScCi4R4jvWcY2jQdf3LxwniWoatUnWNi67dbsCpXNZAnURU+xsde/21ekQkm++PrXYagL3MU/89YCwKx4D/zAMJpCtA3Yr31qGJjCnwIZa6FjkPDSYvjtanNtfSxllBBQ83EQNCxrRHkSCEgYbgrnRiO5JkvHXiUnNBchvVvCdwhwS;L9dKnP/HOvzmbrD06aBO8Q=="
+secured: "e3BaVElbm4HG9UmIUi9+jjtbp7dt3otasb33kSd7Gmb96/lDLd6l/ojl8C3DmUDQHZpJ28LrrLVms6n0skV4nO1yDwtCzWktrHgtVJ9hnry3SeBLv7CqxKnWCvZXkVovxT5uGyxCQs3m/nA/QgNtPsvgRZI1wIQ8zouHJi2BbylQmKV7KjMtiEXcgTWs5ttQ0+qhTkUo3XEY4iYM6Re3fwQuJH6Iw/E/13B+L+N5PdVl38HP3gPIZLUDMUiQ7BmrUrQxaeHYFhWkExrmB5/yTjy3jZUJt97SCo08ZcgoSUXM8GdPtFSF3l9IpLjFz23DlSrG+vNOmgZOq1+ym+vfKoIvdrsU08lc+N5ER9Rw7hcUJbMy59wCOL9unSnv5VnrKF+V0JQnckqH8ZA46uFlyg==;JAudbd09MN/r71Fvk2l5zQ=="
 ---
 

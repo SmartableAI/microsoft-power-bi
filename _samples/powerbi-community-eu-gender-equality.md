@@ -4,7 +4,7 @@ excerpt: "The Consult Blue– Gender Equality Dashboard has been developed as a 
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/EU-Gender-Equality/m-p/73667
 type: download
 publishedDateTime: 2016-09-30T04:50:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDU5MWU0OTMtOWE5ZC00ODkyLWEzMWMtZWI1Yzc2NzM5ZjZjIiwidCI6IjkwNTgyMTc5LTFhMDktNDJiNi1hZmJmLTZhZWNjZWUwZTNiNiIsImMiOjh9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 512
     isCached: true
 
-secured: "3dHo7xIezL1lwo4UmY/Tbge/dhRGRdhIAfYvcl0sLg2loBs0akojNf8lDff7APGZd0OUvv3NsuJpvv1pQWyAmyC5gJ7K9arITJ7V0LcxX7+EQk/YiS9hBo46q23uv5kCmM4gR372ZPxp0YHDY+kVjTXTNdQJPuWXC5V8+p8P37aNuWC1dhyvp8keEnbF52IGCK5zXtnuvfNWFLnWjcoQqE0IW61b7zmbpCgAfxDL4RyTZW1mS6451vkJtfqE/+5yehKFuSch3jZ/4+8JjOqPQVoTKYNrth1apmZy8oLDk/TEWgSwnVyEYPJ4+05hJY61z0UqZpQDjGP8yds2uYa3JdUVz1PaKwGOR+eEq3u5u1F+4EZGFAjKcW/uE+/hQAS7;omovMXV+D98nL3xi7tB2UQ=="
+secured: "I1VhgZDeGMlseV9M0GVM+OxVy8A1RZUo6RaD2QE/0MweSEt6HVwPxl+QYTcem8QrH92EfquVV7KxlwSGmxtJM4tNdLogkQD0rJrXGojLuscS4uZ2iq/nYXe6ObseG0kW75WcUubo2Hp1CUepjxz88lM07DyssTzfP+LkMDWyymK0mvwgr8y81Xza/XqQoKV4/5shWUMsuWrXzm7MURz/5QoDzBxMW2Ugt8Ztm9Craotl9SOrDVglayxOP29cRq5cBoG/Vb5Ymn/5Jf37BeZzXmtlH8YYbA4ba1pdIuGJo2DmURmtaIynhkRCJkG7AZ38u4/fs8s7WKsCEGAdVwhMEG9WN0WC/czhb0bTPK7FPfCfAZwTFiuKjj6ZmMWWKKTga7ZFuVBzIlEKnyiPBEExwC/dHuNpgx3fER/t/NhxOao=;KG+fnhxwsRImTVILOwa+bg=="
 ---
 

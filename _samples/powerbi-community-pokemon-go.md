@@ -4,7 +4,7 @@ excerpt: "Solved: WHAT HAS POKEMON GO TO DO WITH BUSINESS INTELLIGENCE AND POWER
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Pok%C3%A9mon-GO/m-p/53729
 type: download
 publishedDateTime: 2016-07-28T05:29:00Z
-heat: 57
+heat: 58
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOTY1MTJiMmMtOTQ3Zi00NmY3LTk0ZTctZWIwYmZkYzk2ZTk5IiwidCI6IjQxMGJiOTRmLTg0ODgtNGIzMy05MDg3LTQzNTU3OTZjNzcyYyIsImMiOjh9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 800
     isCached: true
 
-secured: "/hMufamILgHXjx/auMzr473U+XSrDDw+db5tLl92V2fdf4ZVKuP+llZi/cvCOUzsqBnGT6cVo5SYlyVS2iypoE+sIwBPYv5t7QN0ebp4BJO/3P0XGz3lpobJNghTRpWzCUpO9nLypxparaE8wEruH8pp5LhxI4XrUh+O4CSQfqfkVlrrWVBYRP6nSwwwMYQRiaZi6AymelQrwHyNdtOMTnxmB0r1LwdPzxLC2KN128YI7gCtJNoX/7tlvkMYF/inNXXJKN7eRQ7XeKmQlegi2Coqb9Xrjv6KIfzSTAoJnWW6hjxyqqkjIUeJJf0MAeOqMcl5apDYutH521FmUZvT/ABO2KzfIJPDjK3xJYPzzqUkwCL8JalMbdOd4YDhVanr;iT3Z7QITOWTxR0gvB/h22w=="
+secured: "DL1SHfTRnxGf8t5ylzOTWNNdnCqXgyKVBIlH1bnoNBkWGI7K7tkvoSPVskpMVtFSdTg//Qq07bWhQju5QdMiUSG41dCzy2YomOpuXpUA25xhjFYGujbL09kLUeHftPLJgwRS58WPZcOMOUmshi6qekgxctTcNfUc6xydg6W3/hKBtFsbBB/cwkTCra4tNiXfn4wAVurkNtDH+BRFFJVqqM9GLnahTUU9vbatvTd2V2oz4GqrkW4k5DnPobmY5BigWRpBphwK/UdKElrxywOE01eltVpJedURa01CLlso/OJ71sUnuSoqD0uzbhdjDkbPKyQg/a5MbPxl4kRj7+qT9rNaeidJ9zoZtQwJjHs+Fs3Ly1PQV6MkfFeRaUcOP1MddtzHVZrZEd+9A7Pi7FxcTHYZlEW5GYuAKvmoYrYSr/E=;sr1Ck3A/IqvnTKywlfSo3A=="
 ---
 

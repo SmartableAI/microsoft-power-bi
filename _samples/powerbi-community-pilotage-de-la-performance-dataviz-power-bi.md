@@ -4,7 +4,7 @@ excerpt: "O util de suivi de projet basé sur l'expérience utilisateur permetta
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Pilotage-de-la-performance-Dataviz-Power-BI/m-p/249482
 type: download
 publishedDateTime: 2017-09-11T11:51:00Z
-heat: 53
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOGUwOGMwNGUtNTcwMi00YTg1LTljZDUtMDc3MzA0Mzg2YTI2IiwidCI6IjhlYmE3MDI4LWE0MzAtNDRlYi05YmIwLWE3MzMyY2U3NGJiNCIsImMiOjh9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 2481
     isCached: true
 
-secured: "f3oY8pCOrnS59J24OEnnMgN1g2AN/keKOJKgEIZ7dxbP5FSuuNSZsAfEVEmT8W8tvHALmej+JKike3WZysuc5p4QTENL/V7JW5zXt2cWCnBHOuWBz8PFlBuhhuKkgqOwh1c0OZj1UW3A5mO2o9hvKkywbrXVnsOBfdEHtkVrpoYJrPfqiEO3BqguqL240Qs816Qy8t4KKQHOCLuHADFMDaP37R5B1tDr8UaRqJ2tQLT3J2JFrtAzMojxCO+3J7c7PdNu1U5Gp7qPDo0lzRBr6syX2qqJ8w+uV7LbBw/Ck6f9ReNu3gBDcyNF6z0b2n3LtCc7VhK99dEBeWVPHWu8EjEs1ZSK8h5BUQLeT7lrq2ZNLqRcbozbT0MBmcoXsRom;KYq3xsJaMVZJihpwn46Ilg=="
+secured: "yqUathIiSq4qzrpWcTiZiCUPJzQArELaKZh3Hv2+iilok5dO3G1dKdN/QPT568/3ZaeMV1b+JsmlJVuemEq2TYE2WHXCxBDlb6HLA7kbDwSwkd76PIUIxMsXByvP9WCeB5xDeOtXZbMYCkcdcLFYfiGkN5QyChU8ZABBaIfQ4I5+QZotdVoNyGMvRpt1QBiHYwHGHTR+kJP28sOJfuvpfFfHaHZuwlFm6OMb1R7mcRu7hfG+OgnM6jWBy+7IYka/9wTuTx2LvSAPx4bmdruP/us95FBPrEczahECqUOT4648yvCHFfMws9BY7ZmRplhvGZimoPXmLTxRxut/T+wnjfxekYDrshBcZEIEn5tPFQxNJLQiGkzj0TFyKRF7b8TP8gjSbHpu+uuXrFhUmIadihfefcweMDj1x/pjSKyv3Sg=;t+nj7gaSnl8D/Hm2wlx2/w=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "Summary: Building enduring partnerships with Air University at Maxwell
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Air-University-Partnerships-at-Maxwell-AFB/m-p/446340
 type: download
 publishedDateTime: 2018-06-22T11:10:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMjljYTQ5MTEtZDI4OS00YWNmLTg5ZDYtMDI2NzBkYjI1NTBhIiwidCI6IjkwODI2Yjg2LTY1NGEtNDAxZC05NzgwLWEzZmJhNWIzMDVjYSIsImMiOjN9\"></iframe>"
 
@@ -43,6 +43,6 @@ images:
     height: 1795
     isCached: true
 
-secured: "57ah4BIP+PCJjur8YTVIBco6tFNaZm8IsiO45jDKrUDV/X2d4QZL6KvAMgngY3l1zc+gcWtMLNiN2Oc+uiB0X8Q2ubjJDJL0EKIVQFCZB2Sj6KY8krw54dpFTBa7fL/7LzXZ5GWS7ImCJ1smD5g5buDg5aMZ/JtCAz1pWDBrxQHGFyrF1b8gCpXcMX32QPbWqLCo8DTBc/KDublcy48bNCpTrvUbmd9K+nt9JvK0y76oEgAfJwTe1jhrGkT0XVrD0ZvbnqbU8DZtwvyczmodXc34yVnGSbcae9vz1iHD2ayAEnjdgmrGVXD68LU9ysKarGuCowu+hvPUSOwkGlxjB7BBx03tDg3P3deMw5UDAK2Se0UtnLMKFVtlgZhDlB9i;wJxdE112Bxtd/OzOAzypnA=="
+secured: "ULcYXee52ezBfMIyFKRDeCwZhpK1tCrms9t1xkOy/T41YDquEbZN1GeO+G5xOVFYChBKfTvyD8ywowo3s5rdeHCqpqIpIaB64S6fR+9baPmYLDwI8Um6H8dejYBCT8mXMMLYw9D2tfrprMwfPhM1LG5z4NRpPvE+2Yd9kO43szbKsLfbPhaNtTjMSyK+mqxyyxhGZ9HYLUSY8UVNXqQPtA/veqnOuexx6/L2ep3UmpibTNgnEZRkzaJqvS/a2i6Cn5p/HVX+ircaZ/nHnyXquBSkRUlirTNNPnjy9STExvWzvIc0vpwgs2LJGKrCGQAHtDtxnVHf25QdffMwNKF12qxw5BnyMrTElS9+cyt7HmNM4fqw0+BQtrW8dCG65KMPuWasny3bQ0JcyWBF4BKO6w==;XA0V4NuIMndiND2Ldso2IA=="
 ---
 

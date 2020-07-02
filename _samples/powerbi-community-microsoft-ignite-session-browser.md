@@ -4,7 +4,7 @@ excerpt: "How many 300 level sessions are being presented on Tuesday? Which topi
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Microsoft-Ignite-Session-Browser/m-p/65022
 type: download
 publishedDateTime: 2016-09-02T12:20:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMTZjYzkwZTctODhiNC00Zjc0LTlkYzgtMmI4NGE4NGE2ZTk1IiwidCI6IjdlNGNjMjBjLTdiOTgtNDU2MC04NzhkLTkwNjllN2M1NTdjYiIsImMiOjN9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 916
     isCached: true
 
-secured: "9XqQbs9Qk5dAFmXcVQ++FUv+mGE8R/TRt1cwsY8rj30BrGKlDzzvL5DO3F61OypuZ5kW3WVNqoQZpkMQ7MIE+rlsHo8Jn/Rvwxpu4AQgUu8lA4fzLEStYLrGi3zPq3TZujjTBeGZw0QLc+xSM/vx6KpodJeKILeUML9kDH4gqBGQz8pqVC8agBI30iP8d+Ak0yxC8CLQ3YZKeEHmu26DHW8IpFl+Hr440Lsz7XWE1TbDuXWvrYhdVerG4V5m6fj3jIlb6hj9knpcXDECZ2msbCnsH9yvuGgaJ7D40b90bSZxmA1jSrriQ74qb4ACN1OkUYwEP3BxwIDnIXJbpfr0BEAx49nW1DGHNLXbjq5dc2oXhGOaQWkPoNRFRjAcv91C;8a0vKDBvcj0xWXdXsFkN9w=="
+secured: "5mafn/54Xrm4J7anq+ahTHD2VTelogiN76ZjCNbU03htNwgYfDyMIp/qW6QQtuqd+ddpEWx6PihE3u0htJuT/XrGGGjiqeeSpyPwsyuzMe25zpyCoujpIh8CLeRNW7g80M/Yn50JTdcdBZ46XAQ3PnP+QEmWPk5PDRh/nicVhiVuPMeKx0BheQD5Hd8vZEcGLC2+W5Oz/vaYUcqG5kOH6qwJZHFb2EL8JGVDdE8PsMB+iOVrc2Fu8GZIByInDFtpHg3sivF2e8KJzAXWVwkW+Xe/JKGrn6Rb+pBl/uiOSXENqcHgOabNE2Um1TljgG+LfP5PyjP+HreKNhOqYmGhI2leRMZnxccT3QnY72MNzqLjQka4FBuDeiJ1pq3lgki0LrcsIVdga2czzpdjRSx24dwIaHwqfIYTzd8eWzZrTRY=;X0YUSzomTTBBWddGD8DbXg=="
 ---
 

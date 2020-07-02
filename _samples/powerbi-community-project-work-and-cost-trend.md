@@ -4,7 +4,7 @@ excerpt: "This report from ShareAdvance's Project Intelligence solution gives pr
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Project-Work-and-Cost-Trend/m-p/64333
 type: download
 publishedDateTime: 2016-08-31T18:05:00Z
-heat: 56
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDcyOWFiODUtNTM5Ny00NGE3LTljMDAtYWRlMTU5YWY1NGU5IiwidCI6IjZkNjM4YjFhLTMyYmYtNGJhMy1iNGI0LWU4NjU1MzcyNmZiMSIsImMiOjZ9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 943
     isCached: true
 
-secured: "abgme6WcvSsN6obzrMrZve/VR7Ic5WdluM7tqFoyFvrUgtWrQtKxZyKDqGdkxO3QZb+0F0SIcJxWv1Nb0GIDBNUwIYR+wOpdTy0VYL8L8Qwk+3g8yWiNlmvnBtL6fmhEA8CSNpBgzg+HFG1QYHjIP0uNw+nhYaRvFM7XBx1ILlbEBx/TTQlIUPXcpyQuothhm/jhkgkTRfx+/xM5PcJx7OLHYKySYMguv241MDDkG78LtB2dALlvOD7YrkOQoZPPxPFtuta+Ek3O1AuUXFUKM5gE+I7T8jZkxssTI/iwgMh4F8344x51IjgQEZV66AM/+NdnXKf9nIctggA7gDb5t3ZTuhjug15n17pxEnavVyn6j/PZa0C4cj2MWFaxu9nQ;EdrVjMlLlWyyWIpqKxDTaQ=="
+secured: "U6gaPQe86I9n3yU7+w0IFw3HjX/SSoOsKJO92+nSTLfFutDj4aWjA5xIkbJLbVoB1Ve3aCv1qh0Lad2DGxgzY9NWevEyGP6qRhUoYsJbE4iNHA+NhZIt6dW9UTNHUyBx87eBQh17HPNwdTpzVl1YJwaUuC/sBRyLgPnDy18ntFyAg0qaLF7eF1hlSdmDtMQf3nL41amL+mEYqyNmw7GE/AnUkYL3+T13rxzQNsRpC9fM11wD9L/oQ5dnvyiCK1iDcSnj3WltjvoPI/TeOLzrWPwd2NXD8mZHdnRdo8q1JAuc5okcTYOEIY57WgtNB1cPNY7h0cVZFgXURAhGSFRSlrrhGbdD8MCZTUIe94YFlXvmMNE8pbyDlWNSCWXf9vIzoiXRcVxTtpS/J+FU8HHrwByXB3dpSo0hLUfH7CyOGTw=;cM9PD422YryLmyxlPgYDTg=="
 ---
 

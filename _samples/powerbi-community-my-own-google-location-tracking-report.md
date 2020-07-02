@@ -4,7 +4,7 @@ excerpt: "This is just a example of how we can see play with our own Google loca
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/My-Own-Google-Location-Tracking-Report/m-p/804808
 type: download
 publishedDateTime: 2019-09-28T03:34:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYTVmNDU4OTktNDJkMy00MjllLTlhMWYtZmZlNzUzOTIzOWM0IiwidCI6IjRiMWU0OWY4LTFmMjktNGE3Ny1iMTExLTRmNWJjMmI5M2NkOCJ9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 841
     isCached: true
 
-secured: "V3EfNFGTVDjpjalPPZic2zUSyuXy2aUlA4cR1L1j4tiP4Oe7HJIs9CgxNf/nUiL55TD3FAs1I7Hkg62r6AoKUrpJBqflA3j9uk33QtWMIMUsccP8DTvFEuTo2tq2I6ghX1y4sQgEw6Au32NhQ1koPhE/+n6u5tHGlMXppSc7aGtiFfG2csz5iSSoI1DCdvJb8LiqGg44mgya35VV+IzI2ZX76RJIyiVGrYl8VG3XyXBvUVtbjox5qFsfMuH2WJxBZ/1oIdFYBnHX0EOjU2KwEKt9OjvbKAcwM2kWEnHGl9OMemqY4v4MR3l5xusi6xnXXtF/GL51aYd/5pWTFfVCUeBJLAh6Kse2zKuiAMHCvVrAuorB/kFmJgj3xTJ2DPWP;T4pC55zW0uyEOKd+onCOEQ=="
+secured: "dNFkc5/RtskiSaYyndF1+DocE9gksK3RV6R9Fcks4qQNLfwglD8O7zJ24+7SS7z7rQ3al7FfsCwPz+LNcG1+PD7TB3huYSITJtV52rSoGkJsplm5ZLl+i5KTzv7kMUPjqlypV5G+EG17sOjqZTYu23ALd5Mbq5CRH9E1d4yW9btbz7aZ6fjBUAGyc1nRKjS9rapXJJwcXOboKpd8nVB3B1TXPGsr19dnAi2vITsapCxdpjExn8AHpZe53V4OrDwAkxLroJksby3h7MdK+LsP6yOYcTwfKXGdHnkA6fsFqFPLyjhdxxsS4/1GtegVCJzgAsGAEu5JND2SI4iXWLIXoNVs4K+yg21whdq8aswH6LFKirldOVX+C/Iiezb7OGcJEz1dwVcippzh1hPilAie5A==;Z5E792eC+EJsbhXNPCMwMw=="
 ---
 

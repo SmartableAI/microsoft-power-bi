@@ -4,7 +4,7 @@ excerpt: "Week 43 - Suicide Data"
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Week-43-Suicide-Data/m-p/864856
 type: download
 publishedDateTime: 2019-12-04T03:43:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYmU2ODY3ZTAtOTc3ZC00YjYxLWJmNjYtZjJjZTg2MTQ1YmVhIiwidCI6IjY4YzRkZWNhLWQxODEtNDNmMi1hMmJlLWY2ODQzMTIwMjNhOCIsImMiOjEwfQ%3D%3D\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 528
     isCached: true
 
-secured: "f7Kk28w8oHmYjETf+O84QK0XwPv/OVE0wIXkWt+O+nGZba2DZS6MbrxY13zOYjmNtMYXILxdvekDlCemMa6cpnoeCpxw5w7Wrl86ye6s8fAa8uSfr9odQHcwzIDc8brehXXKzw+x23Uah2mrg8mnFSgV1f2kx7mlDxgdOQODyPVvehkWMyU8xrB0E1WEFyvm+Gq7tUEf43PayXUpqkI9uejwRECmMdx8xpJVMG1p1CRbo28o/dbdm3e+rFZbG+seRCcsSvoZfdWlllepuTsPnQFCZqV1wHsOPXIUjS79qiQTMuRV0fUoXgDKJgzixCEXfVmtdpAWfnfanDnL74TsgOUS6233Ixje6AkbV2IUexNwT8C+J48pi6s0AFVT2MSs;pgJ4f3AuvvBRZUXMt0I1aA=="
+secured: "ezy1oHSAIiRf7UXPWASYdR3kKxUqWT3eQsG2S/RM8DYs+Wpy1h5PnNEA/qdXFPXqfR4yfC5IVEWY8ZN03ZZsLciQChXoMbJSrLO4gpYYHimseE/kSe9Bfrl8uluGZB6MbLvYDg4i4Jw1BcIWlnQcUcWg4ECKqEePQTYTZQMWGwPfl+gNQuqZu5DV3Adn53nTIxjXSadRYfx0RjHQaJ1mP9nFSyRa4nLyUpROMzmA46t4qDpuJzgsKBWurGQOmra/9y3Ynm0ZQfwOm9urrUer4NKXmmNTpd02Q7il7UFgEmtG+SBpaB+y1EiSyrNHQV3bn6M7YsD4X0K4A4HG/zkokzyGsyxcj7oGT8pykFL4wN8BWtWtdK0imwjVp96EuFS1KuPLrtD1FSO4t4p6q31FzQ==;Fnnizzsp47qRTiSdYAVW5A=="
 ---
 

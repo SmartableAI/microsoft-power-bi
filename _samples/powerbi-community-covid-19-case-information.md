@@ -4,7 +4,7 @@ excerpt: "Daily update of COVID - 19 case information at global, states (US) and
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-Case-Information/m-p/1074210
 type: download
 publishedDateTime: 2020-05-05T17:57:00Z
-heat: 55
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOTAxMTk4ZTUtZGEzNS00MTRhLWExYzYtZTQ0YTQxNzM0YWE0IiwidCI6ImY2ZjQyNWUxLTY2YWYtNDdiOS1hOGYwLTVmYjlmYTNmNTc2YSJ9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 404
     isCached: true
 
-secured: "TcSKYdfbVCPi86szBOHeZ26prob7LMMn21CgVnyQbTgWN5RzzhBnzQGrINL/PKt6z35Y/9xEsZcTgTuWLEW3GcqR0QNoQpCZPDikfXiWsCHQl6gO2uhTwHIOGCoboeKjYNeszoFuGefqYeMSNkr9EF8my6Cbc+fMKhv3bsr0CleSpF5vE7i7aqTSYz8lI/Bip2YEMZA7UBvk+G/RF/AID3TIagfU1j0Jt7CDM9W4bep5yk3ucEGTEDmlkcCFfJsvrih9DcC6JJkD4VMcpJPNkt89QPomvlZDufX2Qrebw37EPhVzJSloeJM9dTkiTHSRWxHAsjAEAYoqearYEKzsu41xOLUmSv4Zy6ktyeLdGsM1GsRp78Ymgl8tu6IOJfas;xnlkcRySAGGPmAPtVOKEFQ=="
+secured: "JuoaUQiGK7diiamBIJmX8NeqveFv3QvLTGp+S1pSMsPgM9deQ0ph60ztV7zKAFZdBwLqzHS2VqPcATYeBDIjqww5dHXe9JZRV+n0tsZVR7I/LEiNPUXAgS2ea0S/jw88G/PCQPIjJfmKTeuyaFHJjaJB9pZ34RWziN0A9PRCrkpHWLiikFtYU/86N35IetBVeOCCE9dcVgJeM/O9jaD/KIaGwgQKLk8nmY2wuiOhss8MLPxa4dpjmHEV8+U7h9cPnLPOcJXAoDH7rbacJ5NrKpaQ0S/nMlTlHH+ncaxp0tASCT5i+YEeC8zfFnsR7Smgv1ihi1LR9vOTMQv+bXPLkNQgQ9rdiprOdRZLpKAKDmfjOQL2wjymbWdRwkK4HbnpQMMXoelhfIWCyf5jRhUiMw==;g92mCM2eNQ/a8QGC4XPQuA=="
 ---
 

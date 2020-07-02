@@ -4,7 +4,7 @@ excerpt: "Hello everyone! I want to share with you this report about coronavirus
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Distirbution-of-Coronavirus/m-p/956702
 type: download
 publishedDateTime: 2020-03-03T01:46:00Z
-heat: 55
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDk3ODE3YWMtMTY2Zi00YTU5LWJmOTUtNjI2MDA4YjU3MTZmIiwidCI6ImM4YmUzMzgwLWQzMmUtNGZiNC05OWY5LWU4MTVmNmVkZTM2MiIsImMiOjl9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 790
     isCached: true
 
-secured: "uqOuR9X01i8BgYfcwbNPBvBto8JtZDDwdU947rXWrl8d3lbWiRcetxCpX6zb1YzptMCI9yy+dgVv695X8b+rUP/gM/jjvStO40rGLFbKfwvXTT4jCFm0lakRfwh43i1z/6E9hRQrrfnKcwv8GtPIoxjvWJXPYnBNRUEu2JEj8rPdN8dNepOZjdYow453SXzNOtpTTs2CoLIZ8zkGG0iGYrICI4PBGABRe/YafPaveftZ66Aon9TMu7EXJlibs2xSrzXM3XqUY35tgxPCihUqRuzVB2/77UJ7VEfy/04ARAbRPMcE3+2mREfWMoDgR3Ue3zMMIcv6jOfAMT5phOJHSKCypYj8mmmYDXf2qsS/OQyGMjf+ARr1bztH7iTRRxFq;dXaDCULXV1whoteZ6m2WXg=="
+secured: "0MRlZZ1P8wc6qJdpn6idow4Gp23ZJwodDGo4QzAgYfKlEuM/5hm2BQTFK6gtjYTSR33Iks43iBOC7C/FXogZfHSotwPrrwQzhc4PCKdbewyIDKH6/JzpjP6BregY6+M6PT4tvjJ3DEWYb+SMj/g3s0w1G4LcfD0azfCzykkeIyzvV2zMbGvowJyUr7EkpdxaiSECO8uPzdP6xJ/6es8I6cvf4t2EhWIbRI2jtuzf0oSZUDZc4IRL2a5m0STBS/ILs2cxV/MXXyqO8rujXtOqEuFweV4Bw9sySKAf+hy3Rlc9MOQblWkOvLhndEuY3f551zPGCGOqi6yJTVi+B779KYWRoIRxWba6pdFwsrxD3sY9oD9dcwLrKP2TCetIwT+lJdF8SwEZls6ydlbNjZulZg==;IXkGKP+FIo3VyE/SfqQJvg=="
 ---
 

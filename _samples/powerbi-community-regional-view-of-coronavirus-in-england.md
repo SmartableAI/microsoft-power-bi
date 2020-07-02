@@ -4,7 +4,7 @@ excerpt: "I hope everyone is keeping safe and well during these turbulent times.
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Regional-view-of-Coronavirus-in-England/m-p/1008350
 type: download
 publishedDateTime: 2020-04-04T14:36:00Z
-heat: 57
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMTg1NmQ3N2EtZWFkMS00ODg1LWE5ZWYtMmMwNzIzYmQyZGIwIiwidCI6ImFlMjNjNWFlLTMzYTMtNGYzMS1hMDkzLWJhNzY1OWM1MzBlMSJ9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 816
     isCached: true
 
-secured: "pxwzt8ms26qmKPCxeTgbBe5XUfFtAet/BOuMD2AiS5HXQB8aJCm6yJy//j4IA430w6jVj9eIkWWIf57A5q/YgwCG6kBk/OTehGwVPDhG8IsZtCuoTUJ2LtnQO0f5wGKhw07vNGm7gr/rz1Etlg+x0k/yPZFNPpQCTIy2TGi3sEWpgLfybmZewzSvQmAj0/rqyYQ/ObuDu0nvD/BSJy5Ce6KZcfOzzfOawpmoKgDI6iiTpRv5FWFK0FBrmE0b7QPFuXfp6+mPrZ2suXJ04iHVMhmqt/io8BlGjZ4UqsqdhPEkvFcFuPH14alwi5RLZfCIq3eFzYOZ8iI+xBdOaF59mZFsfDR/RvONyQBV3eaimY2yxYONn5CPtOOUyAHIk+oZ;XLbMQS6GdgXzy3LsCSC1Iw=="
+secured: "P9KzY/JU2p2o3dIaERFeDplYgqSQNhiuc2ADDfrQrNjf59peMt4PzbtMbmNoaOPynICDGEcKxRKEsriZGNkvl2vXNyE006qecj1a21316IgloRHbpykvFqdodPwXaUu8w2RK8Vc/3s9Jc54TUe+eZFWM+KLFQ9hTcV4eXSTTfcIq7CDI9QL1qe3g2CpNReQs/8QjaIJISE5tgHZfiIZJYxJeogamltuGIeqCU5OhwyVkvtdoa2sZZ9GTKglXNesvRJfyetv75QT0IY/UMJzdJTUdlB9ldVWYPylLK47AgB+5ZuKyrMd1UAyf9V8zfT6uufQm8JYUa7SqJ6Gd7/V6URC4QCNIYnr7hwGZ5TbtKH+O5YTaMfjW2NL1ElbQVQnjgaPO7r4UXUC5+x9EWqNbMg==;SxCMCNu03l66WiuAvnzQiw=="
 ---
 

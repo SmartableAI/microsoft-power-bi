@@ -4,7 +4,7 @@ excerpt: "As a data challenge for Online Volunteers , Amara Diallo created a rep
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Amara-Diallo/m-p/1055698
 type: download
 publishedDateTime: 2020-04-29T01:11:00Z
-heat: 53
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNDljYzRiZDMtNjhkNS00MzZmLWI4NDItMzI5YTk3NmRmZmMxIiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 1248
     isCached: true
 
-secured: "ddBPvLBUawKIaF80Wofa3lmrOQ+9v3aCIMMxqPBa61HDP4WDPcy4AyGcQfKEgTBrhH9+ZMtpqWA8IRpyvcqh9GF4Ci3F2CAUrVXcCCxpQvekCxiFfFJUPGVlln7RITjaT/Dj1+3e4vV2X9RtVvUNGM5yNvbXMAHWqY3ILyyoFYaYJnQDf8u0ablIhbPcwiKj6LwhySCsADbRRmGa2f/pJOV2nk3OwoA1tC6rFumREVFNJ/ZVQNaGS91Z9yZc67XK0X9uxM1Sb63Tir3ucS0Y9c5xaVf3RSZFtoPGj3frEbaondaefpLZKfE6tl2US466LnvuEcCTNEo6OcRI+JiZ2nYZ6F9Ewm7UYe5v5q3gyJCF+/06U99hrQi7hmVcA9Mo;sr36sW3dp3GtZycAk7XmBA=="
+secured: "vFl5CfTNr/cXWXIafEU3AZUvvd+eDO1rY/JCtQrT+4AGCwKiEkj8AN0uNotUw5NGd99pxGwRqgISjphr9PfDPt9ODODqfzxUyySahHjkwXLPPZlDcP7iRfUTiWR619JSpPPveQS21s13I6Grf0m2/b8avplAqFIkXAuQLsZgO+a0p7TAOmTdgSYoHkg+GnhiQcQPNzA0A9m9+Az4xEGVPoJhZ22Oi//iA0SQTlJ8yPLTCQ3OzGOel9Rl+b0ImPE+iwdNmotS9drLbDWkmLioq8Xi7mLb5sTvStD7mZiKACH+dA0AsSv64GPk1QuXpJHoWlupLQ8dK7O7IG/Va8rooqUduStP8u1bn3ZsFuCbVSP6caFYpT4MCUXmyYh6V59C7giFnAOVguu2V2PJbYDjjg==;wSU/6rnSX4MgyynaNc/xtA=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "Daily covid-19 report that auto updates everyday approximately 6:30PM 
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Covid-19/m-p/1008733
 type: download
 publishedDateTime: 2020-04-05T10:37:00Z
-heat: 52
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjBiZTA3ZWUtODEyNS00N2VkLTk1OGItN2QzN2U1NzE3YmY5IiwidCI6IjlkOWNlNDNhLTcyMGUtNGZmMi1hNWNhLWEzNWU1ZDNkYzM2OCIsImMiOjZ9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 636
     isCached: true
 
-secured: "HdvNc4MdJfB4jjg9vGxXS2w6HEQG16w2hGNNqnYWh9uNzrVkgOgI1WeIQCK/FzwARiiVqnxNZhHiM12ZgTlHCy7U7S6MdlAx7aWpR+gIDZMF6077c6Qa5/Tgil9Kt9kKf+ZlE+Ar4L9zd4EVfH5PQ7KMG69Fsnz9+nX4ZFtXHx1LPavJ72+M0x7PL7DIh5sgmda/h3ISHiNCMAhGIpn1RTFpIYq+WVB0Z7aU/7bnOWt3FCGe8O0YlWRd8Qasmbakf/M6MGEtMLMWnaO/vjy+Js/k+TD5OGeN6awBylluSvmvjKl69jqV9A6N9wHiMDHG5hysLCIlE/TTVzv8y8HSZoGpjiJSz5FgC4Kslq4fPeA5ugqUkRc6m93EIBPcCl4D;aluymvtWiycFuIjcF26LJQ=="
+secured: "dbznHEy+Uxb2caq6i5oBNr8bQXDTIY3Q0V/F9dHoGEVmmt/AoUA7MkO6MEPfnzHJdlqK4Ltt+XDDm7ONrIaDqeZAzktF9AHcG2ASfK69V4T/GtK6Gathni5q4YM362oeOti+SbQjdiLEYHjLMxeBMO9pDWViMNdaMMWxZP7jEF2ewFIraNe5fLgQzrDIeWLytPXueLp107uoGC6BIi3h39bPkHDuvD/bNiuA2x4isLDND831Wdtx213k4bshIHyHvOn/Uny0GHuYhIz7TrTiqjOr/9PvO2CuhgM3sd2y2ly89sQ79sTObIs0NZ8ygrff6z469plDRDq8nZH8ggNUSriGsmBuyTV6DqbFFUuABpNUB2dsnZRcAifsU4HLL5+4g3a2JpTFK/VmCLJ4Mltrkw==;xUX0ikA42+K/9bF0ahEG0A=="
 ---
 

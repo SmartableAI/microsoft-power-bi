@@ -4,7 +4,7 @@ excerpt: "The Challenge Every day we are inundated with noise about the health o
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Analysis-of-Leading-Economic-Indicators-by-Decisive-Data/m-p/218886
 type: download
 publishedDateTime: 2017-07-25T14:00:00Z
-heat: 58
+heat: 62
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMGIxYjE2NTAtZWQzNC00NDRmLWI1M2QtMTYxOGU0MGRjNGNhIiwidCI6IjdlY2M4YWEwLTgzMGUtNGQ4Ni1hZjc4LTgzYTNkY2MyNjIzOCIsImMiOjZ9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 794
     isCached: true
 
-secured: "RbuvsCSx+w1SQmvvf+ES72fOrTtVWr+OMayosGchbbwv8LWuw7JGb/Z8szNhRpS1h2djHRao5eCglg6zKw4bAZ9Ab3VnJ3HyYcS9Viq3FM4WppZnxRiFKY33laUk0/mynMNiaeq3rLaq0CVmbR0lHjmW8mUR0sQYVVSi4KzWR4q8zaM3hMxGUQFk7pNF2C3rSSQAu/ARStbsm4mBxsFuufq2FU1m3mbD4IDawkQG2CPYFmz5vMeuJ9BmHwuNDCdfaxf1EbtSHTqTHnssrsAwzw/EBE5t6URORLSosFBEkGMIsrIPyZtoHSEfZBsxumrjFQSTa0QIXD/iIXdz/LUsd/CUlEICCoFdc8yfuu5zoe3wBVdioKoxvWSC7HPu1vRc;MUs5g80rWJp4JB8AZnGuWw=="
+secured: "Zy+PMtv5y0zcVtsICTx+4k/epR++pOb8JGNMgqww3UY87TaoCXvPBjzcguAV21KnKhurQfE7H+/2MT7J++MtfEcCSpg1Y9vYxunZctAefx4bgKtIzsr+yLiUczC/N4ZJ5QWCC+16r0uQxZ8+liPtjhw68/YuK5KVTQIRGpyIe2wfQKL4bIKDtQ2AA4GjvSVEaPD+wABkyl/IO3CCDs12KqN767NLWPq7U+WOwc7UvcG5XRyTgtNjIpQTflwg+GdxWvgKPdUU47EtPMNIJg/bAD+4LpFeHtKLZjSILGFe4yqzlmWgoUAieXLsNz9CJKdq0iVm6JPK5kT1QF1prM/OZ5DTFKrdSt4wbxgLFgnOK+OrkPUywuLy9hp4OwUonWFwDfVNTIs4rB+Dhan4cmOT0KYU4T+HNauWBCtDdwOjLPg=;7Q6LDVH6+sjRl3IAO8XJnA=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "As a data challenge for Online Volunteers , Raghvendra Shivhare create
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Raghvendra-Shivhare/m-p/1082679
 type: download
 publishedDateTime: 2020-05-10T01:39:00Z
-heat: 57
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMGNmNGM4YTYtZGM1NS00MmEwLWExZTgtY2E1YmQyNjcyOWE5IiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 1244
     isCached: true
 
-secured: "Fct40cd2vA1t7LFiflhbUD5tZTU6E+UI1tKd6zgu0HOaS10LDmQcwt5/gv9qC9dqATT3/mJboq+T/YAnm41e1ZJbccigDMl9D0XP84ZDehOt7RqZukoQzeH0/4zT5uwm3Zmx4Nk1mslaZq8mip1xlLFDnhZl+Z4tmLBLuVBIcDO+R9grmFJ3MYTO2Gyzk4yuzZcuKWPs0UArbPVtVThU14Ic1FyadDakL4Ko/Kfc/33eb+IcehmIUm+pg95Uro0I/y2LLui6c0CB1hQwkYSv+oczX2IQVxax2HWiohS9B/qyVulIhq5I5iCqTzg8tDXJpaqkGOIIrxHxCuY8EeZ9/KKK9Ed0kDw/TF2u4yC0KFV4UnntlWEuKLAqKxknFLNr;8g9zuiG5Bk1Y3HR8HweORw=="
+secured: "t9IPF9d+jkiYmG3l+tqSqUycwww1Nj0wKnyAZfGUJT7hr4UiSTlezRxRgHSeDxPeFs66h0Srek8UL311moM648k/mioT/JXOHbfrEKqjBEFoKpzh8fduwDbj7jjooM1aA2USBz9LaiSvTq670ncZSpBtcUxRRlZ4EMFFQUUIUGrZ+9osEAfu9eMbMUBnABlmUWpgG+TdPef1U+XWWDFDd1CmR4VjnA98dwFdWzaOiE2Z/ur7M7cTpOsc2B+x3QiRtXUCCSbaxlVUB1ZAv0GLz/ANfWV+XP5oO916HSzCnydQsJoEjfxu5WA45oY0ndXybOYOPdCqWdnDHEhE8xlj54WM4zhTg0g8tzF/gB1ziqgu86NrhnW3CJD/Av6lRu1R4yqF3hW153/iIKvR7/oTTA==;ZMUbPmNHV/PO4WJnPMMvMQ=="
 ---
 

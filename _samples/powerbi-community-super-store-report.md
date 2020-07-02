@@ -4,7 +4,7 @@ excerpt: "This report analyse the performance of the product based on selling."
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Super-Store-Report/m-p/502104
 type: download
 publishedDateTime: 2018-08-29T01:29:00Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiODI0NTgxNzktNjcyZC00NzkzLWFiNzMtNTZhZmMzNTU5NjFjIiwidCI6IjY4YmFlMDQ4LWMzMTAtNGVjMi05MzRmLWNiYzI1ODhmMzBmZSIsImMiOjl9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 623
     isCached: true
 
-secured: "7eoK4l8yDaRzX1EujEuX+Y6aJ7d583vHhOuf9j1Te7KH1jeOASpup7eZ8BgnAa5+AptyB1Pix1U/rP5mEFMAmVvbDoOzsS1mJlCw1OGvBeNShGGXUE76GzxkoXj1Y+OSxb17RCzFEje+ugnIVx4Br6W6+7c/ptsj52U561XJ7kBP6DWmyLGAQXAYdrccsdulYQ7H315/8boucaHy2LrPwa50gU8M1bOA8NxQZJMDSN2JI2xBMe3bvkYlmYSTT4cHYOr/8Hree4FAv2tvzsJ6qBwGqw2kyTXgijNtvdOpePbm0ve3RGkciiw4XB0asjzIwUXViMRXL8zFMY6u5/O8bGUmPdfEe9jGAap60/dcNaBoaMfnggl1SSqvgxgSjYM2;JQGa5Dbp+muJ3nJGjcCn4Q=="
+secured: "dNC1xkZyixg3n1L7fexRq9dg/bQbzLHXH/Tcfmz0trY5t334wsRK/Lz6FrcWeVCIJ8HYuPaTBEEFfBFgjovIHeSJkMbDbB3cRnhoOj+Dw74AIFoLHEeSShEULh5tLxWgPmMHaZlGK+KxyyXvi7Kmqm+gEafsZ6wLGRW7JIGYAuGYhaff/SZ4Sux8O4d+7l8FiJAkar7XlAhVFf79HBZtifV6RxG7UTv02nEh3kg3JzFQkRYOHjY+shK4I0+nvMleNtf7jG6rIGPEkprL6wGnZWBAWto2R4KYJsYTyc2FAHPby7sopGGZUPHBG/gNBwpbAa72ixwwYSSig5j2C6vy+xVxW4+nv8w7pJWOYhCqNeD/zH6pVTclJeUzG+mhvQNF+LKx0/4lbJt+gxiFpGcgR7/1W8ncY4I1wdj+i3/EIJw=;RKvVLP6sjqw+8Oa7JjP9Rg=="
 ---
 

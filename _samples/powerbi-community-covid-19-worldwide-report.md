@@ -4,7 +4,7 @@ excerpt: "One month ago I started this dashboard as Covid19 was arriving to Spai
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Covid-19-worldwide-report/m-p/1019036
 type: download
 publishedDateTime: 2020-04-10T00:03:00Z
-heat: 55
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYmJjMGViZGUtZWViNi00MmZhLWJkMzYtZjYzMWMyMTQwNDljIiwidCI6ImY0NzE5ZmJmLWY3YWUtNDllMy04ZWRmLWJmOTU5YzI3ZjYxZCIsImMiOjl9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 711
     isCached: true
 
-secured: "VEoeQ8VH2fnmzWOoXwNKv6veHnNJu512bYoX8V53eyqsaLk0DIeQkuiWUSFQ68QhXK/hyq53QK2BYS+SKgNxzC+C7THrL0ns1qaZ3VVK5WF9MN7L7RcyYdzGZN51QTx1wfUFYfxSyRMP+NvrtZMWRWeT97ZqdDdMTf/ORP+AP8nhpAlkqWSHlrzj2LD8nys+gpcFc4UPJICgh+HgdOgUezIcHo7MIPcZiISAVwkSAHB9ew2b2Pm+wcyIkmC5sDRrcGR26oSS1WG/8NtISSdsUniUIrZ+Hf4T6cO+++YgR8GOjxGsG8tg72Rz+iZooBlrs/LCrJnAFXsd4AV7nxWjSrNtMc1pwxiIy0Vu8FNM8vmVKVTcJ3E4RKW/hXxWsPn8;LfSKgpQj3SW54iVhbY0yMw=="
+secured: "nK1sPCLlQMT706JdEEcalT67BRhghUPBm3lbqpkrjXSZaKT/FfVhZ+4+tkWbDhtt76Y7QlaWNJycyhB8St4mrowLbXY8HDKNg0FwDSrZS9cihFGE1TpYJpvf7X9n/Pl/xUny7fMETPx9aS4PUPQg8bgLD4cVnxGUs2n5PWofQOHT9tMZDK3EmrADin5PQS9wMWQ5nXgR7DbCbI9GNRzaXjWX+f1++A46mT2slV3irLrU9cX4gBHxbIltIa5xgvxT14wLGpgxOJG4J/0nG2/AMlm6KwShjLLncyIKlP9navfqYh6chtHDE4JAoLOllJRTrBDzuH/WhOhRSv6VJx2P6gjF4D+jcsTgALUBNGWdiRIGGkW/AaD7UWVZ/PUCL3QKvUv0A4e3yS9docTK0R6Z9Q==;2CVhyZ/G/zYr6pSAfEK0Yg=="
 ---
 

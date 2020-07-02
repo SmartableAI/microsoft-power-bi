@@ -4,7 +4,7 @@ excerpt: "The Cancer Analytics Dashboard provides both a quick summary and a det
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Cancer-Analytics/m-p/631080
 type: download
 publishedDateTime: 2019-02-25T06:28:00Z
-heat: 114
+heat: 121
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZWY0ZDQ2OWYtY2VkZi00ZmM5LWFiZWUtMWNhZWU0NDc2N2RjIiwidCI6IjA0ZWM2MTA5LTRjNzktNGM3My1hZTcxLWE0NzRjMDlhMWY1YSJ9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 768
     isCached: true
 
-secured: "ksq5Wo0NDGmUOuDjZ6K5dkoBwvunYmhV14H1Oehmo/53jx6GGe5lf1nXOqlZN5D7Ae1J9KxEzaH77WHpi4+sfOEGB1qhGHIRLCkWV3tXFs7KYea4YFdmDOE8ITcDuhc9F9YEaAvPgO3V21qQy3tu1nvXy29DeLofc29s0VGNl6uvjrfwR8AUVn44MxCRnYmhMIKVQLxGHWkovhqYDoh6vxUi8dBLFMW0xEgAlWtlFw75L7OO76lw5yHss5xapW5KWAGfosiQbi2qCFeeESxPr1tIxbhAQ22o6IiBOoqyIBm5gFrQChLy5KzbQ6crBUOOQEPbbslkaMbFMJDVCevk8vAdhUJxok8Hsf71q5rGnqBY7DaRDZdOAE5CiefTwsT7;4cFtXuldx3eTRDd9481fqg=="
+secured: "cHHfk4QJDQ4wtPFi0Ur49kRK/k7HoLwBKPyGkMAZIrOt4oK9CCzN+96HFnZUb86KNPKwO1tnWK0R5Hm7afzThU7O6lbCUmv8JcCkzQklSzdGiEezzBkaKMO5ixcNC2FYQvnBqujcuVExOuA6cL/Hr15RDt4TQGoF8p6dJd/VDmXxY7jvjA6vKtxjuGfp/0ykCJ7WESTXTY2uExlO9jEvC4WRVVlTW9WuMo9xSqnaW7GptMjSMENo7NobawAvEJ49urcllwqfkJeWcoV6c7SYcbgGvRvNTHDncFNZ2bvb0UE3aBg/MtiSTJcKs2fbvoN0LSIOCSROCkOSAzUyAIYpasPaeUqPuDp2eFUocMbdu8hthlAcW5+WC3x9zptZHQ2Y+W85YV3WcQqzlZSdNUtre8l/KOZBGEWj765ci9um5z4=;1Q13ybDQYN9t9EWiDj04VA=="
 ---
 

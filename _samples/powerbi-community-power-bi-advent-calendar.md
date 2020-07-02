@@ -4,7 +4,7 @@ excerpt: "Merry Christmas and Happy Holidays! Enjoy this Power BI version of an 
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Power-BI-Advent-Calendar/m-p/96443
 type: download
 publishedDateTime: 2016-12-01T08:37:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYzc1ZTNlNDUtYThmYi00OGNmLTkwZDMtNzg4NDM2MTQwZDlkIiwidCI6IjA5YTRlOWM5LTdlNzMtNDdjMi1hOTBjLWM0MTY1OTFjOWM5MiIsImMiOjN9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 491
     isCached: true
 
-secured: "1pGYo5E7iL8N0eFCn6mGz70ucd/C3gCUzZF9MSHXX0KPyPbRhXl0MsR1j/GUz6ZqY8DZIrF12wDxMx/HlgesiV0PplBjvDrjrPcW7sFG84+cQ6xqtIRK6kNIiO+LFeHSomGC0ZoHJ3bJWIzq1bH5LffHt14mFikXNDaliFyDsOyFu8A5EJJx/ZJD24vEZxoNZp4DkrjhICx3tM3KH+EKZXRbKJNUZGceKCir6rdTVSlPfa4BXUPT3qaPA3XwlLAt183tugrm6YzfTE8B9WSSeNbHrom19eQoj1PgzEoILLXyrNjgsmLG+F+fV2/7Q4WJ2oNpPJqBePBt2DqECyFnlnBYQC6H9WMl+4/qoWDzSzwiu5Td6JsmvV4raJa/7uBC;AQz8/wCInqr3MHd0FNlTpQ=="
+secured: "Y+S3Zpo8fDdlyp4jTBD2PN+IUbdDls1udkTvfU8+PhydRGPa3b4siOWhOI3bMUwRZcmf+l/6POV7zbco+ymCf42sFR0iPqoUB8MucaQ6HYuTfQm4RlDL8GPHEUw9gtfK15z67A5MYQ2VWq4FzHHf+5jMiVvKBlSC8qBukCXjUCpiA3twDDcGTjCjzIKALozgsQ6HXyLYqmXbS+R0cFk8i7ELaRlOa/9VYauMGB5tmebF1ozhEerMHq16ws/EnEed02Ii/0hZODPsFVlo6pclNtlzF5DfmC5A7abeJxLJlLFUsdXSkQ6J4bRolrPga0mXLnXkxiTo0MgaE9Q/ZYFUrQxYFNMCnaNCnXxnMgqGdT+hHwlOv2WK6uW1xevtetava/etdqRnUfSrKHI5V2Q9mJG82+Xl62SlW6LkHM/8DK8=;X3he59m3MhFxp9DJR2LDcw=="
 ---
 

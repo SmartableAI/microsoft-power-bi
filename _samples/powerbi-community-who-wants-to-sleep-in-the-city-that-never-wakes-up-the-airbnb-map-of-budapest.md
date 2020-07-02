@@ -4,7 +4,7 @@ excerpt: "When my Wacom tablet arrived in November I started sketching the below
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Who-wants-to-sleep-in-the-city-that-never-wakes-up-The-airbnb/m-p/599162
 type: download
 publishedDateTime: 2019-01-11T06:40:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNzBjYWY0MDAtZjRlYS00MzhhLWE1NjItOTIxMDgzZWU4MDgyIiwidCI6ImU3NjJmZmZmLTlmMjctNGFjNy04MmFiLTBmMTg0ZmIwMjkyMyIsImMiOjh9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 1080
     isCached: true
 
-secured: "FjzwKDDgwMjS3LFvid/tqlhlh5Hmf5hUdM3f4gGjD/7nOw8hhNkLlc6qNttvqypJMlXpLSHWHGySYIrJAuwDuQtsPtQXThIdX5+kBngxm4b3EaNezDfDQNzuPln0u28B21BMAXtZdlppIh8WvJNcWCDPFnqck7k/QhSo8gmUYcDGDtV70QBKB0BH5GenB1jRcw+528qo8llYvbyNmagAfPOk7slqFxlGCC+8BGG/Bj59cXqx+d5uuJu8MICViMjCicwdlAK3zI8Ugw172XKyx4hsDbcQ/vt2HknbGI5N3SoLI+GSFuR0CapC8qjhDRjg/yfMJUuUQyNFBGKBU8czA9HRJuf1T9xl8sGAPoS6Qm02FFcJuFAGin22bNXi7fXz;N2ZSjMPYXaZXTO/LUC24tg=="
+secured: "dnp7yv2FIdzqlqZ4WSj40Jb9EASTn8oV9f0wLEOsysrpkiol4sG4kMH7QPV3huy2m6jy963NLEwj8Gx9T+OgMk2zuEUHQ2BLrVvWwj40e+385xKwXsHyPCNRs946gHMPi/dLSzMyyFOoheIejZ5s104gQ/KoE3AXYOm1L0WQ229FMRi0jLgppLKoOS92sgfXeulantchlSujvL0jrDHrnYWk1zPS1zoE9fNK04+cAjAvC+51Af0fTBc93RYQZ7HZf04nM8hna/cUj4VK+UBI11jZM2wlpoqZwVOiOcJpgtGDY9ZxF/ihxtu8M8f84azuz5BV/D8OjK8q8gJBwffWsWsNKjmhe2cThL8DY9xW8d6WcWqoXpQRTasWVZxDdKuDMx570YWhUbfH5KVaBkqMUw==;lnidQYQJgXJ2ORRAV98DpQ=="
 ---
 

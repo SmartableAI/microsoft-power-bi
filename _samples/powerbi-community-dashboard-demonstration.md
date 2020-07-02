@@ -4,7 +4,7 @@ excerpt: "Dashboard Demonstration eyJrIjoiYmMzMDcyM2YtMmFjNC00ZWVmLWE0NGEtOTdhNT
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Dashboard-Demonstration/m-p/233183
 type: download
 publishedDateTime: 2017-08-17T03:32:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYmMzMDcyM2YtMmFjNC00ZWVmLWE0NGEtOTdhNTI3ZGJiMmVmIiwidCI6IjVkOGM2MGQxLTk4YzQtNDg5Yy1iM2RhLTRkMDczYmMwYzRhMyIsImMiOjl9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 450
     isCached: true
 
-secured: "ljI0WrWfp7SmcCpkKnFwzMptxFWLxCoqyWdp78Kz5IeBFlxvDROE438iIZzEyL8ijqa5tGuZ6a0VlIZ5F7zmMuux3pQUrZDdH7hwjU2fhF+9O6JFZtz0y1Gw0ZWgG4CEgqTtPif6SzDu6ID9G2Bnhqu+OIz6x2K0nR7hoHoJ3sCkcLkuYIuYNOR5RiYiVM5AA8nqt/s84DYiNgVmd7TrgLdSC5nrU0rSfx5HUvfD3ZQkfkIn6d2Kxla8rgB6WhImx+zs1aFBACDiFbMgY0KYYuyOJMNlODtmLw40LWKXQO4J6OiEkuibw8R5afaD0s3JbTfNCkx+bzdHQXTG11XM5sv27mGZIgq+aYORKZDKrgsgQQAWyk7Wl09sGfUy1JmO;hv9BM2/kzXMabv64ZLpKgA=="
+secured: "5oCPIW6uJMK4k7K/L9UaLdZbio9vd0ebSshCMP5s+AtDdsvQk638rnC2gc58lvFuTMf+k7062VcVbO3tDiw54+Q/3Qw0Ru1bckUm+agF9npK+wNSxN5ASBpS4GPRwTkarBz5UClVYmlgJEE64nzYgGkhFYU/h0yezyNGluS3JKpjLNYPksYdKYu4dxJQb2SiqPqgS/2i4ymDQRavQAxkH5ynrItGs6rp+Td9al2GngS/8WOsgwpwwIr8NIXYrQFFp/U7E4eLW5qIgLyyIi453vdoqBMJ0iVuEIxxoqSYWJm3exdllSYCtEJLLohvwKMzPRZ4AbqIxH70hEqqaiL0iDC4xu4ZB7zC11cGJf9U8svFI52FFqgtUlyaYHEkB1ZzbgGARCpOnsXktdmnLFqnWA==;pBaa0sPLPX18zyPLzUyW5w=="
 ---
 

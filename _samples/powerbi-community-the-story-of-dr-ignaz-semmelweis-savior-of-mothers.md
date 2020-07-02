@@ -4,7 +4,7 @@ excerpt: "This sample PowerBI workbook tells the real story of Dr Ignaz Semmelwe
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/The-Story-of-Dr-Ignaz-Semmelweis-Savior-of-Mothers/m-p/62206
 type: download
 publishedDateTime: 2016-08-25T04:54:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYjhkOTU2ZTctODVlNS00MTA4LWJlMWQtNzQ5OTdmMWJmY2UxIiwidCI6IjA5ZTI1MWRjLTVlODctNDhiZi1iNGQyLTcxYjAxYWRiOTg0YSIsImMiOjh9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 633
     isCached: true
 
-secured: "CdWcl+D0YiKkvZUiC5MSDia0ab3s7N9ao104XwCRtZGu8/ZgDN15ugQKYyhvy31Rb+D3YdaYqpJXKKTBPrO4LVugpoo0JmlvIlX9+4dSJ2F9t81i6Vq8UthpY77L0xOt8ifgkNS4/zlycM8pguuda6w41IQRuV/C0ZbzLCT4+0T1AMtgcK66fJoHUfBhXL/3u9ZuMTAvF5m0FY6nPbq5wEZG8eQi4kS4JhTFpJZh9LxjxyVLIF2jU+EA8h1n+N7qpfcqpI8Gz924MqBF0IczGk+kR+FSyF+4+DTuFr9sQmVkLcFL2ZpKjDaNk+8hNR7frjFNI07o7yEE99TnqbNdyav1M1ErR2ugzGKYYJJwOXTv8GZfwH/GeWUtJtLvpE1y;7DvHZE3ArQzFEUaoJrz1iA=="
+secured: "vAqZSuNbw6NXrzRMea3pKfuTFi2peP3l9tRJeqLRYpW8qGjFjW2RCbG2W5bAR2gxsnwAjQVqVhxKvi6Goaivdyx2TX6egHk/yMwyThSEJQq1OetzwltzRn2SCSpjlFZ8QgiWeOoeu8V7HeLIXrHPhXqzOXdfI4Ramvh7I++0Tw4gf+hq0J8ExuviVYXL0e+CeGddtsIcoIIwyZNVE9GNjIR4boyjSgydMoUDWjsJd4byBioWsRSN7pZFhkH5HpZdQwFdqYTConxabaajMR6FJm0AHHFidUUTUD3d/sTPgnxetS5PcdFeDpsZDtAznpBuUPs9Ki6+4pHSsLUSiGDYuMX6ZBKKjAm9PrWGbiGh0vKSiIWW5eSp+QviPAxB+scxqnXwEvCZENybu+oA6cyoxw==;IQcin3VvLW7YoJ8b0qmfhg=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "A look at the massive contribution The Andrew W. Mellon Foundation has
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/The-Andrew-W-Mellon-Foundation-s-Grant-Database/m-p/218888
 type: download
 publishedDateTime: 2017-07-25T14:07:00Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDE5MjE0MzAtZDIwYS00NDIxLWI5NzMtZmY3NGUxMTQ1MjkzIiwidCI6ImZhZDQ1NTNhLWE2YTgtNDFjYy05NGQ0LWZjZTgwNmE3YjE4YiJ9\"></iframe>"
 
@@ -41,6 +41,6 @@ images:
     height: 512
     isCached: true
 
-secured: "NM6/EaDSeAP9fwvlxE9Ks2/BLWEsFQ+BeoQfjrNiT04tVJr8OCUR0CJaZrgt5UrzAvwHF/tN2ACTkiD4iybJDzjHz9A8ZpRAACb9oAt/WZEzbhY5YYJ2wNVZLqDD5adSzlr3uX0Y4jM2IWXyQoHV+rkycDWjpgEruMvGyTPoPTpV2N0PLJjaF1NgreyE53nk6ayH2YgPrfcw64gQMQjBsvXtb/CPzWjC/OajQMOGPtGkRhfRvpCxlV7SDRd3pLF1fxBZ6fztu7pSvTl6bN8lqBfH8+JtRb3EknMA3yTAxdfcsBK7nx/r7gVzYo15T7pZkQWF/Yxnd5BaekpUyLpF2E5cztHVNTr/uRzEzg8/kXz4fGauT9E5YOzPCBaHoWC9;VapD9ao8/DFZndzoNmvtbw=="
+secured: "0joTTmzZVAikQVlQhapkjrcruTWXELNxQEFV5gbcxJ5jxHmF+CtogHePKuJ/u5SUYLwRDXmBHZsSF+w9trcE1z+3F4OiikBHFqI+7TrYuEsH4z0m9nwMlFfELUiWlUPTGp+3HnOKQmHYX/msEKcVaJ1YIUXyrkaCZWHbgh7L9z/tYmLRjyHND74yOPNdQDBfg8azMHFOiKKW3eyZGg6RHrnxIIQ+UAhOBJ4MMeyPZMXaOsV0cdO9o9wVfTD9iNPymrwZGWVxrIgWoDmIPLqDIYiDdRo9zDro7bTqcpGFWqgwu9W/SqIjPohJ3qbr3I3JA54GmdOKqckAFY5AcEmmU6X6zUGVYkHcW9vwJKszD3Ozh4rfqnMQt2OCL9R4wID52seTklwN25mS7yi1bx6FQJPE4Zw8jetPWGmnyKsHfro=;xz8qCnrtHTmtrgen6S7JNg=="
 ---
 

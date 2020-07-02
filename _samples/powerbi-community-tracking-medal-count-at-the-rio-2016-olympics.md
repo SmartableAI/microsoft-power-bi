@@ -4,7 +4,7 @@ excerpt: "In order to keep track of the performance of the most elite athletes i
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Tracking-medal-count-at-the-Rio-2016-Olympics/m-p/57015
 type: download
 publishedDateTime: 2016-08-09T09:52:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMmVmNzBjZTktMjUyYy00OGFjLWJhMzAtNmM4YzNhOTVmMGM5IiwidCI6IjEzZjU3MGNkLTQ3YTctNDBmMC05MDkzLTc3MjcwNDVmODBjYSIsImMiOjN9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 670
     isCached: true
 
-secured: "MAe9W3T+LuOIma4GrDt/ArSdASpj3pGyZkWB5nB/eoq3dhV+FkoNlO0q5AG8nO040xRIxT3hwpBwQe3r6U8EPb0qISUtoWdtX55Ru5RQtQagiMxRQOHSSOYpj1wwUUq/EazgcJqlD9SbpWAglIEx6uh4sdEMA9uGkUlrCaZxwQ6TSeR/Z5qe4LHMPApIgMtN0Shwi8sBKSSuAi3O0W2jLaj0hYgz7yXNlikBc/993JHZuaIyUdHPtuI/1nPcRcpoZE0Qus67dJSsz48xKiDkn9iSL8tBA1ceSo3HlmUZEek+mAC0BZx6iOfjR15IQtYMICvzJxYKIBol6VqJwRI213rtSIZYiMph4Xyt/+U23Fb40XBlb8ZzaGVzLYEd/dBe;WVahe8/6UtzDPl7G6ONHOg=="
+secured: "kzpn242v92dF/9wmPhYCbHJE2N1tCbizLZqGa6WYebWlfiYso1dGaQXlUIlveNKXrhN2OmD5KfvnCIbuXsF9utykUA8tKwX15nTu8VDpCc3IOnUUgWfskPSvpZAbQrkYsFYZevFU3hK2fAskcCbUbETulQ9KhxclXt46uGQWNNxn7nS8jkP7LB06AYAqnDFcG8UO65xhsqwFlbzd1TYqAbbVrIfnr4GVyNqE1v1kFFU6kMuZHz/kSHX3fmdDM2aNAgY5/mEh2krq1V5NAbSPw3TiZelXseRq+rqGP/mb5JURArnVpi3uGla/Xgt4KqyDabBfRAdwMXfYEbRUGkDqejCKAIw/7UEGKL9/n0Odk6mf0npAyIFWF1UILSX4JNPAvLJVMhiWxOGLr5H+7+oL2SslJtlB3KioJa+MrsLz0IU=;XCO2eOJrNlBJ/CVi2nHCQA=="
 ---
 

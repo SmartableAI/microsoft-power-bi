@@ -4,7 +4,7 @@ excerpt: "#MakeoverMonday Week 47 @MSPowerBI"
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Smartphone-Ownership-Among-US-Youth-on-the-Rise-2015-vs-2019/m-p/849678
 type: download
 publishedDateTime: 2019-11-18T18:58:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMTQ0YjBjNWItZWYwMy00NDliLWFiZjgtYzQyN2QxZGQwMGM2IiwidCI6ImUxNzc4MGM2LTczMDgtNDc3YS1iNzY3LWZhNTY5ODI0NWUyYSJ9\"></iframe>"
 
@@ -41,6 +41,6 @@ images:
     height: 712
     isCached: true
 
-secured: "mJL5dd/o5Anhd8IlCJAkAgx5DujHQHWgj0uslV9KXJse51DtlU13AMycov7fqQtesuOAl/8rNg8pg1dqLPvnIHHorsLXbFKjjob2Ge7iPT1GfzpcP44w+PQFrZuQMxQxI14mBqBY2XV5JUiI3e3CDH7THQ54wW5UBEN7IsM2EprKM40oQHpzZpUGSsr6wiN7mcJ4K39DjkxZBPn0N7KvskLkf/lMM/qAFh6uwUOWFJ8rnbJzV2mDY4SNMBdxQR2/oqPoqsulkW0/7Q9THp/drIEWg7GdHedKdUVrD+mO96unO5BOrZuScRjZDwF6vncEVNb1yboYsIH5ILHoo/zV8PBeVHrl5WNIM3IuX+yqkE9kaqtpR0mG5HvcyVeu+cCJ;QcL3RxCcqHUqNdAsOxuLZA=="
+secured: "qkNqvUDjlGWbCrRQoWPhzmaGdXP6dkK0Cm1Uora+972XmROGCDxI+HwnhY2cbfTpjaVY699wgKG5RGMWwbvw1lA77K3yCnnjkB9l9xuSuQoIcuKlQL6lp0uytEMoJLMhdx6DiRbuoawUk74CNPEFUMIzaP6lAO2QhhvLhmhb5q5uwRM+Lv5YNIHDKwnoTGYGpHp9qoil6sOA3SJBDRtgSBuHmKaSssw/KnLv8gfrx9Qg++lyzcUT8JnPb5qCH9JR5X3xLt9f+W6bTKEvp+t8BaNUMO3YWfQyRJ/5JIuBDqoeKifGTd5ELjbs/xAl5+Q4IQ1K7EH6om7KkiKhWAN7aq9qHyS9z0Qqb2s6wyv95Fy3aJ/eAV0fTPXr8q9wgNDZnxUYO/ilsNfzYzQFaXuR2g==;15oQKoy64524ZxIDjDA0Sw=="
 ---
 

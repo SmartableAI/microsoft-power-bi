@@ -4,7 +4,7 @@ excerpt: "Ontario Health Plan partners with Buffalo hospitals to provide treatme
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Health-Care-Spending-in-US-vs-Canada/m-p/777275
 type: download
 publishedDateTime: 2019-08-27T16:57:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZDE5YmM0NmUtNzFiNi00NDI3LWI1MGItMGFhN2IyNmI4NGFiIiwidCI6ImUxNzc4MGM2LTczMDgtNDc3YS1iNzY3LWZhNTY5ODI0NWUyYSJ9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 511
     isCached: true
 
-secured: "WAFInFQBkeNNKgMZE6IrbaTRBj2Z1Nm/Ynj6FPCE6BeAYoo1ha6hKquEEGlmSQXCZ1J6/GyyM3r60hyf2caT0xu7qD4rlP0I4asFjRd4atK7+IoP6EZVi1dhZjQaVjArp0vS15TQZYKhd02QEQAiRihN5fKukTiz5BjJl/C8Yh3OpCL6w6gHoguGn4OgRtt5sURv/wOZHhp0ETMBqJIPEuSRRLmWYCGg5jvthRFJP2ni4yW/xgLer2otzdl9RjZ1yQCyex4+EMephL4he0oerH1gJyBufJraNLdcV2etJCQWkDQo6xEsNrI4aFHFsQ1QJoM1MXhx66q2AcMQYabII/8vWAowv9JypDxcxzx4W1zqE2tQardDu3CPgTIknjLq;1U1KDqA0LLxDPafZq3bIhw=="
+secured: "Lz1qWSWWmvyTC7/pBiyna1KKtu/fYot1vb+6xo2DIBKk6UPAcUKN6UQvjYww5jT+0LqKcghKwkb4T/XgAmesnOAdz8pZyz4mdb5pSx60XrhWIn3x8sTxjBDqIkgaSJgBODL7zGxxwy0KAx64mpdfxw8DpsOfNFLDnkahDLj/3F/Ov+Xza7zChgwVl6kbgIo59YWQO772UaiLEo5vRilVTMrkkIlClUKU5/9rTvrJkve4dLQP9DJN+yemvDqESvEN+vzmghctIKHYHou3bFMusvS/vRdgoHRaJ01SaI7s7GT6LDmi8Bg/BDgHLGTaW7tf/NigvADu/zhC8ir9fFbAo6Xlu5Xe3f92oDrUfOGd85WDrLrp9PtTRbqCTYOhMkJZZFEmmbmHPR7K5BPE3lUFFA==;CA+EHSpP88f7APo7Avy/iQ=="
 ---
 

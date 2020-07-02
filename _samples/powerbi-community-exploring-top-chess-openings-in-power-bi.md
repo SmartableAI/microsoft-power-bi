@@ -4,7 +4,7 @@ excerpt: "Explore a few of the most popular chess openings through Power BI by u
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Exploring-Top-Chess-Openings-in-Power-BI/m-p/240955
 type: download
 publishedDateTime: 2017-08-28T22:48:00Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMmE5NDRkNDQtMTNmMi00NDVhLWI4ODYtZDQxZGQwMDkwNWI3IiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 793
     isCached: true
 
-secured: "cNzy7xg/h02GFb4SXmmd8RFkHOv8wPpLoXDcwVKgFhQBRasirN55cuFE2/0nLFD7MMNoYR7vcxCRLTqiqjUVTuhSHLYg7sAVoqpDtJY4I6SZwiRIITDq2RymdqVu1GWgdmL/hd/3btIfWns691TjQqBMP2GJ7j/ZhWaFwUFE6u0TBrCCA5qOTCDpYbr076e6LawtcDfASgBK4InClHjmo7wcWldVPtpCS2x+Ldrnyh20e6S1lnet+z3w+lvKzzu7+nYgtAIf7ZMECpwonG0HbZ7x+AC3CLgmZcZ+pQAI+lczdYW26lUfia52pO32hESgXNzhRQLQRggmIcUBlKwXrXVItTf6v2nB2XBSrewO0ltiUrtQUfG/V8OeBfjn/tkF;N5KReScg8wjJmGS5rbj4Qw=="
+secured: "FgCBsO8+rCaLz/HoaJwo5I9IBTMuikaakQ2keMHhtsNDIMqr0SFP1NSET7rrDn9Fov1sQvkp7kCpLd33cTLRC38vrzB19K9DWWVP/ONILk3GtGp61IvudEO37xDjlMt47VARReJzFRGpi0+tEY6r2fELKstgGlfgNAsypZN1zqXUzkjvO4t2h9ybqsnX93EssNoz0BJBt93ZLwxJjXbd5KIys+6U3SrRosHS4aKI+rDVMX7TO+xIwNJTF3cxTlphaRr1MSfwCFfr1Sqh3xUjmtNDO2789/H9lSeSjlQ02ACC12fUzyaJJiCzm9GPhwfyGBuIZE619aP3UL97Nflxj9CwGOjg14ZnCC0TYTF9oWIh91I4uaUeQk3VBdritqFLgnWO+JDmZRM2MVY1ewpR1XnAMtECJCf/ZYTbRkIboHo=;wOMiEi/Ri58WW0PmXmoErQ=="
 ---
 

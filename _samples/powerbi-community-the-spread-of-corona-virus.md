@@ -4,7 +4,7 @@ excerpt: "This dashboard tracks the spread of Corona and details the tragedy of 
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/The-Spread-of-Corona-Virus/m-p/987165
 type: download
 publishedDateTime: 2020-03-23T07:31:00Z
-heat: 52
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMzE1OGE3ZjctNGZlOC00MDEzLWI5YmMtMmQyZGQyZGM1ZjY3IiwidCI6ImExZDY2YTAyLWE3MTctNDZjOC1iM2M3LWRlYzkxZTNmYzM5MiIsImMiOjh9&amp;fbclid=IwAR0oaV_9K8SLIgZzEtgpgg_Xk9seLCmL2A-9naW1ZaCUhT0tFa66YeKh73o\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 882
     isCached: true
 
-secured: "hrSAJlSjJPKnJ2Acukb9zikWu4ukguRH1/WKWByg9tmHcWNdcY8K3wiEPghpb8q8Mmelqu8Z4Jj1zAZM4xOxpUcsMSmuWIStkV+9YjvtZjw9fgRe6fn/AawdRxohRa/K/XUj6yExLxRCqruI+ffnBqTu+ImPwCM0fQmhMYAmn4mMgn9ypQMHwJVvUi95lGdVDAHbJO8+vAYgPWBZCqSn5ztBd4QDClw4F52IP24MY70VUZhEgSa92pZQQlhoTvZmyLCAO/GVUKxEIaB+sFzpGJzWscxq4gDSjUgagU6ktxcaqAIKZmsmFnFAmqbnAtFAyomlX+n8p6Tf1xtz/P1GfK+10uRW/usCmi2fRObJPLrFN5LaHmUDoI3UC2fegq0y;szhYPqKct+6QgsoQ3A/91w=="
+secured: "cj+YUNJIheUTJir0tFOeXPjRjsidpsUCwoBMD2XsGYJafiuEc4j4ujgMFIUb48z1ZEEpNg9Jkt5h1q5pQQWdZPftKfuGwhRiY8Vhgz2AaoC6sJL+hzc4LP/KcHCYerYA5OqRMyd55e2148+r0av467P+0Vmjf0Uy4EexmVZYin6T+9QUg4K1rY2AYftOWLhIV89ydhk3v501GQ/rtYWJr4r+E4Q5aHNxNVmuVfys7F1hy6ZeumUO8uNQdhbTp1JJvYmYYKDxE+XRsUDjDrpaxZjvmCllR2iB8R1tFx28+096u1BnbWGj2CpFpjraGyjyYBgRhTlmkILzDmzJObJVthZbt+SCmuNG9sdXWuVX864qYDi3os6zOz+2vN+ZoipIRqWuKulwstmscRfiqDtbJA==;ELTVGZZaVtdvh1lDhOSfSQ=="
 ---
 

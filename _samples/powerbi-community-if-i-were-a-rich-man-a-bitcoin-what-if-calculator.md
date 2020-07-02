@@ -4,7 +4,7 @@ excerpt: "Many people will say that 2017 was the year of the Bitcoin. Whether yo
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/If-I-Were-a-Rich-Man-A-Bitcoin-What-If-Calculator/m-p/332301
 type: download
 publishedDateTime: 2018-01-03T21:52:00Z
-heat: 63
+heat: 58
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYzM4NzdiYzMtOGMwMS00ZTkyLTg0NmQtODNkMTZjZTRlMjFhIiwidCI6IjIyNzNjNDFiLWI4ZDAtNDVhZi1iZWU2LWUwODQ5NmFlNjcxOCIsImMiOjN9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 1082
     isCached: true
 
-secured: "o/K5vLrZ/HpVf4FyuBOzlrv3+LGRsDsVjRfbS9M8wCSI0HBMyFK/3EIF0UQGr4WKRmo5BWsnPno1SNeDo5a2wQifRP5/4YJE2Leyn3lw3cRottUj9sfr/2tG0amXIm2TWeh2XbOrpV3T2h4HgKCBog8LbjbktVWiU0t94v1W9nU8XE3OF8I4Ns+BopTY0uDDZGH4UI5qCcpEzw2cb2/ZLpOAvGTocvkTwJVZVc0x0+OXWNmmxQZhiFejgMCW1HAiL4F/+aoQhU0mLuc9Dv435EGdVqH7CpLZ2ieIAskHurN/ObI+O2UOMRCgl8t071/SO9zBBINTnCPDB0K5ErOXMBwxyD7t1KoNRJapKCglUmVu/J8lVUKT/85+57gtzGVL;RmBjAh9EQLA8Ty58JrkbDQ=="
+secured: "QURRAvMUNcQe4dMVFyeqoG64QldZ3jd3HNEZx0RbYHRNkX/uZH1s6EIALbITJJSFey4DjgZl/SBtPfCek6GavWOPFAoFufjJqKfLURBNvxqOzkypFLk+R51cNrdV68CMtvna615Af8sK7sbrhIMWcaT06vJmer1H+Jp/Deggipl3AKlzR3DZ2kTH95UMSFUBv7JtJh3LNEmx8cIrIf036nZZoW4hZj19tWj6xGMWqIGVHMEtRXqFZg5+gqS1FEau38gtJ1mji9Nn4sUNU8bIihyE4pT+B/u84cuVl+0DOtzTZtIniC84HgRItl3/1ACUPO1mP3PxNwoIhITO8+MIttovGg2EAhWbNYZANyZm7UuP+J34Hgt8OgpkoqLyuvgfKg89638Fglb8T5EVs0qzVwu4ExPNtfAMvsihLea+TQ8=;ktK9BkncCkfDJFdWpy5uaw=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "Dashboard showing the rapid transmission in Washington state of COVID-
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-in-Washington-State/m-p/974538
 type: download
 publishedDateTime: 2020-03-14T14:08:00Z
-heat: 55
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDA0NjYzODgtMDk1Yy00M2JkLTlhYTgtMzM3NWExM2E0Mzg0IiwidCI6IjdlY2M4YWEwLTgzMGUtNGQ4Ni1hZjc4LTgzYTNkY2MyNjIzOCIsImMiOjZ9\"></iframe>"
 
@@ -41,6 +41,6 @@ images:
     height: 932
     isCached: true
 
-secured: "DLO3F67mcKgm7UL/mrhs/n7yRaYkJb5Admv7UcrKq8jsMu+xGiGVz7nj7GtQaOiQN2wCcMNLmSXa+dZda3FPrYTkzEpLzuL8XyrTSAOscYMQKKPiQTZcVEmkWJBYqTQCZJZU1RJCrQ6k9KgAB8G9NZItlP6MTtzN6r9SGlpF9r463GVZkYa+R8n3Z6xkGHFGhqBuFtIkqZyLd0xOwm4zUWCSX55LttorDWYgD4suowyAc/Ekp9ZfOyhJiDYWb0hfCjo0sXIyVku6C2EII4p5aLNeRMt+wpz4elic5/zfBXwVEHnAc/ZzoblZ2nQUV3+aOk7DO3g2lUwypcbDKLJF5zuB/gOHA1pVMDyrghuKilUQ/XVSFsXk/6bMG4FFFyE+;LIa19xH9NoaJwBgnmZg53g=="
+secured: "ts7R9am+rOhMP492Ff5JudfMDfDOIdikB/wV+ULr8GQCue2TyV0stXgL5q7SLNOi76ppY0OfeiM7YSZXRBetLy9dblngHiyrzRu/Oca21bTtBIjfcDNCBFmXXSjOhIBnuq7oZ72oT9A3JCua+YwKlH/pvE/Gp/dzFK6oSdhtuRwiJOTfQqySeHavMKTD0nAk3NXzftDQrk9dS6UG9L8+aw7f8fPlWGh+/OOfRMnnGNV8RDhnjPF/fD/P/XL/ktc5OR+3JfYEwqfzeijcWT0YOB4AbPMAxWQgnGk8xdUC35OqhHA1fAcz1K6jiljkZ+M/hpuccB5BZpF1MnhMIX0VlmLtQpsz6bQGN1WtW9KUsiEnEK5lLaQJ3XkhdGw3Pvx6pYBgDPbOzJv4LkIgRPujVg==;anAAGdnDU0MSk1KnM9N8Ig=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "This is an interactive dashboard visualization of the 2019 coronavirus
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-4-Africa-C19-4-Africa-Dashboard-by-Seth-Samuel/m-p/1017904
 type: download
 publishedDateTime: 2020-04-09T08:49:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiM2NkZTBjMmQtZDJiOS00MDZjLTg2NTEtYTAwNDM3ODExZjVjIiwidCI6ImYxYmM0MDQxLTFlY2ItNGIwMi05YzVmLWJkNjdiYmJhODI0OCJ9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 736
     isCached: true
 
-secured: "5FZw/gQA9BrWxgRCvKaoC18jLPddTnwTZs81a6FaXRIXA7wyGGN6RTLiPkPU33cSfhmMHsUXfwHyoDitfOh91+cb0rfFsSjwVG1t6bZwAhHPgjtC+VEQdRnf4NVAMH32Yovr6SYJbYoh7VEHcW7gVqqiJwAfzoLAuzr1GeCQ+BgzE7PZBqqRAZZfrVLUdUPMz20WBoEXNLSssh4+Ux8QKoBb4TDjYSpG0OEYtFtZ8x6O9//gbWuwfh2gOpfvOyFwtE8jVvEYFyMy5KKhEdLS3q0BevmErMPA9FEdGOny/cX8KGFipNOdIk9R++MVF6W/F9k1RR/2h+YtWoLxxiBqSELI4UK8pezFFO6L4kYafNR4ssB6KADFdX5L0gDDx0Tz;7fLsdptquoVlNo5K7Z8hkQ=="
+secured: "ABWRgPJ4ImX8wDkjsL1PcXxeM+rNaI9nS3MMB6LFSvdIEkD8CTEOwD2YveaajAY0RiBDmYvU2CFbBknQkjI1/XJDPy3ey5JJX33DPYuHUww2AyarJx7gMdVhTBwiULCKYaT0IxSFmNeGln5WI0w439nBHrh5IOY8UAhLkfBCvQi0J1p9AT8xt/h0ycq/zLsDmD5DyaL0meX5cvZo8cuCAWrQkgycZPKydBuCKFSmXCozSA2fn1EfQBKRG7icMk0Pd2HkzGQjdLzeWY2AlFPfnXkVzHq0DTFrqvaXdLP4ledkCBNMeF6ipgtyTV1MBFnbWuMlXCYJ41RtUyeYXHP8LZdpHXKd54h2xmbe7jg3PrzapF3/OK8oBfuVWpxEHzQDlfpI9RUh1DSlE3BY3QW1kg==;PDo9NK6BbhVpfYQoyWeCEA=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "As a data challenge for Online Volunteers , Udoye Onyinye created a re
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Udoye-Onyinye/m-p/1043238
 type: download
 publishedDateTime: 2020-04-22T22:41:00Z
-heat: 52
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMGI3NGU2ODUtZGMyMy00MDI4LTk5N2UtYjRlMzY4ZmFiODBhIiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 1173
     isCached: true
 
-secured: "fZFL9eO5Zzx9YrMiJLWO5nI3h0eZr52hyYHpcYgnsBee95H/2qnVwClmyeXUrS4UR9+cwYTokXORqLEjols5BNtydtJn/K1OnewzwxPcTnIJ1gq0X7KtMrvtfx46kODWRrB7V5iycqK84JpnVk/Vpr3OxrDP21EBZ+nkLV5LZkiBqd7xklEqbGdjPjAJSjF3/7361IOQv2G2O9hotqdDzTSMytsSsTH4jGkeU7JzW+7r5GyhX19jZiY3wCvLKLwcW27aR3Kxw7HRfcaizGLvOD0vFocs194X9gDHpaP2glvKxI2sw/crHmbBu1jhIAIRCOA4at/9qIqFoxwwGiSHsBxroJ6/JPUfDbitD7Jb6743fsSKpvr5dPVzmQjkQEtl;UbvAWZqUq2fnalWpBXiEtw=="
+secured: "jqvRTUOYsTJiz936mIhVe/f0xmx51neUgctq8VHF4S1kSTMjCMrJiLg3dfmA19Bzm+adS1KsYqg+lrhZsHRcIGhOfpe35utqm8ev3s4GWEBQw1/TgXP+smpk5O7eB0W8rNmkNdzvFhFBixTov3bG9/1cfFZDHczQV5103Fe449jniwBcEprqFEhPj2r21pDnTskKddJrEHzNa8Q7T3E6W7NnxmVe6NhOURtatgmgnb/5N2wCoP1tNfS7Il90KW2a38eaUhMqD0S325UoqKA0X7wIEEoasmsN2hbjkyI6sd9NJfybUz+XS3au6jiQkXH8sL8NNY6qGTnBzlAoBGko2tRqPYzBCDP33sjhUb0fB4z9000qR/qbUbL9ZDpb4O2tj7mkYeFPGPPlJUX83IU7Mg==;SnbiTwN0BVM9dUna0kOJ2g=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "Hello there! I made this power bi report with the oficial imdb databse
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/IMDB-Movies-in-2018/m-p/827908
 type: download
 publishedDateTime: 2019-10-24T14:02:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDY2NDg2ZWMtYzIwZi00MDNhLWE3MWQtNWVmYzA1ODEyZGY4IiwidCI6IjI1ZjdlNGIzLTJiYTUtNDM1Yi04NzE4LWFkZDAwNmVhNzI3NiJ9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 768
     isCached: true
 
-secured: "QUAHuSpt1yzpxvm7YePRrHxyzbprDhsGacDxdOYUhA0h1mFcLQPA5s9GI9ymEQ44ifsAqQlkkuoMYsFoWH2fFc1c7GnDyKRq8T9pAvnkUjfbH4BsMx1UiX9mcdnNZUIZbLEtnAdg74OF3bPotb9lQFqEYP2WOeQUUQK++98D/LiTHan2k7zukfkmSTJBiXtytDT9iSAQuwT7ygS0hkrBOWCh+LEuL0RufcgulyDtbKzajKmjY/7XM8lQbJ5WOr8tXIb7Y9lFCCHE/Vk/INTUJvzmIor9P4N7mkTf28Ba2cVPnUTNrN0oh0uCLjd1X9TqHV+CC1YogRkzLmlkiADTogymuhygEJYoISWUGJEv8K0QTjvDrtDfXDBBYevE1TR8;1dIVyFQg+I7EsAgj/GWJoQ=="
+secured: "u0XJH6thtr/TeW4YnZtxkMXCqLKLvTMpzSWh59pKBODfq5ZEoWFCy0YPk5/oGoDIaDU73bReMeL1ycmiK352z6H/VxtKCuAWU1MoL0FNhBS9wE+aNVKYswvTlsefqQQhnG3mmNTFmOb6AMkVcehV3e1ulqg1rQotfFhYC8kMOFn1opzg/ZXZXkBPwpkLX942gEwy6xJMRsrjy+GjGP37r+htIEqrsdegre4kx13dHCygCMmQrjiuI9Ju7hXvQ1AKYe8iqiFpxplCa+xfCg4JkmL5VMhiT9vU8/wPG2y74uCY18HKaeFjVXSNI2Q1o832cby5iZCES3GlFZj1NkM65gRCvv+ULp6ByT3d9bsx3KbhUr8ifi9gkFOupqb3SZlP0PscMJiR0/VhNYo1pcrsjA==;C0Sea+6LYk/D4Kfi5P2ruA=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "The r eport tracks Covid 19 progression and provides summarized view o
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Tracking-Coronavirus-Outbreak/m-p/1093073
 type: download
 publishedDateTime: 2020-05-17T04:31:00Z
-heat: 55
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDc4NzlhYzktN2JlNy00YTljLWFjNjEtZDZlOTE2ZTUzY2E2IiwidCI6IjQ2ZTU2MmVlLWFiNGUtNGYxYi1iOWUyLWM4NDUzN2RkNTYwOCJ9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 500
     isCached: true
 
-secured: "h2DvPp2ahNeuMPYQAxpNq45rBdTCyi7bqnwWJnwyrpxApth1OxI3V8N5mGRG6zdGavqlOLSc+8rXAaS/gfuhtkaKY1M9iJwzp0ZvE9aMF7tzcmN1GJf/O2knvYQ5YbxulXKQ7m+aXU/OEbKVHM/JVbAmawrfBBN8O67Er8sI/jr7zoZDET/UFRo12tPiWNINlrBUxonQLsSmYL9gZgcIMEK/rS5/O6Nwm5zLmy2m2pA53NeXuy7wNGl61bdZnPCr1GvSEHzJK39OHgiveerT6qwIVhYG7EFJKkntzuKPG6QbqHWT0aCzQ2Bb9Pg8XhR88A6Gu94UaRwClwC+I1Tez1zrxgEgEcWRHeUis6rjR0WeJXfHgaCxsBtKDY5ijeBI;JKsSqJn8tB6qaEXBK1eKZg=="
+secured: "b+BKEcyKWuXGjatdoLsoAv+hQsLtE15+mk+nZ9dO33SpJnImrHA3yslBLKq+G9gN4g3RBt0Xx60maXVOrPx1/q6T/zgwK2IdDtZWNpv+i6PshtIUhuTHJ7ulEaUxwWa5L1b26B4a886Lr6jVIWoehj5GcP14q6uB/mj6dQW3vty/Een/ZZ3QJqlC82Oukw2SqjFxF4U0+ZzsGxSG9et46x1kzCXyscdDwpFocyQ3vzSrZKRKoyLLozT3K/0haH9xWzOOj9/OF6nw3dWjh2XgCmNd3zXepSJJK2+yuOaoJQmz3i7aBHz6QiK51+p45v6LxlQZbUKQkFu7wZt3PUOw4a2m6awRWTYvW1W31I5M59ZldNFlYL7sls2L3tseYU9U1PA+d84Kxx0QV3ueB49e5A==;hRRsg1mBR/xyrtBpCRAtjg=="
 ---
 

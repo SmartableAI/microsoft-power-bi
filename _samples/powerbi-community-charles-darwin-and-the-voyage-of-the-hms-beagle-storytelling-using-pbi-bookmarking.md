@@ -4,7 +4,7 @@ excerpt: "Charles Darwin circumnavigated the globe with Captain Robert Fitzroy b
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Charles-Darwin-and-the-Voyage-of-the-HMS-Beagle-Storytelling/m-p/279703
 type: download
 publishedDateTime: 2017-10-16T13:41:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZGEwM2EwZGMtNzU5Ni00ZDI0LWI3MWQtZjQ1ZjA0M2Y5NjlmIiwidCI6IjFkOTEwYzM3LWE0MjktNGYzNS1iYTFiLTM3ZDViMjNmZTRhMSIsImMiOjh9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 873
     isCached: true
 
-secured: "FGBkEUdW0zNRUg/uq1ovQ4JoXBhKGbOQQxU5z6nYgOjc+MjbLwWHJ4S08R6BVScCqKaKVXDFii89EnK75rwB4BBpLBbhlKvxtsTln3HiJu55JlThm7GPRgSK66SI0hvBebT4mDwcPfA6ltTspfjDbhsJq/5HRXshEs5KcOXCf/+LDvyLRQ999fwnKOgvt2Vzu7swtwGxZ66aI4Pk1eaOWbFBbt/wG7pk8tg7lOxR0arAXO2RrIp9M7TyTQQ7KZVrfn2RNWNwV9ZAxldGibs+t2EZd65pB1tNyV6mFMFGOLoa8SoUSWuBBVoeepAGpDBn65rgckTiT3iZ+StmWb0O+JCrOlkR5/hC2/BY8h/wCGrnW8tnLgVYBMvY7uH9OhDj;ogi1B5sgZk3KYLHtjVhdOw=="
+secured: "+EwpVvrb7Sv4eHYkkqJLespmHWLOkmD7YT95B4OvqVTxodFiNMUYg6ErxRpxnrwBTsJyuqAw2cNj4YiDshCS+qlxzKQx1Ho8U/GoTvk3NQfKJaqClq/f/73rAv3YUe6MHvaz2pUVT0sCRUeeuE1o8xFSuqXwyJMXvYSMgHM/ETsuACrds2h2xUT3Vhd2Mj43Y23joh+XihXrNrtFzQI6pU2nI+H4yQhAgIWg307RrkSMDQqZVOc4VszWRp42Xo0mdNly+K3mBwoUFuSz7fiuKKU2/vJge3CCbmXrksX1+C72NBERXI9I9mFpzqCigTLDgFVMei0CDbkHeWxsBRglfVDB/7sJX5Z75YDATB6HW0Um/f1yXyPq//PmyU8zuFFeP8o16+ojGsYi+wVgz/cd6ifo9f12Nw4/1+RtsowWR5w=;syUPxYIRQvCFa8bnPNuMXw=="
 ---
 

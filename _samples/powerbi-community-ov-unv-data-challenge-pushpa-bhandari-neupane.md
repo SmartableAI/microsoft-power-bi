@@ -4,7 +4,7 @@ excerpt: "OV UNV Data Challenge submitted Pushpa Bhandari Neupane, an Accountant
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Pushpa-Bhandari-Neupane/m-p/1090368
 type: download
 publishedDateTime: 2020-05-14T13:45:00Z
-heat: 56
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiODA5NGZiNmEtODI4Yi00NjFiLWEyNDktZGEwODFlMjNlYTY5IiwidCI6ImE4YzUzNWUxLThiNGYtNGRkYi1iMzRjLTVhYWIwZGMzMzQ2MCJ9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 629
     isCached: true
 
-secured: "xLeqCh91lM7auAigX7paY7jz3tREaUzW+3oUDzsCHxrDiMR5k4YbHiJ5cBHxTehwhjtq4XE2b6mTWOEdRQQdWrVt17DpaogHAelx3MoN+f9QJidtXbV8CGhWo9bivqiSK2ZN7yWH/gUtLYFuHMF8F6EGYX4mVbFju2TUegCjQKWCwHLtMnN2jh3V5M1Z2Xam7/BS98b2cUZFN0aR/7S1w+veVSeHGpGaf/YZSHU0ygwKUmxGfOXbwEBNLDsONU4109xlFIL6l5HBprakOVVq5HVb+DbGcIsyOcLZ8nUhdMRgwzzjpRLPrCengKAm3YEI9QnLu3hSEGoPg0Vv4zc4bH2bqvoCIv+antzwqcOT3kaGD1Zg1jY22Ji6/O/eDneP;DF3Ik6Of2yzEd+6R4T5TNg=="
+secured: "TKEm5zxlP1niojPaQWGejo/sG+pgRlGieWmglQBHTVzykg7B08K6WlVOzzIHJJs5W8mzO45VE3DVLdcFD6mNUCLrSVHjcNTlMn1noH1vkRn2eQhcXUf2MorMktsPpy4kUjcdeSUEW6DkQXNIk0SFSJWPxYW7u13IWCl2IvSvhMW0jblArrMGLQsqyLY4O817MKuUwAO2KSEZFdpcuxXc9t8bZRkdfl/fvC40fUun+YI8uD4rCQSeDA5MW3hEkdgPF+Rjd5/TrtE29pQRFzkH90u1Kp7J7J0UFyCVRJ7ozr+5TDHvWvkit2Muk8mcCqDSDabUPU6R/N3szJRDQ9l8oSYdOnPayzkwvPIIZR4bitsxBibwaiOzZFTE8Bc7hE+ElHuW/6J09e9cRDITYn41Og==;llpXubivzX3ehPgk27EQLQ=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "This Power BI report is essentially to demonstrate how to use Power BI
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Nigeria-Parallel-black-Market-FX-Rates-from-Abokifx-com/m-p/568355
 type: download
 publishedDateTime: 2018-11-19T00:25:00Z
-heat: 52
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZWM1NzFlMzctM2M0Ni00ZGEzLWE0NjAtNjU5MjE2Y2ZhZTg4IiwidCI6IjgwZTlhM2Y3LTZhNTQtNDQ2OS05NTlhLWQ2MWFhNTM4Y2M4ZiIsImMiOjh9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 2092
     isCached: true
 
-secured: "oExag5bCmPn6rGgWDUOvOaPUa6xIVk2F6QHYa3YmA56ZTZydhA/ZH10Bnq2iZusmiU+AO231WpGni2CE9Ch7dw0GrAM1lO4oOykw6Dj9+TLaVNfUDzoIlBH7XBukg3f0gSjwH1y9c8C8eMjxTlcJQj8uV4L/69gLrb6hKlmwAZQDc/km8iajLx8lJKUzOz328tbSGRAbScuQwVWx37iLK//cy+/4yP+qhZoKkUywaXNVSL3Jy73pkdHIhtnLIOWsu2T5mMngSTtE31aHz2/uH3GQGi9wMuE2A4GG9//UlNZb1tn3eeowd8hpZgCsXY3eTVdexk+GpG9MrZKihykiHqJACjZVOrS6PqQ3jS6Dx/Jm0vMM+mauB0AXaCws3bSS;KRZW6Nz+HPEy0tFjt5s8FQ=="
+secured: "zxU3r8RsEH4rZ0Mpd2GTGfrg3sGBkyzzdFQYqvs5HP4peHb/LoC/XM0sCVUsFlWGYEIH49qTbin/bqzPCLinSI7IKdTK7FjU/kU7Y9wPI596AS6gIDRzeNIocX/oUP1v6PO60ad2QwChdbmPJrWPLJHvocvWzJCPOwRpZlaFbs/CZq4wu2WVvZGHxd8BZNxup/49oEdIOFxN/3CAki8RZ/n9oO2BX8fvobxjWv3D/yD7Ac2aXQwaG2dX77rJPbsZ5RKb3ik6aVTU4QM57VKH1Ibyyk7gXopO6aKZaUQWJctbE92iTT/WnnyT75UGqdA7Qj956JXR9AQEIff00ML50f0J3WukA2uOi1EGURTBOl4DTs+uB6Q/lL6lKX4tgFjA4f9dpyRk+b3J58od1u75Y0XEEU4fw+nEiwtC6+Z0TbQ=;LXRalOq+o1WAwlCvdmyzVw=="
 ---
 
