@@ -27,7 +27,7 @@ images:
     width: 1280
     height: 720
     isCached: true
-    title: "Learn all about Power BI Aggregations"
+    title: "The How and Why of Power BI Aggregations"
 
 secured: "jFJh8tDDuHCwNhhlo5cQiqgrMbpiQht6v2FOQIc6+em5IpodQsnj1fId0SbX5c70AvlMH3F68jNdOu3mEBXvtjcyyv1jPjGG5aONebC1c6NlgTs4KiBdJtrl3RXLE2E50O9PfO9SubqQxzRb7gY/crkB446wRyHidsFs1ieWDihai3EsYlYrtkBI7Kw1eFX8gePSVqNCiwYja6QLm5bcgDccULF7IXRopJOUUBzRmhvubXhwuUtwhupWGiY7sIVzx4EfhdjYYMTg24d+9tDQDHkEztsEkOcsTvl1PM+fnF8CXhU88HHJAZiPZZDVsXvBuCMysXKAB5AXQzJSDKFA/g==;oFMwyG9DRAbDs8tU01u/6Q=="
 ---

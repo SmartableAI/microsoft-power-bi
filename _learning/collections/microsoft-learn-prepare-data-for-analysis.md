@@ -29,7 +29,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Prepare data for analysis"
+    title: "Get data in Power BI"
 
 secured: "VEgYfpmE488qPtB4zeE31K98+BTcNOFA5eygQ28Xo6DEsdaJFPMPVvSlwUNkV2NInurNTy3kA0RjFKcrnWOTHQ2BY6Jo+wwQXoudMzQgdLf/uWSbvtyWWgf6D8eBOGRJgQK2up1DclUI/dcEFbTtutLGexIAZzglvRtAXRnuyaWiv+iuJ8xf5edorb8M5SxBEIsvx1Dt+PMCkLVIulWUOOh9YZgJcjicuTcIV3wz9BR010dT1E6q9Xx5jCtpBz11LUgGfKO1sH11poKErOYjepQhmWES6iSmecYowqETJqPFiSe65+3VIrt50+cKeMh27dvfAPYtZvzVxE8UBBol9g==;CT86Rex9/cTcq6sC+cZHyw=="
 ---

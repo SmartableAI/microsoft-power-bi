@@ -30,7 +30,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Manage workspaces and datasets in Power BI"
+    title: "Create and manage workspaces in Power BI "
 
 secured: "K9JDHmErCPnpBcaTh/7SSPHSKPcQ3t8cyeudg837RUMrDSOMQTYaDYEr4JxnO3ZaXt8kb2xwZA0tmmrO9lVEDTPYKSIfJUAWvVUiUVWTRpfW22gLR6/XX1ZgXEEwy7c5oqBZogUBstQi9T/7vTMQ2ZD5nALYnz4Da5TnUtX1ZatM2+pj8RnNCv5ZM29h9IAVLssyG7by3rhF6OGgQSjjcXMKY09RoTo3d3dyPMOK82dPuCCqMQVCEPYFUrrTVD/jufl29cKy4GaxANjjeViwggIYuCX0ttSflUIXhaxwv+UQqzZvcbWwV3HZLJL8M26llaI1VPzvV3MVlqGwEVSLHg==;gCxPBnTfma4JOFFDrnitXg=="
 ---

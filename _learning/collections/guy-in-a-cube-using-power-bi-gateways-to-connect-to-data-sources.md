@@ -26,7 +26,7 @@ images:
     width: 1280
     height: 720
     isCached: true
-    title: "Using Power BI gateways to connect to data sources"
+    title: "Get started with the Power BI Gateway"
 
 secured: "K+KIe48Z6LoiYluDeLdDoSL+IT3CZAV8F/Rjs++fz+ZBMhCkL60iQtGI0JTtdSiuw3kQiFZ7w5S37ZXifP7ieH0CNxfBoqW7PY5JEk6bAOIYC95sp7+mqoOeH2Cuk4g7m039q2upaOZknHie28wySxv/KWB0pD4EJ17rbwi/6L/qiuTDG30PM+bnok7uyTFxCVJnOL7haQMAIW6uvnDNcQ9wGVTdBsjz1IXJKBNuTlJpoInCAh/xQpNMVG/A3wjOrOvycLl0kQOs3RAsnacyS39YZnXM9mFfbl7AIgHIWV/4w4RakqmG9KIIx7LpOFRkoGbBnk9XSZwII/CcLzW3yA==;vFLYPub65R5D9FHtL0dZAQ=="
 ---

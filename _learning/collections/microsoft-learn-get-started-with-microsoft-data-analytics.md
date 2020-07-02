@@ -29,7 +29,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Get started with Microsoft data analytics"
+    title: "Discover Data Analysis"
 
 secured: "ZRmY+xPSAE1V20FlnPuCIa7DMPc/eyhAtaj8lS0MGIDEy9u7dJ45t27Smd/IHP4UXRW1FqikfhM2MLgD1qhJmpXpbOSAoC/xD3KEqEVmcZR7lv6IJ4Hz1VRX7Fr1MBwZmhazN/YRmq3+DboEvNJPZcjzbtUoo6fxnfKvTl1aPM2SCZnB1M0HOWeALi+3K8VKNBKYT2vd9MULb0k6e5vw62XZ5FWXwBkyuXe6aOGnxd4ydM35Cxcn69AGQUtWaYICMhpyyDB1yICT17ZthZ7NlKjuP41FSMbaqTnBJdhF39Nnl9xUcGRTczF0bgWv+dba+/D45KhJuoT9SA2fD/PocA==;pxW+rJcSRlSudVANYnNZ5g=="
 ---

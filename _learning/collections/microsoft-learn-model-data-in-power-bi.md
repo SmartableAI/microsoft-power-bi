@@ -30,7 +30,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Model data in Power BI"
+    title: "Design a data model in Power BI "
 
 secured: "777Cho79JbauCr0WbBiCUTcZskoxDEoEVH4T+YYLiPp6QB4p860c8IHsUxRDLIoKRyJt1kB9+fmTEDl2DcG3aBDIGwg71GamsSuO9e3n+6CwgCdjgc5Yv697Bp3VN86ynlvQSVNtJGdvgzkgdh9X7cH0hiI3PJrCTwkvFkCrEHFExkHbppKiwxE0Of46TALHSfn/4PeAXPTVmq3wt4qdDkKaWocgYOF+LTf+lxD4CCW2+UbPXgUSZnketn77aU1rediFsH4a8srEj18elwGs9cYxHuxL3oIhjT7gSIJklz5TweUCraGN3/MDHE3x5FJRmYYTtuDsYuUwW88jU7PHxg==;2eozlQAtD0M3zQvM9PEH6g=="
 ---

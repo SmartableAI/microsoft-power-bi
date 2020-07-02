@@ -32,7 +32,7 @@ images:
     width: 1280
     height: 720
     isCached: true
-    title: "Embed Power BI"
+    title: "What is Power BI Embedded?"
 
 secured: "FnsbBQwYAn8XZWa1Dibq+t7w1Ssj99Uh97i/mj1ptaL6FcWJYbnRKW+LeIukFRbLCzKCfNecZDRYyp8AxhyuEdQqu1CHC38bDAzb/OhFQQg5YL9hdxKrp7Cx0LWoH5IJIMoAP6X9xV0iltN+LB1Pw49lgnATqlqzvjl+MjyIikq3jW5TQu28iO340M0ZNZ28g9kEqlo05EmHcknUDIim5hk/Lgl7+CaAFyZ3iCJ1urQLbWnvOCiWCcstjzH6e/sO6ibKKshS4NnFrD45nCw3eGPl3ksdxcRIlF/8k/B5pZe4ibvGnn/Gv2XvDl/odrJzZrcS7LuPxsm+2dl+NB6Vcg==;wFMjnO0k3cYYgJwuMmKHiw=="
 ---

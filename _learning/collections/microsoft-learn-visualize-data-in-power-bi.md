@@ -31,7 +31,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Visualize data in Power BI"
+    title: "Work with Power BI visuals"
 
 secured: "BistO06/BdmJGUDsax0Cz4x5ZjglS7H7cYpN/nksNetmuFBEiainFgZrloaeAEsqG0gMCDk1glJ69FltHdstQjRZCUEYQh1CTJOw8EOAAQECERjpph/JOM/hqYXYtq4FvO5hqXpKXc5ABQZO3zOD3XvuHgB9qxrbZVWGahyX5BIQFoXWmNxnsyCaN8saTkji3qYCtULWdkkEllR5AXBwZDOQr8DsNEpq+pTbmVPROggY30sZClQxvSivP53ZZTgW1CJ/6ZpbSRlRbKpQToBi7zs+I3O9QbF2rE1iNHl4HoHml7oxVTm7Yz8Jjt3bfCDtQsv1vaCPiNRlj3u7RGUIKg==;3uV1IgX/Uh/JC95VfhLUaw=="
 ---

@@ -33,7 +33,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Create and use analytics reports with Power BI"
+    title: "Get data with Power BI Desktop"
 
 secured: "EvnR7dRTZfx3KtqwDAMCWx37EfNVgXxUqG0lCM+bJeoy4I24CL854DRy1OPAq18+QpNPXo+xUGLUgxV31JgOiVcG33OXTTDyYQeUJKFH9g5+Xi7Xfw4RTgTqXi6EthF4qNJwrhWGAU2L0yLsvTxQC7j1zXXeXSG+u4KVXrXCNPCzgAvndwkXFAwQdB5sUcC4lSUfqbTm3Vlnt51VLFC7T1qShtolYbF3KEIxHx6nVDTC7iBOGv9THe5+PqVOD12KH2dr6JmeFROdIN1Ro/+r5RyjN89GULULIIv4QjMJNtl7JBpwaneazEzDHAnM8tLWuKn0OFQg/7HXfRpb0Rdu/w==;xjQ8jT7O7ytDl12Ogi7RaA=="
 ---
