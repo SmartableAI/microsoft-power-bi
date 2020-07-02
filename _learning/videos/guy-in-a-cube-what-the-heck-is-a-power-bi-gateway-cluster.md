@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT12M1S
 publishedDateTime: 2020-03-19T15:00:21Z
-heat: 53
+heat: 52
 
 provider:
   name: Guy in a Cube
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "What the HECK is a Power BI Gateway Cluster?"
 
-secured: "P9b+U2gC2BnQ+w4leiMLXvShQnwnWj8vPDn0YxPtbtbLBNeEhnRlPxVGwCTDNjRjErtglyXODKf9VZFxQNbG+jKhLfwvX0967qORYhjDP0/9B3OPyC3NfRPbhCEKMJLIuIRfB5ZWyY4s9db9GqtzYQQ5Tyw0kb7rQIg/MrfeGbCEtdWv6bFoVhoKElTDMT6w4JO1YGhF8HNCxCudEOCtzldOePyrB1B4EoDPL8puPgLMFKfSk/YLz+6ZcfTvPpZBkPKe13OQQh4mKqO+9A3uA4yDdOZaBmMgCH7X25Yqzpt75rw+xbV5bnMNwgf5mHHmqcc58tD2FleGdsHnXPvZDIQkGoR70LBLLfbMAkYDufhk74p/ChRaoLpEsrdVTtLLWqy2NtFRLceZWZxsExjGow==;PhQWqpkWeshE4Xsm8RcWFg=="
+secured: "Z6IAUvVxG+OIZ96qZ+rSM2rsHj/9JgnpWVhoh2gTdbpWZIDIYx4zJZC6i6ShZtM0j/bP/BHGZu7nJFPqVRQm9oqN4P3DIex0SUCNHxG53j5KuTh8lO+J6/5EkkP2dCd33suMKNSykWZ83lGmo/uZG3aSPE1nllj/JLXmteQphXvRnvcJYwzl+rir9hyUPZbcmVBFK4PaFGOk6LyVKK9kOaMLUto9K7G7dnTvdzkAofOGxEwKXYP+DiKLXLfKgwXlzEAw1DxmjJ/BCPrJjYbyptk/5dFeVwx4Y6zcBJ7hnYYT8RGESF/stF7Q5RiYpvHbdLuLQr/c1IIgL679hw2lLpTaPuTdgoPc0naNrcP2bjF38j79lrQQqqEuUQ0z6aFh7ftyEvwGsagrP1yu24FKgA==;s8mVWSm/p0hxQY2Ej8MX2A=="
 ---
 
