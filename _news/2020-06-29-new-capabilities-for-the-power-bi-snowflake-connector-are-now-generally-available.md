@@ -8,7 +8,7 @@ ampWebUrl: "https://www.neowin.net/amp/new-capabilities-for-the-power-bi-snowfla
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/new-capabilities-for-the-power-bi-snowflake-connector-are-now-generally-available/"
 type: article
 quality: 92
-heat: 93
+heat: 92
 published: true
 
 provider:
