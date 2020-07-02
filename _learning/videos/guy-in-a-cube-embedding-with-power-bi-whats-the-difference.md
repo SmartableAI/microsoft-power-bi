@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT10M46S
 publishedDateTime: 2017-12-12T22:19:24Z
-heat: 60
+heat: 58
 
 provider:
   name: Guy in a Cube
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Embedding with Power BI - What's the difference?"
 
-secured: "+ADPGa2o+ufaELPzJvxPsMRIwFwmL3Of9m4FFqUj8m6oEnzMr7dmb9XAgAQ95BGLcnq8qyXDdcZupfn9otQ/CbPMsX7fhaOnVLFcIG+lef4QeQ8bVmUkZpPmjPC2IZYH6TNRWKmvJE0Ro9DSfc6rtj5GKFaks2LM5v+JkrZ3Ul3zjXdkiWHCa0yxa4JnmJUNbcK3V143mEykFlht9mLGw/dUxsb6V8eJ5AxMjbnjnhdSaoVTeAFdZqBt22SFMTux+n+xUA5xGoRr5PGSKawjJOtTWR6Q4neM05zW9U1HyHt1zPkyCvblMDdVu1pNFF0LPxG1hgDEdnfE+YRmtgA/FINP89w3thScTMIXqefd6aHE+vJr3ndce9It7IiuEOSOfWb9OKuCSIO781luTg9kZg==;ZL2nB4rJor2/lW6hEpx2BQ=="
+secured: "MOd8dUQhBicazM4DRFgTjiCeAgjSrCXZNBJGGqFHPQAM4/dmVzWo/dGA+RYzwaTp9hI//KUoWtc9jIC19gV14N5Zu9sCmuPa5JUgf347nyzeBLMKVsg6e+jTiHD/dUstBvTsVOoz/cHpAutRQfPCaLcE1ofVnDTnHiatneHp8uVVsuqB7ZeTiUAyoPy2cLfQPgB8PYNcqliu2z0aP3tIvQzaaAoSApA+TVFAtZYnr+rfjBvy+oNn8GDjn6QzDsyAtzsigYCdnaID9rH0l/stj4PZtCf97n5ILOFf9dpO3RUv++D8WoJEhD2uZ3WSOxAVjUevrgSp/ZOTp59+FBAZWOytiWJo4AfCnpI9h6iyXPFisHNklgMERyXzmbmxhUuzsJ7LHkVpOOLTB4nSgEas8g==;NgNcmQK27pGSZSHAx3S6oQ=="
 ---
 
