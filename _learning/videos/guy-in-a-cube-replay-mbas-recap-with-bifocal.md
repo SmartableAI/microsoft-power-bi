@@ -1,0 +1,30 @@
+---
+title: "REPLAY MBAS Recap with BIFocal"
+excerpt: "Come join the folks from Guy in a Cube, and the BIFocal show,  as we talk about the live Microsoft Business Application Summit event.  This will be a virtual Power Pint event to just hang out, discuss new items around the Power Platform (Power BI, Power Apps, Power Automate and Power Virtual Agent) and"
+webUrl: https://youtube.com/watch?v=ZgBc-tHDa5k
+type: video
+price: Free
+length: PT1H9M
+publishedDateTime: 2020-05-07T00:19:33Z
+heat: 58
+
+provider:
+  name: Guy in a Cube
+  domain: guyinacube.com
+  images:
+    - url: https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg
+      width: 50
+      height: 50
+
+topics:
+  - Power BI
+
+images:
+  - url: https://i.ytimg.com/vi/ZgBc-tHDa5k/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "6uv8DOOLZyz4BX2fpXFX38UBZWMCMIJ/96k3kXaBG+leDsmLM9+45kP2QrOQctNWwT/vaFef1GWVJzqK9SJNQgWXID/Rk8viOs/TleHJ5+OYlTsCOg9d6cBG0sLizcHWGAEJJsvNx3ipz8vjx+w1d8TMG4aqb847/VrJRERDE9mA5bWg4xEYpUxzYrCt1dNdPw049BtX15n+CIftcT2qzhfW9OLX6MOFJMN+QZ92hsJ2EH2GOM8/vQuQ7ouhFsF3z3hkyXR9ISCEj4SuhlMs7TU+oNBeZuejKpsMMMW6LcSnObDlC8PAGdOa88vJ9p04B30PLdYgxo5a2bX/SjfGLN+enD1+TILOB1nZw0m4LV5vV6WtVB+ZZYzVD5IZfMmf;TDeZulpkGU3RmSgUPansBw=="
+---
+
