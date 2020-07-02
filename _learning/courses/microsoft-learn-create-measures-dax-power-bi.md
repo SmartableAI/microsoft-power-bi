@@ -23,6 +23,7 @@ levels:
 
 topics:
   - Power BI
+  - DAX
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/create-measures-dax-power-bi-social.png
