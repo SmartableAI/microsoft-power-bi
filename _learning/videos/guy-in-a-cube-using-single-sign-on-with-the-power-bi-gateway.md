@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT12M46S
 publishedDateTime: 2020-03-26T15:00:41Z
-heat: 52
+heat: 53
 
 provider:
   name: Guy in a Cube
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Using Single Sign-on with the Power BI Gateway"
 
-secured: "Aj53jc9mQu8OceOlDMi5cSL+M35PfxII5svh9xq/WGnE/XNgUDf36F2IE58ricCjhZEobXQe9lbRs7L3GehR6iZmdez5XTfjukBifpAilsm6nPwwrT8RLbqZ4cvH1bsU6e8EJLPoxaqpZda7c8IPm2LTS4xHYhh6SP4Rp7CiaSvOJgFe9mafO+/5OEg3YeGl5nCJiaGwMnujBUonPpE49zU6dYrgYXEMiHS5sqlRhmPx9OT/GgRK54UR5Ry3rub4sEUil11bbkREYB7n7mi7JdjbWxwqBcu7k4aad5grm92xtNI38HMpOzKVRb4wVP741zVFxuDnux6ntNIG8c6KaGuoEb+4DZo+8TlGcLoJSwyXEh7gxiDaFA+OT45HiQOyd6Nc77aM9KKXuHmtV+aj3A==;jRAg24alFLIpN4P2zs2U9A=="
+secured: "BGjGqd2xvk0OIpMeuPQ7dBcd1cn5U/C5ietljuGUw5NF7rpClqZhf6UslnUjMRlZb9Q5kh/KWsw7DElGWQ1Pf9lpq0iCNjsR41LO4osqllWxjiMUCLD2ro9oyaoMBUKIdN1CXKU2hQRD2AqJVKMt5z7px7GvpqJSfTsBYoZCEUUty/kBqFaAD+AyZh+U5T93geczDX+OKiWHf0dtRIVpoQriKC/8O2MLxvSoEvqmKk0Hql3XprIb554nnBGEjCvsyB6lLnrCgJVBOpkyDPr//HvIERYcaL/qDK1E17wagesmg4Y7OspA9tMMpO84/ukpyt1a4jXXcQyVAXDNPnq5PRNhywqiRSjrwTyFB9vg7gUzE7+qio6aCOGlcRyGbXGZzFoLBHoH92c4XxFLPQUqWg==;4enTDkyss0woV7qzVRI7Gg=="
 ---
 

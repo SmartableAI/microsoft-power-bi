@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT4M10S
 publishedDateTime: 2016-12-13T20:27:54Z
-heat: 51
+heat: 50
 
 provider:
   name: Guy in a Cube
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "A look at the new Power BI embed sample"
 
-secured: "v4HT1Zkjt18KjiNFJA8y/TJRJSfeA9cat1OePEzukrAGz8jo95j16VEs4N6ea1unJ/J8mEqYYZlC47jOQxUs+AExyARsMEH534XAgrKMUbVXUnbMz0c7qC/A6xiBSxMq4a9MRROt11cwU+tRZ8vHceYuhCyXWe6a4NEJrZ800Yj407C3foJ1GA8iozkM/en+pqnfGBJNeflTZ+xPQE2SiBaH9isC7CpsDjr0jcnwm41XRsKX7wRoEUJZhX47dtnKlGjGHYyOjin7hSdLiZCYq65q2jxcvVaa3IoakzO8kjpEqQk6JCgGf8losOVODqCXG3ZobT5+3DI93fWcF8fK93vbUFJecEprey4a9be0K4rKSBt0q2BB0G+igZ7wIwXyJT4KTFh2cqsFF+fOykUHsQ==;pVGvT+hL7wQWmeST6KjjCA=="
+secured: "VOgA5x3G6A3Nkh7BKMQsuM69icJELbZ5ZEHVe8Is3YZeZiWjEaCA5UkhDmrGWrbQ+j0raMgSqMPWx4VMu16SymgNcdxMUxXw8zPa+UZRX3K4B9NEQoUocDeOLH/KqRJ2NrpNZ/nNDeXWJxlM1y8Jq6wKHGzTa97ZpH1D/Pt+FtZU80REa8cH03XhMQbMp2i6NV7IkbM/5elTtutKI7SZV1Eet3KzKbM4d467K+shVYrUZi7Fdn1ML5DclvTWpmVy2Ti4w1LIVOZL5MQydZbkYdmvdJyDPtJ2Xtc836Xql32UlKLFmraNvOT9D3QMLO3zgZ7MQdcJhFW2aJfil8CTsQtOEpVQhmnpSwF7KhuyK44Vs+RXC0WElJeMjbJ7rLjms5UVk3Tz8pCODkJSLXnfnA==;cu6vToY2VRiw1haq1F6eZg=="
 ---
 
