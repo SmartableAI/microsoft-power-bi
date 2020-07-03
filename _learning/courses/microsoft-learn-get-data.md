@@ -8,7 +8,7 @@ length: PT1H25M
 ratings:
   count: 85
   average: 4.7647057
-heat: 57
+heat: 59
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Get data in Power BI"
 
-secured: "GA5s5NZFZgEvgyfNgjWbic1nazlpFdNcI30bcIV7+eLz4pd9r7VY2695t9/IdUUAP0I9xzdHEdSyPz7/yiRyHGJprSKJLxZr86GgIEDPO2HewvmRToljPHdMc0rC8JFCZlgLBVGbqZR+DTJwGEL3fxljIU2JikqAjahsS0e4jNljznvQjpZsRIg38kDpMPb/i3pH3abpNEe6nUr+VOCUMXvKGU5FWIOxyczCjBU/wPufd927opfbCKB7zWrkoQ57RVZfFjDmamnYnoLTm+rMSGDoH3fX8sgcANFws57HYwF/09pcl6l47UZ8YQpIyWJEoR821HzlNDiyI8LVn2C0G13UwWjHJeINywquNeusOILpDvB0PvYshmg0y2n4FCq0M30Fn2NcccmENcRUzFmTiQ==;xkCtm1HrQwCoKSTJrvFHbg=="
+secured: "gcsiyPbMypqjZaS1qwYUncQ/45nV+7BI/ZFlv2/wzm4bmjZZwJ6pZn9x5H+S+Hb/NMTwAbdo7ncPba8J3JAoFSyV+SSClTGb/iSVOZHdlDhR8gltDKslwuwuRTWrhedVOnlXAvlg/vAHc37s7zBoKSM9bc7l1f6rlJPfsAcNnw+xMMB0xUlvfX5d5tRt2EbhHUW13uUGQYDwPAfzg5atglt211r9ncYmP+eCoy6+wwJwyUQ2TIEIroDFty3OG49DxGZQ/PnukKMf5+4XJ9CYEXO0plyWFNYhjBssAWYjYFZCGXVs9Whi1POsN81t008GZ7Hh0VpWdjKT0IG+TxTNhg0QEwPJnw90D4XB2oQgpHLkKpRnu/9Fyiv/NPy+Zy5akusKq36vAeHChjfMSjRKIw==;8ixH214M8/IoUs2jXepKGw=="
 ---
 
