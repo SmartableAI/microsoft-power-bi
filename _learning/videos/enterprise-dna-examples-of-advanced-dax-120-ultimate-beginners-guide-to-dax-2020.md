@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT14M32S
 publishedDateTime: 2020-05-01T11:09:47Z
-heat: 55
+heat: 53
 
 provider:
   name: Enterprise DNA
@@ -22,6 +22,6 @@ images:
     height: 720
     isCached: true
 
-secured: "DROiQvSPVVcVbZyvI+7taiHxYFN7VbOqvBP8E1SLS8GATWFbNiJ+oQ3BrQJFOh2yZwKXmeAIm/Ck7ir03Da1rytyotbjqB9f1pR33NvPVf5MPjikR75NqUvcNWghBURf9lLUFXyBktbOD2G8Ko6bRVVDkkB5eJFtB50OR0N714T8GcjFy/FzvUycFw0FdIuuYGrPKrBs470yFm9fgC/NtcXY/HBGCTrfa1yoxZylgLUp9xEZFoW1RA+OyYApGLnK14ykS5zNf01A9vto1uYyPg4NauJDAEW4Sgq1baEy1n2b5cQhcFjN0gKv6Qnv3skJwA8S9+Y/PnIyecN/4Y6G9aGaZME0X1V9kxaSAUg+tt4Dc0KjVDJaah7PvMDR8EWsqCVCMpviTTKjbers43Pgdw==;N19/fsbMIUyhk+AQE7BZAQ=="
+secured: "MdYOKtdwISmn+rvgg/WHlq4C2c/Y/bHwtz5AtG3zswR5ljuA2bDFCUXJk0fUUFqypPBegVUTASR3zojq6oo0n92Kem1SMGPKp+pCrTI5PCipA3txmX+UF3BgrTCthqmCYhVnYfkHa48hYI7JblXr5Se9w8Q1Trfa1lCRVEeJAhV6oS8kVsOOMNGGkNeR8nSO7Nsc/xmsgIVTgDrg8/9Yb+QWW/ErpWCjbsnbYnR5ZRKapt3aHrqknftnMZQ4CkvYDc3voEjGaOBUm2+N0keSufGNnTkcG6fDPPubtKBJ+Zd/oDBwT3vSe1HaboUFp65tU+ule9ZAD0Dj1CSM0fckRMvPpkxd2unTFHfDkAmCOqmLJ4ThTD1ynM4/rYBY7lwM1O0JoSlwRCGsXrc55FM1RQ==;akM0XDZeKphPKHFx7YNarA=="
 ---
 
