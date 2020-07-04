@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT5M14S
 publishedDateTime: 2018-10-30T14:35:22Z
-heat: 51
+heat: 52
 
 provider:
   name: Guy in a Cube
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Power BI Tutorial: How to Sign up"
 
-secured: "vBMyEs+rAnNpM5TkKBn5ukH4i0Wu9VRMxMCGlGEzWPfXtzfynvfaC5Nq4aF9TiJQVC7QPAd9HkdkLbZLFtOOifTGdQpym3D2BzomReOdNgJsJC1urJoa1QHd+s14Ng8LPB2YwleW00Jyh2XgH3HEmuWv+yVWN7CPl77RdyKyeDAyh1cW1g7Yttqw4qPdJP5k3yKp1tfEZ9PAfgiLlIO1r+imzUf/Yt+bK9GXCGrVCcTkGPcxphgopWS7CuFqV/iIZAjTOVM4gBQfl1U9TYT3hTDKhqiKiBRiKlScNCjNyyYYYSxDEZuppES65/7QroiVUT2PAbrGkdYBnPeP4Qy5oxlxu1zQSpEUF/9+nItSDekiRoraWw8Fgw0qbx7mWltbg8hPjTGfP8NihxHWhNEwdg==;yWGDXiosjW2n0tQr0qdm7A=="
+secured: "C1yuOVwHZ+9dhiotkgcL/O4flTCilCwn1Ac7iE9wQLa4VBQv5WTd07ltnM3mGL88AgfwFNHkFCgkneDgxAeprytZdWcltygrmdOJeqJ5eTS9DMKhrQW/EkXsvkoqlrBnSbwFOs2LIKBDQL/L/rSxZP9Eawh2VtOA6EQCoDlEFTbP9UZDDc1bRjAy9STVVkku8uuPt9ylRZ0aCsFCBHS14KaV085SmgidxS1hwhF+OhWLUx58oVLCRdmizLLc4tf68xodVu4Q2RFw/BYg71jC7pOtEi44jbBIHjMTKbOLufQy5R0i67XC/mA61JA0IkQnQPeHBzsQVbHCgMz0ka/l/WuCf1pWFOmV9h6B2CkcR9XoWFILGA7On8reLXThNiYDO9zh2dWh427UgERLRJUgwQ==;6IeRy5Um3nKdjKY28oXMXA=="
 ---
 
