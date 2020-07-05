@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT57M
 ratings:
-  count: 813
-  average: 4.628536
-heat: 56
+  count: 814
+  average: 4.6289926
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Connect and analyze your Dynamics 365 data​"
 
-secured: "kYalYIqucpi+AQ2wxsuRuaJ+jzJMJk/i9oWTyom1wETLo7oTg+jSN5ouEwDi8WQ7VWonZMHLEAjHr9CGe2eadqlHb8l/VONFGaow3RZ/DBt/mCYqsy00gp3O2T8byPMNHpWOBb65lxwecvBOsHjPUd9tnsKoLDNnNqocaTTI1vpk0/bovmPUJh0yM1C8U4I5LZvDKwVsK7dVqPOwgitQxbUaJt1ssvSxL+4c9kC34yNB5TFPfYMH06E3iSpHzLRt5vMUUuVuSGsSfYW1wpC1uqvnNHddKJcxEExe2iWzLKweKzATPsrUUY8JI+KPMQYXc7WQoQPtZjq6QBQu0P9KjTYjL/37CR3vybu2W59S3b4mV71jdKkI3wjPyD1XTY77aWDu5fo1/+RiV+gC75tOEA==;vftKMkI1WKNf3gRo5l922w=="
+secured: "RuXj82tIfLfiYnJGnq23fzJrp/5JvhfEUo4ienoQbKWiiZ5prrMxOpFPXtSAe3TjOvhjmb4NFTQFKqt35YwCD+++/tQmpoImgFCVA2zQTH8p0AP7HKRJ9PZYg1F5ezxNdUm8JnQdLFqPNJdmKDkcSe0CSbfdDWihQsu09VOnk3VfM8ZWrZ1Jr9a8Xcq4N+d2eHoqOJmH+VcKGOsdv6MAfzawegLGIOa3uRZggjLRushFm4Xq4bFqwp/VA2nXQBVfzBX/FBNawFlBRF4CSWKtF8KXFgrb83uw6C/oaq7MLHyTB9k/xjVuMQqsD11Wk2m3Y7qqU176EeZOducku++0jWSK5qCvWA50LYpbUX6ej+rNKNRL5I2TWhxztHaCdU9ILq0IJHwPlD0rAVFPhsSUfQ==;GPoy8EsnxX+r73y40LQkCA=="
 ---
 

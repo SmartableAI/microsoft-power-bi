@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT7M49S
 publishedDateTime: 2019-02-07T16:00:23Z
-heat: 52
+heat: 51
 
 provider:
   name: Guy in a Cube
@@ -25,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "RNg/egSvmTXaiC1E7G3gQPx7u40Doy6H41pfoW5y8c0PQTE0Kjasg07DVOrA3kc8qwMnFi32e/U2MiaRZTa+GkjCzU72GaRv3ia8zVhVI53C+vXirjKnuoB638buTe/7BpKOP90AApBNbmjk1lbEBz8WBpEGdL7v8rHs8Pfzf1DsFYYcak9CnQDgCCqMNSl29VFBGCAWH+N5KwzBh7NNYQfB504kvhH6EJ6H73NOtLNNm7WzQowMJmQhZLUOCeeamOkS/iAHiJpoO3Vjm2woX1XLNKbdynvQgRlksUiyGfQgkHBWXYCrKsJuuTPGuV+0Zs4ltSiTfDWMRfU7JWDvpa8bDWJ4hp/NgT9U7o1a9NlEnpq3Pj47TW0cDmHC8hZ/vc9RkfV6JlgdqXUlGhFeYw==;IGI61QrgaxbMHoRj5TBseA=="
+secured: "UiVTB4k4Mzxu2HDL6yta3uh1+T9rLjR1a4rhDMei7Ig/A2szMiYmkMjGpz8LphHpyCfnOaFz7ri5hk3pZTo1f0iFkI8+PpPLo6Cg008k7rby4Yb45CzGj0hNjPTDufyk97jBU144KWSxbBLktg0fUQt7QysCbiPvw6dlWfMglYys1Ladi3NcYTuxGHSuHtAz2scnjNO2BiVtbz7QKfvnQTH56PlfG2XfZJlgtZgbhQORxSmo5BWpasLmmRcE4MvTMTxefRhk4+G1BP5+QqKkLb+pZF8sAcCqz2jMyKYvRVx7+l6oAoT6Ayv0xqcmSAZjJGT3l1ripJkUKfdrMijbGmX2TidEcD+/5XftavLrGtYz4mG7AfY7lLWwx7xF6xNVlKKzKzw0LWR9BXURKPx3Ug==;gSpg3QLmb/UP7A/+GP7kcw=="
 ---
 

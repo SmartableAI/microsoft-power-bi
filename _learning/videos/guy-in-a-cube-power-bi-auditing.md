@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT5M13S
 publishedDateTime: 2016-08-23T16:05:29Z
-heat: 51
+heat: 50
 
 provider:
   name: Guy in a Cube
@@ -25,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "z/BxIE5dJabyKn/164FhkJ1j18MVWAXYWAKOtTeezHtuwaO0CGtYShVK6pj5rQAPB6faiYBfTbHcoqnbEqhXP+4gJSvUKsnAJ0abp4F0RZ8RmsgOVUWyUtbM58AjaSbxd+4+gK1D+XQEVC5CXoJNlwm2svqFkpwAfZ5Pxk0yYSbZvBwoIBS7RIVM7WoAZkby7V4HlFcuLl7IDsH0jX8acju1+iDwRxtpihd3kN3rP/oDSkVe3+O8CfFwHd1GBNqIGay+qNDgrtUPfECkQQCVleWXM5zdRtpatAMmFzopdg+j7K4bDbka52MeYbHVWnrtpqW8EU/g8E0NbMD7yzZWiFtZEUJlWtdt1fJO6hw2rJBV1Zyob7d5JBwQYP4JRY4HbOVo6oBJqVnQ9RYwAzxNQA==;U3WJCKK6AMdLpFvEf8jXAg=="
+secured: "cikXeJJm6h6Ny3sKu2qxZs2adCVz9c6KYOffFj70Im9gvRXwlkrI7UT/ZZnDFMfliQdll9b/7pIRZ0/PxpOyBQdQiZ17xvgDbMy0AQ51AHkM4KsXPtILGZc7EF/a5pTtAOHzRcCHId1k+eDkvoWRJew3122Mt4KCKXa84+o1+k9LYty29K4r0V6nhynOLtT1uRVeuPHPT87+z4bFd8fR+m0KQE27d84VzKMnWZZ182Ei633wpb/+t4VjYf3ddXSZS+ccPtj+O8LmWWVOpyR7ykJNH+t79g9qM6BqZuqIcBVfOZ6/V4Dobpou3/9KFzOGtvtfc+pBzAk0SeDNDPFjCCm5RuMciIK/HR02nVer5g91dg+J0UqEuiqDDzjxwCGk3uROP0JmahFsobVnlMZyqA==;21YRi25s1NXokipNKYfWDw=="
 ---
 

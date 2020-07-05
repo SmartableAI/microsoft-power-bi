@@ -8,7 +8,7 @@ length: PT1H15M
 ratings:
   count: 10788
   average: 4.686689
-heat: 83
+heat: 73
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Get data with Power BI Desktop"
 
-secured: "tYTIY1d3nESGdXxl+rqf8fnby3Z+Ag/bQpBdNhL8IGLh4uswIsWWLjIsM14NVh7eyvCgtkboTwYGfdgBcajLT6HG8ocdRDFdoElTKRziYE8QH9Wl6LiStUGLGkq21tHYCMsd+cJI2fc08LffFw/RSk9J7KaTRikosMY1H6DOkwsN0S5Kjx2essInsRlnsjxZxtvGOd2Z4Ta/xdkCGb4HxJO3Kl391/v2+6rVKuuhbC5dPug7xWHwPG6jQ5Un88g7n6RFXnFOaUYbemJMDDcp1sZRtsud89dzMhDg04anQ8g3RFgNvkMh8En4RekcjCIpe0A25RKtQON8v47MBeoQzCjoRiX6xIdSIeqZnFNVB1h0d2uJCM3bHsZrENuMcPf1Hh7w8wf75wVldVoTikkKCQ==;4tWJ06eVbr8ixp5BPpQYPQ=="
+secured: "90gbBQfWa2XFGIL1Nc/FeyIC4k3ocZn8XOgP7aOyqQSM0ceAPgSkELMQGbsXvRWTyeMWiSfnaAYGz7uVvitm08I/p9uojYg5FGaN3eHzi5G2RXvYqumcgFrTXOh0SfDkaktF3gaoUWSj62IeWVZrQTRO1N4o4DGqZ3wi+9iob7IugFOgwhSjMQjvy32A9073ypfsu2OgPwf1ffwli+7mz0IOUvH1eKtJosHl8zbsFLiNjYOVWgwnQW377VYqXpnH1laes9W+svsFRDSjnUWz2FSfAWxk1FyE0H6BDVVMFa97ZGys9q/+vn9frw+kAyo3QpxVjhHov9PuxFaiArfohtuPym6ucW7f8eLMwatZPv/Whr5IWy2532aykK7ouO5bJb1N8yeOtGvlD8ostLtOPw==;t1Ej6i07vzoQuwI7YlL2Jw=="
 ---
 
