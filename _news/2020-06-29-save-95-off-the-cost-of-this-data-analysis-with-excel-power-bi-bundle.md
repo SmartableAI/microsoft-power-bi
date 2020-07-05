@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Save 95% off the cost of this Data Analysis with Excel + Power BI Bundle"
-excerpt: "Length of time users can access this course: lifetime Certification of completion included Updates included Redemption deadline: redeem your code within 30 days of purchase See all Online Courses ..."
+excerpt: "Learn how to excel and handle your data well with 22 hours of content on analysis, tables, business intelligence tools, and more with today's highlighted deal. Save $575 with Neowin Deals!"
 publishedDateTime: 2020-06-29T16:46:00Z
-webUrl: "https://www.neowin.net/amp/save-95-off-the-cost-of-this-data-analysis-with-excel--power-bi-bundle"
-ampWebUrl: "https://www.neowin.net/amp/save-95-off-the-cost-of-this-data-analysis-with-excel--power-bi-bundle"
-cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/save-95-off-the-cost-of-this-data-analysis-with-excel--power-bi-bundle"
+webUrl: "https://www.neowin.net/news/save-95-off-the-cost-of-this-data-analysis-with-excel--power-bi-bundle"
+ampWebUrl: "https://www.neowin.net/amp/save-95-off-the-cost-of-this-data-analysis-with-excel--power-bi-bundle/"
+cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/save-95-off-the-cost-of-this-data-analysis-with-excel--power-bi-bundle/"
 type: article
 quality: 96
 heat: 96
@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "Save 95% off the cost of this Data Analysis with Excel + Power BI Bundle"
 
-secured: "y27msZFWdIkixTj2uHcRSmvrxq+trrHJ7/8ithsWdCE78yFt6pEnfK7T9+87OpDFBKcZ4C50ZMLXYQGrQrBBvejCuOJSt/R0nwOQ7vReO0Nv+/ydSXMwxczSpDz+rsJ2cTj3nx+VFy58VdN/ue6aa3241ITy4EnKZeftzO7cHX8dKKD/k7Ja/NABXew9BckwWr3v7mWmK+NKP5mzLQ+LQNIP0Bc4Cwdiizu9Ilq3gKUp9BAyrFsVlNq63bGdXZpmRXpKBuJDQc2vptLNfqbfs5aPCl1ustch+btJORITPl0aNF8MeIflllw/W/PjfxKtXLeDRdh60w74tJMZz9JB5A==;XOw+OrnjNQe25zwN5blGNw=="
+secured: "SvKLmb1kfhMPEg95T/EBMEOuo27/n6GQ/EUWvvLEKKk0BVNEkNDp1D0Q6Ay4tIsfuSZ2q/rryPpucGv6BdTripEYmD9pim6tfwCXw5YYneR2M8xc6mmNPmtP6LZELRhEacqRvRLyvMnxlhX+jsgOMRPjDjPiGc3+lMOy2IH9cmMDXQ6DUyEAlV8vsh8G/wVMJq3+Mp4JVPblmK8Em3DxQz6jpGFe3oVBY18sFuA+KMXCYJrKTDTEiqTvP2IyqseW+A8kk5gBfyH6wfIuLkJroJu5/pg28QAp34Vcsxt8lCxmovFFQhMS/fsqATj7QIEX7UqD0uO0amRa4OqdCNx8pw==;u42n/PNRFvOLphp4YRAzOg=="
 ---
 
