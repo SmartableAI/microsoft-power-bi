@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT9M32S
 publishedDateTime: 2019-08-11T11:56:55Z
-heat: 56
+heat: 57
 
 provider:
   name: Guy in a Cube
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Power BI Apps vs App Workspace (the new Viewer role)"
 
-secured: "oxTKiam+BRa9mJPzMFUvrI9Clqt7GchiggYvqA+EuYmMjzvE6E5BE81v7TpoaNdnhyVQ11MxSamKQVCugub4w2VJ8PuxfkH9Yt2fFmOREsf2wgbZOu23CL3hlAsquYQwzOJuY4WfCa9GX2AcXo7zYxmlOL3e4pk1p0D13d7WSfZJ1wah3d7T3Pkziw/9XMWPrPGSnm3ud1Bcs+OB1Ozj/y4YjpxSDw2Rt5uwuJZDDV2BaXae/+SC2gphdvs7sDGHLcwTBTIHnDi2u/IK9Bf6w2Gz/5nQSK1c4H+6LIgaWgIorLD9pOTG3O6DUHjRF2pr8Kf63wrkewjCdn7birvnP970QNLFPzqCbCRX678jJTvyss2Mzmk5+sBLGqZGZ80lgoQwRj2JGPuKEy6nzm+n/A==;U4ia5YJJSDwTwudr0r58Lw=="
+secured: "eK6bwJtb8MJM4vFcGddPzwGAxln/JEuPAt9q/6LYsCscvNwSwMZLxizdy7gILUi0MDfXH2b0u3DnWix32LSaHqfumeKdeh7TZTu3hl8WQxWnLNTTVg0cWv2DmhlQuTW2HYAN0kT/sIRtIbbNWpTedRt8nRbbflFB4DuoZG5pN5WFrA+jg0h+ZfnodAu2Xuhk6ROEJCwtAkKk53Lx41vlAd1AX6szjNkjheRyA8q12jNtWqFeLjagb4kxQ6A/rj2qY0pLA1KJFwYrRFFqhX1WNjibSfYXCLzhxnc48nT5BUJYi3y79Rcn0csjod10V89d8ad+TZXFUk2gJkB+7sFhSbGQFFsq+tJzN9ez6MMFkI48W/zaGgv44iXr4kf1yiNZ/RNIuF+J2sX/KpEri9yK2A==;XfEhfG77UHLDpju225YQbQ=="
 ---
 

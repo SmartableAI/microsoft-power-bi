@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT6M30S
 publishedDateTime: 2020-03-11T15:00:10Z
-heat: 54
+heat: 52
 
 provider:
   name: Guy in a Cube
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Configure Power BI Aggregations"
 
-secured: "XZluKwul0w6wNAWqV50MsUvdXzPyL7tBqoQm5SVQLva9n3dwEZLp+hKJeaJs3NotW7TtJ1OxtM0vA0hr46gR8oKlCIb7eVl/kofuC4IhZWDQysoj8R8WBQ5G/kSsMi81Ce453XGty7Q048AdR3PV6k1e2FDAmrRQyyzsDApVq/OB4LEEFdkZWeir052cyAP69bCpkI083i0EOGpBoKvAXwbO+Tfxpdv95qO68SUcejA1MNmHNunvFyp1IrHyyazR6gyFFbTjwj/0nuBmGGS4acVaMF2GKoKrWhTXtl2h3TQOmn3oiSOPx6b5TLisBId26BBKbEpoz2MdmzDqDTYREGhrNigdbubDicCyE6pL93q+MNyAWyZjxLpcuGsqlw+hS/jOW5+2PA7Lt2+oq+WI6w==;LJp0dKdpEN7Ekk4H9j8YTg=="
+secured: "YDAoGh08hj0xgWrdxBgWnG12y1uQ9FAxI4JkErOfHJPACmNVO/HuEsMTu8evmW2FXTpmZfWbn25TQ7F/sOi8fnZLN+OZWHg+xXcEd2JY1J0Ix5DG32Kz6FLkejnkHrja4+r74oSiJfudwzKP1rYVzDAMM95cGxdqoNiHsHTVC2GMqU8l3pkft0QlPnmZuehpfW+2N4pdKPCWiAHz6HKBVgel2ISWdmzzQphzcnnYAF889pLOpzDlFkqKdfDfSaIPbtWUw0DLu2J20s4nlLkhDwINpzVPjQbnKrsuW9NEWixQG3OAlYDKdqk0Iyu/r2E+sNPBqtK/3GM6YmIfaI4zPgQlFXYmgEmWAmj2iktB0JraJdrMkF0nfulxryGib2GQ+iI+PlR4lAWUMxYOkLe6NQ==;FIlJv2KMfV+PxWl7Q6FXnQ=="
 ---
 
