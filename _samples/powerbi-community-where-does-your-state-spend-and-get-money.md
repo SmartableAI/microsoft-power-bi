@@ -5,8 +5,10 @@ originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Where-does-yo
 type: download
 publishedDateTime: 2018-04-17T14:12:00Z
 heat: 51
+removed: true
+published: false
 
-featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNzlmODJjMTMtY2VmYy00YjhmLWIxYzAtNjE3MDNmNGVjYmUxIiwidCI6ImExOGFkY2Y4LTViMGQtNGRiMS1iZDY3LTgyNDc2MjQ5N2M0YiIsImMiOjZ9\"></iframe>"
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNzlmODJjMTMtY2VmYy00YjhmLWIxYzAtNjE3MDNmNGVjYmUxIiwidCI6ImExOGFkY2Y4LTViMGQtNGRiMS1iZDY3LTgyNDc2MjQ5N2M0YiIsImMiOjZ9\"></iframe>"
 
 actions:
   - url: "https://app.powerbi.com/view?r=eyJrIjoiNzlmODJjMTMtY2VmYy00YjhmLWIxYzAtNjE3MDNmNGVjYmUxIiwidCI6ImExOGFkY2Y4LTViMGQtNGRiMS1iZDY3LTgyNDc2MjQ5N2M0YiIsImMiOjZ9"

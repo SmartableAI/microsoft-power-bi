@@ -6,7 +6,7 @@ type: download
 publishedDateTime: 2020-04-04T11:14:00Z
 heat: 50
 
-featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMmUzMjNlMTQtNGZmNC00MzgwLThjYTQtNzQyZWEwNjJiY2Y0IiwidCI6IjUxOWYzOTM2LTYyZDQtNDc4MS05NDIyLTRlODMzMjc0ZjFkMyIsImMiOjR9\"></iframe>"
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMmUzMjNlMTQtNGZmNC00MzgwLThjYTQtNzQyZWEwNjJiY2Y0IiwidCI6IjUxOWYzOTM2LTYyZDQtNDc4MS05NDIyLTRlODMzMjc0ZjFkMyIsImMiOjR9\"></iframe>"
 
 actions:
   - url: "https://app.powerbi.com/view?r=eyJrIjoiMmUzMjNlMTQtNGZmNC00MzgwLThjYTQtNzQyZWEwNjJiY2Y0IiwidCI6IjUxOWYzOTM2LTYyZDQtNDc4MS05NDIyLTRlODMzMjc0ZjFkMyIsImMiOjR9"

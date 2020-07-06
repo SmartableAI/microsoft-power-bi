@@ -8,7 +8,7 @@ heat: 50
 removed: true
 published: false
 
-featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYWFiYmIxMzItMWI3NC00Y2IwLThhODUtYWJlZTgzZDk5MmY2IiwidCI6IjBlZjJiNjkwLWUwN2MtNDA3MS1iZjRjLWU5ZDI5MzdhNThjYiIsImMiOjF9\"></iframe>"
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYWFiYmIxMzItMWI3NC00Y2IwLThhODUtYWJlZTgzZDk5MmY2IiwidCI6IjBlZjJiNjkwLWUwN2MtNDA3MS1iZjRjLWU5ZDI5MzdhNThjYiIsImMiOjF9\"></iframe>"
 
 actions:
   - url: "https://app.powerbi.com/view?r=eyJrIjoiYWFiYmIxMzItMWI3NC00Y2IwLThhODUtYWJlZTgzZDk5MmY2IiwidCI6IjBlZjJiNjkwLWUwN2MtNDA3MS1iZjRjLWU5ZDI5MzdhNThjYiIsImMiOjF9"

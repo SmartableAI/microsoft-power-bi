@@ -6,7 +6,7 @@ type: download
 publishedDateTime: 2019-09-03T00:21:00Z
 heat: 51
 
-featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNWRmYzA5NDEtNjgzOC00NjAxLTljNjEtNmI2MzgxMzIyNDU2IiwidCI6IjgwYWJhYWZiLWQ0YTItNDM5Ny1hMGY5LTc3OGYyMTVlN2VkNyJ9\"></iframe>"
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNWRmYzA5NDEtNjgzOC00NjAxLTljNjEtNmI2MzgxMzIyNDU2IiwidCI6IjgwYWJhYWZiLWQ0YTItNDM5Ny1hMGY5LTc3OGYyMTVlN2VkNyJ9\"></iframe>"
 
 actions:
   - url: "https://app.powerbi.com/view?r=eyJrIjoiNWRmYzA5NDEtNjgzOC00NjAxLTljNjEtNmI2MzgxMzIyNDU2IiwidCI6IjgwYWJhYWZiLWQ0YTItNDM5Ny1hMGY5LTc3OGYyMTVlN2VkNyJ9"

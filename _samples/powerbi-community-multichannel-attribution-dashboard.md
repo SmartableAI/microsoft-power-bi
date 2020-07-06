@@ -5,8 +5,10 @@ originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Multichannel-
 type: download
 publishedDateTime: 2020-06-08T23:50:00Z
 heat: 56
+removed: true
+published: false
 
-featuredContent: "<iframe width=\"800\" height=\"600\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZGQ2OTQ0MjQtZTUwNy00N2ExLThlOTktYThmNzI4NTIzNTNlIiwidCI6IjYyYjBiNjRjLTRiNWItNDU5OC04OGZlLTljYTIxNmM1NjdkMiIsImMiOjh9\"></iframe>"
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZGQ2OTQ0MjQtZTUwNy00N2ExLThlOTktYThmNzI4NTIzNTNlIiwidCI6IjYyYjBiNjRjLTRiNWItNDU5OC04OGZlLTljYTIxNmM1NjdkMiIsImMiOjh9\"></iframe>"
 
 actions:
   - url: "https://app.powerbi.com/view?r=eyJrIjoiZGQ2OTQ0MjQtZTUwNy00N2ExLThlOTktYThmNzI4NTIzNTNlIiwidCI6IjYyYjBiNjRjLTRiNWItNDU5OC04OGZlLTljYTIxNmM1NjdkMiIsImMiOjh9"
