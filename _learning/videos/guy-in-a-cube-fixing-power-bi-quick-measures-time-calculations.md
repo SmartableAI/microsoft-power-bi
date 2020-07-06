@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT7M10S
 publishedDateTime: 2017-08-02T15:31:32Z
-heat: 52
+heat: 53
 
 provider:
   name: Guy in a Cube
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Fixing Power BI Quick Measures - Time calculations"
 
-secured: "izvNlld/F8zf56F5efogD7aCid5gDZVYvJp+zOPchYzEL50tGLa6ejd73VqQP/zi4TcPPRwn+I+laHu42PobTRQY6fKbWMuDygCRs4jEDbAgf5PUu0TLmWbcdGBhm1SB0x2h1Qr1AdxiDLVRwFyrhi9t+zGtuwXJi9NbRNSFU6hGwC2xlkx3TeN/6JpH1gIbZhFuj3UuJ782Zx47JqqwYnMt6oMpqEqdu+V5ovD1napHvPKiwIWH86o7oquF1qBf1nueJLiRiIbEE9ztcTaOnGAv/Dah0/5qmJHmffeRUFquXxbsa1icUJv+HPLA61mhsnV75UL70hjRGbgjw9EpWD4hwRufEoG02nUpUxCxAq2TJvC/3D16uPvjdJKh6Rm4+5S+UdwH6MMI0T+1luUoxw==;dm3USQOmty2y4CqfvfYO8A=="
+secured: "JNm1vDRaleu1lvSCBpBF2qb9ltlIL5CeqvohK+Hc23f5fiNKMUV22aqVUQusqsyjOnz7PpkCRKRxg0ARENa5N9J939t18JVFyrD2o8ysPnAsq2TvmEpnwj0QfC3fXkOnYOoEOfHJekYgU+PuwO31Uq82d3ent3erAcvXEokgFt87yItTBc5RDHnDFKC4GYBgVts6pICmoSot3hpG/4TPlACLYX2+4dHlV6aK7AdPsNTf+khgKy5nLyXbR0bIKBS9D7imVHiPTy8NalU9etj9vNDKHaMeMRAsapseDYUnrfu/bzRsKu6fkicZKltP4sIt0eX9R2+1tMbQEapIK0Xu5sOQkRGx4toNIfjaLkPnAwh+UuiCHTPXcD8lURzZcLV9u0NzHxN1xb5JU10omsHvwA==;71q1Gj2oaVXrSZBScwl5yQ=="
 ---
 

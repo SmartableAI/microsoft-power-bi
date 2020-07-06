@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT3M57S
 publishedDateTime: 2016-02-24T23:04:39Z
-heat: 51
+heat: 53
 
 provider:
   name: Guy in a Cube
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Expand lists in Power BI (also a look at M Syntax)"
 
-secured: "K4M/CXw4UZ1hhj38qa8FpxreDrPSv966MSHt9lmeOJVsBKpQPU4bOxp1DFlwt18FNcWpwaNOhhIZmSgyknoI166Pwbc1An0ksfmIHBUrIs4v+x+x/72fxRU7asw2wg5ahqH3RvJr52bz8yZkW8/WI1oM4arlcQK3U7i0f92K6BVUcZ11AL+s1N8+wcDBbMXZvFzlf1FQborg2cNfe42LKMElhdOH6gspCJ14zrEdZTb7ISaC/HjG+MFP5uBkc2E4ob71ZEHl05muu2ABtedfBFe+djKSEXL4yH8frF15gjKxil4wpvRFtXchannXNcmf8vSxBPmqbcFUpsNqgz1kGPQTA5wQrau2KrYriFNDtOIJ3BTvQoDi9iswYMV1j+0n5LkoLDUy9jUWO7dfpilsOg==;7l1TQ9fqAfEZRI4yrnDYyQ=="
+secured: "qWBRKb8/otb8oS6rZtDfld99ckc59y2+DjlQ2/59oziBoWHhlLvRLLp4AHJgwxtLaMIAAqXGX07xN71N3BTGZ2tSyemD/OuN08Qd8GKdiQHTkkdOtLCJd/i+9LHYmpyipXdW/y5Jvrc1P0OpZMopQwe2WwzQBvF3VqIavcvFRICbDi2rdhnR3Bu5TSOC8U/VIOF7iRRjciLkxx6g0wghwsO1majy/XaQjywsCXO8K8cVV2CU6spYFZ7LGkDxxN1yEJsB+AuxkmEBkdd3xtip1fVxBLn6mhJx9r/Q2SsuHLakUFMHpMsEiQtGL3wsJgOdcZvQelgEe9Tx4pbcGflULSYQv+C5VzfXbGIFPeUjV7C7P2KuY+pC/Fc+s+yXwzPlVcHT9oNYyDyqQWeqLQQDgw==;P9xzgg9PAZ3e/aRgsb3wlg=="
 ---
 
