@@ -4,7 +4,7 @@ excerpt: "Corona Virus Tracker is developed for tracking numbers of the virus sp
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Corona-Breakdown/m-p/981346
 type: download
 publishedDateTime: 2020-03-19T00:08:00Z
-heat: 53
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYjI3NjRkYTItMjljMC00MzBhLWE3MzktNzU2ZWE2YWY4ZTg0IiwidCI6Ijk2MWU2Y2Y4LTVkNDYtNGYzOS05NjA5LWMzZGYzOTk4Y2UwZiJ9\"></iframe>"
 
@@ -46,6 +46,6 @@ images:
     height: 902
     isCached: true
 
-secured: "OX04+zIOqLs/Jr4JNEAz1xrLOwV7/3/8ObP9R7uzaiiNWmaBmIBUHnAXDGras9QBr4us6hpCLAv4Ukiz7UURhX+B/ia79gtXjLgzdXyk6ZnAH6dmUWr430hfhNq6FJMDTJMsY98uSDkpMbtgXvIFc+KiVdjribrf7Pb2r+RI+dchhHxsy3W9gx7CIJsK4R5x+n2E2cwFLN/7eRi5Xz+pBCH1TTCIxijdAZTa3rqlQbDIZRK7P677EzutZ//MB266t9+Px/H2KzL6PdvCafDNbswN0E9dlqgRbQBuBCGBKHpxRdYEY2m0cSRZQLqKLNYiatiZaBYOLkTaOmBm5g8FAKECuIC0mrnfjXaG8xHP5OE4MrWymdeBqAI1Vl4bS/qhI5SvTDSxkYk3vKUWyn1baw==;1ygP7N2hopXs9lJFP+WdYw=="
+secured: "6XiSyGLl2P5HZMV9wtJ8+HImbxt9aQvxDNrVW6uhhItoPOqY0nP8HYCryadYL2eHO6jJGMmOTHDNf/A93gSqkpFA39JAAiPgUWZTjmuA9qvS1r2swsvf93Ps9wuWhQvd4Jah7WdfbWPEeZJoQExhB6v7xueoURl8DjvVQ+1Z16UQH8jqkdbvF26kfRHR5zxXIrT7mfaHHQG+3zcBiVePTogJ5RHo4hhBjIvVuIiTZcLB+owcZaW3y3PNX3aPcZhJ97j6TY5UDKcoKotzPUU7BAtRUdVYRAdak2msCYnUeHVYLKv36s9sHgYSKnv4PyuuPmJDBWHTFPxvPKS3poeagALkgfzdtuT6BGnTaCJi2AsKU7mu+CvlbfXnbwRuAae4nb1gfZ6AqDLilQbAiRenPA==;9PkO5bkcQmU6m9xicn6MQw=="
 ---
 

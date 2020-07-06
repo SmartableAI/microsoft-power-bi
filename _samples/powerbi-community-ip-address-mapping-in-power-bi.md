@@ -4,7 +4,7 @@ excerpt: "The following report and M code show how to perform an IP Lookup to ob
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/IP-Address-Mapping-in-Power-BI/m-p/217114
 type: download
 publishedDateTime: 2017-07-23T08:25:00Z
-heat: 60
+heat: 57
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiM2MzZGE1YTktZTQxMS00ODE2LWIwNjAtNWQ1MmJhNDBmOTliIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9\"></iframe>"
 
@@ -41,6 +41,6 @@ images:
     height: 801
     isCached: true
 
-secured: "Ex+wyzSpBWzbgb1Fq4GDjNZiIULMzam2lNiGgWkfIsaPF3pWvzvinXMpxlsctjDs8Gjlvs68/t9l40z5rP9VY+dvP+5Y3klP55lAwFClEmIrtkWcGCE3e3LxytIipm8GcRgxIGGlD8ytvQajffEl6eY+p3Pe/pZ9pchBQKGvDBuJEOrBRCYP4zjE9rwqhmmxtlAxYLHoneEJlz2KmbL2uAeb3GAeFsMA7B0yFOFGnSBsV1hvdYqWx7iQAdYHcrcHGtdnBDvoVoOMt5oTgtOMW+F4dxXuECLWDQVfvyp6wlXnk7vvVdbm/o5C2F90lnrrHiotXOYDO7pz9/r4rl2V98K+DLyiTcNe7EryjNhTa7xDtADm79uBBv57hswTuvz8hlWNYEahTferUBtp2J0vI429A//wEysUuftXDocqsAI=;HvT61IV/LyJkeGZ+bOwxfw=="
+secured: "lsW/AJGsUB+cQ5L+AjDMxKAIyYskuz9wmE69WKUVLeEdm317Y/lw9DgrOUZrAcVIeOprXEk+diWcxe+Yv0oNEFqBisOTFlBq3bpRYM/EiXWET3hPRLxFn70p9njZn7w4xiASZtTvbmOsANzZYljxJfFZZ969qlnfQ8vYuUHuHcMpUZTi8o6qqmkkxFiWfZOkWG6fWhvbcT7ZMiYBW7KWx+8E6/W204rbWh/drChfXW6SGAHZx0ysmPpQwwWfdETkN71L20mhCA3lvRnFJS1M+Fh09dawmmGfCCIpVqLzTMwoPOHZvIuGYOREu+3gsUHTdmqZIHX9jG4t33vlylctcOgoeAS6lEG93kpT5jfUvT4hsCjnpwNBpn9WkzBTGpsKm1W1fNydHikVY3c+5u4GCl8tYF4b1YJIVA5ymownAPs=;bRV/ENjHCXa4dma6h2LmRg=="
 ---
 

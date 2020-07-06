@@ -4,7 +4,7 @@ excerpt: "Last week I was asked to visualize the results of our car racing simul
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Live-for-speed-A-car-race-by-Starschema/m-p/599153
 type: download
 publishedDateTime: 2019-01-11T06:30:00Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNTNiNjYxMTYtN2U1Ny00MGU3LTliOGItMTBlNmZjZjIzMDEyIiwidCI6ImU3NjJmZmZmLTlmMjctNGFjNy04MmFiLTBmMTg0ZmIwMjkyMyIsImMiOjh9\"></iframe>"
 
@@ -42,6 +42,6 @@ images:
     height: 1023
     isCached: true
 
-secured: "NuiG6/vi04AoVTCDqsgyMiT+fCWb/nv+6GFlX3YmPVb/1Euh4LPbTRhZTC/nxwcYAIgk7CyTYqhGGhwpLSq0vHe5tDVmkh04CT9dZDNjvkVraesVco0QR3Nh9Jj/H/pZpZH0cFymV7P23ReDCR7WdrdarFlzPIaM0QFGYXJQGEvJmOSsFg0m25L8+/KOitBDi3uoqwGItiHW8H5a2po7Z0jXA8uomtgMX4fWAkAus/KUIZkUUHwGzGVCgSTsfcj6Es3HdiQN8Ii8aQ7elEdyV2TESioCyUna/1GxrCwZVQ5tyCYJ0R99sg19wNZzia1t20umwdj7nrg4P9Y8TCd/GTH7XmKwYoevGkNuXHfGRyuDe/98zszjyQ9X0jOrRC9WHr8790sQuTqCcsfxIWkSGg==;KPG5phUlx+VTtMRzq7Q7ng=="
+secured: "hyLtA6XEC6FfN44dlQL/22cU83Fh9d6LmDtnl92X8o3jd5vtWCDp4ikd05TyEAbMMoCUUjCL4b31wyr46RLA+Mb4Tta4I+0RgCL/Sg6j5RXbttzlZDkmaTKtlpA3HRqHUssYZc3iM9B0nkxg5XnbfnoMGGQm6wvqqQm+HuhWW30qFbGguoAbdsWpA9fYDpgIe27JASt+kk1hYgBtxrrAk3kGkrRMf1wHLh0bWrBrGPp3EkLu3mpi2CIcJdYlv34qTTd9UP1ZippFilkQapfWhvQK+EkzU4EvTSn9l9xiAS3NhRCfuvsjAqY4VWFmas0drkO1aNwxd1v+CHjOpZEo/lwk1oWuT9ORMaR1u0rELzB2zseIZFKKDb/08LOJQ+tLcBDzoI0K3kCai76ZvAmvmA==;h3ge6saOYzN48OQQgsdSxw=="
 ---
 

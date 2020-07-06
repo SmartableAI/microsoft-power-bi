@@ -4,7 +4,7 @@ excerpt: "Le réseau Etincelle est une association créée par des dirigeants d'
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Association-R%C3%A9seau-Etincelle-les-d%C3%A9crocheurs-entrepreneurs-de/m-p/261567
 type: download
 publishedDateTime: 2017-09-29T03:09:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiODY4ZjU1OWUtNDQ4Ny00ZjU0LWE0ZjYtM2U5ZTY2NzcxNWE1IiwidCI6IjU1M2FiYjhmLTI3NmQtNGZmZC1iMTVkLTNkYjYyNTNlMzQzOCIsImMiOjh9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 300
     isCached: true
 
-secured: "VMTBQRF6t2CYv4kn07OhPBRyzZSfk1sSfduBZQwP1YbZgRnE+aLezbkt0QfyUcbpqZhIBv7sXyXnLv9OxryyDMxytTMRpa1VVW7nEqeIDudPdS18lcnwV2H5zchh3erydVYtraeTNb1PoroGuH1wuMCxWqZKPe1VZfFA6g83i8scTw+M6j20X7I1nQJRSmxvlBQdJxVnj8MEUL1N5UAHZAK4y/wufvsyDleGX2hca0tKsyT0pQ6sn1/w3UIv7XG6Q3lEr27Cj1UyFmANGrKxX1u8blPp+WLkoD1Vz991/GSmkigIwrtyckYRYDYUowXP+2bZO9Lu7hFzmUsKhvokDxPBQoPpQKb+zwLOu1c/z77D0Ip09PXGUiKKkUuw7D7D3WYBMi/CtH369dysfKzCrA==;E4FGaoUvL3ZSkDl7BWu8nQ=="
+secured: "j22c6YGd4uFGHXKoekVEs4ZqVGijGd1EdfcgFNjbxGPPGmrIxYKMA1vo3Sphpr8mR09T8WoE3kTsFhk2PUiZedDHKIh5JRbnyflxkrC1x3nyCj6Yuq9tWlE9WUvd6b7Chv+v2c07AHoM+lN90uJjnovf8CxtgHQN8/ESM2sse/0bcHsnAASDOqCpwNJkIguCWqx9aEE7rL5Xv1RNP7o7AAgWnDRq09hOkBUExQaW6jRVuE42FSAd1SPBYDRPvxPgWdfYVhxjS07zFsjXWPNvbknEOVLnC8qv/N41Wm6xzd1aDMrxIT3LdpfnJQvwOvLjmLL+yc1dio5xxXZfeZnTpViF5zPNy3MeyBIgzmAuBQ5WK1JjkarGGCWuJzqbz0kGqkGEwMzWwCxBWrld8yWaN5yo5b/BwOq4HXHq5TKxccI=;dw9clU5IJyLUhrvIBRu0Cg=="
 ---
 

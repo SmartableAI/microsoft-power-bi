@@ -4,7 +4,7 @@ excerpt: "Created By: Alex Powers Contact: alexmpowers@itsnotaboutthecell.com Li
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Power-BIzza/m-p/560554
 type: download
 publishedDateTime: 2018-11-05T21:54:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDYzNDM0OTgtMDg0Yy00MjJiLTk1OTMtOGFiMjViNGE1M2VmIiwidCI6IjAwZmVkODUxLThlYTMtNDAzNi05NmY4LWUwMjRmMDI5OWJkNCIsImMiOjN9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 401
     isCached: true
 
-secured: "mvgrZBNWmiStHvmV3IqrFrZpVq8JTSI0ZJfkFIH/Om9rhhRJH5xItpCmM+APWVRpsEkiA0lWIZr0zk8s35nxwKmbRobw9VfAfkrONv2t9gO7ywpdvIuhJ3CZQcOrkKlh/ha62WQlGLXFUtnMq/j+v70Q7iFMDllz4i6m8RJBpwC0YKDNlqmC+ZYjd2S3AGNHGlCBwibIDIGj9gUxOw3aVFakCLdWrU2AJzL2ENRVCqL58BFoQbTeQosH/CTpBMILjPuiO8jyX/w59shH93Q6RP/yzlFwCjtguj/NSG54vFPXNYZiOFAkYVkcbiairBG6PYvwbhU9SoORnGlWe1AhqK1UUBYy+x0DMLknM9x+uYlNur68CCETpWBN3dAkqldBzStqaI2CLhrWdwWVd+5Potu/deJTVS3Ow7jjFoZq5fw=;sPEMXZiaAomdpCF3WpLQZQ=="
+secured: "i3LYKVDdL5frUjdG7G6tUeFDHxBWbYJS8FjlLxG9qfa9k/EE4Bk8G49zRx9n+pMYxGMTJTNOck8SdzWO7dfMZMmxHlHrUVtfFQxWruV6UEfQzSvVNIbO5ApzPHm2MJvz1wZvJkazB/EHlYRCBlhxy0RsFv815jtDogOrjAjeu/nj+DKWE0lD2SHSn7RM6G33VTJInq8RUSMNFaNZDrupQ//Bha17oK2LBF/mMbgOblwQTrzPnhNj+iUPsxRI5t/w0J+TW5mVpDG5PX06D4F1NCSbW5w60h+Kn9laJpbdLzc2lzhlYpM1s5VMJfs/bxQ6H1WU/oZJoZVau11XEOSdn/p+eSYT58kFFj8lO4JJlUEdH3/08a978sx+4SVNCn6CAPfO8M8QQpa8OTHHjH7kAGLJluQUXc4eMZC9c+vaA6M=;nm00nnDsFWHiL4f8JIboqw=="
 ---
 

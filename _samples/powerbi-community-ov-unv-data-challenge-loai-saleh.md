@@ -4,7 +4,7 @@ excerpt: "As a data challenge for Online Volunteers , Loai Saleh created a repor
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Loai-Saleh/m-p/1096825
 type: download
 publishedDateTime: 2020-05-19T11:55:00Z
-heat: 53
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYzI4MTM2ZjgtMTI5OS00NTQ0LWFkN2ItMzQzMGYyODA1ZGU1IiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 1700
     isCached: true
 
-secured: "uHkQ3SmCY4MUxTUbLxqBl+nQNeasB7YfEHYBGPR9QVl97yUHkIIWSM/ld8i4yNzjVgGYPfTQhCN4psDpXwFaYgZGn927bunICbb/7CoLc9omsahKmAG96fuARYaLpnHYKJDotFLLtlNQU2LXpqBdfWSjotljEbW3f62P7X6wWjroA8yjF/1Av3LfosX83JtEA/vTX0gQy7oGBPZn6O2247uCVPOjM66ziEcXaZJZ+2iZPVT6YwJUqX9zoWAmwCvroYGKXuuSnd/WULtRNJ+XWSRe6dTcp/wj4/jqxC6quJfNGWbu6dO0bCQ4eMF8NmUeiicy8VO49XqKruoA2mPig+Led6FNAG0oSy4baTg+8N3b4eDdxttAlwb+LqvuMzYcSjo32ENIkKEtXYdpdmwSvA==;tuuXpo+clrKCeMco6W3Ugg=="
+secured: "22PU8OrYGxtRj9f8Z81rdx4NW/r51+gdIyN3zVKmEkEsxWHEMyyi3V5L6PWIO3dx0YBYJgbm08plXlWH9P9Qj7RiLrmNsIs0Z4GFjmmO5RacpeaG8qNGAePoBcSTx7bTkyUpG4a+KfiUeRTIXxv5e214kTjSj6xT6bJ0BUHF/Zq03sWnjWY9xfGWCmlMyYrhZ0WZ4TxJwOnN1wO9N1nS2uZMHjFB075Rjrhff5c3VqjomZVRlDyX3jvb2QBIzTMn3FxR7cnTd4GgkG3wUP6Q6ttvMTekJdWVL/4fcYBujcgE65unh+CS0Rti3EsigNJADNreI8/eXQS954h96VuQ5VQIcytZdIr4miL/rGC3/xX3cbLieamv4LqxtOI5mHoPVHTEkbThWMjs8JqouIuJlA==;DsplhInPo/7VcVr7x9p3sQ=="
 ---
 

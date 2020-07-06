@@ -4,7 +4,7 @@ excerpt: "Inspired by different ideas from the community, prepared using the glo
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Sales-Summary-Report/m-p/784905
 type: download
 publishedDateTime: 2019-09-05T09:42:00Z
-heat: 53
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMmIwODI0NzUtYzNlMS00ZjZkLTgwYmYtYTU3MjZkZDdiNDcwIiwidCI6IjNlMDlkOWNlLWIxYmYtNDRkYS05Y2Q4LTc1YzRhNTJhOGI0MSJ9\"></iframe>"
 
@@ -41,6 +41,6 @@ images:
     height: 840
     isCached: true
 
-secured: "bFeEveV/FHGBIpFv2x6M/tSZPkVQuVXhtFsSzjV9dF6nulcGvUzQSLSU0tFz2K1+ky8NXSPa76dkXQ1b/Z6BYdGO7oNI3in0rTZ9tPd4TmqPA1W95mz78MiqlypCLT8IokTi4/T7FX6xjaHTClA3jyKQa+pf0gj2WeF5idIhS9x9e5tQ7rIzFXxT8VbhiOfHfBWcvD67QKA3GWjqJ85YPuiWrl8H3PsLBhNJIIqUuVXhnFYAojDFH0zZxgz6IvbaL+8fLIHsewCh2eTcMgN4uSqB7BsJRjAITseQDHlD1/u2qzl3DQDK6sIaL07FjFurgELXC3F9wWKkkCbqgGvJ+m7cw8uRTnzRKnhPC9zYqUVzkmqht3mfoJKiIzoG2PH4sJQBmkvgPBjOESwc01e/gs48DSvEGx7ZqMLld2pnsQM=;lPMBhlANQc775BZZkluK0Q=="
+secured: "WEAlUDuTpsCt2seRM3V8j4KlMgv/r0p5X+z7T7T/KWPrOpNBdjiN6Yk9LruweKWeYmg3/i7CwPfpZmSDwrl3Wqqy/Hn61uX9KAC3teTeKKiSqblb9wy98YljFyqxvNdVOQazDoWBEhKqvtUFr/ddVN9hMyqEZrGMM/2s7OvnTdVcq+Wrn8HV2yUzT6ZFUTE/BXTbuqTEaUwZG2lED6h4v5dNc6t8IPEA8kJxUe4SGLbEr8enIi+Fg8NZOltp2KlPqZdNm1qUDEYlLtJp06TNZ8YCOBtK/bjkR78sPDKXd0bx1YyZqiT+qGtbMjeWgnwDHvkiFLquZsr0kfrlZvj4B7zvNQhPMmI9RA15uAEC1XcQehYWMpokMQtmZVuLXmuiAKV1dVvEuuNNTie8IflIh942vPEkXioBLWIgoopSc98=;6YZFnM1XaYD47sOKNL7TFA=="
 ---
 

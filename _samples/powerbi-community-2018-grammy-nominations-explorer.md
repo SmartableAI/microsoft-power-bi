@@ -4,7 +4,7 @@ excerpt: "If you're like me, every year before the Grammys, I look through the l
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/2018-Grammy-Nominations-Explorer/m-p/323808
 type: download
 publishedDateTime: 2017-12-14T10:33:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNDQ1ZDRiMWMtOWE0ZC00MmY2LThjNjUtMDRhY2Y2ZTA3NThlIiwidCI6IjA0Y2UzMWRjLTExYzgtNDkxMi1hZmRkLTBhNDFiZmU0YzAzYyIsImMiOjZ9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 649
     isCached: true
 
-secured: "HCVy4/Yr2TQ8zwMB2Ov3J4O2JoMepbCer9THU1zcU+b+oM4heutvD5VHhq5heUmM+0IhTXlQWqWlEsn0MgHXv1ingIS7p1I2i9/x5rUKs9SJ3xDT2YRku1s6Q3wpjdVNyezTLv8wVkgK67Fj3nRhcWvvLdR1QCApM9TUJsa06eMm5yJqLXqfX83Lm9vhJvoLyT2Q2GBsKnbgwXVtZE5DBrx2XodKpGk8+ccHwtyhLp9ancefh51duG7Q4ZC4As498Luo/8PuJe6EDUrPc0ySsKrIixpk3o3waInJwMJSQCyFRzQlUggBWvvtmIZyAVuZRWMuKuzxMB9ATBNLUE8MEQxudmVA0Nd6ADBTOK/Haut+9wYvRdx2PPw7wsAT0/D9JjFrBPCeRGS2M4uNl9T3EQ==;+F29LGsGyKryES3iVj8DvA=="
+secured: "OOdd68bdu1obk9rmpIMMrCfgpSr5RtzTtRnAYOGlWAIA81hR+MJPt45nTpikQjw7Q2YKp6XdXXHbpWKaDW9h2HRsT1E4/FOo/m8tnFiEAa/tbR25L1G1oJkB2XXMAqa488xiS++g0fGBVpEkBuP4S4uMOOA65hi3PBHfB+zZdFBIImKGSeE+KSiERa8vBW+3aUxHhWwjT9opKvSF0yAiHfROcALZRapyzrGwikGh00fyzMJZ7QMapa71hq1xnFUOTojZKr1Oef5q3IVWEpi9BpY/nmR50VRXIhUlG5kzxY7IHXgYFojDraTO+49kVdkNvy6FTkMYGB/GFcMXFFozmGDaZ75OYehU95YoUaDwLOWTAngXYe6yU/LeJxIkdwVm0pKQLYr71u0u9Qw4wX3j2w==;fYn+slEmB+xJAUrMPFv6RQ=="
 ---
 

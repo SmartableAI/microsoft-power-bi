@@ -4,7 +4,7 @@ excerpt: "I got the idea of &amp;quot;visualizing&amp;quot; a song with PBI whil
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Understanding-Audio-Concepts/m-p/704891
 type: download
 publishedDateTime: 2019-06-01T05:46:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjc4MWU4MjEtNGUzNS00OTI4LTkwYWUtY2VlODVhODY0YTlhIiwidCI6IjVlMTk5ZjVjLTYyYjItNDFiMS1hMjgxLTMxNWQzMWRmM2NlYiIsImMiOjJ9\"></iframe>"
 
@@ -41,6 +41,6 @@ images:
     height: 735
     isCached: true
 
-secured: "W9lQXL42sxjfZ0LfE2bQtsG0sze0RPd24CehoGf9DlKpD9OG0+bdIsg2KO4hRikil7MzilnRkmTzHj+qpZMXZ1Mq8bYBpQz8d3iD5AL7X3jagG8HXy6T6N2VMrAQaX4NuoSRHOsdiVjXtJVn+58SSjaNwTNnB2MouoyR9KYngTUAE2SGghvId7aB0lFtP5hYRgzKa0Os30t0VF5oXsVQNu/S8vDVwcyqliAzZ8W1iwKsKDKir0uvxYL1BLNFwuEkG6Ac5pbfCfS/3qLcBLu6kwnKDRIvcAPNwleld3XmSqJ6p45Bqdq3FdknJY5NdE07ypi7fIoXbVqmG4lJYCeVVbngkpAPjkj6dF3eKOPDCMYS6Olaa/9mm7w+nwfGsJEuA3LJNoADTo4Hcqxclu3Tng==;C9d4aZ1+pdFilpjXmwYrgQ=="
+secured: "nCAa9FXU9lEE2c7qV0V6HkHqOI+IhY1y7gi6dWxDpzLWiVuJkZXJ6O78+GvEg/ADr4nQIaqo0MYCojVohZyhWfva08d2GuIqbnCn7ROjFW0ZZxNJQmhf570nODQMACiWjrsGw8KGsHl3ZrqLRP6QyhYWMd/hykT9xVORn3tQoxCgQEePHJHwR0jLsoqGDGn2/d5ajkzpp+dLDem1dxrFIBQslHJ7Dta82BTPmANLtYmx+KwdVyTCHkpntyUIHA1wWYl7oxi+s1oqnaY7Go+BETSL7lQmIetu0izyuMTKDbcTwRLLbTP8TuQyCW3kB/x2r1hfBz4AKAhl/jRKEVFnl9dpzMbUebiElFeHzLKVNcWWznRsfRaX+pkX4PqRgs3fkEUkK2AiTu/PnEqH6IuaKQ==;W4SdmEp90LB5zWqyvsF/aA=="
 ---
 

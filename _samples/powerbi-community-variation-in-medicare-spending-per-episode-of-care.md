@@ -4,7 +4,7 @@ excerpt: "For this report I analyzed Hospital Compare public datasets to identif
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Variation-in-Medicare-Spending-per-Episode-of-Care/m-p/660582
 type: download
 publishedDateTime: 2019-04-02T22:23:00Z
-heat: 52
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYzBiMDAwMDgtNWNlZC00Y2Y0LWEzOWUtMjZlODM3NmQ4NDAwIiwidCI6Ijc0NjM1YTNjLTZlMDgtNDgyYS1hYWQ0LTZkNTBmMmI2NDMyYiJ9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 752
     isCached: true
 
-secured: "aGXGmfg98jaCAAn7rglxJHzclB5nWLPcEPXauC3B5Sx3ShVUweopywkUF3ZU6c6GbChHhf9NxVMNpJPS9HX6ic2DhSUFB8Do1n1Dm9j5uv6+BbsyjhoO7BRNzEw3nQqlT/1FIg5/Nx1Zr9jgIg5/jHF5vwfnsUoGjbqNaGdZiOmQslFmtMmjQm6RmUyV8srgEB4hm8pjx/bp/pvKjRZ6L2KF1hhx2WhzLeV8SAVSrwKSWmBoWiwn7DKHsFW1iFXHGaDhj5v+itChFpCkGyO6lbUbry/IfHzZl1miIXeyy2Dw1rld7jar4UW0CCnAMlVtFyDVI9I3Ml5JOVtMMhVrjuVIIi0J/4ZGAWPKqVEnMfGZSmv60sNuvsQx9rRHAEix3q+xk42DCxe5IKHPK+JJ/w==;RDuh0lVamDKo3KaK4FzdhA=="
+secured: "Vc10uZ2Pz4v3RUjVagndOpG8dR2NKgrAyv0dS2Jy436Yefl7MAncELoLnw/tKvfy3DOh1aytxtNAlpvFuuepPtZeNj8hSWlxMJ2dFcUdBeOoTv30MbfzlcOkCGD6WvJltdkK2U/gl7iHMkEqWdQWYngvWvnMhQYtDKoUNmO4mc/jov3yh9D7zj453WFKDBN51LQNrcNEPZgcKgUtQpH05TsWXABVJHr6MmWt/A9uYUuA7zcNLXeNNA7Vf9lyZKIkClTMdqJbZ9FgdbW6cISvGqCtM107qEH82838TwtMlT6r+hluwtKIInrl7ExDDpHpe9wbirDPA/DlY4jKt6BlNGqmG84aF6olgJ1ObS8AnWPGfMU4+9jUosxPeco0aNG3ur0o+Rm6YVV8/Uoe1qlJgw==;Gc/YegzJK+h0FWJGrh80mg=="
 ---
 

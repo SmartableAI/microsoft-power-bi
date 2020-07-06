@@ -4,7 +4,7 @@ excerpt: "Visualizes the change in team standings between 2015 and 2016 for Majo
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Baseball-Standings-Year-to-Year/m-p/170678
 type: download
 publishedDateTime: 2017-05-05T16:07:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYjQyZmI3ZWUtZGJmMi00ZWQ5LTkzZjUtMWIwMTBhNzBhNDZkIiwidCI6IjRlZmE3NzhmLTVmNmMtNDAxZS04OGFmLWNmMTliZDA5ZDE0OCIsImMiOjN9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 832
     isCached: true
 
-secured: "PnHvCamDdoYIvXf7mUindVh9aDfxST3aVUjDzy1elSjtYErDTSDkuZzho0y6OKRzZY8ZlZ8McxQPrkHZt+G5CkYjnBYh8NuQzTDAew0NzJpkKgx8ABQLTTkEIjIHe1XDTD4pX9fjNGpFLkcL2PNlQjfmbwkeJlcYEzkDnl6wBDzxQjMvkLEFJ5oR1BeZ5TAcf1ttc6jFvo72ibkiG2fbIRS5ENpIIlULH5BAmQmIN6Rf/6UddPbeAgbxPJ69+sA3aB/2zc16qmKfz/J0wajOpuqIxnQXsaNbQxqa0DD6nzoFlnWDUWes+g9TwcoT/2sf3vGZb+Z9EZYNbo3SW47HNCuJEVj7gM3/qvFMzp2ywmrFE/0b8EXf33z56iC9DdAKwUlJhWM5mq/YEzEW0UD49fwBWYaQH0dmQmKrm8CoXYI=;3RyBFFXJV+82dtfzZz7QeA=="
+secured: "rfvRw6gCnsqnNT6pirqtgYUSheIuPCn7aFv/ejx/0MSX+EhDESaBSncvVeeG6vUbQLbkchGA3GhYQgFaTXVTpvCAwXYOocmQ1bfiq+cN11kbtEpIJqUHA1BkeCWAPH5I5IOl5CkhYOyRTYebYFLpJe458SfZafA0as7bzP6Luh40EC6cUB8GKZ8VdAQqIwNRRtSKtQwkjRLu6B4vHwV9s4JFNI2wBg7qrwGO12lqLNFOxU1QG35u4hbhqIC8AKZeY/P/2CF6hJzPQyPQLTDrDEm8rj1XZscNu7sywCO/w+aXfXxD/X6UUMB140PKxvXaNjP6txPu15pUaWiKF/CGd4onkEm3cceMQnSIoS0iCgqfyuic3cB2Kx6g8mHeTdI3SC942Nup3qxXVw5sQBiPIZ/E1B8GvLXNrBQVzXCNZ/g=;/lP3zKD8wBnbHDAV5cR0Lg=="
 ---
 

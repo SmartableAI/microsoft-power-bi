@@ -4,7 +4,7 @@ excerpt: "This is the report that we presented at the Gartner Data and Analytics
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Power-BI-Gartner-Bakeoff-entry-Opioid-Gallery/m-p/377969
 type: download
 publishedDateTime: 2018-03-16T11:53:00Z
-heat: 70
+heat: 65
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZTc3ZjNjNDUtM2M4Ni00ZDg2LTgxYTktMDJkMmRiN2VlYjM1IiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 1080
     isCached: true
 
-secured: "fKOU2XmL6Z59WcHtK81UF/ZVLvawsTO6ro+yEwE4O3CR5qMAAaZDhD22d/ZSseaGAKHp4R/BFBKTvfh+ZYiG7v9DmTf2n4Gpcr+qMuxqpSB4AbO8OyZXUyNpdVkyAJJ+Kx8q/Je+1lItV3unvOHZI8Msdjm7ygZVSRFcUowMWi5TjX9vEKC+UBjXcUqK5Rs7Yv7sAXuPSAo8hjRhK8JmIDhM/oMfEDgi3OlDLH//ZElx4mxAFEgrL5RKXNO7srpOAdh86eVEtNkXs6vGucLrb2L0YAn+Tun0mssFS9+uCB+J6mwr3e+93Lh3t67MA9TlS15nAfMbic4+tqSfeLcK79l5rTUxhvfclCzdsjpFlUC+5/33fqNfvondtIjAJF5i54YH4BW3MmqS6jWGBjjPN08THmZI+2sTyBok8fCAolk=;9SFcRZkxi6p8N9bs7KlEbQ=="
+secured: "pQUHsA9EidOGeP7AcL884ZAoZumCJFTwI3ADIUud2rRHAYGK2415wnP68ecoZWb4LMq3mUuTVboTJkCMdH8ASxAx1zLhng8FYcluvLz6eeT7pd+Ijjp4DZklQoeQSnnfWOgwUzz0foetZAH848NnrJKHfqL760F+vZsit3IchKiAdRvIR7n5iLTaw8o+7eFYTEagSlfvC4yibze5eCzXsX77pvsY+ze3+Di6AJ7GlM+53jbCo0Li4hCMwJv6bKxzYKOXoEmuFv838KG8VBG1Cn/H6fL3a8+uG0sgGdK9Al8vuAdo3SVlZesPkSd7oEasjbg5aKVzl8M+gyzn9aDITN5w6ITTsDdq4+zZJmbyXcT7YnZxBPdUhBMjr6ZakC/erU2/6/tXi/6E785u3mmj5JFBWmxZdwdA7XR0OH4AOmg=;0uHVRznXdJB2yvXiiXrtDA=="
 ---
 

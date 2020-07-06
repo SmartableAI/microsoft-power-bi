@@ -4,7 +4,7 @@ excerpt: "Different regions use different sources of fuel to make electricity. N
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Where-does-your-electricity-come-from/m-p/46646
 type: download
 publishedDateTime: 2016-06-29T09:29:00Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjZlOWZlMmMtMjE2ZS00OTM5LWFmYTAtNmI4MjBlNjk3NDg2IiwidCI6IjNlN2ZjNjM1LTkxOTAtNDFmMC04MDZiLWI4OWIwZmJkNzU5ZSIsImMiOjF9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 1493
     isCached: true
 
-secured: "bkQ9M1Ci9UWCwuKII4GLvxMpiGR3pF/mbBaTsE8yyyX6MmY+TdQ0qvcpjigwitUnKncQJYVdH7tRGaGi1wsJdPjkwZUiSSfQTb2kj9rX49DfC6Knqlt3Q4si1zicydIliUvoznsOZnk80Xuur3rjbK+SHz6fOWnG1tmgmJAb46jxAQfzi19sgQwecoiqqeJ9sw+QUH4o4aLfQXkPL7bbAhGOfJjKTnjSloyaxY6RLBjC2QGA75D3KK0NuybpkrVLBY3lzdbLtCNxEb/h/2pXFmScXy8SIz0Mufl04LPI1nwOtTZnmhcRYSz8E71WyY0KpEnPl8Ao9zb6yGWzLm5mDg5eojFxGhztoUrj8Iwjr+eBtCjV6XIki5m+h+K0vRTFjKXqCyr4ptsSlsp1i0Y4wfamkPhIa3mUCLgDLTe6vQk=;udPCqksoPIiLuBhNbcEBTw=="
+secured: "bG318yoyVV7Dbh4PSpTvarklgvcWEKs+MD1mQAW1NjZatjUJgZHoqbs6MRU8lVb+hakQ51TshQIIv/wTR8peMIdjo84AejKO/lMujNsXTUrH7tHSF5HgSVEjgWWbiShHaTFNMQGxqjK5+XclA9wVdNN7kKiZQc4VhIwpupi8gx3OduydPSwcSds1j+Soun3uUNIczuaQwern3pBInWhafPJLu5CtPNQJLM2bW7iyJ4xShhIU0qPTMMtlmzLU1h581JG1yXUOvMvkkq3mPmc1AeeJFZkuQEj6AbAAWlVbo65Z08+AArriciJAqDnMueaYvMYFeRzVfVArLNIzIEru1iHLYyCXSs4vxmZ24PTYHQ1nuTuX1evSDc3Z/hh34naCDY/4NRU3Gzn2fv1gnh2oZxpLElP3ysCpbZSZBleXsCE=;q/cJiTkofRvwCslxf8fb4w=="
 ---
 

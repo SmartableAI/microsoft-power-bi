@@ -4,7 +4,7 @@ excerpt: "An interactive dive into weather data provided by NOAA, showcasing Ave
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/U-S-Weather-Analysis/m-p/58483
 type: download
 publishedDateTime: 2016-08-14T12:07:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOTdmNTE4ZmQtMmFhNC00YjYzLWJjYWYtOGZjZmY2MDZhMThlIiwidCI6IjIxNGMwNTM2LTljNTctNDg1ZC05YTQ1LWZlMjFlYTYyZGExYiIsImMiOjN9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 400
     isCached: true
 
-secured: "WqpN61C7EqubtfAASVWZB+ME6zA6Oo5m/jRmQbOUfWtq/Apuixs3osz2duqyXqEbpUIIAnPiDx+47mcY1aZpCTH2Tzm0jBnktmIV2HakzLRCwLHBlR2nI3ro94PyyBvl63uBITjESsNv+tEMWWKO3R/a7HbrGrKNpkG7l0PFNelsJvrWwcARSefmoR1dGPMLgtZfEwMCeNTeHCCDZzs990ki9i+l3LDT/M8MDMfxofgqVmMZ9a5ZuQhF+DPOwVi/IZ41BmmKx4v4pyENvw+SMbH5Q6ct80t8soR2cnawu+YFBzlr/FLow8roM36tL08Egcr0kBqq0lyFyfBJP6uVBcgalTNYk2fIaB4Nfs+Zmajr1KcrC1VX7v1WqV+/Uw+zzx2OGW70M1UzuL9v7hVRpOtoxVxGUcPosmE5uia89jY=;4jSAeheZK+yw1+wu7a2esA=="
+secured: "GCWz9jOgQMZHUTabqKWG4Drr3pgz1R8wPKP/GYHwxhNZy1ESgLHqk7Cw6qKevEVjBhB+A6LcsftF5Sb7VwNT3AwdIZTnnUrc8RAxfHrdxBAG2DxzGClYVH3Zd5UioZvmacprXB6+auVoA9S4dz9WZe0SuKwvnuCkv7rEGZOkPzR1S/q9l0Z5qP8fe93mZcNRsidznPKPD9on6u+krGYjFvtVn18HEmWsOtIWvFy0bchyJmYR684y4uJTfMrv/4a+ZKyf7ej+A0j6M0ncKnK/ryGvyD3nYPFXbMGe9Cprtig+KaohBNUWb+ZXcC1oEYqsiQPQuCS9zGxFinx/SR+9ylnjZJTUDUMpAfRzXDWUL31xDol0lF0zOirzO4C0xZQtGpYUYUyPG1OQH9kAgZ3Lk4CyrJKtcQulCoXu2RciVPM=;ql0va0EtS/DqTL3cmbeilA=="
 ---
 

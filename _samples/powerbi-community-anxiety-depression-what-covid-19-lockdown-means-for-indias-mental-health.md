@@ -4,7 +4,7 @@ excerpt: "Questions about survival, humanity and the future, the changes and the
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Anxiety-Depression-What-COVID-19-Lockdown-Means-for-India-s/m-p/1097521
 type: download
 publishedDateTime: 2020-05-20T00:54:00Z
-heat: 52
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZDAwNWQxMDYtMjZkMi00YjA3LWE3NDUtNWRkNGY0NmM1YmEwIiwidCI6IjA0ZWM2MTA5LTRjNzktNGM3My1hZTcxLWE0NzRjMDlhMWY1YSJ9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 1033
     isCached: true
 
-secured: "70VIGnEChDaFoSXKikfOmRwWE1MYD3oeHp+ZKZFaHr2YHfh/lqMQY49t9tmsYoLq407EL8mjAOM4HGaCfHB4GObIBxgNdhBWd/rj31g1nkVvydgHkEqEO7pk/VMosZjL9x3m7XVJoV/ZXEOiG+01Z84QG4GtdyQens+ysYSB3htJgyrs/EZ9UNZbXAgmwxXM+XIOlLxspRCDj30f+OzRmfs6h5LChjYYMf1inRNbhcKNAGqSHg38v/jPniox63ePq4GrgHyCqYX1jPwLCtnfShzb6qiQgxOEynlasD14rcFHQr9kxKUZgEPStKJ0VrI1/YB4mk1x3yE/Oswc2+D6VOLSRPOWIdzG/lGWfMVS1CY/rDLDEKSWPIYbbLDuNL6aJ/4C42GLk7+5Ml/h36HsSQ==;+yNyK2lpR/n/D19IJGZakg=="
+secured: "jJGZA44MXOZUOFwP6vzuxaxl/HjvkwjqFg4SDBAk4lejZtuBbtOxYCFkZhIfG4wZ8z1Yge4CDETWP0+sbZXOImQvJcFfZbxpqNxGywFnZYct4DlqtUtMbFIgUeFFnxdo1262vim7tN1U16ltqfXHuQZ/5YjAnP7AvcCbBUK2hQkmlXDHmscUknm/BeYezmaTrQ2O5qLKutO76IlZ1qwoCFpNVcwFGNL7WV/DpmJwHbUX6MCTARmuQsGI1KDTq0NDImaumhOSwZQ22AsqdpTFa6OMOBJrWsavv7yBJS9rX1qEPLWMGalu5tlx6s84LkWBNxnZvAb+Y5I2M2iiHifmtnh0ni0mEnYfe0u2JDordZh0J0Twg2xy48IxE1MOCHjABdUTO/rJpc5prVht5vId1A==;U7DWodMiyj/8MSZ3WfFMAQ=="
 ---
 

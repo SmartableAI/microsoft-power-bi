@@ -4,7 +4,7 @@ excerpt: "This was made for college presentation purpose."
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/FDIs-in-2019/m-p/889550
 type: download
 publishedDateTime: 2020-01-04T02:04:00Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNmViMTg3MzctNzgyYy00MDEwLThiNDUtYzQ5YThhOTVlNmYxIiwidCI6ImU4OGRlOGJjLWRlOWEtNDI2YS05ZGQyLWY0NzJjNGFhNGM4ZSIsImMiOjEwfQ%3D%3D\"></iframe>"
 
@@ -43,6 +43,6 @@ images:
     height: 726
     isCached: true
 
-secured: "J09HOFMt2a/WzXsDQKXnlbET1ORLIppofxMgZAC06wgUAHWxmzU5JQSgBYdsUh34Z7SW4S89M9ygM9yVjlGjoquu6loxe5A2WWAsoKDdwPaoEu/k2dQxY4d2N1cTCumewfW0VsUwoiwsopNHVyY1BYxhmxbKgQeZeZaV3wEI7ZIYuBd6JQ569+6/yRB1zkzxzospgDovl83EBjONzlHJxwQQQyo3/gF+eZVL8k6PX6Uy2vHQN75IYimSR8WpEEgU9JXtt0Itm5Pqq0lhGTYHG/birZY1onvtfAg6gJL+pa2nnysy4RZL1FMJi181B2z0hti0ogSb7vInIFcUFlm4pEHoGP5GSor9ZK8Jgd96GJ9nJepXL+aPKZzUuu0OAOCl8C3BnOaU2GLdhu5nAxlmHw==;AUihlhk1g3WsiGkgR2T+VA=="
+secured: "cM5I0ma3xpcbP8qnhi3boVtR6+z3AefcJAnIa2KSUbaeTqkEdEAIjZoiZ2rdsnw8NybYEqhojOdbqfHPo1sWX7vD9a1HaTxzoOwO+qF86Qpz4CqNQZuhNxuyaR0owsf9uFw/hExW5J2kUV0+vyY6VAZjngeYOAR0/tC2gFlr9XtdPB5eiNVs7jJZGrGQcOh205Fl4J2oHesCgaRXH9wUMIfPrimfCNDDvQIhvC0O0nOxDXzbY5RhRbdmKJGgNQIlzNIiVXcSCirMvWCsdRsjJzsh+7MFZ1HNi/cuq/ux3EB5LP0slPgOEpJycZNeNW2grk4UW+Zx++71e08XEN+QVHy3rPi4Tj01GLJfNL6fgJMUgz/C4udLIngVRxzMA4/gzwmvTKXgomeJPRC60MFIcw==;1IdcyCDAAoReeK+bhyYOSw=="
 ---
 

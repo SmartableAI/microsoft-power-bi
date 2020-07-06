@@ -4,7 +4,7 @@ excerpt: "The Tokyo Bureau of Social Welfare and Public Health discloses the loc
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Barrier-free-information-for-anyone-Bureau-of-Social-Welfare-and/m-p/968214
 type: download
 publishedDateTime: 2020-03-10T23:52:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNzYzMzgwNzUtNDVlNi00YmI4LWEyYWEtNDIzMmQyYjQ2OWU2IiwidCI6ImU2YjBhNTdiLWJkYTctNDA5YS1iYjVlLWI4YWYzMTE0Y2JhMCIsImMiOjEwfQ%3D%3D\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 745
     isCached: true
 
-secured: "tMSM3YPIbEeXv7xC8Q1tQHk6gg/GPf9kA7lqcnC0FIr2lAbfQ8NY5XT2eBnLrwgTBvqtxab2FRecMm+3g98uJCbLO16S+YL9CoIjm2YemmPGjXQIjaOpDKDRG3n8fqBmwdZ0T/oGRxO7vej0aER2VXkK72tUTg7UgTNFB98xv2rBKWFWXMaPXVFYfebVkO+VZ3ZZkhhaXi6QVnGu919CV8jCmEfJjrx5NzSv6TagAwSYakwn4fisRt9M6j9sfvQffUIWwvTzd+ibNBcPPiE94qqV46cYdAnSxZKBYO7NykfOMoPWTezkff90+9I4/tP/2i4P5A3Cdh1gT0VjUgZ7u+ckl3Ixb0vtqgOV3cZpeC7nHfwlQHvkZUpKRfmCROCBv2vI5kClg2gzwdzSALgmLw==;dphQeHPeYWDE/L1FMbYOGg=="
+secured: "P4IUwhbgQXvLrLpq8kBTvYrUqt4KF6JL2dwvdGFTuPKnfxCJfJnDe2E0wij5uSd3GOSpScJz9+sYBWItgsS5doEz0aNaHoa/8Jkz8faJJ+hs4CnkKSd4wUm1GzMLlfgF0G1Okq9af9sZID7PS2kJS2e3H7mye0OFmj5cpExdCUJg23U0eKFcFXwrw8DBTJ4DeC9eM2bI4ZEJKGZrafZxAT+stTbYn2Bqm7aLhpEbtBhiOKPtMryjpbRmGl642UMSFtVo/pD5ppc1cbJvWVSWln7I9sLnOqBTK76RvwuEbBV1y607j38O8IMIY+/fKPOut3sRIHxDOeWV4XmTb5cSLfyC591Zj0ELZ1jRA6XU5lI26zwwk20MUyJV8g22I0mVcVMqhrUuCJoL/KfNKeQhUQ==;iKNB4h9gQkqhvtaWx/AuPw=="
 ---
 

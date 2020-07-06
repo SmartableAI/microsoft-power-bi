@@ -4,7 +4,7 @@ excerpt: "All in this report is made with the language R : - data import by * we
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/PoweRRR-BI-let-s-go-R-language-in-Power-BI/m-p/261786
 type: download
 publishedDateTime: 2017-09-29T10:35:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDkwYWY0NjctNTEwNy00YWNjLWI0NWItMmJlNmNhZjMxNWEzIiwidCI6IjgwYTQ5ZGJjLTAwOTUtNDEzZi1hY2NiLTJhODI5MTFjMzYxZCIsImMiOjh9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 700
     isCached: true
 
-secured: "NQWp7PVMPnQjjU+iSOvS3UTf7zAs/1IJDqagfOCMGeXf2QlaGY5Hs4UomZczBSbgd2hC7Vk2UIGIq/1ry5ZYGeySQRBluWuddI6x5OVeonLLyOFs5mHJDPNiLJvQxn41ytYeTAuMDCwGjkAicBeKT3ZiDEzSa0QpWewcmOhOEiR/3phJ8gTmuhjxY10C567FJGuY1HlQTV5VimXoAHSMaiLji2Pa+0kc2jBIZjTZ4iUIShtr4X5OmAcRDURZHIFqp/fp7RIBGx25Dlm0GB4/5TZeRdPV5CaNGr6RoOrSUw/Bt3bfX1xqp6wucNFnKBWIgyZIt7xJ9+QkLpwxCaTrCk+f5DJ/VPXu9UpWAU/UfTFbzzipoc2v4302vvsbfH9OtwMDB/Ba+GlP/FJp5ttIoMlPv6Tbec1kjCgehdhmV7E=;uNRs/hzwW7klx5rIqJrEZA=="
+secured: "taaJve8NzrdvjLyPn3j1NX4oGAGkb05Sa606JH7Wy7WEbpMJeuCuyTjQQwftyiFuup6WTtMcmkw7z+f9vC9Ofuf06TY0GoK26avwqAKpFHxBEPAP9XNQ7KfUYF/RF/gwMVWpqJqIH0Ps6+xtU1uGBsM2xJ8PA9mUUxBSUc2kvS3D59gp69b0TljqUlWsT5OA/yMin9T+PWC6sx9BJvB8xfHg+yQHCszskHAqLQkaoMj1muqSYp6/iyYUkjs21jcSvZqT7r95jTmtP9A1S4lwMd1+42M0HPtamSph4pZuuC7ZkS46SC8Msa+fqkrasDrgooV+6oAbCgofD/juD+B2h8gCtpfomnZbXD+cn/0qCxrZy3peWz/GSdVqFb8zaEGAjRXDg/q/vcddBXckkVIaMlNWusK79nL2NMGv0fjb6/Q=;U3EdwCPMSm7wuhzzc/XxHQ=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "This interactive report is built using data from the New York Times’
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-US-Case-and-Fatality-Trends/m-p/1084820
 type: download
 publishedDateTime: 2020-05-11T13:59:00Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOGY3MGI1OWEtNmRhOC00ZGRlLWExNWUtY2RkNzdkNDZmNGI0IiwidCI6IjU3MjU2NThmLTU1ZWYtNDBjYy04MGE1LTgzYjA0MDdiNzJkOSIsImMiOjZ9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 687
     isCached: true
 
-secured: "dpFPkMLxrsr9xCHW7HHMNywg3R2sHq4EcsVJIQ7aylr9/XCiqpOohV4pFzo9VcsnG8DVI2+nJwzOC/o8ChAE5t+ATFE73wxCPQsAK9DLN58T+e+fnGI8JqfL847xL9u8AhKMpS3gwPegmccZr1yA/DCdUMAk8FLQGD9pXPfdwHC/73DAjScW7ViaMOvSxfgL5wcP/55mVi1+xylreBc9iE4+KSJpMYDXJalBSjodsAHKZd72RKqBQu1F++PUgGyBVhSCPwta7PbyG+uQWor2OOJfVr8aUcERArJYjNumeJh0bVEF46zHWgI8hvJyqCr4Z0jN/cWSu9Qf6lFcGpvS+RGkoboA0XXrYDJGVZLjGfnSp42HvWvHx1fJXTqCUYyrcNMl1yObBORCFjCXlq0TBA==;aXqt4GNnlr85pwoR498EDg=="
+secured: "LNMaW+rZWp+MouaFbNAQE66XoXkah6FA3b8s2B04xscVCYXe6Oo/db1aTKSUVuvNQYwBgPYcuFIirBRh6t7092Hw7V0YaA2A3lkPwlDC+NYaweyDLtTMrGdRqhSZAg1UxAfFgWAzTG98n3dCWRZANZirTVrBbU2JwfeSlSbaYiVijnyw3VsAzOJr/YENMZpaiOkaVZkXhy4Cf1c2cFws2WMuD/rjAl8EzA7GjGoTA8fL+ft/6Z7Vnt0obCTfAD5XSxtsLKeh2NY7WS/tckAlS6o607Ma5BWnzdKaKLbOenEpdD/vU78Dzy1mBValrk13ySpwDE4JFg49VOXhcfoZiyC382coN5SdX1CpFtJpz/MrEQ1rAbWRbUF3XVZVRxf3XNNJOFXjxvnhi4YMOAkfnQ==;N36WpAtdrmGIF9Huzqq+hg=="
 ---
 

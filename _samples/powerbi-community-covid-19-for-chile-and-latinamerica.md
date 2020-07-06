@@ -4,7 +4,7 @@ excerpt: "Hemos desarrollado este reporte consultando las fuentes de GitHub pues
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-FOR-CHILE-AND-LATINAMERICA/m-p/1090182
 type: download
 publishedDateTime: 2020-05-14T10:30:00Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDk1MzE4Y2YtMTZkMC00ZWRmLTkzNGQtMGE2ZWM3NTJmMGI1IiwidCI6IjU0Yzk5Mjg4LTU3MGYtNDM1Ny04ZWM1LTg2YmQxNzNhNDk2MCIsImMiOjR9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 902
     isCached: true
 
-secured: "Mj94SHZXOxWcGXCuZnSit81y8YH8yauEwYfa2NRBj8kPyn+XzlWBk3TQGdX/8rPRrQd5mmJdKxMXI02Bv9MNKXFf6dWCKktPZzc8+v4ZKSzPqzH7zXyVImr7VOn7ZAuH/t7IxJeUSvOs1KMrkMtwR0qzrbd7uNjHWy7rfiB6OyJepeYP8msFYqXrzH4ey7OYvFhDyWrrQZzHH/EHtaypklyZlw+UWV9rwmpJt3pIiYTncK6FpWpZxV6k1XWpOZrl6aJpHalDOtgzzcfRXzPJ6O6lvXdF6wiP5pJ+NHL3DXO8CQglKeVkXUMUuCWL73aeMnJ8lxRv4L5qxxSZS3muudsQ2L0TKXjy8E3+5p1JxRuYUyg7ak7gwOosXy4Kwm9DvOYNEkrZcVxo33ERYmey+A==;dMgQFpnK5JmBUp7KmPqCcA=="
+secured: "zGteIZ5g4FxotXBI5Cxo6PxExsTY3YHlzQ3NnOc23A7myykEupP2uUju2FQDui+yMSvY+G9eNqdvQ0BR75TpcKAsGhrFeRncF/x1hS1RMj7M9vhkFpJB6dV2tbJLWQRPAcE+68PQ8+PNQhppxce+yyhU0GY2WmyeCe4t6eLPysgAFtIxN4ZtIIKm/aXExX0aWU/2fcF2F8h1rEEKUMvzzGJk2qBBfqLxJCUXboVmGzM6sSUMBGtMy/6nvZPOgFvcF7bSonOAO0bCsjrIpP6HFoz27fUgn3IyIP3zX+6xSgBcgIhy5PBYFqoAq9dUjSA0ed+H0mStUM7/jvFqfNPeYgrMqhIMsfgpHOY4m26/m3Aivh95y13p5oI6M+8KIR+0MwJC/K/cJT4niTtnXBF0lA==;HCn/n/STpNHckq5QOJ0L3Q=="
 ---
 

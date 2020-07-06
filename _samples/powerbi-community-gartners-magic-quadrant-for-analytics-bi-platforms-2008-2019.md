@@ -4,7 +4,7 @@ excerpt: "This report presents the evolution of the features and capabilities th
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Gartner-s-Magic-Quadrant-for-Analytics-BI-Platforms-2008-2019/m-p/640603
 type: download
 publishedDateTime: 2019-03-08T08:23:00Z
-heat: 54
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOGJlM2YyYjEtYmI5MC00NTUwLWIzMjktNjQ5ODUwMGIxNjc5IiwidCI6IjhkMzJhNDI4LTk4ZTktNGExNC04MjYyLTk0NGQyZjUyMGI3OCIsImMiOjh9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 653
     isCached: true
 
-secured: "/Z6iuMTNMR9WBejoitHTmg3HYeONiVtXumTUdU013Dg74K+/j0taL/HrTTUSM7Ndf0SvGhclZXjBLtr4wG9ZRoQvlGUqrp2maKtow8Z94yETHroiPrNW0ZzFmpHYVHOMN5aECB/yo17bxrG5IBFF6Rx6c6ljWDWHt8pUEeMeZh/BV01RAHfCtB1mEgNgs2Z30AaFDAhYFKCoj3e81vAAmgCfHRQh3T/r4nJaxO/WvGZSeia9i5Qc0ogn7sm6BrJQQPoa7tW0C/rw7Rxbrjzdcj/3AeE//XKpJrwCilnR5y5Q6RC+dYPY6ZEi6HKfnXcSf2Cpre+SeO2sfVltW6wGPCdOpe9qGanA9q3iiIg2YoCgxX5Xsc1BUIjy81TdNghlbw4x4DJGX58ZB41p7Ax5KE49JE8fYjl6OSCgPj4V/aU=;K3kVfwC8zMvVOTGrVlegBg=="
+secured: "gJhdm+b6zpru2eqDtaxAAfXfvgu4AplSnxa7qaGAGKZ2RyscuiGC6kbHNQi3OggBa+u6FqHmThdb8Z5UMNsyYTM2DBd779hVvTvqOSHgcREjtPKky6vYZgk6C7X6jUzkQula1/7tQggsvkSd5JANm6TAMhpm7qKrgNPelWzpd857X+sA0Mq4BII1vnlA5ZvuDlH/8zGJA9eFZyEA5SFxqqNR62Q1Wx7mbRIypvqKfD2gR0SNJ+9eP0bAb9Xtg5MoG03iJ2Lj9AJExM7/5dPACtbFdsMJXSpzTPEteJ4JqoWLWMWw9s+r/AnmUlApAcG+fLg75ADyS/Tr6JoyPBGoDdcSwmY5RgDTCJ+IBd1IzAYeiaGkemGkLvpJzENBdlxJco6SDCSW1+z0IIEHGQyawxyjHeuOxWlBwTjrbMXLeyw=;kPwQT7YbYZFjeUCVhGJu5Q=="
 ---
 

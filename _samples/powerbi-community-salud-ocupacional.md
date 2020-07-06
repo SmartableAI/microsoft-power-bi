@@ -4,7 +4,7 @@ excerpt: "Seguimiento Salud Ocupacional, usando Drillthrough."
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Salud-Ocupacional/m-p/546163
 type: download
 publishedDateTime: 2018-10-18T11:49:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYjg2NDQyNDItYzZkZi00ZjQzLWJiODAtNTRkYzliZTczNGM3IiwidCI6ImYyMmFlZDcyLTc1YmMtNDI2YS1hOGQzLTFiYTgyNmY0ODI4MSIsImMiOjR9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 678
     isCached: true
 
-secured: "rfbAs1ExuuzGLuqT3s5IqbgXUn8V/dKlGO5b0DRFLGeFK+zw4Tw2mlRraWvT9V8eI2ryMQPGldQaMCS9POMXj+M3U51Znf7NKLDln3vwyf3YDw4MsNpMa//YbQ2IobOF6aZdJxGgZrdn2qv+BaHLWbgsja4T2mllb7ywM/BfR/T2dFQJmT5tfRgnR9/6VelVFyG48cIx1+TErK4hXOh8nKNoiQgLBoAQZipGkYWaaGZk7cc2A89AeXvl1zlHo+nOAdUUxMa6wn6sdQ+ffV25cNTl1HhyGFOrB0inApRpyDEHUk070yvqT/KwYyqEG4Bk313dTGIqbScpNCvSjCnIud1QsIuXDXSCvUoYnR5uLu5OnYnhPD6uFtol7d0hTPRmSeQ0pYd3vPO0/sNwdf9JeA==;QLTtxS85M/JcZRUkq2Eelw=="
+secured: "qvgSZpUuSjT3fhe1E0XYxI7FSub2JKpVGKMK47hm00q8IHq+MRXkqePWnZNnXOOCEU3ecgzA9eE4QzP2RrEIOzJ0EyuPZMLJzu/OejT+RMFGi1inR9BQMRGgL1VgffOGS4YW6kz7R/lvYSh7gI3J9T3O9YCyzujNiNiAqSVNixbEUNfWtFv4puXQZE/LJ2tRsYotFo4iK6aeYnvLx2gQBHzMpWYRtveOk/8VR8Vuq3luILUlV3KDS5DIjyaJwAgRFrtLsjyj1RfjHrz5+8LdkHi+1276cHMRErcLAhUs5LWcTM5s2sMvJcnXSgIsMqvDpM+Weh7hnR1QyzK+xa1nrgupDpGBpWrx0IZ0NTVtngMvxsN0Lvn1y1zPbVPf7S+WfiVqsBRuPJOZx47A6ayPhw==;spYnFFynRYbGezXGvfLuBA=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "An overview of the pages: Cover Page: This page uses wallpaper as well
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/MLB-Baseball-Batting-Statistics/m-p/566230
 type: download
 publishedDateTime: 2018-11-14T11:53:00Z
-heat: 55
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNGNjOTRjOTEtOTUxNS00ZjRmLWJhY2MtYTZlNDU2ZWU2OTFmIiwidCI6IjZmZjYwZDM2LTkyNWYtNDc4NS1hODU0LTUxMGY5MDllZTU2MSIsImMiOjN9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 898
     isCached: true
 
-secured: "EMQrRv3sf7WVInfh5kl3XzMsIYQ16RIJm9P70EwItdLkqkxoxPWj4AZpgsbRJAlGYnMcH6iKkDMHDanECIskxKxYJ2VgxThOH0NVNcBzsNlQUCqACFDy3WXUmQTBuCdqED95GI7L2bEl4WImVUVzzJs2CV2C+jGpVqmTSKRTUH6dAwmXFKCoMhcJGlvxFPWiJaGt083CsmZDxBe5Z8JoBlT0F8mUesBwjgr0ILgu021PKDjVj1xtYqdwo9Tuz9wzILc9NiHQTGUljZ/Xo0ggJbIL3DccwxA2v3tmp3+0+wrUcBC0DLtQIibVPr+7opEX1imiXYivnOBxwzcvZr2uhZ0GvJoLmYeChVKN2zy6vyK8PpMdQLQvqRtSIMHAaJodQGlr8oft/lO08+gdrucHCA6TJh5FHBIkQlYOqbCyoVA=;7Ug93lzPeSirNXArhyT1PQ=="
+secured: "Y0zw0r7Km1sxLYh3ofWT/00g3rpYHxsWZ6c+iVY4DdnJwpqIR/89k247YHD0+gf2S9ohg+bFM29awOGpxMZKTPQBvt7PP1nVZGtAsoZ5KO4sREWjtmdUXpUsD+405LoUfgR5vVFmCfCU9XkQvbCSjoPw8BeM7eN595Mg8M6s+rfkId+FmkGiir7qFL2funo2zSgGlt1TuPqFv2k9iP3hbeVbz9Gf8Tdrrt0BIOnke7FjYDGDYSYwzb+e+tvkunal3Gx68mmcwhhDG3tXZpoEuQ23rFaioRq9juWTrF4SJXTMXxQCp9mDkSABnQc70FbOiSp4XUkm99hK5qpULMi0jMeikE20qcD3x7dv4oSjwWZoJVP7ZPEWlKCP7i2Q5ZCvOPH690r8si3n/CdP1bb8iBLAsSks2iemvq8sgz4FXRs=;0TmHCQ9zRHilkAIdKi3d/A=="
 ---
 

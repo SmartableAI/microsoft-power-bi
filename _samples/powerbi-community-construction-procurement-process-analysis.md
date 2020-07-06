@@ -4,7 +4,7 @@ excerpt: "This report shows analysis for work packages (associated with equipmen
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Construction-Procurement-Process-Analysis/m-p/792469
 type: download
 publishedDateTime: 2019-09-14T15:12:00Z
-heat: 53
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNzRlYmJjMDktZmNkMC00YTkzLThjYTQtZTFiM2UzNWNiYTg2IiwidCI6IjBjNzk5ZDM4LTQ3NjQtNDJiYy1iNGZmLTIzYmViYTljN2ZlMiIsImMiOjh9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 776
     isCached: true
 
-secured: "zgIRO/Z3pfpf03dgYx3q0IZYWdnbOpS2ZWRStYUjdWcL/+eHdzlNDvc4rR7LFDEdEOGc87ulTezIi0pghmi+ORug+YUHD/elCTuk0RVoGtxU09xcbPng+WlRLGyNt9V/oKWyAvfeaWAJmrzhDNUKldfdfSK3HRTfdAbhf8yhGJgkBVbSUtREQUUMmpbW7e+cCPSvZubSoVr3yGSX17WOvTwXArImgkonGQAifhXMB2AbSNSeojOStt3OJ7mWdEmyX8kKm5lh66MA7choalIFWxivrg3iwDgaNXBHRchBgeAFm0vV9IszE2y2KFtUk9Nh+FwhBKQSSw/7wz+2fr4h0j11lOxR1y2AHu1M+2b/kVYsBLKb1+sovhopStuU4Z4XAAwHDeYjO8TiiMhA/FSUow==;SQZRwemuJEgjfZ6W+dG6gw=="
+secured: "6qjsB3tLxh/QmpWrij4rE8t6GaFKZVcuN1uoot3zkGtjpIDCaNnLRSkatGW2NuXNRLMqrG6xa3Jmj9bANd6X4Nu3tB9h2201qULa6qAj3DhqnH5ICPI6NfFgaytzoXZM6+2Ieecb3OV3f4CRv39kebB4lq0e88QJcFWQBEXbvIjmf9g+7rGIjcyaa82bD8YLV9bU34pYO0zGeA+52bLqayQ5vG+vw22NfTiGVIM+M82xt/zhCmsm92V6jSwe15gzKvlKQNJYjFUKyYP5+5En12l+XY3GXXBC/2pOmnOb+lPjCWN2HLABlPfxWCAfpSUkP+ZNnSZUGD9YJLILymSwMEDV/Tjo/VyLYqP5HN9EjzgAzk92MgUzwdL1WQxWumYe4rBCorSA5nNfDEbV75lPZg==;ylPM8iBsLrbZmh1yz2t6rA=="
 ---
 

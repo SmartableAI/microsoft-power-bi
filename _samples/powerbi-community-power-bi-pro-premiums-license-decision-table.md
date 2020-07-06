@@ -4,7 +4,7 @@ excerpt: "This report uses the Power BI Licensing options to demonstrate how use
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Power-BI-Pro-Premiums-License-Decision-Table/m-p/286102
 type: download
 publishedDateTime: 2017-10-21T19:03:00Z
-heat: 53
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMWJlN2FhM2MtNTVmZC00NWM0LTlmMTQtZGE3ZTgxMGZlYTQxIiwidCI6Ijg3MjY3MGViLTA2MDktNDBhYS04YTlkLTVhOThlNDUzZGQ4MSIsImMiOjR9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 1146
     isCached: true
 
-secured: "aMa5iWmFq9HUYRy8ISGfgVuO7Ja4BZF+lbEu1a6VmcgTnprmB0msWH96S9zsYzkng2YyNnKQtDgOg9awwyz8xBY3lbA+UJOARYKVaWq+eNhba/Z4UGtYwmoI7x5f6A6SSeFqP1jjOvMYC80PJfNqaZB/8hsrcwyWUx1h0NV9ugUChvtkWSh7t5+puFupoRgtkcSeY/oNy2welvmvo+09Y0Gsr+JGslQQOZDHQMlHg+fE9ndQAzmGW5JkhQauLrmkJXQuFDeIHM0qn5o+1pxHGe0MfFTm5y8ly85ahc8pwRvemjdS1aPUjotz76X/XycEOvoK/jKwwxbo71AOJ0g7ML/yZBxAt3K4UJESj8asZ5eId1/9bP0gTWXN3pah9N9z7WbHDJl51iQnPxtwUgdMeVvexsIPOx8Q5WPwklixHvQ=;hAEklnxFqJADXWbKe1PH7g=="
+secured: "J196A4FlFnKFxvMKvbS7X5ivgvkhOeL60EHOtQ2ClB1DJdFNm1TQth2abrzxzPohk4XXLGPGKobiJi0jG2zx+P0Wm30dlVH6QnRAg5XBUnCK433k/76VZRC6oke9qhqjuJFwalJie8zM3eTk9lb2VH0EJmkyq3a6hKFC1mETzOi2tSouQbaaH1s9AaysM9hX7Lo7JUcqjwEMztloneQQvNBHXtFcoYDpcNRnzYWXRx9wUMMQZTCuZ/+8F9uJeL7BWj+t3DtTIGDVnuPVL3YCrEMYoFcSNp70Mb5fl6EpnW1JFrbYGk1Ce76w6o/Q2pX/wZ6SLzygJ/XVQrZ4YAxFn/4QKE1i9x3pWqTBNsgcrnbSxTi724TAYttwNsF1TV4jpxi2iXoIVNul0XWmyltL1xSYUbFvxM15yVmlH5YYFe8=;qQZjb7w0NqsmmIqhetRU/w=="
 ---
 

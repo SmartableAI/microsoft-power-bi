@@ -4,7 +4,7 @@ excerpt: "Like many of us that live in the US, I am alarmed at the cost of sendi
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/US-College-amp-University-Costs/m-p/361437
 type: download
 publishedDateTime: 2018-02-20T05:47:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiM2MxNDZiMjEtNzVlMS00OTNiLTk1N2MtMjMyMDMxNmZlOTRkIiwidCI6ImMwNmEzNTVkLTFkYmItNDVkYi1hYTI1LWM5OWRjYjgwOGIwYSIsImMiOjZ9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 915
     isCached: true
 
-secured: "qxhlBu+y7+EXSkfkcvSuBGT+G0jCOjjQK62B9Y6GIaNlqwkXxx12JRP8BrQWUBvoMbVXlWwKkfZWexSxPQSZdWmAjniTWY17QGJWRvvi0e/yquyK83PWJLq3exR+65h3OrAAZJwtu/cJp9WL4Pu+saWk8djIifICULm5kHWHFHdS1es5yCfD4zAkkm5mL1PsuS/KVj8nXa6+vUJULElGZ7M/Ns9RsA5jk5zEcUMeqdRToH6zXmeNcmpA0KYTT3oeczf82u4pB2qUfHRoTnKv2IoQfgNrPSW+O9HCdtaYSCSpQ91VC98odxf+8ifXR/Wb82hZ04K0OtBgHP6IHgBnFMOtMQdXu+/DmVWTYnjQJb1Cmj4IXTvS1jMu2ffYF++uQbWLPw4MaZo3WQMr2HJWVGSf6lT5EPJMZtTZM37tP5E=;hAXQk85PwH7p+4CetNSkZw=="
+secured: "NJXcxtaycueZKm8gDygWDv5tFCo0AHEramev63zcXwuMrIFJCHfbh8QD99XNiUWO8VPegKQjInvtALpQL30OOLe0FvN7gCENOlxVfugKSNs+J24oaVkvrpreJ+H4sibhtBq4ESgQu2ikyQoTK3G9tawV75qcIHeVQHAp6R0JwNH57/VdS/GrIaI/iV7hK1BNN+mH+5CUtVDx1Kwc+Z1h8IPC8Xru32OIV+dWQK51ys2ijgI6XHx2mBq36ni8DGncAYW2lprLnG4lFvnnJqlLfbT26bvKs8y5pKtUEXWcbgVGNu2OLvSJAIsP/87w0RT+aKrA0BKt/Y/2XUyw3lUqkBXhkregVDHfZkNCoo11SAR5paQm+G/u3dqTcQU6GEf5M6YYUkqC+88uIkzJ4O7iBgZUi0DdLpmpnTKcuKjNoXs=;ddxk3VPZUyZ7e+TMCfAIXA=="
 ---
 

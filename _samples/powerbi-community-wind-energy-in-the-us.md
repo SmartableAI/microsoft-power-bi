@@ -4,7 +4,7 @@ excerpt: "Which state has made the biggest investment in wind generated electric
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Wind-Energy-in-the-US/m-p/627233
 type: download
 publishedDateTime: 2019-02-19T13:35:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNmE4NWFkOTQtYjk0ZC00OGM2LTkwNGEtNTYyMjQ4MGFjZTkzIiwidCI6ImUxNzc4MGM2LTczMDgtNDc3YS1iNzY3LWZhNTY5ODI0NWUyYSJ9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 712
     isCached: true
 
-secured: "bFg97cL8c/onCOt+Cm1kN5H7rglSI/JlRwwJryMhsktCt1VPNbhCA6D3S23emDM4wduJBB8FgyqGqMfoPx7+KkQqZzZtWlxoY55Pckhbv0xOA0rQy230/PADs7T8PxUEEDHjykPRmFuY3tf4UJyiiEuoi6D/XtY00KEyYNXj1F2zexB2S5MSDZFM+MpmYhOzd1N3mRcnxhg/5LO5PkxGdWY/ExW+t/Osi4U+UvnTEQxMR5MZ58yzJ4cLaLXUMpMqiBs9Ild4/bBIVZrzExH7q3lzkBckvT8pcuTLJkjXX/ETA29lasiZmBft8orZJAKvk4T8QXtc0+rA22P9LI3ykP62tE7i3x61T+ybZe7086OZf13ANcHUvV8JzyJwDTa+we3bKzq1aWUNoOFka+igqA==;DTnbwVTg4OYGJt4f6rBO/A=="
+secured: "lrrxgQqPByKCggXA+4Nh83Nmz2WM4fsS/FwGfJWRk7Oucywhr5KrlhAT4neQ2bXa29BwNhPHbwn3VUfjINriLeze+AtgzbXGmU67pnmFIac5teXieaVObdw6ozdBNHAel/FQ8pAKwIiRtzn8F5SYZwTAAX1RFL+YVAthzWM1C0HQfwgjO1j4MrDyvHfTXzz2riItBk35IR64TByROL1kyKAUdx0sgHVlSib7y6hwq8nqL4NgUrSG7BEVHwmNUGEuFnNhhc483aHjrsznDICA/j8AG/YXM8ZgA3bMxHwKfz/kqemXvQMyvMkAu9l018aOvoHPZUxZPujJP7cDvWPZs7aBEjK8KagJ1heEqUUa5Pn7O8QyyviQV0zs26KExLl5mfpeS60r0SmUGm1a4ooRIA==;Mxf5t6R4zg+CvfZuLqR9+Q=="
 ---
 

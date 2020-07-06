@@ -4,7 +4,7 @@ excerpt: "I have used a HR dataset from Kaggle and created the entire report. I 
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/HR-Analytics-Report/m-p/821924
 type: download
 publishedDateTime: 2019-10-18T05:45:00Z
-heat: 55
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMjY5OWYyZTMtNDNjZS00YWQ2LWE2MmUtZDkwY2IwMDNhNDcwIiwidCI6IjNlMDlkOWNlLWIxYmYtNDRkYS05Y2Q4LTc1YzRhNTJhOGI0MSJ9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 926
     isCached: true
 
-secured: "YJiTJmCOvwYY3fDE/k9pIYaSs/yzCIRESnxqIZY1mds8nhz9UaGRe5laUlL2+P3Sw3QnRQVcENuJeE1n45s7wRzNQ2m+/jTYZMhusx147QpWWbSAqfIjnB/XJwbjXS6uyX5DS3I+Xs8udlWWrj1kbq9KBopDYOZg5PLiLR19Ud80FD31Y7Y8mi+kMPRNavfEmjIBZ64JqVNoIOsoN2WT8/3JksQUsiY2NutWKTvOi7kTY2ZnOIrP/0y7c8atScphk7ItG+fgHOm2QWBXrJqG8X7ywSUmDneQ5NDWDymFtMYXFfEO9y9GaRlup+nGSAzDkO1jHDsPKGkrlunXDu2HyjyIcWCVQ8tkQYi60+AXDdzTR8i9ocQ22eu73xXj+TXjkufkcN7/oUx80GHhSejgTNgv3dp5Nd8BDfHQ80HhLIw=;qxxRgbtELcCaHzuvsvmLVQ=="
+secured: "2IN/krfZwYOqiDaoST3uKcFEXsjTafxAJBEboyo7dM8KGSy/hoZ9vbWdUNebRSLWU7h+b/wDLMC0lgkYqWBAf2ZC6NrMB68erpk+dMvPUmKFReQm824SO9ZlUNZ+QsC/JHucZXAwSGJ57xTYWESeL4VIaCuftQizjPGx/rnRVSe4vPubHcbFaREmQXQ6Gj3Kz5/ZSLmbRr+QMvg2X0QIYPfpKvR81g0UXf91keZCTEX+iOV+IURvBUXbwHjuZWfM/fQCWDmUUn+uHf9eo+leFysSkBr+5yrhZKr9hFx/7NVHMw2mTkmHPP8uIG95jpyLXeI1W3ievipykIqB0kXHqKI5c2fH9cgRW0PSARrSF/TiUGAxOFUFOphmpX6Ugl8Lny4mbJtEKiAlAkRgkVBhfPKDg5LosfNbbYu6Rvm9ETM=;Z3Dzrua0YXRLl37Hc/LAcw=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "A highly interactive dashboard visualizing the demographics and geogra
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Sanjana-Are/m-p/1128166
 type: download
 publishedDateTime: 2020-05-28T20:35:00Z
-heat: 66
+heat: 55
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDQyYmEzZTItMzY2MS00OThmLWEyNWQtMDA2YjY2ZGVmYjg4IiwidCI6IjRjY2NhM2I1LTcxY2QtNGU2ZC05NzRiLTRkOWJlYjk2YzZkNiIsImMiOjN9\"></iframe>"
 
@@ -44,6 +44,6 @@ images:
     height: 230
     isCached: true
 
-secured: "zp5h909QZ2f/evOBl8jurxhgvzYdEaLSHFF8LrTVHKkrQk2rjMUEFkST2gXrzQgnz2Pe/mv0vg3V/vF5/VpNySVj8e+g6emHQLJqDfAB0C+kjcpbfPEGpk4EU6FhgQsX6PN8cF82fT/6V0+1u2s2hYUABEpSIbjjsCD9mDMGTXxbaJXsQiQ/XAYg/uMArFUWFdO/WuGjelKvlQnjaZ2FI6a5r8YGrtV9lJoSFT1L1TLAw6Rvo48AISwBi13ndZwHreKzA6nXeyGW2xrUUOJZ0NwPOLidyyE6EDyuuiI1Z9xcswp1acM7FXut1kIogEZlXj8Bjzr2D/fc6e7zfQePf26d3s+wLup0RgfBS6Y6cuHX4PUjSPAzTIgxPqvycf0PLiKmD53ciJJ1ZVTtVVrkpQ==;HdX3WdSI+OIQzEbz0n1+6A=="
+secured: "4jaENn5482z/BeVpMFx41upZjXmT0No4oQyez1ac9U0wH9VNlGNB40e5H0zL2AJ04xaBBzILpXHWap2saqXjUomx8Er+EFMT85Sfb/l68sajE42D996GBM/h2iZSUBSkjTZWpEs/5asd7QSts8abIdtnxar7GhCoxnzfnNLFOh2N2ehdSDfrTyH4JXSHCPZQBGszh1THGMPEkSxoLwwMPx+/T8i2JCaHvcsYstYjjAvyTaxDkZS4VnO2WXaXqECYYJe/Ov3+dvr9o2eGEQGo9ElUxiqhAWMDO0XtI7H3H8GmeowbzPAnaEmkCJ3Efp3hY0sJ0+B8cha34NtoNEuwm5MszR5yd70w/Ho0taCAUMUTPMnpP7D3aIsJ8Ow8gKfKHyeKrGWcO4r4fK8iHcr9pQ==;fF6Ybv6Y6zxWADU1C8rNhw=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "Global COVID 19 Spread Analysis. Mortality rate analysis. How Covid 19
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Covid-19-World-Wide-Spread-Analysis/m-p/1189905
 type: download
 publishedDateTime: 2020-06-29T10:41:00Z
-heat: 129
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMzE1OWU1NWQtNTQ1My00NTBiLWJhMTEtMjQzNWMxZTZhNmQ5IiwidCI6ImVhOGJkMWZkLWFjMzQtNGFlMi1iNDIxLTZjZmEyZmNmZjI0MyJ9\"></iframe>"
 
@@ -33,6 +33,6 @@ topics:
 tags:
   - COVID-19
 
-secured: "HfzH/r5o/be1SFZQCQFswyTY1ppcXLjfzwgEgYJ5aQctu65X3keV4V2Wex9OkHmWr8N2x6vVrJefBGrCaxuxunM6gQ0s43MVg471uPuXYgBeutTjWKHiUg3bGdruNcN0sdKxINxf0+AdXxuUKl6wz6lBDlM6zkaou+WDoFGjDrTnVuDqBhpVaS4sHZ8bYOhPpsATkF52YKlI5N0u1ULq7SUVwmtQUOLEIBcx+aM/s/A7+he5V4sLPeCK7a9fFB9Qw9i2twpqys4/a6UCyaqDBGvKGVT9BpYY2WXSvJsxrjMsvJBfGFpnSwk8IiFc1DkFhVBBLUxQqfeMmUgGX0dVdgNRWsRmIqn+FW8uE2VahOtJ7RXVc6zeSjYRDNQGWIS1;Ju7s1emKub6Nm3RMTujdRw=="
+secured: "vXFjbvKBrHpIn0tCIsF/PWpysGzVTgxTJVbqY9NIN5YANMpAuCSI9ksHla8tuPDGNaxJYKZ7GAvOfpSQ1sNkX9G+rJi62hKdlHqnDEuS7S/xqM4xiidRpjBYOJDE6sPaV4WtSw4Qe10jVFTTsqi+iyKW5I1uPITGTgN0SxwzFUiB+NTtEcHkhpXIHP0exXwLrF/pC0x20SiaM6nL9LLx51tv/Sis+mN7vjtPbAPjnEtptwgxHfOX/kcYKGeg2HEjBTX5EsTJ53iowDe4M5QZGnkAG7At4lyJ9yVoIfbKh9oF4P9+P0cakdaf1Gm9y8bxP933O5aGPFa/pplo/jayDB2ERmwpWEkoGXhaDqgU1ioTWSqQGtpMGoFv4mHu8MHaoWFGOEMrQnYMJ3j9bdAcIg==;5tqI/4SBVzn3Sq38klhMKA=="
 ---
 

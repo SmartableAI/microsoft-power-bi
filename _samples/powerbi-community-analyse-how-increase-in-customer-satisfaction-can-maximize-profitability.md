@@ -4,7 +4,7 @@ excerpt: "Customer Satisfaction holds enormous significance to any organization,
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Analyse-How-Increase-In-Customer-Satisfaction-Can-Maximize/m-p/243229
 type: download
 publishedDateTime: 2017-08-31T08:13:00Z
-heat: 57
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMTJmNjc4NmEtZTk5Ni00Y2Q2LTg0NzEtZWU4YWMzNWFhMDM4IiwidCI6IjRkNDg5YzRmLWMwMDMtNDJjZC1hMTZkLTdlM2QwMjFkODFiZiIsImMiOjN9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 613
     isCached: true
 
-secured: "n2IiUaLHQr4PY8aHTygkzbPog5mvCfO3mO3q4IFbXMYinCH7+k+fQMeJDEoLx7qAJPerW6SdTQd0tm5HmuCcUoG5qct5NlVWGrsR26Vab6JtsLQXeU46voETUohM/PApiAwEOG0fGYO65QWIKo4SWxGRySdZoFpzwq+i4TGWwjuTmzJENF9YrrVVxnVXdnOg8hs4v5dYbzNN6hke7P41vDUw+1YwBzFuQYCDOjjtXA0NG5UB3FqUipafwKKM3gwFKXRjz7yec9VxXkSIQqTIDX0vSRrdpnFkeCyB0BTD9E8rp9YHqqoubQJkJwSE9RPx5Pof4sl5woxGa5kHQf4aZuK1PF5SD+dbMCRw3/9NNLN3r9T1rAUTXXvYzHzY269KFZox5MNMsAgNI+sNrTH6IqemaKjexrkrb3h7+C+LPzA=;s+NJpyXMqa6a5CEohNgqYw=="
+secured: "akrA9DQBnKvCFzrT8nY9J1YJKo4qA/1QboKc2fhIdP8kD8L2jvhsyCZ//05/vA9AvFC3E5asXLOzmQRcY/jCh5cqyot4EPNKDj1+LhpL3c5g/xDFwQmBJ+UT+oPwcA43Oc7aAUKbG+lVROv5XfBnMVBMeZmYsMySZeJb6fWpta+sHrb2RWJFVgRV/6XvDRxl9VGFXouFsf9tv/UpvZhhqoL5z1se//kjxUCZByA6jTa7gryMfHcYSyTMnOAwaR/X9iOZv/vfk5sBAf+eVeKLw7CkLwJUprKGbfJ3wgePMZP4fDT5GHeDKNJuLTxT1+60KczYkD4QvdRQZivkWmoLJ15sa5Dnmx1jsX1TTDT17tmbHZMCuiNfZID7rMntS/NBdmnmm4ueUMCGsN0CbeElETR/i4xxXkkoPyQk99CLJ00=;gXRTOkJqeilxFrDd+Eieeg=="
 ---
 

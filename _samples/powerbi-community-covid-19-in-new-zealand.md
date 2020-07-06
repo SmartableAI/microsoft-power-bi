@@ -4,7 +4,7 @@ excerpt: "This dashboard presents New Zealand Covid-19 informaiton published by 
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Covid-19-in-New-Zealand/m-p/1083078
 type: download
 publishedDateTime: 2020-05-10T17:59:00Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNWI1MTEyODMtZmI3OC00OTdlLWI1ZjktMzg0OGM3M2E1OTc3IiwidCI6ImEyNjJmYmJlLWRkNTctNGYyYS04YTc4LWFlMTUwMGVkNDcwMiJ9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 1563
     isCached: true
 
-secured: "EZCCxzenaVao9RCRI+AH3EAtpsRXL8NE4NYDZOAdOGho4psIVFb3hKbrrVIJLKHsjWzbVR5v5GvIc2Zq+lcI7PXq0gfahhzsFNcOom7J53TLgvCEh7Dpdb0WCsaQlXa2OKtvIDsUgrtk+t9hKthuOxwac49gFYoMWAVPl/FC24Cb4jgqY8u1d2q5DLuMnhSm28zXceIgQgxAzpZYl3WVmzdEg75IBbj+OZcE83kPX0fRf/A7z+1nK/q2rxG80nOm4N93gRwWi8NFIqIfZbTpZXpVduScwo0ZPFYFWai3WvgreGeZbO/ymi1fYsf3XAVNeAot+HvPWVarkOnUTbnqsYpuCiFHyrkhyVw2LsPKNgCH69TaOiWaWbnyG+leDdPRFd4Oz3ZqAwiGg6vWC24RDA==;qKNPh4MbNgkSx8z2Guxhew=="
+secured: "0nfaay6iQ5qEPeYPgt7JNnBoIIwz8RFu7f9o2yOGZDC63b3+sO7/KLYOZ0j7kbMVLjGjOoiZ4tHw5MfRsqKJTDjcRoSusiDy2jZrkRXlxQcg7N4Not3dRpPmIzPO9i/Gg7m6z+0HmFgmavYeXlTvwCjN2tQcLJxGP5MgnH3pKqiTXYQ/HhvO1D3y1KOabqcWc+YYc+Hg8VCihqOoDWKyiEMygWgodcI/EcxPTD9JoY/ZfIXhQSoRDKQlwZVcLactzEQcpbrbSWWwRs/H62Jf06yHWO9+yu895z0D9iXMwCgUM32qdEDzk+wluiRyoSOsZea5cOkGsR5zpIDtCyvlNxfYoVp8R3Xlr/i/vQ7sys7pUHdpRruhxjZiFVMXb0gQYo3gm8ZEMbhZL7ZMIkzqtw==;B2LhstCJgU2uihgOEs5ZXw=="
 ---
 

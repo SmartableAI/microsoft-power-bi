@@ -4,7 +4,7 @@ excerpt: "This is the current membership of the most prominent Hungarian Theater
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Katona-J%C3%B3zsef-Theater-HU-2017/m-p/352300
 type: download
 publishedDateTime: 2018-02-06T00:53:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZmZkYjgyYzItZmQzZi00ODljLWIxODItZDVmM2RiMDdkOTg2IiwidCI6Ijk1NzY1MTNjLWQ2OTQtNDA4Ny1iMjExLTM2NjVjZWVlN2VkNCIsImMiOjN9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 2316
     isCached: true
 
-secured: "etegPulyf6Yq3rWFMwckuPvQSKp3JT3ocH49pfwrmH9H1AMxKlmA7y2HUAyxWurO77y/GPIHnZT3LiBFY+B4tS7CCZF3Sg0J793WYTC79CF0jGhjGlJDqqTLhf7CXGXPUUIqA4cG6s1ypxOgPd7mIXFvyE2E4QQh3gQDaIeN1zKoVP+X7CQMIS1uMDopSJtARLkOMUdCy2Mekoq8hxcD3zmJLyA0TSL6LACxF97mO7XjQIZEdqhW63i2co8ewGjqBJtpintLQHP8mxjvfpOmwRx+2vS2+ZboIbVypNL0v1Jp0yNKxG10+ZGKcYDinoFbp3lOSBislV/kLmy6w+UfiFa2k65P5nLqpnG3fJXWinnKh8/H8UMHp0ABznQ+mZc4x9bNRQVTYFuzDwU9XmX6Gg==;ftALD7UIyaakIovGqP485w=="
+secured: "ThsDs1MUiV1SHtHTA3M1Z0A0b8q4X4x6aQheZC9m8xHiEsBUdlp0KdmnGSLXGsnNBtDiibggt0zXT6H8UOC7/pSJ5hB+majF9BPkJmw1s77bIZfIZ/aF5qtMyFeagWCH3Z86vZN9GPA9KHVrntmNnzMb74ZwIgA310kyw4trFezdmY8j+ynZlHFvIvGq8hL26P1k0tOvz2V8o53PRuUnYcM+p8U9wIIP5dsTv67WwnRqLaWcjg5GwMP2TzEGaqBQY6+AQ15FmhDuYQciW1v0rJh0LPUH4SxtKInRzL/Z6g+UnJv0HiuVaGv1JqIN3VnqdHkDs6dDHq1sQYgMq9qxw0e5aXulg0Pdrbw6qgZ/0W7AB+YqkIrz30PmAD+GxCH5KmsPKgLrv9dOaVhPniAeBg==;zWa6KX0CqysLV+wUVypuEw=="
 ---
 

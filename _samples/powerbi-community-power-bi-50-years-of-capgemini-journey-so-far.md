@@ -4,7 +4,7 @@ excerpt: "Here is my attempt to showcase Capgemini's journey over the years in 4
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Power-BI-50-Years-of-Capgemini-Journey-so-far/m-p/348127
 type: download
 publishedDateTime: 2018-01-30T04:59:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYjNmNzI4NDUtY2U4ZS00YTQzLTlmODktNTgwYWU0NDFjMTc2IiwidCI6Ijc2YTJhZTVhLTlmMDAtNGY2Yi05NWVkLTVkMzNkNzdjNGQ2MSIsImMiOjh9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 652
     isCached: true
 
-secured: "G7yxxDsWbCLmOZaUtVhDseCi8qHnst3ttJomb8o6aSvahbYOD4JXMnBS19lud1y/Oe+Vd8iTZ1ajOaqb8RAiuoSWho5jpsb7l/Ou1M6Y5InPH3KT2NUuUY3vhzgNCDO7eM73lM4I8A+Mta7VBbDWtF96Sl2CopX99+DEqqbvTRWHVW3qCL595hdrVL/vyG0oc370LJGCYRXPq4BbYzXUUpism4RTX7zNBw9qtOJ/PecbyhcspWMYVBKagkknGivINAdvPMg3gTWIMcQw9oPQmw9ZHRchNRHXPFWSUYsaS/SETdG01yafAPRazJoM4y39euFvkwELjCTC4LprLesIi9gHuDy2r1Thb3vW0VXoY+8gnibZkyNmuujx5P2LynIT8l25zllXmdFBspoqbf3XCRNOhrw6q1sDNtOXtPkaes0=;y3J4sVYFKJjugxAJwAxCUw=="
+secured: "/QqhBYkH97+1sBewG5U9//LRwfv6K9ztLj/apEWIheSIpT+ANneaBJzR/TTUc9UI1qS0J1mRU8dkTylB1ijiH5CBTWmZOzTseOcnVbFpFTaKQtv2E++YSPpbPcc78YROg94YEDtcDxUwwkS+HA+D1T61R+AXh7sBeZsapojgy4suzSPNNBuhfENuHokh2la6qUEiNhOG5C7UVRQ52C6Fd7eNk5lshkQpaejWLGFGJGzhg9fJ+P3Pd8FJMtvzt7GA+zqfDv0xfIuPZ303OeLiB3CGT7kPeOUNMYOsc5afT2SmJcCU2ppq27xBkDjuoJENAIoLopB45+R7gZNtgG+fmmcn1wBRuR7wKxDhM2iFeVs3y+TNm7I7Ux+b4bBKqVheh6VB8vqKlEl7Chzwbr8u0HRdy4LOKHtP/P7kF9iKzSE=;4EHBbU9NqCnUQynFPDl2TQ=="
 ---
 

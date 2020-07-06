@@ -4,7 +4,7 @@ excerpt: "From Sam's Power BI 12 Days of Dashboards series, the 6th day of dashb
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/8-Day-of-Christmas-Dashboard-Meetup-API/m-p/105150
 type: download
 publishedDateTime: 2016-12-21T12:46:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNDI3MTE4NDMtNDM5NS00YTVmLTgzMDMtYTkzM2E2MTI0ZjgyIiwidCI6IjA4YTBiODI0LTU2ZjktNDk4My1hYzhhLTNmZDM3M2Y2ODQ2NiIsImMiOjF9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 1088
     isCached: true
 
-secured: "b8mIerpoa1Ld2X21zFLlXJR82JRAFpSq7Css84X3HcMM0IVUgAjrjR/YbhZgZXO/NL9ZoPmGEAeqizAl+Q7QWTNpJXcDkzQZEt6PhMAy4q6OQ+z7du7IuQWxfCWPQpVUByKvF5OhXHsbLDxWe2yqe1GOOTsqcbvyvltJOmxUAylbY8+Ixl79CxuFJGARwAF8WAbiM0TJxI8M1mWmBU83IQXQEM4kXjGECO9TbLmXLlOIj+cQ2BQe3IlIrFlqqj6fhMp5fe0rMPYXveiiPV/YqsknhQ27QnJfpA1JvNfGKL2G3w6cXqOTMQYiJkGj8Jz0agQbYwEBbDd14DBdvLz4EAYlzQmLnygd9Y8dJbGK5WtuqzQBGykhd7/PksYJVXcxZxe85hv0LmyERiT0BqKUqA==;bhUn6SYkm28nPNqojIEwRg=="
+secured: "U51VJvY1zEWehD7CyGQ+EbuTTrV5XEWt7fqNATxWmwkv9T/vwSMG7hcGrl4/3lYnnszorGxAYqKhWbK8NV2jgdM143/cwC/sq2sVnt0uGDFS9y9bwxjwz8xIAEA96/PRPK24okYkLhjNzVn36lH4lmF27HuZPTK9GNBGXpeyQfujzV9rP80lllqfe/Wu+wO/T6K714m1SQUpow5fd9naB/RRWHmJQ/l78Yo6FYzs7EpP5GQfpOurvxocRpVTuxPLiaZ+wJ+1lAjTF1/ZmHEwmqcO9+GV6R23ip8sbMBIRFHvjMVUxvrh9bnvtWwhiAFrTo/qobYxtt0eiMykMsA9aSh/5Lxd7+h9owX2d7Qcy+Btvx1vVJSVu5zqDkl/OMnsqqODwEI9L/Sy6opBcknFMw==;TbYjB4seZPuFK5aJgvTCaQ=="
 ---
 

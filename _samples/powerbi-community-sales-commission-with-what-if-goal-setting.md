@@ -4,7 +4,7 @@ excerpt: "This is a simple demonstration on how to use the new What-If functiona
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Sales-Commission-with-What-If-Goal-Setting/m-p/235539
 type: download
 publishedDateTime: 2017-08-21T17:49:00Z
-heat: 53
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMTFkOWRlMjMtYTBlNy00OTgzLTgyN2ItYjJlMGVlMzJiZWEyIiwidCI6IjA4NWY1YmMwLThkY2QtNDM1OS1iYTNmLWIzMDMzOThkZmZkNyIsImMiOjF9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 343
     isCached: true
 
-secured: "Yoj2tbtrbAWp3FIIXZfw7gcj9R1ukgKQTeVjT2ep01wAPJGFBSD/NqtbYfadFCwmepXkikUIDn7p7XeX103BX3C8YX6nAFT5+jB188XYPQ2l+IRKwcrINv3P8VMUDV45A02/gb2v6IxbJ8I+rx6vuiKEKJ1SiG5APWnniJAd31kFRkQFrlmXnTMGNYpXxLn2Op1ozSGOlosvrtf7lXEsS8S86XzgmQ/tw77vnDgXOXzXtb1p7B4grv6E6EqQJy05Ex3+cKfRygZKoW3ksnUKBE55O38KNRUgZ+ZLXXqQSmISxC3ZYiAxMn1IOeBJmNRiXJJjrg0juB5fqJBmOOkH0GstvYJXbhg7fi00sv7ztb/d+ewpHr9nfqDfvFms4UAgfUrOwTydjSX4Q8zgUIFJwjGD8LCsFwzrwUSfxVSPtQA=;s5KlPezKUz/3QVn04OCptg=="
+secured: "aKen0uMWrbb+/FQ/DPpjCHMGUDn1+X9P6Y28waq+6F/Aqforj73/14hde+hzuXfdpvtZ8pMHJbQzSX+odYqnlsiXWqTAT8BLiD8qeq6L9AfUBmGp9gcGMHdLlHNPGXOPrw0ytMgXeC9Tfqp7dXnS1Ha5S5m1udqN/N2QkOM9+6UEe1HiWkrFvsu7v3WIhvPyQvefbYfzmHX6Y8/NeBpoQMhB6beBx4RxKhpTvdYKsb9SIymmPsumuGe+65qmXqz2moArjG7yrRq3SA5qjyiL2UejIVeYCwoxU8C6YEwROArU4oDl6lf3hYvb86D8U+pxdzOO2g4Ae5oAepEJuETaUD+I9WqrbIY5eaAvs7vwJCFh51u9u5Q5NM36iz4jxN3y/LlWR5m0rod5icvyZHmgD59wARUVt6UOLHD1zc9XO4A=;gcBdi+v8USmqK2SaIkqRLQ=="
 ---
 

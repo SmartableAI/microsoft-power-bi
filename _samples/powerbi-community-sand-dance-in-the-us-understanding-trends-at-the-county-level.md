@@ -4,7 +4,7 @@ excerpt: "Over the past 3 years, I have collected data at the US County Level. I
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Sand-Dance-in-the-US-Understanding-trends-at-the-County-Level/m-p/141666
 type: download
 publishedDateTime: 2017-03-13T11:52:00Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNTcyYjUwNjAtYTg0Ny00NjQ4LWIyMDMtMDU2M2QyYTQwMjdhIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9\"></iframe>"
 
@@ -41,6 +41,6 @@ images:
     height: 771
     isCached: true
 
-secured: "jNYjrPKEkMLNMILI6s+l6v1O6FZphFyesnxiPNotQTZ8T/21yeRfy6YrHFsuvm+dbOVE44DQmYqPch5rFYplOqKm0txkrah1rcJSp0rlmnMcviUpIFG7Ycmped+za3zKl8fO+dp+tCMB5cIoj8cprSkP14LZmVxOcI/SNcVSnJzVBOrfgt/nDutd+aTJODPsEdAA/nq6bR1eL5s8VesTf20oU4yyoMqODB5540zWExAhXzErwV3uGU3WXPKcVr+UFhqXYSi9Os9QAyIXxECBvV5Z+gw0ODd9kJe2AUc7vOVpcfeYxbPeTSzvhEUy+CNNUuwu2FhWwWYWTHfbvidZTnZC4vAiFdNfQkOMAnovmqVQPQhVX+teNk5rzLkBuMsjI9O39o6p5HXEXm7krt7NJI6BX75oW64/ceGc4arNlsY=;aG/DgfQA4wlwGT0Rgm86Pg=="
+secured: "OL4VJa4XKQUf/uJMIxuukY0nvzo5bWTcgO48Au7QftVMRvKx3uDcMpU3MFoLuedinWl4sNlNxIuFDt5CZm+4uRlmrLhD8SjDhtTufP0dGM+XxNx98KjCMU3Fg8gsUhvdBSUohtSuXDIfa7NkbsvHAYEoBArhrDzY3QrSxIAw6mEumw9Ri5tni2m9i58FmvuZcvrdcaLFYOV/tbWdoyT8uBoisDmeebI383z+lRSVGz54zTsLlNBuBcxa6H5ZVJBHg2RODIlwv5uJJ1wg3qwgOps+nZL0RcRhnxpGyP+FHfDhyB8LRLobeGfCnypCvEyAgwoZ5o3xtW6zmeYrOHBCEIhIERv5LrWHR+GQBPwxG5e7vcaqRqDvlRtRyxU7v7T5j+A+UZSiGylUDZ3+G/am+SxFvlRR/UIya43zceiSkNg=;KDDgNUXUxbOTEBR2NhuA+Q=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "Who doesn't love KPI icons in tables? They provide instant feedback on
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Project-Checklist/m-p/227899
 type: download
 publishedDateTime: 2017-08-08T17:46:00Z
-heat: 55
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNGQxYmExZTctM2YzYy00YzQwLTkwNGUtYTU5ZjQ4YTVmYzFjIiwidCI6IjZkNjM4YjFhLTMyYmYtNGJhMy1iNGI0LWU4NjU1MzcyNmZiMSIsImMiOjZ9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 724
     isCached: true
 
-secured: "ES2IG21SJkdTDr1rb3tro5BoRsQKnIifEL0ZDqFrV524adYtDiNzs++IhZLiT7XmTIaQ1IlPXSq9bA7elv1UqsYkrtlmtmickHTSLE2K4hnABGcgHb2+LnVCQcv0KOAoMxXSl880f+ee911EcLFUyP5seA+4+N1/s/UzKyfyu/j1vOOYg7ztnMhFQJmeko2WcxQXmLZ6RFMf7rztSe8rIm4SuAMOE+tpPQsrzOxpJyYf+LhWfZS6QjY0FjlObEDqhznJjWC9NlfNQy0YVS1/5VcpNrNTH18QXwtqUWZGyDXP/JfiaTpeS3Ti/lOFu8Or7ZZvxF3fLQ75b9BcfDx6krGQIeXsjpwYzVhwr+uvcKdfNVdkRTui7psC2YVnlinDre04LV+6IVk4odTTQOpmHA2iICwWjwXf8EWZhGM3z1E=;1IUCOZG3m8uaO0KThmLssw=="
+secured: "4q1trrziCdUlq/a2s+ZCfUUV74myP+RdpCl7Lo6dzdJfH0xqoKuOkDABJRKFETCDaCIfiinMZjFpWpvKJJZffnesvbYDhPvQoaD6a2RxIlfIRy+hrvs7vIPPVHxIiRgEgVKuQQjmpGiWlWr2x3FGuPnQfyoLvHu4ow+TT7MRAHpwFB01frLJttQXq/ngf81ZMuAaA/RXuZMNVkOixqyJs7lABziP1byFYgqY2SYjgOQa6vxzSD+IUmCCNznMC5bTRfGM2eKqyQ6s7cvekEsB+RvGDCFC7gmDwc/+JT3828kUSBdE/maaCzeABC+74ik7sOdVWp3cLLgo2OaOQ2i3UsMnqMTr31mWL2FrW4tzr89zE8KKhXfr7i1pSSQ1ABrtWsTYlg2tGIMSlZKcN2hQKe18xwbBuI+iKIuWWorN+ko=;QVUKbeiVUfaHkms0AOcMCA=="
 ---
 

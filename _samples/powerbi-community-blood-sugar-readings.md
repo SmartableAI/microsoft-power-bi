@@ -4,7 +4,7 @@ excerpt: "This is a history of my glucose readings over several months."
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Blood-Sugar-Readings/m-p/733457
 type: download
 publishedDateTime: 2019-07-07T09:20:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZTRmYWMzZDItYjA4MS00NzliLWIyZTQtNThjODUyYTYxMTkwIiwidCI6ImZmOWUwODE4LWViZDQtNGI4OS1hYzczLWU1NmZhNmYyNTcyNSJ9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 1632
     isCached: true
 
-secured: "MUCNufr4g2WJchbG6dulX1+Q7B1HyVECxUFDPhBt73O7U5fxagsUSgKa3jhdcLAvJJw35+A+KRkv45uYL/b9cxf+lPJTY0HkdsJ/TH1ETXpruTKTEtoInYpyn4ahk2fhPV4zgDfmqlxJkMLlHDbokgxQMbVEBNqNZ5IESO8wDRJoNeLwB1aAQbzWh6npgMmmwqbwi/p/zQxoK7rvVBqhL+BdB40QNkjEWxIXUbhF8og61ruuAHa2fWCevBrYHgsJnTK0V1HbDHWmkjIJZl1KvxMYcIXVhdi832o2QctOTQF2lm4HGg8IDyeMh436bZ2gxqptTAS0RAfFs5lBlDS+EggQPGTpHtXx+8N3lRSl8RTs3LahYuGTTyECnJ4auIKo8ZTYfoYY8XSYdyXcZyHdPQ==;icaxEqas5VDDph8EgzkmxA=="
+secured: "zXlob1gtpTK5iaW6+mF2pwrIzjOJXbDxhsAKF6c0WE6i1/JFQmp53NGP0txQ4Lzd5hyg0vIATYKIDKO+6dxUb1xME5jzWb7Ex0AE2eDVJbHi8NTR/70wzUBi1MJxP+mIkj1gB6UR5HlrH4+LIzeK1gHR30RgCVRCUCv/STSiqTvSiRbMaKD6Kc/eOaSlYm9AGgxxvH0yYrIg3yszN8ro8xSVUTZAyzIq4P3Q33HxLlFnFsOQS7OR6pnKX+4s50YfynBV6zIoIUQ1240kdTYTXC7JhjzyYc8mJufIEM6eDCs1oDIfhsGhCcDg1/B5HLAcuDCzaCnd8KdxzIDmA8JijbwOFBte7ATiHxMxGdHMiEkHJb6w1TQX3kNGaOXKQmwJwh06NMpX0G9uBAdrlggd0A==;vxlBgzew4Y+y709fEM3vFA=="
 ---
 

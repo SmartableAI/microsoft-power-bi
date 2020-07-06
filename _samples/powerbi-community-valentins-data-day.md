@@ -4,7 +4,7 @@ excerpt: "Valentin's Day Data with an example of custum visual"
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Valentin-s-Data-Day/m-p/932818
 type: download
 publishedDateTime: 2020-02-14T00:15:00Z
-heat: 50
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZTlkNWVjODMtMzc2YS00NzE4LWIzYzQtODI2YmVhM2M0M2Y4IiwidCI6IjE3MmFhY2FmLTM1YTUtNDZiMy05Y2FjLTY5OGM1N2M5NDM5YiIsImMiOjh9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 819
     isCached: true
 
-secured: "fk5IWGhK7JJIrks3RqF6cZzUB09RhkPMu2a47YoVC3Z2d5+Df9Zdio9e4kuRO0EFNfJUJUIdI7BJunuWvQ3W9Duc0KDlGGU7/kRkAB3q+CvAOUYv5D4X9T/oOpnnzVDJbH0f6AY4OOxIewGS3EBlPwjbvZjv7Ty3njNgUKcnrjNYyqf1QYWhqcdQpzapH+7nLuDRnWVT7tekifTtJFLiNZs4tbTWVZ8KwGniIdb3zKGJPD3ufZVPt5aDOeYc7RoYrbQM1xX7ie8FMoaMMtG/1xYFE9WTSYiOluHH5vHTxHI+I+pk6J4mIugQnz4F3VX25DN5xhvQkGCKHboqSlFjExM5FRrLgor51VpIuKMmIHcQd7a5UowwXZ3TddV2g557BSuUGuZj2jN4qNtYm5bzYQ==;Vv5rTRxOf4Mrwm3rAs3kgQ=="
+secured: "66koq7aKg+Sp2v0v9cYr+m9EeqIIgAVIFhO0r/fPn9yh8Fo85n6IAySFpAro/0R/O9wR0Iel9G2NxNfWGqQhicEnoG2zJ+VEIOpHsGQHvvuE1tK+moAAFsSrLufDMl+ItjH1Zw1+deMIWgS33buiY/MD6t8JDh5xEIhHkJtclvqplxNMUdlp0paWf1Wh4MPGgxBzSkXSk+yW9T5PvUDrQjLE5CiuMLIezWbxrbAkblntvaY/DOKyljENR8XQA0Vjgg7CieqiyEr36PJKn0gTT044gVVjzRWv1ZsmuBMzdgRmkdssCejSm+Z0+e46IfVoPEqU5NZX8sPokHlvyRlvgHPKd4NZR+a/ajL127ASDMGh5dS9dRbHVJNmgU6X5QsdEfqJ4+vt//lqeGdQ0AxQEA==;g0pXl+c/c5phkdBPNTYeRQ=="
 ---
 

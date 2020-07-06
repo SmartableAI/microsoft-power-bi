@@ -4,7 +4,7 @@ excerpt: "Introduction Recently, I was paired with Austin-based Energy Consultan
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Commodity-Correlation-quot-Double-Helix-quot/m-p/135256
 type: download
 publishedDateTime: 2017-03-01T12:55:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjVhY2E1OTUtYTUzMi00MWViLThlNWYtNDA3MTY1ZDMyMTUzIiwidCI6IjRhMDQyNzQzLTM3M2EtNDNkMi04MjdiLTAwM2Y0YzdiYTFlNSIsImMiOjN9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 1342
     isCached: true
 
-secured: "sF7UhjPAZDmcstLLPvgv677FiORYhu9LOijAOzhxvkjBlDxPCwiShO5s2mrJ4p701ppqab1USKB2BWRtJs5T1nYqDM2T/KhCg4RDGNbPHGpxp+IxjvHjwJkmqhiBni3OoWQNNs2akWzG6Rra1W2uZWSghwfmjwr+eYl2/tAlmQqJ8RgQyiQwLsMa8LLdTObCL+0kw0WyFtL9Lk1iVq9InrHVpJNAz2tbhIsnQZGcvKYHyPIc94/3C11B4/ytD3dZxy4AFRdzqaDJ8VaXmrrcoTg8EvjHIPbeFzsAyDf2mT9MjHwFMgZnRRxZosZQq2YT4ANNPzywCK8HW/AtfFm2lcq0cV/bOFf2sZ0/qIDYNg4vaRmEk3n/gp8+Kw06wNe6Z7ZxnDnn6XxGbrel4A0otvskWqG/rdicef7JZrHCqh8=;MhWZA5TsHpBzhDaPcv2Aiw=="
+secured: "dugnTDZU1J2oiYcT89en95asjQl3pNmySK0Fhi6U3oiHFyq2PAkTGKknn+I/cMwlWmazBdg+Ol/uzyx2zMZjbL7NLe2ngLKjttsc43g4DSUEP/qOhR+amCqCVvXCxrYwY4DfY8JFqc2Hb3JtOu9NVP/mdDrIPCIcWjY8fPKhDR6cf+b4JEDAeYEMenstv6AMKQSH1GMHYZNaWbqwnN5yLelxYnvk1fHYTzGF6Gd+iqRZazUHd21+4J6zdlgDJHMIdPSHcFdUVe95Ubn2pEHkHR/I+PQPcT0TrLz5WGXbj6wkLe8rWChX4BsMuihxuxS7Siz+yrP9imhiHhFANT8tG78OJlKvGcjL8r7ExjC46Lg/uroGjwKIkoCaEyGSMFw+qK8brDI1oGD06ttnvIwcv8cnEycYqSUicIdDTmHY5z8=;9CQDPiOck6xAbqSfOk+vUA=="
 ---
 

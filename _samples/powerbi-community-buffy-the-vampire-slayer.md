@@ -4,7 +4,7 @@ excerpt: "21 Years ago, Buffy the Vampire Slayer premiered on a small, teen cent
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Buffy-the-Vampire-Slayer/m-p/374399
 type: download
 publishedDateTime: 2018-03-12T08:30:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjBhYTg3OGEtOTA4OS00ZjZmLWFiODItMjU0MWRhYmYxMzJiIiwidCI6ImI4NjY0M2ViLTY2ZWQtNDYzZi05ZWU2LTE3YjY5ZmQ2M2JiZiIsImMiOjh9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 186
     isCached: true
 
-secured: "Boy0FLaSOOuIGQCQIKnVVLk1tYl7xOXUn1gnidLieByih/AoSgeQaAiMttnripwzrWuH/rmRQ6Z8nBIL6sQTb/3O0nfa4HOXxFoalaqEXiwdaxAH9SwfusbMCRuNaqxK/TG58b8xQNUjRZ3cAo9n9PEg5zmSk45u0k0Ry1zlopj4OZxrQ9Uxw7hWJZ8tnrumTHYdAoLxg1Kp1mD1ywb4z9ZYxDuQx46sEy4lmhbIJSzhKAJJDr8gMcigRR0mIytkSP+2qoWRE5zRkeUxOwV12V3TJMRwWg2Oq4RLjb+y6Cd6lUODQ/iGRFDvg9hDgYNTTfzKNWkCbcwilMEq+4CaxoT6M/CCTUIY6J4/zAiBsKroTzItKMn+WXJl4SsyXL3MRZ+IWy7aio+Jk93/hoVoCQ==;holI8/m65Xwtac8u/IIXQw=="
+secured: "Hb7GfsnL/prN7vT20+hvhJl/hJVDij8F36D+qQjJFM0+QX8OJacqajq3jtN/QBNkMpG04KFQEA14+mFwDizMK9lx6Uv6PPiNuHFfYL1IxGXq0lmcgOsawSFQWJvva0UXm/Zx1jGbXGithUOtbiPj8ZVbhf2F+rjRSd0i/pqrFjMibFLmzuGsFAza3Fif8gETdCJTbUKmOpIlB0nEozxL40nq+sVEXw1NtQRL6W4Sbd36M+IuywmOzmmYM3akTsBeTpVikkAb3TF/Yk3bs+YQtUAb0LiAwz2l1Lm3Cp5Tofwb4zSVFU1+yCRI/Gyaz3KpBAe5whNWtj4CLg77/n+3TwaSj53E/FOO61pv+0XePPicRYo1c/k+vShEE7RUXma1ayRVr0Oe4T+GwaeTodt47A==;od7EqD9mCacAUbQHc7y6qg=="
 ---
 

@@ -4,8 +4,6 @@ excerpt: "A collection of Power BI sample reports related to COVID-19 (Coronavir
 type: collection
 heat: 200
 
-query: item.tags contains 'COVID-19'
-
 topics:
   - Power BI
 

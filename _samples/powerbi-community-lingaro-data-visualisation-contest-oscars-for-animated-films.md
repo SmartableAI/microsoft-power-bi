@@ -4,7 +4,7 @@ excerpt: "Lingaro Data Visualisation Contest"
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Lingaro-Data-Visualisation-Contest-Oscars-for-animated-films/m-p/920352
 type: download
 publishedDateTime: 2020-02-03T14:42:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMzg2YTRkN2EtZGJlYy00MDAwLWJmNWEtYmU4ZmQ3ZGZiZTdjIiwidCI6IjJlZTU0OGUxLTZiZTgtNDcyOS1iODZlLWY0ODJlMjlkMmM5ZiIsImMiOjh9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 816
     isCached: true
 
-secured: "HcZQx1UivKLMmyrt6ABqcjcpsNCyCmkaggY5Cf0SVgguRusDbitruWy/wcLsl97MLfPphdFC7bBfQqL73SFDerbp3f4S8JQv64VzuZ4SrFf7jAyHCEaqPSq1IjnHvXKYK4M+v8sn7Gx6zX4eO/2A39QTmPrTyw3GgH9WApdVND9pzyY29oSRLMazt1d8hkN7fkdVnYqIOGLTtXCXqTnz0wGAt5Pl25V/+vtvpuonduWcmGtk2UdQlzGHl7pWe2CUyx0v9Z5gRHH+0+9HmfM6woeGbSPlWnXonaFevfj2DY8Wb5E/L+r7jIveIeK6TFmMjD7hYoeDmIoPZBw8gf1t5GtfjjZ4sS3GNnbFE/vJNtqHiWPXQgOzQmLFObGlZByJHz8SN9iYWvVCo45369OC7Q==;NiCzzGiTN5dM+LXrbKhlCQ=="
+secured: "6QNHVsVFnOSdSK5dPGUVpPmODhuOXF2n5GrC+ixXd/46T7vgFCbQ3+ZAavqhmXL4MuRDgjgyIs3YCyJHueyks14F3X1ZVg4rwPiKb5xMnxiUV+8gpE8bwJOSoJz3kf60c2I6SJrUQH9k4KB+hSnwHIu/UgCn0FHxz+zhtlVb+eoUoTafbO0MVfxfN8YEO5mOhi/KRvMUgR5CpBIVx1v5T3G742LExnT1naVpelKdNfzJb/6kZpsoL8GmLEC4bATvFLmBTLi3aqP+oJlsLh5IsSLMpURv9QEKWLwDYxPRysTWQlEHBxpHe/S3Fopua03IftrV6gkRt/aNqsgXTziW1y1tXrx3UYQorPDf5ayvdK8EhgYhq7eWTzPeCeUhV7P0K41IKbZvWIuL0qSs1ejC2Q==;pyBhn27WtKG2+bMultoWaQ=="
 ---
 

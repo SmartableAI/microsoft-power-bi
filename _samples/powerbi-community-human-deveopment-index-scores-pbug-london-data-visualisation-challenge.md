@@ -4,7 +4,7 @@ excerpt: "Human Development Index scores being pulled via an API. For London PBU
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Human-Deveopment-Index-scores-PBUG-London-Data-Visualisation/m-p/875397
 type: download
 publishedDateTime: 2019-12-14T07:47:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYjQ0YTY3YTktNTVhNS00ODdhLTg3YjEtZjkwNDcyMDk1ODg2IiwidCI6IjRlMWY1ZGU4LTg4NWQtNGY2Yy1iMDQwLWYxNDFhZTFmYzQ5OSIsImMiOjZ9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 302
     isCached: true
 
-secured: "AmT1HR81s10feiY/UKtlRn/kzRz59jJ//bXcPzockvLk6ylxwFYbBs5efjk4e1v1Gom5UsjaGSmtb7GF5BLQ1iUbujvKWrcGqHxg0JZ8aQifmoeqyXcDOepdooJyOpjnyJTgJN1b0IYLwxV0+gkTBKR6t+fiw1rry5DPcLbKd/G1b7jWHjzjpYVhEc44cVBJ4fAVZMV0GWOQ2YHxwWupASbkq4qpx9fgaRCTzTLi2Voz5di8KK9Edetjf8tS/mPWjBRxmLf4VNxh5DmJtwokERN6kayk/4OMiy0nZojfckdWwYHYpZ4VAnZXfnG7Lxz5PwwokkxbCWPocRmCd7mTxWEBXbpIHF4xjtTNQKfCyZdscQPhsUfRmB5nxuri/0vdnbVj9lQi322hcBssh9r+3w==;MhA4Oh9lo2JM8pi4z18+hA=="
+secured: "KF0aRE7HWZGV4C3BpTH/T6Gl7dknmQHMeQxZh9sA+bj2hG5GKIt/f/1aUGDEFLK4TduORoZGNz6J9XCJABXWk1UIJHq7k9TBAi8+MnxrB3x9mOa3xxdmhB+T8DHrUS89+il1hgSMNgWMCj4bQhb5zKGn+AFfIEsK6iwMVQVCj7X22mm60NaoMpwcccvg07zxMAhQCnvSQUq6togYJSlBxzMrvqVNsh3z9vQ3Vd6zfFeN4n3PiL/CuD+YYFkbTVciQGnGKfstslBlcssxeDxV3BA2Gbz2GTUEXknMh/6NyCvNaxSg/TC6fcraiFvRAAuLLwaMo0TKVwBdvoTuWeI+Oll3r01E9MwxVhPltI2/m3Q/gSgNhQYE3D6OcZj8Voc4jR0JXDGG5b9D5QH9b/vMmA==;WqhXYsfBxiOH03gVVDW9Rw=="
 ---
 

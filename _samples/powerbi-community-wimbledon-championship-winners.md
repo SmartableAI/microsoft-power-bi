@@ -4,7 +4,7 @@ excerpt: "Your Wimbeldon Champions analysed, this report contains the analysis o
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Wimbledon-Championship-Winners/m-p/736419
 type: download
 publishedDateTime: 2019-07-10T04:10:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDU3ZjMwM2QtZGVhNy00MDU2LWIyZWEtYzQwNTNiZDk2NTI3IiwidCI6ImM0MGQwZjIxLTZiZWUtNDFlOC05MTU2LWYxNDU5MjA0M2FkMCIsImMiOjh9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 1021
     isCached: true
 
-secured: "frGriy4iPmw2NsgOjbT/jIhupt9wu/t2mu0KA+6rfIGo8MNa+0as33BOFF0oUSJPLTFKexByqm3Qd+HkhnA7CzZEHNGcnwSN/rUXDQfSgbVxSYWMzW/uL0Xd4h3+3aDAh2WJ5/0NTKRbbYwlocFvS5r8RkoLh4gfE/53CnXsyFq0Xs7Nl6Lag+6v9I0jGXXaoPXytTxVb676ZRQB/LbVPrLyPdLQRqxI6xVLgSHbf/9PKA8VxV1gNZ/9+0NkN0IrDW33/INtlVoOsCuPF5WMR0V5aAvD51uQe6Xv2UEs+KNq776PpyBr0nmGFRSzYIxkzGgAEqRG98w01M5zJUH8CnPUnwFcRW+B37jyNYcAWAJzlptOzk95o7wZlkkjbTaQLu2bBXNGfQX798FuHZHI4Q==;DDZMET64zcYv0GNDlYejPw=="
+secured: "hY6lAHpNThrqTK0owPcgEctPf3bEdd85+iK9PtvOVBbknKRz/nFt+GqPe72BUrT8Yi4izsk6eoolpvnitAnE3Svn+bho0z8jWRLt8aR0Z4tb6ZPiU9txsAUGeWMIZpfRtUo0OuhfqPCaW+UQn5cb2oYI9x4fhuTbf1hXSkO2ciiHLVkidGFzYVfjXeAJx2OaCwzU6W+CNq38FSqYpFISAXFD+/1SjYrWM0FHTMs5SnNxMVfmZIWDmXwDeEByhGLbz4+AfNGGs3wTHYJUnjppn7YS19sgy1pPLdSkWkUgJ+ULWP1AMqXZo5fUvrnzozKEj/UfeBF1JuZ4HMdn/CaWpxzDumTKtLpid+fEqdS3K4YOZ1KHubwWzuLxLYNuiF9MzS986n0NSArAl780e/biYQ==;Rw64D+2+xv1Ysfj8w8/Pfg=="
 ---
 

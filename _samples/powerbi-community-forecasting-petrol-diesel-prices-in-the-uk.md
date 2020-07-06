@@ -4,7 +4,7 @@ excerpt: "Created for #MakeoverMonday 2020 week 17, this dash features the built
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Forecasting-Petrol-amp-Diesel-Prices-in-the-UK/m-p/1056433
 type: download
 publishedDateTime: 2020-04-29T05:30:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNmNhOTc0NGUtMTczZC00OGNiLWE1NmQtNjU5ZTgzNDkyZjQyIiwidCI6ImUxNzc4MGM2LTczMDgtNDc3YS1iNzY3LWZhNTY5ODI0NWUyYSJ9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 580
     isCached: true
 
-secured: "ArSd8eUjLxEe0vy1F+4Wq9M6gy8ZzX74dLampUuN1bOe7kqNlkm8KJ7OF9tluGVxX1ar42s8iE0DGailP+DVG8eiz7VGDYMpHtuCoskC6M6GBZmn8srMfFjn8SJfhjFcerDLKZ/F2Z14CPqoZq0d0KAV/Nchs7hZ+38eEUDAN23fO9KNlB04AeRDhvrLQDbdHORcoiE/8zeXTR4xpuoLWF0MS2USbbVTI9KjujfzYBhBMZv5qoN6HFeMjhdvr2T/+uofANwgxzzB2IJCaZP+VgxYSjQW5sQ7EEcIPBpS3fgym24oVw6e+6YHeLw/9Ys9mI+w9YIDlH0NiDfjLt4vptFEulobKsi3b8GmWg/azCVgGbg7mpQpPf3GKMd7SfbsGkpMNzZX4R7o80sKPTfRsA==;tILkYKDAH5JfD/eYKk2AIA=="
+secured: "b2Cm+6rub/PlrFpGUo2/MFrpVGsQE59GjjgYha7R1UJOrSAwm40Y1RCW1gZyT134tCuT8yHyJgaj8b//gzcznpz8nMbusZNiGhlIrqf5qR46OMrcxs9f+BpAYOUvdMORu8P5OPnF2L81lHK2yZP6xw2fRFC32Z8riC2db+91UnoHMwEsXpn6+aJoKwY9ZIa+IFz63UoQK3NfdJ3b4NOe2wCI459pNhqPuq4TMx/4ZhOBovUuXRLL+RHfikYhX/Sd+KAVt/oEeqhzbbBM/267QuALvfrvK/95i+rBPCi1IZTh5yo7K1k3FJeG9P8N+5CavhrcqLSnknEESIN2mIUboZIKp7O+U3RT3SiVhWFNhhCfi+WSs5EMplaxI0haNkpJwuEU32Q4VavIH+pNYS3O6g==;JG1I1FKDznayXfTT75v05A=="
 ---
 

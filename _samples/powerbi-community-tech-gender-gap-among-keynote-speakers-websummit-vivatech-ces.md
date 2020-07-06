@@ -4,7 +4,7 @@ excerpt: "Hi! We used the PowerBI gender connector to append gender information 
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/TECH-Gender-Gap-Among-Keynote-Speakers-WebSummit-VivaTech-CES/m-p/427272
 type: download
 publishedDateTime: 2018-05-29T02:05:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNTI1MjBiNjItM2ZiOS00ZjM1LWIxNjAtNmZkYmJkNWYyYjI2IiwidCI6ImYzN2YxMjc3LTJiZTEtNDdjZi1hNGJmLTQ0MjJiMWM4YTU0MiIsImMiOjl9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 1391
     isCached: true
 
-secured: "t9aVyaVNTjNs+GtKT/C1Svru3orKeM7ib8zeIwLQ3gJ/MXcLy9p7gRtfP+Q5/JoxqUw5Qke8IisHGj4z2LLWIzmnxgu+SxaoHuglrKSgwEfQ6zeqrO9ZubvOAwJVKSF3yu+NF6uJla/L83xyHC9hlFUoNF2HICg+uHctUMtKSvFtTL+RBFHHVtMZiRy5Fq3pscUnu3uzMFKFT8oyYcpjdHUunf7kCEE/NtMTiJENiBOsLaN+9uaR6EQQEl58RomM95RgEYV1D0mUQgh0Exb0uW4bR8IpN/5S1eJCEdCViHMVHiBeYFSY9pQ6jOVeUtpV+DtUdz9IqAGz/q1Xh4or6OG1TRteDl6HCcIIQqw9oQJRKio700h1/5J4GWjhdOKpQIJO09YYyzhFBLSFJ4ON+w==;tFXsELHC976K3W/rhh0+mw=="
+secured: "FDIsVzWSy+fMmsuT7DZDjrS1RjYe2KnZWXVT8EVTAyv4GvY4yEGQ1g4hH83tSg/hQdF7MDlYQZ7FqV9KgTQtaQ2mjxDKdWxDlGuTxIJe8V7MLK1hhBJ55F8YoAobc4DsgMhRrttjr/xRQb4DHm3Ila5TVHv2up6sz4Wvza4uJX0FJ97sCJL4rTliXbR6u5/JYJryu9NsB0ndDcq6vnS9WU9kHTOIY1Kur1WcxHTfpMY5Iwm2Xf7Zn5+DWvIDbVl4Qb86V8c3eSm6feGd2yC1MDjx6NCchL1p/p26xrKlzFhvq+GMgCJgQ/tgw5p8t4c8vcGXUPe43fyzbY07HUaIXrrasP2dU8j+lV9JSZyCTB+mnNWyY5mFGi4cgVjNpyCh8VCE5mXcfAw4jfhTD7MntQ==;PtKGxwyuaqVNKB0ygdY71A=="
 ---
 

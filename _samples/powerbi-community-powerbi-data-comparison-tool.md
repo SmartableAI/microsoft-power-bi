@@ -4,7 +4,7 @@ excerpt: "PBIDataComparison PowerBI Data Comparison Tool Here is a PowerBI Docum
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/PowerBI-Data-Comparison-Tool/m-p/658314
 type: download
 publishedDateTime: 2019-03-31T14:26:00Z
-heat: 58
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMjAxYzA3MWUtYmQwMS00MDk4LThlZjQtNWUyNzAwNGI0NDY2IiwidCI6ImEwYTcyYzIzLTdlMWEtNGYxOC05NDU4LTlhNzUyYTEzMTg1NCJ9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 1040
     isCached: true
 
-secured: "uD5Um8NhV/l9Kxd8orQg1npwCeNM0sR78r9rFJ61o81at5snAk3RlNZ053ZhPsNCrYlsMb8WWl/LbU+eFF3FJ0pJ+UsvrU0zD2W0hmE63x+L4hgdxRj3omDHyjFevXMNr2mxLfxaMpdvC5hHTUOUtbrQWlw9OXt05Xjg5ati8Q9FqbAQAltVcsf2nP6HqcmNEeI54PXD2TITyZ9di/flXoxgCNifYApCOTt6oSohiCcBIxFEOIQzQcOquKw68ctqjRduPmUwxGea02T/lwxDHlXw+4tiPNeQRlXxPodZxsQa/Ib0Xcf7Gmi3+vZEVA/q4y3uqNI6u9RlZFSoD+wvfSLW6sVgW2LTaEOez1o6uwer3JOV3qGBTS1I2JshanSEfoNBPa44ThLM8OfRvwtLOSMkcjToS4a5JsURQQ1fU0k=;yGI9BB6djM88eH9VO6pbKA=="
+secured: "mMjmTwKDhCc57mIZYRRVi+Qp25mIXraX50XvRbPumnrt3MEDPj2wavHaGMzGd+RtUuXbCCkjtv8QieROMwhEGLUXeHVnT/QL7ANAeyoUg4POqmwixOKVvZpo/+1BayIRrjgA98jMAtZlQf0T7XWiMEDp1GwGOIebb5CUM4p2/MlXEDEOAL7KRp8ztnJbcNoV00e9c6xgu67tpqXMejQPBYJaTR2AoKkwcH+68XVzVbW/xwQV2cAyIYxe49eJGYZQdDovoYKlN/fKDQFcaZD7aKHNaSHEABArV5Vzl1eayOai78Otlq/it/m5Nfu4mivjdCFsDVpJ3UIug70eM0D13hbJG8bJ8lUJaQwLqMwWoUeBg9BL01l9RllHzKj16c/twz4LC8vaCi6dtChRBVNX4qLgS4rg2+vUzoKkcBq/Ac4=;htnu3o45v7UkhMVEWXIgjg=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "This report has been developed to help out the community in demonstrat
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Barnalytics-JHU-CSSE-CoViD-19-Dashboard/m-p/993401
 type: download
 publishedDateTime: 2020-03-26T06:29:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZmE3Njg3YjgtNDkwMy00ZDAxLWJhMDItMzgzZjJlMDgyMGNiIiwidCI6IjdlMzVhYmUwLTZiNWYtNDA2Ni04ZTdjLTg4Y2JiNmQwN2I2YyJ9\"></iframe>"
 
@@ -41,6 +41,6 @@ images:
     height: 770
     isCached: true
 
-secured: "4JKFgtMXdRODt62/f2SacqC/Msgny2+/bEdDIuptNdIVwT8/BdGghpIua1eKccCc50iDLZ00earMHhCpxLLLzAEyrZkdv6A7mMZh90h1mgUsj1W3kfjARNnrvMHBwpJvN178VbLAgFTkZrzgQK6/dbIRqdtju/0ogIDdlDKrN+2Ijae0WtIj/elEhQM8Uk+SXrzgXB2XpxYQFBfL0UmvRHJluLzqlZqrpPJ6kfcT9JSjdJTOVxe/Ho3s9x1Ntk4tuV2zwj0lXtq39LSYpV7wRVqdESvErl1zcFWTZbziQ6Oj8ia8L3oZV0HlPvdXXtIjzW9A7fG8vDuvMKUWfUNs6Pg4IL5Y3DILqn4dVGX5qPc+ulLT673lmmpwMOKFsUX3YXBy5UQN/Su+ty+lc6NNCw==;VbG56jcwQhQLGPXqpwEvEg=="
+secured: "sBQRKQo+ztPS0gB54Fr/8eYp79AWc8IO7wLkrASF6lcwnwpF1euP/NadjSzQfDomwJRNtX+zcYho+QsU4WDNcdCoiLVR+hfoK4N9InYzzmGDW90/eaCDi+4cD6oNpUA8EtoEso1M2n9Gj21mbiVj5IEavzDnFt4JVbxoCyzhrxLtXJO1HuoeHfyFJWJB/DGoNh18gsmIbeNwwumSwGGaS/CrjVWaoCxOWvIH8dXx1sFiBgheuM9cH8fW1Rm0bk0QxK1gss059l3pJ9EnWUijGDZbyq1KkDxOc3jSE5GLnSdLZsMLVpdDeFBY9blgki+6/aUZ9PNDTpvktH4DSAWsS9UFY/hYLqD4B88y7g4F+tsE5qyDk393NKADgs5m5RPvm1rw7VLAGDrEIiO2LdJ3WQ==;0sfGPS+HiBbpljDsDGWqgw=="
 ---
 

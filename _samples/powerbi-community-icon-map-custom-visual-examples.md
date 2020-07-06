@@ -4,7 +4,7 @@ excerpt: "This report contains a number of example maps that can be created usin
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Icon-Map-custom-visual-examples/m-p/789914
 type: download
 publishedDateTime: 2019-09-11T15:25:00Z
-heat: 64
+heat: 62
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjJkN2E0MmYtMGJhZi00NDhjLThkZGQtNjE1YmE4YWYxMTU1IiwidCI6IjBjNzk5ZDM4LTQ3NjQtNDJiYy1iNGZmLTIzYmViYTljN2ZlMiIsImMiOjh9\"></iframe>"
 
@@ -41,6 +41,6 @@ images:
     height: 1377
     isCached: true
 
-secured: "DI1dxGV+fPV8EgEbj/xSpfo6lW7qpHKad7xMqqi/ZG/X/+nFyXLZLc0hRdcyOOB4BQ99lm+kvXZWc4K9qqDkgT5ggRzxUDAwJkgmk3F7zg6bKvYgkUK8/qY0HKxYOXq/XOuHwDlqelrYkt1lQ4GsiebkwRdD0hXVYLbyytKKfvZdp27UPRNWZj+WOiGSM0WDoGU6EFntfgVnUsIXjn7Gu9QZiQVr6+3TUoQryz6M4XbE3UnZ20kKtKa4FapPxFd6vrvJPuoYqFu7V0su0ughg3y9WmDg9XFctRWjxNBpOxeEPkxnNjfNhHAzGlXW7FqUtoMiY+eUZHOZFNj8Jq0KgWxX1u94wuasX7ZXgdQLrpx1Sy9PzARnhIVvF/0bbxqkR4H291sJXbkhHKTQTvQTZSL1kb9M703pY29fblowyME=;O4F5IBMS7fQYlK9ZEZfd8A=="
+secured: "254QXmzADXbG4r8Fu5RCo06BK+IjKmDwc6L0GAtShG3DTZ4/jOrEQacVXhGmmkQ+muEF7hPB25aEgnr9LmOL1S9mi2ceimRodIs3E1o2M2tI+bc/GAjDYlb9XYXz7oIx/Rp3J1CJaVmj4UvD5E7sEJ9yyAUxUtrUBaGDZHbL2u/Z9ZC3hWjV+PlTfZ5+yavnSO2jMFYFrJp8iHHI7rc4RtMtMoR0R5etu8KDfZnEF7Rr8JUVC+Jz1Ex47rfGE+mzjSBT5Up6TB/HGdKa3q6AZudbElbNUx1tVqO0to3ikFBpaxm3+dyrflMOUIwL+XEw5/OoZdl+cDoXuOHA0Z2FYVGg3p9ytFStx4lM4dR8B92Lf3h2H6AazyW5vynZX/mgiq19PD9WjPMAznw+SFma6kesMBTX2TKNkLvhhGiHdV0=;BilBraHtyjb+/o/RLkw56Q=="
 ---
 

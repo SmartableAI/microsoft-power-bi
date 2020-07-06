@@ -4,7 +4,7 @@ excerpt: "no numbers, no data modelling, TEXT only. Click on a word to view the 
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/St-John-s-Gospel-Translated-to-Word-Cloud/m-p/249885
 type: download
 publishedDateTime: 2017-09-12T01:19:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMWZkNzU2YjUtYzQzZi00ZTg4LWFlZTEtOTIxOGNmZDczMmFkIiwidCI6ImI3M2IxZDZlLTIxZDUtNGUzOC1iMjM5LTgxMzRkOWQyYmY3OCIsImMiOjh9\"></iframe>"
 
@@ -41,6 +41,6 @@ images:
     height: 539
     isCached: true
 
-secured: "DTMnAnudHT/vcwMQ6QHJ23J8XPml41afWAwR341PhMiP24HtadTehmbtilzKSwrwdLUeQGm7K9k7Pj4r/2gYOPDrGVbm9CL2I8x79dXB+yp3OmMqufXSEZR5D3vCqs1xsl8k7BiLygA+GXhXf9H1FZolu4ZKVfgYP3qynWuWm2TaMykFHBtUaow1+oZ0NCwkupTb5KlTrHvpx23Hm4SXn+vzh5vMV/o/JIODaHZBgkGbDtKPxZBTCvvTthLp/NQZ/81zq7SRoQe1ucMezQ6vO1NIHohXdotUypEjqYo4IbBUq5dLVUBWYMfigw6IJLKDS71HinK2BxrBqCYovBe+yOMtWUdlGgxJd0ggC2JJNzZ+FQX/UcjGDJQo9wzI2oNeW7NSu99FQL+drhLp5CQ64Q==;RIS0TPHtoRzWi3bIFPdp9A=="
+secured: "p1qDQ4FheTFvo5CRHyqyoGjzQqZwMMVIy3pgmxt/G3YIzA3+exBoEYiWb1V58hnyrimrun2jYVHCJ/Cy7tXp/sLMW3tjOrJc1hV3IaVKCXoSD/gZEJnVGlf0QCzfFutw+vd9mo6WyMDrWT9I6vClP8vNXctQPw8JYRgS3M9s+o2/KQpabyF/r2ah8wDn8F6xuDHIQqkmMP/YT6GvIQZ86ZDYdGRnlhFGnZA3i9ybI2NgLp2kldWFLg7vcsLa8mepFd/AYFQpiFNIC0r3XEj+GYGw7/71OGi2s1V9Iy448Jdj9FgRXDD3ZHFAuyLwGKyV2lfergXKogFK3gemRNkIn+4drej9PHn9i8IDxytP6eN/N/yJpp1kfWHGw1aY/IM9nt1tE7xvBycNpBuDVIh87w==;xN3f81NBZD2VLz58MNkI9g=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "Inventario por Sucursal. Drill Throught, Bookmarks"
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Inventario-por-Sucursal/m-p/436293
 type: download
 publishedDateTime: 2018-06-09T18:39:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiY2VlZWJlNTMtMDJiOS00MTNhLTkwZTEtNTUwYmM1MmM5ZTAyIiwidCI6ImYyMmFlZDcyLTc1YmMtNDI2YS1hOGQzLTFiYTgyNmY0ODI4MSIsImMiOjR9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 843
     isCached: true
 
-secured: "4wfBtI9r+dzyQ9hVt+KgCqxAwmwljl6xlw/frO4ZFBsmAUe/FIrNpst5TS4DSUoFJF88njf1w1wb3Ee5Ro9Ah1zyIr4qd82TYbNVeIm88jJsvSOsfOmTfQ/oQzUI5Kf+7jd7AiNbLu9gQIHuOD3lIxGmpviVZD43B1BfZRPvtuUYih7YmXLagHk6ci2NeeQGjWN6DMyN2l+J1w9nmFtBG26c8se8wxhA5Ueyhiqo5fe03Q10M7eWbidfV2KDnGXfGS8lYIrf1sI5cnkwiUZOF7+W5h7uZpJT5JtH8zEibFxRNgbtDXlaTxfssVTwR1ZA8nu8UX7NpC0W2Wyg/Sx0YkMLAKFkGDT64jM87RoU97T5RUL8cY7uqHKt06Kz7izqPwOUMyYLrCTo21EbPF5/Dw==;DCFyTZfuuyoaTptGku4X9A=="
+secured: "xEpww0GyNAe5zg9cB2J+qka4AXvvqgsF3hXRb4mW3hQXaYmcBHhm3xjvTUlZ/z6lHNoDzdGFsq39BCuey5WLURezHsNfCplwzmXHoJLR5AOYpUq/rzjmJK2qNds4Uxiv2cT/XIeG1LlknYPLcw8aSvwPOsMROBZSLj7XU4ycUL7OVsw9MNJO5naCxUcyZ96sJl2HDl0ZoS4B/KKMbuiL2+aX+B4fL8dStOcwwgA7z9LA5FHiJgbLCNlZncKY+WHLLpMXNltsGOi9WyH4jzDKYTjrpH5DI1mbaS8/RRrAd7gZt1j/4kD9VL4pjSts/i9/QYXM7wXJQ2ibFWXqPLjVDYHXwnlus14Q1YaflLQlbbbUHaKyyFAiCinN6C9L+trXx1aEnplbEHLgD6J4x78MBw==;9X2Cl1mFqn795wAmbSuwEw=="
 ---
 

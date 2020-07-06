@@ -4,7 +4,7 @@ excerpt: "The &amp;quot;slides&amp;quot; from the Utrecht PUG Keynote"
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Utrecht-PUG-Keynote/m-p/658074
 type: download
 publishedDateTime: 2019-03-29T23:36:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYWE4YTdhMjctZDliMC00ZTM2LTliNWYtYjFlYzllYzkwNjhkIiwidCI6ImZkMTI5OGJlLWMwOWYtNDM0OS05NmU4LWJkMDk3MjEwZTI3NCIsImMiOjF9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 720
     isCached: true
 
-secured: "KtZLZkHuWXD5D0gS1Slq7VYNBPuGL3FDxp0t0/xBlXiaLBqc/5ryMHccDDvRQ7Ip+qlpo6fd2CE/hK5aArE5t1jm1r/VOpaRhhgUbB2XD86AiLeAfTmpgfYv9KfdOS4NK6zO/6FEmODEATmakN6Gv/Gf+5uh8F87hfuobarAnZ99lpMz6MzdC8gApELdOCFaI8Wc1d1sEHjgJpOA+KKcbEkVFl1h/O9qlYlnPol5esRCgsKMBPFhBT29n9XdAFOIVfPK6W0ElxzNWfosXCNigSccIA/yg9CI9mcoxl0ISXMAS5Farq3iPNOn9pS1gYvnZNq0zCWcplGngypufzf6unBTZ7vIQ8i3jGlU8sCzOgxwiLVkkPz6SwMzseK5WL1Rq26PXfwuxRf4aNmO7sUCRQ==;5/S30AdfZr5uP/Wv9dlw9Q=="
+secured: "Hii8vjGvmPY6T5ZCg9tMRRF7i723ceH5PDdujcMM0Sic2HHQEPAPtsP22esthXO2s3de8d0uLt+20IvkcA/TEJyYaW0ACNFK1xwBatYAUIGMDKlf1dKNHur+gLKRE/si19+tnL+qvZ1CA6FzvgndSJy4dd6G6xUcuVwb4vU+HJ5VC5dvPaijITN0WQyz7bgB0ubgKGBbKBm7y4cjnBCoIJKY5I0TlN7Dq72sZV2gz2kNvyoWnNheG035DPmFOby20wER2dH7xD0XjmTyiTYvVvm9OHMga0QxYjVMD0HFGZEWFlk4qbYrrSNyt7xnis6CpVpD+xsh5L5TCf/sMKf6a+1N4MlhIPUItmIGIQufqQ/V2eUjnVIHSqGBDImNhLnIKTnzgMCnZV8dN801khKwyA==;N74JU/ohPJFoy0IwdckJ4A=="
 ---
 

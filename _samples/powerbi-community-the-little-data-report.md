@@ -4,7 +4,7 @@ excerpt: "English | Spanish (español) For fullscreen click here: https://bit.ly
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/The-Little-Data-Report/m-p/1130331
 type: download
 publishedDateTime: 2020-05-29T17:26:00Z
-heat: 58
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZjFjMjg1ZDYtNDAwOC00NTI1LWFiOTctNjJmNzk3MWY5YzVmIiwidCI6IjEwZWM3OTJjLTU4NzctNGU1ZS05OGE5LTFiMWQ3YTNjM2RlYiIsImMiOjR9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 801
     isCached: true
 
-secured: "J1vFCJoPs0JpNI8DoWSOMuyN2DT+OQl0Qh/4BNJgshxVlrkfjUn+c4QJ5nX8INAWgJ3B9GlXbOynYT1cu55iHC0u0MxKWYKRBcYNfp/3yIV8J9Xjsz2TPqMnt11qqtSk7jDTWGfh9jFfr0+0ud1Iu+1sb/b4UdKUQsKN95V57Cdd2GTXVfRPWSmOrVrbIsOav57cGm78nBkszYhRVaHcXYQk1VW4pRIl+c9WXkELVuvBXtcH+vG5GOASR/ibtdz9vjq/svHypW1gJRuazXUVxrSkyFi+QVY2SafrEMHb9LTn0heN7pgPsshAESnUsvKCji92uyHnQuCVwLvNQVQR1ICsuAKM4sBF3vIivCDc+TBovJITDf2ZVDq9IloiH+oExIOe1GSE2MXWSfZYub+C2w==;klAaBifvIVPHSTlrkJGadQ=="
+secured: "gU98qreQplpI1wTqlLqbnFXwfzUwcj6yJHqEermZ+nhOTRFpq9U07muGNkql8aiaPoXaGp7lxMhXKFdxKIFBpfWmISZ4keT3VkpxUzcOgfUiKvmrPGwtEb8Afd0440y16houBffEXjeI3AlVj2mgAGHcgr89sAD+nBjxHm5B+AlMdVGSBci3DXjFH17m2oWM1iAkjHV3g2Er+8p7emRlT0h9h8dwEVpaM5uolZmJIfExVPzhWNPQDB1JA4AjlmjQx7YC2EuEYu/vq/9983uNi9jUIBFS1N5eLXuKznn2PkIDYSPYvi8hBf83Mel/sgsB2A24heVINrak5fXgX+GuDqn1ZrDzd19KknStZ5EUwugs3PbN5dKd5xBdVJ68WZhWL5i0+LIScapc+AJs/RElKA==;mcwmwo6jj3BqNvp/MHsVJg=="
 ---
 

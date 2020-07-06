@@ -4,7 +4,7 @@ excerpt: "One of the biggest stories in popular culture in 2017 is the explosion
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/2017-Year-in-Review-the-Bitcoin-Bubble/m-p/349639
 type: download
 publishedDateTime: 2018-01-31T23:57:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYzM5ZTY3ODYtOTFkMy00ZWRhLWIwMWEtNGM4YmQwMTgxYmJiIiwidCI6IjljYmY1NmNkLWE0NjgtNDFiMy05MmQ0LTY4N2ZlOTg0MjFkMyIsImMiOjN9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 469
     isCached: true
 
-secured: "Sa5yWFiRUHG6o3PVWypDbfQWOvc/zW36a/2z9xoiiI3V2wfUFBuwXtpQ79Vz2udmSAZk5re16swkPLTrrf7Ub9/VUSVpAEg4kzI3V3kithTs1wNk0yKB1l9NCWL1/bAkDdmFkE1kMh9XQvNp1egtFIcNsWrGCedDQ6K3oROrvh5vafCPud6IjtfIcegnVRoQGFg+XU89kYO3IWTyVzKeSEgH2aF+BuIxHpGCL3dIG3sescRyMN34Nze6QNegoVeiIThT6Oz3RRn4C+cSZ2in0Sqz10rmz+5tu6+UUWVeF2oksQrLDfj9cUpWjHqvQpEwkjnLkNxS2cWe71ABkO92UzLevaaad1evlEuYezccHBEnpdFhFDqgfMtfWvYoA6dkJ/hn+K8TnG6KdZjeJnx/4Hx6bSYjh9Xa6/QCpX2L/84=;Q0C106Xf8kna4jFae5lmMg=="
+secured: "TGwg1LL0QId/fPS2dWO+CA9B7BrvS0LdIjhVD0aV/SOdGvufP82AjugRHSyV4rKB+5/+itUbgUReM+sGDVk3IvWyRbuMyU7T8yyfpM/2aF4HB3cAiXGRcSggueu6RlhOEPXiHB7r6QlH3F5Z0sQxhbbdzUQCnblXZwnvsZx7Sb53ukuLgN2ZrdevK64U+phrgb5Asvm2x/fE1+nq7frYQ3rkHNotYUd3Fb0kG9RC1w3oQVkVPVkzhLWUhfd39GcZtsX816/mPpnvHBiXczuy/N5Wn3rwJML67/0OHHH8lXyIv1Xr+RWA30yLk6qinGLROWCjUbMd0P6Ch3UK7vOshEcl8NFglV8lGGgO+70LFOj2LUviUGVAB+ggzAYBz3rViQwrwpoBndRz8+IY/4IaxoLtfYylksaBtw0rNe7W/UY=;vEp1M7RQXxRXRG7Fl1t2SA=="
 ---
 

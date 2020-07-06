@@ -4,7 +4,7 @@ excerpt: "Small companion for anyone participating in the Cortana Machine Learni
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Cortana-Machine-Learning-Competition-Womens-Health-Risk/m-p/61588
 type: download
 publishedDateTime: 2016-08-23T20:10:00Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMTdiNzNjOTYtZDRiYS00NDRjLWE5ODAtMTdkYjVlYTI3Y2ZlIiwidCI6IjA5ZTI1MWRjLTVlODctNDhiZi1iNGQyLTcxYjAxYWRiOTg0YSIsImMiOjh9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 191
     isCached: true
 
-secured: "XCZ8+hPXI6xw/QwmaVt2AYY5llZJq8373sYeuc1Kjk6KNgaRzb1E74KJfHxeTNkadJcW8Kor1oF9eTWvN790lgRJrqxnvk+XRlk7nkEFdkWpcNTy9R1uGOzBTZ1Y3XIUpM3jHGa7QoAX9GblrImhugdBQMaHHfecloLTiVoR/Lam066QgJMJAYCudLpGOccC/9Nyb9+2Wr3j1PeAuccg4ux04SQVvwaKit1vtkHttVV6kY/jghyBdg4UcP7lTenUMhpIZpOyygvPr7IgrcDvtxS02cZ0/vM0Sxc3e0BvYfP8rRCGXDw9xpRklcuKKhuKpWXOrkQJWdY23nLgcKnicvgbefsBH9BYMYDIh4tx9sNkt3f8DIbq9aXE6nSrlpevTZljlw6VEi6xrzGgPoUNCdyGJ6td3S3TV+9RQm7za3A=;OyQ0OVLeXeuFsUzy4cAYgA=="
+secured: "5T/9vEN6jDy6p77gI0tsN/VNHf2fl8LsQ3w2/2BjuVXmpkJgqe99Mu5ic+40nSkhrUNV9XyiNUwEKFM98KxGvq0tJ6d9svsnLou73ufr4EtRXb2LaN4v52uE2lDZ3vjIZjMQZTFVoVppyx4XDxq7FZw1h1L3+StFOaHBOyMiEFK7XK7wBGeq9jj6zy/+N8xws+YHfOH9fmnGYSh9SaIWAZ3RjSi4O1U3UpH934YRiI7brRS4ptApjb2h1EtTCyiL12bpsoGri4rmeR2nFdxzikphtYQrah9sO9I4VR0v7hRuyAcDqtkRSgL6TWAe0hG1RcycNdIn4WFJ4ZW0HqY9/dCNfYL38A0ebqwt/oxrQQsicHnUrPBIMHp0oEvIdt9e1QB9E39v8J2eyV2I2dHsfdsitRORpdmIgnQdG3VrtoI=;+4582jSy79tAq+zxt0b3BQ=="
 ---
 

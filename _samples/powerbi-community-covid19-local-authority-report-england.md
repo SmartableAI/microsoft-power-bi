@@ -4,7 +4,7 @@ excerpt: "This report shows the outbreak by # of cases across the local authorit
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Covid19-Local-Authority-Report-England/m-p/1024701
 type: download
 publishedDateTime: 2020-04-14T04:25:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNTk0MWFmOTUtYzY5Ni00ZjE3LTk0ZDktOWM0YjgwMDBkNWQyIiwidCI6IjBjNzk5ZDM4LTQ3NjQtNDJiYy1iNGZmLTIzYmViYTljN2ZlMiIsImMiOjh9\"></iframe>"
 
@@ -42,6 +42,6 @@ images:
     height: 760
     isCached: true
 
-secured: "Rhz5QKZMlX0rx3WgmEjIBNX09Jdo/9Hvkgmh0xHoxCWwT9unCQjruRWWKT4D26Zp/lsbHb4GN4dFjR4c03A8kxVblJSS/yav6u391pegU0poq2jX6K8IclHr9inLhB5j991xQC2yx9/RvIYckU0QqgRvMnOIuwXG1u7HUarXpxCZ9+TDMS2gisBt/G+wsGYCEcAlQwg4uzavc0IqfoQch+TmQyF+CCLKHJv96jvHgVxszMzfZQqRNnRF64lYTpAXh9PEhtuLkgVWZwG2ISOBgCU1Fhg2hPvkXZ47+k9DnGWnTKbYD2cOZl3x3ijG/XRaq+5j5/SHUsX/so/S/pYFNBgymVdOoUrx6QsOiKhtohg2ohuXBg7ncuI5olwuaWu/TL/JbTytngh/bQ4pvf6yGQ==;BVt/X+bIO6Eid/PMN0QmvQ=="
+secured: "+QTvGGEiAFDg/RTu/qnvPYL5jNJ1kSSENXgkhfWir7q0wplS1fYvMBtntb+lBWKXS0PufDJyMR+TzwmiWcXSsZTCnE1Ztht4jVvBm5W37JXgHuLAcmlaRvsIdPQgqv1UHaTExP0FNW4YdLj97OOG33GvilkBdLRM+t4qNvXp/pMfQwdgtLG5PHLzuZXsSHtkxiE/CObLH2vyqnEKSJOA4tk8SXOKIJXuh4F6dZFZRkupAFMxJb7rlbmO9aHle19PZ0ORHA+9xz32mPcu4I3HQq+mBYsxdm0bbv1qIvTsVqkbRUUwJTpf9xJWhbfql4p86ilICTEstcXS8h6w+kGliiizt+ERZZ7GTyjIccEPHRNMJ6hWl72es89sLh2hKJ9V9IgQVC7loGJf5jXNweOuhg==;lXkBKcmSSSWBABShkvu9Aw=="
 ---
 

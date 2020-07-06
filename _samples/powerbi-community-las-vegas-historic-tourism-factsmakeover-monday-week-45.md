@@ -4,7 +4,7 @@ excerpt: "The impact of the Great Recession on the city of Las Vegas"
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Las-Vegas-Historic-Tourism-Facts-Makeover-Monday-Week-45/m-p/836910
 type: download
 publishedDateTime: 2019-11-04T21:00:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYzcyMzExZmMtMWIyMi00Y2FlLWFmNTQtYWE0ZDQyMzRmMDFlIiwidCI6IjgxNzdmMWQzLWU2NTAtNDAxNS1iNzdhLTY4MjUxODQwMzRiNyJ9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 837
     isCached: true
 
-secured: "FgBZx8NOC74MTFOCTwD42X/XlAzg7fzYl5IUvKgSOYsMzvlYrKRua+jq8YYYySYwj3HvQ1OtDnfcUDKm3NambrBNorehN4GVgCXjsKm2MYfyHtZJJs2UrEfk0Ne9FYFdmCQQliFQJb7HxdBNDZvvrYJIBWdZiW0ucLx58c7vlLeQBVNkySwkE+VePmP0q4R3YXP2bY1TvXnKz1YnIJgEFhpcDyFy9lfzShS//HWCVAaVtPdjg/Gj6fBo5ByC5A1lhtzTy+LG1dZ5ck11H2nRA7wohgYEmSv8E3yC3L2UxeRC2EUqxnsiT/rZ0k7r6BlLF29p7hqUoU69erFJ5tlFHCoKuA+dNxyweC++JJ4KwbyQ1xmiliOd5Fg9b83kvFXC6gENApAwXc4ZhztDLodRoQ==;QvecRBDkfSLlaWysyh60hA=="
+secured: "YXtpORFFeJf9MMF87LrxSQBm9fLhZVGfLLfAfIgV9jhsEV84ExIkkKssk9bP2ZGPEpNR6pjctVLa0ieCtsdpe5Xfab78gC3GCOVqutiT9sFluVmnCv/12CFNgpCb6wdpXtcm+dsLMKzxUk0oGI4bZic8agh0CWDy72PgqaPy0wpZnCgiWGuOPjbtXt2qUQpFoejXTJNxRYcPotZhRpywAgJNXPLK+eqCvRFikj3/nR9FsFrMMUVWSei9SulddTc9LlDXBFAbg/UmxhMuPFSVH+U1DRvyfFgFgN4M2Kt7W0OQG9Az1/GEgnHAw4maLyXqwZ79lWjeaRnF4w1k+DypTLMeZU0eZDY6ErmxrJMXMBf2wgUehT5iiZcRr4w+qFMS+BE2CLDeGEhxTmbeiWjdPw==;nN1HpqWyqK3uFDMMh1xdKQ=="
 ---
 

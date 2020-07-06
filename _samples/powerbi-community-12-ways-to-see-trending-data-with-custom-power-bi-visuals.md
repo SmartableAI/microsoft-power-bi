@@ -4,7 +4,7 @@ excerpt: "English | Spanish (español) For full screen view click here: https://
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/12-ways-to-see-trending-data-with-custom-Power-BI-visuals/m-p/1084406
 type: download
 publishedDateTime: 2020-05-11T08:43:00Z
-heat: 53
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZTc5Mzg2YzUtNGI1NS00ZGQ5LTgxMjItNGZiMjEwNzA1MzJjIiwidCI6IjEwZWM3OTJjLTU4NzctNGU1ZS05OGE5LTFiMWQ3YTNjM2RlYiIsImMiOjR9\"></iframe>"
 
@@ -42,6 +42,6 @@ images:
     height: 1010
     isCached: true
 
-secured: "thfhtSsD+dd3CFTobt6C1LMUZr5DZCxNVckqpq3WUIbllZFcqEDzlxFVWGfZ0Q/xdGd291RjjpIfumuM/L21EMKx1k3YWYs+7lo53rVmiyYaYNAqHyXgIj0rBmUw/rSCHlKr7QMC6sC4LdKWvCawsR8jQiVwRZ2zHvAxK8zR4jieoJy5MCZSqQ5M9rhOkOfZRPY2xAukmVoP/WYrztpPuoaOTITxCs0rRtmJ1o5hwRrKRwakwVlQj45DOBvbakfIg/rzW9Ny35twNRmojpkZ0l8y/WK+zGcZVKqpci6DawnLKHIPVkRFfKSLVe88fgEqUhwz+8JElPo779r/F8OCShlGKpEiRN9n4xdTPmCbGU3GPuoVmeGVfWUJbnATBVeF3AcF1u8w9drUBonI/sKbtQ==;shvJa4R62n+e9O0z54GETA=="
+secured: "CHVYnbo4NVlWVzuKA40LcjufWG9Etam/FNoLSu+JokbscDVQ7c92r9YTx/PhbjKgrdMUJSPqj5rgx8B82P6daOUCdnGF6XoEtAwezZoe8MPVFfKzCniboUParpjGVqAm5qRS5ZlTfzABulHXuniG4dAIXOVBwD+Qtiqg9t06rqUXPb8VBJD5kUEMdGy5kDlUBGUdcK1PNTsgQ2xCVmhy6gagYp7zuWINfn1S0SSss10buglNPW0IGsSOw4y2yAb3ixfq6v3xWUrZO9rpHci1kRUOu+Ol2YFG99D+oCyb1N0pRZKYw2tMEkvknBXZvvxpnprbqNOr80OkP5m1KQwhkop+2RC3Gx+HBgLUThiqhL4rRr7zYkInTH5LKhQyjBTleDfRq6B2IY2yTPCrl1PueA==;R5EH59c0LWqYNOoMJAgX9Q=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "Multichannel Attribution dashboard provides simple insights about paid
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Multichannel-Attribution/m-p/1178725
 type: download
 publishedDateTime: 2020-06-24T01:46:00Z
-heat: 57
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYzQ0NDM4MjYtMGM2Yi00MWYwLWFlOTUtMzVkMDZmYjYwNjBlIiwidCI6IjYyYjBiNjRjLTRiNWItNDU5OC04OGZlLTljYTIxNmM1NjdkMiIsImMiOjh9\"></iframe>"
 
@@ -33,6 +33,6 @@ topics:
 tags:
   - Business
 
-secured: "4+R0ulQfOBsJMr1MdCXOCYDrcWiXoNIsqe3OgYYqtUKX7HF564dlW7Z2U4TtMGGO3ezmYp5Sgk8JKNW+8q2nZjLyLeZdLhscxEtf/672bdhFG+1JiJKMEw0WV+aC1xYqmGjRuQ1Nw7wIOHyoHcKndHpUphXk/lHd4OrkRFAxm85czYF2H2PGadxec6+FGhcWqJo4lIRv9HAgOk1EXXE9FgHyBfBZeJQ7YZboYAc7jOi71txBB8L0uDiHeLpliWp1JWNRt/e3e8JaCiieJfZJTAC19NVoxJ2dsaYyOKbQHxHDYWVkIAqJ5Cdc3m86rh/9moZjvKAsr1wP0QYvuTKBeOStZjzfm2cyoFNQSE5x17NkqjaZw0Kg2pD+zMhxxbfeMDAtCTqHHM7QJMx6I+0M0Q==;08n2NDdFPXy7BokRp/ENFw=="
+secured: "7ucF3R5LvZWCCXLB7mN6SF0l5kfkfx/1q/HuTR0o2leGdX9xCeC5iqExmTXhfJCXe+iU7anrEM8QxXOXHyoMxK/Q3fp68RDJM4v1iu8Ks075dscaaAOqPYJMq1DJ/KZp/E91tniVSg3w2iu3mGuUkzXU7pYobRjEUnqqTcGrYi06nQS6SicBaIpLPxXj0xeMRAmAtylRjmYtffsu1ief88LSffhjqNf0ahOBnbuKbTUIsxpV9r9PMlKyzbrYjE44nKrIiBu9IK72R4b17b5+EZgY6dgvRTBhkWBCkzq3de2bDMHkb0cV7evNjH0s8DeD/US7usPj0yQXOm/gag4GsIQK0JNFe7zuRpzPnmJPbI5GJOgQ/9ici7ehBahMkSzEz/LXsc1xMxnV55HcLrkWoQ==;9TgILRmCQcEzvWsFvTmseA=="
 ---
 

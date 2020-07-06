@@ -4,7 +4,7 @@ excerpt: "This report describes 'delayed transfers of care' for adults, for all 
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Adult-Social-Care-for-Welsh-Local-Authorities-5-year-trends/m-p/205238
 type: download
 publishedDateTime: 2017-07-03T04:12:00Z
-heat: 52
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNmRlMWVkMzMtOGIzMi00ODMyLTkxZmEtOTViYmMwYWYwYzBiIiwidCI6IjJmYmQ1NGQwLTc3YTgtNGQyMy1hZTUxLWRiZmY5MTA0ZDY1YyIsImMiOjh9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 759
     isCached: true
 
-secured: "fwTxWGnFcOAhPFFLUOSZtRaYsZOYl/x6ZAZC9ffA+wvaEDKspz5KdnKnWSolGYcQNCpcL9z2YyZ53Yi293rlOWLMjqe0nII2x92gux3uwA4VNe9FWbO7V8euUsXX/ZlgloWqzfye9Nyl+PPLXeyGAYq3pn/YYamEbjiqmjklJDTbozZerNQc7wgUYQeIbwkBqHt7igVxhyhrCYjaxWFAwJ2c6cAy3+CeSTO8UKlGQD/dTaYLMuYMlaHZUMfT50yuLwduCLQL8vNhkLrtBOQ5yo74gR+ncdL92oPDOeU8ONX7dfumwbopoMH1/tXQVdkobhiA96VonCeTswWOxBpNowgIWRaRPzIXnvGnnPw/KlkMVTZGRaLmnSve/wovnYqSbqdKrHFXexHpaF2pEUuxgsQ80orat4t1LKiQbDAC8wo=;+SpxPltcincw3fP7KWdVkA=="
+secured: "LwN3ijssaqV4DrUD5WlVuUkOr5t4DYJPDEVmSjacrsoOBr8XDeLKLU0dNzU+ol3ixkgGawTZj4ArbBCMzBsk3CuuhpSHqQX89Hl0B13N9hpNorIF7GysFp5GsmyB2urSlUZLdjv4e3bwKmlwAt7jkG61faJ0DolAtLEFcyehxW5sok0QOxC7jSztsmPf6sj5gVWzGhux2Ex5Q7qWjebTGtNFfGIah8dOGZDt+wz46YlSFaa91izZDpROMqbnmxLehwkn0dRzlDSJjwZZ6AWqVBXSOUiV8KK5NsoBFvA2vlHPJG3dxzT/Oy2eShWBnbqRUuuj6HFkyjH5BpOI3oYjWZOeF4da7URfmzWtqukuMdlhFjpjhYA9WoL+EFRe1x5vfGZzFgBhyRNsU6qTYQ+sNxVeEma1xdEXzr4BhWQUn/A=;ZPQLV7e0WUukV0D/DSt8Zg=="
 ---
 

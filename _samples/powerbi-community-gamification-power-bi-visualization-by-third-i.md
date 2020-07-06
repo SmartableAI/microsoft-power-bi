@@ -4,7 +4,7 @@ excerpt: "Today, most businesses rely on Salesforce to track their employee acti
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Gamification-Power-BI-Visualization-by-Third-I/m-p/708390
 type: download
 publishedDateTime: 2019-06-06T02:11:00Z
-heat: 65
+heat: 55
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMzViYTAwZTAtZTQ1Yy00NTc5LWJhODktZThmZDdhNzFlNmFmIiwidCI6ImExMTdlOGM2LWRhYTMtNDFlMi1iZDJhLTgyYzUwMmZlMzM4NCJ9\"></iframe>"
 
@@ -42,6 +42,6 @@ images:
     height: 622
     isCached: true
 
-secured: "xuN9zvJ4s9yPROn6+DIHNI/qZHEG4f3AgU4LBvSkntr2t032+PeGcpX9WFjwMLsXovCuK7Ctv3v9tAzSqqJtfjFje4BQOts8spUFYua3vcIg3eyiyFtrVxzbRwgIF9RpxgSYPb2vaCGM9OkBxC3RauMlvEryaizIsh7uplaki0lYvodDo93xC/qvo2/Sv//9v1hp7SRvMdAhEMRJJDSNQJ54ONXt0C9Sf5lAZjBLjEKcowcNLZcBOmpxwN/ktXS80k3Lq9mtRFPcU2NNLjPJRVuuqW6buv9LpKETE7URKNmDdT9R5x6Cq+JEmUGOXnnSrFWwtsg5Syytga9jcuF76u5OyKVfMC3YmOJxo0eeP6uzMEpeIr7GVBeruu3nbs5tV2CuAWfhlFlVaQ/aAnIifYzS2YyZU4USJBSr5TVcDBE=;wYmU3QC1Lfjg18su2dfFvQ=="
+secured: "QuDJiSU7jpjjQrMfNyrfVjf5udLK7P9gF9tRH0cU4HnO5qtcGblEdXlDs0D/SrLGiCtJuGIjJLLzX6sw+/j0h5Vq1RrJSFOdVZGxBA8Mw9VoNbjRAHpEZ+wpT/VQ+UgJXlTLHC7tXuuXiV0M0FxvZpKieAUkyRSIHzUQe93zIfUfErW2+VKsrCNBE8KrIZOSG++y+y+JAV1xGPSj5WjP3xegKVJBcmryHf0tD/0TQuFH+P6In5Eqv2d+5tddOI3NRRVn8A1xOET7mityjDbfd+uUVclhN++sqS0CRsbU345hS+5h+h8w4El2ccqsLA14s9s1IkycFupfiSLZyArqygmtCKRELAx/I6nlaTn/24CWH5kS0bXceDiKd4zQBl9rcK3Dt4GF7/76qK+bBEF5UDpl9SPLAR8ViWUntRjGv/8=;ONll74/8yMVzT1EVSiLNBg=="
 ---
 

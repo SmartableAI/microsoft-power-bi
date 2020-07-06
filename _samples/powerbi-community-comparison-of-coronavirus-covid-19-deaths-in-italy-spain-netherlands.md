@@ -4,7 +4,7 @@ excerpt: "This report is about the status of #COVID-19 in Italy, Spain and the N
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Comparison-of-Coronavirus-COVID-19-deaths-in-Italy-Spain/m-p/1007632
 type: download
 publishedDateTime: 2020-04-03T14:24:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiODMwMjNjMjItNTEzYy00ZmEyLTlmZDktY2MyNzk3MThhYzBhIiwidCI6ImI3OWIyMzE3LTM0ZGQtNDNlNS05MWEyLWNkNjZkM2FlMWYwYiIsImMiOjh9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 100
     isCached: true
 
-secured: "nx1XWqERQ16eZ6Nmo7c+oe7DlO8wx0bWoir5dHOfz+ObnscQ7TXQxnK+1yfYqkI92s18gcGRpVlJHm+2Ovu6pPnkEtsCIrzEdymWcVz+hsnkCtDmiXG+/LO6VCe2IJ907bQuplNO54Y0fuaWFDDU8f6BSvTRJJWS+VGAWKUWj0CWKV/ZZDYwHHXZwNhucbv2FOFCKN1CN7yXlk69Mt8KCEJSUmqsLleq5XIDqZZd0dBZSjYcYNYTn/pMouCknN5Uv52m1I7gAZbSQQeqmO8QCd3JrEbgJU7pfVAyQmwHKV4JXnmgCnVt9KNCVWiiWp5McsuPjxvt6399a0dE5wu7I/sV/TfMRhcKIPHl8IpTQqCwFe3QrnLgtTUds+XMFWkQdrJi7kwsY1LeiKCWjXObyA==;do+A+EZH5W99jeVloAxVbw=="
+secured: "J1qiCJaUDeUpN7AOdsvnO3N/qd62awOty9OivRfL7i5L6gC3buYWLFXXHy8ArWuIKC0v31H2/NIuWsatFy6WNPucBCkSslqK/SHQqwKQKDHfMNIhzkTu+h+RPwRiuJk+JmDqaA2UusNQP3h0FtXf+7Awdk0i533iOy1oGSnYCW5RQly+48jC554j421CtZz69Xxq0NxfJLjztkOkipRmMgQzkrBaZ9RkhMnBdZGUly6yhB7eeukLfoHbPSv675zZxRmrP3S4UxNvSx985kBiVW2+xzQBjp1Gai8g2AdbkysD0ELZ6NhsHwZsyr23J0J1L7sw6efDoJVb9dDr7QJzZRLZOrqLEhgleTj3YX+YInNqjX+YuVXLeOmaj/mSA5VlA0h5FZFV9JAFUH2Z3NM+gg==;M9ugJ4HkOyUWA1XF8EhMWg=="
 ---
 

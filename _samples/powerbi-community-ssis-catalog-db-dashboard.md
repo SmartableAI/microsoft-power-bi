@@ -4,7 +4,7 @@ excerpt: "Hi, This is not so much a Data Story but a template for a dashboard fo
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/SSIS-Catalog-DB-Dashboard/m-p/244677
 type: download
 publishedDateTime: 2017-09-03T13:21:00Z
-heat: 73
+heat: 66
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZDM0N2NmMjMtZmE2NS00MDE1LWJkOWQtZmFmZmZkMzI4ZDBkIiwidCI6ImEwYTcyYzIzLTdlMWEtNGYxOC05NDU4LTlhNzUyYTEzMTg1NCJ9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 836
     isCached: true
 
-secured: "iITC49yTjPtOp0RovM0GDNqYtDdVn7T9cFQFxvXPqRpIVSxuTXHd9ZXlh7O5eGzH8oRecHeTs2W34clNhgv+hYOCBImrR/EY1dPmq4DzW0S8fBtzM+uCrdkXn+jpUisGjV2TIrRw+1JD/WwjOjTqto3FfPO7PY6FzoKtfCeoY0/S8B8Zm26ct6w9PC1DNdxRX++QzRmmcy+AGYrm3O5wcX+mQPTk3lZz1IFAkLS3CTNwAT3HpLp4pHXUlC8PXQLkKaS5D47lDgxFv9JD8a5oJ7H4wjOBlP8XY7TKzL2knCG4oc2c7jmWM0cWYTyqEGYzvVgcRHvJ9xPtmKYYe0DUJBPW2fFoxeLWMZHXRDj/lb/Sj+VcrIaJaIVXPeJPMWVHER3MI0Ex02CEg3Nz2aidyXmhXhqjLy6ClIU3pU8WULU=;Lp4dGY/vtE58H8sqwaeCVw=="
+secured: "rI4WN4DfA90TUd8LlkaSTXBJ2AkBVZuIDBN/ntnkk3FYpqZpx5cBugIj6X2uNd4rA7i6XeQUwVVEU4QWbL3kOYqyrEItgwphhLwuJ7XgbXQ4rh4jD67F3JfK1lQncVkXwscXQEYmBPEK5OLzWRWW3agucNFfUk1l9vhoC6YZMdmXM3b5eME+MW+zV42lF79DQ8HDtS8X3JUcAU/lAH2cY3NroatO+4olNRcHsbC7VKcoTRJJARtLePHbeuQuD4KW9ToLDi6e5JZI+WQTkHKMjfp6BvH4JqePYFUxcmzEVmi2yixkf+9ZLnUo1ZbxeIzioF+1AGEkzuK1s88Imf37BOoXimrkjfAUgDEd/0rWSPZNSM7UqOmZ2acY5sPC9KPO8wAH96ViDBC7WebNJTqo5Z+0aOZezh0GqPeUhmhzO+k=;CfuWNrx7P21WXPq2IxBsQg=="
 ---
 

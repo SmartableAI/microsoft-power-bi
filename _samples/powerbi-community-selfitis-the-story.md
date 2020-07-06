@@ -4,7 +4,7 @@ excerpt: "Why were you interested in telling this story? For the Year in Review 
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Selfitis-The-Story/m-p/349421
 type: download
 publishedDateTime: 2018-01-31T16:13:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYjBiZWFlOTUtYjhjZS00NGIwLWE3Y2EtYTYzOTcxOTU4MzZiIiwidCI6Ijg0ODgwZjIxLWE0OGQtNDA4Zi1hZmZmLTg5NjY3ZjQ5YTJiNCJ9\"></iframe>"
 
@@ -42,6 +42,6 @@ images:
     height: 785
     isCached: true
 
-secured: "hy5KSrtI0KKs/P5MBJFWSjFkaRnsady1dHn01xI4tC0cGoNqU+yYVXuE88AGd7ggIn4LdABzD5EHW9VJXLYdkCM0uptXmNXKcNvtgnPqAk9NlymvlNcNBZDuoRm7WgLEzDI1lzTXE8T4PNXESKSbXAqD+LXoN4xmfU6ltiqU6OTah0YXEbnTZbmgqxw4OyW8Zb6DmBhmWwF1jZl0H7UlNrsMBWnwOwbX5S11hCLm1k8xvS7B+bXu2qsbHQGtvDzzI20IaiWNRZZ/EdQYIXLij2LobhN+HFti6Ruy6L66jxsVWkZ0ZBhSQsOZ7Rh41hcxB8nS+ZdOy9RsUwTwAA/llXdnOxRth41aGGj/r+VOn1FzIwRC/zOXF2+Tx7FVyjlvzG8Zyy8UOUa64Ti52PC0MA==;WxE6lH3RHEHI4WsK5eZymw=="
+secured: "wIlLhCK4aJ3KavBOGIph+AIM5wMv+TkEmBJ4V/QQ40qeXsTtvnNa/n7yYwQRoWhWUwX1BDn2bZ8tU6RmuqngREBtzOM7EssqrNWEejlap51NWRT7/RbUmU2Zk8qCzDoT7eFqNT+ik3Rk4K1FjYBkTJAquMcyYI1Mjy0UMmvb6J3vsiFSXu+pDV5tBhIwehK33PWUcAYRZW66WZSubMnzGIKXfU892k6jt3kq0hHXhycYAgz5/3UofDgYGeDEgKI/k2No3MdeK381U+lSrevIwASpn4NbP2fyM/KMC4X8gQkaaOTFRGf7JfLzQF67+oH/lGv+glqJBe9ats63Djjn2a/bryLnGrS2eQTLpTxMkeGfNCNgGS7bMmS0xb89+TOs7yasiZCuPDUvN+wNLHW2wg==;M7bhlIRFStgR1cF8vQTxcw=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "All telco companies need to have focused retention programs to mitigat
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Telco-churn-dashboard/m-p/621679
 type: download
 publishedDateTime: 2019-02-12T03:47:00Z
-heat: 57
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMjExMDZiZWEtNzY0Mi00ZjJiLTlkYzAtMmY1ZjJjYmQyZjQ0IiwidCI6ImU3NjJmZmZmLTlmMjctNGFjNy04MmFiLTBmMTg0ZmIwMjkyMyIsImMiOjh9\"></iframe>"
 
@@ -41,6 +41,6 @@ images:
     height: 862
     isCached: true
 
-secured: "0yBh3CauDRnKQsuFFgobjasFxKR7OdQZUwiKAns6t9gdsaRP6Ia4QpqCZzOlKKJB+N5+smIXyp7xdDskE2dQbTRW7hndRYVFu6qMN7aTS4fb1P3VvLNi/cmgQ2hBj9GHmFmgsaM8soMCmBDM3i/PMajbOiQvla1vaTENXP62/svYkr1zrXUoHN6Ogw9LsNz4MneehtqtDr+3adlM3rIzwRs8xMB2b8zpKFcp9yEQWWs9z2p93QiApQHktQdEOrRaU+RCBJLYU9dFiMxlaPWBQ5DhbBVzuAA2WIVjkc9TRYo9RgOXmyQH+i74HiOpSpntBzUbIgxr5aymlMHzV8Wf4kVBK1AS8ojco8b69GFqND29zdd5Bz4JhIFIYw8AQUbrox0AM7nHtYPySgzZEif2hHbd/dYKDsBD0Iy+ZQyu2NE=;bGFn6t29MxQ10JLI8FipGw=="
+secured: "N/o0VIgufNrHLuyIFm06QLmpGgV7NpoeCkNJyUGmRe7p82ToH9Z9n9INHPr9Fe+UnszQqBxM9TYAM8n1TgfL3ztTleLOp53G0KxLooGRqv6s7aWqdAdp6cfGDWh7vu4u71GACJtkuZ5CId9mtnNvFqoiz28zTQsmJTMCxB5Og8ysPkRlm89mhrUNozJFucUEZWx6DPQcIfJYdeaR2r4TpQpKgtr9OqR5DGxnwHbvUxa5ONftz7H+H/jQ7X77fPPbKuCot84DcRD++ZVC+69iqpmNvKBvroDnbujCjbOtGM+m1NKrJJ8Dezblhl7OF4boMpsPq5OL0VW5O9WyF36J8BdaPYQR+EbNFbxl72TDdB0j2aqzEaT5BGuykWbU7m4fmWMib4UFYeFKaFv0FETpvqG3yvyB1WBbCHTBoPX+Lbc=;fI6V7AMfW8CeBZ7X+vqfPQ=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "This report uses data from John Hopkins University to analyze COVID-19
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-Global-Report/m-p/994023
 type: download
 publishedDateTime: 2020-03-26T14:06:00Z
-heat: 55
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNDRmOGMxYzItM2U1Mi00NThhLWFhYTgtMmI4NGYxZDgwNzlhIiwidCI6IjYzMDNjMTI1LWY2ZDUtNDc3ZC04ZTYwLWQ0MDQ0YmZhNTM3OSIsImMiOjZ9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 692
     isCached: true
 
-secured: "p4oaovqi7NzZFgC0I0FyZagabbqdx2rBf3+wCyeiG+pynDLqRPeBzWrZNoHjjq556xoCdhpJvzJo79VoLrqkz/J9HMn+jP2nAPrOJewqbYMwa6ETkxYGtsJeObK3Mka7usIwLknw2XI9/Jktb3YaEW2E0UrYwMErx1srGBeD0JURPZaWuRJApIqT6m3s4wfTmxZgkZF6vj8kUQM4s58pvBHM2xBKR69+C0HcHc/MzcXxuWN5NshibBOJ8vDnYWu/PMswR1iARlq9P0rJWWMV5X4C+B79WXNASziS43Ak9yN6htrQkbs+zHGvsw9zi79NugDjTStxlAKloJoP4rqaFvKpktr2oyhUJXmLqQ7QNnF0FJ0zgVs6oGgNTgVluDnKhcFEwCyvXYaumprdAT3jBA==;JeJPq7jGmPOHE+TnVCWg6w=="
+secured: "fQ77zGJZCHt+MX6CqrS3p6+uE/IFubXYJsTShhd9dvOijkXA4gs4JZKz28lgvGQUCrjMeMHFvrklCXdsSPqsXbY8+uZFwWYxHmythc78A7BagvlYpRmu2z/LpW+tgBHTBGEqLGJROo749HKxvcM1mTTDqCoKoIMyRVf3ubiJrOFTXl/cKB34sp7ELBQcKvWGLleiKTE+4wyq9xRqbj84KR/NOrU74uxGtGygKe5DdxjVLNiOLwyx1m5//kyUKy/ELIPvqJ5+vEXwEp/QB+GcjEbMsT3CdOPymNv0uK2yiffg9XsdoecqooftVukQxGYW+CwA2YWFsQrnIXBc4tNPzivYEXzMuwnk+G3kLCrjnN5Ktps/XMqOD7jaLrDGOxjRNosvKeJnVITetL8cXUF1Pw==;uVxD2T9fEeAWOr3UORRTIQ=="
 ---
 

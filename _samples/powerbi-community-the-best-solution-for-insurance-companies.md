@@ -4,7 +4,7 @@ excerpt: "Hi! This is a tool for underwriters and finance department. This helps
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/The-best-solution-for-insurance-companies/m-p/409839
 type: download
 publishedDateTime: 2018-05-03T03:45:00Z
-heat: 53
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZDQzYjg0OGItYjFjNC00OTE5LThhODAtOWVmZDdlYjJmYzM1IiwidCI6IjJkNzIwNGFjLWMxNDEtNDc3MC1iZGIxLTQ2ZDQ1OTQxNDYyYiIsImMiOjF9\"></iframe>"
 
@@ -41,6 +41,6 @@ images:
     height: 1080
     isCached: true
 
-secured: "BlGj7ieSbVzWUjjfahOYyRaStrWenqlD/eKQ2PbQ15Xl7PwDaXrRWknbujV4fGN1NBLiq+MtwBNJmkTTdmdHlX4tBfasLoKV0al2vFJqMtrcwSVpzXKIJ6AlQSmT7J8HFom5drsQ7rU8gQr7da59XX48IhO3N6dDRwNcCcbzC6LUq1skLNHRkB+5/BB9H7eL9EceHLLwLYwToCK5zhrzwWoVBw0waDrXPHheJKe6pEo7K3fhQp3l5n8+iqf5PSPCw90XNaK0velZUuC2YUNQyKvgF1kJ9e7UONOHE3Zp5aL8jnr0kc1wCYu544Gc9g2Fq1ka6MLSRzmInuV7kbbv1SVJS/UnHpINlIkluZyrxRsfauvWKPJsbbEdLIJPvkrqADjQrg/kxi7WQrY3RxOxBws+dsztjsT2cayjhO0+2+o=;TzgJmXvNIFeMxwNYR2UitQ=="
+secured: "LBUpbj7VRhCu4anAgrH2wEPDz3l7UsA7q6gwvoHQnEWnnVSUWkyj1care593C7TeJ+4pglLwKnVA5IbIK4HAA4DtVnafOVSSXcgTDMo7QQ8EcVSTimMbo+aWgxp49GF3sCF+n4oa0H5Bx1Hqjgc8SJIwyXNpzvxNcoKE75zZPB5nYAWMWuu/QHWK6QDkO67WG3p16IE9tES16+o6iqyINXrCAYj4ad0Te9i/MgIMMmhxOvybNx1n0W/RTmY4AIX152i21RFCBB1AsTBHkyj5+LzTtjTAQASvRR37BPT0WvsCQPeYLwIkObSCGSeQfkCT9XqzgVCxZyxLPzM6yHgq5SuM4cuG39r8thXb8lWsXhXE3frnvKZyz0R1Misj0+ugCZfPQPtnJXRXWo9WwtpXq/Z035tTeePXhRMrOZP0IgM=;rpYxYO24Lw2X3mQmdoovmA=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "My oldest sister Laurie is a superintendent for an Ohio school distric
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Ohio-Primary-and-Secondary-Education-Performance/m-p/74155
 type: download
 publishedDateTime: 2016-10-02T11:09:00Z
-heat: 53
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNmE2ZDc0NTQtY2NmYS00YmYxLWI5NzYtMTRkMzFhM2U4ZWI4IiwidCI6IjRhMDQyNzQzLTM3M2EtNDNkMi04MjdiLTAwM2Y0YzdiYTFlNSIsImMiOjN9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 1241
     isCached: true
 
-secured: "35baUXpZZf2QYKtjHRRgS6MW8IDI7dHT1ouqrm70wO/9CPI3sqP/KjmWbrLUOfsueLLuHLca8F7SUPuTjk2NpYOZG0gSqUoxhkI20eHsU1LwMBh+fOvOKx5Wg7xp3EnoxdRf4nR+wdbAwgULovFoat06umpS8VVtoSVFJg1UPHLcJetXlrTdJNFUwdnsUXoegalQ6qKcGcByW652u2L3oD6htxUQBEzIY8oX7Suzf6Mjv8Cgx/GSAz63jWceHGFREcaRwuhHOe37Nh8LC3DTCD53dpUZ6VDLVmFnhnlPWfKMWGyJxJBlyDJ78L6AJo3CR8gvb0H2xfQu+2OV2XQTAP2i8hU0AI1jBJBPE9VCHj9bYYdKjM8zXwUIrm3MkqHEph/FinlOYjoXn+Orl8ZSR6dcXehqcYIa3U5v1bq9Rts=;t8pGatphytpecQhv8r/mOQ=="
+secured: "lBntkKb8QbX5tBdHu2L8Ul9ZgQp8GVxVyMi+Xe30NrMCv08OAzKB/C8ECUbbNjQJXDLxlqSHO2xmVD/eSASVweM0Frt91qvrGt3WI8GwW7yVXdb5n7pGWzwUACRUlXbqtV295UnZOQPeTWwJBQQICfmJihwhRzflfhh0AJWtQjG+EbNDm5BdLsjKEUB+3I9UjbCxL2NCdvl+M1F0xRBNwEyAEldFKm79OQkDa9P/IG+Mdq2u1h+qZ+qyWXLgTnZYx1jrh/ux/dPFD6D893g+i1J17loazGXgQAB5eUEA9ZdOTddet0tX2hpmv/dqGHgTLxxa4TPZjkYM6ipfnt7bAawX1WF2rE5G9t1RJO5VcPiA9tOAixWigRGmxRmgSyjb78iLy9VD7stDPZJRFHif4cjJj3tFSXMVK2DNpUE+YsY=;4dJ8lIlYwJ1b64rRIfMpIw=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "eyJrIjoiMzZjNmIyMzMtYTJlYy00NDM1LWJjZjQtYmU2Nzk1OWY0YmQzIiwidCI6IjNlMD
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Pets-and-their-likeliness/m-p/789899
 type: download
 publishedDateTime: 2019-09-11T15:04:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMzZjNmIyMzMtYTJlYy00NDM1LWJjZjQtYmU2Nzk1OWY0YmQzIiwidCI6IjNlMDlkOWNlLWIxYmYtNDRkYS05Y2Q4LTc1YzRhNTJhOGI0MSJ9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 719
     isCached: true
 
-secured: "FrhhZw2V0P1mGlEe0SDTDagJlMGsoyTJQDJ8eRUbmXeC1U82gVNTv2o3RUg5GXE1NeHJJ3nqa0WHM+kNld0Lzb7AsV8yTNejlZcTPZqAn9eAlFdV/uIp7qRJbVcrqSKvG5j73YZanN/dTxb9Bqxj0+wf2Yh6SHN4QKaQr+hc76Nn91fpkME4mQaEYoz98PhUZZ6rtgG/wAR959fhha+eZZHWMN2QBMNdq5mdz1zNoKde49l5Lo1ToK5H5QTL3Uy+hnFFGcn0EXMgqDdwGK7wA1x+kuNyEWUkf8wrfeHwePdqTjVcV1f/KZvnUwRElOpsJyNAzNydqSN6iqfulXk+Dgh+aD/9fr7fDyTLKZanKp2shp2RnbThATfxte8kGmqRB2a+iPHVL8Ubc+hPgQ3Lag==;UMTFoqNlywMhq4LZ0J/Prg=="
+secured: "asI5inomEKnGhEriSw32hsHeIUFbMhn1un/HMqTSaKYbFAme++JKxySEO9UPiY032dl9ekFmV9NAt1VZTdEiOB2y6XTv4sebQKvERfv5AUJVh1qljwF/TrlZLCLPFEQWfM/UtzEEh5akoWezCtMf0Yk+/HIy0jJkfwL1VQYaxo8zYXsGXrOhjYT82mT90CElcRqTEVYuzhRMWz6oSZ4gs4mfcbRxmIMIyBo0kbaGNncZW+VEnkXzko7lQivceLCXagNbwDK4Qvk0uIq68DKQgBSx9iMPQWOu2mrRu5JXVi7MC1vd7b5n2IAmoz0p9KYI+TO4lGF9ewupuXFCJa5ZGNeRLibJVJCGOgYY31wEvws2Lg+3rau2WL44NXUwfLMD+kCcjVE+m1ZQVrmP8NiVcw==;dT4jjYBYtu1rg8uGU7gyaA=="
 ---
 

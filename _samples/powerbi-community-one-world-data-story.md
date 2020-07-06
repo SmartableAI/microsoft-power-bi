@@ -4,7 +4,7 @@ excerpt: "Description Social indicators are the statistical measures that descri
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/ONE-world-Data-Story/m-p/340964
 type: download
 publishedDateTime: 2018-01-18T08:10:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZTdhZmQzODEtM2VlMy00ZWNmLWJmZmMtNjg0OTRiYjM3MzdkIiwidCI6IjZiZTA0Mzc4LTY3MjUtNGUwYS1iZTc3LTllYzIwMTZkZWMzZiIsImMiOjl9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 845
     isCached: true
 
-secured: "Nuw0wsj5HehZJ5JgXuAabhx+hwetCfl5GoqRB16LpbRrOMplNb4DDsfqrFmlGAdyJ4Wo3I17ruXDPGxWkJvsbBL/B1lBjKwl483t5QoqKRhvl7tWoxBUsb2M6xKJz+McWWmGhEc9SuOBcrch1swIi7zBJyg1cjyQMGes46vg9UlfORcxH7a5U6KiHxZUFVCR3kuheKacxLHGnvPXOjFNvBEZdIVQ1P55uad7ZDmoiD3Qkfz1bvaSkuJDspy000Sg7g355UEFsZVR+SdL3IB3eGb9STujXx46tx+CHwfN2geZZtnHWGrs3ilXWOxLSXwd1DPImMf2YLHCY+LJ5BuOVqlUUM//Rg4rBUCsHkBB41kruM3UkFRvMKnPgAR+5a5ThXOo7sBLTa3QgOMMdPkBd8RDT0RWNKp2I/XPGCvwDJw=;UGnGQNzceezd7Rs/aBhYqQ=="
+secured: "l3/UOg7kMyV/Uc9SE+X97DBCy4F2fQbaSFxZGOT/eb8k4ICzsJAwvf0fPE6ve4PuQdGFxDXbUKwkgIBbwFZg+ptWi+ZeSEltUJ4OG/bO6zlOIT2BdfgXP3M+FJKN5Amg+yNOmhZBUOpTVbsEmjquDWDZMuDcCs6Q6ozHMusjmOh1h0CDlJcSKzZF8cE/L+VJR9xnl9dTLnpBYIs1VnOz8WkgUbvYlXZw7xGbQS2Fcau6pyUxAN34p5Aj0rk/dGGkg30xAUqy7ZSbGbAXISoW53sK697OIkTItJzyp+tsJMyJg10xP8w/73+zvw0EYopeCp49XH9dda6Q1Kub8ZSFu9DgEwHnS5wk/rZn7RHhvwYPzrioqLEI7R2QHT662R0d0mhpfkMonX9wzTEUIz8wfFRUFbciglY75gvXSY3UYjs=;za3loj8WuqQAQ3jb2tcoBA=="
 ---
 
