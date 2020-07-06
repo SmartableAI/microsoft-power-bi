@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT1H7M
 ratings:
-  count: 3951
-  average: 4.7091875
+  count: 3953
+  average: 4.7090816
 heat: 59
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Model data in Power BI"
 
-secured: "KIt9pU24F8aouDwCSMJlxN2zW3UhkzGVoZL962GIWF70xvEbe4bcg8YVx1DlyrRG9NsSENQpLLoJXiQdowQxuFOi0O9kcQN/AmqVUD4pSzTqficRYfzaxE1BWzQn0FpSm0oAaA4wLcP0nVczsYUGPr1uts0jDEifo+qqnyUX17vsw2AVwjB4lIdMVVSiX1PB/tUiiVghTOoDGJSJ0MQqLczAoOMYbpZi4bQneuK+zKVPHgG+0aOKjGSjxrwlaAjh0+apfrllS74WNgV/A16gT9LeXxvSnabdTB5UhVnSfVliqo47+uykf6GM8AjT182f/IjqcVUpHmiuvzmE0kZMfBeZ8HlZ5vu305y0mzIkrRrzU21/jWovAg/cF6jNKI2pBCpZlHBHdJCLL/DZrVnd9w==;bMGUYVLV1z7vYaLtPk7Qkw=="
+secured: "BHMx5vrvws1bYOasNfIsnG/wvxkQ04F4fA+G7qxBsgf4/9XH8MHPI4qxCcWIncf+1ag61GiZ34Vxs1K1JPl4V7iPzn4UoOLG4H0LUZzzP59+aJDO9r3vjB6TVGXhUbmzV6XzQ5d2Vactuzmz2w2cGaqmQOnDJnluPAa/1R9Y/eh5VhroShV79lrLKPHHKKfkQjoA30zNUJljWb2L3dlig6+gkKUM4SXQ4UWbfxOO0av3/YyiYyJhO/TPsg4KOPV3SADPuSlfxjZ7K11H6nfIO4fnfgGotdH2oKeBmU6LuPpHk61pHFFxV8pcyC36iKzVvTGQg3AAldtlF6A6LDAn8xgz7x2OS52CNGLcBPh79WGcHwycvAustRwho4Ep4aklVhsGMQBcWOW+ECpQK3TLgA==;cI7ByZBt9ySqQW/IiC3uCQ=="
 ---
 

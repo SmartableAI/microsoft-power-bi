@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT8M43S
 publishedDateTime: 2020-06-01T20:37:17Z
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft
@@ -25,6 +25,6 @@ images:
     height: 360
     isCached: true
 
-secured: "1RDoeP2CDUW7vVAHETY0aceM8Jo6mv96NoG/4LgAAxwCnJ2YhhoBwPAou4l86Rc6LFXrZptZDouDeujY3q0HNC+0/V/mFyykk6PXbqJMUkb/49vwaIVUcceJHTKZmS3/lysdKYNESwHZE4kNpaUAEGahHa2a5K8pEPIe0b6LqMH/B/3yrtO28AB8oTQQPEI7JU52+K5L5CsvQ2AJbOazCnhTJSj1Ww8JcKfPiBfXXyk+t3pp4eJe7IUNxebs+rffqc369HDyAqzS9khp68qyy2nFfSiOIZ16tbWXTTu32hRj1UiwUhzId6sIRX/w2onvocNrYgM+OqSAHDA8dybxU2i5qPkPPe+psJnly/X5xZ2VFaOidxnx00/+Gn4/AiWXHxC+WHbEuOxk4mcdI7KNhA==;vBnpdljkykmJynxZuM9eQA=="
+secured: "P2LhLXrGNQVdhaQuCAlkuNqYjNK2ybgveDsScNDuYoy6E0Kc52pg5XOj9elP+8cM8r0ogJrfuw7KIdHG3Og4TmbQVRU51zi+cBLJy3/jBpn4TLBr5nRPEwPx7OYEvwsOTgNhMmsLZZKEaqYI6ESPt4Y2ipydqvFQf5RhcBnMbRJNBfb2FqjzkougFB6R6uHeWdFWCGkbywZ8P212xyON9/Kx6ywUMA0s1QD4udkJq757q4/jRsMQHzhghIuiuVyLGi3KFAHW8uib3y0bE6s3B5EtenXJ1Z+EkRh6gKMEoIGQqWD1p0AGMKRK/gX+s5JodX1puG7DdNirdSEDLTbDLQH7PzRxJtPZ6knPy7rAfjOC3nbqI/BU5k/WGXWtcCjsOrATjiBs/UxIwhf9GToFaA==;IAbcmEZi0e8Ehaq86Cb0Eg=="
 ---
 
