@@ -8,6 +8,8 @@ length: PT13M1S
 publishedDateTime: 2020-04-23T15:00:08Z
 heat: 56
 
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EolSBRkNpbk?autoplay=1&mute=1\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
 provider:
   name: Guy in a Cube
   domain: guyinacube.com

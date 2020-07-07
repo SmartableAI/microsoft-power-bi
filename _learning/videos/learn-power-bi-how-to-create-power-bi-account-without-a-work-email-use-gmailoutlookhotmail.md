@@ -8,6 +8,8 @@ length: PT11M36S
 publishedDateTime: 2020-04-15T16:00:03Z
 heat: 56
 
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2ZPkMuKrTUg?autoplay=1&mute=1\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
 provider:
   name: Learn Power BI
   domain: learnpowerbi.com

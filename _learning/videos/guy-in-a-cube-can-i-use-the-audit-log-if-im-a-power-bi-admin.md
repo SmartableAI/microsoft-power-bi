@@ -8,6 +8,8 @@ length: PT3M38S
 publishedDateTime: 2017-03-14T15:54:26Z
 heat: 50
 
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Gf02xjFpqys?autoplay=1&mute=1\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
 provider:
   name: Guy in a Cube
   domain: guyinacube.com

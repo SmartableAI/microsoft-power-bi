@@ -8,6 +8,8 @@ length: PT8M11S
 publishedDateTime: 2020-05-01T10:48:41Z
 heat: 52
 
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sz7yW06scgk?autoplay=1&mute=1\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
 provider:
   name: Enterprise DNA
   domain: enterprisedna.co

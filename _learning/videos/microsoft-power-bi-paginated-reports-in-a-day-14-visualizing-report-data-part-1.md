@@ -8,6 +8,8 @@ length: PT11M16S
 publishedDateTime: 2020-03-18T04:13:46Z
 heat: 52
 
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/b4TxBBtOWSw?autoplay=1&mute=1\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
 provider:
   name: Microsoft
   domain: microsoft.com

@@ -8,6 +8,8 @@ length: PT3H42M37S
 publishedDateTime: 2020-04-10T20:33:06Z
 heat: 59
 
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/z3DHsL05wzQ?autoplay=1&mute=1\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
 provider:
   name: Learn Power BI
   domain: learnpowerbi.com
@@ -15,12 +17,6 @@ provider:
 topics:
   - Power BI
 
-images:
-  - url: https://i.ytimg.com/vi/z3DHsL05wzQ/maxresdefault.jpg
-    width: 1280
-    height: 720
-    isCached: true
-
-secured: "dxF7weqedoqVpxs0jJlZmxVW9A+EPN3Zh5KXNdizSbmegqWo+v7VLE0Xg3FBw+7Bp5Vc8ARDEU4fXtCyPqY3fHHlkoOFHBsyHFiRufHqVh7jYbnyfq9Js9ZOUQmwdaHPmMcB9BGpdyQoVi8KsnB4ElkXdCymN6pq6Ppyn0gobBGIM3fYiGlOffxJMHRl703BvcNce0U0PfQ+9dPInpTdeHmHxl0bAf2JGr7DFA6IfsqeRqH3+AJivnHIx5y2Zx7vXKKLk1HH+R3op2UWiyg2FbnB6EN9NJ0T499RMFwDoPMTusS+JLpn7+HG5Jna2+Ne57VMU88iFsHzO+WTvJZV+wx5L4FhKWT/c25I2f+5XT6Wa6lAIzULdMHVPJlrkZyp;rFgKD90EWB4cV/+2GLosjg=="
+secured: "mDmOiR1V/3YDmZkqbraUrill5Z32LdKA/OOlewout185hLQMVnQYCWEMvOz7EVkaA8o0pGkImxM6BNNitpMLNbGdLTrXfndp12/f5oznkaqEChH4Ok9wIdmTNA0iwHoBc9A6B4mK4RBlbhXiLGXZ9/+XSefis4izNcxqvvZCLjkms27CRfRQzye760dZX7GfHxgqKDrWBJbut0SeGNs7VxordSu9Xcf/GkSk0TKgq+AadWdGu2050AHCMIsveyy/mfnCwpMUUod5HLRjoFplrJUi9CrtCWw4Sqwi9d9WgfN4aBVtrOdvQnpI9ZEc0K+boQYMH2owVIa71NAM2D44HmTZSpizF7P8GbJeq6cpCOhTju0llhr8kJuVIQtBSESp;+XbGbi4+ZVXL7nbmhfRQXg=="
 ---
 
