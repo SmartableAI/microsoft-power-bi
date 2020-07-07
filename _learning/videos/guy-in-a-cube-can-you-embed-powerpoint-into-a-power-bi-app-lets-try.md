@@ -1,7 +1,7 @@
 ---
 title: "Can you embed PowerPoint into a Power BI App? Let's try!"
 excerpt: "Let's try to embed PowerPoint into a published Power BI App. Sometimes you just have to try something!  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level? We have training courses available to help you with your journey.  🎓"
-webUrl: https://youtube.com/watch?v=fr1yjm-uFRE
+originalUrl: https://youtube.com/watch?v=fr1yjm-uFRE
 type: video
 price: Free
 length: PT4M22S

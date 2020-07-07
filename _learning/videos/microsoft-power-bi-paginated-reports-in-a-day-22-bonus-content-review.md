@@ -1,7 +1,7 @@
 ---
 title: "Power BI Paginated Reports in a Day - 22: Bonus Content: Review"
 excerpt: "In this video, Peter Myers presents a mind map bringing together the report design concepts and how they relate.  The Power BI Paginated Reports in a Day online course aims to empower you as a report author with the technical knowledge required to create, publish, and distribute Power BI paginated reports."
-webUrl: https://youtube.com/watch?v=w5zlJ8BodxI
+originalUrl: https://youtube.com/watch?v=w5zlJ8BodxI
 type: video
 price: Free
 length: PT1M56S

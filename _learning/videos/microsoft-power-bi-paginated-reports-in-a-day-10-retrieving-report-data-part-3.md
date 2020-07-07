@@ -1,7 +1,7 @@
 ---
 title: "Power BI Paginated Reports in a Day - 10: Retrieving Report Data - Part 3"
 excerpt: "In this video, we demonstrate creating and publishing a list report. This demonstration shows you the development methodology end-to-end.  The Power BI Paginated Reports in a Day online course aims to empower you as a report author with the technical knowledge required to create, publish, and distribute"
-webUrl: https://youtube.com/watch?v=OFXG7sl5L2o
+originalUrl: https://youtube.com/watch?v=OFXG7sl5L2o
 type: video
 price: Free
 length: PT22M21S

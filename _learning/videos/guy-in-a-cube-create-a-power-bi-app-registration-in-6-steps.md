@@ -1,7 +1,7 @@
 ---
 title: "Create a Power BI app registration in 6 steps"
 excerpt: "We look at a Power BI tutorial on how to properly complete the app registration within Azure Active Directory (AAD). This power bi tutorial is needed as we see many questions about the proper configuration for a Power BI app registration regarding which settings to use.  App registrations are needed"
-webUrl: https://youtube.com/watch?v=DgiAUsdnVrM
+originalUrl: https://youtube.com/watch?v=DgiAUsdnVrM
 type: video
 price: Free
 length: PT8M3S

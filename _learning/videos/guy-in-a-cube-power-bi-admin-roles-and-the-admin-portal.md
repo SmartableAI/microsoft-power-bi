@@ -1,7 +1,7 @@
 ---
 title: "Power BI Admin Roles and the Admin Portal"
 excerpt: "Adam looks at the Power BI Admin Portal and the roles you need to be able to access and manage your Power BI items. This consists of two potential roles within Azure Active Directory or Office 365.  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton -- http://twitter.com/patrickdba"
-webUrl: https://youtube.com/watch?v=bjERMKH2blw
+originalUrl: https://youtube.com/watch?v=bjERMKH2blw
 type: video
 price: Free
 length: PT9M45S

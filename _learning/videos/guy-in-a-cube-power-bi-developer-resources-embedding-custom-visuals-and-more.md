@@ -1,7 +1,7 @@
 ---
 title: "Power BI Developer resources (embedding, custom visuals and more)"
 excerpt: "In this video, Adam looks at some of the different resources that are available to you if you are looking to develop against Power BI. Whether that is embedding Power BI content, creating a custom visual or a custom data connector.  *** Embedding resources ***  Documentation:  How to embed your Power"
-webUrl: https://youtube.com/watch?v=DuD72qgYeQg
+originalUrl: https://youtube.com/watch?v=DuD72qgYeQg
 type: video
 price: Free
 length: PT7M53S

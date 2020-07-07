@@ -1,7 +1,7 @@
 ---
 title: "Why can't I define my Power BI Aggregations???"
 excerpt: "Trouble defining your Power BI Aggregations? Field selection all grayed out? Patrick has a tip for you!  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level? We have training courses available to help you with your journey.  🎓"
-webUrl: https://youtube.com/watch?v=V9aG-6wr1xQ
+originalUrl: https://youtube.com/watch?v=V9aG-6wr1xQ
 type: video
 price: Free
 length: PT3M13S

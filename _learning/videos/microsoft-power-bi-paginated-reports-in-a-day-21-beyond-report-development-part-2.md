@@ -1,7 +1,7 @@
 ---
 title: "Power BI Paginated Reports in a Day - 21: Beyond Report Development - Part 2"
 excerpt: "In this video, we demonstrate publishing a report, and then show how to embed it using URL access, and also how to create a subscription.  The Power BI Paginated Reports in a Day online course aims to empower you as a report author with the technical knowledge required to create, publish, and distribute"
-webUrl: https://youtube.com/watch?v=KRwtl7h0ynI
+originalUrl: https://youtube.com/watch?v=KRwtl7h0ynI
 type: video
 price: Free
 length: PT4M54S

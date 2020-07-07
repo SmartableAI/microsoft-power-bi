@@ -1,7 +1,7 @@
 ---
 title: "Keep asking questions..."
 excerpt: "A comment was made in last week's live stream that struck a chord with us. We thought we would try to encourage you to keep exploring and learning and that we are all here together as a community.  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills"
-webUrl: https://youtube.com/watch?v=JOnrn9rY4iA
+originalUrl: https://youtube.com/watch?v=JOnrn9rY4iA
 type: video
 price: Free
 length: PT2M52S

@@ -1,7 +1,7 @@
 ---
 title: "What is Power BI?"
 excerpt: "In this video, Adam looks at what is Power BI. While people may see bits and pieces of Power BI, they may not understand holistically what Power BI is. From Power BI Desktop to the Power BI service and the mobile app, Power BI is a full suite of tools for your visualization and reporting needs.  Power"
-webUrl: https://youtube.com/watch?v=7iUqMA2Y6xA
+originalUrl: https://youtube.com/watch?v=7iUqMA2Y6xA
 type: video
 price: Free
 length: PT6M8S

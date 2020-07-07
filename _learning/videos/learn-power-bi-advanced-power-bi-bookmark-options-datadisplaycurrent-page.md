@@ -1,7 +1,7 @@
 ---
 title: "Advanced Power BI Bookmark Options (Data/Display/Current Page)"
 excerpt: "If you use Power BI Bookmarks you may not have used the advanced bookmarking options for  ➔ Bookmark Data ➔ Bookmark Display  ➔ Bookmark Current Page I talk about these options and show you were these can really help you out when using Power BI Bookmarks in advanced scenarios.  ================================"
-webUrl: https://youtube.com/watch?v=PHS6OCSnE_g
+originalUrl: https://youtube.com/watch?v=PHS6OCSnE_g
 type: video
 price: Free
 length: PT4M44S

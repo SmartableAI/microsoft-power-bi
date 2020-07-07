@@ -1,7 +1,7 @@
 ---
 title: "Power BI Paginated Reports in a Day - 17: Visualizing Report Data - Part 4"
 excerpt: "In this video, we demonstrate adding data bars and indicators to the table report.  The Power BI Paginated Reports in a Day online course aims to empower you as a report author with the technical knowledge required to create, publish, and distribute Power BI paginated reports. We recommend you watch"
-webUrl: https://youtube.com/watch?v=5yHxuRRP_eU
+originalUrl: https://youtube.com/watch?v=5yHxuRRP_eU
 type: video
 price: Free
 length: PT8M10S

@@ -1,7 +1,7 @@
 ---
 title: "Course Intro - (1.1) Ultimate Beginners Guide to DAX 2019"
 excerpt: "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-power-bi-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide Power BI tutorials by using the demo data available for"
-webUrl: https://youtube.com/watch?v=gNR5yNczQ-s
+originalUrl: https://youtube.com/watch?v=gNR5yNczQ-s
 type: video
 price: Free
 length: PT1M41S

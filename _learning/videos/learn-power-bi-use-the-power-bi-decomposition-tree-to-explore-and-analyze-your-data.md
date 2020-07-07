@@ -1,7 +1,7 @@
 ---
 title: "Use the Power BI Decomposition Tree to Explore and Analyze Your Data"
 excerpt: "The Decomposition Tree is the cool new AI powered Visual in Power BI, that can really help you explore and analyze your data. We will show you step-by-step on how you can use the Decomposition Tree visual and also share some useful tips along the way.  ================================\r 👉 FREE Power"
-webUrl: https://youtube.com/watch?v=5_wN-kUIcGs
+originalUrl: https://youtube.com/watch?v=5_wN-kUIcGs
 type: video
 price: Free
 length: PT11M15S

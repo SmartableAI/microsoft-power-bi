@@ -1,7 +1,7 @@
 ---
 title: "Module 6: Enforcing Row-level security (Part 3/3) | Power BI Developer in a Day"
 excerpt: "In this video, Peter Myers demonstrates how to create static roles, a dynamic role, and how to develop a data-driven security design. This is video 18 of 20.    The Power BI Developer in a Day online course empowers you as an app developer with the technical knowledge required to embed Power BI content."
-webUrl: https://youtube.com/watch?v=OdgtbIIM9pk
+originalUrl: https://youtube.com/watch?v=OdgtbIIM9pk
 type: video
 price: Free
 length: PT12M47S

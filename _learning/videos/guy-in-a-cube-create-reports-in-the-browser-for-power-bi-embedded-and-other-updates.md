@@ -1,7 +1,7 @@
 ---
 title: "Create reports in the browser for Power BI Embedded and other updates"
 excerpt: "March 2017 is bringing a lot of updates to Power BI Embedded including the ability to create reports within the browser.  In this video, I'll use the updated JavaScript report embed sample to show some of the new things you can do within Power BI embedded.  Power BI Embedded Documentation: https://docs.microsoft.com/en-us/azure/power-bi-embedded/power-bi-embedded-get-started"
-webUrl: https://youtube.com/watch?v=ibuN4DzCl5c
+originalUrl: https://youtube.com/watch?v=ibuN4DzCl5c
 type: video
 price: Free
 length: PT3M26S

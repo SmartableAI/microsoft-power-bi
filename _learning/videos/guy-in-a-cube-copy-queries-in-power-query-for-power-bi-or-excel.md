@@ -1,7 +1,7 @@
 ---
 title: "Copy queries in Power Query for Power BI or Excel"
 excerpt: "Did you know you could copy queries, in Power Query, between Power BI or Excel files? Even Notepad? Patrick shows you how, and more...  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level? We have training courses available to"
-webUrl: https://youtube.com/watch?v=d-Ft_dvw-zI
+originalUrl: https://youtube.com/watch?v=d-Ft_dvw-zI
 type: video
 price: Free
 length: PT4M20S

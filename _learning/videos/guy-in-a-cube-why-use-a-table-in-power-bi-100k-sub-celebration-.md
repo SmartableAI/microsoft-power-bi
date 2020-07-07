@@ -1,7 +1,7 @@
 ---
 title: "Why use a table in Power BI??? & 100K Sub Celebration 🎉🎉🎉"
 excerpt: "Join us live as we explore the pro's and con's of using tables within Power BI. Are you using a lot of tables?  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level? We have training courses available to help you with your journey."
-webUrl: https://youtube.com/watch?v=iEVP6Dw5Mn4
+originalUrl: https://youtube.com/watch?v=iEVP6Dw5Mn4
 type: video
 price: Free
 length: PT1H10M20S

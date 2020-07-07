@@ -1,7 +1,7 @@
 ---
 title: "Download and Deploy a K12 Power BI Solution for schools"
 excerpt: "In this video, Patrick shares a Power BI solution he created for K12 schools in United States education. This solution includes instructions to create views for use with the Power BI reports. It also includes a Power BI Desktop template for pre-created reports based on your school data.  GitHub Repo"
-webUrl: https://youtube.com/watch?v=U1dC-iKgKys
+originalUrl: https://youtube.com/watch?v=U1dC-iKgKys
 type: video
 price: Free
 length: PT11M6S

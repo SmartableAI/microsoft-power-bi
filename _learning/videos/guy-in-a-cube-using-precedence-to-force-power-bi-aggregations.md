@@ -1,7 +1,7 @@
 ---
 title: "Using Precedence to force Power BI Aggregations"
 excerpt: "Are your Power BI Aggregations not matching? Setting Precedence can control which Power BI aggregation will be preferred. A little hint to help it on its way!  Documentation: https://docs.microsoft.com/power-bi/desktop-aggregations#aggregation-precedence  📢 Become a member: https://guyinacu.be/membership"
-webUrl: https://youtube.com/watch?v=VPTpRyzV2-A
+originalUrl: https://youtube.com/watch?v=VPTpRyzV2-A
 type: video
 price: Free
 length: PT4M6S

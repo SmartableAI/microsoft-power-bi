@@ -1,7 +1,7 @@
 ---
 title: "Can I use the audit log if I'm a Power BI Admin?"
 excerpt: "In this video, I answer a question I get fairly often. Can I use the audit log if I have the Power BI service administrator role assigned to me within Office 365.   I also make an announcement about the future of Guy in a Cube.  Admin portal doc - https://powerbi.microsoft.com/en-us/documentation/powerbi-admin-portal/"
-webUrl: https://youtube.com/watch?v=Gf02xjFpqys
+originalUrl: https://youtube.com/watch?v=Gf02xjFpqys
 type: video
 price: Free
 length: PT3M38S

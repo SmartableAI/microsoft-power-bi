@@ -1,7 +1,7 @@
 ---
 title: "REPLAY: Power BI May 2020 Hangout"
 excerpt: "Have questions about Power BI? Come hang out with us in the May 2020 edition of our monthly LIVE question and answer hangout.  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level? We have training courses available to help you"
-webUrl: https://youtube.com/watch?v=w3M0TuQ-GdM
+originalUrl: https://youtube.com/watch?v=w3M0TuQ-GdM
 type: video
 price: Free
 length: PT1H12M21S

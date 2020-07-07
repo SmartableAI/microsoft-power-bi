@@ -1,7 +1,7 @@
 ---
 title: "Self-study kit | Power BI Developer in a Day"
 excerpt: "In this video, we introduce the course labs and how you can get set up with the self-study kit. This is video 2 of 20.    The Power BI Developer in a Day online course empowers you as an app developer with the technical knowledge required to embed Power BI content. We recommend you watch the videos in"
-webUrl: https://youtube.com/watch?v=X0P9Mdqx7sY
+originalUrl: https://youtube.com/watch?v=X0P9Mdqx7sY
 type: video
 price: Free
 length: PT5M24S

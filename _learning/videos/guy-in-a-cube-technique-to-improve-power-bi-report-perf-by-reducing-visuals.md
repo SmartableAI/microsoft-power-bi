@@ -1,7 +1,7 @@
 ---
 title: "Technique to improve Power BI report perf by reducing visuals"
 excerpt: "Having a lot of visuals in your Power BI Report can slow things down. Here's a technique you could employ to reduce visuals and improve performance.  Download Sample: https://guyinacu.be/matrixkpisample  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power"
-webUrl: https://youtube.com/watch?v=kkIXtvU1AiM
+originalUrl: https://youtube.com/watch?v=kkIXtvU1AiM
 type: video
 price: Free
 length: PT14M14S

@@ -1,7 +1,7 @@
 ---
 title: "Embedding with Power BI - What's the difference?"
 excerpt: "In this video, Adam looks at the differences between the two embedding options with Power BI. We get a lot of questions about what steps need to be taken, what Capacity SKUs are needed and where can they be used.   Power BI App registration https://dev.powerbi.com/apps  App registration - Grant Permissions"
-webUrl: https://youtube.com/watch?v=0y2oJikC6Xc
+originalUrl: https://youtube.com/watch?v=0y2oJikC6Xc
 type: video
 price: Free
 length: PT10M46S

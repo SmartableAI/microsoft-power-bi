@@ -1,7 +1,7 @@
 ---
 title: "Power BI For Report Consumers"
 excerpt: "In this video, we look at Power BI for report consumers. Those folks that maybe don't author reports, but just view reports within Power BI. We introduce some basic Power BI concepts and introduce you to areas of the Power BI service to get you familiar with the portal.  LET'S CONNECT!  Guy in a Cube"
-webUrl: https://youtube.com/watch?v=FMcnf5WU0x8
+originalUrl: https://youtube.com/watch?v=FMcnf5WU0x8
 type: video
 price: Free
 length: PT7M40S

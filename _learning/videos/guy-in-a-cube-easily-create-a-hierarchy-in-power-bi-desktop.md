@@ -1,7 +1,7 @@
 ---
 title: "EASILY create a Hierarchy in Power BI Desktop"
 excerpt: "Learn to easily create a hierarchy in Power BI. This seems to be a new way that snuck into Power BI Desktop!  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level? We have training courses available to help you with your journey."
-webUrl: https://youtube.com/watch?v=1Y0T_KkeWyQ
+originalUrl: https://youtube.com/watch?v=1Y0T_KkeWyQ
 type: video
 price: Free
 length: PT2M11S

@@ -1,7 +1,7 @@
 ---
 title: "REPLAY MBAS Recap with BIFocal"
 excerpt: "Come join the folks from Guy in a Cube, and the BIFocal show,  as we talk about the live Microsoft Business Application Summit event.  This will be a virtual Power Pint event to just hang out, discuss new items around the Power Platform (Power BI, Power Apps, Power Automate and Power Virtual Agent) and"
-webUrl: https://youtube.com/watch?v=ZgBc-tHDa5k
+originalUrl: https://youtube.com/watch?v=ZgBc-tHDa5k
 type: video
 price: Free
 length: PT1H9M

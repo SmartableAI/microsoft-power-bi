@@ -1,7 +1,7 @@
 ---
 title: "3 Favorite Options in Power BI Desktop"
 excerpt: "Power BI has a lot of options you can set. Here are Patrick's 3 favorite options in Power BI Desktop!  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level? We have training courses available to help you with your journey.  🎓 Guy"
-webUrl: https://youtube.com/watch?v=Z_eQuqq1ypI
+originalUrl: https://youtube.com/watch?v=Z_eQuqq1ypI
 type: video
 price: Free
 length: PT6M14S

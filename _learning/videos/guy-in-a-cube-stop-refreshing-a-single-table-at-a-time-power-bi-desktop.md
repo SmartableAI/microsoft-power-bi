@@ -1,7 +1,7 @@
 ---
 title: "STOP refreshing a single table at a time! (Power BI Desktop)"
 excerpt: "Stop refreshing one table at a time! Also, don't wait for the entire data model to finish refreshing. Refresh multiple tables within Power BI Desktop.  Gilbert Q's Blog: https://www.fourmoo.com/2020/04/22/how-to-refresh-selected-not-all-tables-in-power-bi-desktop/  📢 Become a member: https://guyinacu.be/membership"
-webUrl: https://youtube.com/watch?v=cnpndrrrD8I
+originalUrl: https://youtube.com/watch?v=cnpndrrrD8I
 type: video
 price: Free
 length: PT2M39S

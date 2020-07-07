@@ -1,7 +1,7 @@
 ---
 title: "Create Mail enabled security groups to use in Power BI via PowerShell"
 excerpt: "In this video, Adam looks at how you can create mail enabled security groups via PowerShell and copy members from an Office 365 Unified group into that new group. This came about based on a limitation that within Power BI, you can't list O365 Unified groups (what back App workspaces) from the people"
-webUrl: https://youtube.com/watch?v=o3nyxuPzn3E
+originalUrl: https://youtube.com/watch?v=o3nyxuPzn3E
 type: video
 price: Free
 length: PT9M

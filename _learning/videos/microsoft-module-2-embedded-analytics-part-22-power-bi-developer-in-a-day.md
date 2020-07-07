@@ -1,7 +1,7 @@
 ---
 title: "Module 2: Embedded analytics (Part 2/2) | Power BI Developer in a Day"
 excerpt: "In this video, Adam Saxton, Principal Program Manager, demonstrates a sample Power BI embedded analytics solution that monitors warehouse operations. This is video 7 of 20.    The Power BI Developer in a Day online course empowers you as an app developer with the technical knowledge required to embed"
-webUrl: https://youtube.com/watch?v=7Jda5x7Qe7Q
+originalUrl: https://youtube.com/watch?v=7Jda5x7Qe7Q
 type: video
 price: Free
 length: PT10M7S

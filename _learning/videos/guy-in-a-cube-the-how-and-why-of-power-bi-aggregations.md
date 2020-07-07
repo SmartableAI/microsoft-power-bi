@@ -1,7 +1,7 @@
 ---
 title: "The How and Why of Power BI Aggregations"
 excerpt: "Learn the how and why Power BI Aggregations can help your data model be more efficient. This video is part of a Power BI Aggregations series.  Aggregations Documentation: https://docs.microsoft.com/power-bi/desktop-aggregations  📢 Become a member: https://guyinacu.be/membership   *******************"
-webUrl: https://youtube.com/watch?v=EhGF372t0sU
+originalUrl: https://youtube.com/watch?v=EhGF372t0sU
 type: video
 price: Free
 length: PT9M1S

@@ -1,7 +1,7 @@
 ---
 title: "Power BI Auditing"
 excerpt: "In this video, I look at the Power BI Auditing feature that was made available a few weeks ago. I show how to turn it on and how to search. This can be helpful with understanding who is doing what within your organization.  Offical Docs: https://powerbi.microsoft.com/en-us/documentation/powerbi-admin-auditing/"
-webUrl: https://youtube.com/watch?v=zj4kA39jV_4
+originalUrl: https://youtube.com/watch?v=zj4kA39jV_4
 type: video
 price: Free
 length: PT5M13S

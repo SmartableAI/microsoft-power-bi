@@ -1,7 +1,7 @@
 ---
 title: "REPLAY Power BI tips from the Pros - LIVE Hangout (June 27, 2020)"
 excerpt: "Join us live as we answer your questions about Power BI!  💥 30 minutes: Open Q&A (Public) 💥 Then... Members Only Chat (Public can watch & Super Chat for Questions)  📢 RULES FOR Q&A: 📢  👉 Put a \"Q:\" in front of your comment to help us identify questions! 👉 Super chats take priority 👉 Do NOT re-post"
-webUrl: https://youtube.com/watch?v=ToK9tj0AyGk
+originalUrl: https://youtube.com/watch?v=ToK9tj0AyGk
 type: video
 price: Free
 length: PT1H13M39S

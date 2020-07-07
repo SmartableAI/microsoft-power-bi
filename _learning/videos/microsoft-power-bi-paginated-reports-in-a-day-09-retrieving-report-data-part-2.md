@@ -1,7 +1,7 @@
 ---
 title: "Power BI Paginated Reports in a Day - 09: Retrieving Report Data - Part 2"
 excerpt: "In this video, we introduce paginated report datasets, and describe how you can create query statements with graphical query designers.  The Power BI Paginated Reports in a Day online course aims to empower you as a report author with the technical knowledge required to create, publish, and distribute"
-webUrl: https://youtube.com/watch?v=1Dzd9wb7XUY
+originalUrl: https://youtube.com/watch?v=1Dzd9wb7XUY
 type: video
 price: Free
 length: PT22M18S

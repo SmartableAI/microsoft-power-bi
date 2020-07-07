@@ -1,7 +1,7 @@
 ---
 title: "Disable free signups in the Power BI service"
 excerpt: "Learn how you can block free signups for the Power BI service. Free signups are also what are referred to as viral signups. This action can affect more than just Power BI, so be careful.  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton -- http://twitter.com/patrickdba"
-webUrl: https://youtube.com/watch?v=CyYLDbRBHDQ
+originalUrl: https://youtube.com/watch?v=CyYLDbRBHDQ
 type: video
 price: Free
 length: PT7M1S

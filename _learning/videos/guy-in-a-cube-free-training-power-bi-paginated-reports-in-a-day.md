@@ -1,7 +1,7 @@
 ---
 title: "Free Training: Power BI Paginated Reports in a Day"
 excerpt: "Power BI Paginated Reports in a Day training is available for you to go through. You don't need Power BI Premium to go through the training either!  Get it here: https://docs.microsoft.com/power-bi/paginated-reports/paginated-reports-online-course  📢 Become a member: https://guyinacu.be/membership "
-webUrl: https://youtube.com/watch?v=c9ull3pjsp8
+originalUrl: https://youtube.com/watch?v=c9ull3pjsp8
 type: video
 price: Free
 length: PT2M40S

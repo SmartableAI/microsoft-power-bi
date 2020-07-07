@@ -1,7 +1,7 @@
 ---
 title: "Power BI Apps vs App Workspace (the new Viewer role)"
 excerpt: "The viewer role for Power BI App Workspaces is now available! Now, let's look at Power BI Apps vs. App Workspaces and have a discussion around which is the better way to go for content distribution in your enterprise.  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton"
-webUrl: https://youtube.com/watch?v=n-9e8AtbSsM
+originalUrl: https://youtube.com/watch?v=n-9e8AtbSsM
 type: video
 price: Free
 length: PT9M32S

@@ -1,7 +1,7 @@
 ---
 title: "Power BI Paginated Reports in a Day - 06: Designing Report Layouts - Part 3"
 excerpt: "In this video, we describe how to design report layouts, including setting properties dynamically.  The Power BI Paginated Reports in a Day online course aims to empower you as a report author with the technical knowledge required to create, publish, and distribute Power BI paginated reports. We recommend"
-webUrl: https://youtube.com/watch?v=eaFFzkT6pxE
+originalUrl: https://youtube.com/watch?v=eaFFzkT6pxE
 type: video
 price: Free
 length: PT21M20S

@@ -1,7 +1,7 @@
 ---
 title: "Module 5: Integrating content with JavaScript API (Part 1/2) | Power BI Developer in a Day"
 excerpt: "In this video, you’ll learn how to use the Power BI JavaScript API to enhance the application experience. This is video 14 of 20.    The Power BI Developer in a Day online course empowers you as an app developer with the technical knowledge required to embed Power BI content. We recommend you watch the"
-webUrl: https://youtube.com/watch?v=wmeEEHQmQqw
+originalUrl: https://youtube.com/watch?v=wmeEEHQmQqw
 type: video
 price: Free
 length: PT7M18S

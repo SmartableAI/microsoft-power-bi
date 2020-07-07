@@ -1,7 +1,7 @@
 ---
 title: "REPLAY Power BI tips from the Pros - LIVE Hangout (May 16, 2020)"
 excerpt: "Join us live as we answer your questions about Power BI!  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level? We have training courses available to help you with your journey.  🎓 Guy in a Cube courses: https://guyinacu.be/courses"
-webUrl: https://youtube.com/watch?v=TzdoHCBbov8
+originalUrl: https://youtube.com/watch?v=TzdoHCBbov8
 type: video
 price: Free
 length: PT1H10M38S

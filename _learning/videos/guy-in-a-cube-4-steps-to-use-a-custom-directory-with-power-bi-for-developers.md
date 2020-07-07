@@ -1,7 +1,7 @@
 ---
 title: "4 steps to use a custom directory with Power BI for developers"
 excerpt: "I look at how you can use your Azure Subscription to create a custom directory and then apply a Power BI (free) license to that. This is a great approach, if you are a developer, to setup an application within your directory for testing purposes before you publish to production.  SUBSCRIBE! https://www.youtube.com/channel/UCFp1vaKzpfvoGai0vE5VJ0w?sub_confirmation=1"
-webUrl: https://youtube.com/watch?v=97IfXEWZMfU
+originalUrl: https://youtube.com/watch?v=97IfXEWZMfU
 type: video
 price: Free
 length: PT5M44S

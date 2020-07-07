@@ -1,7 +1,7 @@
 ---
 title: "Learn DAX by Studying Common Problems Encountered by Real-World Users 🔴Talk Power BI LIVE"
 excerpt: "We will learn the DAX programming language by examining several issues frequently reported by DAX users through PowerBI Desktop frowns.  Why is this interesting?  DAX training has consistently been one of the top asks from Power BI users. In this TalkPowerBI session, Jeffrey Wang is going to show you"
-webUrl: https://youtube.com/watch?v=WSfc2hY1_dQ
+originalUrl: https://youtube.com/watch?v=WSfc2hY1_dQ
 type: video
 price: Free
 length: PT1H11M57S

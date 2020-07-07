@@ -1,7 +1,7 @@
 ---
 title: "Power BI Paginated Reports in a Day - 05: Designing Report Layouts - Part 2"
 excerpt: "In this video, we demonstrate creating a first report by using a wizard.  The Power BI Paginated Reports in a Day online course aims to empower you as a report author with the technical knowledge required to create, publish, and distribute Power BI paginated reports. We recommend you watch the videos"
-webUrl: https://youtube.com/watch?v=2CZIrJU_HZU
+originalUrl: https://youtube.com/watch?v=2CZIrJU_HZU
 type: video
 price: Free
 length: PT5M11S

@@ -1,7 +1,7 @@
 ---
 title: "5 steps to configure Power BI Mobile apps with Intune"
 excerpt: "I walk through how you can configure the Power BI Mobile app within Intune to deploy a managed mobile application for your enterprise organization. This approach can be used for either the iOS app or the Android app.   Configure and deploy mobile application management policies in the Microsoft Intune"
-webUrl: https://youtube.com/watch?v=9HF-qsdQvHw
+originalUrl: https://youtube.com/watch?v=9HF-qsdQvHw
 type: video
 price: Free
 length: PT8M22S

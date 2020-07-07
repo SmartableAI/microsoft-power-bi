@@ -1,7 +1,7 @@
 ---
 title: "How to Make Money with Power BI in 2020 💰: Power BI Jobs, Consulting & More!"
 excerpt: "Power BI popularity is skyrocketing! But how can you make money with Power BI in 2020? Watch the video to find out and make 2020 your best year yet! 👉 Interested in becoming a Power BI Consultant?  Learn More at【 https://www.LearnPowerBI.com/proplus 】  ▶️Topics Covered◀️ (click to jump to topic) 00:00"
-webUrl: https://youtube.com/watch?v=sRaArl37a6c
+originalUrl: https://youtube.com/watch?v=sRaArl37a6c
 type: video
 price: Free
 length: PT22M48S

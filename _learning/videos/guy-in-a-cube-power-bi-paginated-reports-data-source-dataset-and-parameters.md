@@ -1,7 +1,7 @@
 ---
 title: "Power BI Paginated Reports: Data source, Dataset and parameters"
 excerpt: "Paginated reports in Power BI are now available. Patrick walks you through how to get started with a paginated report using Report Builder. In this video, he starts off with how to create an embedded data source, a dataset, and parameters.  To download Report Builder, check out this link: https://guyinacu.be/reportbuilder"
-webUrl: https://youtube.com/watch?v=TEIdI5bFCSU
+originalUrl: https://youtube.com/watch?v=TEIdI5bFCSU
 type: video
 price: Free
 length: PT9M32S

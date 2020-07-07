@@ -1,7 +1,7 @@
 ---
 title: "How to create Sparklines, indicators and conditional formatting in Power BI Paginated Reports"
 excerpt: "Patrick walks finishes his look at Paginated Reports in Power BI. He shows you how to create sparklines, indicators and conditional formatting within the Paginated Report using Report Builder.  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com -- http://twitter.com/guyinacube -- http://www.facebook.com/guyinacube"
-webUrl: https://youtube.com/watch?v=kvsi3Jwe-sI
+originalUrl: https://youtube.com/watch?v=kvsi3Jwe-sI
 type: video
 price: Free
 length: PT7M20S

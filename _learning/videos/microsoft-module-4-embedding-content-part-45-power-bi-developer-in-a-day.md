@@ -1,7 +1,7 @@
 ---
 title: "Module 4: Embedding content (Part 4/5) | Power BI Developer in a Day"
 excerpt: "In this video, Peter Myers demonstrates how to develop with the Power BI REST API and embedding Power BI reports. This is video 12 of 20.    The Power BI Developer in a Day online course empowers you as an app developer with the technical knowledge required to embed Power BI content. We recommend you"
-webUrl: https://youtube.com/watch?v=9YNm90K8FhA
+originalUrl: https://youtube.com/watch?v=9YNm90K8FhA
 type: video
 price: Free
 length: PT14M45S

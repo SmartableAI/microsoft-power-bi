@@ -1,7 +1,7 @@
 ---
 title: "Configure Power BI Aggregations"
 excerpt: "Learn to configure your Power BI Aggregations table to really increase the speed of your DAX queries. This does NOT require Power BI Premium!  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level? We have training courses available"
-webUrl: https://youtube.com/watch?v=kytYzjTXUHs
+originalUrl: https://youtube.com/watch?v=kytYzjTXUHs
 type: video
 price: Free
 length: PT6M30S

@@ -1,7 +1,7 @@
 ---
 title: "3 tips for using the MODEL VIEW in Power BI Desktop"
 excerpt: "The model view, in Power BI Desktop, is really powerful. Patrick shares 3 tips that you may not have known about.  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level? We have training courses available to help you with your journey."
-webUrl: https://youtube.com/watch?v=5wn6vUgSRXY
+originalUrl: https://youtube.com/watch?v=5wn6vUgSRXY
 type: video
 price: Free
 length: PT6M59S

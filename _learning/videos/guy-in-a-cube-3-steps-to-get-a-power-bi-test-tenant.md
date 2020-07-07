@@ -1,7 +1,7 @@
 ---
 title: "3 steps to get a Power BI Test Tenant"
 excerpt: "In this video, I show you the three steps you need to take to get a managed trial Office 365/Azure Active Directory tenant and to have access to all of the features within Power BI. You can use this as a Power BI Test Tenant.  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com -- http://twitter.com/guyinacube"
-webUrl: https://youtube.com/watch?v=gbSuFST-Nx4
+originalUrl: https://youtube.com/watch?v=gbSuFST-Nx4
 type: video
 price: Free
 length: PT6M44S

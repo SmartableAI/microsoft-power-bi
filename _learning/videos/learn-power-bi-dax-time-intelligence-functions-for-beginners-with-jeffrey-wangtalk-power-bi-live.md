@@ -1,7 +1,7 @@
 ---
 title: "DAX Time Intelligence Functions for Beginners with Jeffrey Wang🔴Talk Power BI LIVE"
 excerpt: "Datetime related calculations are some of the most common, yet confusing, calculations for people who are new to Power BI. Time intelligence calculations, e.g. month-over-month growth, year-to-date total, etc. are even more difficult to get right consistently. In this session I will reveal how Power"
-webUrl: https://youtube.com/watch?v=U86045UGoW8
+originalUrl: https://youtube.com/watch?v=U86045UGoW8
 type: video
 price: Free
 length: PT1H34M29S

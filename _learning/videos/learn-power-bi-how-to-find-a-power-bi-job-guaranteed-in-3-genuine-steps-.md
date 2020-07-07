@@ -1,7 +1,7 @@
 ---
 title: "How to Find a Power BI Job (Guaranteed!) in 3 Genuine Steps 🤝🏼"
 excerpt: "I will show you how you can find a Power BI Job in 3 genuine steps. These steps are simple and straight-forward. But not necessarily easy. But if you do choose to follow these steps, then I guarantee that not only will it help you find a Power BI job, but also shorten the time of your job search. As"
-webUrl: https://youtube.com/watch?v=_54w9_5XkHo
+originalUrl: https://youtube.com/watch?v=_54w9_5XkHo
 type: video
 price: Free
 length: PT20M39S

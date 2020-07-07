@@ -1,7 +1,7 @@
 ---
 title: "Get started with the Power BI Gateway"
 excerpt: "Get to know what the Power BI Gateway is along with how to get it setup for scheduled refresh of imported data.  Free Gateway Cube Sheet: https://guyinacu.be/gatewaystartpdf  Gateway Documentation: https://docs.microsoft.com/power-bi/service-gateway-onprem  Gateway sizing: https://docs.microsoft.com/power-bi/guidance/gateway-onprem-sizing"
-webUrl: https://youtube.com/watch?v=Vlv1tbuZNcM
+originalUrl: https://youtube.com/watch?v=Vlv1tbuZNcM
 type: video
 price: Free
 length: PT13M18S

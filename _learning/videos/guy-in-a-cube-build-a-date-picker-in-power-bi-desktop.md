@@ -1,7 +1,7 @@
 ---
 title: "Build a DATE PICKER in Power BI Desktop"
 excerpt: "Have you ever wanted a single date picker in your Power BI report? Patrick shows you how to build one within Power BI Desktop!  Download sample: https://guyinacu.be/datepickersample  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next"
-webUrl: https://youtube.com/watch?v=zhWtU0DynCk
+originalUrl: https://youtube.com/watch?v=zhWtU0DynCk
 type: video
 price: Free
 length: PT10M14S

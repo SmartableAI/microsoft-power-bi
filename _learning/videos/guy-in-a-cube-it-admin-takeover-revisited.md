@@ -1,7 +1,7 @@
 ---
 title: "IT Admin Takeover - Revisited!"
 excerpt: "I take another look at how to take over a Shadow Tenant using the IT Admin Takeover process.  The UI has changed both from a Power BI and O365 side, so this is updated with the latest and greatest.  Understanding the Shadow Tenant https://youtu.be/y4Bu8QP2QhE?list=PLv2BtOtLblH3SXM6Q44DCjykqp9xPozNH "
-webUrl: https://youtube.com/watch?v=Fj_5gQ-ECoQ
+originalUrl: https://youtube.com/watch?v=Fj_5gQ-ECoQ
 type: video
 price: Free
 length: PT4M10S

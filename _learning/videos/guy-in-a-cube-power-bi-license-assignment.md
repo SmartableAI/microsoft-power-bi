@@ -1,7 +1,7 @@
 ---
 title: "Power BI License Assignment"
 excerpt: "You have different options for Power BI license assignment. I look at what those are. From the Office 365 Admin portal to PowerShell. I also do a quick recap of the different licenses available.  For an example of how to assign licenses via PowerShell you can look at the following. It isn't specific"
-webUrl: https://youtube.com/watch?v=Xxpr7kcNZhU
+originalUrl: https://youtube.com/watch?v=Xxpr7kcNZhU
 type: video
 price: Free
 length: PT5M19S

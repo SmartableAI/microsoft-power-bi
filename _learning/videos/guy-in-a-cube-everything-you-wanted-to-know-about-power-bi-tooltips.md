@@ -1,7 +1,7 @@
 ---
 title: "EVERYTHING you wanted to know about Power BI tooltips"
 excerpt: "Power BI tooltips can add a lot of context to a visual. Patrick shows you everything you need to know about tooltips in Power BI!  Prathy's (@pkamasani) Blog about Visual Header Tooltips: https://prathy.com/2019/07/power-bi-visual-header-tooltip/  Download Sample: https://guyinacu.be/tooltipsample  📢"
-webUrl: https://youtube.com/watch?v=z1Z1axRSMzM
+originalUrl: https://youtube.com/watch?v=z1Z1axRSMzM
 type: video
 price: Free
 length: PT11M20S

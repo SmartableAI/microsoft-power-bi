@@ -1,7 +1,7 @@
 ---
 title: "Against All Odds! Inspiring Power BI Story of Jason Baldessari"
 excerpt: "Learn how Jason turned his life around, from rock bottom to a successful Power BI Professional approaching multiple 6 figures. Find out the right kind of investment he made to achieve success in life. Watch till the end.   👉Connect with Jason (LinkedIn): https://www.linkedin.com/in/jason-baldessari-93341611/"
-webUrl: https://youtube.com/watch?v=wIfiUM3ggaM
+originalUrl: https://youtube.com/watch?v=wIfiUM3ggaM
 type: video
 price: Free
 length: PT23M59S

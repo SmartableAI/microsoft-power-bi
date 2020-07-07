@@ -1,7 +1,7 @@
 ---
 title: "From Fulltime to Fulfilling Your Dreams with Greg Baerg (Big Wave BI)"
 excerpt: "How do you learn Power BI when you have a demanding fulltime job? How do you learn Power BI when you also have family and kids?   Watch till then end as Greg Baerg shares his journey and an inspiring lesson for anyone stuck in this situation.   👉Connect with Greg (Website): http://www.BigWaveBI.com"
-webUrl: https://youtube.com/watch?v=2o87kG-T7rE
+originalUrl: https://youtube.com/watch?v=2o87kG-T7rE
 type: video
 price: Free
 length: PT26M

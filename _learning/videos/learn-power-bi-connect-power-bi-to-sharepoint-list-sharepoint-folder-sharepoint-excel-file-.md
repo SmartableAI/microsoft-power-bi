@@ -1,7 +1,7 @@
 ---
 title: "Connect Power BI to SharePoint List, SharePoint Folder, SharePoint Excel File 🔌"
 excerpt: "Let me show you how you can connect Power BI to  00:20 SharePoint Folder 05:32 SharePoint Excel File 07:26 SharePoint List   ================================ 👉 FREE Power BI Step-by-Step Tutorial http://web.learnpowerbi.com/tutorial 👉 Download Accompanying PBIX Files for Video at https://web.learnpowerbi.com/download/"
-webUrl: https://youtube.com/watch?v=XuLnSYjmsJo
+originalUrl: https://youtube.com/watch?v=XuLnSYjmsJo
 type: video
 price: Free
 length: PT10M51S

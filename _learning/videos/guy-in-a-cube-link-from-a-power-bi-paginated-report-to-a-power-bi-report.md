@@ -1,7 +1,7 @@
 ---
 title: "Link from a Power BI Paginated report to a Power BI report"
 excerpt: "Patrick looks at how you can add a link to your Power BI Paginated report and open a Power BI report while passing filters over to explore data.  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com -- http://twitter.com/guyinacube -- http://www.facebook.com/guyinacube -- Snapchat - guyinacube --"
-webUrl: https://youtube.com/watch?v=Nucth8mG2LA
+originalUrl: https://youtube.com/watch?v=Nucth8mG2LA
 type: video
 price: Free
 length: PT6M43S

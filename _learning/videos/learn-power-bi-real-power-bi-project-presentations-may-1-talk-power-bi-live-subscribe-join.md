@@ -1,7 +1,7 @@
 ---
 title: "Real Power BI Project Presentations  (May 1) 🔴Talk Power BI LIVE (Subscribe & Join)"
 excerpt: "Want to see how real consultants work on real Power BI projects? Join us LIVE and watch the project presentations by Power BI Professionals in our Pro+ program.  👉 Want to become a successful Power BI Consultant? Check out our Pro+ Program at https://www.LearnPowerBI.com/proplus 👉 For more info on"
-webUrl: https://youtube.com/watch?v=x38L3uY-R7Q
+originalUrl: https://youtube.com/watch?v=x38L3uY-R7Q
 type: video
 price: Free
 length: PT1H32M2S

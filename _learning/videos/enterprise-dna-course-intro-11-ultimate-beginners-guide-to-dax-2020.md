@@ -1,7 +1,7 @@
 ---
 title: "Course Intro - (1.1)  Ultimate Beginners Guide To DAX 2020"
 excerpt: "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download."
-webUrl: https://youtube.com/watch?v=ILVRJQ22cjs
+originalUrl: https://youtube.com/watch?v=ILVRJQ22cjs
 type: video
 price: Free
 length: PT3M48S

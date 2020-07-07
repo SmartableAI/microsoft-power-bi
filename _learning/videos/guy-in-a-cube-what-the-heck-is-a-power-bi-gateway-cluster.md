@@ -1,7 +1,7 @@
 ---
 title: "What the HECK is a Power BI Gateway Cluster?"
 excerpt: "Confused about what a Power BI Gateway cluster is? Have your On-Premises Data Gateway installed but it's overloaded? This video is for you!  Documentation: https://docs.microsoft.com/data-integration/gateway/service-gateway-high-availability-clusters  PowerShell: https://docs.microsoft.com/data-integration/gateway/service-gateway-powershell-support"
-webUrl: https://youtube.com/watch?v=sPFRLy6XL1s
+originalUrl: https://youtube.com/watch?v=sPFRLy6XL1s
 type: video
 price: Free
 length: PT12M1S

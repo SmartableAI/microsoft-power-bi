@@ -1,7 +1,7 @@
 ---
 title: "How to Create Beautiful Power BI Dashboards 📊 Using the Power Pattern⚡"
 excerpt: "In this video I show you how can create effective & beautiful Power BI Dashboards, using our unique Power Pattern! To learn more or to get additional help with your Power BI Dashboard, please visit https://www.LearnPowerBI.com/makeover  Power Pattern is a battle-tested approach based on the best principles"
-webUrl: https://youtube.com/watch?v=3nvjjfE9BqQ
+originalUrl: https://youtube.com/watch?v=3nvjjfE9BqQ
 type: video
 price: Free
 length: PT18M28S

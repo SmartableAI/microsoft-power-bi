@@ -1,7 +1,7 @@
 ---
 title: "7 Habits of Highly Effective Power BI Professionals 🔴Talk Power BI LIVE (Subscribe & Join)"
 excerpt: "What takes a Power BI Consultant from Good to Great? Do all of them have some specific habits in common? Can the rest of us learn and adopt those habits to get the same success? 👉 Learn More about our Pro+ Program: https://www.learnpowerbi.com/proplus  ★ Marianne: https://www.LearnPowerBI.com/about"
-webUrl: https://youtube.com/watch?v=03rokNM5Ahc
+originalUrl: https://youtube.com/watch?v=03rokNM5Ahc
 type: video
 price: Free
 length: PT1H15M49S

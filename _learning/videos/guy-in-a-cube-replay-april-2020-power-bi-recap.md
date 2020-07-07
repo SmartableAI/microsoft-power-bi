@@ -1,7 +1,7 @@
 ---
 title: "REPLAY: April 2020 Power BI recap"
 excerpt: "Join us live as we look over what has happened in Power BI in April 2020.  List of Live Chat Questions: https://guyinacu.be/2S7Sd59  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level? We have training courses available to help"
-webUrl: https://youtube.com/watch?v=BQldmEM0gNM
+originalUrl: https://youtube.com/watch?v=BQldmEM0gNM
 type: video
 price: Free
 length: PT1H9M55S

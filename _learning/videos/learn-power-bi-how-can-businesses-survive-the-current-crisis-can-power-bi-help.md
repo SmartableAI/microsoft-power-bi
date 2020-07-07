@@ -1,7 +1,7 @@
 ---
 title: "How Can Businesses Survive the Current Crisis? Can Power BI Help?"
 excerpt: "Is now the time to shrink in fear? Or is it time to step up and be a leader for your business? 👉 Go to http://www.PowerBIBizHelp.com/ for help.  The current crisis is severe, but it would not last forever. What can you do, to not only survive now, but thrive once we emerge from this crisis?  Can Power"
-webUrl: https://youtube.com/watch?v=ZcND9vJj_hQ
+originalUrl: https://youtube.com/watch?v=ZcND9vJj_hQ
 type: video
 price: Free
 length: PT10M40S

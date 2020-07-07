@@ -1,7 +1,7 @@
 ---
 title: "Power BI April Q&A + Hangout and chat"
 excerpt: "Have questions about Power BI? Come hang out with us in the April edition of our monthly LIVE question and answer hangout.  ******************* LET'S CONNECT! *******************  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton -- http://twitter.com/patrickdba -- http://www.facebook.com/guyinacube"
-webUrl: https://youtube.com/watch?v=TMgEVJ74XpQ
+originalUrl: https://youtube.com/watch?v=TMgEVJ74XpQ
 type: video
 price: Free
 length: PT1H9M7S

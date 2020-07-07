@@ -1,7 +1,7 @@
 ---
 title: "Evaluation Context - (1.8) Ultimate Beginners Guide to DAX 2019"
 excerpt: "Learn the importance of evaluation context and follow along to the Beginners' Guide to DAX tutorials by using the demo data available for download. Enjoy!  ***** Video Details ***** 1:10 calculating total quantity sold 2:31 defining filter propagation  3:17 writing advanced DAX formula  ***** Learning"
-webUrl: https://youtube.com/watch?v=bfJh_qMz7e4
+originalUrl: https://youtube.com/watch?v=bfJh_qMz7e4
 type: video
 price: Free
 length: PT5M22S

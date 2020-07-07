@@ -1,7 +1,7 @@
 ---
 title: "Can we have ANIMATED Power BI visuals?"
 excerpt: "Can we have animated Power BI visuals? Patrick gives it a try to see what you can do to animate your bar charts and pie charts.  Download sample: https://guyinacu.be/animatedsample  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next"
-webUrl: https://youtube.com/watch?v=NvgAehGPqqI
+originalUrl: https://youtube.com/watch?v=NvgAehGPqqI
 type: video
 price: Free
 length: PT3M42S

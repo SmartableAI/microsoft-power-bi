@@ -1,7 +1,7 @@
 ---
 title: "What is Row-Level Security (RLS) in Power BI???"
 excerpt: "Not sure what Row-Level Security (RLS) is in Power BI? Patrick gives you a quick look at what it's about and how to use it.  Documentation: https://docs.microsoft.com/power-bi/admin/service-admin-rls  🎓 Continue your journey with our Row-Level Security course: https://guyinacu.be/rlscourse  📢 Become"
-webUrl: https://youtube.com/watch?v=MxU_FYSSnYU
+originalUrl: https://youtube.com/watch?v=MxU_FYSSnYU
 type: video
 price: Free
 length: PT5M4S

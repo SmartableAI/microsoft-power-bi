@@ -1,7 +1,7 @@
 ---
 title: "Module 5: Integrating content with JavaScript API (Part 2/2) | Power BI Developer in a Day"
 excerpt: "In this video, Peter Myers introduces the Power BI Embedded Playground, and demonstrates how to add client-side filtering and a context menu. This is video 15 of 20.    The Power BI Developer in a Day online course empowers you as an app developer with the technical knowledge required to embed Power"
-webUrl: https://youtube.com/watch?v=TSEjZl0dGfM
+originalUrl: https://youtube.com/watch?v=TSEjZl0dGfM
 type: video
 price: Free
 length: PT8M19S

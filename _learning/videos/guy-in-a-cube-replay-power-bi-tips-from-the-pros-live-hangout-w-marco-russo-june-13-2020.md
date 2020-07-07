@@ -1,7 +1,7 @@
 ---
 title: "REPLAY: Power BI tips from the Pros - LIVE Hangout w/ Marco Russo (June 13, 2020)"
 excerpt: "Join us live as we answer your questions about Power BI! With special guest, Marco Russo!  Connect with Marco: Website: https://sqlbi.com Twitter: https://twitter.com/marcorus LinkedIn: https://www.linkedin.com/in/sqlbi/  📢 Become a member: https://guyinacu.be/membership   *******************  Want"
-webUrl: https://youtube.com/watch?v=nTzzjyUjcYg
+originalUrl: https://youtube.com/watch?v=nTzzjyUjcYg
 type: video
 price: Free
 length: PT1H11M25S

@@ -1,7 +1,7 @@
 ---
 title: "BANANAS! Power BI dataflows has come a long way..."
 excerpt: "Showing some #InsaneAmazing things you can do in Power BI dataflows. This is really bananas!  Power BI dataflows data source doc: https://docs.microsoft.com/power-bi/transform-model/service-dataflows-data-sources  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take"
-webUrl: https://youtube.com/watch?v=YWp4FKzIBxM
+originalUrl: https://youtube.com/watch?v=YWp4FKzIBxM
 type: video
 price: Free
 length: PT6M9S

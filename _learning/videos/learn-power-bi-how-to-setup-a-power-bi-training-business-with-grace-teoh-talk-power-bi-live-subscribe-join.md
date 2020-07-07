@@ -1,7 +1,7 @@
 ---
 title: "How to Setup a Power BI Training Business / with Grace Teoh 🔴Talk Power BI LIVE (Subscribe & Join)"
 excerpt: "✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask any Power BI question. 💡 Join the Talk Power BI Insider's Club at http://www.TalkPowerBI.com for special privileges and access  For an independent Power BI professional, Power BI Training and Consulting go hand in"
-webUrl: https://youtube.com/watch?v=9qhxAeKkT2s
+originalUrl: https://youtube.com/watch?v=9qhxAeKkT2s
 type: video
 price: Free
 length: PT1H2M11S

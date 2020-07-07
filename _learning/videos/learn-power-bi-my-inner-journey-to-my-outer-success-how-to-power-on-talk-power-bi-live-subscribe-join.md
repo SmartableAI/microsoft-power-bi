@@ -1,7 +1,7 @@
 ---
 title: "My Inner Journey to my Outer Success / How to Power On! 🔴Talk Power BI LIVE (Subscribe & Join)"
 excerpt: "Many see my Outer Success. The subscribers, the money💰, the clients...and want the same. Today I will take you on the Inner Journey that led to my Outer Success. 🤔Think you don't need any of this weird stuff? Think all you need is to get better at DAX? Think again.  👉 Here's a good test: Do you find"
-webUrl: https://youtube.com/watch?v=OfI20y-Q8BI
+originalUrl: https://youtube.com/watch?v=OfI20y-Q8BI
 type: video
 price: Free
 length: PT38M27S

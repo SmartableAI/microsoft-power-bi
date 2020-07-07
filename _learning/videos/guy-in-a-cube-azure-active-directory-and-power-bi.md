@@ -1,7 +1,7 @@
 ---
 title: "Azure Active Directory and Power BI"
 excerpt: "I take a look at how Power BI and Azure Active Directory interact.  Really it is more about Azure Active Directory and how do you get users into AAD.  This came up as I get pinged a lot from folks wondering how they can use AAD with Power BI, not necessarily realizing that it is already there.  http://blogs.technet.com/b/powerbisupport/archive/2015/09/15/azure-active-directory-and-power-bi.aspx"
-webUrl: https://youtube.com/watch?v=KttluRiuRq0
+originalUrl: https://youtube.com/watch?v=KttluRiuRq0
 type: video
 price: Free
 length: PT7M58S

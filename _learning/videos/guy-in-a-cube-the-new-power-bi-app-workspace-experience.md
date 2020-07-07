@@ -1,7 +1,7 @@
 ---
 title: "The new Power BI App Workspace experience"
 excerpt: "The new Power BI App Workspace experience GA'd in April of 2019. Adam takes you through what the new Power BI App Workspace is all about and what is coming down the road.  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton -- http://twitter.com/patrickdba"
-webUrl: https://youtube.com/watch?v=cKzdDO2W5-Y
+originalUrl: https://youtube.com/watch?v=cKzdDO2W5-Y
 type: video
 price: Free
 length: PT11M4S

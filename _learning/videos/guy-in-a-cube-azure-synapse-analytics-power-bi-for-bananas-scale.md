@@ -1,7 +1,7 @@
 ---
 title: "Azure Synapse Analytics & Power BI for BANANAS SCALE!"
 excerpt: "Scale your data in Power BI with Azure Synapse Analytics! Azure Synapse can take your data to the next level with great performance.  Connect with Josh Caplan: https://twitter.com/JoshCaplan1984  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills"
-webUrl: https://youtube.com/watch?v=vOSzw40TohM
+originalUrl: https://youtube.com/watch?v=vOSzw40TohM
 type: video
 price: Free
 length: PT16M57S

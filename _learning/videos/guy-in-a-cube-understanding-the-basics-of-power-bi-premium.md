@@ -1,7 +1,7 @@
 ---
 title: "Understanding the basics of Power BI Premium"
 excerpt: "What is Power BI Premium? Let's look at how you can use it within Power BI. From benefits to how to acquire, this should get you up to speed.  Ideas Item Paginated reports in Pro https://ideas.powerbi.com/forums/265200-power-bi-ideas/suggestions/35959420-paginated-reports-please-make-it-available-in-pr"
-webUrl: https://youtube.com/watch?v=XgjnjXkEnPw
+originalUrl: https://youtube.com/watch?v=XgjnjXkEnPw
 type: video
 price: Free
 length: PT11M51S

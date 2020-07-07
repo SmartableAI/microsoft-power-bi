@@ -1,7 +1,7 @@
 ---
 title: "How to Show Items with No Data in Power BI (e.g. Show All Month Names)"
 excerpt: "Sometimes the default behavior in Power BI can be frustrating. For example, if you are showing month names, you may see that if no data is available then those months may not be shown in your Chart or Table. Often, you would want all months (Jan-Dec) to be shown, regardless of whether data is present"
-webUrl: https://youtube.com/watch?v=MqbfaO2YmMQ
+originalUrl: https://youtube.com/watch?v=MqbfaO2YmMQ
 type: video
 price: Free
 length: PT2M6S

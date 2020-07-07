@@ -1,7 +1,7 @@
 ---
 title: "Power BI Tutorial: How to Sign up"
 excerpt: "Do you want to get started using Power BI? After getting Power BI Desktop, you will want to sign up for the Power BI service. In this video, we show you how to do just that! The process is pretty straightforward using your corporate email address. We do call out one gotcha in the even that your admins"
-webUrl: https://youtube.com/watch?v=WyRO5hTxEUU
+originalUrl: https://youtube.com/watch?v=WyRO5hTxEUU
 type: video
 price: Free
 length: PT5M14S

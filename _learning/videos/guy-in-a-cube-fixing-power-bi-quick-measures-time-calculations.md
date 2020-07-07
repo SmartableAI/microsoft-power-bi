@@ -1,7 +1,7 @@
 ---
 title: "Fixing Power BI Quick Measures - Time calculations"
 excerpt: "In this video, Patrick shows how you can fix quick measures that break when you use dates with time calculations.   Patrick referenced a blog from Kasper de Jong. You can find that here:  Use the Power BI quick calcs with your own date table https://www.kasperonbi.com/use-the-power-bi-quick-calcs-with-your-own-date-table/"
-webUrl: https://youtube.com/watch?v=Ukj45pdTwYE
+originalUrl: https://youtube.com/watch?v=Ukj45pdTwYE
 type: video
 price: Free
 length: PT7M10S

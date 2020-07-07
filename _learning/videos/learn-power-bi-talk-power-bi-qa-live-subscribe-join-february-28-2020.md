@@ -1,7 +1,7 @@
 ---
 title: "🔴Talk Power BI Q&A LIVE (Subscribe & Join) February 28, 2020"
 excerpt: "✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask any Power BI question. 💡 Join the Talk Power BI Insider's Club at http://www.TalkPowerBI.com for special privileges and access   Hello, I am Avi Singh, Microsoft MVP and Power BI Pro! I just love talking about Power"
-webUrl: https://youtube.com/watch?v=wS6dQjYJ2ss
+originalUrl: https://youtube.com/watch?v=wS6dQjYJ2ss
 type: video
 price: Free
 length: PT3H32M15S

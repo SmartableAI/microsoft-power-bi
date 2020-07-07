@@ -1,7 +1,7 @@
 ---
 title: "Power BI Paginated Reports in a Day - 20: Beyond Report Development - Part 1"
 excerpt: "In this video, we describe how to publish reports to the Power BI service, and also cover consuming, delivering, and embedding paginated reports. Finally, we discuss when it's a good choice to create a paginated report instead of a Power BI report.  The Power BI Paginated Reports in a Day online course"
-webUrl: https://youtube.com/watch?v=1CgDVDslwvs
+originalUrl: https://youtube.com/watch?v=1CgDVDslwvs
 type: video
 price: Free
 length: PT13M53S

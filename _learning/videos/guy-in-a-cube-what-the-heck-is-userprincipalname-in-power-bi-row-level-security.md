@@ -1,7 +1,7 @@
 ---
 title: "What the heck is USERPRINCIPALNAME in Power BI? (Row-Level Security)"
 excerpt: "Ever wonder what USERPRINCIPALNAME is in DAX within Power BI? Or the difference between USERPRINCIPALNAME and USERNAME? Hint - It's used with Row-Level Security.  New Row-Level Security course from Guy in a Cube - https://guyinacu.be/courses  📢 Become a member: https://guyinacu.be/membership   *******************"
-webUrl: https://youtube.com/watch?v=TGgec9oP8oU
+originalUrl: https://youtube.com/watch?v=TGgec9oP8oU
 type: video
 price: Free
 length: PT2M37S

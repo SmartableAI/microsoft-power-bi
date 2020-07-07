@@ -1,7 +1,7 @@
 ---
 title: "Expand lists in Power BI (also a look at M Syntax)"
 excerpt: "I show how you can take a table that lists \"Record\" and expand that within Power BI. This also works with Power Query. I have a look at the M Syntax and show a cleaner approach.  SUBSCRIBE! https://www.youtube.com/channel/UCFp1vaKzpfvoGai0vE5VJ0w?sub_confirmation=1  LET'S CONNECT!  Guy in a Cube -- http://twitter.com/guyinacube"
-webUrl: https://youtube.com/watch?v=sbPS3ZKIt7g
+originalUrl: https://youtube.com/watch?v=sbPS3ZKIt7g
 type: video
 price: Free
 length: PT3M57S

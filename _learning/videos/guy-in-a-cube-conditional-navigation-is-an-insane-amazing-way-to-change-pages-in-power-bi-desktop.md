@@ -1,7 +1,7 @@
 ---
 title: "Conditional Navigation is an INSANE AMAZING way to change pages in Power BI Desktop"
 excerpt: "Tired of having a ton of buttons to accommodate page navigation within your Power BI report? Conditional navigation is an INSANE AMAZING way to reduce visuals on the report and provide a clean way to navigate your report.  ⬇ Download sample: https://guyinacu.be/cnavsample  📢 Become a member: https://guyinacu.be/membership"
-webUrl: https://youtube.com/watch?v=-kaUnBXvvGo
+originalUrl: https://youtube.com/watch?v=-kaUnBXvvGo
 type: video
 price: Free
 length: PT6M5S

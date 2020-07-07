@@ -1,7 +1,7 @@
 ---
 title: "Using Single Sign-on with the Power BI Gateway"
 excerpt: "Let's dig into the Power BI gateway and Single Sign-On (SSO) using Kerberos!  This can be used for both DirectQuery and refreshing a Power BI dataset.  Documentation: https://docs.microsoft.com/power-bi/service-gateway-sso-overview  📢 Become a member: https://guyinacu.be/membership   *******************"
-webUrl: https://youtube.com/watch?v=6gDZBC-UV_w
+originalUrl: https://youtube.com/watch?v=6gDZBC-UV_w
 type: video
 price: Free
 length: PT12M46S

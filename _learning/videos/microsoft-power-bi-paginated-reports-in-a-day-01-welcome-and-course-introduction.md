@@ -1,7 +1,7 @@
 ---
 title: "Power BI Paginated Reports in a Day - 01: Welcome and Course Introduction"
 excerpt: "In this video, Peter Myers (Microsoft Most Valued Professional - Data Platform, and course developer), Chris Finlan (Principal Program Manager), and special guest Paginated Report Bear (Course Morale Manager) welcome and introduce you to the course, its outline and the course demo scenario.  The Power"
-webUrl: https://youtube.com/watch?v=DN1t5p9aui0
+originalUrl: https://youtube.com/watch?v=DN1t5p9aui0
 type: video
 price: Free
 length: PT2M59S

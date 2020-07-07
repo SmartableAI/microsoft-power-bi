@@ -1,7 +1,7 @@
 ---
 title: "Power BI Paginated Reports in a Day - 04: Designing Report Layouts - Part 1"
 excerpt: "In this video, we introduce Report Builder, and describe a general development methodology.  The Power BI Paginated Reports in a Day online course aims to empower you as a report author with the technical knowledge required to create, publish, and distribute Power BI paginated reports. We recommend you"
-webUrl: https://youtube.com/watch?v=EjHANN3rGNs
+originalUrl: https://youtube.com/watch?v=EjHANN3rGNs
 type: video
 price: Free
 length: PT16M20S

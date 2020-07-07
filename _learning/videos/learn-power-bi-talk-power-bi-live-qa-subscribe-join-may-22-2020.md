@@ -1,7 +1,7 @@
 ---
 title: "🔴Talk Power BI LIVE Q&A (Subscribe & Join) May 22, 2020"
 excerpt: "✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask any Power BI question. 💡 Join the Talk Power BI Insider's Club at http://www.TalkPowerBI.com for special privileges and access  0:06:45 Statistical Software & Power BI by Juan Ignacio Martinez 0:11:23 #IDEA Live"
-webUrl: https://youtube.com/watch?v=6WeJwrfwEA4
+originalUrl: https://youtube.com/watch?v=6WeJwrfwEA4
 type: video
 price: Free
 length: PT4H49M4S

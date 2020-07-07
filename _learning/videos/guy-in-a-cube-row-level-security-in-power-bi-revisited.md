@@ -1,7 +1,7 @@
 ---
 title: "Row-Level Security in Power BI - Revisited"
 excerpt: "We had some recent changes to Row-level security in Power BI. Row-level security (RLS) was moved to be configured in Power BI Desktop with the June 2016 release.  I walk through how you could can configure this now in Power BI Desktop. I also talk about some of the limitations.  LET'S CONNECT!  Guy in"
-webUrl: https://youtube.com/watch?v=67fK0GoVQ80
+originalUrl: https://youtube.com/watch?v=67fK0GoVQ80
 type: video
 price: Free
 length: PT5M29S

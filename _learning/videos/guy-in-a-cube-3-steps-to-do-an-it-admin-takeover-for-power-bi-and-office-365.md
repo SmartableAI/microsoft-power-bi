@@ -1,7 +1,7 @@
 ---
 title: "3 steps to do an IT Admin Takeover for Power BI and Office 365"
 excerpt: "In this video, I revisit how to perform an IT Admin takeover for your tenant. This could just be a tenant that you did an individual sign up for Power BI with.  I walk through the 3 main steps to perform the takeover. Doing the takeover doesn't cost you anything. For more detail on the cost of Power"
-webUrl: https://youtube.com/watch?v=xt5EsrQBZZk
+originalUrl: https://youtube.com/watch?v=xt5EsrQBZZk
 type: video
 price: Free
 length: PT4M58S

@@ -1,7 +1,7 @@
 ---
 title: "2020 YouTube & Live Streaming Studio Tour - 100k Sub Video"
 excerpt: "We made it to 100k YouTube Subs!!! Thank you to everyone who helped to make this a reality. We love the community! 👊  Here is a studio tour of Adam's setup for both recording YouTube videos as well as doing live streams.   Gear: https://guyinacu.be/tools Live Streaming: https://guyinacu.be/streamsetup"
-webUrl: https://youtube.com/watch?v=4tW8y9QPLnk
+originalUrl: https://youtube.com/watch?v=4tW8y9QPLnk
 type: video
 price: Free
 length: PT10M40S

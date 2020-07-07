@@ -1,7 +1,7 @@
 ---
 title: "What is Power BI Embedded?"
 excerpt: "In this video, Adam, from Guy in a Cube, walks through what Power BI Embedded is. He talks about how you can get started with Power BI Embedded as well as what resources are available for you.  From the Azure portal to sample applications, along with documentation for APIs and usage of features, Adam"
-webUrl: https://youtube.com/watch?v=iEHfUuoZseo
+originalUrl: https://youtube.com/watch?v=iEHfUuoZseo
 type: video
 price: Free
 length: PT5M4S

@@ -1,7 +1,7 @@
 ---
 title: "Power BI Administration: Configure Help URLs"
 excerpt: "Adam looks at how a Power BI administrator can configure Help URLs within the Power BI Admin Portal. This is a must look at video for Power BI Administration!  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton -- http://twitter.com/patrickdba -- http://www.facebook.com/guyinacube"
-webUrl: https://youtube.com/watch?v=kn5VHDNb888
+originalUrl: https://youtube.com/watch?v=kn5VHDNb888
 type: video
 price: Free
 length: PT3M35S

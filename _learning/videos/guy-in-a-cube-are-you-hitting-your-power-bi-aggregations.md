@@ -1,7 +1,7 @@
 ---
 title: "Are you HITTING your Power BI aggregations???"
 excerpt: "Are you not sure if you are hitting your Power BI Aggregations? Patrick shows you some tools you can use to verify if they are being used.  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level? We have training courses available"
-webUrl: https://youtube.com/watch?v=ivWGSnthTDw
+originalUrl: https://youtube.com/watch?v=ivWGSnthTDw
 type: video
 price: Free
 length: PT7M46S

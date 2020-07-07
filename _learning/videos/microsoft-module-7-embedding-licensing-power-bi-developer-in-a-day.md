@@ -1,7 +1,7 @@
 ---
 title: "Module 7: Embedding licensing | Power BI Developer in a Day"
 excerpt: "In this video, we describe Power BI embedding licensing and compare different products. You’ll also learn about licensing guidance.  This is video 19 of 20.    Please note: licensing information is current at the time of recording, which was May 2020   The Power BI Developer in a Day online course empowers you as an"
-webUrl: https://youtube.com/watch?v=ipmip6ARnks
+originalUrl: https://youtube.com/watch?v=ipmip6ARnks
 type: video
 price: Free
 length: PT8M49S

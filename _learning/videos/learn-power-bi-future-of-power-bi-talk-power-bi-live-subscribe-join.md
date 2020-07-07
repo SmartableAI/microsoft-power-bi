@@ -1,7 +1,7 @@
 ---
 title: "Future of Power BI 🔴Talk Power BI LIVE (Subscribe & Join)"
 excerpt: "👇 Connect with our Featured Guests using links below ★★Links to Topics Discussed (Click to Jump)★★ 03:04 Guest Introductions 06:12 Indicators for the Future of Power BI 08:05 How was 2019 for Power BI in your world? 15:20 What forces are working in favor of Power BI and fueling it’s growth? 23:49 What"
-webUrl: https://youtube.com/watch?v=zxHsYKlefFU
+originalUrl: https://youtube.com/watch?v=zxHsYKlefFU
 type: video
 price: Free
 length: PT1H6M27S

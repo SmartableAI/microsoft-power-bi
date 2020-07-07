@@ -1,7 +1,7 @@
 ---
 title: "How to Easily Change the Data Source Type in Power BI"
 excerpt: "Watch till the end to find out how you can switch your Power BI model without redoing a lot of work from using .csv or .xls files to directly using the SQL server.  First, I will show you the two wrong ways of changing the data source type and then I’m going to show you the right way of doing it.  For"
-webUrl: https://youtube.com/watch?v=_8dJ--ktU4c
+originalUrl: https://youtube.com/watch?v=_8dJ--ktU4c
 type: video
 price: Free
 length: PT7M30S

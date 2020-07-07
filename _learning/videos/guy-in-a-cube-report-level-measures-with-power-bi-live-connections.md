@@ -1,7 +1,7 @@
 ---
 title: "Report level measures with Power BI live connections"
 excerpt: "In this video, Patrick looks at how you can create report level measures, within Power BI Desktop, against SQL Server Analysis Services Tabular live connections, or against a Power BI service dataset live connection. He also explains what is meant by report level measures. Bust out your DAX toolbelt"
-webUrl: https://youtube.com/watch?v=Yezgr3QN9hw
+originalUrl: https://youtube.com/watch?v=Yezgr3QN9hw
 type: video
 price: Free
 length: PT7M7S

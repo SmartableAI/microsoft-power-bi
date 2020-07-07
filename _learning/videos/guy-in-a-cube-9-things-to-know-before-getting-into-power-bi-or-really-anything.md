@@ -1,7 +1,7 @@
 ---
 title: "9 things to know before getting into Power BI (Or, really anything)"
 excerpt: "We share 9 things to know before starting your journey with Power BI. Really this applies to anything...   Power BI User Groups: https://www.pbiusergroup.com/  *** Social Media Resources *** Power BI Community: https://community.powerbi.com Twitter: https://twitter.com/search?q=%23powerbi&src=typed_query"
-webUrl: https://youtube.com/watch?v=EolSBRkNpbk
+originalUrl: https://youtube.com/watch?v=EolSBRkNpbk
 type: video
 price: Free
 length: PT13M1S

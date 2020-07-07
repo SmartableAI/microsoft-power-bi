@@ -1,7 +1,7 @@
 ---
 title: "Module 1: Overview (Part 2/3) | Power BI Developer in a Day"
 excerpt: "In this video, you’ll learn about Power BI core concepts, including the Power BI service, workspaces, datasets, reports, dashboards, and Q&A. This is video 4 of 20.    The Power BI Developer in a Day online course empowers you as an app developer with the technical knowledge required to embed Power BI"
-webUrl: https://youtube.com/watch?v=jmHXlHI5hn0
+originalUrl: https://youtube.com/watch?v=jmHXlHI5hn0
 type: video
 price: Free
 length: PT9M3S

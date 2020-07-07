@@ -1,7 +1,7 @@
 ---
 title: "3 ways to embed Power BI"
 excerpt: "In this video, we will look at three ways that you can embed Power BI into your website or application. This includes the Publish to Web feature, using the REST APIs and the new Power BI Embedded service within Microsoft Azure.  Watch the behind the scenes video over on Guy in a Cube - https://youtu.be/OqbVZfFhEzA"
-webUrl: https://youtube.com/watch?v=egP0GHSOUIM
+originalUrl: https://youtube.com/watch?v=egP0GHSOUIM
 type: video
 price: Free
 length: PT5M17S

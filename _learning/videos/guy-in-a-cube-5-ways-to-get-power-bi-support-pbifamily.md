@@ -1,7 +1,7 @@
 ---
 title: "5 ways to get Power BI Support #pbifamily"
 excerpt: "Sometimes you need Power BI support. Even if you know a lot about Power BI, everyone has a brain fart from time to time. Adam looks at 5 different ways you can get Power BI support to get you past your hurdle.  Community Site: https://community.powerbi.com Twitter Hashtag: #PowerBI and #pbihelp Facebook"
-webUrl: https://youtube.com/watch?v=OK9i3tuzUMc
+originalUrl: https://youtube.com/watch?v=OK9i3tuzUMc
 type: video
 price: Free
 length: PT9M22S

@@ -1,7 +1,7 @@
 ---
 title: "Using Power BI Audit Log and PowerShell to assign Power BI Pro licenses"
 excerpt: "Auditing with Power BI has been available for a few months within the US and more recently within all regions except Europe and Australia as a preview. This provides auditing on certain events to understand what your organization is doing with the service.   The new activity that has been added is when"
-webUrl: https://youtube.com/watch?v=oulR910VBrU
+originalUrl: https://youtube.com/watch?v=oulR910VBrU
 type: video
 price: Free
 length: PT9M14S

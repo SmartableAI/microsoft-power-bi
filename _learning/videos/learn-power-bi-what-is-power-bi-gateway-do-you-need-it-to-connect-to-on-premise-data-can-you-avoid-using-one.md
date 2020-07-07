@@ -1,7 +1,7 @@
 ---
 title: "What is Power BI Gateway? Do You Need it to Connect to On-Premise Data? Can You Avoid Using One?"
 excerpt: "Power BI Gateway acts as a bridge to let PowerBI.com (Cloud) connect to your On-Premise (Local) Data Sources – like local Excel Files or a local SQL Server.   Watch our complete video series on Power BI Gateways: https://www.youtube.com/playlist?list=PL7GQQXV5Z8edw57_eLqD9By5mzxIqxSJ1 1. What is a Power"
-webUrl: https://youtube.com/watch?v=i1W5kISMF50
+originalUrl: https://youtube.com/watch?v=i1W5kISMF50
 type: video
 price: Free
 length: PT12M47S

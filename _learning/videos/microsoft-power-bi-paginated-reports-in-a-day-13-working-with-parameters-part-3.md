@@ -1,7 +1,7 @@
 ---
 title: "Power BI Paginated Reports in a Day - 13: Working with Parameters - Part 3"
 excerpt: "In this video, we demonstrate configuring parameters in different scenarios for the list report.  The Power BI Paginated Reports in a Day online course aims to empower you as a report author with the technical knowledge required to create, publish, and distribute Power BI paginated reports. We recommend"
-webUrl: https://youtube.com/watch?v=13-6sWIRD74
+originalUrl: https://youtube.com/watch?v=13-6sWIRD74
 type: video
 price: Free
 length: PT19M29S

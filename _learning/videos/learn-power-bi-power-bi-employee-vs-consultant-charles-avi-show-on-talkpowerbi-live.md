@@ -1,7 +1,7 @@
 ---
 title: "Power BI Employee vs. Consultant: Charles & Avi Show on 🔴TalkPowerBI LIVE"
 excerpt: "✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask any Power BI question. 💡 Join the Talk Power BI Insider's Club at http://www.TalkPowerBI.com for special privileges and access   Hello, I am Avi Singh, Microsoft MVP and Power BI Pro! I just love talking about Power"
-webUrl: https://youtube.com/watch?v=fOZ8RtnCsqs
+originalUrl: https://youtube.com/watch?v=fOZ8RtnCsqs
 type: video
 price: Free
 length: PT1H22M28S

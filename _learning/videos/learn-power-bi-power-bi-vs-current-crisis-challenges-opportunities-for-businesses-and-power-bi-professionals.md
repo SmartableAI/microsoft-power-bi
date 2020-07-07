@@ -1,7 +1,7 @@
 ---
 title: "Power BI vs. Current Crisis: Challenges & Opportunities for Businesses and Power BI Professionals"
 excerpt: "Certainly the current crisis has affected businesses all over the world. But how can we reframe the current challenges and focus on opportunities. We would hear from Speakers ➔ Positive examples of what's still working ➔ Clients/Businesses that are still moving forward ➔ What Speakers are doing themselves"
-webUrl: https://youtube.com/watch?v=HkU37TMOpt0
+originalUrl: https://youtube.com/watch?v=HkU37TMOpt0
 type: video
 price: Free
 length: PT1H4M41S

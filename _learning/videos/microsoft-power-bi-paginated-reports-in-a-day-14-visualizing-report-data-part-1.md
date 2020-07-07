@@ -1,7 +1,7 @@
 ---
 title: "Power BI Paginated Reports in a Day - 14: Visualizing Report Data - Part 1"
 excerpt: "In this video, we introduce the data region and data visualization templates you can use to visualize report data, and then focus on each of the data region templates.  The Power BI Paginated Reports in a Day online course aims to empower you as a report author with the technical knowledge required to"
-webUrl: https://youtube.com/watch?v=b4TxBBtOWSw
+originalUrl: https://youtube.com/watch?v=b4TxBBtOWSw
 type: video
 price: Free
 length: PT11M16S

@@ -1,7 +1,7 @@
 ---
 title: "Domain Placement with Office 365"
 excerpt: "This looks at how to move a Domain from one tenant to another.  This can come in handle when you had a Shadow Tenant spawn that took a Domain that you wanted on your primary tenant.  How to perform an IT Admin Takeover with O365 http://blogs.technet.com/b/powerbisupport/archive/2015/02/06/how-to-perform-an-it-admin-takeover-with-o365.aspx"
-webUrl: https://youtube.com/watch?v=cgen178I9gQ
+originalUrl: https://youtube.com/watch?v=cgen178I9gQ
 type: video
 price: Free
 length: PT8M31S

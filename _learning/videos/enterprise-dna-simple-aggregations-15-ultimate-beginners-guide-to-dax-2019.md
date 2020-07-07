@@ -1,7 +1,7 @@
 ---
 title: "Simple Aggregations - (1.5) Ultimate Beginners Guide to DAX 2019"
 excerpt: "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download."
-webUrl: https://youtube.com/watch?v=OA8WrkTIjXE
+originalUrl: https://youtube.com/watch?v=OA8WrkTIjXE
 type: video
 price: Free
 length: PT10M4S

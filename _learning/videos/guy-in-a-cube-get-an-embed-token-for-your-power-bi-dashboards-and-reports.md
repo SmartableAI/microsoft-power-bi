@@ -1,7 +1,7 @@
 ---
 title: "Get an embed token for your Power BI dashboards and reports"
 excerpt: "**** This video was replaced by - https://guyinacu.be/embedtoken ****  In this video, Adam shows you how you can use the Power BI REST APIs to get an embed token. This is done with the GenerateToken API. In order to do this, you have to register an app with Azure Active Directory, then you need to write"
-webUrl: https://youtube.com/watch?v=GPHHdDRSlis
+originalUrl: https://youtube.com/watch?v=GPHHdDRSlis
 type: video
 price: Free
 length: PT10M33S

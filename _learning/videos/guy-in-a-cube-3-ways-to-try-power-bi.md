@@ -1,7 +1,7 @@
 ---
 title: "3 ways to try Power BI"
 excerpt: "Are you wanting to try Power BI, but not sure where to start? I look at some ways you can get up and running with Power BI quickly. This could be for an individual, or for your organization within Office 365.  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com -- http://twitter.com/guyinacube --"
-webUrl: https://youtube.com/watch?v=QiwxT9ndefY
+originalUrl: https://youtube.com/watch?v=QiwxT9ndefY
 type: video
 price: Free
 length: PT4M7S

@@ -1,7 +1,7 @@
 ---
 title: "Power BI Paginated Reports: Visualizing Data"
 excerpt: "Paginated reports in Power BI are now available. Now that you have data, Patrick walks you through how to build a matrix visual within the report. He also looks at how to work with expressions and formatting.  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com -- http://twitter.com/guyinacube --"
-webUrl: https://youtube.com/watch?v=gleYD97WScI
+originalUrl: https://youtube.com/watch?v=gleYD97WScI
 type: video
 price: Free
 length: PT13M41S

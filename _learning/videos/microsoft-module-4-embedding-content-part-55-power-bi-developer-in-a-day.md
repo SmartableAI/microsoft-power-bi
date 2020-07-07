@@ -1,7 +1,7 @@
 ---
 title: "Module 4: Embedding content (Part 5/5) | Power BI Developer in a Day"
 excerpt: "In this video, Peter Myers demonstrates how to embed Power BI dashboards and the Q&A experience. This is video 13 of 20.    The Power BI Developer in a Day online course empowers you as an app developer with the technical knowledge required to embed Power BI content. We recommend you watch the videos"
-webUrl: https://youtube.com/watch?v=hnZ7IWHrMFU
+originalUrl: https://youtube.com/watch?v=hnZ7IWHrMFU
 type: video
 price: Free
 length: PT6M57S

@@ -1,7 +1,7 @@
 ---
 title: "Powerful BI Dashboards for Digital Marketing with Charles 🔴Talk Power BI LIVE (Subscribe & Join)"
 excerpt: "Watch a LIVE demo of powerful BI Dashboards for Digital Marketing that make an impact! Presented by Charles Elwood (http://www.SolisMatica.com) who specializes in working with Digital Marketing teams and revolutionizing how they work with the magic of Power BI.   ✅ Subscribe and click the 🔔 to join"
-webUrl: https://youtube.com/watch?v=9TxfXS8bqSc
+originalUrl: https://youtube.com/watch?v=9TxfXS8bqSc
 type: video
 price: Free
 length: PT48M3S

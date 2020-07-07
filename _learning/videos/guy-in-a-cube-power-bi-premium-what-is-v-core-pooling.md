@@ -1,7 +1,7 @@
 ---
 title: "Power BI Premium: What is V-CORE pooling?!?"
 excerpt: "Adam breaks down v-core pooling with Power BI Premium. Explaining where the v-cores come from and how creating a Power BI Premium node affects the v-core pool.  Guy in a Cube Courses: https://guyinacu.be/courses  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton"
-webUrl: https://youtube.com/watch?v=8AJbbdE0uKQ
+originalUrl: https://youtube.com/watch?v=8AJbbdE0uKQ
 type: video
 price: Free
 length: PT9M14S

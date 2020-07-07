@@ -1,7 +1,7 @@
 ---
 title: "Module 4: Embedding content (Part 2/5) | Power BI Developer in a Day"
 excerpt: "In this video, Peter Myers demonstrates fast-tracking a Power BI embedded project by using the Embedding Setup Tool. You’ll learn about creating additional Power BI content. This is video 10 of 20.    The Power BI Developer in a Day online course empowers you as an app developer with the technical knowledge"
-webUrl: https://youtube.com/watch?v=XbYt8ZX3q9k
+originalUrl: https://youtube.com/watch?v=XbYt8ZX3q9k
 type: video
 price: Free
 length: PT11M40S

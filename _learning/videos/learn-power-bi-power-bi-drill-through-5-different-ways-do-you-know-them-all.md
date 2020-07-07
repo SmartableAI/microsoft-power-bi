@@ -1,7 +1,7 @@
 ---
 title: "Power BI Drill Through 5 Different Ways! Do You Know Them All?"
 excerpt: "We show you how to use Power BI Drill Through in 5 different ways 1️⃣ Drill Through to Multiple Drill Pages 2️⃣️ Drill Through using Multiple Fields Together 3️⃣ Drill Through with Filters On 4️⃣ Drill Through using DAX Measures 5️⃣️ Drill Through to Another Report! Cross-Report Drill Through 👉 Catch"
-webUrl: https://youtube.com/watch?v=GaY3_zrj21U
+originalUrl: https://youtube.com/watch?v=GaY3_zrj21U
 type: video
 price: Free
 length: PT17M25S

@@ -1,7 +1,7 @@
 ---
 title: "Welcome and Course Introduction | Power BI Developer in a Day"
 excerpt: "In this video, Peter Myers (Microsoft Most Valued Professional - Data Platform, and course developer), Sergei Gundorov (Principal Program Manager), and Amit Shuster (Product Manager) welcome and introduce you to the course. This is video 1 of 20.    The Power BI Developer in a Day online course empowers you as an"
-webUrl: https://youtube.com/watch?v=dv-ep90wse8
+originalUrl: https://youtube.com/watch?v=dv-ep90wse8
 type: video
 price: Free
 length: PT2M36S

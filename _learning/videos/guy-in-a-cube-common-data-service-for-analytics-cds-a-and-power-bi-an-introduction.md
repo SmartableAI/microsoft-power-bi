@@ -1,7 +1,7 @@
 ---
 title: "Common Data Service for Analytics (CDS-A) and Power BI - an Introduction"
 excerpt: "In this video, Matthew Roche joins Adam for a look at the Common Data Service for Analytics. This is an offering that will be coming out in public preview in the Summer of 2018 and will help you to bring together data sources into a common schema.  Business Application Platform: Power BI | Business Applications"
-webUrl: https://youtube.com/watch?v=1vQ0HLNZ06A
+originalUrl: https://youtube.com/watch?v=1vQ0HLNZ06A
 type: video
 price: Free
 length: PT16M47S

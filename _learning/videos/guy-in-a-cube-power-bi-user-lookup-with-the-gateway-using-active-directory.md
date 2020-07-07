@@ -1,7 +1,7 @@
 ---
 title: "Power BI User lookup with the gateway using Active Directory"
 excerpt: "In this video, Adam looks at how you can use Active Directory custom attributes for the user lookup with the Power BI Gateway. This can be used for both Analysis Services mapping and the Kerberos SSO with DirectQuery connections.  Manage your data source - Analysis Services https://docs.microsoft.com/power-bi/service-gateway-enterprise-manage-ssas#usernames-with-analysis-services"
-webUrl: https://youtube.com/watch?v=NG05PG9aiRw
+originalUrl: https://youtube.com/watch?v=NG05PG9aiRw
 type: video
 price: Free
 length: PT12M22S

@@ -1,7 +1,7 @@
 ---
 title: "Power BI Dashboard Showcase & Makeover 🔴Talk Power BI LIVE (Subscribe & Join)"
 excerpt: "In Power BI 'Dashboard Makeover'  • We Review Power BI Reports/Dashboards sent in by users  • Provide expert feedback and ideas on how to improve  • Submit Your Screenshots or PBIX file here 👉 https://www.learnpowerbi.com/makeover  ⚠️NOTE⚠️ :  • Do NOT send any sensitive data in your screenshots  •"
-webUrl: https://youtube.com/watch?v=z3DHsL05wzQ
+originalUrl: https://youtube.com/watch?v=z3DHsL05wzQ
 type: video
 price: Free
 length: PT3H42M37S

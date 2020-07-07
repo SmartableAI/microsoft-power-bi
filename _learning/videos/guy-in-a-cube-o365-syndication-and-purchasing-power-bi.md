@@ -1,7 +1,7 @@
 ---
 title: "O365 Syndication and purchasing Power BI"
 excerpt: "I look at a roadblock you may encounter if you purchased O365 from a Syndicated Partner. You won't be able to purchase Power BI Pro for these offerings. I look at some workarounds you can use to get up and running with Power BI.  https://powerbi.microsoft.com/en-us/documentation/powerbi-admin-syndication-partner/"
-webUrl: https://youtube.com/watch?v=C357phT94A8
+originalUrl: https://youtube.com/watch?v=C357phT94A8
 type: video
 price: Free
 length: PT4M29S

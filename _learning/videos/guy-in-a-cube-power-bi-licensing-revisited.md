@@ -1,7 +1,7 @@
 ---
 title: "Power BI Licensing Revisited!"
 excerpt: "I break down the three different license types for Power BI and show you how you can tell what you have!  SUBSCRIBE! https://www.youtube.com/channel/UCFp1vaKzpfvoGai0vE5VJ0w?sub_confirmation=1  LET'S CONNECT!  Blogs -- http://blogs.technet.com/powerbisupport -- http://blogs.msdn.com/psssql  Guy in a"
-webUrl: https://youtube.com/watch?v=1ih9ETy_Hdw
+originalUrl: https://youtube.com/watch?v=1ih9ETy_Hdw
 type: video
 price: Free
 length: PT8M41S

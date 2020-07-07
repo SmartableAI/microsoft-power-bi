@@ -1,7 +1,7 @@
 ---
 title: "Embed a dashboard from Power BI into your application"
 excerpt: "In this video, I go over the embed a dashboard sample and walk you through how to actually embed a dashboard into your application. This uses a combination of the Power BI REST APIs and the JavaScript API.  Embed Dashboards in Your Applications to Monitor Your Business in Context (Blog) - https://powerbi.microsoft.com/en-us/blog/embed-dashboard/"
-webUrl: https://youtube.com/watch?v=XSAHwE21Buk
+originalUrl: https://youtube.com/watch?v=XSAHwE21Buk
 type: video
 price: Free
 length: PT13M43S

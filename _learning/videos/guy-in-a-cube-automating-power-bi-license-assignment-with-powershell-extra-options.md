@@ -1,7 +1,7 @@
 ---
 title: "Automating Power BI License Assignment with PowerShell - Extra Options!"
 excerpt: "I posted a video on the Power BI YouTube channel for using PowerShel and the Audit log to assign Power BI Pro licenses. In this video, I give you a few other options instead of automating off of the audit log.  Main video: Using Power BI Audit Log and PowerShell to assign Power BI Pro licenses - https://youtu.be/oulR910VBrU"
-webUrl: https://youtube.com/watch?v=FwPT4QV-o7g
+originalUrl: https://youtube.com/watch?v=FwPT4QV-o7g
 type: video
 price: Free
 length: PT3M5S

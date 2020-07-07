@@ -1,7 +1,7 @@
 ---
 title: "Power BI Auditing for a Non-Admin"
 excerpt: "I talked before about how you can use Power BI Auditing. In this video, I look at how a non-admin user can search the audit log.  PATREON: Let's support each other! http://www.patreon.com/guyinacube  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com -- http://twitter.com/guyinacube -- http://www.facebook.com/guyinacube"
-webUrl: https://youtube.com/watch?v=ibPi4aF_-9I
+originalUrl: https://youtube.com/watch?v=ibPi4aF_-9I
 type: video
 price: Free
 length: PT3M55S

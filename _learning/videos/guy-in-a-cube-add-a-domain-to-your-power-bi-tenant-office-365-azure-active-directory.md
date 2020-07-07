@@ -1,7 +1,7 @@
 ---
 title: "Add a domain to your Power BI tenant (Office 365 / Azure Active Directory)"
 excerpt: "In this video, Adam looks at how you can add a domain to your Power BI tenant. This is done by adding the domain through Azure Active Directory or Office 365.  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com -- http://twitter.com/guyinacube -- http://www.facebook.com/guyinacube -- Snapchat -"
-webUrl: https://youtube.com/watch?v=Lv98ZI1cmdI
+originalUrl: https://youtube.com/watch?v=Lv98ZI1cmdI
 type: video
 price: Free
 length: PT7M49S

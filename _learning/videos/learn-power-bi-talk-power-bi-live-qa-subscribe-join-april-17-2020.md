@@ -1,7 +1,7 @@
 ---
 title: "🔴Talk Power BI LIVE Q&A (Subscribe & Join) April 17, 2020"
 excerpt: "✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask any Power BI question. 💡 Join the Talk Power BI Insider's Club at http://www.TalkPowerBI.com for special privileges and access  0:16:40 Merging or Combining Data By Jason P. 0:31:40 Play Button Showing Cumulative"
-webUrl: https://youtube.com/watch?v=TjDr3XxE114
+originalUrl: https://youtube.com/watch?v=TjDr3XxE114
 type: video
 price: Free
 length: PT3H46M21S

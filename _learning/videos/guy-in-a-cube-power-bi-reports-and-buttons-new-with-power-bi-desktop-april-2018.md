@@ -1,7 +1,7 @@
 ---
 title: "Power BI Reports and Buttons (new with Power BI Desktop - April 2018)"
 excerpt: "In this video, Patrick looks at Power BI reports and buttons. Buttons were added to Power BI Desktop in the April 2018 release. You can now add buttons to your Power BI reports and configure actions for when they are selected.  Bookmarks and selections are a powerful combination with Power BI reports"
-webUrl: https://youtube.com/watch?v=0m-PCX1uCG4
+originalUrl: https://youtube.com/watch?v=0m-PCX1uCG4
 type: video
 price: Free
 length: PT7M53S

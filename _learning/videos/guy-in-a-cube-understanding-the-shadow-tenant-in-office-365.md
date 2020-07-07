@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Shadow Tenant in Office 365"
 excerpt: "I describe what a Shadow Tenant is and how it is created.  This is from the perspective of Power BI.  What is a Tenant - https://youtu.be/yVYSx1odYSY?list=PLv2BtOtLblH3SXM6Q44DCjykqp9xPozNH  SUBSCRIBE! https://www.youtube.com/channel/UCFp1vaKzpfvoGai0vE5VJ0w?sub_confirmation=1  LET'S CONNECT!  Blogs"
-webUrl: https://youtube.com/watch?v=y4Bu8QP2QhE
+originalUrl: https://youtube.com/watch?v=y4Bu8QP2QhE
 type: video
 price: Free
 length: PT4M20S

@@ -1,7 +1,7 @@
 ---
 title: "Filter Context - (1.9) Ultimate Beginners Guide to DAX 2019"
 excerpt: "Follow along to the beginners guide DAX tutorials by using the demo data available for download. Enjoy!  ***** Video Details ***** 1:15 understanding filter context  2:41 using aggregation  3:31 associating filter context with aggregation  ***** Learning Power BI? ***** FREE COURSE - Ultimate Beginners"
-webUrl: https://youtube.com/watch?v=v7IbV_XVKXI
+originalUrl: https://youtube.com/watch?v=v7IbV_XVKXI
 type: video
 price: Free
 length: PT4M28S

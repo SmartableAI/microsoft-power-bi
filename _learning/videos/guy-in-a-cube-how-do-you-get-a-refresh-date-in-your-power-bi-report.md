@@ -1,7 +1,7 @@
 ---
 title: "How do you get a REFRESH DATE in your Power BI report???"
 excerpt: "Have you wondered how to get a refresh date in your Power BI report? Adam looks at an easy way to do that with a little Power Query.  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level? We have training courses available to help"
-webUrl: https://youtube.com/watch?v=oN6mOmEruOQ
+originalUrl: https://youtube.com/watch?v=oN6mOmEruOQ
 type: video
 price: Free
 length: PT3M23S

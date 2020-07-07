@@ -1,7 +1,7 @@
 ---
 title: "Power BI Paginated Reports in a Day - 23: Bonus Content: Evolution of Paginated Reporting"
 excerpt: "In this video, Peter Myers interviews Guilherme Boreki (Principal Software Engineer with the product team) to reveal the evolution of paginated reports.  The Power BI Paginated Reports in a Day online course aims to empower you as a report author with the technical knowledge required to create, publish,"
-webUrl: https://youtube.com/watch?v=pevpai65MvY
+originalUrl: https://youtube.com/watch?v=pevpai65MvY
 type: video
 price: Free
 length: PT10M25S

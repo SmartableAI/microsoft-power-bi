@@ -1,7 +1,7 @@
 ---
 title: "Module 4: Embedding content (Part 3/5) | Power BI Developer in a Day"
 excerpt: "In this video, you’ll learn about NuGet packages to import, and how to programmatically embed Power BI content. This is video 11 of 20.    The Power BI Developer in a Day online course empowers you as an app developer with the technical knowledge required to embed Power BI content. We recommend you watch"
-webUrl: https://youtube.com/watch?v=mXmFrHuYVh8
+originalUrl: https://youtube.com/watch?v=mXmFrHuYVh8
 type: video
 price: Free
 length: PT11M31S

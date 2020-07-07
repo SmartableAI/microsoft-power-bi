@@ -1,7 +1,7 @@
 ---
 title: "Power BI DirectQuery and SQL Databases: A Conversation with Bob Ward"
 excerpt: "Power BI DirectQuery can have performance implications. Bob Ward shares his knowledge to help make SQL Databases perform better!  Automatic tuning: https://docs.microsoft.com/azure/sql-database/sql-database-automatic-tuning  ColumnStore Indexes: https://docs.microsoft.com/azure/sql-database/sql-database-in-memory"
-webUrl: https://youtube.com/watch?v=lVXAkfiP1NE
+originalUrl: https://youtube.com/watch?v=lVXAkfiP1NE
 type: video
 price: Free
 length: PT25M23S

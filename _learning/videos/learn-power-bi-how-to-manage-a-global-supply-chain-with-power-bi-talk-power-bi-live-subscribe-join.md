@@ -1,7 +1,7 @@
 ---
 title: "How to Manage a Global Supply Chain with Power BI 🔴Talk Power BI LIVE (Subscribe & Join)"
 excerpt: "Business is increasingly global, with supply chain crossing multiple vendors across country and continents.  Can Power BI help you manage the global Supply Chain? How can it make you more efficient? More resilient? Save you money? Find out in this special session with our guest: Christian Osborn https://www.linkedin.com/in/christianosborn/"
-webUrl: https://youtube.com/watch?v=485RC6ZsgSQ
+originalUrl: https://youtube.com/watch?v=485RC6ZsgSQ
 type: video
 price: Free
 length: PT49M57S

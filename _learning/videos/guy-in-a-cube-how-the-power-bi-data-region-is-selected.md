@@ -1,7 +1,7 @@
 ---
 title: "How the Power BI Data Region is selected"
 excerpt: "In this video, I look at how the Power BI data region is selected. This is the what you see when you go to About Power BI and see \"Your data is stored in\". You should take care to make sure this is where the majority of users you are before anyone signs up for Office 365, Power BI or other Microsoft"
-webUrl: https://youtube.com/watch?v=0fOxaHJPvdM
+originalUrl: https://youtube.com/watch?v=0fOxaHJPvdM
 type: video
 price: Free
 length: PT5M33S

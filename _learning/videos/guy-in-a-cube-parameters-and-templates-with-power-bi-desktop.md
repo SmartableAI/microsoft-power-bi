@@ -1,7 +1,7 @@
 ---
 title: "Parameters and Templates with Power BI Desktop"
 excerpt: "In this video, Patrick shows a way you can use parameters and templates, with Power BI Desktop, to provide prompts for your connection's server and database properties.   This is great for when you are creating a report, and need to share it with a customer that may have a different name for the server"
-webUrl: https://youtube.com/watch?v=JlUfz18cx_w
+originalUrl: https://youtube.com/watch?v=JlUfz18cx_w
 type: video
 price: Free
 length: PT10M52S

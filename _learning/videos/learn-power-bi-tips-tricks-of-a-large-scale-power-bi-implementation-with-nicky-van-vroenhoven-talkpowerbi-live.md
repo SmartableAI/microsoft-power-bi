@@ -1,7 +1,7 @@
 ---
 title: "Tips & Tricks of a Large Scale Power BI Implementation with Nicky van Vroenhoven 🔴TalkPowerBI LIVE"
 excerpt: "A Bonus Wednesday episode of TalkPowerBI with a Special Guest - Nicky van Vroenhoven, a Power BI Expert, Blogger, Speaker and Co-Founder of Power BI Days (Netherlands). Nicky would be sharing his journey about challenges and accomplishments of a Large Scale Power BI Implementation with 750+ Users.  Back"
-webUrl: https://youtube.com/watch?v=lOloQ1Me2Kw
+originalUrl: https://youtube.com/watch?v=lOloQ1Me2Kw
 type: video
 price: Free
 length: PT1H16M25S

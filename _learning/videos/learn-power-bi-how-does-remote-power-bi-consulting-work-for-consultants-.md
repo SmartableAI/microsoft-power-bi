@@ -1,7 +1,7 @@
 ---
 title: "How Does Remote Power BI Consulting Work? (For Consultants) 🌎"
 excerpt: "Let me show you step-by-step, how to work as a Remote Power BI Consultant with Clients anywhere in the world. We will cover each important step and also share useful tips and resources around Remote Power BI Consulting.  ➔ Links mentioned in the Video ▪️  How to Become a Power BI Consultant Playlist:"
-webUrl: https://youtube.com/watch?v=mRLB4j0V6x8
+originalUrl: https://youtube.com/watch?v=mRLB4j0V6x8
 type: video
 price: Free
 length: PT22M41S

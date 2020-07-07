@@ -1,7 +1,7 @@
 ---
 title: "Getting Started with Power BI Desktop in 5 steps"
 excerpt: "Getting started with Power BI Desktop is easy! Patrick looks at 5 steps to get you up and running quickly with Power BI Desktop. From downloading, to getting data, and then building your report visuals.  Getting started with Power BI Desktop https://docs.microsoft.com/power-bi/desktop-getting-started"
-webUrl: https://youtube.com/watch?v=BIlyRxHwp8E
+originalUrl: https://youtube.com/watch?v=BIlyRxHwp8E
 type: video
 price: Free
 length: PT6M3S

@@ -1,7 +1,7 @@
 ---
 title: "Power BI Apps for Consumers"
 excerpt: "Adam looks at how you can use Power BI Apps as a consumer of dashboards and reports. Power BI Apps are the main way that dashboards and reports are distributed widely in your organization.  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton -- http://twitter.com/patrickdba"
-webUrl: https://youtube.com/watch?v=lcGoWfXLRpc
+originalUrl: https://youtube.com/watch?v=lcGoWfXLRpc
 type: video
 price: Free
 length: PT6M55S

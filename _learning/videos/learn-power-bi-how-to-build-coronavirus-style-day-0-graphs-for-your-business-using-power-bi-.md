@@ -1,7 +1,7 @@
 ---
 title: "How to Build Coronavirus Style (Day 0) Graphs for Your Business using Power BI 📊"
 excerpt: "How can you build Coronavirus Style (Day 0) graphs for your business data in Power BI? So you can compare items side-by-side even if they had different start dates? Example: - Projects with Different Start Dates - Employees with different Hire Dates - Advertising Campaigns with different Run Dates and"
-webUrl: https://youtube.com/watch?v=HXQCV0N4KWg
+originalUrl: https://youtube.com/watch?v=HXQCV0N4KWg
 type: video
 price: Free
 length: PT11M54S

@@ -1,7 +1,7 @@
 ---
 title: "3 Power BI Scenarios to Understand Azure Active Directory Better"
 excerpt: "I've had a bunch of conversations over the last week or two that tell me this is still a confusing topic. Understanding the difference between Azure Active Directory and Active Directory can be important for certain Power BI Scenarios. Particularly around the gateways.  LET'S CONNECT!  Guy in a Cube"
-webUrl: https://youtube.com/watch?v=RtAgzJln880
+originalUrl: https://youtube.com/watch?v=RtAgzJln880
 type: video
 price: Free
 length: PT6M36S

@@ -1,7 +1,7 @@
 ---
 title: "Is This a Good Time to Become a Power BI Consultant? Really? 🤔"
 excerpt: "Is this really a good time to become a Power BI Consultant? Becoming an independent Power BI Consultant can be a path to make an impact, do what you love and create a life by your own rules. And surprisingly, some factors may make this the best time to take action. Watch the video to learn more  ➔ Links"
-webUrl: https://youtube.com/watch?v=Ko6uLkBKj-U
+originalUrl: https://youtube.com/watch?v=Ko6uLkBKj-U
 type: video
 price: Free
 length: PT14M5S

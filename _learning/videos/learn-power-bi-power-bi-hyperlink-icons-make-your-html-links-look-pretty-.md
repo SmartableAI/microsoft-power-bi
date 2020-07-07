@@ -1,7 +1,7 @@
 ---
 title: "Power BI Hyperlink Icons! Make Your HTML Links Look Pretty 🦋"
 excerpt: "Using HTML or URL Links in your reports can be really powerful. But these can sometimes look ugly (e.g. for long URLs). Learn how you can pretty up your reports by using a URL Icon instead.  ================================ 👉 FREE Power BI Step-by-Step Tutorial http://web.learnpowerbi.com/tutorial 👉"
-webUrl: https://youtube.com/watch?v=l0m42iRgBvE
+originalUrl: https://youtube.com/watch?v=l0m42iRgBvE
 type: video
 price: Free
 length: PT3M15S

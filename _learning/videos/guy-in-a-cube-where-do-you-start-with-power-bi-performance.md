@@ -1,7 +1,7 @@
 ---
 title: "WHERE do you START with Power BI Performance???"
 excerpt: "You have a Power BI Performance problem. But, where do you start? How do you know what to focus on and what is noise? We break it down.  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level? We have training courses available to"
-webUrl: https://youtube.com/watch?v=14KCckNbmvs
+originalUrl: https://youtube.com/watch?v=14KCckNbmvs
 type: video
 price: Free
 length: PT6M47S

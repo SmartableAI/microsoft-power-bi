@@ -1,7 +1,7 @@
 ---
 title: "Power BI Paginated Reports in a Day - 19: Adding Interactive Features - Part 2"
 excerpt: "In this video, we demonstrate adding interactive features to the table report.  The Power BI Paginated Reports in a Day online course aims to empower you as a report author with the technical knowledge required to create, publish, and distribute Power BI paginated reports. We recommend you watch the"
-webUrl: https://youtube.com/watch?v=b_pr1xsbRJc
+originalUrl: https://youtube.com/watch?v=b_pr1xsbRJc
 type: video
 price: Free
 length: PT4M32S

@@ -1,7 +1,7 @@
 ---
 title: "Power BI Paginated Reports in a Day - 02: Power BI Reporting - Part 1"
 excerpt: "In this video, we introduce Power BI, and contrast Power BI reporting with paginated reporting.  The Power BI Paginated Reports in a Day online course aims to empower you as a report author with the technical knowledge required to create, publish, and distribute Power BI paginated reports. We recommend"
-webUrl: https://youtube.com/watch?v=s6Amctk3Z_g
+originalUrl: https://youtube.com/watch?v=s6Amctk3Z_g
 type: video
 price: Free
 length: PT6M22S

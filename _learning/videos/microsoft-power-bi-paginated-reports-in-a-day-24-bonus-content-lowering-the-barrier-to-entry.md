@@ -1,7 +1,7 @@
 ---
 title: "Power BI Paginated Reports in a Day - 24: Bonus Content: Lowering the Barrier to Entry"
 excerpt: "In this video, Matt Goswell (Senior Product Marketing Manager) and Paginated Report Bear discuss lowering the barrier to entry for modern analytics and enterprise reporting.  The Power BI Paginated Reports in a Day online course aims to empower you as a report author with the technical knowledge required"
-webUrl: https://youtube.com/watch?v=vu32LfckCt8
+originalUrl: https://youtube.com/watch?v=vu32LfckCt8
 type: video
 price: Free
 length: PT5M49S

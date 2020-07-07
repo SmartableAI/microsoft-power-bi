@@ -1,7 +1,7 @@
 ---
 title: "A look at the new Power BI embed sample"
 excerpt: "This video takes a look at the new Power BI embed Sample that you can use to learn how to use the JavaScript API. With code examples and comments to give you a feel for what you need to do.   Report Embed Sample: https://microsoft.github.io/PowerBI-JavaScript/demo/code-demo/index.html  LET'S CONNECT!"
-webUrl: https://youtube.com/watch?v=nfkVljh_9O4
+originalUrl: https://youtube.com/watch?v=nfkVljh_9O4
 type: video
 price: Free
 length: PT4M10S

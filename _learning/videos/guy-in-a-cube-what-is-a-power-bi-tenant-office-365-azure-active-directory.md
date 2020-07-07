@@ -1,7 +1,7 @@
 ---
 title: "What is a Power BI tenant? (Office 365 / Azure Active Directory)"
 excerpt: "In this video, Adam looks at what a Power BI tenant is. This is really the Azure Active Directory / Office 365 tenant that contains your users, groups, subscriptions and more.   LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com -- http://twitter.com/guyinacube -- http://www.facebook.com/guyinacube"
-webUrl: https://youtube.com/watch?v=yJULDehAzVc
+originalUrl: https://youtube.com/watch?v=yJULDehAzVc
 type: video
 price: Free
 length: PT2M45S

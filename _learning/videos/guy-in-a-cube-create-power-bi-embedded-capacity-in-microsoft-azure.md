@@ -1,7 +1,7 @@
 ---
 title: "Create Power BI Embedded capacity in Microsoft Azure"
 excerpt: "In this video, Adam, from Guy in a Cube, walks through how to create Power BI Embedded capacity in the Microsoft Azure portal. He also takes a look at some of the actions you can do within the Azure portal such as scaling and pause/start.  Follow us on Twitter - https://twitter.com/mspowerbi  More questions?"
-webUrl: https://youtube.com/watch?v=aXrvFfg_iSk
+originalUrl: https://youtube.com/watch?v=aXrvFfg_iSk
 type: video
 price: Free
 length: PT5M48S

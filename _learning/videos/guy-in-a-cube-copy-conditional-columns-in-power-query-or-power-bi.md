@@ -1,7 +1,7 @@
 ---
 title: "Copy Conditional Columns in Power Query or Power BI"
 excerpt: "In this video, Adam looks at how to use conditional columns within Power Query and then copying them for use in other queries or Power BI Desktop files. This is a great technique if you don't want to retype all of the conditional items in the dialog in Power BI.  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com"
-webUrl: https://youtube.com/watch?v=OSoTyZVRqJk
+originalUrl: https://youtube.com/watch?v=OSoTyZVRqJk
 type: video
 price: Free
 length: PT6M43S

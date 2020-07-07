@@ -1,7 +1,7 @@
 ---
 title: "Examples Of Advanced DAX - (1.18) Ultimate Beginners Guide to DAX 2019"
 excerpt: "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download."
-webUrl: https://youtube.com/watch?v=IyrNH7aD_qk
+originalUrl: https://youtube.com/watch?v=IyrNH7aD_qk
 type: video
 price: Free
 length: PT9M30S

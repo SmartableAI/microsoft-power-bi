@@ -1,7 +1,7 @@
 ---
 title: "Deployment Pipelines give you more CONTROL (Power BI Premium)"
 excerpt: "With Deployment Pipelines, you can control your application life cycle stages. Keep content in sync at the different stages of your development. Power BI Premium is required.  Documentation: https://docs.microsoft.com/power-bi/create-reports/deployment-pipelines-overview https://docs.microsoft.com/power-bi/create-reports/deployment-pipelines-process"
-webUrl: https://youtube.com/watch?v=L-rGuFCOn18
+originalUrl: https://youtube.com/watch?v=L-rGuFCOn18
 type: video
 price: Free
 length: PT13M29S
