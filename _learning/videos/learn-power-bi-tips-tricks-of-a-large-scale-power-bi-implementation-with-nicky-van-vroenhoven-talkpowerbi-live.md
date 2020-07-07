@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT1H16M25S
 publishedDateTime: 2020-07-01T20:58:20Z
-heat: 80
+heat: 60
 
 provider:
   name: Learn Power BI
@@ -21,6 +21,6 @@ images:
     height: 720
     isCached: true
 
-secured: "tqOX/bAunCZi2AR8mBwF2dgVqHGeklmI+x6YTqwfO0aIVOtghAlGYiwWeA61QuO/OROKv0y6JVLDyYAxy5uJGYSVZVEqzr406kujmtHrbQOWCQg0H8UkIm/n8vikNKs7NaptpIYcIGEZqnFbEIg3srYs0rNRI3vGvFYZmo1CTBZs9kylWg2IwiBssLBJqEFDhJauEWaqSevmojnuR9qMDAh0prlG95n52LHUUKZiuK46q0SDCUO3qZ1MSchDrxY8RoQzFuHEbJ/2BNiKAJRSYpfZpFLukDqQUv/mGyBQ2fIOVH91Uh3gwuORljOaWTfEe3L65/14oZIC+CyW3IebMjNydbSDbv6M8gn/B+vbocWlpBvLQh3+mEW+CohZOf+5;36CPTKTT6kjds0BPyTlXzw=="
+secured: "4ixPVr1dWSGO02LPjPNIbaYDhOueTX+UAejsAHJCZ3PCcgQwdsuuBxwoiFe96DQ5+kyD0dHPhoTldiLJKYi+vmr6x54Qa+IiWSC5N2gktkm4jJmbxMql+pEPjgU/Dlw1dhv6aFSkU7Eds+DbfhEmo72Vn28GOFqsB9koocdZsjcVMKuQN0ylZkMEwZWnsNG5u3YkiDFbMlfGMbcDiYZUqWoYYwR2pkLukcoQilZa4x4rOiEGYcp5/mK23Bjqkckoh63IbxOi7DOcbzNfyzgjVWk8u3bhh8B40g7garJDeBZ8Qz+A1v7LSkzYvHg4H2eYe7Oqm82Ztn6rkh/n00VsF+WvdLwMu42hQPIXeEemC9OI6SsCyGm9KrBmbY3ufHBv3A6Opv4oEMuY5ql5br2Rvw==;xuCUm7slui7fjjjyCT9gVg=="
 ---
 
