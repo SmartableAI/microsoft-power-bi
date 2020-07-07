@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Perform analytics in Power BI "
 
-secured: "0J8S8gPFQ1qsSBEAUiuPd1J+UXI8b7zMVIuLLMkguiKmE1vLbQ4O+G2bUpEXVeYZVScwiP9JgDxCwwo44Tp5cHgN90Z3AsEtmDMcB+vtP4sG+rflLeaPxnGsYdmjnl8bYO2yFWJdnMvdLziUWFRRDS+H+qgZ2JFj/Ibg0nq5uzfPNG1D0VtW93YafkrGLDH2z0i9h+QVz77JgPIFAbSjOqEB7vpQ3iFW+b/3pV34le++hmjbsE8TaY7q4G1bRmsHDSWMSx69UstWgQ6+bpxPiBDeVriaL07f8DFgthVO8qBSLFCAm5fi/tYqNgAGrI25cytI2CIg4sGbWF2tv2hq6CgbZBTR9cLOrQr4Bc+Hov1RtAHcMlgDk+OSYfkoyVn8OZVc4/jkV8fyhAJd0IpojQ==;e6mS0Yg9u1qZ4OdcB+22lg=="
+secured: "DQ785zWMwg0bVxCbBs5UmT4zSn41F4J+e4LDHy8s2PEd2GsmfckB8P7aqx+vxt59VhoqZgfDFcadFf0YrPf73VXQWvwaixvDz0wJhrRwz6NeWKbXkDvigY9jisBopd/yfgqWYyG8IafKXCyJFw8zwsjxVqdf5g2WhqFTeK+npXEMHmxgoH7VeamxycJ+bUyDO7wKeZTSktl/WTQhvfIf2VXeA8wc7vm+s6bTTaLstNSxN/gVNaFOTYNuBBIxyib/YaXkxk8EaHP9tny819tk7j8HQNAE7GLefv7NBldGx58N96IzYcNnSPpsfu8a7/+B4gXvZmR4A/tajl4rUaF1S9uW6AMomtcLp6voC0J+q7E2dBUzMX311iTqvKnJD4QvL/R3OUqrCPq1nR0kjRJ1kA==;5CIt28doS2b3B6FbA1A7kw=="
 ---
 

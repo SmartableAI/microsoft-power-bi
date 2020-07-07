@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT6M8S
 publishedDateTime: 2018-04-10T16:10:23Z
-heat: 75
+heat: 83
 
 provider:
   name: Guy in a Cube
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "What is Power BI?"
 
-secured: "wePIeDICoGaIDH8q7appYjn4gaWxle/nE1MkJv2m/AmQ8gRsuxJKdrqIuVRWiqm55lcGkeLIBqHgPtozsIOG+r5mwRNxrwYKCxFGqlBa22UMUuVVPTgn/wPZ9FI20atT2g8NfG4y32ZsDRjCN/xz6sua8nNkmXXzYlH4b2cq3vGQrKYQvejgOVa51qT/c0yXKXb5bgFcRJOia9qcsUzG831s3YBbum4Yw8j1/Lxi//gPUhoB/jIoZZFJezdc4nGaJ+Qn/vEZD0OK7hWXHolaZucrW23/x7DsJTJEIROVhZRxfhFY7bdLrwh39uZTC6tpn5zjvEVn/XaMRi6AjnkoTz2aoP1E1iUCnT/uRh2JkHM4GsEHhV2YOtiocPhUWn5AsLYpJ7Mj84BAkPVIET07iA==;Lzx01wXRK9FHKmO9aJbadw=="
+secured: "MgQ7NCR5g6gGOxaqP892dnJV04A8l6T61RH44IiChFcgERLkZ9qdVV//H8/mMi8cc4LTU3MRDUB3KIYBvO0kJcW5g2c1qGu8HrYHfNZPbuy4ZkmlUFOMWIiJ8FqaIdqcDwXxyHukxTG61YHj6+4OsQGPIZ2nW43ksJWlGFFU6jkNbAkqrn0Ca12lqF4EEFtvJza2iopUF8AknaRvwonBl3Cu0Je3HcT0wKnw81adBO4JS912LcHUbFqtOIha2DWW3+5CAUC3uzd1YlvJgLIf9h2hTHVfR4Ph2z6rQ2f2Va2H4GlKwoz9wR/ilXVMbZUwv+RLdmjFneBB3K7K9CgLlqN9bJ7u4S0xNTTLCH2WpylMDpBp7fjQWWaqXEoCT2DZ7nS6xMLmhVSwuxN0fAeYIg==;c0vFJKMcq3ow4hrrkRMirA=="
 ---
 
