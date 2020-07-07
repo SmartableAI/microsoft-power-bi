@@ -16,7 +16,7 @@ provider:
 
 items:
   - courses/microsoft-learn-get-data
-  - courses/microsoft-learn-clean-data-power-bi
+  - courses/microsoft-learn-design-data-model-power-bi
 
 levels:
   - Intermediate
