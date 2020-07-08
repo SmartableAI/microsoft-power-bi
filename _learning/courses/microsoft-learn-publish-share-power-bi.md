@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Publish and share in Power BI"
 
-secured: "+B/k2Oj2ldreRu+oVQ0dL2MfSvk0EPAUeT2c++bULMD23YcPn74v1StPK3i/2hvhi2exAFTP+dw4klohR+DZm+cra6qXJPChZ1VZc1Gixprugofop3zPWNLIgJvM1SyTIrT0ZjEcF3Hewp6couQLKI0v1zXeXNfWYeRckMlvR6HYStFTD5I3P2079vmGmxF5tp0BARtb9+8LQJRluDux9ssYh/11fB7R/YSN0Ot7+x6A3F7FlmtWVgUVBhoyvGYrcjz8hKkst4CejEvQdc81Nffn+cmEo+HNwG7RzEtqHoi9qb6WCyKcuJ5aoXID3BuASZ79Qi4b/YV8vC91y42cAqXZZ8vp4pOszH2g5x7EPpmp0kLBESrGhHarALpG28rxNsFqsSPHdCT+EZmP+DVXvg==;agByEe/ltxGJpsHX4C+79Q=="
+secured: "SHfrXPF+yIc3kTJBAaKGQdcGSFmBj+XGFY8c5lcv+3ksyV3MeZwxJkAxIlshWr60ogQaCfQukLcFbLKlxNnxLS2cCmMWwiG3w1atTFzCyPbZqzBqQQ/rOR5yvxOmV7rVUsMAetlBkuRgmGKdoCs/Da6hktDl9BC+wt6IZAVBy2MzGmSIn+muX+oVqUIj2KEJG1cEXXUDuNuSk8y84utcGRat0ZXXqPwgkcU7crKddPDxVmOTLSW3/3rXLWQCXF+rKY5K5cAkXQuUL2pei6JAIYUSuiEUfpug27SGRA8lcgvSk42L2VXWsjFWt/bq6EWJbfQQRbpLsV+JRGv722CdPk0dV/W1ey+iftFO8ykfrR+eBJtNOQ4lDu/bGQymMfhE4MsNiZmevYJdwZ1BFkJT2Q==;SEBBO8+xh9VAASicmh0Oyg=="
 ---
 
