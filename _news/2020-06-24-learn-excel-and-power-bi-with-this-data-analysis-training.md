@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-24T23:04:00Z
 webUrl: "https://www.pcmag.com/deals/learn-excel-and-power-bi-with-this-data-analysis-training"
 type: article
 quality: 77
-heat: 78
+heat: 77
 published: true
 
 provider:
