@@ -9,8 +9,6 @@ quality: 137
 heat: 140
 published: true
 
-featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Nn_wjfH4pAU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
-
 provider:
   name: Guy in a Cube
   domain: guyinacube.com

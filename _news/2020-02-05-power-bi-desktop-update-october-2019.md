@@ -3,14 +3,11 @@ category: news
 title: "Power BI Desktop Update - October 2019"
 excerpt: "This month’s update is filled with major updates across the whole product. In the data preparation area, we’ve introduced query diagnostics, which allow you to see what queries are being run behind the scenes. On the reporting side, we are taking a huge step forward in terms of real-time reporting, with"
 publishedDateTime: 2020-02-05T20:18:13Z
-originalUrl: "https://youtube.com/watch?v=A8A9baUQsXQ"
 webUrl: "https://youtube.com/watch?v=A8A9baUQsXQ"
 type: video
 quality: 154
 heat: 154
 published: true
-
-featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/A8A9baUQsXQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
   name: Microsoft

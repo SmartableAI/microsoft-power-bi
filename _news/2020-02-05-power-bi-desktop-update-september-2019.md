@@ -3,14 +3,11 @@ category: news
 title: "Power BI Desktop Update - September 2019"
 excerpt: "You'll notice one of our exciting updates right away when creating new reports with the September update of Power BI Desktop, a new, modern default theme! Not only do we have a new default theme, but we've more than doubled the number of built-in theme options for your report. If you're a theme author,"
 publishedDateTime: 2020-02-05T20:18:13Z
-originalUrl: "https://youtube.com/watch?v=neq0THnRJzo"
 webUrl: "https://youtube.com/watch?v=neq0THnRJzo"
 type: video
 quality: 154
 heat: 154
 published: true
-
-featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/neq0THnRJzo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
   name: Microsoft

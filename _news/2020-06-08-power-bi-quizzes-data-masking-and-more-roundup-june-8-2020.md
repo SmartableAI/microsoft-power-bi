@@ -3,14 +3,11 @@ category: news
 title: "Power BI quizzes, data masking and more... (Roundup | June 8, 2020)"
 excerpt: "Thanks for watching this week's Power BI news roundup!  Last weeks roundup: https://guyinacu.be/roundup181 2 Minute Tuesday: https://guyinacu.be/dataflowstricks Patrick's tech video: https://guyinacu.be/synapse Adam's tech video: https://guyinacu.be/pipelines  🔴 Live replay: https://guyinacu.be/live013"
 publishedDateTime: 2020-06-08T15:00:10Z
-originalUrl: "https://youtube.com/watch?v=876kLN_vBJE"
 webUrl: "https://youtube.com/watch?v=876kLN_vBJE"
 type: video
 quality: 137
 heat: 137
 published: true
-
-featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/876kLN_vBJE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
   name: Guy in a Cube

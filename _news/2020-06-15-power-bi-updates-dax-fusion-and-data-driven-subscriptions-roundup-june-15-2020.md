@@ -3,14 +3,11 @@ category: news
 title: "Power BI updates, DAX Fusion, and data driven subscriptions (Roundup | June 15, 2020)"
 excerpt: "Thanks for watching this week's Power BI news roundup!  Last weeks roundup: https://guyinacu.be/roundup182 2 Minute Tuesday: https://guyinacu.be/askquestions Patrick's tech video: https://guyinacu.be/blankslicer Adam's tech video: https://guyinacu.be/workspaceroadmap  🔴 Live Replay with Marco Russo:"
 publishedDateTime: 2020-06-15T15:00:02Z
-originalUrl: "https://youtube.com/watch?v=-7Wk8FPz7es"
 webUrl: "https://youtube.com/watch?v=-7Wk8FPz7es"
 type: video
 quality: 147
 heat: 147
 published: true
-
-featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-7Wk8FPz7es\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
   name: Guy in a Cube
