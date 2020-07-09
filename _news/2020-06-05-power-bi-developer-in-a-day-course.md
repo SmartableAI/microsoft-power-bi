@@ -3,7 +3,7 @@ category: news
 title: "Power BI Developer in a Day course"
 excerpt: "This video-based course empowers you as an app developer with the technical knowledge required to embed Power BI content."
 publishedDateTime: 2020-06-05T02:36:00Z
-webUrl: "https://docs.microsoft.com/en-us/power-bi/learning-catalog/developer-online-course"
+originalUrl: "https://docs.microsoft.com/en-us/power-bi/learning-catalog/developer-online-course"
 type: article
 quality: 37
 heat: 37

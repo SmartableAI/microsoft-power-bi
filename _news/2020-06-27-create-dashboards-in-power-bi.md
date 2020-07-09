@@ -3,7 +3,7 @@ category: news
 title: "Create dashboards in Power BI"
 excerpt: "Microsoft Power BI dashboards are different than Power BI reports. Dashboards allow report consumers to create a single artifact of directed data that is personalized just for them. Dashboards can be comprised of pinned visuals that are taken from different reports."
 publishedDateTime: 2020-06-27T21:57:00Z
-webUrl: "https://docs.microsoft.com/en-us/learn/modules/create-dashboards-power-bi/"
+originalUrl: "https://docs.microsoft.com/en-us/learn/modules/create-dashboards-power-bi/"
 type: article
 quality: 37
 heat: 37

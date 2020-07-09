@@ -3,7 +3,7 @@ category: news
 title: "Announcing Refresh Summary for Premium Capacity Admins"
 excerpt: "Refresh Summaries Announcement"
 publishedDateTime: 2020-05-19T18:37:40Z
-webUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-refresh-summary-for-premium-capacity-admins/"
+originalUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-refresh-summary-for-premium-capacity-admins/"
 type: article
 quality: 82
 heat: 82

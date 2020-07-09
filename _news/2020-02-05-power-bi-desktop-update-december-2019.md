@@ -3,7 +3,7 @@ category: news
 title: "Power BI Desktop Update - December 2019"
 excerpt: "This December update is packed with several new features! In preview, we have the new Customize theme dialog that allows you to tweak common theme settings without having to write or modify a JSON file! Additionally, we now allow you to export the current theme as a JSON so you can easily share, reuse,"
 publishedDateTime: 2020-02-05T20:18:13Z
-webUrl: "https://youtube.com/watch?v=eCEwgZsVUOs"
+originalUrl: "https://youtube.com/watch?v=eCEwgZsVUOs"
 type: video
 quality: 154
 heat: 154

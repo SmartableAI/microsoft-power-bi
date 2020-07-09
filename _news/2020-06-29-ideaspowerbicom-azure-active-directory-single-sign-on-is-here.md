@@ -3,7 +3,7 @@ category: news
 title: "Ideas.PowerBI.com – Azure Active Directory Single Sign On is Here!"
 excerpt: "It’s here! Navigate to your Ideas, connect with your Power Platform Community and other Power Platform sites using one identity! Find out what you need to do for the new Ideas.PowerBI.Com Single Sign On experience!"
 publishedDateTime: 2020-06-29T18:28:08Z
-webUrl: "https://powerbi.microsoft.com/en-us/blog/ideas-powerbi-com-azure-active-directory-single-sign-on-is-here/"
+originalUrl: "https://powerbi.microsoft.com/en-us/blog/ideas-powerbi-com-azure-active-directory-single-sign-on-is-here/"
 type: article
 quality: 82
 heat: 82

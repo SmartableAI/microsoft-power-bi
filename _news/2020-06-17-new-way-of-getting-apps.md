@@ -3,7 +3,7 @@ category: news
 title: "New way of getting apps"
 excerpt: "We’re thrilled to introduce a new look for getting apps! As of today, getting an app from your organization or from the AppSource marketplace has never been easier!"
 publishedDateTime: 2020-06-17T10:37:33Z
-webUrl: "https://powerbi.microsoft.com/en-us/blog/new-way-of-getting-apps/"
+originalUrl: "https://powerbi.microsoft.com/en-us/blog/new-way-of-getting-apps/"
 type: article
 quality: 82
 heat: 82

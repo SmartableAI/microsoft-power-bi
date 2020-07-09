@@ -3,7 +3,7 @@ category: news
 title: "Power BI Desktop Update - July 2019"
 excerpt: "With this month comes the first feature release from our announcements at Microsoft Business Application Summit, Icon sets, which also addresses our current #1 idea on ideas.powerbi.com. On top of this major update, we have incremental improvements for many of our existing features, such as a counts"
 publishedDateTime: 2020-02-05T20:19:17Z
-webUrl: "https://youtube.com/watch?v=l7OMRUF9UYg"
+originalUrl: "https://youtube.com/watch?v=l7OMRUF9UYg"
 type: video
 quality: 154
 heat: 154

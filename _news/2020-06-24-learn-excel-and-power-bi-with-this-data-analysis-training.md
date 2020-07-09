@@ -3,7 +3,7 @@ category: news
 title: "Learn Excel and Power BI With This Data Analysis Training"
 excerpt: "PCMag readers can get lifetime access to the entire learning bundle for $24.99—down 95 percent from the original MSRP."
 publishedDateTime: 2020-06-24T23:04:00Z
-webUrl: "https://www.pcmag.com/deals/learn-excel-and-power-bi-with-this-data-analysis-training"
+originalUrl: "https://www.pcmag.com/deals/learn-excel-and-power-bi-with-this-data-analysis-training"
 type: article
 quality: 77
 heat: 77

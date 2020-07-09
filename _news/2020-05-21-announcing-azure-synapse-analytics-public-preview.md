@@ -3,7 +3,7 @@ category: news
 title: "Announcing Azure Synapse Analytics public preview"
 excerpt: "Earlier this week, Microsoft announced that Azure Synapse Analytics, the next generation of Azure SQL Data warehouse, is now available for public preview. Azure Synapse provides incredible performance over large data volumes and has built-in capabilities for data ingestion, data preparation, machine"
 publishedDateTime: 2020-05-21T08:35:28Z
-webUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-azure-synapse-analytics-public-preview/"
+originalUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-azure-synapse-analytics-public-preview/"
 type: article
 quality: 82
 heat: 82

@@ -3,7 +3,7 @@ category: news
 title: "Power BI for iOS gets updated with dark mode support"
 excerpt: "The Power BI app for iOS has received a new update. The latest update adds support for dark mode to the app. Earlier, Microsoft noted that it will add dark mode to Power BI mobile apps in June 2020."
 publishedDateTime: 2020-06-10T13:22:00Z
-webUrl: "https://www.neowin.net/news/power-bi-for-ios-gets-updated-with-dark-mode-support"
+originalUrl: "https://www.neowin.net/news/power-bi-for-ios-gets-updated-with-dark-mode-support"
 ampWebUrl: "https://www.neowin.net/amp/power-bi-for-ios-gets-updated-with-dark-mode-support/"
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/power-bi-for-ios-gets-updated-with-dark-mode-support/"
 type: article

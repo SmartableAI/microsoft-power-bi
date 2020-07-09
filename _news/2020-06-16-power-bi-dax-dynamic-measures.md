@@ -3,7 +3,7 @@ category: news
 title: "Power BI DAX Dynamic Measures"
 excerpt: "The easiest way to do this is to go into the Power Query editor and use the “Enter Data” option. Make sure that your options are exactly as you’d like them displayed for your end users and a ..."
 publishedDateTime: 2020-06-16T00:00:00Z
-webUrl: "https://www.sqlservercentral.com/blogs/power-bi-dax-dynamic-measures"
+originalUrl: "https://www.sqlservercentral.com/blogs/power-bi-dax-dynamic-measures"
 type: article
 quality: 54
 heat: 54

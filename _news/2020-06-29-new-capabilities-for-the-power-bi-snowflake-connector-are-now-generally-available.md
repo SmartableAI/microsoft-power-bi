@@ -3,7 +3,7 @@ category: news
 title: "New capabilities for the Power BI Snowflake connector are now generally available"
 excerpt: "Enhanced capabilities to the Snowflake connector for Power BI were added a while back, including support for Azure Active Directory authentication, and more. These are now generally available."
 publishedDateTime: 2020-06-29T20:42:00Z
-webUrl: "https://www.neowin.net/news/new-capabilities-for-the-power-bi-snowflake-connector-are-now-generally-available"
+originalUrl: "https://www.neowin.net/news/new-capabilities-for-the-power-bi-snowflake-connector-are-now-generally-available"
 ampWebUrl: "https://www.neowin.net/amp/new-capabilities-for-the-power-bi-snowflake-connector-are-now-generally-available/"
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/new-capabilities-for-the-power-bi-snowflake-connector-are-now-generally-available/"
 type: article

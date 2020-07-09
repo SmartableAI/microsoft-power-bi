@@ -3,7 +3,7 @@ category: news
 title: "Create data driven story with Power BI reports"
 excerpt: "Power BI helps you create vibrant, highly-useful reports that form a cohesive, data-driven story. You’ll learn how to use buttons, bookmarks, and other navigation techniques. Additionally, you’ll learn how to integrate Power BI reports with other applications."
 publishedDateTime: 2020-06-27T21:59:00Z
-webUrl: "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/"
+originalUrl: "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/"
 type: article
 quality: 37
 heat: 37

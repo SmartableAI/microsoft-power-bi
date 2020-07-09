@@ -3,7 +3,7 @@ category: news
 title: "Think Microsoft Excel & Power BI Are Old-School Data Management? Think Again."
 excerpt: "A nearly $1,600 package of training, the entire Excel and Power BI course collection is on sale at less than $5 per course, just $34.96."
 publishedDateTime: 2020-06-08T15:23:00Z
-webUrl: "https://www.extremetech.com/deals/311430-think-microsoft-excel-power-bi-are-old-school-data-management-think-again"
+originalUrl: "https://www.extremetech.com/deals/311430-think-microsoft-excel-power-bi-are-old-school-data-management-think-again"
 type: article
 quality: 34
 heat: 34

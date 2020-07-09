@@ -3,7 +3,7 @@ category: news
 title: "Set up continuous data export from Azure IoT Central to a Power BI app"
 excerpt: "This module covers continuous data export from IoT Central. You use the scenario from the \"Create your first Azure IoT Central app\" Learn module, where you control a refrigerated truck. This module adds continuous data export to both Blob storage,"
 publishedDateTime: 2020-06-12T21:32:00Z
-webUrl: "https://docs.microsoft.com/en-us/learn/modules/continuously-export-data-from-iot-central-power-bi/"
+originalUrl: "https://docs.microsoft.com/en-us/learn/modules/continuously-export-data-from-iot-central-power-bi/"
 type: article
 quality: 37
 heat: 37

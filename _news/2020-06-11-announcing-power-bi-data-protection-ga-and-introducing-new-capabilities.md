@@ -3,7 +3,7 @@ category: news
 title: "Announcing Power BI data protection GA and introducing new capabilities"
 excerpt: "Last fall we introduced industry-leading Power BI data protection capabilities in public preview. Today we’re happy to announce these capabilities are generally available (GA), along with new and exciting capabilities we’re announcing in this space!\r\nPower BI helps organizations empower everyone to make"
 publishedDateTime: 2020-06-11T09:10:00Z
-webUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-data-protection-ga-and-introducing-new-capabilities/"
+originalUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-data-protection-ga-and-introducing-new-capabilities/"
 type: article
 quality: 97
 heat: 97

@@ -3,7 +3,7 @@ category: news
 title: "Grow Your Data Skills with this Course Bundle on Excel & Power Bi"
 excerpt: "The Data Analysis with Excel + Power BI Bundle helps you understand the key tools and techniques, with three highly rated courses for just $24.99. In practically any modern business, major ..."
 publishedDateTime: 2020-07-03T18:07:00Z
-webUrl: "https://www.windowscentral.com/grow-your-data-skills-course-bundle-excel-power-bi"
+originalUrl: "https://www.windowscentral.com/grow-your-data-skills-course-bundle-excel-power-bi"
 ampWebUrl: "https://www.windowscentral.com/grow-your-data-skills-course-bundle-excel-power-bi?amp"
 cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/grow-your-data-skills-course-bundle-excel-power-bi?amp"
 type: article

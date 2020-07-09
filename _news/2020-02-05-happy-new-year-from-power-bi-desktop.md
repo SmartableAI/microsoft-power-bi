@@ -3,7 +3,7 @@ category: news
 title: "Happy New Year from Power BI Desktop!"
 excerpt: "Happy New Year!   In honor of the new year, our team put together this fun video where we reveal what makes Power BI what it is today! Enjoy! ----------------------------------------------------------------------------------------------------------------------------------------------------- Follow us"
 publishedDateTime: 2020-02-05T20:18:13Z
-webUrl: "https://youtube.com/watch?v=-7rqXowuf1k"
+originalUrl: "https://youtube.com/watch?v=-7rqXowuf1k"
 type: video
 quality: 154
 heat: 154

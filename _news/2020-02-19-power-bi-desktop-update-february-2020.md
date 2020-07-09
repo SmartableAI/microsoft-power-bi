@@ -3,7 +3,7 @@ category: news
 title: "Power BI Desktop Update - February 2020"
 excerpt: "We are super excited for our update this month! We are releasing two of our top community requests: incremental refresh for Power BI Pro and hierarchical slicer. Additionally, we’ve added some improvements to the new ribbon and a couple new DAX functions. Since our last release, there have been several"
 publishedDateTime: 2020-02-19T19:09:37Z
-webUrl: "https://youtube.com/watch?v=TN61JvbUAxk"
+originalUrl: "https://youtube.com/watch?v=TN61JvbUAxk"
 type: video
 quality: 156
 heat: 156

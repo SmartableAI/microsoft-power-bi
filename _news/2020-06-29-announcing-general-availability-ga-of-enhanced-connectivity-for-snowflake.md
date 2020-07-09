@@ -3,7 +3,7 @@ category: news
 title: "Announcing General Availability (GA) of enhanced connectivity for Snowflake"
 excerpt: "We are excited to announce the that the enhanced capabilities added recently to the Power BI Snowflake connector are now GA, including the ability to connect to Snowflake without an on-premises data gateway as well as support for Azure Active Directory (AAD) authentication and SSO in DirectQuery mode"
 publishedDateTime: 2020-06-29T09:20:23Z
-webUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-general-availability-ga-of-enhanced-connectivity-for-snowflake/"
+originalUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-general-availability-ga-of-enhanced-connectivity-for-snowflake/"
 type: article
 quality: 80
 heat: 80

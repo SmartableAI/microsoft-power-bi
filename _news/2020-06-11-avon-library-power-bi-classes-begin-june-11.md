@@ -3,7 +3,7 @@ category: news
 title: "Avon Library Power BI Classes Begin June 11"
 excerpt: "Series co-sponsored by Second Innings and the Avon Free Public Library. Courses are free to attend. Class size is limited to 90 people."
 publishedDateTime: 2020-06-11T03:50:00Z
-webUrl: "https://patch.com/connecticut/avon/avon-library-power-bi-classes-begin-june-11"
+originalUrl: "https://patch.com/connecticut/avon/avon-library-power-bi-classes-begin-june-11"
 type: article
 quality: 17
 heat: 17

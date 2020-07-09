@@ -3,7 +3,7 @@ category: news
 title: "Want to Up Your Resume? Master Microsoft Excel and Power BI with this Training"
 excerpt: "If you buy something through this post, IGN may get a share of the sale. For more, learn more."
 publishedDateTime: 2020-06-11T13:11:00Z
-webUrl: "https://www.ign.com/articles/want-to-up-your-resume-master-microsoft-excel-and-power-bi-with-this-training"
+originalUrl: "https://www.ign.com/articles/want-to-up-your-resume-master-microsoft-excel-and-power-bi-with-this-training"
 type: article
 quality: 13
 heat: 13

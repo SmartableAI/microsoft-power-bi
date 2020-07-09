@@ -3,7 +3,7 @@ category: news
 title: "Power BI Desktop Update - November 2019"
 excerpt: "The November update has major updates in several areas of Power BI Desktop. There's a new, modern ribbon that aligns Power BI Desktop with Office and adds more functionality. We're also adding a new visual, the decomposition tree, which is one of the most requested ideas on ideas.powerbi.com. AI functions"
 publishedDateTime: 2020-02-05T20:18:13Z
-webUrl: "https://youtube.com/watch?v=kVli3Vm_kDo"
+originalUrl: "https://youtube.com/watch?v=kVli3Vm_kDo"
 type: video
 quality: 154
 heat: 154

@@ -3,7 +3,7 @@ category: news
 title: "The Power BI release train has departed... (Roundup | May 4, 2020)"
 excerpt: "Thanks for watching this week's Power BI news roundup!  Last weeks roundup: https://guyinacu.be/roundup177 2 Minute Tuesday: https://guyinacu.be/refreshmultipletables Adam's tech video: https://guyinacu.be/sqldirectquery  🔴 Live replay: https://guyinacu.be/may2020hangout  📢 Become a member: https://guyinacu.be/membership"
 publishedDateTime: 2020-05-04T15:00:26Z
-webUrl: "https://youtube.com/watch?v=pVZ6hJP_gz0"
+originalUrl: "https://youtube.com/watch?v=pVZ6hJP_gz0"
 type: video
 quality: 137
 heat: 137

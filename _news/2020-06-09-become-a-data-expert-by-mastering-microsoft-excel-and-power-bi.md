@@ -3,7 +3,7 @@ category: news
 title: "Become a data expert by mastering Microsoft Excel and Power BI"
 excerpt: "With 28 hours of online training in data plotting, auto calculation, macros, visualization, and more, this go-at-your-own-pace education can give you the skills you need to better your career. The courses are designed by award-winning training organizations,"
 publishedDateTime: 2020-06-09T16:16:00Z
-webUrl: "https://www.dailydot.com/unclick/data-training-certification-bundle/"
+originalUrl: "https://www.dailydot.com/unclick/data-training-certification-bundle/"
 ampWebUrl: "https://www.dailydot.com/unclick/data-training-certification-bundle/?amp"
 cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/unclick/data-training-certification-bundle/?amp"
 type: article

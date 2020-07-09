@@ -3,7 +3,7 @@ category: news
 title: "SurveyMonkey integrates Microsoft Power BI to visualize and analyze survey data"
 excerpt: "Before it's here, it's on the Bloomberg Terminal."
 publishedDateTime: 2020-06-08T23:44:00Z
-webUrl: "https://www.bloomberg.com/press-releases/2019-02-14/surveymonkey-integrates-microsoft-power-bi-to-visualize-and-analyze-survey-data"
+originalUrl: "https://www.bloomberg.com/press-releases/2019-02-14/surveymonkey-integrates-microsoft-power-bi-to-visualize-and-analyze-survey-data"
 type: article
 quality: 53
 heat: 53

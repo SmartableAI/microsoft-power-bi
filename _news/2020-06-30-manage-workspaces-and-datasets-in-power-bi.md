@@ -3,7 +3,7 @@ category: news
 title: "Manage workspaces and datasets in Power BI"
 excerpt: "Once you have created your Power BI data sets and reports, it’s time to deploy them so the users can take advantage of all of your hard work. In this Learning Path, you will learn how to create workspaces in the Power BI service."
 publishedDateTime: 2020-06-30T21:46:00Z
-webUrl: "https://docs.microsoft.com/en-us/learn/paths/manage-workspaces-datasets-power-bi/"
+originalUrl: "https://docs.microsoft.com/en-us/learn/paths/manage-workspaces-datasets-power-bi/"
 type: article
 quality: 17
 heat: 17

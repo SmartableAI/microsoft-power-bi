@@ -3,7 +3,7 @@ category: news
 title: "Licensing and roadmap update for Power BI Report Server"
 excerpt: "Since Power BI Report Server launched in June 2017, it’s been adopted by thousands of customers in a variety of industries, giving them a way to use and share Power BI reports on-premises."
 publishedDateTime: 2020-06-16T09:46:02Z
-webUrl: "https://powerbi.microsoft.com/en-us/blog/licensing-and-roadmap-update-for-power-bi-report-server/"
+originalUrl: "https://powerbi.microsoft.com/en-us/blog/licensing-and-roadmap-update-for-power-bi-report-server/"
 type: article
 quality: 97
 heat: 97

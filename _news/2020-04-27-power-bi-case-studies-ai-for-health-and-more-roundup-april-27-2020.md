@@ -3,7 +3,7 @@ category: news
 title: "Power BI case studies, AI for Health and more... (Roundup | April 27, 2020)"
 excerpt: "Thanks for watching this week's Power BI news roundup!  Last weeks roundup: https://guyinacu.be/roundup176 2 Minute Tuesday: https://guyinacu.be/priad Patrick's tech video: https://guyinacu.be/modelviewtips Adam's tech video: https://guyinacu.be/9thingstoknow  🔴 Live replay: https://guyinacu.be/April2020Recap"
 publishedDateTime: 2020-04-27T15:00:18Z
-webUrl: "https://youtube.com/watch?v=dsi_6Ga5cAo"
+originalUrl: "https://youtube.com/watch?v=dsi_6Ga5cAo"
 type: video
 quality: 135
 heat: 135

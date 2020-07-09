@@ -3,7 +3,7 @@ category: news
 title: "Power Up: Exploring the Power BI Ecosystem, May 27-28"
 excerpt: "Next week I’m speaking at at the Dynamic Communities Power Up event titled “Exploring the Power BI Ecosystem“. It takes place on May 27 & 28, 2020. This exciting 2-Day virtual event is ..."
 publishedDateTime: 2020-05-21T21:37:00Z
-webUrl: "https://www.sqlservercentral.com/blogs/power-up-exploring-the-power-bi-ecosystem-may-27-28"
+originalUrl: "https://www.sqlservercentral.com/blogs/power-up-exploring-the-power-bi-ecosystem-may-27-28"
 type: article
 quality: 37
 heat: 37

@@ -3,7 +3,7 @@ category: news
 title: "Sequel Support automates Power BI to help SMEs leverage insights"
 excerpt: "Sequel Support is offering small and medium-sized enterprises a way to make the most of their data by leveraging Microsoft Power BI to deliver commercial insight capable of driving business ..."
 publishedDateTime: 2020-06-10T07:04:00Z
-webUrl: "https://www.itweb.co.za/content/Pero3MZxGXyvQb6m"
+originalUrl: "https://www.itweb.co.za/content/Pero3MZxGXyvQb6m"
 ampWebUrl: "https://amp.itweb.co.za/content/Pero3MZxGXyvQb6m"
 cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/Pero3MZxGXyvQb6m"
 type: article

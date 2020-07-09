@@ -3,7 +3,7 @@ category: news
 title: "Announcing General Availability (GA) of shared and certified datasets in Power BI"
 excerpt: "We are excited to announced general availability (GA) of shared and certified datasets in Power BI."
 publishedDateTime: 2020-05-21T10:12:33Z
-webUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-general-availability-ga-of-shared-and-certified-datasets-in-power-bi/"
+originalUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-general-availability-ga-of-shared-and-certified-datasets-in-power-bi/"
 type: article
 quality: 92
 heat: 92

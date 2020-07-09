@@ -3,7 +3,7 @@ category: news
 title: "Microsoft Power BI for iOS gets support for dark mode"
 excerpt: "Microsoft Power BI for iOS has received a new update. Taking the app to Version 20.7, the update brings support for dark mode. You’ll be able to change themes from light to dark or vice versa by going to the app appearance settings."
 publishedDateTime: 2020-06-10T11:55:00Z
-webUrl: "https://mspoweruser.com/microsoft-power-bi-ios-dark-mode/"
+originalUrl: "https://mspoweruser.com/microsoft-power-bi-ios-dark-mode/"
 ampWebUrl: "https://mspoweruser.com/microsoft-power-bi-ios-dark-mode/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-power-bi-ios-dark-mode/amp/"
 type: article

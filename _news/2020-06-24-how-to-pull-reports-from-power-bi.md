@@ -3,7 +3,7 @@ category: news
 title: "How to pull reports from Power BI"
 excerpt: "Master Sgt. Jerad Fritze, 960th Cyberspace Wing first shirt, explains how to pull reports from Power BI June 19, 2020, at Joint Base San Antonio-Chapman Training Annex, Texas. (U.S. Air Force video by Master Sgt."
 publishedDateTime: 2020-06-24T01:48:00Z
-webUrl: "https://www.dvidshub.net/video/757136/pull-reports-power-bi"
+originalUrl: "https://www.dvidshub.net/video/757136/pull-reports-power-bi"
 type: article
 quality: 37
 heat: 37

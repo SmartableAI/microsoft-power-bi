@@ -3,7 +3,7 @@ category: news
 title: "Microsoft Cloud in Switzerland: Additional Azure Services and Power BI available from Swiss data centers"
 excerpt: "The offered Azure services have significantly expanded. In addition, with Power BI, the cloud-based service for real-time data analysis and visualization, the first module of the Power Platform is now also available locally. „The demand for services from ..."
 publishedDateTime: 2020-06-10T17:36:00Z
-webUrl: "https://news.microsoft.com/de-ch/2020/06/10/additional-azure-services-and-power-bi-available-from-swiss-data-centers/"
+originalUrl: "https://news.microsoft.com/de-ch/2020/06/10/additional-azure-services-and-power-bi-available-from-swiss-data-centers/"
 type: article
 quality: 20
 heat: 20

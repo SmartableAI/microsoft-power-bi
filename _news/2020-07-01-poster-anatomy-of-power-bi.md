@@ -3,7 +3,7 @@ category: news
 title: "Poster: Anatomy of Power BI"
 excerpt: "Power BI is a simple and easy to use tool for reporting. With this explanation of the anatomy of Power BI we make understanding Power BI even easier. This is a great resource for new Power BI users so download it now for your own use. If using this ..."
 publishedDateTime: 2020-07-01T06:19:00Z
-webUrl: "https://news.microsoft.com/microsoft365forjournalists/learning-tools/poster-anatomy-of-power-bi/"
+originalUrl: "https://news.microsoft.com/microsoft365forjournalists/learning-tools/poster-anatomy-of-power-bi/"
 type: article
 quality: 37
 heat: 37

@@ -3,7 +3,7 @@ category: news
 title: "Page view for Paginated Reports now available in Power BI"
 excerpt: "We are pleased to announce the new page view option for Paginated Reports is now available in the Power BI service."
 publishedDateTime: 2020-05-26T11:49:57Z
-webUrl: "https://powerbi.microsoft.com/en-us/blog/page-view-for-paginated-reports-now-available-in-power-bi/"
+originalUrl: "https://powerbi.microsoft.com/en-us/blog/page-view-for-paginated-reports-now-available-in-power-bi/"
 type: article
 quality: 99
 heat: 99

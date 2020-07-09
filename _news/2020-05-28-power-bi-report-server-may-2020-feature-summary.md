@@ -3,7 +3,7 @@ category: news
 title: "Power BI Report Server May 2020 Feature Summary"
 excerpt: "We are excited to bring you a new version of Power BI Report Server this month! With this update, we’re releasing a bevy of features across all aspects of Power BI: hierarchical slicer and decomposition tree visuals, query diagnostics, and more. Read on to get the full details of all the new additions!"
 publishedDateTime: 2020-05-28T06:00:00Z
-webUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-report-server-may-2020-feature-summary/"
+originalUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-report-server-may-2020-feature-summary/"
 type: article
 quality: 97
 heat: 97

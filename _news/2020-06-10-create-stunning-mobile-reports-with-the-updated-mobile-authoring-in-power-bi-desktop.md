@@ -3,7 +3,7 @@ category: news
 title: "Create stunning mobile reports with the updated mobile authoring in Power BI Desktop"
 excerpt: "We are exciting to introduce an improved mobile layout authoring experience. With the new capabilities introduced in this release, you can build compelling, interactive reports optimized for mobile devices."
 publishedDateTime: 2020-06-10T13:08:40Z
-webUrl: "https://powerbi.microsoft.com/en-us/blog/create-stunning-mobile-reports-with-the-updated-mobile-authoring-in-power-bi-desktop/"
+originalUrl: "https://powerbi.microsoft.com/en-us/blog/create-stunning-mobile-reports-with-the-updated-mobile-authoring-in-power-bi-desktop/"
 type: article
 quality: 90
 heat: 90

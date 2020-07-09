@@ -3,7 +3,7 @@ category: news
 title: "Visualize data in Power BI"
 excerpt: "Power BI has extraordinary visuals that can be used on Power BI reports and dashboards. In this module, you will learn when to use which visual to solve which problem. You will also learn report design and report formatting."
 publishedDateTime: 2020-06-30T21:46:00Z
-webUrl: "https://docs.microsoft.com/en-us/learn/paths/visualize-data-power-bi/"
+originalUrl: "https://docs.microsoft.com/en-us/learn/paths/visualize-data-power-bi/"
 type: article
 quality: 17
 heat: 17

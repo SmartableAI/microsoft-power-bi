@@ -3,7 +3,7 @@ category: news
 title: "Learn Today's Top Data Analysis Tools, Microsoft Excel, and Power BI with This $35 Bundle"
 excerpt: "The 2020 Master Microsoft Excel & Power BI Certification Bundle will teach you what you need to know. This nine-course bundle will get you up to speed on some of today's top data analysis tools ..."
 publishedDateTime: 2020-06-08T16:55:00Z
-webUrl: "https://www.entrepreneur.com/article/351506"
+originalUrl: "https://www.entrepreneur.com/article/351506"
 ampWebUrl: "https://www.entrepreneur.com/amphtml/351506"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/351506"
 type: article

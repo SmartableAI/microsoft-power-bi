@@ -3,7 +3,7 @@ category: news
 title: "Low Power Bi-directional Level Shifter"
 excerpt: "In this paper we propose high density low power architecture for level shifter cells that consumes ~ 5X lower powers with minimal compromise with performance. The proposed topology is based on the way of realization of a bi-directional level shifter using ..."
 publishedDateTime: 2020-06-01T00:00:00Z
-webUrl: "https://www.design-reuse.com/articles/35171/low-power-bi-directional-level-shifter.html"
+originalUrl: "https://www.design-reuse.com/articles/35171/low-power-bi-directional-level-shifter.html"
 type: article
 quality: 17
 heat: 17

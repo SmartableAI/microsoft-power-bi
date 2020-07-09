@@ -3,7 +3,7 @@ category: news
 title: "Power BI Desktop Update - August 2019"
 excerpt: "Our August release has another hotly anticipated feature from the Microsoft Business Application Summit, grouping. Grouping in reports, similar to PowerPoint's grouping, lets you easily organize groups of visuals to move and resize them as a set. This month's release also has some updates to our newest"
 publishedDateTime: 2020-02-05T20:18:13Z
-webUrl: "https://youtube.com/watch?v=sf4n7VXoQHY"
+originalUrl: "https://youtube.com/watch?v=sf4n7VXoQHY"
 type: video
 quality: 154
 heat: 154

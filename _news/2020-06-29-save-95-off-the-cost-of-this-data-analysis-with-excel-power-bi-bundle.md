@@ -3,7 +3,7 @@ category: news
 title: "Save 95% off the cost of this Data Analysis with Excel + Power BI Bundle"
 excerpt: "Length of time users can access this course: lifetime Certification of completion included Updates included Redemption deadline: redeem your code within 30 days of purchase See all Online Courses ..."
 publishedDateTime: 2020-06-29T16:46:00Z
-webUrl: "https://www.neowin.net/amp/save-95-off-the-cost-of-this-data-analysis-with-excel--power-bi-bundle"
+originalUrl: "https://www.neowin.net/amp/save-95-off-the-cost-of-this-data-analysis-with-excel--power-bi-bundle"
 ampWebUrl: "https://www.neowin.net/amp/save-95-off-the-cost-of-this-data-analysis-with-excel--power-bi-bundle"
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/save-95-off-the-cost-of-this-data-analysis-with-excel--power-bi-bundle"
 type: article

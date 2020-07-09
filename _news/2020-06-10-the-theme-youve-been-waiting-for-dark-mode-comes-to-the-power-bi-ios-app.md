@@ -3,7 +3,7 @@ category: news
 title: "The theme you᾿ve been waiting for – Dark mode comes to the Power BI iOS app"
 excerpt: "In this week’s release we’ve added dark mode support to the Power BI iOS app. Power BI Mobile users know that we’re always working to improve our apps and looking for ways to provide our users the best, most delightful, and enjoyable experience possible. And enabling dark mode is one of those things"
 publishedDateTime: 2020-06-10T23:53:10Z
-webUrl: "https://powerbi.microsoft.com/en-us/blog/the-theme-youve-been-waiting-for-dark-mode-comes-to-the-power-bi-ios-app/"
+originalUrl: "https://powerbi.microsoft.com/en-us/blog/the-theme-youve-been-waiting-for-dark-mode-comes-to-the-power-bi-ios-app/"
 type: article
 quality: 95
 heat: 95

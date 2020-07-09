@@ -3,7 +3,7 @@ category: news
 title: "This $35 Microsoft Excel and Power BI training will make you a data wizard"
 excerpt: "This 28-hour training will help you with everything, from how to get up and running with the programs to manipulating data with advanced visualization tools."
 publishedDateTime: 2020-06-06T14:02:00Z
-webUrl: "https://nypost.com/2020/06/06/35-microsoft-excel-power-bi-training-will-make-you-a-data-wizard/"
+originalUrl: "https://nypost.com/2020/06/06/35-microsoft-excel-power-bi-training-will-make-you-a-data-wizard/"
 ampWebUrl: "https://nypost.com/2020/06/06/35-microsoft-excel-power-bi-training-will-make-you-a-data-wizard/amp/"
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/06/06/35-microsoft-excel-power-bi-training-will-make-you-a-data-wizard/amp/"
 type: article

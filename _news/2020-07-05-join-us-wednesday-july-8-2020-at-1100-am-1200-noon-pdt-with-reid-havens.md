@@ -3,7 +3,7 @@ category: news
 title: "Join us! Wednesday July 8, 2020 at 11:00 AM – 12:00 noon PDT with Reid Havens!"
 excerpt: "In this Power BI webinar Reid Havens covers two of the cornerstones of Power Query, tuning and designing for optimal refresh speeds, and intelligently handling errors."
 publishedDateTime: 2020-07-05T14:38:49Z
-webUrl: "https://powerbi.microsoft.com/en-us/blog/join-us-wednesday-july-8-2020-at-1100-am-1200-noon-pdt-with-reid-havens-performance-optimization-and-intelligent-error-handling-in-power-query/"
+originalUrl: "https://powerbi.microsoft.com/en-us/blog/join-us-wednesday-july-8-2020-at-1100-am-1200-noon-pdt-with-reid-havens-performance-optimization-and-intelligent-error-handling-in-power-query/"
 type: article
 quality: 78
 heat: 78

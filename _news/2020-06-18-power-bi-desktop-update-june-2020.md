@@ -3,7 +3,7 @@ category: news
 title: "Power BI Desktop Update - June 2020"
 excerpt: "We have great updates this release! We're super excited to announce this month that several features are now generally available: automatic page refresh, the hierarchy slicer, the modern ribbon, and AI insights are now generally available. On top of this, we have several new features and updates that"
 publishedDateTime: 2020-06-18T17:24:47Z
-webUrl: "https://youtube.com/watch?v=WUo8TnHNHYM"
+originalUrl: "https://youtube.com/watch?v=WUo8TnHNHYM"
 type: video
 quality: 154
 heat: 154

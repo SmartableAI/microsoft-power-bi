@@ -3,7 +3,7 @@ category: news
 title: "Join us! Thursday July 9, 2020 at 11:00 AM – 12:00 noon PDT with Reza Rad!"
 excerpt: "Building a data model in Power BI is the most important task you should do properly in your Power BI solution. This session is about the most common design pattern models of Power BI; Building the Star Schema with fact table and dimension tables, understand the relationships, building common models such"
 publishedDateTime: 2020-07-06T11:46:00Z
-webUrl: "https://powerbi.microsoft.com/en-us/blog/join-us-thursday-july-9-2020-at-1100-am-1200-noon-pdt-with-reza-rad/"
+originalUrl: "https://powerbi.microsoft.com/en-us/blog/join-us-thursday-july-9-2020-at-1100-am-1200-noon-pdt-with-reza-rad/"
 type: article
 quality: 80
 heat: 80

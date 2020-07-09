@@ -3,7 +3,7 @@ category: news
 title: "Stairway to DAX and Power BI - Level 12: Function / Iterator Function Pairs: The DAX CountA() and CountAX() Functions"
 excerpt: "Download Samples for Use in this Level To prepare to complete the steps of the hands-on practice in this Level, you’ll need to download the sample Power BI file we’ll be using. The project ..."
 publishedDateTime: 2020-06-17T00:00:00Z
-webUrl: "https://www.sqlservercentral.com/steps/stairway-to-dax-and-power-bi-level-12-function-iterator-function-pairs-the-dax-counta-and-countax-functions"
+originalUrl: "https://www.sqlservercentral.com/steps/stairway-to-dax-and-power-bi-level-12-function-iterator-function-pairs-the-dax-counta-and-countax-functions"
 type: article
 quality: 31
 heat: 31

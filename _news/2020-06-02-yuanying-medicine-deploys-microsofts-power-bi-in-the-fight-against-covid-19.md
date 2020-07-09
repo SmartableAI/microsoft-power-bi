@@ -3,7 +3,7 @@ category: news
 title: "Yuanying Medicine deploys Microsoft’s Power BI in the fight against COVID-19"
 excerpt: "Health systems across China have been straining under the weight of the coronavirus pandemic. That is not only due to the surge in patients and shortages of medical supplies, but also because of limited IT capabilities — especially when it comes to data analysis."
 publishedDateTime: 2020-06-02T08:20:00Z
-webUrl: "https://news.microsoft.com/apac/2020/06/02/yuanying-medicine-deploys-microsofts-power-bi-in-the-fight-against-covid-19/"
+originalUrl: "https://news.microsoft.com/apac/2020/06/02/yuanying-medicine-deploys-microsofts-power-bi-in-the-fight-against-covid-19/"
 type: article
 quality: 34
 heat: 34

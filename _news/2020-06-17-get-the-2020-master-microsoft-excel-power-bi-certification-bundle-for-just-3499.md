@@ -3,7 +3,7 @@ category: news
 title: "Get the 2020 Master Microsoft Excel & Power BI Certification Bundle for just $34.99"
 excerpt: "Become the data-driven hero companies need with 28 hours of training in data plotting, auto calculation, macros, visualization and more with today's highlighted deal. Get it via Neowin Deals!"
 publishedDateTime: 2020-06-17T16:46:00Z
-webUrl: "https://www.neowin.net/news/get-the-2020-master-microsoft-excel--power-bi-certification-bundle-for-just-3499"
+originalUrl: "https://www.neowin.net/news/get-the-2020-master-microsoft-excel--power-bi-certification-bundle-for-just-3499"
 ampWebUrl: "https://www.neowin.net/amp/get-the-2020-master-microsoft-excel--power-bi-certification-bundle-for-just-3499/"
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/get-the-2020-master-microsoft-excel--power-bi-certification-bundle-for-just-3499/"
 type: article

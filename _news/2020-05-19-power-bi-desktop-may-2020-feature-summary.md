@@ -3,7 +3,7 @@ category: news
 title: "Power BI Desktop May 2020 Feature Summary"
 excerpt: "We have lots of great updates this release! We&#8217;re super excited to announce this month that both the decomposition tree and drill through button actions are now generally available. On top of this, we have several new features and updates that will really enrich your reporting: curate featured"
 publishedDateTime: 2020-05-19T08:03:56Z
-webUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-may-2020-feature-summary/"
+originalUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-may-2020-feature-summary/"
 type: article
 quality: 97
 heat: 97

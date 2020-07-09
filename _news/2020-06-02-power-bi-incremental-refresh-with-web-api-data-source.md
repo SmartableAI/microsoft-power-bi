@@ -3,7 +3,7 @@ category: news
 title: "Power BI Incremental Refresh with Web API Data Source"
 excerpt: "My customers, in school districts and higher education institutions, are proving to be nimble and adaptive by adopting Azure cloud technologies such as Power BI and the Azure data platform in a ..."
 publishedDateTime: 2020-06-02T00:00:00Z
-webUrl: "https://www.sqlservercentral.com/blogs/power-bi-incremental-refresh-with-web-api-data-source"
+originalUrl: "https://www.sqlservercentral.com/blogs/power-bi-incremental-refresh-with-web-api-data-source"
 type: article
 quality: 37
 heat: 37

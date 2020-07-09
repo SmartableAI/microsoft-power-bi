@@ -3,7 +3,7 @@ category: news
 title: "Grow Your Data Skills with this Course Bundle on Excel & Power Bi"
 excerpt: "From marketing to machine learning, data skills are now highly valued in a wide variety of career paths. The Data Analysis with Excel + Power BI Bundle helps you understand the key tools and techniques,"
 publishedDateTime: 2020-07-04T00:00:00Z
-webUrl: "https://crackberry.com/grow-your-data-skills-course-bundle-excel-power-bi"
+originalUrl: "https://crackberry.com/grow-your-data-skills-course-bundle-excel-power-bi"
 ampWebUrl: "https://crackberry.com/grow-your-data-skills-course-bundle-excel-power-bi?amp"
 cdnAmpWebUrl: "https://crackberry-com.cdn.ampproject.org/c/s/crackberry.com/grow-your-data-skills-course-bundle-excel-power-bi?amp"
 type: article
