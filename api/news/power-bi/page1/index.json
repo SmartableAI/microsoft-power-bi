@@ -5,7 +5,9 @@
       "path": "_news/2020-07-06-power-bi-community-posts-roundup-july-6-2020.md",
       "title": "Power BI community posts... (Roundup | July 6, 2020)",
       "excerpt": "Thanks for watching this week's Power BI news roundup!  2 Minute Tuesday: https://guyinacu.be/userprincipalname Tech video: https://guyinacu.be/whatisrls  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level? We have training courses",
-      "webUrl": "https://youtube.com/watch?v=Nn_wjfH4pAU",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-07-06-power-bi-community-posts-roundup-july-6-2020/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/news/2020-07-06-power-bi-community-posts-roundup-july-6-2020/",
+      "originalUrl": "https://youtube.com/watch?v=Nn_wjfH4pAU",
       "heat": 140,
       "tags": null,
       "images": [
@@ -51,7 +53,9 @@
       "path": "_news/2020-07-06-join-us-thursday-july-9-2020-at-1100-am-1200-noon-pdt-with-reza-rad.md",
       "title": "Join us! Thursday July 9, 2020 at 11:00 AM – 12:00 noon PDT with Reza Rad!",
       "excerpt": "Building a data model in Power BI is the most important task you should do properly in your Power BI solution. This session is about the most common design pattern models of Power BI; Building the Star Schema with fact table and dimension tables, understand the relationships, building common models such",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-07-06-join-us-thursday-july-9-2020-at-1100-am-1200-noon-pdt-with-reza-rad/index.json",
       "webUrl": "https://powerbi.microsoft.com/en-us/blog/join-us-thursday-july-9-2020-at-1100-am-1200-noon-pdt-with-reza-rad/",
+      "originalUrl": null,
       "heat": 80,
       "tags": null,
       "images": [
@@ -97,7 +101,9 @@
       "path": "_news/2020-07-05-join-us-wednesday-july-8-2020-at-1100-am-1200-noon-pdt-with-reid-havens.md",
       "title": "Join us! Wednesday July 8, 2020 at 11:00 AM – 12:00 noon PDT with Reid Havens!",
       "excerpt": "In this Power BI webinar Reid Havens covers two of the cornerstones of Power Query, tuning and designing for optimal refresh speeds, and intelligently handling errors.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-07-05-join-us-wednesday-july-8-2020-at-1100-am-1200-noon-pdt-with-reid-havens/index.json",
       "webUrl": "https://powerbi.microsoft.com/en-us/blog/join-us-wednesday-july-8-2020-at-1100-am-1200-noon-pdt-with-reid-havens-performance-optimization-and-intelligent-error-handling-in-power-query/",
+      "originalUrl": null,
       "heat": 78,
       "tags": null,
       "images": [
@@ -143,7 +149,9 @@
       "path": "_news/2020-06-29-new-capabilities-for-the-power-bi-snowflake-connector-are-now-generally-available.md",
       "title": "New capabilities for the Power BI Snowflake connector are now generally available",
       "excerpt": "Enhanced capabilities to the Snowflake connector for Power BI were added a while back, including support for Azure Active Directory authentication, and more. These are now generally available.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-06-29-new-capabilities-for-the-power-bi-snowflake-connector-are-now-generally-available/index.json",
       "webUrl": "https://www.neowin.net/news/new-capabilities-for-the-power-bi-snowflake-connector-are-now-generally-available",
+      "originalUrl": null,
       "heat": 92,
       "tags": null,
       "images": [
@@ -189,7 +197,9 @@
       "path": "_news/2020-06-29-ideaspowerbicom-azure-active-directory-single-sign-on-is-here.md",
       "title": "Ideas.PowerBI.com – Azure Active Directory Single Sign On is Here!",
       "excerpt": "It’s here! Navigate to your Ideas, connect with your Power Platform Community and other Power Platform sites using one identity! Find out what you need to do for the new Ideas.PowerBI.Com Single Sign On experience!",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-06-29-ideaspowerbicom-azure-active-directory-single-sign-on-is-here/index.json",
       "webUrl": "https://powerbi.microsoft.com/en-us/blog/ideas-powerbi-com-azure-active-directory-single-sign-on-is-here/",
+      "originalUrl": null,
       "heat": 82,
       "tags": null,
       "images": [
@@ -235,7 +245,9 @@
       "path": "_news/2020-06-29-save-95-off-the-cost-of-this-data-analysis-with-excel-power-bi-bundle.md",
       "title": "Save 95% off the cost of this Data Analysis with Excel + Power BI Bundle",
       "excerpt": "Length of time users can access this course: lifetime Certification of completion included Updates included Redemption deadline: redeem your code within 30 days of purchase See all Online Courses ...",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-06-29-save-95-off-the-cost-of-this-data-analysis-with-excel-power-bi-bundle/index.json",
       "webUrl": "https://www.neowin.net/amp/save-95-off-the-cost-of-this-data-analysis-with-excel--power-bi-bundle",
+      "originalUrl": null,
       "heat": 96,
       "tags": null,
       "images": [
@@ -281,7 +293,9 @@
       "path": "_news/2020-06-29-announcing-general-availability-ga-of-enhanced-connectivity-for-snowflake.md",
       "title": "Announcing General Availability (GA) of enhanced connectivity for Snowflake",
       "excerpt": "We are excited to announce the that the enhanced capabilities added recently to the Power BI Snowflake connector are now GA, including the ability to connect to Snowflake without an on-premises data gateway as well as support for Azure Active Directory (AAD) authentication and SSO in DirectQuery mode",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-06-29-announcing-general-availability-ga-of-enhanced-connectivity-for-snowflake/index.json",
       "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-general-availability-ga-of-enhanced-connectivity-for-snowflake/",
+      "originalUrl": null,
       "heat": 80,
       "tags": null,
       "images": [
@@ -327,7 +341,9 @@
       "path": "_news/2020-06-24-learn-excel-and-power-bi-with-this-data-analysis-training.md",
       "title": "Learn Excel and Power BI With This Data Analysis Training",
       "excerpt": "PCMag readers can get lifetime access to the entire learning bundle for $24.99—down 95 percent from the original MSRP.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-06-24-learn-excel-and-power-bi-with-this-data-analysis-training/index.json",
       "webUrl": "https://www.pcmag.com/deals/learn-excel-and-power-bi-with-this-data-analysis-training",
+      "originalUrl": null,
       "heat": 77,
       "tags": null,
       "images": [
@@ -373,7 +389,9 @@
       "path": "_news/2020-06-22-what-to-focus-on-with-dax-and-more-roundup-june-22-2020.md",
       "title": "What to FOCUS on with DAX and more... (Roundup | June 22, 2020)",
       "excerpt": "Thanks for watching this week's Power BI news roundup!  Last weeks roundup: https://guyinacu.be/roundup183 2 Minute Tuesday: https://guyinacu.be/datarefresh Adam's tech video: https://guyinacu.be/perfstart  🔴 Live Replay: https://guyinacu.be/live015  📢 Become a member: https://guyinacu.be/membership",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-06-22-what-to-focus-on-with-dax-and-more-roundup-june-22-2020/index.json",
       "webUrl": "https://youtube.com/watch?v=YvSuCayng30",
+      "originalUrl": null,
       "heat": 139,
       "tags": null,
       "images": [
@@ -420,7 +438,9 @@
       "path": "_news/2020-06-18-power-bi-desktop-update-june-2020.md",
       "title": "Power BI Desktop Update - June 2020",
       "excerpt": "We have great updates this release! We're super excited to announce this month that several features are now generally available: automatic page refresh, the hierarchy slicer, the modern ribbon, and AI insights are now generally available. On top of this, we have several new features and updates that",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-06-18-power-bi-desktop-update-june-2020/index.json",
       "webUrl": "https://youtube.com/watch?v=WUo8TnHNHYM",
+      "originalUrl": null,
       "heat": 154,
       "tags": null,
       "images": [
@@ -467,7 +487,9 @@
       "path": "_news/2020-06-17-get-the-2020-master-microsoft-excel-power-bi-certification-bundle-for-just-3499.md",
       "title": "Get the 2020 Master Microsoft Excel & Power BI Certification Bundle for just $34.99",
       "excerpt": "Become the data-driven hero companies need with 28 hours of training in data plotting, auto calculation, macros, visualization and more with today's highlighted deal. Get it via Neowin Deals!",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-06-17-get-the-2020-master-microsoft-excel-power-bi-certification-bundle-for-just-3499/index.json",
       "webUrl": "https://www.neowin.net/news/get-the-2020-master-microsoft-excel--power-bi-certification-bundle-for-just-3499",
+      "originalUrl": null,
       "heat": 91,
       "tags": null,
       "images": [
@@ -513,7 +535,9 @@
       "path": "_news/2020-06-17-new-way-of-getting-apps.md",
       "title": "New way of getting apps",
       "excerpt": "We’re thrilled to introduce a new look for getting apps! As of today, getting an app from your organization or from the AppSource marketplace has never been easier!",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-06-17-new-way-of-getting-apps/index.json",
       "webUrl": "https://powerbi.microsoft.com/en-us/blog/new-way-of-getting-apps/",
+      "originalUrl": null,
       "heat": 82,
       "tags": null,
       "images": [
@@ -559,7 +583,9 @@
       "path": "_news/2020-06-16-licensing-and-roadmap-update-for-power-bi-report-server.md",
       "title": "Licensing and roadmap update for Power BI Report Server",
       "excerpt": "Since Power BI Report Server launched in June 2017, it’s been adopted by thousands of customers in a variety of industries, giving them a way to use and share Power BI reports on-premises.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-06-16-licensing-and-roadmap-update-for-power-bi-report-server/index.json",
       "webUrl": "https://powerbi.microsoft.com/en-us/blog/licensing-and-roadmap-update-for-power-bi-report-server/",
+      "originalUrl": null,
       "heat": 97,
       "tags": null,
       "images": [
@@ -605,7 +631,9 @@
       "path": "_news/2020-06-15-power-bi-updates-dax-fusion-and-data-driven-subscriptions-roundup-june-15-2020.md",
       "title": "Power BI updates, DAX Fusion, and data driven subscriptions (Roundup | June 15, 2020)",
       "excerpt": "Thanks for watching this week's Power BI news roundup!  Last weeks roundup: https://guyinacu.be/roundup182 2 Minute Tuesday: https://guyinacu.be/askquestions Patrick's tech video: https://guyinacu.be/blankslicer Adam's tech video: https://guyinacu.be/workspaceroadmap  🔴 Live Replay with Marco Russo:",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-06-15-power-bi-updates-dax-fusion-and-data-driven-subscriptions-roundup-june-15-2020/index.json",
       "webUrl": "https://youtube.com/watch?v=-7Wk8FPz7es",
+      "originalUrl": null,
       "heat": 147,
       "tags": null,
       "images": [
@@ -652,7 +680,9 @@
       "path": "_news/2020-06-11-on-premises-data-gateway-june-2020-update-is-now-available.md",
       "title": "On-premises data gateway June 2020 update is now available",
       "excerpt": "June release of gateway",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-06-11-on-premises-data-gateway-june-2020-update-is-now-available/index.json",
       "webUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-june-2020-update-is-now-available/",
+      "originalUrl": null,
       "heat": 82,
       "tags": null,
       "images": [
@@ -698,7 +728,9 @@
       "path": "_news/2020-06-11-announcing-power-bi-data-protection-ga-and-introducing-new-capabilities.md",
       "title": "Announcing Power BI data protection GA and introducing new capabilities",
       "excerpt": "Last fall we introduced industry-leading Power BI data protection capabilities in public preview. Today we’re happy to announce these capabilities are generally available (GA), along with new and exciting capabilities we’re announcing in this space!\r\nPower BI helps organizations empower everyone to make",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-06-11-announcing-power-bi-data-protection-ga-and-introducing-new-capabilities/index.json",
       "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-data-protection-ga-and-introducing-new-capabilities/",
+      "originalUrl": null,
       "heat": 97,
       "tags": null,
       "images": [
@@ -744,7 +776,9 @@
       "path": "_news/2020-06-10-the-theme-youve-been-waiting-for-dark-mode-comes-to-the-power-bi-ios-app.md",
       "title": "The theme you᾿ve been waiting for – Dark mode comes to the Power BI iOS app",
       "excerpt": "In this week’s release we’ve added dark mode support to the Power BI iOS app. Power BI Mobile users know that we’re always working to improve our apps and looking for ways to provide our users the best, most delightful, and enjoyable experience possible. And enabling dark mode is one of those things",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-06-10-the-theme-youve-been-waiting-for-dark-mode-comes-to-the-power-bi-ios-app/index.json",
       "webUrl": "https://powerbi.microsoft.com/en-us/blog/the-theme-youve-been-waiting-for-dark-mode-comes-to-the-power-bi-ios-app/",
+      "originalUrl": null,
       "heat": 95,
       "tags": null,
       "images": [
@@ -790,7 +824,9 @@
       "path": "_news/2020-06-10-power-bi-for-ios-gets-updated-with-dark-mode-support.md",
       "title": "Power BI for iOS gets updated with dark mode support",
       "excerpt": "The Power BI app for iOS has received a new update. The latest update adds support for dark mode to the app. Earlier, Microsoft noted that it will add dark mode to Power BI mobile apps in June 2020.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-06-10-power-bi-for-ios-gets-updated-with-dark-mode-support/index.json",
       "webUrl": "https://www.neowin.net/news/power-bi-for-ios-gets-updated-with-dark-mode-support",
+      "originalUrl": null,
       "heat": 97,
       "tags": null,
       "images": [
@@ -836,7 +872,9 @@
       "path": "_news/2020-06-10-power-bi-desktop-june-2020-feature-summary.md",
       "title": "Power BI Desktop June 2020 Feature Summary",
       "excerpt": "We have great updates this release! We&#8217;re super excited to announce this month that several features are now generally available: automatic page refresh, the hierarchy slicer, the modern ribbon, and AI insights are now generally available. On top of this, we have several new features and updates",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-06-10-power-bi-desktop-june-2020-feature-summary/index.json",
       "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-june-2020-feature-summary/",
+      "originalUrl": null,
       "heat": 97,
       "tags": null,
       "images": [
@@ -882,7 +920,9 @@
       "path": "_news/2020-06-10-create-stunning-mobile-reports-with-the-updated-mobile-authoring-in-power-bi-desktop.md",
       "title": "Create stunning mobile reports with the updated mobile authoring in Power BI Desktop",
       "excerpt": "We are exciting to introduce an improved mobile layout authoring experience. With the new capabilities introduced in this release, you can build compelling, interactive reports optimized for mobile devices.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-06-10-create-stunning-mobile-reports-with-the-updated-mobile-authoring-in-power-bi-desktop/index.json",
       "webUrl": "https://powerbi.microsoft.com/en-us/blog/create-stunning-mobile-reports-with-the-updated-mobile-authoring-in-power-bi-desktop/",
+      "originalUrl": null,
       "heat": 90,
       "tags": null,
       "images": [
@@ -928,7 +968,9 @@
       "path": "_news/2020-06-08-learn-todays-top-data-analysis-tools-microsoft-excel-and-power-bi-with-this-35-bundle.md",
       "title": "Learn Today's Top Data Analysis Tools, Microsoft Excel, and Power BI with This $35 Bundle",
       "excerpt": "The 2020 Master Microsoft Excel & Power BI Certification Bundle will teach you what you need to know. This nine-course bundle will get you up to speed on some of today's top data analysis tools ...",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-06-08-learn-todays-top-data-analysis-tools-microsoft-excel-and-power-bi-with-this-35-bundle/index.json",
       "webUrl": "https://www.entrepreneur.com/article/351506",
+      "originalUrl": null,
       "heat": 88,
       "tags": null,
       "images": [
@@ -974,7 +1016,9 @@
       "path": "_news/2020-06-08-power-bi-quizzes-data-masking-and-more-roundup-june-8-2020.md",
       "title": "Power BI quizzes, data masking and more... (Roundup | June 8, 2020)",
       "excerpt": "Thanks for watching this week's Power BI news roundup!  Last weeks roundup: https://guyinacu.be/roundup181 2 Minute Tuesday: https://guyinacu.be/dataflowstricks Patrick's tech video: https://guyinacu.be/synapse Adam's tech video: https://guyinacu.be/pipelines  🔴 Live replay: https://guyinacu.be/live013",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-06-08-power-bi-quizzes-data-masking-and-more-roundup-june-8-2020/index.json",
       "webUrl": "https://youtube.com/watch?v=876kLN_vBJE",
+      "originalUrl": null,
       "heat": 137,
       "tags": null,
       "images": [
@@ -1020,7 +1064,9 @@
       "path": "_news/2020-06-01-power-bi-workspace-roadmap-directquery-dataflows-and-more-roundup-june-1-2020.md",
       "title": "Power BI Workspace Roadmap, DirectQuery dataflows and more... (Roundup | June 1, 2020)",
       "excerpt": "Thanks for watching this week's Power BI news roundup!  Last roundup: https://guyinacu.be/roundup180 2 Minute Tuesday: https://guyinacu.be/animatedvisuals  🔴 Live Stream Replay: https://guyinacu.be/live012  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-06-01-power-bi-workspace-roadmap-directquery-dataflows-and-more-roundup-june-1-2020/index.json",
       "webUrl": "https://youtube.com/watch?v=f1XqbeOSWyg",
+      "originalUrl": null,
       "heat": 148,
       "tags": null,
       "images": [
@@ -1068,7 +1114,9 @@
       "path": "_news/2020-05-29-roadmap-update-whats-next-for-the-new-workspace-experience-upgrade-in-the-coming-months.md",
       "title": "Roadmap update: What᾿s next for the new workspace experience upgrade in the coming months",
       "excerpt": "Today, we wanted to announce our roadmap for workspace upgrade so you can plan ahead.  We also announce in this post our classic workspace deprecation plans. If you&#8217;re a Power BI admin or workspace admin, this is a must read. ",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-05-29-roadmap-update-whats-next-for-the-new-workspace-experience-upgrade-in-the-coming-months/index.json",
       "webUrl": "https://powerbi.microsoft.com/en-us/blog/roadmap-update-whats-next-for-the-new-workspace-experience-upgrade-in-the-coming-months/",
+      "originalUrl": null,
       "heat": 73,
       "tags": null,
       "images": [
@@ -1114,7 +1162,9 @@
       "path": "_news/2020-05-28-power-bi-dataflows-direct-query-support.md",
       "title": "Power BI Dataflows Direct Query Support",
       "excerpt": "We are excited to announce Direct Query support (Preview) for Power BI dataflows.  You can now connect directly to a dataflow without first requiring to import the data into a dataset. ",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-05-28-power-bi-dataflows-direct-query-support/index.json",
       "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-dataflows-direct-query-support/",
+      "originalUrl": null,
       "heat": 116,
       "tags": null,
       "images": [
@@ -1162,7 +1212,9 @@
       "path": "_news/2020-05-28-power-bi-report-server-may-2020-feature-summary.md",
       "title": "Power BI Report Server May 2020 Feature Summary",
       "excerpt": "We are excited to bring you a new version of Power BI Report Server this month! With this update, we’re releasing a bevy of features across all aspects of Power BI: hierarchical slicer and decomposition tree visuals, query diagnostics, and more. Read on to get the full details of all the new additions!",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-05-28-power-bi-report-server-may-2020-feature-summary/index.json",
       "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-report-server-may-2020-feature-summary/",
+      "originalUrl": null,
       "heat": 97,
       "tags": null,
       "images": [
@@ -1208,7 +1260,9 @@
       "path": "_news/2020-05-26-page-view-for-paginated-reports-now-available-in-power-bi.md",
       "title": "Page view for Paginated Reports now available in Power BI",
       "excerpt": "We are pleased to announce the new page view option for Paginated Reports is now available in the Power BI service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-05-26-page-view-for-paginated-reports-now-available-in-power-bi/index.json",
       "webUrl": "https://powerbi.microsoft.com/en-us/blog/page-view-for-paginated-reports-now-available-in-power-bi/",
+      "originalUrl": null,
       "heat": 99,
       "tags": null,
       "images": [
@@ -1255,7 +1309,9 @@
       "path": "_news/2020-05-22-power-bi-desktop-update-may-2020.md",
       "title": "Power BI Desktop Update - May 2020",
       "excerpt": "We have lots of great updates this release! We’re super excited to announce this month that both the decomposition tree and drill through button actions are now generally available. On top of this, we have several new features and updates that will really enrich your reporting: curate featured tables",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-05-22-power-bi-desktop-update-may-2020/index.json",
       "webUrl": "https://youtube.com/watch?v=JtuHIslowxk",
+      "originalUrl": null,
       "heat": 154,
       "tags": null,
       "images": [
@@ -1302,7 +1358,9 @@
       "path": "_news/2020-05-21-microsoft-business-applications-summit-2020-power-platform-sessions-quick-reference.md",
       "title": "Microsoft Business Applications Summit 2020 – Power Platform sessions quick reference",
       "excerpt": "You asked for the sessions, and we&#8217;ve got them for you! View over 50 great sessions from the Microsoft Business Applications Summit 2020. Here&#8217;s the Power Platform sessions quick reference blog",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-05-21-microsoft-business-applications-summit-2020-power-platform-sessions-quick-reference/index.json",
       "webUrl": "https://powerbi.microsoft.com/en-us/blog/microsoft-business-applications-summit-2020-power-platform-sessions-quick-reference/",
+      "originalUrl": null,
       "heat": 75,
       "tags": null,
       "images": [
@@ -1348,7 +1406,9 @@
       "path": "_news/2020-05-21-announcing-general-availability-ga-of-shared-and-certified-datasets-in-power-bi.md",
       "title": "Announcing General Availability (GA) of shared and certified datasets in Power BI",
       "excerpt": "We are excited to announced general availability (GA) of shared and certified datasets in Power BI.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-05-21-announcing-general-availability-ga-of-shared-and-certified-datasets-in-power-bi/index.json",
       "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-general-availability-ga-of-shared-and-certified-datasets-in-power-bi/",
+      "originalUrl": null,
       "heat": 92,
       "tags": null,
       "images": [

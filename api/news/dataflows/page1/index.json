@@ -5,7 +5,9 @@
       "path": "_news/2020-06-01-power-bi-workspace-roadmap-directquery-dataflows-and-more-roundup-june-1-2020.md",
       "title": "Power BI Workspace Roadmap, DirectQuery dataflows and more... (Roundup | June 1, 2020)",
       "excerpt": "Thanks for watching this week's Power BI news roundup!  Last roundup: https://guyinacu.be/roundup180 2 Minute Tuesday: https://guyinacu.be/animatedvisuals  🔴 Live Stream Replay: https://guyinacu.be/live012  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-06-01-power-bi-workspace-roadmap-directquery-dataflows-and-more-roundup-june-1-2020/index.json",
       "webUrl": "https://youtube.com/watch?v=f1XqbeOSWyg",
+      "originalUrl": null,
       "heat": 148,
       "tags": null,
       "images": [
@@ -53,7 +55,9 @@
       "path": "_news/2020-05-28-power-bi-dataflows-direct-query-support.md",
       "title": "Power BI Dataflows Direct Query Support",
       "excerpt": "We are excited to announce Direct Query support (Preview) for Power BI dataflows.  You can now connect directly to a dataflow without first requiring to import the data into a dataset. ",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-05-28-power-bi-dataflows-direct-query-support/index.json",
       "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-dataflows-direct-query-support/",
+      "originalUrl": null,
       "heat": 116,
       "tags": null,
       "images": [

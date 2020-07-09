@@ -3,7 +3,7 @@ category: news
 title: "Power BI community posts... (Roundup | July 6, 2020)"
 excerpt: "Thanks for watching this week's Power BI news roundup!  2 Minute Tuesday: https://guyinacu.be/userprincipalname Tech video: https://guyinacu.be/whatisrls  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level? We have training courses"
 publishedDateTime: 2020-07-06T15:00:14Z
-webUrl: "https://youtube.com/watch?v=Nn_wjfH4pAU"
+originalUrl: "https://youtube.com/watch?v=Nn_wjfH4pAU"
 type: video
 quality: 137
 heat: 140
