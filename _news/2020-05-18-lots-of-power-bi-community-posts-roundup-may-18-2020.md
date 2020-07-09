@@ -3,11 +3,14 @@ category: news
 title: "Lots of Power BI community posts... (Roundup | May 18, 2020)"
 excerpt: "Thanks for watching this week's Power BI news roundup!  Last weeks roundup: https://guyinacu.be/roundup179 2 Minute Tuesday: https://guyinacu.be/copyquery Patrick's tech video: https://guyinacu.be/datepicker Adam's tech video: https://guyinacu.be/matrixkpis  🔴 Live Replay: https://guyinacu.be/35WURjU"
 publishedDateTime: 2020-05-18T15:00:26Z
+originalUrl: "https://youtube.com/watch?v=qaZkALLm3hE"
 webUrl: "https://youtube.com/watch?v=qaZkALLm3hE"
 type: video
 quality: 137
 heat: 137
 published: true
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qaZkALLm3hE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
   name: Guy in a Cube

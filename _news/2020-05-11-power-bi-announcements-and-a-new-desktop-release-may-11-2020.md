@@ -3,11 +3,14 @@ category: news
 title: "Power BI announcements and a new Desktop release... (May 11, 2020)"
 excerpt: "Thanks for watching this week's Power BI news roundup!  Last weeks roundup: https://guyinacu.be/roundup178  🔴 MBAS Recap Live Stream Replay: https://guyinacu.be/mbas2020recap  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level?"
 publishedDateTime: 2020-05-11T15:00:15Z
+originalUrl: "https://youtube.com/watch?v=RqUc3d-0WXY"
 webUrl: "https://youtube.com/watch?v=RqUc3d-0WXY"
 type: video
 quality: 137
 heat: 137
 published: true
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RqUc3d-0WXY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
   name: Guy in a Cube

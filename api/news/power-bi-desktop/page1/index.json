@@ -7,7 +7,8 @@
       "excerpt": "We have great updates this release! We're super excited to announce this month that several features are now generally available: automatic page refresh, the hierarchy slicer, the modern ribbon, and AI insights are now generally available. On top of this, we have several new features and updates that",
       "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-06-18-power-bi-desktop-update-june-2020/index.json",
       "webUrl": "https://youtube.com/watch?v=WUo8TnHNHYM",
-      "originalUrl": null,
+      "originalUrl": "https://youtube.com/watch?v=WUo8TnHNHYM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WUo8TnHNHYM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "heat": 154,
       "tags": null,
       "images": [
@@ -56,7 +57,8 @@
       "excerpt": "We have lots of great updates this release! We’re super excited to announce this month that both the decomposition tree and drill through button actions are now generally available. On top of this, we have several new features and updates that will really enrich your reporting: curate featured tables",
       "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-05-22-power-bi-desktop-update-may-2020/index.json",
       "webUrl": "https://youtube.com/watch?v=JtuHIslowxk",
-      "originalUrl": null,
+      "originalUrl": "https://youtube.com/watch?v=JtuHIslowxk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JtuHIslowxk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "heat": 154,
       "tags": null,
       "images": [
@@ -105,7 +107,8 @@
       "excerpt": "We have a ton of great updates this release! We’re excited to announce a new visual personalization feature to allow your end-users to explore and personalize visuals all within the consumption view of a report! Also this month, if you’re interested in fast refresh scenarios, you will find these new",
       "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-05-06-power-bi-desktop-update-april-2020/index.json",
       "webUrl": "https://youtube.com/watch?v=q2Hfn_Rhb3E",
-      "originalUrl": null,
+      "originalUrl": "https://youtube.com/watch?v=q2Hfn_Rhb3E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q2Hfn_Rhb3E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "heat": 154,
       "tags": null,
       "images": [
@@ -154,7 +157,8 @@
       "excerpt": "We're excited to be bringing you some top community asks this month, including multi-column sort and dual axis line chart! We're also releasing new button actions, a new DAX function, and improvements to the decomposition tree. And, of course, there are new visuals on AppSource and new template apps",
       "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-03-12-power-bi-desktop-update-march-2020/index.json",
       "webUrl": "https://youtube.com/watch?v=DMjvJGGB_LQ",
-      "originalUrl": null,
+      "originalUrl": "https://youtube.com/watch?v=DMjvJGGB_LQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DMjvJGGB_LQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "heat": 156,
       "tags": null,
       "images": [
@@ -204,7 +208,8 @@
       "excerpt": "We are super excited for our update this month! We are releasing two of our top community requests: incremental refresh for Power BI Pro and hierarchical slicer. Additionally, we’ve added some improvements to the new ribbon and a couple new DAX functions. Since our last release, there have been several",
       "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-02-19-power-bi-desktop-update-february-2020/index.json",
       "webUrl": "https://youtube.com/watch?v=TN61JvbUAxk",
-      "originalUrl": null,
+      "originalUrl": "https://youtube.com/watch?v=TN61JvbUAxk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TN61JvbUAxk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "heat": 156,
       "tags": null,
       "images": [
@@ -254,7 +259,8 @@
       "excerpt": "With this month comes the first feature release from our announcements at Microsoft Business Application Summit, Icon sets, which also addresses our current #1 idea on ideas.powerbi.com. On top of this major update, we have incremental improvements for many of our existing features, such as a counts",
       "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-02-05-power-bi-desktop-update-july-2019/index.json",
       "webUrl": "https://youtube.com/watch?v=l7OMRUF9UYg",
-      "originalUrl": null,
+      "originalUrl": "https://youtube.com/watch?v=l7OMRUF9UYg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/l7OMRUF9UYg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "heat": 154,
       "tags": null,
       "images": [
@@ -303,7 +309,8 @@
       "excerpt": "Happy New Year!   In honor of the new year, our team put together this fun video where we reveal what makes Power BI what it is today! Enjoy! ----------------------------------------------------------------------------------------------------------------------------------------------------- Follow us",
       "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-02-05-happy-new-year-from-power-bi-desktop/index.json",
       "webUrl": "https://youtube.com/watch?v=-7rqXowuf1k",
-      "originalUrl": null,
+      "originalUrl": "https://youtube.com/watch?v=-7rqXowuf1k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-7rqXowuf1k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "heat": 154,
       "tags": null,
       "images": [
@@ -352,7 +359,8 @@
       "excerpt": "Our August release has another hotly anticipated feature from the Microsoft Business Application Summit, grouping. Grouping in reports, similar to PowerPoint's grouping, lets you easily organize groups of visuals to move and resize them as a set. This month's release also has some updates to our newest",
       "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-02-05-power-bi-desktop-update-august-2019/index.json",
       "webUrl": "https://youtube.com/watch?v=sf4n7VXoQHY",
-      "originalUrl": null,
+      "originalUrl": "https://youtube.com/watch?v=sf4n7VXoQHY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sf4n7VXoQHY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "heat": 154,
       "tags": null,
       "images": [
@@ -401,7 +409,8 @@
       "excerpt": "This December update is packed with several new features! In preview, we have the new Customize theme dialog that allows you to tweak common theme settings without having to write or modify a JSON file! Additionally, we now allow you to export the current theme as a JSON so you can easily share, reuse,",
       "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-02-05-power-bi-desktop-update-december-2019/index.json",
       "webUrl": "https://youtube.com/watch?v=eCEwgZsVUOs",
-      "originalUrl": null,
+      "originalUrl": "https://youtube.com/watch?v=eCEwgZsVUOs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eCEwgZsVUOs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "heat": 154,
       "tags": null,
       "images": [
@@ -450,7 +459,8 @@
       "excerpt": "The November update has major updates in several areas of Power BI Desktop. There's a new, modern ribbon that aligns Power BI Desktop with Office and adds more functionality. We're also adding a new visual, the decomposition tree, which is one of the most requested ideas on ideas.powerbi.com. AI functions",
       "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-02-05-power-bi-desktop-update-november-2019/index.json",
       "webUrl": "https://youtube.com/watch?v=kVli3Vm_kDo",
-      "originalUrl": null,
+      "originalUrl": "https://youtube.com/watch?v=kVli3Vm_kDo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kVli3Vm_kDo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "heat": 154,
       "tags": null,
       "images": [
@@ -499,7 +509,8 @@
       "excerpt": "This month’s update is filled with major updates across the whole product. In the data preparation area, we’ve introduced query diagnostics, which allow you to see what queries are being run behind the scenes. On the reporting side, we are taking a huge step forward in terms of real-time reporting, with",
       "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-02-05-power-bi-desktop-update-october-2019/index.json",
       "webUrl": "https://youtube.com/watch?v=A8A9baUQsXQ",
-      "originalUrl": null,
+      "originalUrl": "https://youtube.com/watch?v=A8A9baUQsXQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/A8A9baUQsXQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "heat": 154,
       "tags": null,
       "images": [
@@ -548,7 +559,8 @@
       "excerpt": "You'll notice one of our exciting updates right away when creating new reports with the September update of Power BI Desktop, a new, modern default theme! Not only do we have a new default theme, but we've more than doubled the number of built-in theme options for your report. If you're a theme author,",
       "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-02-05-power-bi-desktop-update-september-2019/index.json",
       "webUrl": "https://youtube.com/watch?v=neq0THnRJzo",
-      "originalUrl": null,
+      "originalUrl": "https://youtube.com/watch?v=neq0THnRJzo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/neq0THnRJzo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "heat": 154,
       "tags": null,
       "images": [

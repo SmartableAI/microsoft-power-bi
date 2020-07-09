@@ -8,6 +8,7 @@
       "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-07-06-power-bi-community-posts-roundup-july-6-2020/index.json",
       "webUrl": "https://smartable.ai/apps/powerbi/news/2020-07-06-power-bi-community-posts-roundup-july-6-2020/",
       "originalUrl": "https://youtube.com/watch?v=Nn_wjfH4pAU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Nn_wjfH4pAU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "heat": 140,
       "tags": null,
       "images": [
@@ -56,6 +57,7 @@
       "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-07-06-join-us-thursday-july-9-2020-at-1100-am-1200-noon-pdt-with-reza-rad/index.json",
       "webUrl": "https://powerbi.microsoft.com/en-us/blog/join-us-thursday-july-9-2020-at-1100-am-1200-noon-pdt-with-reza-rad/",
       "originalUrl": null,
+      "featuredContent": null,
       "heat": 80,
       "tags": null,
       "images": [
@@ -104,6 +106,7 @@
       "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-07-05-join-us-wednesday-july-8-2020-at-1100-am-1200-noon-pdt-with-reid-havens/index.json",
       "webUrl": "https://powerbi.microsoft.com/en-us/blog/join-us-wednesday-july-8-2020-at-1100-am-1200-noon-pdt-with-reid-havens-performance-optimization-and-intelligent-error-handling-in-power-query/",
       "originalUrl": null,
+      "featuredContent": null,
       "heat": 78,
       "tags": null,
       "images": [
@@ -152,6 +155,7 @@
       "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-06-29-new-capabilities-for-the-power-bi-snowflake-connector-are-now-generally-available/index.json",
       "webUrl": "https://www.neowin.net/news/new-capabilities-for-the-power-bi-snowflake-connector-are-now-generally-available",
       "originalUrl": null,
+      "featuredContent": null,
       "heat": 92,
       "tags": null,
       "images": [
@@ -200,6 +204,7 @@
       "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-06-29-ideaspowerbicom-azure-active-directory-single-sign-on-is-here/index.json",
       "webUrl": "https://powerbi.microsoft.com/en-us/blog/ideas-powerbi-com-azure-active-directory-single-sign-on-is-here/",
       "originalUrl": null,
+      "featuredContent": null,
       "heat": 82,
       "tags": null,
       "images": [
@@ -248,6 +253,7 @@
       "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-06-29-save-95-off-the-cost-of-this-data-analysis-with-excel-power-bi-bundle/index.json",
       "webUrl": "https://www.neowin.net/amp/save-95-off-the-cost-of-this-data-analysis-with-excel--power-bi-bundle",
       "originalUrl": null,
+      "featuredContent": null,
       "heat": 96,
       "tags": null,
       "images": [
@@ -296,6 +302,7 @@
       "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-06-29-announcing-general-availability-ga-of-enhanced-connectivity-for-snowflake/index.json",
       "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-general-availability-ga-of-enhanced-connectivity-for-snowflake/",
       "originalUrl": null,
+      "featuredContent": null,
       "heat": 80,
       "tags": null,
       "images": [
@@ -344,6 +351,7 @@
       "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-06-24-learn-excel-and-power-bi-with-this-data-analysis-training/index.json",
       "webUrl": "https://www.pcmag.com/deals/learn-excel-and-power-bi-with-this-data-analysis-training",
       "originalUrl": null,
+      "featuredContent": null,
       "heat": 77,
       "tags": null,
       "images": [
@@ -391,7 +399,8 @@
       "excerpt": "Thanks for watching this week's Power BI news roundup!  Last weeks roundup: https://guyinacu.be/roundup183 2 Minute Tuesday: https://guyinacu.be/datarefresh Adam's tech video: https://guyinacu.be/perfstart  🔴 Live Replay: https://guyinacu.be/live015  📢 Become a member: https://guyinacu.be/membership",
       "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-06-22-what-to-focus-on-with-dax-and-more-roundup-june-22-2020/index.json",
       "webUrl": "https://youtube.com/watch?v=YvSuCayng30",
-      "originalUrl": null,
+      "originalUrl": "https://youtube.com/watch?v=YvSuCayng30",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YvSuCayng30\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "heat": 139,
       "tags": null,
       "images": [
@@ -440,7 +449,8 @@
       "excerpt": "We have great updates this release! We're super excited to announce this month that several features are now generally available: automatic page refresh, the hierarchy slicer, the modern ribbon, and AI insights are now generally available. On top of this, we have several new features and updates that",
       "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-06-18-power-bi-desktop-update-june-2020/index.json",
       "webUrl": "https://youtube.com/watch?v=WUo8TnHNHYM",
-      "originalUrl": null,
+      "originalUrl": "https://youtube.com/watch?v=WUo8TnHNHYM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WUo8TnHNHYM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "heat": 154,
       "tags": null,
       "images": [
@@ -490,6 +500,7 @@
       "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-06-17-get-the-2020-master-microsoft-excel-power-bi-certification-bundle-for-just-3499/index.json",
       "webUrl": "https://www.neowin.net/news/get-the-2020-master-microsoft-excel--power-bi-certification-bundle-for-just-3499",
       "originalUrl": null,
+      "featuredContent": null,
       "heat": 91,
       "tags": null,
       "images": [
@@ -538,6 +549,7 @@
       "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-06-17-new-way-of-getting-apps/index.json",
       "webUrl": "https://powerbi.microsoft.com/en-us/blog/new-way-of-getting-apps/",
       "originalUrl": null,
+      "featuredContent": null,
       "heat": 82,
       "tags": null,
       "images": [
@@ -586,6 +598,7 @@
       "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-06-16-licensing-and-roadmap-update-for-power-bi-report-server/index.json",
       "webUrl": "https://powerbi.microsoft.com/en-us/blog/licensing-and-roadmap-update-for-power-bi-report-server/",
       "originalUrl": null,
+      "featuredContent": null,
       "heat": 97,
       "tags": null,
       "images": [
@@ -633,7 +646,8 @@
       "excerpt": "Thanks for watching this week's Power BI news roundup!  Last weeks roundup: https://guyinacu.be/roundup182 2 Minute Tuesday: https://guyinacu.be/askquestions Patrick's tech video: https://guyinacu.be/blankslicer Adam's tech video: https://guyinacu.be/workspaceroadmap  🔴 Live Replay with Marco Russo:",
       "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-06-15-power-bi-updates-dax-fusion-and-data-driven-subscriptions-roundup-june-15-2020/index.json",
       "webUrl": "https://youtube.com/watch?v=-7Wk8FPz7es",
-      "originalUrl": null,
+      "originalUrl": "https://youtube.com/watch?v=-7Wk8FPz7es",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-7Wk8FPz7es\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "heat": 147,
       "tags": null,
       "images": [
@@ -683,6 +697,7 @@
       "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-06-11-on-premises-data-gateway-june-2020-update-is-now-available/index.json",
       "webUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-june-2020-update-is-now-available/",
       "originalUrl": null,
+      "featuredContent": null,
       "heat": 82,
       "tags": null,
       "images": [
@@ -731,6 +746,7 @@
       "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-06-11-announcing-power-bi-data-protection-ga-and-introducing-new-capabilities/index.json",
       "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-data-protection-ga-and-introducing-new-capabilities/",
       "originalUrl": null,
+      "featuredContent": null,
       "heat": 97,
       "tags": null,
       "images": [
@@ -779,6 +795,7 @@
       "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-06-10-the-theme-youve-been-waiting-for-dark-mode-comes-to-the-power-bi-ios-app/index.json",
       "webUrl": "https://powerbi.microsoft.com/en-us/blog/the-theme-youve-been-waiting-for-dark-mode-comes-to-the-power-bi-ios-app/",
       "originalUrl": null,
+      "featuredContent": null,
       "heat": 95,
       "tags": null,
       "images": [
@@ -827,6 +844,7 @@
       "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-06-10-power-bi-for-ios-gets-updated-with-dark-mode-support/index.json",
       "webUrl": "https://www.neowin.net/news/power-bi-for-ios-gets-updated-with-dark-mode-support",
       "originalUrl": null,
+      "featuredContent": null,
       "heat": 97,
       "tags": null,
       "images": [
@@ -875,6 +893,7 @@
       "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-06-10-power-bi-desktop-june-2020-feature-summary/index.json",
       "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-june-2020-feature-summary/",
       "originalUrl": null,
+      "featuredContent": null,
       "heat": 97,
       "tags": null,
       "images": [
@@ -923,6 +942,7 @@
       "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-06-10-create-stunning-mobile-reports-with-the-updated-mobile-authoring-in-power-bi-desktop/index.json",
       "webUrl": "https://powerbi.microsoft.com/en-us/blog/create-stunning-mobile-reports-with-the-updated-mobile-authoring-in-power-bi-desktop/",
       "originalUrl": null,
+      "featuredContent": null,
       "heat": 90,
       "tags": null,
       "images": [
@@ -971,6 +991,7 @@
       "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-06-08-learn-todays-top-data-analysis-tools-microsoft-excel-and-power-bi-with-this-35-bundle/index.json",
       "webUrl": "https://www.entrepreneur.com/article/351506",
       "originalUrl": null,
+      "featuredContent": null,
       "heat": 88,
       "tags": null,
       "images": [
@@ -1018,7 +1039,8 @@
       "excerpt": "Thanks for watching this week's Power BI news roundup!  Last weeks roundup: https://guyinacu.be/roundup181 2 Minute Tuesday: https://guyinacu.be/dataflowstricks Patrick's tech video: https://guyinacu.be/synapse Adam's tech video: https://guyinacu.be/pipelines  🔴 Live replay: https://guyinacu.be/live013",
       "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-06-08-power-bi-quizzes-data-masking-and-more-roundup-june-8-2020/index.json",
       "webUrl": "https://youtube.com/watch?v=876kLN_vBJE",
-      "originalUrl": null,
+      "originalUrl": "https://youtube.com/watch?v=876kLN_vBJE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/876kLN_vBJE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "heat": 137,
       "tags": null,
       "images": [
@@ -1066,7 +1088,8 @@
       "excerpt": "Thanks for watching this week's Power BI news roundup!  Last roundup: https://guyinacu.be/roundup180 2 Minute Tuesday: https://guyinacu.be/animatedvisuals  🔴 Live Stream Replay: https://guyinacu.be/live012  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power",
       "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-06-01-power-bi-workspace-roadmap-directquery-dataflows-and-more-roundup-june-1-2020/index.json",
       "webUrl": "https://youtube.com/watch?v=f1XqbeOSWyg",
-      "originalUrl": null,
+      "originalUrl": "https://youtube.com/watch?v=f1XqbeOSWyg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/f1XqbeOSWyg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "heat": 148,
       "tags": null,
       "images": [
@@ -1117,6 +1140,7 @@
       "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-05-29-roadmap-update-whats-next-for-the-new-workspace-experience-upgrade-in-the-coming-months/index.json",
       "webUrl": "https://powerbi.microsoft.com/en-us/blog/roadmap-update-whats-next-for-the-new-workspace-experience-upgrade-in-the-coming-months/",
       "originalUrl": null,
+      "featuredContent": null,
       "heat": 73,
       "tags": null,
       "images": [
@@ -1165,6 +1189,7 @@
       "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-05-28-power-bi-dataflows-direct-query-support/index.json",
       "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-dataflows-direct-query-support/",
       "originalUrl": null,
+      "featuredContent": null,
       "heat": 116,
       "tags": null,
       "images": [
@@ -1215,6 +1240,7 @@
       "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-05-28-power-bi-report-server-may-2020-feature-summary/index.json",
       "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-report-server-may-2020-feature-summary/",
       "originalUrl": null,
+      "featuredContent": null,
       "heat": 97,
       "tags": null,
       "images": [
@@ -1263,6 +1289,7 @@
       "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-05-26-page-view-for-paginated-reports-now-available-in-power-bi/index.json",
       "webUrl": "https://powerbi.microsoft.com/en-us/blog/page-view-for-paginated-reports-now-available-in-power-bi/",
       "originalUrl": null,
+      "featuredContent": null,
       "heat": 99,
       "tags": null,
       "images": [
@@ -1311,7 +1338,8 @@
       "excerpt": "We have lots of great updates this release! We’re super excited to announce this month that both the decomposition tree and drill through button actions are now generally available. On top of this, we have several new features and updates that will really enrich your reporting: curate featured tables",
       "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-05-22-power-bi-desktop-update-may-2020/index.json",
       "webUrl": "https://youtube.com/watch?v=JtuHIslowxk",
-      "originalUrl": null,
+      "originalUrl": "https://youtube.com/watch?v=JtuHIslowxk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JtuHIslowxk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "heat": 154,
       "tags": null,
       "images": [
@@ -1361,6 +1389,7 @@
       "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-05-21-microsoft-business-applications-summit-2020-power-platform-sessions-quick-reference/index.json",
       "webUrl": "https://powerbi.microsoft.com/en-us/blog/microsoft-business-applications-summit-2020-power-platform-sessions-quick-reference/",
       "originalUrl": null,
+      "featuredContent": null,
       "heat": 75,
       "tags": null,
       "images": [
@@ -1409,6 +1438,7 @@
       "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-05-21-announcing-general-availability-ga-of-shared-and-certified-datasets-in-power-bi/index.json",
       "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-general-availability-ga-of-shared-and-certified-datasets-in-power-bi/",
       "originalUrl": null,
+      "featuredContent": null,
       "heat": 92,
       "tags": null,
       "images": [

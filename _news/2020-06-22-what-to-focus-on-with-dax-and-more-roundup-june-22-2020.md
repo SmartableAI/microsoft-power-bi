@@ -3,11 +3,14 @@ category: news
 title: "What to FOCUS on with DAX and more... (Roundup | June 22, 2020)"
 excerpt: "Thanks for watching this week's Power BI news roundup!  Last weeks roundup: https://guyinacu.be/roundup183 2 Minute Tuesday: https://guyinacu.be/datarefresh Adam's tech video: https://guyinacu.be/perfstart  🔴 Live Replay: https://guyinacu.be/live015  📢 Become a member: https://guyinacu.be/membership"
 publishedDateTime: 2020-06-22T15:00:25Z
+originalUrl: "https://youtube.com/watch?v=YvSuCayng30"
 webUrl: "https://youtube.com/watch?v=YvSuCayng30"
 type: video
 quality: 139
 heat: 139
 published: true
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YvSuCayng30\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
   name: Guy in a Cube
