@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-06T15:00:14Z
 originalUrl: "https://youtube.com/watch?v=Nn_wjfH4pAU"
 type: video
 quality: 137
-heat: 140
+heat: 137
 published: true
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Nn_wjfH4pAU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
