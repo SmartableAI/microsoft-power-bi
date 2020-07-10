@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT2M59S
 publishedDateTime: 2020-07-07T15:00:06Z
-heat: 138
+heat: 114
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Im2HTkG-J7M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -21,6 +21,12 @@ provider:
 topics:
   - Power BI
 
-secured: "VstxbOMJ9xOhaqXDwdufanQ4dr5GZkzdeFVwNsno1l2XvoNfkvUpJfOvACnTNoZJjDaWrjCxsmZ1Yc+0OBUC+mg/ZNykadGCeeI0s1m3iHEGUJvCapEoyJnfNJk9gm+huJCY8xju4jheBelX7gaDT28ySkxLhHNMss2LLvIgRknXEyaxLXb0lYO5VBQoltlATdtmWMMjYf9jpa6CvEq0Gh/HT3wkfibDXXO0EqhwpZkydXJKhWul8sCEgCTR21Hk8wG2o3DJwp3s2CDclL7sztnqSAlP7IMVwp6Q7CkVxgWTRmZsfQ86LQelWmNQW3T0g48C4lQDSE9ITHFdfKlmYydGUh/VEt7pg5G4Dylzi0jDUETV0Ox6JPDhT9BSFJEuzePr6KyRiSfDDTJMccRPaQ==;OXUe+tiFrqkY0SXyxfS5jQ=="
+images:
+  - url: https://i.ytimg.com/vi/Im2HTkG-J7M/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "UZ3Z/u2Ly6/sU27BJvT+t34Gkrw5dWaloBA2OE+Vm3IW3OeULzzXwk0xvTMQf1F+Yx9x6HuTFSAlev6fKl9Fxq7W5tOVug7lwa4fEIgEQaNI8kFniFlYf+OYA9CBJ9KrdJVXzZaqk9irZm/q7hDt5sreqXSdLY8bwUjI8Ra5a531grBJqH0xHx3+1bUoFsgyfF02hKrHjnmdPtNYYRhKH7z490TYtCHNttLrv+ZTaRtunIhsqgbWm0rT9AXOj4/q6tCMozKrxV21rIWJDW2STAoHI8b6KefFEjrQTdrpj95kljHcvkKFqDF9PVxvsLJzuWD3u6a+jxEVqfotujWfikb0T1OU/6D8tSyTe2hPZPqegs7d7QNFl+rsePJWxm6Z4yMZe7U8ScqdUt0PxQNsYw==;kH4zT9n0FAwT2DVFXkYcXA=="
 ---
 
