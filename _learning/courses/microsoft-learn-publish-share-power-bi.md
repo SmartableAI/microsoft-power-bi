@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT1H4M
 ratings:
-  count: 2464
-  average: 4.7179384
-heat: 59
+  count: 2465
+  average: 4.718053
+heat: 62
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Publish and share in Power BI"
 
-secured: "SHfrXPF+yIc3kTJBAaKGQdcGSFmBj+XGFY8c5lcv+3ksyV3MeZwxJkAxIlshWr60ogQaCfQukLcFbLKlxNnxLS2cCmMWwiG3w1atTFzCyPbZqzBqQQ/rOR5yvxOmV7rVUsMAetlBkuRgmGKdoCs/Da6hktDl9BC+wt6IZAVBy2MzGmSIn+muX+oVqUIj2KEJG1cEXXUDuNuSk8y84utcGRat0ZXXqPwgkcU7crKddPDxVmOTLSW3/3rXLWQCXF+rKY5K5cAkXQuUL2pei6JAIYUSuiEUfpug27SGRA8lcgvSk42L2VXWsjFWt/bq6EWJbfQQRbpLsV+JRGv722CdPk0dV/W1ey+iftFO8ykfrR+eBJtNOQ4lDu/bGQymMfhE4MsNiZmevYJdwZ1BFkJT2Q==;SEBBO8+xh9VAASicmh0Oyg=="
+secured: "A9pkEEjPVpd3iGh3nCVIBFF2mK4/mkAsey7hQTqoFkNYSERySmnTDNcTZjel7s2PDvRAGkasCSum7IyVW/c0g0CU0OPO2rOtCg/Ft1qSNjWY5CdcqxoK9LmQB2EKMAHnPZZNMLT+0NH156lfZqDVxqhgx4uEartzMtVTJAqIVNOMfqm/b3azhjf2EB2Lah3Q/F7we/FJgJ3ggVmyRkEyRIvPUzoWaT25yrrFq61qmX0frKN7fcfx1ET6etIjoAZmOi0N4xlFTYN1P3ZM3h+yf9fXMam9tFPjTaeGG+8HQqOHTD49DSYEiFU4hbn3M9n08kr2S/p0R5+Zpj7bd2jGQKFZ1gqh9LBiK/u42NN3j9Zc6HqMHbB90X60kMJqUHLGunFy7cBQqjKMXOmNfXz8rw==;9cE64tacjCZmTGi0UCyeCQ=="
 ---
 

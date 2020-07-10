@@ -8,7 +8,7 @@ length: PT21M
 ratings:
   count: 2125
   average: 4.728941
-heat: 78
+heat: 75
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Introduction to Power BI"
 
-secured: "OO83ftBFAyS6C4VqWjk6oJAZcX3T2P8DRjdR/AzQOxdkNPUk3M029VeH9+J/6aDW9nClGNgf+T8kGiArakdSg+3hP4J2CoHPjUa+6aijRHX1h8SY72PbyFr/DFJZbnFE+xQqJQllsbYbMgROxO7fj/3oNIHMqaw7Wr2LpqY6/BcOMGGWMj1OBGVKIPy4c/uA0FUPRivo1/+QG9P/7fXjCxUkz4j8PQGaYBswGZqiGKATibMY4N1/EX0nUS1VdMzmrmQ/RZDKrXZGSBm+BVMxrDbGWbWSNFFKtthJCEJOye5vHlRquXBu6jCgPoiD3HQ3UKePmXRDSCadigaXQrMzM/BGpuQjHLUKL3FtNgF4Pj2V4UfmFJhEdyOiAxu+osXq3W4+eZCQDTaHqNDxqhGlYQ==;IvRO5gLKEx6R5icxmX6ivA=="
+secured: "aOlxxyI/yRSyC3FVp4RM9PK5IwwqAjX3lpT9M0AKFTU/KWwmrleZD8zWLknWq2ayIE3bWTV/fYYDI0RmcK6RANcs98g8xziQ4+O2RVEc7aWu01dm+UDnXalAySjjl6BS/rhhxRPj/mv2uULa55V5VKZe1UIb+TkJkFrK7J0hDuN/5G9fWk1l9280W+EEaEqx/ub0ENMl7d10Q7Io84DrkRbDV7wQPUYUREr2/R/UOKEYqnHQ1KU/m/TRtySoQeBBGbinZlYWbK20chWUkJqz4hdKI1+ZSyOLq/NQJnqIgZwf9nB8TkhrzOZILb1CqSbtApu2hzZgz23UR2MGFn1lcBDWJ9aAKvejod1TKUAo+wWKkrKzMhbxPHdRtMkqBh6IUMKJdZ5Bsd7ptF2PqVNcXw==;IRYHdBMRHBClMJF7ztRGHw=="
 ---
 
