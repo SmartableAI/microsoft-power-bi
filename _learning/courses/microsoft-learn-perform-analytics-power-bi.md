@@ -8,7 +8,7 @@ length: PT51M
 ratings:
   count: 16
   average: 4.6875
-heat: 52
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Perform analytics in Power BI "
 
-secured: "wXeFMVw9+PHVWZuf/Kr4fEqalnez/jI9YxPHEEjM1LGJOy+HtmDK9/OeeHRYu8sNQt/jqThb6ZLmmsADUx0LY1KYLTv+TXgifquvfXaYTIJGN9J6hGqsPol2KNyv5Du+EmjidH7G1yjSZzZML0Y37DeGb3MHtsfvTuYZ6WLAGqq9vTB6bFQfwb4oSBpoc2QdhiHQa1errgXy94FNxKy5J3LBeGNh8RgpIJEltfFYYNjpdZqxPp0GR8MkcL+DYMgdxepZ02leqQKYhE8hkGyMg2MAEpNZnKI9qgbsdQLZkJexaF7IDSYHW9G1w6BZtbfMIRDQgl2/5ZX6MQwv+dtSiDob81P0L7+sOdrFS5rloEdqu7u4cOj06UWo7YeUsINZMN/KN33EDUeGLjw0L3h2eQ==;EMSrMzZ9epvZYzrm6u8WIg=="
+secured: "iARteqNyKK7vrSNL5bdmGlYj3leVKpHSi4wBhKk5FFw1g2meqZC/WxkkYMko4dCdXMypB9+bWv+1Eo26f5+m0TUS55IbncIcsNxeJ7ww4zFYx8Dtu3vsTqVyqDdNf1OBXXG6Q3CiTaugE0xO1PEdRJuvff/JYHlA10P1XZi3SsI72SjZMq3tllcFCc2ycrsztf08WMXlsNMS8WrOkmzIrp+sI2z2nQdzt1GAYhJPJ95x185W10b/kDgqn6C0K6IUN4GVdW5K+whku6ePafKp4d4M0Iw0GxP7jkqGdxakT+ckHP0OtfhRB7LeCxZJdcGVP0TGKouxQ78vuSw+4b2hnAcjeVG8uqd/1NJKsYh1wpddJhIyIEknayEvrOAJnAZLfo2yZTz4x81o5UxKcN055w==;TBk4wYbdNDjxci4z9Lw8aw=="
 ---
 
