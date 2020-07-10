@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT7M10S
 publishedDateTime: 2017-08-02T15:31:32Z
-heat: 53
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ukj45pdTwYE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Fixing Power BI Quick Measures - Time calculations"
 
-secured: "ABJ9iMac9jm0LqvfomFnV30dTOT33/Z5Gdqm+ZPFwhRuPfxTnz1k+Ja6H1XnSLZQbO2LN9VImMGQ2N+JxoQJLgo+rBsdLzHlfla+GB773EJ2VqzB9wx6kB2jJzeyeqHlL2N8aMr2iq0HLDqmgdAmHBrA8k2bb6PPcpptSajw0UextZPLmuj5D7L0ZdURNSiufUkJRfxhzEkYjBBmOrSXQqm4uP1QxVzeEYhaw0YGKd6+JjhKwWDie0GwXLHdL8KUPBiSgi24pWF0Kvwau36EMBA79hp2FTskMG+2VdWj5QsiInJA3hikCVhrREEJCo5mqtK3pPciPsjutPUPr16KFcztKOmIZAZE6W+DxUYhZ5rffgxLEHwj88kSvhve4J2oW79ljhxfKvUWAQQboUQWNA==;QYV8GnazeenWX5iz2ioXZA=="
+secured: "zFjiiwHYitNu8cHQZi8IeEHhTK/lIjX8Dr+g00bVCoUj9iGcY1rC6fhr6tThpLVukTa7IESbVNkF0Jk6Zi2difP31y1WnSMMc2LtlFaXJ5ffgedd/hedW49wLn3RZZ5hFih6jOxklE8Jby6xDPd8EdPeUw+Ho1o+U41CCov/XpvY5+5c8SIwQhncpw4m8fPyb7hfw++9C1yK/g9sqp/Ma/YR1jgfpKyx1xk+RnHZ4RH+o85FqXL/+irZR5qv0MUFjfDfXgPyeyQ9XQjOpnmOl/Nal+Oz8Nk4V/wwtW1px5YQwqhtK8YBVoMAxzXTSRdX1GStGGe9F/iESAwkbc6R5FqMKbd1N2fm9226BhpstPTLnt7AY/5fm7cYPmEEWRzHYANJwAh5vU/kGBwbXdl08w==;JMUL3JGfEHh/awcIz40kHw=="
 ---
 
