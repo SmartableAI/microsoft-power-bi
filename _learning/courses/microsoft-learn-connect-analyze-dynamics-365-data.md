@@ -1,14 +1,14 @@
 ---
-title: "Connect and analyze your Dynamics 365 data​"
-excerpt: "Take advantage of Power Platform, Common Data Service, and internal reporting tools to connect, analyze, and display your data in Dynamics 365."
-webUrl: https://docs.microsoft.com/en-us/learn/wwl/connect-analyze-dynamics-365-data/
+title: "Connect and analyze your Dynamics 365 Data​"
+excerpt: "Connect and analyze your Dynamics 365 Data​"
+webUrl: https://docs.microsoft.com/en-us/learn/modules/connect-analyze-dynamics-365-data/
 type: course
 price: Free
 length: PT57M
 ratings:
   count: 834
   average: 4.6235013
-heat: 51
+heat: 79
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Connect and analyze your Dynamics 365 data​"
 
-secured: "2Xk/pKPPoKM+dpPD8gnVVtZcRPV6H579o+P2xn7WOrXNbOZwpKQLmdiVvmQ4Nnmn3/3e3TA5oAc/KJY3HYyRKRrZJV0Eu/e7bKaOSdSW9oIpRR/NZhOFlQF4qui5leJgo1jZjGXrrpIyZbanszAvg//8ZfYfBBBhGBBD0kWF7cOjei0UM37HORLttygwtXLKq+qVOSyU/+PVnALeiPvPyrNie7X0BfMU5s85qTn/gLeArfXirb9AinRKghaEB9r4CJH4ekICDzCFRDkjh/MLn9KJo+agBOLlB9GB29vf3qk5eGiLQ6YQTQmYS90wNA/smSLXOBbFP9F2olZN121JOsHCaZeD2EKnc6N7LCAUAg1BowgsdSJi/azro72zjsj6EraKb3m6G2EUoYILGgXq8A==;CY73X3JYW1QJHUEHmAWPkQ=="
+secured: "wJH40+mZ8LuTB31fjRjAIl+RJsVOFqIOXhI8g+vxjTskQSIMHC5tuLHX0qjaYzAVeqU1uBceHvrsUIVXboJ/ORbEW4vNhaKeCoMgLRpUScQ3PU1Id3pA5pod1PC9DePs55JJ+M/LVdqXdCyFiX2nlOhKF/3kKBvtWVPrSP3OQEz31ZJDBQX2IjBaEvGADwnjeYSkHPWyPRfnKjAht5SETnGrGwBq9bCfCHQ+7jg6TfArWuvjGZq0RalQiYP3Q9kW2MG4RJCEaIx78VQJ+vNIZatGlyDYrLT9b1sV1M4GH4MzRF0NmknzDBaiN2o82wz3USQ0KW/BWvDtBOzPfKWgEdU8wvirCL88nyL+OtuG9rU=;PabZwQlUUF+BVs8d9Yg4jg=="
 ---
 
