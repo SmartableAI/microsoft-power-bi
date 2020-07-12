@@ -7,6 +7,8 @@ price: Free
 length: PT1H11M46S
 publishedDateTime: 2020-05-23T15:37:49Z
 heat: 62
+removed: true
+published: false
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kJbHR6JQs2k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
