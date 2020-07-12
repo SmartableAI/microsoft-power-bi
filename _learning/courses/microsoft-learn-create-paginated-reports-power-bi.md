@@ -8,7 +8,7 @@ length: PT60M
 ratings:
   count: 19
   average: 4.8421054
-heat: 54
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Create paginated reports  "
 
-secured: "ml0bPvo75IMUcgU/o/r1q3fXQwwIGrVt5fNG+P7i8i59MbqEDQzsAUk9+lbTk+p+tlkOlla1SnPMS8S+jMCwXEIQ/Ecb8N4cRCvQorNTca1vhZowGA6yI0cZ0KGtvhNbEge7qQLBi821xY7ESIP2KEoAI5ngNDfT7A5+oAcKgvHk0u/4f/wOUfDP1at9MkT2ykLFLebGcTYfINd9SfRkdOCJfMpu3iAH97ScMaXyopk7whq84hDsqzd1LiRUbzWCA6niUu5S1Thk1f3HAFheM3Lqob0Hl5q9QZFoSbrUAGzp+DTvnz1VGz90zBWx0W6kRv2lORv6vPWjC56Amf1JNKYMnjfVwkiMsgHrUGKJ3W9cXGWPWzyoYsUvoKE14pKfGVEPTQpRec+Hgoe/9+6W5w==;0Jcpa43uoYe7CVSeOV6YOA=="
+secured: "Eb4SmD2S+E5nv7d9BdQwCNSmWdfHxRHLnr/cAUm5228YLUGXAfJbJnj6JurQm3serEiE7PG1HyQHQqlO8zdjFSASUNndGDxs3foU2bawZpuiLuZuB+cMkdgfBPSFkzRsRIImaRKQLhjxDVWQT4mu1KCeWBa4URQUx+WY2Mgx8UJEZZKqLb2FMmInTT4TX0XK96lIIsuVKv1CVsRoXyh4IZwIzviZHeYZmpEZXC41O8Chaci2tN4apFLjbOMwfQBhKVMUDFmpS1NyXtUYzD7kVsLX/UWNCr1gg/7p/Hf1rYCU01R43Pvo1ppTxBckm7iZkR18gOSCg6HG8wiGk4dJKUGIwTFyJI9rgSjIKwu0xWpnXIu6IhGr2Ya53DzxhPfUEWKHw9rta2sFDCc0S3vXxw==;MpNneh7ZjN1yDII04H/Cjg=="
 ---
 
