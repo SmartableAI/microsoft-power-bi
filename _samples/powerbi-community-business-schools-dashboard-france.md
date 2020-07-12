@@ -4,7 +4,7 @@ excerpt: "Hi all, This is my first public dashboard using Power BI ! This dashbo
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Business-Schools-Dashboard-France/m-p/187496
 type: download
 publishedDateTime: 2017-06-03T15:55:00Z
-heat: 52
+heat: 55
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNWIzNTY0NzktMWY1NS00NDI1LTg0OTItZmUyYjcxZWYzNjI2IiwidCI6Ijg5NWQ0YTRiLTE1NGYtNDUzNy04NzAyLTc4YWQ0MDE1Y2Y0YSIsImMiOjl9\"></iframe>"
 

@@ -4,7 +4,7 @@ excerpt: "Who doesn't love KPI icons in tables? They provide instant feedback on
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Project-Checklist/m-p/227899
 type: download
 publishedDateTime: 2017-08-08T17:46:00Z
-heat: 54
+heat: 58
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNGQxYmExZTctM2YzYy00YzQwLTkwNGUtYTU5ZjQ4YTVmYzFjIiwidCI6IjZkNjM4YjFhLTMyYmYtNGJhMy1iNGI0LWU4NjU1MzcyNmZiMSIsImMiOjZ9\"></iframe>"
 

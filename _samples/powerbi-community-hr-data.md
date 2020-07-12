@@ -4,7 +4,7 @@ excerpt: "GENDER DIVERSITY. EMPLOYEE STATUS AND PERFORMANCE SCORE. HEADCOUNT DAT
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/HR-DATA/m-p/829381
 type: download
 publishedDateTime: 2019-10-27T11:30:00Z
-heat: 51
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjZmODcyNzktZTIwYS00OTg2LTliNDUtZDAyNWYxMzQ2OWNlIiwidCI6ImFhZDM5OWY1LWEyNTQtNDMwYi1iMjI5LWY5OWY4YmE3MTM0NyJ9\"></iframe>"
 

@@ -4,7 +4,7 @@ excerpt: "In order to keep track of the performance of the most elite athletes i
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Tracking-medal-count-at-the-Rio-2016-Olympics/m-p/57015
 type: download
 publishedDateTime: 2016-08-09T09:52:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMmVmNzBjZTktMjUyYy00OGFjLWJhMzAtNmM4YzNhOTVmMGM5IiwidCI6IjEzZjU3MGNkLTQ3YTctNDBmMC05MDkzLTc3MjcwNDVmODBjYSIsImMiOjN9\"></iframe>"
 

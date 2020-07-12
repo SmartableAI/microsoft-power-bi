@@ -4,7 +4,7 @@ excerpt: "Solved: This Report Contains Global Retail Store -Sales Analysis detai
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Global-Retail-Store-Sales-Dashboard/m-p/317488
 type: download
 publishedDateTime: 2017-12-05T05:05:00Z
-heat: 55
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiY2YzY2YwNjctMTY1My00ODk2LWE1MmMtZWViNDk2MTdkNjFlIiwidCI6ImQ3OWRhMmU5LWQwM2EtNDcwNy05ZGE3LTY3YTM0YWM2NDY1YyIsImMiOjEwfQ\"></iframe>"
 

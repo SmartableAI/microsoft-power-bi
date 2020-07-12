@@ -4,7 +4,7 @@ excerpt: "The Microsoft Office team recently partnered with Levo, a network for 
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Mastering-Your-Productivity-in-2017-Survey-by-Levo-and-Microsoft/m-p/115410
 type: download
 publishedDateTime: 2017-01-18T12:03:00Z
-heat: 60
+heat: 61
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZDZlYmM1ZTQtYTBkZi00OGYzLThiNmUtMDU5Nzc0NDVjNTIyIiwidCI6IjNkODE4OGM4LTc3NTgtNDYzYy1iYjNmLTBlMTYwZGUzMzYwZiIsImMiOjN9\"></iframe>"
 

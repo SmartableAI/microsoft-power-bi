@@ -4,7 +4,7 @@ excerpt: "This is the report that we presented at the Gartner Data and Analytics
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Power-BI-Gartner-Bakeoff-entry-Opioid-Gallery/m-p/377969
 type: download
 publishedDateTime: 2018-03-16T11:53:00Z
-heat: 65
+heat: 68
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZTc3ZjNjNDUtM2M4Ni00ZDg2LTgxYTktMDJkMmRiN2VlYjM1IiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9\"></iframe>"
 

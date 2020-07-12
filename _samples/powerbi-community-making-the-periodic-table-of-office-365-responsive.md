@@ -4,7 +4,7 @@ excerpt: "Office 365 is a truly remarkable success story, but it is often diffic
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Making-the-Periodic-Table-of-Office-365-responsive/m-p/248233
 type: download
 publishedDateTime: 2017-09-08T05:42:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiODU0MTM4MDktZjliOC00YjhjLTkxYTMtNjhkYjk3MzNhYzY3IiwidCI6ImMxZDRhOGUyLWRmYmUtNDJjYS05Mjg5LTA5YzU5NGM3NjQzYiIsImMiOjh9\"></iframe>"
 

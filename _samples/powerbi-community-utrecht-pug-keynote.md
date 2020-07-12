@@ -4,7 +4,7 @@ excerpt: "The &amp;quot;slides&amp;quot; from the Utrecht PUG Keynote"
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Utrecht-PUG-Keynote/m-p/658074
 type: download
 publishedDateTime: 2019-03-29T23:36:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYWE4YTdhMjctZDliMC00ZTM2LTliNWYtYjFlYzllYzkwNjhkIiwidCI6ImZkMTI5OGJlLWMwOWYtNDM0OS05NmU4LWJkMDk3MjEwZTI3NCIsImMiOjF9\"></iframe>"
 

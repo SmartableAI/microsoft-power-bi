@@ -4,7 +4,7 @@ excerpt: "Here is a new take on delivering insights related to the Retail Indust
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Retail-Data-Stories/m-p/811497
 type: download
 publishedDateTime: 2019-10-07T09:08:00Z
-heat: 51
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNTUxNGYyMzktNDk1MC00MmYyLWE2NWEtMGMxZDMwMjUxODdkIiwidCI6ImJiNDY2Y2JiLTYyMWMtNDkzYi04Mzc0LTZjOGYyNmRjNmExOCIsImMiOjEwfQ%3D%3D\"></iframe>"
 

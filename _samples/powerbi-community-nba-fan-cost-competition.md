@@ -4,7 +4,7 @@ excerpt: "This visual was created using a hack on the scatterplot. I actually ha
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/NBA-Fan-Cost-Competition/m-p/208284
 type: download
 publishedDateTime: 2017-07-08T11:31:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNGIxMTNlNjgtMjRjNi00OTUxLWI3YTktYTUxYjNkYmE2NzE2IiwidCI6IjBmZmM3NzMyLTNkYWYtNDJhNC1iN2Y4LWRhMzhlNzE1YTgyOCIsImMiOjF9\"></iframe>"
 

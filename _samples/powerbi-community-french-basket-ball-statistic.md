@@ -4,7 +4,7 @@ excerpt: "French Basket Ball Statistic (Ligue 2 Féminine, National 1 Masculine 
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/French-Basket-Ball-Statistic/m-p/788492
 type: download
 publishedDateTime: 2019-09-10T09:01:00Z
-heat: 55
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDViMTQyYmQtZTViOC00MGI1LWFkOTItM2QyOGE3MTViNzkyIiwidCI6IjE3MmFhY2FmLTM1YTUtNDZiMy05Y2FjLTY5OGM1N2M5NDM5YiIsImMiOjh9\"></iframe>"
 

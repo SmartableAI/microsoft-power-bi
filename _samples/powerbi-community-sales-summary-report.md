@@ -4,7 +4,7 @@ excerpt: "Inspired by different ideas from the community, prepared using the glo
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Sales-Summary-Report/m-p/784905
 type: download
 publishedDateTime: 2019-09-05T09:42:00Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMmIwODI0NzUtYzNlMS00ZjZkLTgwYmYtYTU3MjZkZDdiNDcwIiwidCI6IjNlMDlkOWNlLWIxYmYtNDRkYS05Y2Q4LTc1YzRhNTJhOGI0MSJ9\"></iframe>"
 

@@ -4,7 +4,7 @@ excerpt: "Introduction With the Easter holidays fast approaching, we wanted to d
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Easter-Bunny-Hunt/m-p/378883
 type: download
 publishedDateTime: 2018-03-19T04:47:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOTg5Y2JkNGUtMWQ0NC00ZGRkLWE0NmMtODZmNjNkMGU2ZWFiIiwidCI6IjA5NzNiODUxLTQ1MDItNDVjZi04NWQ3LTg0ODdmZWU2OTI5OSIsImMiOjF9\"></iframe>"
 

@@ -4,7 +4,7 @@ excerpt: "Reporte de Rutas de Entrega"
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Rutas-Entrega/m-p/431702
 type: download
 publishedDateTime: 2018-06-04T11:09:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjcxOWQzY2EtY2VkMy00NDU4LWFhMDUtMjliMjBlYzEwZGI5IiwidCI6ImYyMmFlZDcyLTc1YmMtNDI2YS1hOGQzLTFiYTgyNmY0ODI4MSIsImMiOjR9\"></iframe>"
 

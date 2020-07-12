@@ -4,7 +4,7 @@ excerpt: "The r eport tracks Covid 19 progression and provides summarized view o
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Tracking-Coronavirus-Outbreak/m-p/1093073
 type: download
 publishedDateTime: 2020-05-17T04:31:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDc4NzlhYzktN2JlNy00YTljLWFjNjEtZDZlOTE2ZTUzY2E2IiwidCI6IjQ2ZTU2MmVlLWFiNGUtNGYxYi1iOWUyLWM4NDUzN2RkNTYwOCJ9\"></iframe>"
 

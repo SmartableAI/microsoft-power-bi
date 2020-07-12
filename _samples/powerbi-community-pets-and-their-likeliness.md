@@ -4,7 +4,7 @@ excerpt: "eyJrIjoiMzZjNmIyMzMtYTJlYy00NDM1LWJjZjQtYmU2Nzk1OWY0YmQzIiwidCI6IjNlMD
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Pets-and-their-likeliness/m-p/789899
 type: download
 publishedDateTime: 2019-09-11T15:04:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMzZjNmIyMzMtYTJlYy00NDM1LWJjZjQtYmU2Nzk1OWY0YmQzIiwidCI6IjNlMDlkOWNlLWIxYmYtNDRkYS05Y2Q4LTc1YzRhNTJhOGI0MSJ9\"></iframe>"
 

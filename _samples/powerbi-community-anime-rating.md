@@ -4,7 +4,7 @@ excerpt: "Inspired by the report: https://community.powerbi.com/t5/Data-Stories-
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Anime-Rating/m-p/252271
 type: download
 publishedDateTime: 2017-09-14T14:12:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiODg5ODc1YmUtYzM1ZC00MGZkLTlmYWEtZmJmMTc2OGY0OWMxIiwidCI6IjAyMTJmZDNkLWQ1ZGYtNGVkNy05NzYyLTQ5ZGRmZDQ1ZGM1MCIsImMiOjZ9\"></iframe>"
 

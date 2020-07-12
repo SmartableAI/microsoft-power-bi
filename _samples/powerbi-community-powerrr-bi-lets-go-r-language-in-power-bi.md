@@ -4,7 +4,7 @@ excerpt: "All in this report is made with the language R : - data import by * we
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/PoweRRR-BI-let-s-go-R-language-in-Power-BI/m-p/261786
 type: download
 publishedDateTime: 2017-09-29T10:35:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDkwYWY0NjctNTEwNy00YWNjLWI0NWItMmJlNmNhZjMxNWEzIiwidCI6IjgwYTQ5ZGJjLTAwOTUtNDEzZi1hY2NiLTJhODI5MTFjMzYxZCIsImMiOjh9\"></iframe>"
 

@@ -4,7 +4,7 @@ excerpt: "Tracking sales activities in a spreadsheet has become commonplace. Oft
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Sales-Dashboard/m-p/484507
 type: download
 publishedDateTime: 2018-08-08T16:32:00Z
-heat: 54
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZTFkNTBjZDktZDA4MC00NGRiLWIyNjYtOTAzZTQ0YWM4ZGI0IiwidCI6IjI0ZGNkNzRiLTc3ZWYtNGY3My05ODM2LTNkN2Y0ZmY2NTkwOSJ9\"></iframe>"
 

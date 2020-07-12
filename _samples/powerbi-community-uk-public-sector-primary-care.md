@@ -4,7 +4,7 @@ excerpt: "This Power BI demonstration is provided as an example of how a UK prim
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/UK-Public-Sector-Primary-Care/m-p/120381
 type: download
 publishedDateTime: 2017-01-30T10:45:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYmVmMWI2MzUtZWQxMy00MDg1LTk5NTYtOTM4NzE0OGVkNzg5IiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9\"></iframe>"
 

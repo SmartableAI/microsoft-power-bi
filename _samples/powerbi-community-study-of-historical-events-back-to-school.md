@@ -4,7 +4,7 @@ excerpt: "Hi All This dashboard is developed by 12 to 13 year old kids whose nam
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Study-of-Historical-Events-Back-to-School/m-p/786138
 type: download
 publishedDateTime: 2019-09-06T22:36:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNDZkZTRmYTgtZWMwZi00MThmLWE5MTYtZjdjMTkzNjcwNDA2IiwidCI6IjY2NzI4MWJkLTM3MTYtNGNiNS05Yzg2LTYzMjZkOWEzODVlNCJ9\"></iframe>"
 

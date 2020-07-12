@@ -4,7 +4,7 @@ excerpt: "Create your own personalized Twitter Analytics Dashboard in Power BI W
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Create-your-personalized-Twitter-Analytics-Dashboard-in-Power-BI/m-p/56778
 type: download
 publishedDateTime: 2016-08-08T22:45:00Z
-heat: 53
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZDE3NTU1OTMtOGY3ZC00MjEwLWFiNjEtZDFkNTc4NDc3YjVmIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 522
     isCached: true
 
-secured: "mn46AJUqsyOLkyFAryclmT7aiglRrpmsUeL3CBR4Xr8UNWKnwd5B3nPfSL8iTu/wHeKQot/HtJhJ4K+o8heVA6ErsL2SjZjR0fKEavHSen3yM/WUAew4GuAF6lp/ePQZgtrXoRngqCY+qeeivWmz8dOyhwOwUa8UeHl+1iQ9Vk1MRcsK5aKQ+Q6y5oS5MHuvYtAxbzd9aSfVERRMgIqnTPIPCnbTy8OhU0Vn0OdPtlne3ymdQNCW27nG95wE7Zd4PBXKd/ZSE/crdISkfU8I497G+AqorM0yN+ofQMf4Zd4bU+O26ezsLjutavb6OK3sHiyw4uswC9NbpVg7GQSDKO3XCSDwIs/LkRRbojPZ+Z+yMWymzCt8h7bq6Q25lESp+uYRIFIQWuI0kauLU8oF5GdFczfLo6VriMG7FXpepys=;gkgWVBfzKBCLEKmlkolv1g=="
+secured: "nm0ptibgAsYxsAsF9tmsnat7i02Uq9DiWoUjRTisWFqBlEDjYXaGApyxsRAEYkMiiMRMGNXwnuDXLrQrTwcrTmCSvzwLR9JuoFdLgIjhtHXJQusdmxkqOWpOpJCVYKLhuTFLR4yGUqHu4O9Wsa+xVH7Q0+DL3Mwu/pBaUOnXdxMwixTuEz+4MZdJ755ipmIFTms/4qCuGEhS7a3IiTHp6yIMbjpLI7aXHuoSOchv4LJTkvAL8HZSyy8PEtHibh7+2nLuzhGkadn6yWq5JMPvvPH4xe2T3VfmvIYsJ8lGWQKGvdvSRBchRjRoH09OmYix+dBndaajZdOxk6ZAZE//+RRru1NfvixMAtRD+lHnsTR5iMKgKe2KehrPqYA/liiUa9LT3BPR0ni0hdCJ0XZNaLVM0PbVWvFuPA6PKw7kT2c=;sNs3di9tDRcL1/Ed1n09qA=="
 ---
 

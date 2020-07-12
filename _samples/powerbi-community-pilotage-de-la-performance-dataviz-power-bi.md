@@ -4,7 +4,7 @@ excerpt: "O util de suivi de projet basé sur l'expérience utilisateur permetta
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Pilotage-de-la-performance-Dataviz-Power-BI/m-p/249482
 type: download
 publishedDateTime: 2017-09-11T11:51:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOGUwOGMwNGUtNTcwMi00YTg1LTljZDUtMDc3MzA0Mzg2YTI2IiwidCI6IjhlYmE3MDI4LWE0MzAtNDRlYi05YmIwLWE3MzMyY2U3NGJiNCIsImMiOjh9\"></iframe>"
 

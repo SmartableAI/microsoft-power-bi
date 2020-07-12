@@ -4,7 +4,7 @@ excerpt: "EWEN’s DCTP (Data Center Thermal Profiler) uses PowerBI to present 2
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Data-Center-Thermal-Profiler/m-p/141361
 type: download
 publishedDateTime: 2017-03-13T03:15:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMzY0NmQ2ZjUtOGI2NC00MjY1LThmMGItMTZhOWY5OTAyYjFlIiwidCI6ImUwNDdmNTRkLTQyZDctNDYyOS1iYmI2LWY5ZjFhMzAzZmFhYyIsImMiOjh9\"></iframe>"
 

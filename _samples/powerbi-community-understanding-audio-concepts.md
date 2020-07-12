@@ -4,7 +4,7 @@ excerpt: "I got the idea of &amp;quot;visualizing&amp;quot; a song with PBI whil
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Understanding-Audio-Concepts/m-p/704891
 type: download
 publishedDateTime: 2019-06-01T05:46:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjc4MWU4MjEtNGUzNS00OTI4LTkwYWUtY2VlODVhODY0YTlhIiwidCI6IjVlMTk5ZjVjLTYyYjItNDFiMS1hMjgxLTMxNWQzMWRmM2NlYiIsImMiOjJ9\"></iframe>"
 

@@ -4,7 +4,7 @@ excerpt: "With the recent release of Gartner's Magic Quadrant for Analytics and 
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/3-Year-Analysis-of-Gartner-Magic-Quadrant-Leaders-for-Analytics/m-p/623702
 type: download
 publishedDateTime: 2019-02-14T10:25:00Z
-heat: 52
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNmVjMzk2NTctN2FkZS00NzUzLThhMWUtZjZmODE5MDY4MWZjIiwidCI6IjRhMDQyNzQzLTM3M2EtNDNkMi04MjdiLTAwM2Y0YzdiYTFlNSIsImMiOjN9\"></iframe>"
 

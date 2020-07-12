@@ -4,7 +4,7 @@ excerpt: "The Airport Authority Performance Dashboard provides a quick snapshot 
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Airport-Authority-Performance-Summary/m-p/628963
 type: download
 publishedDateTime: 2019-02-21T07:25:00Z
-heat: 196
+heat: 232
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjgwMzFhN2YtMzA4Yy00NzE2LTkxMDAtZDM1OTNiN2YzODcxIiwidCI6IjA0ZWM2MTA5LTRjNzktNGM3My1hZTcxLWE0NzRjMDlhMWY1YSJ9\"></iframe>"
 

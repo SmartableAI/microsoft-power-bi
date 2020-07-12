@@ -4,7 +4,7 @@ excerpt: "Here is a report I've created over the popular Adventureworks database
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Adventure-Works-Overview-Report/m-p/173862
 type: download
 publishedDateTime: 2017-05-11T02:40:00Z
-heat: 55
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiY2NkNWYxOTUtOGYyZC00OTAzLThmNjMtNzkzN2M3OGI2NmZjIiwidCI6IjY4ZWVjZjcyLWQwOTEtNDI5OS05YmM2LTg2ZjMyNzgwZDdiMiIsImMiOjh9\"></iframe>"
 

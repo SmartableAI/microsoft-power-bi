@@ -4,7 +4,7 @@ excerpt: "Hi All This dashboard is developed by 12 to 15 year old kids whose nam
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Road-Safety-Back-to-School/m-p/785683
 type: download
 publishedDateTime: 2019-09-06T05:18:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYWM4NGFhYjktY2JlZS00Y2FjLWI5ZjUtZTM4MzY4NzgyNTgxIiwidCI6IjY2NzI4MWJkLTM3MTYtNGNiNS05Yzg2LTYzMjZkOWEzODVlNCJ9\"></iframe>"
 

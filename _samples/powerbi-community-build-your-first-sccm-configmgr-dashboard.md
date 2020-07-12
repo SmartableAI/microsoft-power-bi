@@ -4,7 +4,7 @@ excerpt: "As part of my &amp;quot; Power BI - 12 Days of Dashboards &amp;quot; s
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Build-your-first-SCCM-ConfigMgr-Dashboard/m-p/105331
 type: download
 publishedDateTime: 2016-12-21T22:33:00Z
-heat: 51
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDZhZjdiNjQtZTg4OC00OWI1LTk1NDgtM2U4NjQ0ZTljMDBkIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9\"></iframe>"
 

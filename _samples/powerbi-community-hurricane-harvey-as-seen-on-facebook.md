@@ -4,7 +4,7 @@ excerpt: "When Harvey started, many people and organizations used Facebook to ca
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Hurricane-Harvey-As-Seen-on-Facebook/m-p/246029
 type: download
 publishedDateTime: 2017-09-05T11:11:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMmQzM2M0MjMtMDVjYy00YTU3LTkyYjQtMGUzMTZjOTE3MzIxIiwidCI6IjIyNzNjNDFiLWI4ZDAtNDVhZi1iZWU2LWUwODQ5NmFlNjcxOCIsImMiOjN9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 1351
     isCached: true
 
-secured: "cTiZAXq+DvVEfM+Fmgi9Zk0KuKrx7D8s+MF9yyTIBP7kR4aEO+tPXxi6NqHGLs2fyjAu3YY3xKK1K6kjWQPvpzo9HGkc+9JBJ93TEiu4BhQmFqaXzPzO1a9La7lc7+o0pJvdEsPbfPtksj4VfmTxddug80bgnhcS4ut9K0SZ1Qf6s256WCk/DujBgcXKQ2zh9Yy5RDh4ojHdjFbbZf4Vq/9pmOmgzYNm5tRPBtOopFnUMolDSlN3X0DB53DuHoOE8hFxRdy3y97gey14peBY0j+3/KLH5sTOQu3PYmZUGrsDRy1IYHkW/GMvSwsZfXqelPSLVVAca6jNJxXZVs4c/PBTL0x0PkxF3jWRXse/IUUEtJtakZyvq70laCudb84aivkjYs0WH/3rxgqJYfOIDg==;3R/QgD5Ls0KVcTz7081pIA=="
+secured: "k2sZjPh8VLbfBTmnUnWiF6/LQCEvVWxg+ni8tVAuNqkqdYC+kCbqNxPOJLFrfHff7pTYLtE26p1qYyOACp7dZh69EodzEAMf1J2DZg5QIXHSf0Yb3rO+B7Iaf0+Ry+SC1a65qiXAjgC5MYVdXveEF+MDfY/6EhMvVx4/mtTcLpz4fXW7nd7pBkfwk0Nc3u5FCg7vesLroUcdfFWzWVOwKOMLJ1M91tHJyi5R83IM8gUwwE9kS4Eq4r4cqf2Ie8JYM/qS+a/yqxvAHloxTGU5txaq+BAlbqEv4rbUESrasXG8KUbXZ5XliwlfbLPzXPefQrQKOR0dNQcH2EkucYfnXQw7SxOeFjspOXCgCDNRD27dOfMkfumpwvmlsq/gjTuqXOI1iIA0dZxHGOX0ujcdnA==;Hb82An738eR1pwBnKzrQGQ=="
 ---
 

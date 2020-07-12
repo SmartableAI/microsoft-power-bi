@@ -4,7 +4,7 @@ excerpt: "Hello, A news I followed a lot in 2017 was the cryptocurrency market. 
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/CryptoCurrencies-2017-Year-in-a-Review-2017/m-p/346217
 type: download
 publishedDateTime: 2018-01-26T10:17:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMTViOTRhZGEtYTFlNy00YjcwLWIyN2ItOWMxZDlhZmE4MjdiIiwidCI6IjRlZDQ3ZWQ5LTY1NzQtNDNmYy1hZTZjLWY3MWI0ZGRmYzI4YyIsImMiOjN9\"></iframe>"
 

@@ -4,7 +4,7 @@ excerpt: "The Ironman World Championship has been held annually in Hawaii since 
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Ironman-World-Championship-Makeover-Monday-Week-42/m-p/817973
 type: download
 publishedDateTime: 2019-10-14T23:09:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYTRiZTRkZTEtNDJjMS00NGJhLTg3OGItZjgyNzFjZDU1ZWJhIiwidCI6IjgxNzdmMWQzLWU2NTAtNDAxNS1iNzdhLTY4MjUxODQwMzRiNyJ9\"></iframe>"
 

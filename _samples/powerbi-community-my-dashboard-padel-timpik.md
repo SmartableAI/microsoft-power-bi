@@ -4,7 +4,7 @@ excerpt: "This is my Personal Dashboard of Padel with Timpik platform. My first 
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/My-Dashboard-Padel-Timpik/m-p/55629
 type: download
 publishedDateTime: 2016-08-04T03:02:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDhhNGM1MzMtZWFhYy00ZGViLWFiY2ItYWEzZGYzN2M5NjYzIiwidCI6IjQ5MmY4MjJjLTEyMjktNGMyYi04OWE3LTY1YjI2NDZhMzhjZCIsImMiOjh9\"></iframe>"
 

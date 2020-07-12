@@ -4,7 +4,7 @@ excerpt: "This Power BI App compares the three big 7th generation Video Game Con
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/7th-Generation-Video-Games-Power-BI-App/m-p/73543
 type: download
 publishedDateTime: 2016-09-30T00:14:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMjU1NTM3OTUtYzRjMC00MGUwLTkxYzgtNWZhNzBjNzE0MDQ0IiwidCI6IjU0MWQ0ZDFkLTcxOGUtNDE1NC1hNTcxLTk3N2YwN2VkMmVmMCIsImMiOjh9\"></iframe>"
 

@@ -4,7 +4,7 @@ excerpt: "I got really excited about this visual and wanted to see all faces. Th
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Comicgen-visual-all-comic-pics-preview/m-p/1078750
 type: download
 publishedDateTime: 2020-05-07T01:54:00Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZjkyNDAwNTctYmZhMy00ZmU4LWE0ZDMtOTkwYzIzNTE1Y2UxIiwidCI6ImJjODFhOWVhLWVjYjYtNGE3Ny1iNjg0LTUzZDFkN2FjZDQxNCJ9\"></iframe>"
 

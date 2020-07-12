@@ -4,7 +4,7 @@ excerpt: "Here is a dashboard of the SQL Saturday sessions from around the world
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Pass-SQLSaturday-Dashboard/m-p/489529
 type: download
 publishedDateTime: 2018-08-14T10:13:00Z
-heat: 53
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMjY0MTk3ZDctZmI3YS00ZWI4LTgyNGYtNDkzZWRhZTM4ZmZiIiwidCI6ImEwYTcyYzIzLTdlMWEtNGYxOC05NDU4LTlhNzUyYTEzMTg1NCJ9\"></iframe>"
 

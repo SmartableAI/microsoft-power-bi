@@ -4,7 +4,7 @@ excerpt: "Hi! This is a tool for underwriters and finance department. This helps
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/The-best-solution-for-insurance-companies/m-p/409839
 type: download
 publishedDateTime: 2018-05-03T03:45:00Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZDQzYjg0OGItYjFjNC00OTE5LThhODAtOWVmZDdlYjJmYzM1IiwidCI6IjJkNzIwNGFjLWMxNDEtNDc3MC1iZGIxLTQ2ZDQ1OTQxNDYyYiIsImMiOjF9\"></iframe>"
 

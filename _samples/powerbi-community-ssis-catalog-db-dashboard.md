@@ -4,7 +4,7 @@ excerpt: "Hi, This is not so much a Data Story but a template for a dashboard fo
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/SSIS-Catalog-DB-Dashboard/m-p/244677
 type: download
 publishedDateTime: 2017-09-03T13:21:00Z
-heat: 66
+heat: 71
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZDM0N2NmMjMtZmE2NS00MDE1LWJkOWQtZmFmZmZkMzI4ZDBkIiwidCI6ImEwYTcyYzIzLTdlMWEtNGYxOC05NDU4LTlhNzUyYTEzMTg1NCJ9\"></iframe>"
 

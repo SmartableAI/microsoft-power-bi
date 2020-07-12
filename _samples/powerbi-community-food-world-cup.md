@@ -4,7 +4,7 @@ excerpt: "World Wide food rating analysis is done with world wide respondants wh
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Food-World-Cup/m-p/1182608
 type: download
 publishedDateTime: 2020-06-25T06:52:00Z
-heat: 54
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMTU0ODllMmEtZjlkYi00ZmE4LTlmMzktZGU3NzdiOWUzNDQ2IiwidCI6Ijg0MmU0ZTBlLTFjNjMtNDE0Ny1iNWJjLTJiOGJhZWQyZjk5OCJ9\"></iframe>"
 

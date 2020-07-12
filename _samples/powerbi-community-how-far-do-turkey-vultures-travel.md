@@ -4,7 +4,7 @@ excerpt: "First time creating a marginal histogram in PBI. I wrote about the pro
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/How-far-do-turkey-vultures-travel/m-p/343737
 type: download
 publishedDateTime: 2018-01-23T08:40:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMzU3OWQ3NTktOWU5My00ZDg5LWJiM2ItMWFlODZjYzVmNmQ0IiwidCI6ImNlZjk5OTUzLWM0OTYtNGE4MS1iMDYxLTNlYmU1ODRjY2ZjYyIsImMiOjh9\"></iframe>"
 
