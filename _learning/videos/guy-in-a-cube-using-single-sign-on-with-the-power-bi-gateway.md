@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT12M46S
 publishedDateTime: 2020-03-26T15:00:41Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6gDZBC-UV_w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Using Single Sign-on with the Power BI Gateway"
 
-secured: "UVDkty9km3mWLuL926g5GHXDo2QHbQV3wX0/BfGmIYmP6zIUOUd5ZJKolHTyTYoK/yozJdjQ8K1nv2FgiSqbWPrk/a0rpGyktnmywa93ZBUEJRQ02uoLnnl7ntyNr8H8q7ZD8jG4ku/i1sYV2Cr4V6Q0qwpYQamZkOroo3MyKSObMExS4LODb6cPErG82GD3ydWXC3xfuOFzpMyeUa9Wox79nk6oqm9rBC3lb96uBTpb9FxKy2IaW8wO1S7rn20lhI6MnhtiHIUOkoIBvniui+sYa4NRaHLxzgIQTlt2teqf8qWCEwiZYXLqWBtod0Z2M9FXkX0BFjiy2TEoKKvsOardTBoS6uk3AsDHl6yVaSEKpCJx1/VCQ6MiM8zM3M4SqtoUZtzLFC72/7Th1v7n+A==;QV64/81Ug49oB5VarsO/Yw=="
+secured: "AQxKF2+t1Lvnhl/UlJB3SpzcbsrQsH+x5w8DfCXC0Ix0XZdGrRq1CXyIwYy2Eju+FILsXdKgpsryr9K7IZUXfFq2xAfeJHUmpZVzmoHlNFA+BdeERdyO4+wsY3+kSA58aCxSK/RFxszfgNZFtQ1TIEznSgGRQK++Q7kHK9zqAfuzS0IeqWZV5aGNVSjZce1GSIi48fhobvTY729S6C0/aVLszEdVbdv9gCmrEOFiafoEX4xRIQ3w1nE/RAMt86ytgJC+UEKimD44N2l5n3Cw/YaAbUYgo/9fr8awVfPsvS40pWPV3C4m5a/q5TRgNgEklkktlSvKeEpKE5+MS/JuSWDYgc/Dn4Tp5ao+BzdMnFe8BzR0AEnBF7MFknhOOdQIC2HUOLACs/lxSB1a25FN4Q==;8UN2XZZB0v37oZOdjyL17w=="
 ---
 
