@@ -19,12 +19,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform/</loc>
-    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-incremental-refresh-with-integers-in-power-bi/</loc>
     <lastmod>2020-07-08T08:00:17-07:00</lastmod>
     <changefreq>daily</changefreq>
@@ -37,7 +31,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/</loc>
+    <loc>https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform/</loc>
     <lastmod>2020-07-13T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
@@ -55,13 +49,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/</loc>
-    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/</loc>
+    <loc>https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/</loc>
     <lastmod>2020-07-13T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
@@ -69,6 +57,18 @@
   <url>
     <loc>https://smartable.ai/apps/powerbi/learning/learn-power-bi-connect-power-bi-to-sharepoint-list-sharepoint-folder-sharepoint-excel-file-/</loc>
     <lastmod>2019-10-23T09:00:08-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://docs.microsoft.com/en-us/learn/modules/get-data/</loc>
+    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/</loc>
+    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -97,18 +97,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://docs.microsoft.com/en-us/learn/modules/build-simple-dashboard/</loc>
-    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://docs.microsoft.com/en-us/learn/modules/get-data/</loc>
-    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-can-we-have-animated-power-bi-visuals/</loc>
     <lastmod>2020-05-26T08:00:09-07:00</lastmod>
     <changefreq>daily</changefreq>
@@ -127,13 +115,19 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/</loc>
+    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-replay-power-bi-tips-from-the-pros-live-hangout-may-23-2020/</loc>
     <lastmod>2020-05-23T08:37:49-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://docs.microsoft.com/en-us/learn/modules/explore-data-power-bi/</loc>
+    <loc>https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/</loc>
     <lastmod>2020-07-13T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
@@ -151,7 +145,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/</loc>
+    <loc>https://docs.microsoft.com/en-us/learn/modules/build-simple-dashboard/</loc>
     <lastmod>2020-07-13T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
@@ -182,24 +176,6 @@
   </url>
   <url>
     <loc>https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/</loc>
-    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/</loc>
-    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://docs.microsoft.com/en-us/learn/modules/publish-share-power-bi/</loc>
-    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/</loc>
     <lastmod>2020-07-13T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
@@ -253,7 +229,19 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/</loc>
+    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/</loc>
+    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/</loc>
     <lastmod>2020-07-13T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
@@ -295,6 +283,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://docs.microsoft.com/en-us/learn/modules/publish-share-power-bi/</loc>
+    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-measures-vs-calculated-columns-15-ultimate-beginners-guide-to-dax-2020/</loc>
     <lastmod>2020-05-01T02:36:30-07:00</lastmod>
     <changefreq>daily</changefreq>
@@ -326,6 +320,12 @@
   </url>
   <url>
     <loc>https://docs.microsoft.com/en-us/learn/modules/connect-analyze-dynamics-365-data/</loc>
+    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://docs.microsoft.com/en-us/learn/modules/explore-data-power-bi/</loc>
     <lastmod>2020-07-13T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
@@ -649,6 +649,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://docs.microsoft.com/en-us/learn/modules/build-your-first-power-bi-report/</loc>
+    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/</loc>
     <lastmod>2020-07-13T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
@@ -656,6 +662,12 @@
   </url>
   <url>
     <loc>https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/</loc>
+    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://docs.microsoft.com/en-us/learn/modules/intro-to-power-platform-mba/</loc>
     <lastmod>2020-07-13T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
@@ -847,13 +859,13 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://docs.microsoft.com/en-us/learn/modules/create-dashboards-power-bi/</loc>
+    <loc>https://docs.microsoft.com/en-us/learn/modules/becoming-solution-architect/</loc>
     <lastmod>2020-07-13T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://docs.microsoft.com/en-us/learn/modules/intro-to-power-platform-mba/</loc>
+    <loc>https://docs.microsoft.com/en-us/learn/modules/create-dashboards-power-bi/</loc>
     <lastmod>2020-07-13T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
@@ -1141,19 +1153,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://docs.microsoft.com/en-us/learn/modules/becoming-solution-architect/</loc>
-    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://docs.microsoft.com/en-us/learn/modules/build-ml-model-with-azure-stream-analytics/</loc>
-    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://docs.microsoft.com/en-us/learn/modules/build-your-first-power-bi-report/</loc>
     <lastmod>2020-07-13T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>

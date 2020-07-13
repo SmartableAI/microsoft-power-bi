@@ -8,7 +8,7 @@ length: PT1H16M
 ratings:
   count: 3183
   average: 4.7540054
-heat: 59
+heat: 57
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Use visuals in Power BI"
 
-secured: "FcNWcW3E013NOIjTVeBwjAxA5WICNbIdaCXKKEzhpaojIqi5c4wx3eOdM35pCsDlBetI9g03uvVmhWjxQkKqMAA60mV9Vh8az0bBfHyoantvQwk67xqQ4Z8iQ09ta2zZvqTcnFATtf+yshOqqCCwPu0O4khIMxitL34D1UZ+2G2RKkUZjR53oL3sCTvLtmBCbxtxqpT32NpAo8HnUToxSi0RCYFPRPbJg60p6WPFyVl/kQOqPMy21HfHd7+CILlu8aC0hSQdLhVGskrNEcV17+/PEtswze+KBU3iLv/rJdQ7XQ47Vhw2S3evHUyWG/C3VRqTbXqm+j9P6O1tkpI+hT8QFQxAatRDKm2p0Ecngr+tTNUVRPMPgi52IeRPwzxlYvDb36sNnBt4nN3SbuRoVA==;Ub4mrPzO8OMsYLggG822TQ=="
+secured: "8d0HCHz9iPvWcXoikQVcIzp742XxCoV/UH99qtfZzRugsYLvfjgE/FMuBdOQC2LgqXDi+s9YmMYZq2hQVTYuUudv+den/jnC28y79sWKbxr1sM9oH28mjmoaKZNTI5wAMN+guhoOx93KOOFtrWQS5J5lLscJ8Tv+uKToxYCs13xhHYV5zlK6WSs37yJXDtcT/mzMwqFle3PZraEsxHJCas7zarehSreUp8ykhx9wsRvGCuhHOJKEiSrylfrRFooUg7/ku/QRfZUWdz+Pr0cMl4JVuV89bhx+pCe0cmOGya3JyAUJYWJAJBA9yEhBklbWdBXNJaV6kHyg82jCmRDYS58sP4okuJQFAZ78H+HbMHajNNFeNnU04Yfrz1NvLulbn/Y0eNYtlj/DDWyEUyVNAA==;9Q9NDJ/uuzd6vSNdYNlBDA=="
 ---
 
