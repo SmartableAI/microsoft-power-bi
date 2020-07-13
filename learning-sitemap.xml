@@ -31,12 +31,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://docs.microsoft.com/en-us/learn/modules/connect-analyze-dynamics-365-data/</loc>
-    <lastmod>2020-07-06T00:00:00-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/</loc>
     <lastmod>2020-07-06T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
@@ -303,6 +297,12 @@
   <url>
     <loc>https://smartable.ai/apps/powerbi/learning/microsoft-power-bi-paginated-reports-in-a-day-03-power-bi-reporting-part-2/</loc>
     <lastmod>2020-03-17T21:01:08-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://docs.microsoft.com/en-us/learn/modules/connect-analyze-dynamics-365-data/</loc>
+    <lastmod>2020-07-06T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
