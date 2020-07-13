@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/85965-master-big-data-microsoft-po
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85965-master-big-data-microsoft-power-bi-training-bundle.html"
 type: article
 quality: 93
-heat: 94
+heat: 97
 published: true
 
 provider:
