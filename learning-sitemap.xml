@@ -91,12 +91,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-replay-power-bi-tips-from-the-pros-live-hangout-may-30-2020/</loc>
-    <lastmod>2020-05-30T08:42:36-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-can-we-have-animated-power-bi-visuals/</loc>
     <lastmod>2020-05-26T08:00:09-07:00</lastmod>
     <changefreq>daily</changefreq>
@@ -121,12 +115,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-replay-power-bi-tips-from-the-pros-live-hangout-may-23-2020/</loc>
-    <lastmod>2020-05-23T08:37:49-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/</loc>
     <lastmod>2020-07-13T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
@@ -135,12 +123,6 @@
   <url>
     <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-embed-a-dashboard-from-power-bi-into-your-application/</loc>
     <lastmod>2017-02-28T16:37:16-08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-replay-power-bi-tips-from-the-pros-live-hangout-may-16-2020/</loc>
-    <lastmod>2020-05-16T08:40:05-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -997,6 +979,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-replay-power-bi-tips-from-the-pros-live-hangout-may-23-2020/</loc>
+    <lastmod>2020-05-23T08:37:49-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-stop-refreshing-a-single-table-at-a-time-power-bi-desktop/</loc>
     <lastmod>2020-04-28T08:00:32-07:00</lastmod>
     <changefreq>daily</changefreq>
@@ -1455,6 +1443,18 @@
   <url>
     <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-replay-mbas-recap-with-bifocal/</loc>
     <lastmod>2020-05-06T17:19:33-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-replay-power-bi-tips-from-the-pros-live-hangout-may-16-2020/</loc>
+    <lastmod>2020-05-16T08:40:05-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-replay-power-bi-tips-from-the-pros-live-hangout-may-30-2020/</loc>
+    <lastmod>2020-05-30T08:42:36-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
