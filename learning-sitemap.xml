@@ -271,6 +271,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/</loc>
+    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-deployment-pipelines-give-you-more-control-power-bi-premium/</loc>
     <lastmod>2020-06-04T08:00:14-07:00</lastmod>
     <changefreq>daily</changefreq>
@@ -307,6 +313,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/</loc>
+    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-power-bi-apps-for-consumers/</loc>
     <lastmod>2019-08-11T04:58:47-07:00</lastmod>
     <changefreq>daily</changefreq>
@@ -337,19 +349,13 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/</loc>
+    <loc>https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/</loc>
     <lastmod>2020-07-13T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/</loc>
-    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/</loc>
     <lastmod>2020-07-13T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
@@ -529,6 +535,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://docs.microsoft.com/en-us/learn/modules/create-dashboards-power-bi/</loc>
+    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/</loc>
     <lastmod>2020-07-13T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
@@ -633,6 +645,12 @@
   <url>
     <loc>https://smartable.ai/apps/powerbi/learning/microsoft-power-bi-paginated-reports-in-a-day-09-retrieving-report-data-part-2/</loc>
     <lastmod>2020-03-17T21:05:57-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/</loc>
+    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -770,12 +788,6 @@
   </url>
   <url>
     <loc>https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/</loc>
-    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/</loc>
     <lastmod>2020-07-13T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
@@ -974,12 +986,6 @@
   </url>
   <url>
     <loc>https://docs.microsoft.com/en-us/learn/modules/becoming-solution-architect/</loc>
-    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://docs.microsoft.com/en-us/learn/modules/create-dashboards-power-bi/</loc>
     <lastmod>2020-07-13T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
@@ -1256,12 +1262,6 @@
   </url>
   <url>
     <loc>https://docs.microsoft.com/en-us/learn/modules/continuously-export-data-from-iot-central-power-bi/</loc>
-    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/</loc>
     <lastmod>2020-07-13T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
