@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT1H43M
 ratings:
-  count: 480
-  average: 4.7
-heat: 51
+  count: 481
+  average: 4.7006235
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Becoming a solution architect for Dynamics 365 and Power Platform"
 
-secured: "OIEYw35xoIKiF+3e9b9Tfb+7rveS8ol1Kgf5Jg+Mq35/68w5zz7jnuzZqvcpBEha4jbqBQlIzME5MyyEYiIMGzJ/QZ4WYC4O+LS4xc/OKSNQ8d/5HBIQHUEtTPVYqETkZIOkSao4eYT3spcm//1Zx9H6y7gX8Hn30ah3ZjtDhXTHFOGAHyvVQwQIGu1TvJ1U1sA6KsLyf9JSWjbGJTrqfi/fH80/tOVhw06B2a3BsEOViDBGFx30cryI5K22L+3T4YQ6mMZsTxPQ+yGaJ60hidTg8nqKWIS+SBSwSFDCtbsOdF3RMj1k122GflLhMiDn/cQJEf0ajn0vMDEGsNi2t/QWz+/D1IF7YWwSkyu3VgyDBzZEX/KRq9h9iztpSyfRyC5T9VpXLC64fkYM9Un0Ng==;61MVid4iDUq6m4BPV4i5Ug=="
+secured: "QT2TZVuvzUtnnf2P30WZOeFQFbIjH/3E6wm3rP2Rfwu3Y6m6UL7Jap/3K6r/mOjOeZv3fwQELVdXyfqH0wi6UmhD4uiRUIEaY45ZlhfDMe+ePtuYvH68BA7IXGzHYk9YC0QKfJBS5St0VhzNox/6243U2OeQYnd5oFTLBj/h0BJoNFXqADfnZ80RbMvB0b7IbnQSIrgwl/kwoe4zknfH+KJi7SOej39dOREoGOPc2mGqhxtoqoDz5N21K+mIKTsVKqi+oKdDfoWzGgv4tQ/xVp55wyD0XMeMuSIhzveBcs6eVivgJ+LQWYHh1adjpRDFy4TV88/zTWo5qysZd6w8DwTmv267k/qBBwmaUUT/0b8BvRBbk5sn2IREd0AZT4VldyEoPCeoeaooJmjWm3OlLw==;d+puINkxNNBES+KWYHLXTw=="
 ---
 

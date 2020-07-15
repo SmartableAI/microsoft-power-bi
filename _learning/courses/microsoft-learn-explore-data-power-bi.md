@@ -8,7 +8,7 @@ length: PT53M
 ratings:
   count: 2622
   average: 4.716247
-heat: 55
+heat: 59
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Explore data in Power BI"
 
-secured: "8itQhVfK0S/nWOVQLldVKTsO/gYQTm22do3SSAttkMfyolfn//pj1StqTrNR8FIe1YM+egQSrwyAFtGk/iX1JU5pH9g6WN0wr+nOgHlLZppwAmrzd3RXyx8dK31viUWGAYl+0DDglrVNXWmC6inDeQl7pJ245A53nkBNbcPS0Pgak6TQ2djbDn189xxz9eNiluIdIVYhVJfxgO+sjxcWqSqNfV0dSY/znIJenL3MSxKdoUSth33tjQYbgnA/ipHR1wHiVDkYp4MHcB0q6O7lZP775XOXeFOYYa7nOTz7/5NBm84XDOcEUP5wQgQ1fudo4FILIvyykSSLfjvySP1CF3MMqfRUZ5m4C0mOCKqNlJjvN+Lp0d+IzVxbmHoNxgeZtm7AkPbSUyGmbW/jzxoWlg==;2O0BmkSEmrd6a6cOpGoseA=="
+secured: "WhES+MRVi5TmEeJkv+6HIZCMHEY+fipkzJJUzEyqUj7+ejyeDKhtHhVG/nRpxRpnycLc4yMwLOVu7rd+y5tQ2fJeqCtPVsCc64hVKD9ZVsYG/R/a+pq8OGtwYU9yxnkHQdmefEKAyn13vYZs2aCnEiL9bJ3ZBZe7ix5tlj6jzzg3LO9n7JnNOqwOgnjeD+H+DcFgP2SWTKht2kGA/3X9nqFdt0EDxGJN4nO6iVORFvEJuhsIvUi1tS7gf2s38JDv53YDpiNVEpxIDOkGeQ+4K2vSDMR1tdnZLKzmMoIcbN5WSe4qq/7vbc9/97TzW3SQ+jU1hjCTIg9jb4vEyWV9k82rV2SW3ujtxsRuJCk0Yr2D//bdNffSZ3npqzFJngzqRHkBrxs1RacHTnmJMfXzBA==;744nTU8RG0qVaVylaZrDbA=="
 ---
 
