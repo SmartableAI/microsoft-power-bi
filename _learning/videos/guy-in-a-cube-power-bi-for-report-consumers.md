@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Power BI For Report Consumers"
 
-secured: "j8sPS+OqCEJzxeSqzDFjTLLCb/aiCsvVcJwOvL5ZSFTSrBLfMjGE2bffebqSzD11GgK5r41/ddsFOYRfuqnNMIqysANXIVb6eteC95syfKaxMn/JPV966gCHCvMFLNd8M7DXiIab1neHDEv/3x7iOwO+jLhw68ffgIpWvA7eZQZa99aDqsn05oVK34DQhmvKU0VYiRQjuvidL21v9rqZ4cLhDjvsvVvhJiq71LvSRT+oOmRo/2et+NHXj+PohcjjoWRS3On4IwpaNVkZ6L2ElL+NWZSGNWH2RQxCj6W3JezwxoaIm8Bj0l/IusUnIcZ/KwPdHfdJuoy2oE6/UsCKccX1eRWf3GB2/JtgFaOL9muSNRxPPu/qXUH1XdqAwo7qbrMa1HDB/U62wtbwS425ag==;vxOuNSD5uoGWtP/WEo/LnQ=="
+secured: "ABAJ2ZzCtiXiGOsj2l9tOIRrGgP4nc0E1pELN9ZjG3fy+X6qY/zVFYQzu0+IM/RjFgjAFcvsenG2OrSNeValfbE3YNgahdj8fDcilZKZWO4/Vc88ulIzRuQnJTPnZFwtjDhi3TOBGt/Dy/SFpuBSvJz88n57yu8V8xd4TYsXBR0RuPa9QTGjF/g3plzXSVTjRAQFlDpGquHrn4ZqeNo+F0ydBxfZsLy9JtSwGo/mUkK9/FpSF0xByvxJ+CdZGRQZ02N6FhX4I9Vx2MzwitIqbYvswhFhvoMzhNlm2yUAjspyEm+Sy83D0cByyf0cKTf2Wx9ZVBwax+mlFmkHYNwI1/KivGTcmgZwZ0BvdhztYOC0KWCBWfGwvh8Lvi5oLnKuGVNCWXew3fhnBY7zADg2hg==;cZDKS1n3O4xLmFJ044DrNg=="
 ---
 
