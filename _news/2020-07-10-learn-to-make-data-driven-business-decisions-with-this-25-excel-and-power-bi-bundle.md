@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/learn-to-make-data-driven-b
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/learn-to-make-data-driven-business-decisions-with-this-25-excel-and-power-bi-bundle/"
 type: article
 quality: 70
-heat: 71
+heat: 70
 published: true
 
 provider:
