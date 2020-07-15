@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.zdnet.com/article/this-excel-and-power-bi-course-bundle-is-95-off-learn-to-make-data-driven-business-decisions-for-just-25/</loc>
+    <lastmod>2020-07-15T06:56:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-july-2020-feature-summary/</loc>
+    <lastmod>2020-07-15T01:03:20-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://smartable.ai/apps/powerbi/news/2020-07-13-power-bi-roadmap-updates-roundup-july-13-2020/</loc>
     <lastmod>2020-07-13T08:00:15-07:00</lastmod>
     <changefreq>hourly</changefreq>
