@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/</loc>
-    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-conditional-navigation-is-an-insane-amazing-way-to-change-pages-in-power-bi-desktop/</loc>
+    <lastmod>2020-06-23T08:00:01-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-conditional-navigation-is-an-insane-amazing-way-to-change-pages-in-power-bi-desktop/</loc>
-    <lastmod>2020-06-23T08:00:01-07:00</lastmod>
+    <loc>https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/</loc>
+    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -91,12 +91,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/</loc>
-    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://docs.microsoft.com/en-us/learn/modules/get-data/</loc>
     <lastmod>2020-07-13T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
@@ -115,20 +109,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-course-intro-11-ultimate-beginners-guide-to-dax-2020/</loc>
-    <lastmod>2020-05-05T20:00:14-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-get-started-with-the-power-bi-gateway/</loc>
     <lastmod>2020-03-05T08:00:04-08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-measures-vs-calculated-columns-14-ultimate-beginners-guide-to-dax-2019/</loc>
-    <lastmod>2018-03-05T19:22:17-08:00</lastmod>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-what-is-row-level-security-rls-in-power-bi/</loc>
+    <lastmod>2020-07-01T08:00:07-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -139,8 +127,20 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-what-is-row-level-security-rls-in-power-bi/</loc>
-    <lastmod>2020-07-01T08:00:07-07:00</lastmod>
+    <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-course-intro-11-ultimate-beginners-guide-to-dax-2020/</loc>
+    <lastmod>2020-05-05T20:00:14-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-measures-vs-calculated-columns-14-ultimate-beginners-guide-to-dax-2019/</loc>
+    <lastmod>2018-03-05T19:22:17-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-how-do-you-use-rls-with-power-bi-embedded/</loc>
+    <lastmod>2020-07-09T08:00:28-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -163,14 +163,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-how-do-you-use-rls-with-power-bi-embedded/</loc>
-    <lastmod>2020-07-09T08:00:28-07:00</lastmod>
+    <loc>https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/</loc>
+    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-incremental-refresh-with-integers-in-power-bi/</loc>
-    <lastmod>2020-07-08T08:00:17-07:00</lastmod>
+    <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-understanding-the-calculate-function-112-ultimate-beginners-guide-to-dax-2019/</loc>
+    <lastmod>2018-03-05T19:22:17-08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -193,14 +193,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-understanding-the-calculate-function-112-ultimate-beginners-guide-to-dax-2019/</loc>
-    <lastmod>2018-03-05T19:22:17-08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-power-bi-paginated-reports-in-a-day-04-designing-report-layouts-part-1/</loc>
-    <lastmod>2020-03-17T21:01:20-07:00</lastmod>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-deployment-pipelines-give-you-more-control-power-bi-premium/</loc>
+    <lastmod>2020-06-04T08:00:14-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -211,14 +205,38 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-what-is-power-bi-embedded/</loc>
-    <lastmod>2017-10-11T07:34:50-07:00</lastmod>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-why-is-there-a-blank-in-my-power-bi-slicer/</loc>
+    <lastmod>2020-06-10T08:00:01-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://smartable.ai/apps/powerbi/learning/microsoft-module-1-overview-part-13-power-bi-developer-in-a-day/</loc>
     <lastmod>2020-06-01T13:33:14-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-power-bi-paginated-reports-in-a-day-04-designing-report-layouts-part-1/</loc>
+    <lastmod>2020-03-17T21:01:20-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-measures-vs-calculated-columns-15-ultimate-beginners-guide-to-dax-2020/</loc>
+    <lastmod>2020-05-01T02:36:30-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-what-is-dax-why-do-you-need-to-learn-it-12-ultimate-beginners-guide-to-dax-2020/</loc>
+    <lastmod>2020-05-01T01:51:47-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-what-is-power-bi-embedded/</loc>
+    <lastmod>2017-10-11T07:34:50-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -259,14 +277,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-measures-vs-calculated-columns-15-ultimate-beginners-guide-to-dax-2020/</loc>
-    <lastmod>2020-05-01T02:36:30-07:00</lastmod>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-how-do-you-get-a-refresh-date-in-your-power-bi-report/</loc>
+    <lastmod>2020-06-16T08:00:17-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-deployment-pipelines-give-you-more-control-power-bi-premium/</loc>
-    <lastmod>2020-06-04T08:00:14-07:00</lastmod>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-incremental-refresh-with-integers-in-power-bi/</loc>
+    <lastmod>2020-07-08T08:00:17-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -279,12 +297,6 @@
   <url>
     <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-the-how-and-why-of-power-bi-aggregations/</loc>
     <lastmod>2020-03-04T08:00:04-08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-why-is-there-a-blank-in-my-power-bi-slicer/</loc>
-    <lastmod>2020-06-10T08:00:01-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -307,14 +319,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-embedding-with-power-bi-whats-the-difference/</loc>
-    <lastmod>2017-12-12T14:19:24-08:00</lastmod>
+    <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-setting-up-your-power-bi-model-14-ultimate-beginner-guide-to-dax-2020/</loc>
+    <lastmod>2020-05-01T02:09:58-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-how-do-you-get-a-refresh-date-in-your-power-bi-report/</loc>
-    <lastmod>2020-06-16T08:00:17-07:00</lastmod>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-embedding-with-power-bi-whats-the-difference/</loc>
+    <lastmod>2017-12-12T14:19:24-08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -337,8 +349,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-what-is-dax-why-do-you-need-to-learn-it-12-ultimate-beginners-guide-to-dax-2020/</loc>
-    <lastmod>2020-05-01T01:51:47-07:00</lastmod>
+    <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-a-review-of-the-data-scenario-13-ultimate-beginner-guide-to-dax-2020/</loc>
+    <lastmod>2020-05-01T01:57:50-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-power-bi-admin-roles-and-the-admin-portal/</loc>
+    <lastmod>2019-03-07T08:00:21-08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -397,14 +415,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-a-review-of-the-data-scenario-13-ultimate-beginner-guide-to-dax-2020/</loc>
-    <lastmod>2020-05-01T01:57:50-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-setting-up-your-power-bi-model-14-ultimate-beginner-guide-to-dax-2020/</loc>
-    <lastmod>2020-05-01T02:09:58-07:00</lastmod>
+    <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-simple-aggregations-16-ultimate-beginners-guide-to-dax-2020/</loc>
+    <lastmod>2020-05-01T02:49:30-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -427,12 +439,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-power-bi-admin-roles-and-the-admin-portal/</loc>
-    <lastmod>2019-03-07T08:00:21-08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://smartable.ai/apps/powerbi/learning/learn-power-bi-power-bi-hyperlink-icons-make-your-html-links-look-pretty-/</loc>
     <lastmod>2019-10-14T09:00:09-07:00</lastmod>
     <changefreq>daily</changefreq>
@@ -451,8 +457,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-simple-aggregations-16-ultimate-beginners-guide-to-dax-2020/</loc>
-    <lastmod>2020-05-01T02:49:30-07:00</lastmod>
+    <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-formula-syntax-comments-variables-17-ultimate-beginners-guide-to-dax-2020/</loc>
+    <lastmod>2020-05-01T03:06:33-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -463,26 +469,20 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-omg-a-cpu-spike-on-my-power-bi-premium-capacity-what-now/</loc>
-    <lastmod>2020-07-07T08:00:06-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-power-bi-paginated-reports-data-source-dataset-and-parameters/</loc>
     <lastmod>2019-01-09T06:20:10-08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-module-2-embedded-analytics-part-12-power-bi-developer-in-a-day/</loc>
-    <lastmod>2020-06-01T13:34:08-07:00</lastmod>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-understanding-the-basics-of-power-bi-premium/</loc>
+    <lastmod>2020-06-25T08:00:13-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-9-things-to-know-before-getting-into-power-bi-or-really-anything/</loc>
-    <lastmod>2020-04-23T08:00:08-07:00</lastmod>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-3-steps-to-do-an-it-admin-takeover-for-power-bi-and-office-365/</loc>
+    <lastmod>2016-12-20T12:36:08-08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -499,14 +499,20 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-omg-a-cpu-spike-on-my-power-bi-premium-capacity-what-now/</loc>
+    <lastmod>2020-07-07T08:00:06-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-row-level-security-in-power-bi-revisited/</loc>
     <lastmod>2016-07-05T11:49:30-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-understanding-the-basics-of-power-bi-premium/</loc>
-    <lastmod>2020-06-25T08:00:13-07:00</lastmod>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-technique-to-improve-power-bi-report-perf-by-reducing-visuals/</loc>
+    <lastmod>2020-05-14T08:00:30-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -529,14 +535,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-module-2-embedded-analytics-part-22-power-bi-developer-in-a-day/</loc>
-    <lastmod>2020-06-01T13:34:23-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-module-3-acquiring-access-power-bi-developer-in-a-day/</loc>
-    <lastmod>2020-06-01T13:34:41-07:00</lastmod>
+    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-module-2-embedded-analytics-part-12-power-bi-developer-in-a-day/</loc>
+    <lastmod>2020-06-01T13:34:08-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -583,20 +583,26 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-evaluation-context-110-ultimate-beginners-guide-to-dax-2020/</loc>
-    <lastmod>2020-05-01T03:26:18-07:00</lastmod>
+    <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-calculate-is-the-key-to-anything-advanced-114-ultimate-beginners-guide-to-dax-2020/</loc>
+    <lastmod>2020-05-01T03:54:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-examples-of-advanced-dax-120-ultimate-beginners-guide-to-dax-2020/</loc>
-    <lastmod>2020-05-01T04:09:47-07:00</lastmod>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-9-things-to-know-before-getting-into-power-bi-or-really-anything/</loc>
+    <lastmod>2020-04-23T08:00:08-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-formula-syntax-comments-variables-17-ultimate-beginners-guide-to-dax-2020/</loc>
-    <lastmod>2020-05-01T03:06:33-07:00</lastmod>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-azure-active-directory-and-power-bi/</loc>
+    <lastmod>2016-03-01T11:26:45-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-can-you-embed-powerpoint-into-a-power-bi-app-lets-try/</loc>
+    <lastmod>2020-05-19T08:00:20-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -609,6 +615,12 @@
   <url>
     <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-get-an-embed-token-for-your-power-bi-dashboards-and-reports/</loc>
     <lastmod>2017-09-05T08:11:58-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-stop-refreshing-a-single-table-at-a-time-power-bi-desktop/</loc>
+    <lastmod>2020-04-28T08:00:32-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -631,8 +643,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-module-4-embedding-content-part-15-power-bi-developer-in-a-day/</loc>
-    <lastmod>2020-06-01T13:34:56-07:00</lastmod>
+    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-module-2-embedded-analytics-part-22-power-bi-developer-in-a-day/</loc>
+    <lastmod>2020-06-01T13:34:23-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -661,14 +673,20 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-calculate-is-the-key-to-anything-advanced-114-ultimate-beginners-guide-to-dax-2020/</loc>
-    <lastmod>2020-05-01T03:54:00-07:00</lastmod>
+    <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-context-considerations-113-ultimate-beginners-guide-to-dax-2020/</loc>
+    <lastmod>2020-05-01T03:48:41-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-course-intro-11-ultimate-beginners-guide-to-dax-2019/</loc>
-    <lastmod>2018-03-05T19:22:17-08:00</lastmod>
+    <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-evaluation-context-110-ultimate-beginners-guide-to-dax-2020/</loc>
+    <lastmod>2020-05-01T03:26:18-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-examples-of-advanced-dax-120-ultimate-beginners-guide-to-dax-2020/</loc>
+    <lastmod>2020-05-01T04:09:47-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -685,44 +703,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-main-difference-between-dax-excel-formulas-18-ultimate-beginners-guide-to-dax-2020/</loc>
-    <lastmod>2020-05-01T03:17:22-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-simple-filters-wcalculate-113-ultimate-beginners-guide-to-dax-2019/</loc>
+    <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-what-are-table-functions-in-dax-114-ultimate-beginners-guide-to-dax-2019/</loc>
     <lastmod>2018-03-05T19:22:17-08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-using-quick-measures-in-power-bi-117-ultimate-beginners-guide-to-dax-2019/</loc>
-    <lastmod>2018-03-05T19:22:17-08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-what-is-dax-why-do-you-need-to-learn-it-12-ultimate-beginner-guide-to-dax-2019/</loc>
-    <lastmod>2018-03-05T19:22:17-08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-3-steps-to-do-an-it-admin-takeover-for-power-bi-and-office-365/</loc>
-    <lastmod>2016-12-20T12:36:08-08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-azure-active-directory-and-power-bi/</loc>
-    <lastmod>2016-03-01T11:26:45-08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-can-you-embed-powerpoint-into-a-power-bi-app-lets-try/</loc>
-    <lastmod>2020-05-19T08:00:20-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -735,6 +717,12 @@
   <url>
     <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-power-bi-directquery-and-sql-databases-a-conversation-with-bob-ward/</loc>
     <lastmod>2020-04-30T08:00:38-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-power-bi-license-assignment/</loc>
+    <lastmod>2016-06-28T08:18:14-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -763,14 +751,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-what-the-heck-is-a-power-bi-gateway-cluster/</loc>
-    <lastmod>2020-03-19T08:00:21-07:00</lastmod>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-what-is-a-power-bi-tenant-office-365-azure-active-directory/</loc>
+    <lastmod>2019-02-05T08:00:16-08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-where-do-you-start-with-power-bi-performance/</loc>
-    <lastmod>2020-06-18T08:00:01-07:00</lastmod>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-what-the-heck-is-a-power-bi-gateway-cluster/</loc>
+    <lastmod>2020-03-19T08:00:21-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -787,8 +775,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-module-6-enforcing-row-level-security-part-13-power-bi-developer-in-a-day/</loc>
-    <lastmod>2020-06-01T13:37:02-07:00</lastmod>
+    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-module-3-acquiring-access-power-bi-developer-in-a-day/</loc>
+    <lastmod>2020-06-01T13:34:41-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -823,20 +811,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-context-considerations-113-ultimate-beginners-guide-to-dax-2020/</loc>
-    <lastmod>2020-05-01T03:48:41-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-examples-of-advanced-dax-118-ultimate-beginners-guide-to-dax-2019/</loc>
     <lastmod>2018-03-05T19:22:17-08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-how-to-combine-patterns-of-dax-formula-118-ultimate-beginners-guide-to-dax-2020/</loc>
-    <lastmod>2020-05-06T19:44:05-07:00</lastmod>
+    <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-main-difference-between-dax-excel-formulas-18-ultimate-beginners-guide-to-dax-2020/</loc>
+    <lastmod>2020-05-01T03:17:22-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -865,8 +847,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-using-quick-measures-119-ultimate-beginners-guide-to-dax-2020/</loc>
-    <lastmod>2020-05-01T04:02:34-07:00</lastmod>
+    <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-using-quick-measures-in-power-bi-117-ultimate-beginners-guide-to-dax-2019/</loc>
+    <lastmod>2018-03-05T19:22:17-08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -877,7 +859,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-what-are-table-functions-in-dax-114-ultimate-beginners-guide-to-dax-2019/</loc>
+    <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-what-is-dax-why-do-you-need-to-learn-it-12-ultimate-beginner-guide-to-dax-2019/</loc>
     <lastmod>2018-03-05T19:22:17-08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
@@ -919,20 +901,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-copy-queries-in-power-query-for-power-bi-or-excel/</loc>
-    <lastmod>2020-05-12T08:00:20-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-create-a-power-bi-app-registration-in-6-steps/</loc>
     <lastmod>2018-02-06T09:30:22-08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-create-mail-enabled-security-groups-to-use-in-power-bi-via-powershell/</loc>
-    <lastmod>2017-11-28T08:56:45-08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -943,14 +913,26 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-how-the-power-bi-data-region-is-selected/</loc>
+    <lastmod>2016-08-09T12:45:20-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-power-bi-auditing/</loc>
+    <lastmod>2016-08-23T09:05:29-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-power-bi-for-report-consumers/</loc>
     <lastmod>2018-09-04T09:08:58-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-power-bi-license-assignment/</loc>
-    <lastmod>2016-06-28T08:18:14-07:00</lastmod>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-power-bi-premium-what-is-v-core-pooling/</loc>
+    <lastmod>2019-09-12T08:00:04-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -967,26 +949,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-stop-refreshing-a-single-table-at-a-time-power-bi-desktop/</loc>
-    <lastmod>2020-04-28T08:00:32-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-technique-to-improve-power-bi-report-perf-by-reducing-visuals/</loc>
-    <lastmod>2020-05-14T08:00:30-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-using-single-sign-on-with-the-power-bi-gateway/</loc>
     <lastmod>2020-03-26T08:00:41-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-what-is-a-power-bi-tenant-office-365-azure-active-directory/</loc>
-    <lastmod>2019-02-05T08:00:16-08:00</lastmod>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-where-do-you-start-with-power-bi-performance/</loc>
+    <lastmod>2020-06-18T08:00:01-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -1021,20 +991,32 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-embedded-playground-power-bi-developer-in-a-day/</loc>
+    <lastmod>2020-06-01T13:38:02-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-module-4-embedding-content-part-15-power-bi-developer-in-a-day/</loc>
+    <lastmod>2020-06-01T13:34:56-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://smartable.ai/apps/powerbi/learning/microsoft-module-4-embedding-content-part-25-power-bi-developer-in-a-day/</loc>
     <lastmod>2020-06-01T13:35:10-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-module-4-embedding-content-part-35-power-bi-developer-in-a-day/</loc>
-    <lastmod>2020-06-01T13:35:28-07:00</lastmod>
+    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-module-4-embedding-content-part-45-power-bi-developer-in-a-day/</loc>
+    <lastmod>2020-06-01T13:35:44-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-module-4-embedding-content-part-45-power-bi-developer-in-a-day/</loc>
-    <lastmod>2020-06-01T13:35:44-07:00</lastmod>
+    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-module-6-enforcing-row-level-security-part-13-power-bi-developer-in-a-day/</loc>
+    <lastmod>2020-06-01T13:37:02-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -1099,7 +1081,13 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-explaining-row-context-110-ultimate-beginners-guide-to-dax-2019/</loc>
+    <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-course-intro-11-ultimate-beginners-guide-to-dax-2019/</loc>
+    <lastmod>2018-03-05T19:22:17-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-evaluation-context-18-ultimate-beginners-guide-to-dax-2019/</loc>
     <lastmod>2018-03-05T19:22:17-08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
@@ -1111,7 +1099,19 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-how-to-combine-patterns-of-dax-formula-118-ultimate-beginners-guide-to-dax-2020/</loc>
+    <lastmod>2020-05-06T19:44:05-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-simple-aggregations-15-ultimate-beginners-guide-to-dax-2019/</loc>
+    <lastmod>2018-03-05T19:22:17-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-simple-filters-wcalculate-113-ultimate-beginners-guide-to-dax-2019/</loc>
     <lastmod>2018-03-05T19:22:17-08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
@@ -1153,8 +1153,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-disable-free-signups-in-the-power-bi-service/</loc>
-    <lastmod>2019-02-14T08:00:13-08:00</lastmod>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-copy-queries-in-power-query-for-power-bi-or-excel/</loc>
+    <lastmod>2020-05-12T08:00:20-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-create-mail-enabled-security-groups-to-use-in-power-bi-via-powershell/</loc>
+    <lastmod>2017-11-28T08:56:45-08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -1165,8 +1171,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-how-the-power-bi-data-region-is-selected/</loc>
-    <lastmod>2016-08-09T12:45:20-07:00</lastmod>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-free-training-power-bi-paginated-reports-in-a-day/</loc>
+    <lastmod>2020-04-21T08:00:21-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -1177,20 +1183,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-power-bi-auditing/</loc>
-    <lastmod>2016-08-23T09:05:29-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-power-bi-paginated-reports-visualizing-data/</loc>
     <lastmod>2019-01-09T06:20:10-08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-power-bi-premium-what-is-v-core-pooling/</loc>
-    <lastmod>2019-09-12T08:00:04-07:00</lastmod>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-replay-april-2020-power-bi-recap/</loc>
+    <lastmod>2020-04-25T08:45:31-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -1237,8 +1237,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-embedded-playground-power-bi-developer-in-a-day/</loc>
-    <lastmod>2020-06-01T13:38:02-07:00</lastmod>
+    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-module-4-embedding-content-part-35-power-bi-developer-in-a-day/</loc>
+    <lastmod>2020-06-01T13:35:28-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -1251,6 +1251,12 @@
   <url>
     <loc>https://smartable.ai/apps/powerbi/learning/microsoft-module-5-integrating-content-with-javascript-api-part-12-power-bi-developer-in-a-day/</loc>
     <lastmod>2020-06-01T13:36:28-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-module-5-integrating-content-with-javascript-api-part-22-power-bi-developer-in-a-day/</loc>
+    <lastmod>2020-06-01T13:36:43-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -1333,7 +1339,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-evaluation-context-18-ultimate-beginners-guide-to-dax-2019/</loc>
+    <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-explaining-row-context-110-ultimate-beginners-guide-to-dax-2019/</loc>
     <lastmod>2018-03-05T19:22:17-08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
@@ -1365,6 +1371,12 @@
   <url>
     <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-review-of-the-data-scenario-13-ultimate-beginners-guide-to-dax-2019/</loc>
     <lastmod>2018-03-05T19:22:17-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-using-quick-measures-119-ultimate-beginners-guide-to-dax-2020/</loc>
+    <lastmod>2020-05-01T04:02:34-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -1411,14 +1423,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-domain-placement-with-office-365/</loc>
-    <lastmod>2016-03-01T11:26:45-08:00</lastmod>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-disable-free-signups-in-the-power-bi-service/</loc>
+    <lastmod>2019-02-14T08:00:13-08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-free-training-power-bi-paginated-reports-in-a-day/</loc>
-    <lastmod>2020-04-21T08:00:21-07:00</lastmod>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-domain-placement-with-office-365/</loc>
+    <lastmod>2016-03-01T11:26:45-08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -1473,12 +1485,6 @@
   <url>
     <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-power-bi-tutorial-grow-up-power-bi-desktop-to-analysis-services-learning-the-clicks/</loc>
     <lastmod>2018-04-18T09:32:09-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-replay-april-2020-power-bi-recap/</loc>
-    <lastmod>2020-04-25T08:45:31-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -1617,12 +1623,6 @@
   <url>
     <loc>https://smartable.ai/apps/powerbi/learning/learn-power-bi-talk-power-bi-qa-live-subscribe-join-february-28-2020/</loc>
     <lastmod>2020-02-28T13:42:33-08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-module-5-integrating-content-with-javascript-api-part-22-power-bi-developer-in-a-day/</loc>
-    <lastmod>2020-06-01T13:36:43-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
