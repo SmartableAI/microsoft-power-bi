@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-13T11:11:29Z
 webUrl: "https://powerbi.microsoft.com/en-us/blog/how-metro-bank-uses-power-bi-to-improve-the-uk-banking-experience/"
 type: article
 quality: 97
-heat: 98
+heat: 97
 published: true
 
 provider:
