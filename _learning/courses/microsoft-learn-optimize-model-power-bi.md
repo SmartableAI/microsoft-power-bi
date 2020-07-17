@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT43M
 ratings:
-  count: 89
-  average: 4.820225
+  count: 91
+  average: 4.824176
 heat: 61
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Optimize a model for performance in Power BI "
 
-secured: "w+EmbNyiefnOqUX5fPIurpWtabN1D71srYymS3eZ+P7H7ngfFfJ2eTUbAvWrSN5KY4yhkXOmHi5yolko4/IJyf1Tk1R0BYHTDR4s/5hwB0IosTk9NwmxQXmH0yX8YaAd6EccNsSnu5CK6CVpkz9jLjLBcsO3yUEFPgxa77rR103pHlskzLRm/jpYoJg3Fnl0Cm1Qt3G7sEFDffwhGxerUOwspkGlDnn0Hcjz/LQpAfYnCnxIo92dxz+R8eDNFeZ4WxHNZDUOj1O+5En/3yJ+5MN5LkdO3Gej1ixWuFCGrl+SL4QrTV6qd2DvdDfNzuytFitDJhGTaeHqFZVooyo1u5rsv+zuNYxhUOj1s2GupIYrj2PL9tC+UYMWHB/n8tEV+mrWWeVNiFaYjbj6MpQy+Q==;FKi9Az3YRqtOeUOUzd00Mg=="
+secured: "HX3d/Vh36zbJ35X6/TSsn5/7W7wnpye0xUNKKUTvZ6vC/WL7uAht0cJlUfFj1v+p8XMW3jXQPsIwWEfHhW2e8YaV/tqMR36iM5pKMJa2zRvF1UPwvE+sT0RNhGljRrcZZY37vm2qBi8P5PmnLD3BXZ3e3MolVrUb8ShlNtL7XMzgjNx+F4HmfZXFZkJ+jn3ueB2wEROcS9ZetW1jj4LkAkqs4EzHKx6VmTYoV4n2wUo+N0FpVUFuyGjsw6ugD03kS8sCFSOBgwZdw36A8LL0J9J5gtSj4xHMPi8OENT4cq/3e5+/QR7S0jIrgvaAxUrE4Oj3IG0K4UeYBHhXPHCDfUXCFUwRSMbwagBtZv69GcsllTBVHkJql4Qu+W41UdaZRhh3NXTjotfADayeNRZ9rw==;YEbJITm7jsA0AXVAX2NrXQ=="
 ---
 
