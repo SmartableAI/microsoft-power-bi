@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-do-you-need-a-date-table-for-time-intelligence-in-power-bi-nope-quick-measures/</loc>
-    <lastmod>2020-07-15T08:00:00-07:00</lastmod>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-external-tools-in-power-bi-desktop-are-missing/</loc>
+    <lastmod>2020-07-16T08:00:12-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-external-tools-in-power-bi-desktop-are-missing/</loc>
-    <lastmod>2020-07-16T08:00:12-07:00</lastmod>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-do-you-need-a-date-table-for-time-intelligence-in-power-bi-nope-quick-measures/</loc>
+    <lastmod>2020-07-15T08:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -97,6 +97,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-power-bi-paginated-reports-in-a-day-01-welcome-and-course-introduction/</loc>
+    <lastmod>2020-03-17T19:58:19-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/</loc>
     <lastmod>2020-07-13T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
@@ -141,6 +147,12 @@
   <url>
     <loc>https://smartable.ai/apps/powerbi/learning/learn-power-bi-power-bi-drill-through-in-3-easy-steps-drill-through-to-another-page-/</loc>
     <lastmod>2019-09-25T09:00:05-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-power-bi-paginated-reports-in-a-day-03-power-bi-reporting-part-2/</loc>
+    <lastmod>2020-03-17T21:01:08-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -199,8 +211,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-power-bi-paginated-reports-in-a-day-03-power-bi-reporting-part-2/</loc>
-    <lastmod>2020-03-17T21:01:08-07:00</lastmod>
+    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-power-bi-paginated-reports-in-a-day-02-power-bi-reporting-part-1/</loc>
+    <lastmod>2020-03-17T20:00:21-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -241,8 +253,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-power-bi-paginated-reports-in-a-day-02-power-bi-reporting-part-1/</loc>
-    <lastmod>2020-03-17T20:00:21-07:00</lastmod>
+    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-power-bi-paginated-reports-in-a-day-04-designing-report-layouts-part-1/</loc>
+    <lastmod>2020-03-17T21:01:20-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -331,12 +343,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-power-bi-paginated-reports-in-a-day-01-welcome-and-course-introduction/</loc>
-    <lastmod>2020-03-17T19:58:19-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-what-is-dax-why-do-you-need-to-learn-it-12-ultimate-beginners-guide-to-dax-2020/</loc>
     <lastmod>2020-05-01T01:51:47-07:00</lastmod>
     <changefreq>daily</changefreq>
@@ -417,12 +423,6 @@
   <url>
     <loc>https://smartable.ai/apps/powerbi/learning/learn-power-bi-power-bi-drill-through-5-different-ways-do-you-know-them-all/</loc>
     <lastmod>2019-10-02T09:00:04-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-power-bi-paginated-reports-in-a-day-04-designing-report-layouts-part-1/</loc>
-    <lastmod>2020-03-17T21:01:20-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
