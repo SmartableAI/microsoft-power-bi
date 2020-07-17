@@ -37,12 +37,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/</loc>
-    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-what-is-power-bi/</loc>
     <lastmod>2018-04-10T09:10:23-07:00</lastmod>
     <changefreq>daily</changefreq>
@@ -56,6 +50,12 @@
   </url>
   <url>
     <loc>https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/</loc>
+    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/</loc>
     <lastmod>2020-07-13T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
@@ -109,6 +109,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-get-started-with-the-power-bi-gateway/</loc>
+    <lastmod>2020-03-05T08:00:04-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/</loc>
     <lastmod>2020-07-13T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
@@ -133,14 +139,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-get-started-with-the-power-bi-gateway/</loc>
-    <lastmod>2020-03-05T08:00:04-08:00</lastmod>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-what-is-row-level-security-rls-in-power-bi/</loc>
+    <lastmod>2020-07-01T08:00:07-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-what-is-row-level-security-rls-in-power-bi/</loc>
-    <lastmod>2020-07-01T08:00:07-07:00</lastmod>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-power-bi-apps-vs-app-workspace-the-new-viewer-role/</loc>
+    <lastmod>2019-08-11T04:56:55-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -165,12 +171,6 @@
   <url>
     <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-course-intro-11-ultimate-beginners-guide-to-dax-2020/</loc>
     <lastmod>2020-05-05T20:00:14-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-power-bi-apps-vs-app-workspace-the-new-viewer-role/</loc>
-    <lastmod>2019-08-11T04:56:55-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -205,12 +205,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-the-how-and-why-of-power-bi-aggregations/</loc>
-    <lastmod>2020-03-04T08:00:04-08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://smartable.ai/apps/powerbi/learning/microsoft-power-bi-paginated-reports-in-a-day-02-power-bi-reporting-part-1/</loc>
     <lastmod>2020-03-17T20:00:21-07:00</lastmod>
     <changefreq>daily</changefreq>
@@ -237,6 +231,12 @@
   <url>
     <loc>https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/</loc>
     <lastmod>2020-07-13T00:00:00-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-the-how-and-why-of-power-bi-aggregations/</loc>
+    <lastmod>2020-03-04T08:00:04-08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -331,12 +331,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-power-bi-apps-for-consumers/</loc>
-    <lastmod>2019-08-11T04:58:47-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://smartable.ai/apps/powerbi/learning/learn-power-bi-use-the-power-bi-decomposition-tree-to-explore-and-analyze-your-data/</loc>
     <lastmod>2019-12-04T09:00:02-08:00</lastmod>
     <changefreq>daily</changefreq>
@@ -351,6 +345,18 @@
   <url>
     <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-bananas-power-bi-dataflows-has-come-a-long-way/</loc>
     <lastmod>2020-06-02T08:00:14-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-fixing-time-calculations-in-power-bi/</loc>
+    <lastmod>2017-07-05T08:24:12-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-power-bi-apps-for-consumers/</loc>
+    <lastmod>2019-08-11T04:58:47-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -403,6 +409,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-expand-lists-in-power-bi-also-a-look-at-m-syntax/</loc>
+    <lastmod>2016-02-24T15:04:39-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-power-bi-admin-roles-and-the-admin-portal/</loc>
     <lastmod>2019-03-07T08:00:21-08:00</lastmod>
     <changefreq>daily</changefreq>
@@ -423,6 +435,12 @@
   <url>
     <loc>https://smartable.ai/apps/powerbi/learning/learn-power-bi-power-bi-drill-through-5-different-ways-do-you-know-them-all/</loc>
     <lastmod>2019-10-02T09:00:04-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-power-bi-paginated-reports-in-a-day-06-designing-report-layouts-part-3/</loc>
+    <lastmod>2020-03-17T21:05:38-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -469,12 +487,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/</loc>
-    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/</loc>
     <lastmod>2020-07-13T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
@@ -495,18 +507,6 @@
   <url>
     <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-configure-power-bi-aggregations/</loc>
     <lastmod>2020-03-11T08:00:10-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-expand-lists-in-power-bi-also-a-look-at-m-syntax/</loc>
-    <lastmod>2016-02-24T15:04:39-08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-fixing-time-calculations-in-power-bi/</loc>
-    <lastmod>2017-07-05T08:24:12-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -535,7 +535,19 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/</loc>
+    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-power-bi-paginated-reports-in-a-day-05-designing-report-layouts-part-2/</loc>
+    <lastmod>2020-03-17T21:01:36-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-power-bi-paginated-reports-in-a-day-07-designing-report-layouts-part-4/</loc>
+    <lastmod>2020-03-17T21:05:42-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/</loc>
     <lastmod>2020-07-13T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
@@ -583,20 +595,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-the-new-power-bi-app-workspace-experience/</loc>
-    <lastmod>2019-08-11T04:58:15-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-tooltips-tooltips-tooltips-in-power-bi/</loc>
     <lastmod>2017-06-01T10:08:07-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-using-single-sign-on-with-the-power-bi-gateway/</loc>
-    <lastmod>2020-03-26T08:00:41-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -643,6 +643,18 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-power-bi-paginated-reports-in-a-day-08-retrieving-report-data-part-1/</loc>
+    <lastmod>2020-03-17T21:05:51-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-power-bi-paginated-reports-in-a-day-09-retrieving-report-data-part-2/</loc>
+    <lastmod>2020-03-17T21:05:57-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://smartable.ai/apps/powerbi/learning/microsoft-power-bi-paginated-reports-in-a-day-10-retrieving-report-data-part-3/</loc>
     <lastmod>2020-03-17T21:06:02-07:00</lastmod>
     <changefreq>daily</changefreq>
@@ -655,7 +667,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/</loc>
+    <loc>https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/</loc>
     <lastmod>2020-07-13T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
@@ -703,6 +715,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-power-bi-user-lookup-with-the-gateway-using-active-directory/</loc>
+    <lastmod>2020-04-26T15:33:51-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-ragged-hierarchies-in-analysis-services-with-power-bi-and-excel/</loc>
     <lastmod>2017-08-24T08:05:13-07:00</lastmod>
     <changefreq>daily</changefreq>
@@ -717,6 +735,18 @@
   <url>
     <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-technique-to-improve-power-bi-report-perf-by-reducing-visuals/</loc>
     <lastmod>2020-05-14T08:00:30-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-the-new-power-bi-app-workspace-experience/</loc>
+    <lastmod>2019-08-11T04:58:15-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-using-single-sign-on-with-the-power-bi-gateway/</loc>
+    <lastmod>2020-03-26T08:00:41-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -751,42 +781,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-power-bi-paginated-reports-in-a-day-05-designing-report-layouts-part-2/</loc>
-    <lastmod>2020-03-17T21:01:36-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-power-bi-paginated-reports-in-a-day-06-designing-report-layouts-part-3/</loc>
-    <lastmod>2020-03-17T21:05:38-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-power-bi-paginated-reports-in-a-day-07-designing-report-layouts-part-4/</loc>
-    <lastmod>2020-03-17T21:05:42-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-power-bi-paginated-reports-in-a-day-08-retrieving-report-data-part-1/</loc>
-    <lastmod>2020-03-17T21:05:51-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-power-bi-paginated-reports-in-a-day-09-retrieving-report-data-part-2/</loc>
-    <lastmod>2020-03-17T21:05:57-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-power-bi-paginated-reports-in-a-day-20-beyond-report-development-part-1/</loc>
-    <lastmod>2020-03-17T22:12:09-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://docs.microsoft.com/en-us/learn/modules/build-your-first-power-bi-report/</loc>
     <lastmod>2020-07-13T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
@@ -799,19 +793,13 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/</loc>
+    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://docs.microsoft.com/en-us/learn/modules/discover-customer-needs/</loc>
-    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/</loc>
-    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/</loc>
     <lastmod>2020-07-13T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
@@ -943,12 +931,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-power-bi-user-lookup-with-the-gateway-using-active-directory/</loc>
-    <lastmod>2020-04-26T15:33:51-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-stop-refreshing-a-single-table-at-a-time-power-bi-desktop/</loc>
     <lastmod>2020-04-28T08:00:32-07:00</lastmod>
     <changefreq>daily</changefreq>
@@ -957,12 +939,6 @@
   <url>
     <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-what-is-a-power-bi-tenant-office-365-azure-active-directory/</loc>
     <lastmod>2019-02-05T08:00:16-08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-what-the-heck-is-a-power-bi-gateway-cluster/</loc>
-    <lastmod>2020-03-19T08:00:21-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -1015,12 +991,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-power-bi-paginated-reports-in-a-day-12-working-with-parameters-part-2/</loc>
-    <lastmod>2020-03-17T21:11:53-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://smartable.ai/apps/powerbi/learning/microsoft-power-bi-paginated-reports-in-a-day-13-working-with-parameters-part-3/</loc>
     <lastmod>2020-03-17T21:12:05-07:00</lastmod>
     <changefreq>daily</changefreq>
@@ -1039,30 +1009,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-power-bi-paginated-reports-in-a-day-17-visualizing-report-data-part-4/</loc>
-    <lastmod>2020-03-17T21:33:46-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-power-bi-paginated-reports-in-a-day-21-beyond-report-development-part-2/</loc>
-    <lastmod>2020-03-17T22:13:07-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-power-bi-paginated-reports-in-a-day-22-bonus-content-review/</loc>
-    <lastmod>2020-03-17T22:14:03-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-power-bi-paginated-reports-in-a-day-23-bonus-content-evolution-of-paginated-reporting/</loc>
-    <lastmod>2020-03-17T22:14:44-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://docs.microsoft.com/en-us/learn/modules/fit-gap-analysis/</loc>
     <lastmod>2020-07-13T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
@@ -1070,6 +1016,12 @@
   </url>
   <url>
     <loc>https://docs.microsoft.com/en-us/learn/modules/intro-to-power-platform-mba/</loc>
+    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/</loc>
     <lastmod>2020-07-13T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
@@ -1225,14 +1177,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-using-precedence-to-force-power-bi-aggregations/</loc>
-    <lastmod>2020-03-25T08:00:11-07:00</lastmod>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-want-to-know-when-teams-will-stop-creating-workspaces-in-power-bi/</loc>
+    <lastmod>2020-06-11T08:00:13-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-want-to-know-when-teams-will-stop-creating-workspaces-in-power-bi/</loc>
-    <lastmod>2020-06-11T08:00:13-07:00</lastmod>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-what-the-heck-is-a-power-bi-gateway-cluster/</loc>
+    <lastmod>2020-03-19T08:00:21-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -1309,8 +1261,20 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-power-bi-paginated-reports-in-a-day-12-working-with-parameters-part-2/</loc>
+    <lastmod>2020-03-17T21:11:53-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://smartable.ai/apps/powerbi/learning/microsoft-power-bi-paginated-reports-in-a-day-16-visualizing-report-data-part-3/</loc>
     <lastmod>2020-03-17T21:33:17-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-power-bi-paginated-reports-in-a-day-17-visualizing-report-data-part-4/</loc>
+    <lastmod>2020-03-17T21:33:46-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -1327,8 +1291,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-power-bi-paginated-reports-in-a-day-24-bonus-content-lowering-the-barrier-to-entry/</loc>
-    <lastmod>2020-03-17T22:15:27-07:00</lastmod>
+    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-power-bi-paginated-reports-in-a-day-20-beyond-report-development-part-1/</loc>
+    <lastmod>2020-03-17T22:12:09-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-power-bi-paginated-reports-in-a-day-23-bonus-content-evolution-of-paginated-reporting/</loc>
+    <lastmod>2020-03-17T22:14:44-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -1346,6 +1316,12 @@
   </url>
   <url>
     <loc>https://docs.microsoft.com/en-us/learn/modules/data-anomaly-detection-using-azure-iot-hub/</loc>
+    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/</loc>
     <lastmod>2020-07-13T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
@@ -1519,6 +1495,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-using-precedence-to-force-power-bi-aggregations/</loc>
+    <lastmod>2020-03-25T08:00:11-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-why-cant-i-define-my-power-bi-aggregations/</loc>
     <lastmod>2020-03-17T08:00:22-07:00</lastmod>
     <changefreq>daily</changefreq>
@@ -1629,6 +1611,24 @@
   <url>
     <loc>https://smartable.ai/apps/powerbi/learning/learn-power-bi-talk-power-bi-qa-live-subscribe-join-february-28-2020/</loc>
     <lastmod>2020-02-28T13:42:33-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-power-bi-paginated-reports-in-a-day-21-beyond-report-development-part-2/</loc>
+    <lastmod>2020-03-17T22:13:07-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-power-bi-paginated-reports-in-a-day-22-bonus-content-review/</loc>
+    <lastmod>2020-03-17T22:14:03-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/microsoft-power-bi-paginated-reports-in-a-day-24-bonus-content-lowering-the-barrier-to-entry/</loc>
+    <lastmod>2020-03-17T22:15:27-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
