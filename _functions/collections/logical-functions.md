@@ -2,7 +2,7 @@
 name: "Logical functions"
 excerpt: "Logical functions act upon an expression to return information about the values or sets in the expression. For example, you can use the IF function to check the result of an expression and create conditional results."
 type: collection
-heat: 
+heat: 200
 
 provider:
   name: Microsoft

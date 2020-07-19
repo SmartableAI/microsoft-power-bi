@@ -2,7 +2,7 @@
 name: "Text functions"
 excerpt: "Data Analysis Expressions (DAX) includes a set of text functions based on the library of string functions in Excel, but which have been modified to work with tables and columns in tabular models. This section describes text functions available in the DAX language."
 type: collection
-heat: 
+heat: 200
 
 provider:
   name: Microsoft

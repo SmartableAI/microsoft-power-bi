@@ -2,7 +2,7 @@
 name: "Math and Trig functions"
 excerpt: "The mathematical functions in Data Analysis Expressions (DAX) are very similar to the Excel mathematical and trigonometric functions. This section lists the mathematical functions provided by DAX."
 type: collection
-heat: 
+heat: 200
 
 provider:
   name: Microsoft

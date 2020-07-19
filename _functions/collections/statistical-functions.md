@@ -2,7 +2,7 @@
 name: "Statistical functions"
 excerpt: "Data Analysis Expressions (DAX) provides many functions for creating aggregations such as sums, counts, and averages. These functions are very similar to aggregation functions used by Microsoft Excel. This section lists the statistical and aggregation functions provided in DAX."
 type: collection
-heat: 
+heat: 200
 
 provider:
   name: Microsoft

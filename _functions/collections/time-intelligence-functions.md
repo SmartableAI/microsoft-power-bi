@@ -2,7 +2,7 @@
 name: "Time intelligence functions"
 excerpt: "Data Analysis Expressions (DAX) includes time-intelligence functions that enable you to manipulate data using time periods, including days, months, quarters, and years, and then build and compare calculations over those periods."
 type: collection
-heat: 
+heat: 200
 
 provider:
   name: Microsoft

@@ -45,14 +45,14 @@ default_learning_settings: &default_learning_settings
 
 
 #----------------------------------------------------------------------------------
-# Project Settings
+# Function Settings
 #----------------------------------------------------------------------------------
 
-# Default settings of projects
-default_project_settings: &default_project_settings
+# Default settings of functions
+default_function_settings: &default_function_settings
   layout: post
-  category: project
-  permalink: /api/projects/:path/index.json
+  category: function
+  permalink: /api/functions/:path/index.json
   deleted: false
 
 
@@ -137,6 +137,8 @@ collections:
     output: true
   events:
     output: true
+  functions:
+    output: true
   customers:
     output: true
   newsletters:
@@ -161,6 +163,20 @@ defaults:
       layout: collection
       category: learning
       permalink: /api/learning/collections/:title/index.json
+      type: collection
+      support_paging: false
+  # _functions
+  - scope:
+      path: ""
+      type: functions
+    values:
+      <<: *default_function_settings
+  - scope:
+      path: "_functions/collections"
+    values:
+      layout: collection
+      category: function
+      permalink: /api/functions/collections/:title/index.json
       type: collection
       support_paging: false
   # _samples

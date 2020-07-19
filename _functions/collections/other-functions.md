@@ -2,7 +2,7 @@
 name: "Other functions"
 excerpt: "These functions perform unique actions that cannot be defined by any of the categories."
 type: collection
-heat: 
+heat: 200
 
 provider:
   name: Microsoft
