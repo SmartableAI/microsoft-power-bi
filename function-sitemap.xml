@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/all/</loc>
+    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/calendar/</loc>
+    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/date-and-time-functions/</loc>
+    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/filter-functions/</loc>
+    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+</urlset>
