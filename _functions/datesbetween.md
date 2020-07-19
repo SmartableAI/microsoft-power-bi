@@ -1,5 +1,5 @@
 ---
-name: "DATESBETWEEN(<dates>, <start_date>, <end_date>)"
+name: "DATESBETWEEN (<dates>, <start_date>, <end_date>)"
 excerpt: "Returns a table that contains a column of dates that begins with a specified start date and continues until a specified end date."
 originalUrl: https://docs.microsoft.com/en-us/dax/datesbetween-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/datesbetween-function-dax

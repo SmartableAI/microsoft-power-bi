@@ -1,5 +1,5 @@
 ---
-name: "CLOSINGBALANCEQUARTER(<expression>,<dates>[,<filter>])"
+name: "CLOSINGBALANCEQUARTER (<expression>,<dates>[,<filter>])"
 excerpt: "Evaluates the expression at the last date of the quarter in the current context."
 originalUrl: https://docs.microsoft.com/en-us/dax/closingbalancequarter-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/closingbalancequarter-function-dax

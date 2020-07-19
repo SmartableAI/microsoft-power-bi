@@ -1,5 +1,5 @@
 ---
-name: "COT (<number>)"
+name: "COT  (<number>)"
 excerpt: "Returns the cotangent of an angle specified in radians."
 originalUrl: https://docs.microsoft.com/en-us/dax/cot-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/cot-function-dax

@@ -1,5 +1,5 @@
 ---
-name: "CONVERT(<Expression>, <Datatype>)"
+name: "CONVERT (<Expression>, <Datatype>)"
 excerpt: "Converts an expression of one data type to another."
 originalUrl: https://docs.microsoft.com/en-us/dax/convert-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/convert-function-dax

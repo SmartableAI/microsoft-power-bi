@@ -1,5 +1,5 @@
 ---
-name: "COUPPCD(<settlement>, <maturity>, <frequency>[, <basis>])"
+name: "COUPPCD (<settlement>, <maturity>, <frequency>[, <basis>])"
 excerpt: "Returns the previous coupon date before the settlement date."
 originalUrl: https://docs.microsoft.com/en-us/dax/couppcd-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/couppcd-function-dax

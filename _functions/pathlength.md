@@ -1,5 +1,5 @@
 ---
-name: "PATHLENGTH(<path>)"
+name: "PATHLENGTH (<path>)"
 excerpt: "Returns the number of parents to the specified item in a given PATH result, including self."
 originalUrl: https://docs.microsoft.com/en-us/dax/pathlength-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/pathlength-function-dax

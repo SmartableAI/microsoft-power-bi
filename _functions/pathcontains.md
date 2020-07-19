@@ -1,5 +1,5 @@
 ---
-name: "PATHCONTAINS(<path>, <item>)"
+name: "PATHCONTAINS (<path>, <item>)"
 excerpt: "Returns TRUE if the specified item exists within the specified path."
 originalUrl: https://docs.microsoft.com/en-us/dax/pathcontains-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/pathcontains-function-dax

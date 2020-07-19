@@ -1,5 +1,5 @@
 ---
-name: "ATAN(number)"
+name: "ATAN (number)"
 excerpt: "Returns the arctangent, or inverse tangent, of a number. The arctangent is the angle whose tangent is number. The returned angle is given in radians in the range -pi/2 to pi/2."
 originalUrl: https://docs.microsoft.com/en-us/dax/atan-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/atan-function-dax

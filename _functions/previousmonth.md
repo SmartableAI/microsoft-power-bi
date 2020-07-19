@@ -1,5 +1,5 @@
 ---
-name: "PREVIOUSMONTH(<dates>)"
+name: "PREVIOUSMONTH (<dates>)"
 excerpt: "Returns a table that contains a column of all dates from the previous month, based on the first date in the dates column, in the current context."
 originalUrl: https://docs.microsoft.com/en-us/dax/previousmonth-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/previousmonth-function-dax

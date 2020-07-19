@@ -2,7 +2,7 @@
 name: "Other functions"
 excerpt: "These functions perform unique actions that cannot be defined by any of the categories."
 type: collection
-heat: 200
+heat: 140
 
 provider:
   name: Microsoft
@@ -28,7 +28,6 @@ items:
   - selectedmeasureformatstring
   - selectedmeasurename
   - summarizecolumns
-  - table-constructor
   - treatas
   - union
 

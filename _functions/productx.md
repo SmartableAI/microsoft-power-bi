@@ -1,5 +1,5 @@
 ---
-name: "PRODUCTX(<table>, <expression>)"
+name: "PRODUCTX (<table>, <expression>)"
 excerpt: "Returns the product of an expression evaluated for each row in a table."
 originalUrl: https://docs.microsoft.com/en-us/dax/productx-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/productx-function-dax

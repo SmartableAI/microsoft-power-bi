@@ -1,5 +1,5 @@
 ---
-name: "UPPER (<text>)"
+name: "UPPER  (<text>)"
 excerpt: "Converts a text string to all uppercase letters."
 originalUrl: https://docs.microsoft.com/en-us/dax/upper-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/upper-function-dax

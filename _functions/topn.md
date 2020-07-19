@@ -1,5 +1,5 @@
 ---
-name: "TOPN(<n_value>, <table>, <orderBy_expression>, [<order>[, <orderBy_expression>, [<order>]]…])"
+name: "TOPN (<n_value>, <table>, <orderBy_expression>, [<order>[, <orderBy_expression>, [<order>]]…])"
 excerpt: "Returns the top N rows of the specified table."
 originalUrl: https://docs.microsoft.com/en-us/dax/topn-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/topn-function-dax

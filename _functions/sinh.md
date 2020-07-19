@@ -1,5 +1,5 @@
 ---
-name: "SINH(number)"
+name: "SINH (number)"
 excerpt: "Returns the hyperbolic sine of a number."
 originalUrl: https://docs.microsoft.com/en-us/dax/sinh-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/sinh-function-dax

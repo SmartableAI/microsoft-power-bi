@@ -1,5 +1,5 @@
 ---
-name: "SQRTPI(number)"
+name: "SQRTPI (number)"
 excerpt: "Returns the square root of (number * pi)."
 originalUrl: https://docs.microsoft.com/en-us/dax/sqrtpi-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/sqrtpi-function-dax

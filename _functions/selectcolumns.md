@@ -1,5 +1,5 @@
 ---
-name: "SELECTCOLUMNS(<table>, <name>, <scalar_expression> [, <name>, <scalar_expression>]…)"
+name: "SELECTCOLUMNS (<table>, <name>, <scalar_expression> [, <name>, <scalar_expression>]…)"
 excerpt: "Adds calculated columns to the given table or table expression."
 originalUrl: https://docs.microsoft.com/en-us/dax/selectcolumns-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/selectcolumns-function-dax

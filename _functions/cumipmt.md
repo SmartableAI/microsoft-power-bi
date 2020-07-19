@@ -1,5 +1,5 @@
 ---
-name: "CUMIPMT(<rate>, <nper>, <pv>, <start_period>, <end_period>, <type>)"
+name: "CUMIPMT (<rate>, <nper>, <pv>, <start_period>, <end_period>, <type>)"
 excerpt: "Returns the cumulative interest paid on a loan between start_period and end_period."
 originalUrl: https://docs.microsoft.com/en-us/dax/cumipmt-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/cumipmt-function-dax

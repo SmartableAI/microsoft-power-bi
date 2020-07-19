@@ -1,5 +1,5 @@
 ---
-name: "ISINSCOPE(<columnName>)"
+name: "ISINSCOPE (<columnName>)"
 excerpt: "Returns true when the specified column is the level in a hierarchy of levels."
 originalUrl: https://docs.microsoft.com/en-us/dax/isinscope-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/isinscope-function-dax

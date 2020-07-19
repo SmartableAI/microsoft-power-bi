@@ -1,5 +1,5 @@
 ---
-name: "ISNUMBER(<value>)"
+name: "ISNUMBER (<value>)"
 excerpt: "Checks whether a value is a number, and returns TRUE or FALSE."
 originalUrl: https://docs.microsoft.com/en-us/dax/isnumber-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/isnumber-function-dax

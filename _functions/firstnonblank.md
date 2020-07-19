@@ -1,5 +1,5 @@
 ---
-name: "FIRSTNONBLANK(<column>,<expression>)"
+name: "FIRSTNONBLANK (<column>,<expression>)"
 excerpt: "Returns the first value in the column, column, filtered by the current context, where the expression is not blank."
 originalUrl: https://docs.microsoft.com/en-us/dax/firstnonblank-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/firstnonblank-function-dax

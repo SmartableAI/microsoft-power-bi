@@ -1,5 +1,5 @@
 ---
-name: "RANDBETWEEN(<bottom>,<top>)"
+name: "RANDBETWEEN (<bottom>,<top>)"
 excerpt: "Returns a random number in the range between two numbers you specify."
 originalUrl: https://docs.microsoft.com/en-us/dax/randbetween-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/randbetween-function-dax

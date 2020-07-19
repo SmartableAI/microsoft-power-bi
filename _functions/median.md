@@ -1,5 +1,5 @@
 ---
-name: "MEDIAN(<column>)"
+name: "MEDIAN (<column>)"
 excerpt: "Returns the median of numbers in a column."
 originalUrl: https://docs.microsoft.com/en-us/dax/median-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/median-function-dax

@@ -1,5 +1,5 @@
 ---
-name: "AND(<logical1>,<logical2>)"
+name: "AND (<logical1>,<logical2>)"
 excerpt: "Checks whether both arguments are TRUE, and returns TRUE if both arguments are TRUE. Otherwise returns false."
 originalUrl: https://docs.microsoft.com/en-us/dax/and-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/and-function-dax

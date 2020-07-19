@@ -1,5 +1,5 @@
 ---
-name: "FIRSTDATE(<dates>)"
+name: "FIRSTDATE (<dates>)"
 excerpt: "Returns the first date in the current context for the specified column of dates."
 originalUrl: https://docs.microsoft.com/en-us/dax/firstdate-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/firstdate-function-dax

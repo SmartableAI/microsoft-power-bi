@@ -1,5 +1,5 @@
 ---
-name: "BETA.INV(probability,alpha,beta,[A],[B])"
+name: "BETA.INV (probability,alpha,beta,[A],[B])"
 excerpt: "Returns the inverse of the beta cumulative probability density function (BETA.DIST)."
 originalUrl: https://docs.microsoft.com/en-us/dax/beta-inv-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/beta-inv-function-dax

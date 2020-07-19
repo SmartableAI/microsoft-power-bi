@@ -1,5 +1,5 @@
 ---
-name: "NEXTMONTH(<dates>)"
+name: "NEXTMONTH (<dates>)"
 excerpt: "Returns a table that contains a column of all dates from the next month, based on the first date in the dates column in the current context."
 originalUrl: https://docs.microsoft.com/en-us/dax/nextmonth-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/nextmonth-function-dax

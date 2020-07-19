@@ -1,5 +1,5 @@
 ---
-name: "ROUND(<number>, <num_digits>)"
+name: "ROUND (<number>, <num_digits>)"
 excerpt: "Rounds a number to the specified number of digits."
 originalUrl: https://docs.microsoft.com/en-us/dax/round-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/round-function-dax

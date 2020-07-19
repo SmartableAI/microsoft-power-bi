@@ -1,5 +1,5 @@
 ---
-name: "FV(<rate>, <nper>, <pmt>[, <pv>[, <type>]])"
+name: "FV (<rate>, <nper>, <pmt>[, <pv>[, <type>]])"
 excerpt: "Calculates the future value of an investment based on a constant interest rate. You can use FV with either periodic, constant payments, and/or a single lump sum payment."
 originalUrl: https://docs.microsoft.com/en-us/dax/fv-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/fv-function-dax

@@ -1,5 +1,5 @@
 ---
-name: "T.DIST.2T(X,Deg_freedom)"
+name: "T.DIST.2T (X,Deg_freedom)"
 excerpt: "Returns the two-tailed Student's t-distribution."
 originalUrl: https://docs.microsoft.com/en-us/dax/t-dist-2t-dax
 webUrl: https://docs.microsoft.com/en-us/dax/t-dist-2t-dax

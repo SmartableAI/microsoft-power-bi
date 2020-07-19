@@ -1,5 +1,5 @@
 ---
-name: "PRICEDISC(<settlement>, <maturity>, <discount>, <redemption>[, <basis>])"
+name: "PRICEDISC (<settlement>, <maturity>, <discount>, <redemption>[, <basis>])"
 excerpt: "Returns the price per \\$100 face value of a discounted security."
 originalUrl: https://docs.microsoft.com/en-us/dax/pricedisc-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/pricedisc-function-dax

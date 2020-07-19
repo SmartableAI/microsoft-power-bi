@@ -1,5 +1,5 @@
 ---
-name: "CEILING(<number>, <significance>)"
+name: "CEILING (<number>, <significance>)"
 excerpt: "Rounds a number up, to the nearest integer or to the nearest multiple of significance."
 originalUrl: https://docs.microsoft.com/en-us/dax/ceiling-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/ceiling-function-dax

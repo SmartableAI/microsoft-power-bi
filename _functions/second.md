@@ -1,5 +1,5 @@
 ---
-name: "SECOND(<time>)"
+name: "SECOND (<time>)"
 excerpt: "Returns the seconds of a time value, as a number from 0 to 59."
 originalUrl: https://docs.microsoft.com/en-us/dax/second-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/second-function-dax

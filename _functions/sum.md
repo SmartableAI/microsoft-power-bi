@@ -1,5 +1,5 @@
 ---
-name: "SUM(<column>)"
+name: "SUM (<column>)"
 excerpt: "Adds all the numbers in a column."
 originalUrl: https://docs.microsoft.com/en-us/dax/sum-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/sum-function-dax

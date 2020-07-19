@@ -1,5 +1,5 @@
 ---
-name: "ROUNDUP(<number>, <num_digits>)"
+name: "ROUNDUP (<number>, <num_digits>)"
 excerpt: "Rounds a number up, away from 0 (zero)."
 originalUrl: https://docs.microsoft.com/en-us/dax/roundup-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/roundup-function-dax

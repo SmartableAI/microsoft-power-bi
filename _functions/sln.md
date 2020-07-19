@@ -1,5 +1,5 @@
 ---
-name: "SLN(<cost>, <salvage>, <life>)"
+name: "SLN (<cost>, <salvage>, <life>)"
 excerpt: "Returns the straight-line depreciation of an asset for one period."
 originalUrl: https://docs.microsoft.com/en-us/dax/sln-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/sln-function-dax

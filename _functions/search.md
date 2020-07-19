@@ -1,5 +1,5 @@
 ---
-name: "SEARCH(<find_text>, <within_text>[, [<start_num>][, <NotFoundValue>]])"
+name: "SEARCH (<find_text>, <within_text>[, [<start_num>][, <NotFoundValue>]])"
 excerpt: "Returns the number of the character at which a specific character or text string is first found, reading left to right. Search is case-insensitive and accent sensitive."
 originalUrl: https://docs.microsoft.com/en-us/dax/search-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/search-function-dax

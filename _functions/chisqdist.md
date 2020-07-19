@@ -1,5 +1,5 @@
 ---
-name: "CHISQ.DIST(<x>, <deg_freedom>, <cumulative>)"
+name: "CHISQ.DIST (<x>, <deg_freedom>, <cumulative>)"
 excerpt: "Returns the chi-squared distribution."
 originalUrl: https://docs.microsoft.com/en-us/dax/chisq-dist-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/chisq-dist-function-dax

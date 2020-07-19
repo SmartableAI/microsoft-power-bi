@@ -1,5 +1,5 @@
 ---
-name: "PREVIOUSYEAR(<dates>[,<year_end_date>])"
+name: "PREVIOUSYEAR (<dates>[,<year_end_date>])"
 excerpt: "Returns a table that contains a column of all dates from the previous year, given the last date in the dates column, in the current context."
 originalUrl: https://docs.microsoft.com/en-us/dax/previousyear-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/previousyear-function-dax

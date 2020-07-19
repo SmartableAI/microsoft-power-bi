@@ -1,5 +1,5 @@
 ---
-name: "INTRATE(<settlement>, <maturity>, <investment>, <redemption>[, <basis>])"
+name: "INTRATE (<settlement>, <maturity>, <investment>, <redemption>[, <basis>])"
 excerpt: "Returns the interest rate for a fully invested security."
 originalUrl: https://docs.microsoft.com/en-us/dax/intrate-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/intrate-function-dax

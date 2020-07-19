@@ -1,5 +1,5 @@
 ---
-name: "AVERAGEX(<table>,<expression>)"
+name: "AVERAGEX (<table>,<expression>)"
 excerpt: "Calculates the average (arithmetic mean) of a set of expressions evaluated over a table."
 originalUrl: https://docs.microsoft.com/en-us/dax/averagex-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/averagex-function-dax

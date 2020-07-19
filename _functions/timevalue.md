@@ -1,5 +1,5 @@
 ---
-name: "TIMEVALUE(time_text)"
+name: "TIMEVALUE (time_text)"
 excerpt: "Converts a time in text format to a time in datetime format."
 originalUrl: https://docs.microsoft.com/en-us/dax/timevalue-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/timevalue-function-dax

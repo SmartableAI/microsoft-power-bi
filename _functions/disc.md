@@ -1,5 +1,5 @@
 ---
-name: "DISC(<settlement>, <maturity>, <pr>, <redemption>[, <basis>])"
+name: "DISC (<settlement>, <maturity>, <pr>, <redemption>[, <basis>])"
 excerpt: "Returns the discount rate for a security."
 originalUrl: https://docs.microsoft.com/en-us/dax/disc-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/disc-function-dax

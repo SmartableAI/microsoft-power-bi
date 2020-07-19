@@ -1,5 +1,5 @@
 ---
-name: "DATESMTD(<dates>)"
+name: "DATESMTD (<dates>)"
 excerpt: "Returns a table that contains a column of the dates for the month to date, in the current context."
 originalUrl: https://docs.microsoft.com/en-us/dax/datesmtd-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/datesmtd-function-dax

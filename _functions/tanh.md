@@ -1,5 +1,5 @@
 ---
-name: "TANH(number)"
+name: "TANH (number)"
 excerpt: "Returns the hyperbolic tangent of a number."
 originalUrl: https://docs.microsoft.com/en-us/dax/tanh-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/tanh-function-dax

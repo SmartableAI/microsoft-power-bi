@@ -1,5 +1,5 @@
 ---
-name: "TAN(number)"
+name: "TAN (number)"
 excerpt: "Returns the tangent of the given angle."
 originalUrl: https://docs.microsoft.com/en-us/dax/tan-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/tan-function-dax

@@ -1,5 +1,5 @@
 ---
-name: "ISBLANK(<value>)"
+name: "ISBLANK (<value>)"
 excerpt: "Checks whether a value is blank, and returns TRUE or FALSE."
 originalUrl: https://docs.microsoft.com/en-us/dax/isblank-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/isblank-function-dax

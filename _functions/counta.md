@@ -1,5 +1,5 @@
 ---
-name: "COUNTA(<column>)"
+name: "COUNTA (<column>)"
 excerpt: "The COUNTA function counts the number of cells in a column that are not empty."
 originalUrl: https://docs.microsoft.com/en-us/dax/counta-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/counta-function-dax

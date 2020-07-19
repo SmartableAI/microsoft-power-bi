@@ -1,5 +1,5 @@
 ---
-name: "OR(<logical1>,<logical2>)"
+name: "OR (<logical1>,<logical2>)"
 excerpt: "Checks whether one of the arguments is TRUE to return TRUE. The function returns FALSE if both arguments are FALSE."
 originalUrl: https://docs.microsoft.com/en-us/dax/or-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/or-function-dax

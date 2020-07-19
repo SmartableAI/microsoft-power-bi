@@ -1,5 +1,5 @@
 ---
-name: "DATESINPERIOD(<dates>, <start_date>, <number_of_intervals>, <interval>)"
+name: "DATESINPERIOD (<dates>, <start_date>, <number_of_intervals>, <interval>)"
 excerpt: "Returns a table that contains a column of dates that begins with a specified start date and continues for the specified number and type of date intervals."
 originalUrl: https://docs.microsoft.com/en-us/dax/datesinperiod-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/datesinperiod-function-dax

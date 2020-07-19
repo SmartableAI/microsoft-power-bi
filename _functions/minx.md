@@ -1,5 +1,5 @@
 ---
-name: "MINX(<table>, < expression>)"
+name: "MINX (<table>, < expression>)"
 excerpt: "Returns the smallest value that results from evaluating an expression for each row of a table."
 originalUrl: https://docs.microsoft.com/en-us/dax/minx-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/minx-function-dax

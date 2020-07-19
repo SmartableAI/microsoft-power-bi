@@ -1,5 +1,5 @@
 ---
-name: "OPENINGBALANCEMONTH(<expression>,<dates>[,<filter>])"
+name: "OPENINGBALANCEMONTH (<expression>,<dates>[,<filter>])"
 excerpt: "Evaluates the expression at the first date of the month in the current context."
 originalUrl: https://docs.microsoft.com/en-us/dax/openingbalancemonth-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/openingbalancemonth-function-dax

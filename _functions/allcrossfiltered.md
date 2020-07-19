@@ -1,5 +1,5 @@
 ---
-name: "ALLCROSSFILTERED(<table>)"
+name: "ALLCROSSFILTERED (<table>)"
 excerpt: "Clear all filters which are applied to a table."
 originalUrl: https://docs.microsoft.com/en-us/dax/allcrossfiltered-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/allcrossfiltered-function-dax

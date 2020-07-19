@@ -1,5 +1,5 @@
 ---
-name: "VAR.S(<columnName>)"
+name: "VAR.S (<columnName>)"
 excerpt: "Returns the variance of a sample population."
 originalUrl: https://docs.microsoft.com/en-us/dax/var-s-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/var-s-function-dax

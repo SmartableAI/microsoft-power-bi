@@ -1,5 +1,5 @@
 ---
-name: "ACOT(number)"
+name: "ACOT (number)"
 excerpt: "Returns the principal value of the arccotangent, or inverse cotangent of a number."
 originalUrl: https://docs.microsoft.com/en-us/dax/acot-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/acot-function-dax

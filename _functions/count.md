@@ -1,5 +1,5 @@
 ---
-name: "COUNT(<column>)"
+name: "COUNT (<column>)"
 excerpt: "The COUNT function counts the number of cells in a column that contain non-blank values."
 originalUrl: https://docs.microsoft.com/en-us/dax/count-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/count-function-dax

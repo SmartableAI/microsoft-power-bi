@@ -2,7 +2,7 @@
 name: "Parent and Child functions"
 excerpt: "These functions manage data that is presented as parent/child hierarchies."
 type: collection
-heat: 200
+heat: 130
 
 provider:
   name: Microsoft

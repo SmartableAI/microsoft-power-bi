@@ -1,5 +1,5 @@
 ---
-name: "DURATION(<settlement>, <maturity>, <coupon>, <yld>, <frequency>[, <basis>])"
+name: "DURATION (<settlement>, <maturity>, <coupon>, <yld>, <frequency>[, <basis>])"
 excerpt: "Returns the Macauley duration for an assumed par value of \\$100. Duration is defined as the weighted average of the present value of cash flows, and is used as a measure of a bond price's response to changes in yield."
 originalUrl: https://docs.microsoft.com/en-us/dax/duration-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/duration-function-dax

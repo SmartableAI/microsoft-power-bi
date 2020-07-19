@@ -1,5 +1,5 @@
 ---
-name: "GENERATESERIES(<startValue>, <endValue>[, <incrementValue>])"
+name: "GENERATESERIES (<startValue>, <endValue>[, <incrementValue>])"
 excerpt: "Returns a single column table containing the values of an arithmetic series, that is, a sequence of values in which each differs from the preceding by a constant quantity. The name of the column returned is Value."
 originalUrl: https://docs.microsoft.com/en-us/dax/generateseries-function
 webUrl: https://docs.microsoft.com/en-us/dax/generateseries-function

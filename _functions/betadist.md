@@ -1,5 +1,5 @@
 ---
-name: "BETA.DIST(x,alpha,beta,cumulative,[A],[B])"
+name: "BETA.DIST (x,alpha,beta,cumulative,[A],[B])"
 excerpt: "Returns the beta distribution. The beta distribution is commonly used to study variation in the percentage of something across samples, such as the fraction of the day people spend watching television."
 originalUrl: https://docs.microsoft.com/en-us/dax/beta-dist-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/beta-dist-function-dax

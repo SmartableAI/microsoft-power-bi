@@ -1,5 +1,5 @@
 ---
-name: "TRUE()"
+name: "TRUE ()"
 excerpt: "Returns the logical value TRUE."
 originalUrl: https://docs.microsoft.com/en-us/dax/true-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/true-function-dax

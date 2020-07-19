@@ -1,5 +1,5 @@
 ---
-name: "EOMONTH(<start_date>, <months>)"
+name: "EOMONTH (<start_date>, <months>)"
 excerpt: "Returns the date in datetime format of the last day of the month, before or after a specified number of months. Use EOMONTH to calculate maturity dates or due dates that fall on the last day of the month."
 originalUrl: https://docs.microsoft.com/en-us/dax/eomonth-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/eomonth-function-dax

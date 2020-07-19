@@ -1,5 +1,5 @@
 ---
-name: "ALLEXCEPT(<table>,<column>[,<column>[,…]])"
+name: "ALLEXCEPT (<table>,<column>[,<column>[,…]])"
 excerpt: "Removes all context filters in the table except filters that have been applied to the specified columns."
 originalUrl: https://docs.microsoft.com/en-us/dax/allexcept-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/allexcept-function-dax

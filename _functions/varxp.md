@@ -1,5 +1,5 @@
 ---
-name: "VARX.P(<table>, <expression>)"
+name: "VARX.P (<table>, <expression>)"
 excerpt: "Returns the variance of the entire population."
 originalUrl: https://docs.microsoft.com/en-us/dax/varx-p-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/varx-p-function-dax

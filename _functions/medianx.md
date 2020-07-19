@@ -1,5 +1,5 @@
 ---
-name: "MEDIANX(<table>, <expression>)"
+name: "MEDIANX (<table>, <expression>)"
 excerpt: "Returns the median number of an expression evaluated for each row in a table."
 originalUrl: https://docs.microsoft.com/en-us/dax/medianx-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/medianx-function-dax

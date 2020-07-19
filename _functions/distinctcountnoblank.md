@@ -1,5 +1,5 @@
 ---
-name: "DISTINCTCOUNTNOBLANK (<column>)"
+name: "DISTINCTCOUNTNOBLANK  (<column>)"
 excerpt: "Counts the number of distinct values in a column."
 originalUrl: https://docs.microsoft.com/en-us/dax/distinctcountnoblank-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/distinctcountnoblank-function-dax

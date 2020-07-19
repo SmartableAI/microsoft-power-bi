@@ -1,5 +1,5 @@
 ---
-name: "RRI(<nper>, <pv>, <fv>)"
+name: "RRI (<nper>, <pv>, <fv>)"
 excerpt: "Returns an equivalent interest rate for the growth of an investment."
 originalUrl: https://docs.microsoft.com/en-us/dax/rri-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/rri-function-dax

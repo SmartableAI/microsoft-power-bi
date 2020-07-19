@@ -1,5 +1,5 @@
 ---
-name: "TOTALMTD(<expression>,<dates>[,<filter>])"
+name: "TOTALMTD (<expression>,<dates>[,<filter>])"
 excerpt: "Evaluates the value of the expression for the month to date, in the current context."
 originalUrl: https://docs.microsoft.com/en-us/dax/totalmtd-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/totalmtd-function-dax

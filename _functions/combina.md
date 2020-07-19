@@ -1,5 +1,5 @@
 ---
-name: "COMBINA(number, number_chosen)"
+name: "COMBINA (number, number_chosen)"
 excerpt: "Returns the number of combinations (with repetitions) for a given number of items."
 originalUrl: https://docs.microsoft.com/en-us/dax/combina-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/combina-function-dax

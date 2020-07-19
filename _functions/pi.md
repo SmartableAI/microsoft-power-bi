@@ -1,5 +1,5 @@
 ---
-name: "PI()"
+name: "PI ()"
 excerpt: "Returns the value of Pi, 3.14159265358979, accurate to 15 digits."
 originalUrl: https://docs.microsoft.com/en-us/dax/pi-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/pi-function-dax

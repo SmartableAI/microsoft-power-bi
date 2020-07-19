@@ -1,5 +1,5 @@
 ---
-name: "XIRR(<table>, <values>, <dates>, [guess])"
+name: "XIRR (<table>, <values>, <dates>, [guess])"
 excerpt: "Returns the internal rate of return for a schedule of cash flows that is not necessarily periodic."
 originalUrl: https://docs.microsoft.com/en-us/dax/xirr-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/xirr-function-dax

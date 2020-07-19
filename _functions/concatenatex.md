@@ -1,5 +1,5 @@
 ---
-name: "CONCATENATEX(<table>, <expression>, [delimiter])"
+name: "CONCATENATEX (<table>, <expression>, [delimiter])"
 excerpt: "Concatenates the result of an expression evaluated for each row in a table."
 originalUrl: https://docs.microsoft.com/en-us/dax/concatenatex-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/concatenatex-function-dax

@@ -1,5 +1,5 @@
 ---
-name: "STARTOFQUARTER(<dates>)"
+name: "STARTOFQUARTER (<dates>)"
 excerpt: "Returns the first date of the quarter in the current context for the specified column of dates."
 originalUrl: https://docs.microsoft.com/en-us/dax/startofquarter-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/startofquarter-function-dax

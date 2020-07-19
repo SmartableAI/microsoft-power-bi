@@ -1,5 +1,5 @@
 ---
-name: "USEROBJECTID()"
+name: "USEROBJECTID ()"
 excerpt: "Returns the current user's Object ID from Azure AD or security identifier (SID)."
 originalUrl: https://docs.microsoft.com/en-us/dax/userobjectid-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/userobjectid-function-dax

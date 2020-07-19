@@ -1,5 +1,5 @@
 ---
-name: "ISLOGICAL(<value>)"
+name: "ISLOGICAL (<value>)"
 excerpt: "Checks whether a value is a logical value, (TRUE or FALSE), and returns TRUE or FALSE."
 originalUrl: https://docs.microsoft.com/en-us/dax/islogical-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/islogical-function-dax

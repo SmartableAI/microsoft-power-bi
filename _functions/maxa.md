@@ -1,5 +1,5 @@
 ---
-name: "MAXA(<column>)"
+name: "MAXA (<column>)"
 excerpt: "Returns the largest value in a column."
 originalUrl: https://docs.microsoft.com/en-us/dax/maxa-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/maxa-function-dax

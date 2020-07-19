@@ -1,5 +1,5 @@
 ---
-name: "CHISQ.INV.RT(probability,deg_freedom)"
+name: "CHISQ.INV.RT (probability,deg_freedom)"
 excerpt: "Returns the inverse of the right-tailed probability of the chi-squared distribution."
 originalUrl: https://docs.microsoft.com/en-us/dax/chisq-inv-rt-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/chisq-inv-rt-function-dax

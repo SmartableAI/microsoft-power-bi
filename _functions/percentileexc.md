@@ -1,5 +1,5 @@
 ---
-name: "PERCENTILE.EXC(<column>, <k>)"
+name: "PERCENTILE.EXC (<column>, <k>)"
 excerpt: "Returns the k-th percentile of values in a range, where k is in the range 0..1, exclusive."
 originalUrl: https://docs.microsoft.com/en-us/dax/percentile-exc-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/percentile-exc-function-dax

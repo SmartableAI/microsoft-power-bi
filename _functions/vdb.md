@@ -1,5 +1,5 @@
 ---
-name: "VDB(<cost>, <salvage>, <life>, <start_period>, <end_period>[, <factor>[, <no_switch>]])"
+name: "VDB (<cost>, <salvage>, <life>, <start_period>, <end_period>[, <factor>[, <no_switch>]])"
 excerpt: "Returns the depreciation of an asset for any period you specify, including partial periods, using the double-declining balance method or some other method you specify. VDB stands for variable declining balance."
 originalUrl: https://docs.microsoft.com/en-us/dax/vdb-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/vdb-function-dax

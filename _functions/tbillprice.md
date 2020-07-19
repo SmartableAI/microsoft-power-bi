@@ -1,5 +1,5 @@
 ---
-name: "TBILLPRICE(<settlement>, <maturity>, <discount>)"
+name: "TBILLPRICE (<settlement>, <maturity>, <discount>)"
 excerpt: "Returns the price per \\$100 face value for a Treasury bill."
 originalUrl: https://docs.microsoft.com/en-us/dax/tbillprice-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/tbillprice-function-dax

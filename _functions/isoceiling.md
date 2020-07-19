@@ -1,5 +1,5 @@
 ---
-name: "ISO.CEILING(<number>[, <significance>])"
+name: "ISO.CEILING (<number>[, <significance>])"
 excerpt: "Rounds a number up, to the nearest integer or to the nearest multiple of significance."
 originalUrl: https://docs.microsoft.com/en-us/dax/iso-ceiling-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/iso-ceiling-function-dax

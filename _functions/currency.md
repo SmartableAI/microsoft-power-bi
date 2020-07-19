@@ -1,5 +1,5 @@
 ---
-name: "CURRENCY(<value>)"
+name: "CURRENCY (<value>)"
 excerpt: "Evaluates the argument and returns the result as currency data type."
 originalUrl: https://docs.microsoft.com/en-us/dax/currency-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/currency-function-dax

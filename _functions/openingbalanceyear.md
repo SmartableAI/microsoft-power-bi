@@ -1,5 +1,5 @@
 ---
-name: "OPENINGBALANCEYEAR(<expression>,<dates>[,<filter>][,<year_end_date>])"
+name: "OPENINGBALANCEYEAR (<expression>,<dates>[,<filter>][,<year_end_date>])"
 excerpt: "Evaluates the expression at the first date of the year in the current context."
 originalUrl: https://docs.microsoft.com/en-us/dax/openingbalanceyear-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/openingbalanceyear-function-dax

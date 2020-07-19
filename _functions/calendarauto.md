@@ -1,5 +1,5 @@
 ---
-name: "CALENDARAUTO([fiscal_year_end_month])"
+name: "CALENDARAUTO ([fiscal_year_end_month])"
 excerpt: "Returns a table with a single column named \"Date\" that contains a contiguous set of dates. The range of dates is calculated automatically based on data in the model."
 originalUrl: https://docs.microsoft.com/en-us/dax/calendarauto-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/calendarauto-function-dax

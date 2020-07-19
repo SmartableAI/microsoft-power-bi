@@ -1,5 +1,5 @@
 ---
-name: "DATEVALUE(date_text)"
+name: "DATEVALUE (date_text)"
 excerpt: "Converts a date in text format to a date in datetime format."
 originalUrl: https://docs.microsoft.com/en-us/dax/datevalue-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/datevalue-function-dax

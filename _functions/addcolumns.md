@@ -1,5 +1,5 @@
 ---
-name: "ADDCOLUMNS(<table>, <name>, <expression>[, <name>, <expression>]…)"
+name: "ADDCOLUMNS (<table>, <name>, <expression>[, <name>, <expression>]…)"
 excerpt: "Adds calculated columns to the given table or table expression."
 originalUrl: https://docs.microsoft.com/en-us/dax/addcolumns-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/addcolumns-function-dax

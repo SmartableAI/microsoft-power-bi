@@ -1,5 +1,5 @@
 ---
-name: "PRICEMAT(<settlement>, <maturity>, <issue>, <rate>, <yld>[, <basis>])"
+name: "PRICEMAT (<settlement>, <maturity>, <issue>, <rate>, <yld>[, <basis>])"
 excerpt: "Returns the price per \\$100 face value of a security that pays interest at maturity."
 originalUrl: https://docs.microsoft.com/en-us/dax/pricemat-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/pricemat-function-dax

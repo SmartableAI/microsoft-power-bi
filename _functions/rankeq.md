@@ -1,5 +1,5 @@
 ---
-name: "RANK.EQ(<value>, <columnName>[, <order>])"
+name: "RANK.EQ (<value>, <columnName>[, <order>])"
 excerpt: "Returns the ranking of a number in a list of numbers."
 originalUrl: https://docs.microsoft.com/en-us/dax/rank-eq-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/rank-eq-function-dax

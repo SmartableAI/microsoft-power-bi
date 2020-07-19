@@ -1,5 +1,5 @@
 ---
-name: "QUOTIENT(<numerator>, <denominator>)"
+name: "QUOTIENT (<numerator>, <denominator>)"
 excerpt: "Performs division and returns only the integer portion of the division result. Use this function when you want to discard the remainder of division."
 originalUrl: https://docs.microsoft.com/en-us/dax/quotient-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/quotient-function-dax

@@ -1,5 +1,5 @@
 ---
-name: "ISFILTERED(<columnName>)"
+name: "ISFILTERED (<columnName>)"
 excerpt: "Returns TRUE when columnName is being filtered directly. If there is no filter on the column or if the filtering happens because a different column in the same table or in a related table is being filtered then the function returns FALSE."
 originalUrl: https://docs.microsoft.com/en-us/dax/isfiltered-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/isfiltered-function-dax

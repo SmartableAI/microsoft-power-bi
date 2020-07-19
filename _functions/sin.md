@@ -1,5 +1,5 @@
 ---
-name: "SIN(number)"
+name: "SIN (number)"
 excerpt: "Returns the sine of the given angle."
 originalUrl: https://docs.microsoft.com/en-us/dax/sin-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/sin-function-dax

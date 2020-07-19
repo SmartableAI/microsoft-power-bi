@@ -1,5 +1,5 @@
 ---
-name: "DATESYTD(<dates> [,<year_end_date>])"
+name: "DATESYTD (<dates> [,<year_end_date>])"
 excerpt: "Returns a table that contains a column of the dates for the year to date, in the current context."
 originalUrl: https://docs.microsoft.com/en-us/dax/datesytd-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/datesytd-function-dax

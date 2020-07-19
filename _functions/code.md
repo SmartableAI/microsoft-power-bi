@@ -1,5 +1,5 @@
 ---
-name: "CODE(text)"
+name: "CODE (text)"
 excerpt: "Returns a numeric code for the first character in a text string. The returned code corresponds to the character set used by your computer."
 originalUrl: https://docs.microsoft.com/en-us/dax/code-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/code-function-dax

@@ -1,5 +1,5 @@
 ---
-name: "DATE(<year>, <month>, <day>)"
+name: "DATE (<year>, <month>, <day>)"
 excerpt: "Returns the specified date in datetime format."
 originalUrl: https://docs.microsoft.com/en-us/dax/date-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/date-function-dax

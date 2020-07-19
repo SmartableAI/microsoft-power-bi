@@ -1,5 +1,5 @@
 ---
-name: "SELECTEDMEASUREFORMATSTRING()"
+name: "SELECTEDMEASUREFORMATSTRING ()"
 excerpt: "Used by expressions for calculation items to retrieve the format string of the measure that is in context."
 originalUrl: https://docs.microsoft.com/en-us/dax/selectedmeasureformatstring-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/selectedmeasureformatstring-function-dax

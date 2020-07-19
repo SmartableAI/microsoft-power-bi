@@ -1,5 +1,5 @@
 ---
-name: "YEARFRAC(<start_date>, <end_date>, <basis>)"
+name: "YEARFRAC (<start_date>, <end_date>, <basis>)"
 excerpt: "Calculates the fraction of the year represented by the number of whole days between two dates. Use the YEARFRAC worksheet function to identify the proportion of a whole year's benefits or obligations to assign to a specific term."
 originalUrl: https://docs.microsoft.com/en-us/dax/yearfrac-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/yearfrac-function-dax

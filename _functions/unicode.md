@@ -1,5 +1,5 @@
 ---
-name: "UNICODE( <Text> )"
+name: "UNICODE ( <Text> )"
 excerpt: "Returns the number (code point) corresponding to the first character of the text."
 originalUrl: https://docs.microsoft.com/en-us/dax/unicode-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/unicode-function-dax

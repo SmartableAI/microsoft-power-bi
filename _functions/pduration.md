@@ -1,5 +1,5 @@
 ---
-name: "PDURATION(<rate>, <pv>, <fv>)"
+name: "PDURATION (<rate>, <pv>, <fv>)"
 excerpt: "Returns the number of periods required by an investment to reach a specified value."
 originalUrl: https://docs.microsoft.com/en-us/dax/pduration-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/pduration-function-dax

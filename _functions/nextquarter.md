@@ -1,5 +1,5 @@
 ---
-name: "NEXTQUARTER(<dates>)"
+name: "NEXTQUARTER (<dates>)"
 excerpt: "Returns a table that contains a column of all dates in the next quarter, based on the first date specified in the dates column, in the current context."
 originalUrl: https://docs.microsoft.com/en-us/dax/nextquarter-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/nextquarter-function-dax

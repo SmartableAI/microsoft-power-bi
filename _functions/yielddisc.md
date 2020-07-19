@@ -1,5 +1,5 @@
 ---
-name: "YIELDDISC(<settlement>, <maturity>, <pr>, <redemption>[, <basis>])"
+name: "YIELDDISC (<settlement>, <maturity>, <pr>, <redemption>[, <basis>])"
 excerpt: "Returns the annual yield for a discounted security."
 originalUrl: https://docs.microsoft.com/en-us/dax/yielddisc-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/yielddisc-function-dax

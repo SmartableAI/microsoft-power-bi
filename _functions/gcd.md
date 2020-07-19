@@ -1,5 +1,5 @@
 ---
-name: "GCD(number1, [number2], ...)"
+name: "GCD (number1, [number2], ...)"
 excerpt: "Returns the greatest common divisor of two or more integers. The greatest common divisor is the largest integer that divides both number1 and number2 without a remainder."
 originalUrl: https://docs.microsoft.com/en-us/dax/gcd-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/gcd-function-dax

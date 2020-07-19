@@ -1,5 +1,5 @@
 ---
-name: "DAY(<date>)"
+name: "DAY (<date>)"
 excerpt: "Returns the day of the month, a number from 1 to 31."
 originalUrl: https://docs.microsoft.com/en-us/dax/day-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/day-function-dax

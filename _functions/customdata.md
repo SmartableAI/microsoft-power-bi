@@ -1,5 +1,5 @@
 ---
-name: "CUSTOMDATA()"
+name: "CUSTOMDATA ()"
 excerpt: "Returns the content of the CustomData property in the connection string."
 originalUrl: https://docs.microsoft.com/en-us/dax/customdata-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/customdata-function-dax

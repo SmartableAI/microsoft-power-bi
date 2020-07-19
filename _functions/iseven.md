@@ -1,5 +1,5 @@
 ---
-name: "ISEVEN(number)"
+name: "ISEVEN (number)"
 excerpt: "Returns TRUE if number is even, or FALSE if number is odd."
 originalUrl: https://docs.microsoft.com/en-us/dax/iseven-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/iseven-function-dax

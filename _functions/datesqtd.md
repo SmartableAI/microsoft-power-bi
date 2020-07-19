@@ -1,5 +1,5 @@
 ---
-name: "DATESQTD(<dates>)"
+name: "DATESQTD (<dates>)"
 excerpt: "Returns a table that contains a column of the dates for the quarter to date, in the current context."
 originalUrl: https://docs.microsoft.com/en-us/dax/datesqtd-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/datesqtd-function-dax

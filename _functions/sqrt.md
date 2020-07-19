@@ -1,5 +1,5 @@
 ---
-name: "SQRT(<number>)"
+name: "SQRT (<number>)"
 excerpt: "Returns the square root of a number."
 originalUrl: https://docs.microsoft.com/en-us/dax/sqrt-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/sqrt-function-dax

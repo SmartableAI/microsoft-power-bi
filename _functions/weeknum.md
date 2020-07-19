@@ -1,5 +1,5 @@
 ---
-name: "WEEKNUM(<date>, <return_type>)"
+name: "WEEKNUM (<date>, <return_type>)"
 excerpt: "Returns the week number for the given date and year according to the return_type value. The week number indicates where the week falls numerically within a year."
 originalUrl: https://docs.microsoft.com/en-us/dax/weeknum-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/weeknum-function-dax

@@ -1,5 +1,5 @@
 ---
-name: "IFERROR(value, value_if_error)"
+name: "IFERROR (value, value_if_error)"
 excerpt: "Evaluates an expression and returns a specified value if the expression returns an error; otherwise returns the value of the expression itself."
 originalUrl: https://docs.microsoft.com/en-us/dax/iferror-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/iferror-function-dax

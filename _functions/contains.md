@@ -1,5 +1,5 @@
 ---
-name: "CONTAINS(<table>, <columnName>, <value>[, <columnName>, <value>]…)"
+name: "CONTAINS (<table>, <columnName>, <value>[, <columnName>, <value>]…)"
 excerpt: "Returns true if values for all referred columns exist, or are contained, in those columns; otherwise, the function returns false."
 originalUrl: https://docs.microsoft.com/en-us/dax/contains-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/contains-function-dax

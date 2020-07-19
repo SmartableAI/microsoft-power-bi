@@ -1,5 +1,5 @@
 ---
-name: "ODDFYIELD(<settlement>, <maturity>, <issue>, <first_coupon>, <rate>, <pr>, <redemption>, <frequency>[, <basis>])"
+name: "ODDFYIELD (<settlement>, <maturity>, <issue>, <first_coupon>, <rate>, <pr>, <redemption>, <frequency>[, <basis>])"
 excerpt: "Returns the yield of a security that has an odd (short or long) first period."
 originalUrl: https://docs.microsoft.com/en-us/dax/oddfyield-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/oddfyield-function-dax

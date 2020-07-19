@@ -1,5 +1,5 @@
 ---
-name: "FILTER(<table>,<filter>)"
+name: "FILTER (<table>,<filter>)"
 excerpt: "Returns a table that represents a subset of another table or expression."
 originalUrl: https://docs.microsoft.com/en-us/dax/filter-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/filter-function-dax

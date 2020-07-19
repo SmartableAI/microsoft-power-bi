@@ -1,5 +1,5 @@
 ---
-name: "KEEPFILTERS(<expression>)"
+name: "KEEPFILTERS (<expression>)"
 excerpt: "Modifies how filters are applied while evaluating a CALCULATE or CALCULATETABLE function."
 originalUrl: https://docs.microsoft.com/en-us/dax/keepfilters-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/keepfilters-function-dax

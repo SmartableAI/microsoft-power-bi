@@ -1,5 +1,5 @@
 ---
-name: "VAR.P(<columnName>)"
+name: "VAR.P (<columnName>)"
 excerpt: "Returns the variance of the entire population."
 originalUrl: https://docs.microsoft.com/en-us/dax/var-p-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/var-p-function-dax

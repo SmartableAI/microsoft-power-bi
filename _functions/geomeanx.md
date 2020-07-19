@@ -1,5 +1,5 @@
 ---
-name: "GEOMEANX(<table>, <expression>)"
+name: "GEOMEANX (<table>, <expression>)"
 excerpt: "Returns the geometric mean of an expression evaluated for each row in a table."
 originalUrl: https://docs.microsoft.com/en-us/dax/geomeanx-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/geomeanx-function-dax

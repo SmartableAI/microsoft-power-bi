@@ -1,5 +1,5 @@
 ---
-name: "REPT(<text>, <num_times>)"
+name: "REPT (<text>, <num_times>)"
 excerpt: "Repeats text a given number of times. Use REPT to fill a cell with a number of instances of a text string."
 originalUrl: https://docs.microsoft.com/en-us/dax/rept-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/rept-function-dax

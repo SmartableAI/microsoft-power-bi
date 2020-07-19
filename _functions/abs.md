@@ -1,5 +1,5 @@
 ---
-name: "ABS(<number>)"
+name: "ABS (<number>)"
 excerpt: "Returns the absolute value of a number."
 originalUrl: https://docs.microsoft.com/en-us/dax/abs-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/abs-function-dax

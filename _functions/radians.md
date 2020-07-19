@@ -1,5 +1,5 @@
 ---
-name: "RADIANS(angle)"
+name: "RADIANS (angle)"
 excerpt: "Converts degrees to radians."
 originalUrl: https://docs.microsoft.com/en-us/dax/radians-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/radians-function-dax

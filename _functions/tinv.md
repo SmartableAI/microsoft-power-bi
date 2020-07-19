@@ -1,5 +1,5 @@
 ---
-name: "T.INV(Probability,Deg_freedom)"
+name: "T.INV (Probability,Deg_freedom)"
 excerpt: "Returns the left-tailed inverse of the Student's t-distribution."
 originalUrl: https://docs.microsoft.com/en-us/dax/t-inv-dax
 webUrl: https://docs.microsoft.com/en-us/dax/t-inv-dax

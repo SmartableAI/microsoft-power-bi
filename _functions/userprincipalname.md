@@ -1,5 +1,5 @@
 ---
-name: "USERPRINCIPALNAME()"
+name: "USERPRINCIPALNAME ()"
 excerpt: "Returns the user principal name."
 originalUrl: https://docs.microsoft.com/en-us/dax/userprincipalname-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/userprincipalname-function-dax

@@ -1,5 +1,5 @@
 ---
-name: "ISTEXT(<value>)"
+name: "ISTEXT (<value>)"
 excerpt: "Checks if a value is text, and returns TRUE or FALSE."
 originalUrl: https://docs.microsoft.com/en-us/dax/istext-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/istext-function-dax

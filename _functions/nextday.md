@@ -1,5 +1,5 @@
 ---
-name: "NEXTDAY(<dates>)"
+name: "NEXTDAY (<dates>)"
 excerpt: "Returns a table that contains a column of all dates from the next day, based on the first date specified in the dates column in the current context."
 originalUrl: https://docs.microsoft.com/en-us/dax/nextday-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/nextday-function-dax

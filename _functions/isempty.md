@@ -1,5 +1,5 @@
 ---
-name: "ISEMPTY(<table_expression>)"
+name: "ISEMPTY (<table_expression>)"
 excerpt: "Checks if a table is empty."
 originalUrl: https://docs.microsoft.com/en-us/dax/isempty-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/isempty-function-dax

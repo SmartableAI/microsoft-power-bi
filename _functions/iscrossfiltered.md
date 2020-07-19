@@ -1,5 +1,5 @@
 ---
-name: "ISCROSSFILTERED(<columnName>)"
+name: "ISCROSSFILTERED (<columnName>)"
 excerpt: "Returns TRUE when columnName or another column in the same or related table is being filtered."
 originalUrl: https://docs.microsoft.com/en-us/dax/iscrossfiltered-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/iscrossfiltered-function-dax

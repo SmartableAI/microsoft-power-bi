@@ -1,5 +1,5 @@
 ---
-name: "PATHITEM(<path>, <position>[, <type>])"
+name: "PATHITEM (<path>, <position>[, <type>])"
 excerpt: "Returns the item at the specified position from a string resulting from evaluation of a PATH function. Positions are counted from left to right."
 originalUrl: https://docs.microsoft.com/en-us/dax/pathitem-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/pathitem-function-dax

@@ -1,5 +1,5 @@
 ---
-name: "MINA(<column>)"
+name: "MINA (<column>)"
 excerpt: "Returns the smallest value in a column."
 originalUrl: https://docs.microsoft.com/en-us/dax/mina-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/mina-function-dax

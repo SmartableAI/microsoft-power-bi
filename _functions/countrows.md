@@ -1,5 +1,5 @@
 ---
-name: "COUNTROWS(<table>)"
+name: "COUNTROWS (<table>)"
 excerpt: "The COUNTROWS function counts the number of rows in the specified table, or in a table defined by an expression."
 originalUrl: https://docs.microsoft.com/en-us/dax/countrows-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/countrows-function-dax

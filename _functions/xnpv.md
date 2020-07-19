@@ -1,5 +1,5 @@
 ---
-name: "XNPV(<table>, <values>, <dates>, <rate>)"
+name: "XNPV (<table>, <values>, <dates>, <rate>)"
 excerpt: "Returns the present value for a schedule of cash flows that is not necessarily periodic."
 originalUrl: https://docs.microsoft.com/en-us/dax/xnpv-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/xnpv-function-dax

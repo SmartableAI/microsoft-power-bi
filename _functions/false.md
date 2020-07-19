@@ -1,5 +1,5 @@
 ---
-name: "FALSE()"
+name: "FALSE ()"
 excerpt: "Returns the logical value FALSE."
 originalUrl: https://docs.microsoft.com/en-us/dax/false-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/false-function-dax

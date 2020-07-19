@@ -1,5 +1,5 @@
 ---
-name: "SYD(<cost>, <salvage>, <life>, <per>)"
+name: "SYD (<cost>, <salvage>, <life>, <per>)"
 excerpt: "Returns the sum-of-years' digits depreciation of an asset for a specified period."
 originalUrl: https://docs.microsoft.com/en-us/dax/syd-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/syd-function-dax

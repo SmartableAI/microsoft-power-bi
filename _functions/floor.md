@@ -1,5 +1,5 @@
 ---
-name: "FLOOR(<number>, <significance>)"
+name: "FLOOR (<number>, <significance>)"
 excerpt: "Rounds a number down, toward zero, to the nearest multiple of significance."
 originalUrl: https://docs.microsoft.com/en-us/dax/floor-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/floor-function-dax

@@ -1,5 +1,5 @@
 ---
-name: "ALLSELECTED([<tableName> | <columnName>[, <columnName>[, <columnName>[,…]]]] )"
+name: "ALLSELECTED ( [<tableName> | <columnName>[, <columnName>[, <columnName>[,…]]]] )"
 excerpt: "Removes context filters from columns and rows in the current query, while retaining all other context filters or explicit filters."
 originalUrl: https://docs.microsoft.com/en-us/dax/allselected-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/allselected-function-dax

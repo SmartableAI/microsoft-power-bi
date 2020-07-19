@@ -1,5 +1,5 @@
 ---
-name: "TODAY()"
+name: "TODAY ()"
 excerpt: "Returns the current date."
 originalUrl: https://docs.microsoft.com/en-us/dax/today-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/today-function-dax

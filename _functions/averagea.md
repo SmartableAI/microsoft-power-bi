@@ -1,5 +1,5 @@
 ---
-name: "AVERAGEA(<column>)"
+name: "AVERAGEA (<column>)"
 excerpt: "Returns the average (arithmetic mean) of the values in a column. Handles text and non-numeric values."
 originalUrl: https://docs.microsoft.com/en-us/dax/averagea-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/averagea-function-dax

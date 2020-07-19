@@ -1,5 +1,5 @@
 ---
-name: "ACOS(number)"
+name: "ACOS (number)"
 excerpt: "Returns the arccosine, or inverse cosine, of a number. The arccosine is the angle whose cosine is number. The returned angle is given in radians in the range 0 (zero) to pi."
 originalUrl: https://docs.microsoft.com/en-us/dax/acos-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/acos-function-dax

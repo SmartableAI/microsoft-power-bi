@@ -1,5 +1,5 @@
 ---
-name: "NOW()"
+name: "NOW ()"
 excerpt: "Returns the current date and time in datetime format."
 originalUrl: https://docs.microsoft.com/en-us/dax/now-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/now-function-dax

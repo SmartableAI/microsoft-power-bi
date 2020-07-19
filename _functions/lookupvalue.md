@@ -1,5 +1,5 @@
 ---
-name: "LOOKUPVALUE(\n    <result_columnName>,\n    <search_columnName>,\n    <search_value>\n    [, <search2_columnName>, <search2_value>]…\n    [, <alternateResult>]\n)"
+name: "LOOKUPVALUE (<result_columnName>,<search_columnName>,<search_value>[, <search2_columnName>, <search2_value>]…[, <alternateResult>])"
 excerpt: "Returns the value for the row that meets all criteria specified by search conditions. The function can apply one or more search conditions."
 originalUrl: https://docs.microsoft.com/en-us/dax/lookupvalue-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/lookupvalue-function-dax

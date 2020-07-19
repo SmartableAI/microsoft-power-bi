@@ -1,5 +1,5 @@
 ---
-name: "INT(<number>)"
+name: "INT (<number>)"
 excerpt: "Rounds a number down to the nearest integer."
 originalUrl: https://docs.microsoft.com/en-us/dax/int-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/int-function-dax

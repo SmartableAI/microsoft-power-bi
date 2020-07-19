@@ -1,5 +1,5 @@
 ---
-name: "CLOSINGBALANCEMONTH(<expression>,<dates>[,<filter>])"
+name: "CLOSINGBALANCEMONTH (<expression>,<dates>[,<filter>])"
 excerpt: "Evaluates the expression at the last date of the month in the current context."
 originalUrl: https://docs.microsoft.com/en-us/dax/closingbalancemonth-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/closingbalancemonth-function-dax

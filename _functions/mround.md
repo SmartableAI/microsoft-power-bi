@@ -1,5 +1,5 @@
 ---
-name: "MROUND(<number>, <multiple>)"
+name: "MROUND (<number>, <multiple>)"
 excerpt: "Returns a number rounded to the desired multiple."
 originalUrl: https://docs.microsoft.com/en-us/dax/mround-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/mround-function-dax

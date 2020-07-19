@@ -1,5 +1,5 @@
 ---
-name: "AVERAGE(<column>)"
+name: "AVERAGE (<column>)"
 excerpt: "Returns the average (arithmetic mean) of all the numbers in a column."
 originalUrl: https://docs.microsoft.com/en-us/dax/average-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/average-function-dax

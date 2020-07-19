@@ -1,5 +1,5 @@
 ---
-name: "HASONEFILTER(<columnName>)"
+name: "HASONEFILTER (<columnName>)"
 excerpt: "Returns TRUE when the number of directly filtered values on columnName is one; otherwise returns FALSE."
 originalUrl: https://docs.microsoft.com/en-us/dax/hasonefilter-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/hasonefilter-function-dax

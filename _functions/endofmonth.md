@@ -1,5 +1,5 @@
 ---
-name: "ENDOFMONTH(<dates>)"
+name: "ENDOFMONTH (<dates>)"
 excerpt: "Returns the last date of the month in the current context for the specified column of dates."
 originalUrl: https://docs.microsoft.com/en-us/dax/endofmonth-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/endofmonth-function-dax

@@ -1,5 +1,5 @@
 ---
-name: "BLANK()"
+name: "BLANK ()"
 excerpt: "Returns a blank."
 originalUrl: https://docs.microsoft.com/en-us/dax/blank-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/blank-function-dax

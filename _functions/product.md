@@ -1,5 +1,5 @@
 ---
-name: "PRODUCT(<column>)"
+name: "PRODUCT (<column>)"
 excerpt: "Returns the product of the numbers in a column."
 originalUrl: https://docs.microsoft.com/en-us/dax/product-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/product-function-dax

@@ -1,5 +1,5 @@
 ---
-name: "EVEN(number)"
+name: "EVEN (number)"
 excerpt: "Returns number rounded up to the nearest even integer. You can use this function for processing items that come in twos. For example, a packing crate accepts rows of one or two items. The crate is full when the number of items, rounded up to the nearest two, matches the crate's capacity."
 originalUrl: https://docs.microsoft.com/en-us/dax/even-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/even-function-dax

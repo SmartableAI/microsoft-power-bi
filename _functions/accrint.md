@@ -1,5 +1,5 @@
 ---
-name: "ACCRINT(<issue>, <first_interest>, <settlement>, <rate>, <par>, <frequency>[, <basis>[, <calc_method>]])"
+name: "ACCRINT (<issue>, <first_interest>, <settlement>, <rate>, <par>, <frequency>[, <basis>[, <calc_method>]])"
 excerpt: "Returns the accrued interest for a security that pays periodic interest."
 originalUrl: https://docs.microsoft.com/en-us/dax/accrint-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/accrint-function-dax

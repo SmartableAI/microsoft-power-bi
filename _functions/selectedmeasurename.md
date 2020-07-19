@@ -1,5 +1,5 @@
 ---
-name: "SELECTEDMEASURENAME()"
+name: "SELECTEDMEASURENAME ()"
 excerpt: "Used by expressions for calculation items to determine the measure that is in context by name."
 originalUrl: https://docs.microsoft.com/en-us/dax/selectedmeasurename-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/selectedmeasurename-function-dax

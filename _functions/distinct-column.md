@@ -1,5 +1,5 @@
 ---
-name: "DISTINCT(<column>)"
+name: "DISTINCT (<column>)"
 excerpt: "Returns a one-column table that contains the distinct values from the specified column. In other words, duplicate values are removed and only unique values are returned."
 originalUrl: https://docs.microsoft.com/en-us/dax/distinct-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/distinct-function-dax

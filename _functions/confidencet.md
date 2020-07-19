@@ -1,5 +1,5 @@
 ---
-name: "CONFIDENCE.T(alpha,standard_dev,size)"
+name: "CONFIDENCE.T (alpha,standard_dev,size)"
 excerpt: "Returns the confidence interval for a population mean, using a Student's t distribution."
 originalUrl: https://docs.microsoft.com/en-us/dax/confidence-t-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/confidence-t-function-dax

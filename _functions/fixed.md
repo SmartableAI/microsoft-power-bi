@@ -1,5 +1,5 @@
 ---
-name: "FIXED(<number>, <decimals>, <no_commas>)"
+name: "FIXED (<number>, <decimals>, <no_commas>)"
 excerpt: "Rounds a number to the specified number of decimals and returns the result as text. You can specify that the result be returned with or without commas."
 originalUrl: https://docs.microsoft.com/en-us/dax/fixed-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/fixed-function-dax

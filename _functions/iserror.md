@@ -1,5 +1,5 @@
 ---
-name: "ISERROR(<value>)"
+name: "ISERROR (<value>)"
 excerpt: "Checks whether a value is an error, and returns TRUE or FALSE."
 originalUrl: https://docs.microsoft.com/en-us/dax/iserror-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/iserror-function-dax

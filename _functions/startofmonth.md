@@ -1,5 +1,5 @@
 ---
-name: "STARTOFMONTH(<dates>)"
+name: "STARTOFMONTH (<dates>)"
 excerpt: "Returns the first date of the month in the current context for the specified column of dates."
 originalUrl: https://docs.microsoft.com/en-us/dax/startofmonth-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/startofmonth-function-dax

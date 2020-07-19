@@ -1,5 +1,5 @@
 ---
-name: "RELATED(<column>)"
+name: "RELATED (<column>)"
 excerpt: "Returns a related value from another table."
 originalUrl: https://docs.microsoft.com/en-us/dax/related-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/related-function-dax

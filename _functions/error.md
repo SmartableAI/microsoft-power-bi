@@ -1,5 +1,5 @@
 ---
-name: "ERROR(<text>)"
+name: "ERROR (<text>)"
 excerpt: "Raises an error with an error message."
 originalUrl: https://docs.microsoft.com/en-us/dax/error-function
 webUrl: https://docs.microsoft.com/en-us/dax/error-function

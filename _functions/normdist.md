@@ -1,5 +1,5 @@
 ---
-name: "NORM.DIST(X, Mean, Standard_dev, Cumulative)"
+name: "NORM.DIST (X, Mean, Standard_dev, Cumulative)"
 excerpt: "Returns the normal distribution for the specified mean and standard deviation."
 originalUrl: https://docs.microsoft.com/en-us/dax/norm-dist-dax
 webUrl: https://docs.microsoft.com/en-us/dax/norm-dist-dax

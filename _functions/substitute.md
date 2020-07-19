@@ -1,5 +1,5 @@
 ---
-name: "SUBSTITUTE(<text>, <old_text>, <new_text>, <instance_num>)"
+name: "SUBSTITUTE (<text>, <old_text>, <new_text>, <instance_num>)"
 excerpt: "Replaces existing text with new text in a text string."
 originalUrl: https://docs.microsoft.com/en-us/dax/substitute-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/substitute-function-dax

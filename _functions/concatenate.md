@@ -1,5 +1,5 @@
 ---
-name: "CONCATENATE(<text1>, <text2>)"
+name: "CONCATENATE (<text1>, <text2>)"
 excerpt: "Joins two text strings into one text string."
 originalUrl: https://docs.microsoft.com/en-us/dax/concatenate-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/concatenate-function-dax

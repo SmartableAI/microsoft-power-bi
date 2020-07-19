@@ -1,5 +1,5 @@
 ---
-name: "MDURATION(<settlement>, <maturity>, <coupon>, <yld>, <frequency>[, <basis>])"
+name: "MDURATION (<settlement>, <maturity>, <coupon>, <yld>, <frequency>[, <basis>])"
 excerpt: "Returns the modified Macauley duration for a security with an assumed par value of \\$100."
 originalUrl: https://docs.microsoft.com/en-us/dax/mduration-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/mduration-function-dax

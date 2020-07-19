@@ -1,5 +1,5 @@
 ---
-name: "RELATEDTABLE(<tableName>)"
+name: "RELATEDTABLE (<tableName>)"
 excerpt: "Evaluates a table expression in a context modified by the given filters."
 originalUrl: https://docs.microsoft.com/en-us/dax/relatedtable-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/relatedtable-function-dax

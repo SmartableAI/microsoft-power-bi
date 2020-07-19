@@ -1,5 +1,5 @@
 ---
-name: "DATEDIFF(<start_date>, <end_date>, <interval>)"
+name: "DATEDIFF (<start_date>, <end_date>, <interval>)"
 excerpt: "Returns the count of interval boundaries crossed between two dates."
 originalUrl: https://docs.microsoft.com/en-us/dax/datediff-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/datediff-function-dax

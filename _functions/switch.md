@@ -1,5 +1,5 @@
 ---
-name: "SWITCH(<expression>, <value>, <result>[, <value>, <result>]…[, <else>])"
+name: "SWITCH (<expression>, <value>, <result>[, <value>, <result>]…[, <else>])"
 excerpt: "Evaluates an expression against a list of values and returns one of multiple possible result expressions."
 originalUrl: https://docs.microsoft.com/en-us/dax/switch-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/switch-function-dax

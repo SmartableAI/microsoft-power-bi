@@ -1,5 +1,5 @@
 ---
-name: "DISTINCTCOUNT(<column>)"
+name: "DISTINCTCOUNT (<column>)"
 excerpt: "Counts the number of distinct values in a column."
 originalUrl: https://docs.microsoft.com/en-us/dax/distinctcount-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/distinctcount-function-dax

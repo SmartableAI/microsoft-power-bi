@@ -1,5 +1,5 @@
 ---
-name: "STDEV.S(<ColumnName>)"
+name: "STDEV.S (<ColumnName>)"
 excerpt: "Returns the standard deviation of a sample population."
 originalUrl: https://docs.microsoft.com/en-us/dax/stdev-s-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/stdev-s-function-dax

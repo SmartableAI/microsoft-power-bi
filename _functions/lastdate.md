@@ -1,5 +1,5 @@
 ---
-name: "LASTDATE(<dates>)"
+name: "LASTDATE (<dates>)"
 excerpt: "Returns the last date in the current context for the specified column of dates."
 originalUrl: https://docs.microsoft.com/en-us/dax/lastdate-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/lastdate-function-dax

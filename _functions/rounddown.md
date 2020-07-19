@@ -1,5 +1,5 @@
 ---
-name: "ROUNDDOWN(<number>, <num_digits>)"
+name: "ROUNDDOWN (<number>, <num_digits>)"
 excerpt: "Rounds a number down, toward zero."
 originalUrl: https://docs.microsoft.com/en-us/dax/rounddown-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/rounddown-function-dax

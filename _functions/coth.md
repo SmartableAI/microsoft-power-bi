@@ -1,5 +1,5 @@
 ---
-name: "COTH (<number>)"
+name: "COTH  (<number>)"
 excerpt: "Returns the hyperbolic cotangent of a hyperbolic angle."
 originalUrl: https://docs.microsoft.com/en-us/dax/coth-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/coth-function-dax

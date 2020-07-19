@@ -1,5 +1,5 @@
 ---
-name: "FORMAT(<value>, <format_string>)"
+name: "FORMAT (<value>, <format_string>)"
 excerpt: "Converts a value to text according to the specified format."
 originalUrl: https://docs.microsoft.com/en-us/dax/format-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/format-function-dax

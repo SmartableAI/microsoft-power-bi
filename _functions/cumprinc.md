@@ -1,5 +1,5 @@
 ---
-name: "CUMPRINC(<rate>, <nper>, <pv>, <start_period>, <end_period>, <type>)"
+name: "CUMPRINC (<rate>, <nper>, <pv>, <start_period>, <end_period>, <type>)"
 excerpt: "Returns the cumulative principal paid on a loan between start_period and end_period."
 originalUrl: https://docs.microsoft.com/en-us/dax/cumprinc-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/cumprinc-function-dax

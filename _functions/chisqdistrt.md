@@ -1,5 +1,5 @@
 ---
-name: "CHISQ.DIST.RT(<x>, <deg_freedom>)"
+name: "CHISQ.DIST.RT (<x>, <deg_freedom>)"
 excerpt: "Returns the right-tailed probability of the chi-squared distribution."
 originalUrl: https://docs.microsoft.com/en-us/dax/chisq-dist-rt-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/chisq-dist-rt-function-dax
