@@ -1,0 +1,20 @@
+---
+name: "ISSELECTEDMEASURE( M1, M2, ... )"
+excerpt: "Used by expressions for calculation items to determine the measure that is in context is one of those specified in a list of measures."
+type: 
+heat: 50
+
+provider:
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: /assets/images/organizations/microsoft.com-50x50.jpg
+      width: 50
+      height: 50
+
+topics:
+  - Power BI
+  - DAX
+
+---
+
