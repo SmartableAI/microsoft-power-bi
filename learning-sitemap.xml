@@ -157,12 +157,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/</loc>
-    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://smartable.ai/apps/powerbi/learning/enterprise-dna-course-intro-11-ultimate-beginners-guide-to-dax-2020/</loc>
     <lastmod>2020-05-05T20:00:14-07:00</lastmod>
     <changefreq>daily</changefreq>
@@ -212,12 +206,6 @@
   </url>
   <url>
     <loc>https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/</loc>
-    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/</loc>
     <lastmod>2020-07-13T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
@@ -307,7 +295,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/</loc>
+    <loc>https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/</loc>
     <lastmod>2020-07-13T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
@@ -386,12 +374,6 @@
   </url>
   <url>
     <loc>https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/</loc>
-    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/</loc>
     <lastmod>2020-07-13T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
@@ -511,6 +493,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/</loc>
+    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/</loc>
     <lastmod>2020-07-13T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
@@ -524,6 +512,12 @@
   </url>
   <url>
     <loc>https://docs.microsoft.com/en-us/learn/modules/propose-solution/</loc>
+    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/</loc>
     <lastmod>2020-07-13T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
@@ -644,6 +638,12 @@
   </url>
   <url>
     <loc>https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/</loc>
+    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/</loc>
     <lastmod>2020-07-13T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>

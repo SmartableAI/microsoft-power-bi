@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT1H8M
 ratings:
-  count: 45
-  average: 4.733333
+  count: 46
+  average: 4.7391305
 heat: 53
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Create dashboards in Power BI"
 
-secured: "wPNYOD2iWankGUoQe/HktvlxOMpmixgQvPwzayimc51PtvF5r6GQBJVAuFyZpUHY6U718X7717u0QlBbzjIo1vHzbpfYqj8TebNMQ2SyOYXfWr1zzpCUyebGjJw+T2fcqeuF+8gnE9b7eTyXUt4wF17oMRry1V/DW7upr7yBsdCa6zsHAcvRXEPMJbDaZntyyRRjDQ/rRGwW808QgLma/0B2trpKYVYNBkiMcn7NZj4DQSiN38jPQjE60lIg63Ahkw8iF6bqTRX7xUzQh6RtHOSFErA4f/fUcEU5oriESRXQsnvxubqeGyvS1R7KI/0l9cZcfNSE9tZ1V+NJePtkiZnAKL0pxMRlRfhEpR0Lu1sxwe9kdH5kfcompoBC37/2nE7P7MA6IEwkJ1nZ+1uTZg==;iVgOpS3Q4IP6qt3nDlwefQ=="
+secured: "l+3uOXFw4R/Gc2eNFirKAEG+tgNSY/TiX2l60Uc2vNPnMtjlC/tt/LNuyiQh7WGG7LigQGhOVcY/vX+Eho/3ovT66UJDFx8z44me/RGywqj3tcL7ZzAVJYWamE7rrl2RlgwZkNuX5Er5UOU3lU6QZOEeFW8R4leFqB5R9LtF005FM4FWn441rX9cVRMZ0qHc2om1vEVlBMqBKNEGnRqWYLojJWT3F1GufgfFkD8HlmqznVuBB22/DKx5oUZZsRqzqKtqGxRwKJBOcCA7PzKK1O5Prei7h6ekVmFKYjIoZB2osA1gaGPX9XTJMaNbkw1JCKT3EmKoVz4pQxchM5Lkeyiw8aKCd15SBioe2yJYymhXRBySxMSVxq+SJefkqsAH2rQWL6f78ihEHpErR2ik3g==;iYHIiQ7p6sB/wrbdRdxGZQ=="
 ---
 
