@@ -49,6 +49,18 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-incremental-refresh-with-integers-in-power-bi/</loc>
+    <lastmod>2020-07-08T08:00:17-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-how-do-you-use-rls-with-power-bi-embedded/</loc>
+    <lastmod>2020-07-09T08:00:28-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/</loc>
     <lastmod>2020-07-13T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
@@ -57,6 +69,12 @@
   <url>
     <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-what-is-power-bi/</loc>
     <lastmod>2018-04-10T09:10:23-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-omg-a-cpu-spike-on-my-power-bi-premium-capacity-what-now/</loc>
+    <lastmod>2020-07-07T08:00:06-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -109,13 +127,13 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/</loc>
+    <loc>https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/</loc>
     <lastmod>2020-07-13T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/</loc>
+    <loc>https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/</loc>
     <lastmod>2020-07-13T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
@@ -289,12 +307,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-incremental-refresh-with-integers-in-power-bi/</loc>
-    <lastmod>2020-07-08T08:00:17-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://smartable.ai/apps/powerbi/learning/learn-power-bi-power-bi-dashboard-showcase-makeover-talk-power-bi-live-subscribe-join/</loc>
     <lastmod>2020-04-10T13:33:06-07:00</lastmod>
     <changefreq>daily</changefreq>
@@ -321,12 +333,6 @@
   <url>
     <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-bananas-power-bi-dataflows-has-come-a-long-way/</loc>
     <lastmod>2020-06-02T08:00:14-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-how-do-you-use-rls-with-power-bi-embedded/</loc>
-    <lastmod>2020-07-09T08:00:28-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -495,12 +501,6 @@
   <url>
     <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-expand-lists-in-power-bi-also-a-look-at-m-syntax/</loc>
     <lastmod>2016-02-24T15:04:39-08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-omg-a-cpu-spike-on-my-power-bi-premium-capacity-what-now/</loc>
-    <lastmod>2020-07-07T08:00:06-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
