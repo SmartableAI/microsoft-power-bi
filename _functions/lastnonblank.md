@@ -1,7 +1,9 @@
 ---
 name: "LASTNONBLANK(<column>,<expression>)"
 excerpt: "Returns the last value in the column, column, filtered by the current context, where the expression is not blank."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/lastnonblank-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/lastnonblank-function-dax
+type: article
 heat: 50
 
 provider:

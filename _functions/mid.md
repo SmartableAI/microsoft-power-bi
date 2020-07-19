@@ -1,7 +1,9 @@
 ---
 name: "MID(<text>, <start_num>, <num_chars>)"
 excerpt: "Returns a string of characters from the middle of a text string, given a starting position and length."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/mid-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/mid-function-dax
+type: article
 heat: 50
 
 provider:

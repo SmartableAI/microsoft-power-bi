@@ -1,7 +1,9 @@
 ---
 name: "OPENINGBALANCEQUARTER(<expression>,<dates>[,<filter>])"
 excerpt: "Evaluates the expression at the first date of the quarter, in the current context."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/openingbalancequarter-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/openingbalancequarter-function-dax
+type: article
 heat: 50
 
 provider:

@@ -1,7 +1,9 @@
 ---
 name: "ODD(number)"
 excerpt: "Returns number rounded up to the nearest odd integer."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/odd-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/odd-function-dax
+type: article
 heat: 50
 
 provider:

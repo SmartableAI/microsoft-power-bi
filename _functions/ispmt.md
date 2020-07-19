@@ -1,7 +1,9 @@
 ---
 name: "ISPMT(<rate>, <per>, <nper>, <pv>)"
 excerpt: "Calculates the interest paid (or received) for the specified period of a loan (or investment) with even principal payments."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/ispmt-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/ispmt-function-dax
+type: article
 heat: 50
 
 provider:

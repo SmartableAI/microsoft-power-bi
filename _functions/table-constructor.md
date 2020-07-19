@@ -1,7 +1,9 @@
 ---
 name: "{ <scalarExpr1>, <scalarExpr2>, … } \n{ ( <scalarExpr1>, <scalarExpr2>, … ), ( <scalarExpr1>, <scalarExpr2>, … ), … }"
 excerpt: "Returns a table of one or more columns."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/table-constructor
+webUrl: https://docs.microsoft.com/en-us/dax/table-constructor
+type: article
 heat: 50
 
 provider:

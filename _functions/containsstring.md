@@ -1,7 +1,9 @@
 ---
 name: "CONTAINSSTRING(<within_text>, <find_text>)"
 excerpt: "Returns TRUE or FALSE indicating whether one string contains another string."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/containsstring-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/containsstring-function-dax
+type: article
 heat: 50
 
 provider:

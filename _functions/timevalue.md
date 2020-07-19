@@ -1,7 +1,9 @@
 ---
 name: "TIMEVALUE(time_text)"
 excerpt: "Converts a time in text format to a time in datetime format."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/timevalue-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/timevalue-function-dax
+type: article
 heat: 50
 
 provider:

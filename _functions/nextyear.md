@@ -1,7 +1,9 @@
 ---
 name: "NEXTYEAR(<dates>[,<year_end_date>])"
 excerpt: "Returns a table that contains a column of all dates in the next year, based on the first date in the dates column, in the current context."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/nextyear-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/nextyear-function-dax
+type: article
 heat: 50
 
 provider:

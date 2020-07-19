@@ -1,7 +1,9 @@
 ---
 name: "EXCEPT(<table_expression1>, <table_expression2>"
 excerpt: "Returns the rows of one table which do not appear in another table."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/except-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/except-function-dax
+type: article
 heat: 50
 
 provider:

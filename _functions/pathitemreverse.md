@@ -1,7 +1,9 @@
 ---
 name: "PATHITEMREVERSE(<path>, <position>[, <type>])"
 excerpt: "Returns the item at the specified position from a string resulting from evaluation of a PATH function. Positions are counted backwards from right to left."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/pathitemreverse-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/pathitemreverse-function-dax
+type: article
 heat: 50
 
 provider:

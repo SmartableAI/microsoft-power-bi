@@ -1,7 +1,9 @@
 ---
 name: "COUPDAYSNC(<settlement>, <maturity>, <frequency>[, <basis>])"
 excerpt: "Returns the number of days from the settlement date to the next coupon date."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/coupdaysnc-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/coupdaysnc-function-dax
+type: article
 heat: 50
 
 provider:

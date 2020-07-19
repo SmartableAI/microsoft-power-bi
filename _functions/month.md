@@ -1,7 +1,9 @@
 ---
 name: "MONTH(<datetime>)"
 excerpt: "Returns the month as a number from 1 (January) to 12 (December)."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/month-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/month-function-dax
+type: article
 heat: 50
 
 provider:

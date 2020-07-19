@@ -1,7 +1,9 @@
 ---
 name: "RANDBETWEEN(<bottom>,<top>)"
 excerpt: "Returns a random number in the range between two numbers you specify."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/randbetween-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/randbetween-function-dax
+type: article
 heat: 50
 
 provider:

@@ -1,7 +1,9 @@
 ---
 name: "NPER(<rate>, <pmt>, <pv>[, <fv>[, <type>]])"
 excerpt: "Returns the number of periods for an investment based on periodic, constant payments and a constant interest rate."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/nper-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/nper-function-dax
+type: article
 heat: 50
 
 provider:

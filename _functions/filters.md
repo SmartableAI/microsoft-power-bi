@@ -1,7 +1,9 @@
 ---
 name: "FILTERS(<columnName>)"
 excerpt: "Returns the values that are directly applied as filters to columnName."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/filters-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/filters-function-dax
+type: article
 heat: 50
 
 provider:

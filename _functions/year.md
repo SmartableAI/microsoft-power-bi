@@ -1,7 +1,9 @@
 ---
 name: "YEAR(<date>)"
 excerpt: "Returns the year of a date as a four digit integer in the range 1900-9999."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/year-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/year-function-dax
+type: article
 heat: 50
 
 provider:

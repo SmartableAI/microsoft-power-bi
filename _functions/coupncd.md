@@ -1,7 +1,9 @@
 ---
 name: "COUPNCD(<settlement>, <maturity>, <frequency>[, <basis>])"
 excerpt: "Returns the next coupon date after the settlement date."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/coupncd-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/coupncd-function-dax
+type: article
 heat: 50
 
 provider:

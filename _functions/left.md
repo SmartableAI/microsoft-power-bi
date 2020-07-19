@@ -1,7 +1,9 @@
 ---
 name: "LEFT(<text>, <num_chars>)"
 excerpt: "Returns the specified number of characters from the start of a text string."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/left-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/left-function-dax
+type: article
 heat: 50
 
 provider:

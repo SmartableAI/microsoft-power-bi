@@ -1,7 +1,9 @@
 ---
 name: "COUPDAYBS(<settlement>, <maturity>, <frequency>[, <basis>])"
 excerpt: "Returns the number of days from the beginning of a coupon period until its settlement date."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/coupdaybs-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/coupdaybs-function-dax
+type: article
 heat: 50
 
 provider:

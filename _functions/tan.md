@@ -1,7 +1,9 @@
 ---
 name: "TAN(number)"
 excerpt: "Returns the tangent of the given angle."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/tan-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/tan-function-dax
+type: article
 heat: 50
 
 provider:

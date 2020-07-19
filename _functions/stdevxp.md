@@ -1,7 +1,9 @@
 ---
 name: "STDEVX.P(<table>, <expression>)"
 excerpt: "Returns the standard deviation of the entire population."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/stdevx-p-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/stdevx-p-function-dax
+type: article
 heat: 50
 
 provider:

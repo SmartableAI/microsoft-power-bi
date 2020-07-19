@@ -1,7 +1,9 @@
 ---
 name: "YIELDMAT(<settlement>, <maturity>, <issue>, <rate>, <pr>[, <basis>])"
 excerpt: "Returns the annual yield of a security that pays interest at maturity."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/yieldmat-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/yieldmat-function-dax
+type: article
 heat: 50
 
 provider:

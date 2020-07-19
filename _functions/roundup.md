@@ -1,7 +1,9 @@
 ---
 name: "ROUNDUP(<number>, <num_digits>)"
 excerpt: "Rounds a number up, away from 0 (zero)."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/roundup-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/roundup-function-dax
+type: article
 heat: 50
 
 provider:

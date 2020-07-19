@@ -1,7 +1,9 @@
 ---
 name: "ISTEXT(<value>)"
 excerpt: "Checks if a value is text, and returns TRUE or FALSE."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/istext-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/istext-function-dax
+type: article
 heat: 50
 
 provider:

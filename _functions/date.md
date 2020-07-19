@@ -1,7 +1,9 @@
 ---
 name: "DATE(<year>, <month>, <day>)"
 excerpt: "Returns the specified date in datetime format."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/date-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/date-function-dax
+type: article
 heat: 50
 
 provider:

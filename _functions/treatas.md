@@ -1,7 +1,9 @@
 ---
 name: "TREATAS(table_expression, <column>[, <column>[, <column>[,…]]]} )"
 excerpt: "Applies the result of a table expression as filters to columns from an unrelated table."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/treatas-function
+webUrl: https://docs.microsoft.com/en-us/dax/treatas-function
+type: article
 heat: 50
 
 provider:

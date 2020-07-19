@@ -1,7 +1,9 @@
 ---
 name: "COMBIN(number, number_chosen)"
 excerpt: "Returns the number of combinations for a given number of items. Use COMBIN to determine the total possible number of groups for a given number of items."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/combin-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/combin-function-dax
+type: article
 heat: 50
 
 provider:

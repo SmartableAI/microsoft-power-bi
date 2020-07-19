@@ -1,7 +1,9 @@
 ---
 name: "MAXA(<column>)"
 excerpt: "Returns the largest value in a column."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/maxa-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/maxa-function-dax
+type: article
 heat: 50
 
 provider:

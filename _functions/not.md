@@ -1,7 +1,9 @@
 ---
 name: "NOT(<logical>)"
 excerpt: "Changes FALSE to TRUE, or TRUE to FALSE."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/not-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/not-function-dax
+type: article
 heat: 50
 
 provider:

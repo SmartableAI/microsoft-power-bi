@@ -1,7 +1,9 @@
 ---
 name: "FACT(<number>)"
 excerpt: "Returns the factorial of a number, equal to the series 1*2*3*...* , ending in the given number."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/fact-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/fact-function-dax
+type: article
 heat: 50
 
 provider:

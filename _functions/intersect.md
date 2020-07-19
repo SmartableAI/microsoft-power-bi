@@ -1,7 +1,9 @@
 ---
 name: "INTERSECT(<table_expression1>, <table_expression2>)"
 excerpt: "Returns the row intersection of two tables, retaining duplicates."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/intersect-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/intersect-function-dax
+type: article
 heat: 50
 
 provider:

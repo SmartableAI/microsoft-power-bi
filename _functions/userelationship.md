@@ -1,7 +1,9 @@
 ---
 name: "USERELATIONSHIP(<columnName1>,<columnName2>)"
 excerpt: "Specifies the relationship to be used in a specific calculation as the one that exists between columnName1 and columnName2."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/userelationship-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/userelationship-function-dax
+type: article
 heat: 50
 
 provider:

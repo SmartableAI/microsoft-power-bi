@@ -1,7 +1,9 @@
 ---
 name: "COUNTX(<table>,<expression>)"
 excerpt: "Counts the number of rows that contain a non-blank value or an expression that evaluates to a non-blank value, when evaluating an expression over a table."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/countx-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/countx-function-dax
+type: article
 heat: 50
 
 provider:

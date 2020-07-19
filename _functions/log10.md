@@ -1,7 +1,9 @@
 ---
 name: "LOG10(<number>)"
 excerpt: "Returns the base-10 logarithm of a number."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/log10-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/log10-function-dax
+type: article
 heat: 50
 
 provider:

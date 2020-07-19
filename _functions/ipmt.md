@@ -1,7 +1,9 @@
 ---
 name: "IPMT(<rate>, <per>, <nper>, <pv>[, <fv>[, <type>]])"
 excerpt: "Returns the interest payment for a given period for an investment based on periodic, constant payments and a constant interest rate."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/ipmt-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/ipmt-function-dax
+type: article
 heat: 50
 
 provider:

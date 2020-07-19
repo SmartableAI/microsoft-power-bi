@@ -1,7 +1,9 @@
 ---
 name: "ISNUMBER(<value>)"
 excerpt: "Checks whether a value is a number, and returns TRUE or FALSE."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/isnumber-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/isnumber-function-dax
+type: article
 heat: 50
 
 provider:

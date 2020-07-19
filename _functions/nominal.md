@@ -1,7 +1,9 @@
 ---
 name: "NOMINAL(<effect_rate>, <npery>)"
 excerpt: "Returns the nominal annual interest rate, given the effective rate and the number of compounding periods per year."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/nominal-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/nominal-function-dax
+type: article
 heat: 50
 
 provider:

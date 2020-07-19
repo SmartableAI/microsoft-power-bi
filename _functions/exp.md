@@ -1,7 +1,9 @@
 ---
 name: "EXP(<number>)"
 excerpt: "Returns e raised to the power of a given number. The constant e equals 2.71828182845904, the base of the natural logarithm."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/exp-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/exp-function-dax
+type: article
 heat: 50
 
 provider:

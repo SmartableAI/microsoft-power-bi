@@ -1,7 +1,9 @@
 ---
 name: "PRICE(<settlement>, <maturity>, <rate>, <yld>, <redemption>, <frequency>[, <basis>])"
 excerpt: "Returns the price per \\$100 face value of a security that pays periodic interest."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/price-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/price-function-dax
+type: article
 heat: 50
 
 provider:

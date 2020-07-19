@@ -1,7 +1,9 @@
 ---
 name: "T.DIST.RT(X,Deg_freedom)"
 excerpt: "Returns the right-tailed Student's t-distribution."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/t-dist-rt-dax
+webUrl: https://docs.microsoft.com/en-us/dax/t-dist-rt-dax
+type: article
 heat: 50
 
 provider:

@@ -1,7 +1,9 @@
 ---
 name: "EDATE(<start_date>, <months>)"
 excerpt: "Returns the date that is the indicated number of months before or after the start date. Use EDATE to calculate maturity dates or due dates that fall on the same day of the month as the date of issue."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/edate-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/edate-function-dax
+type: article
 heat: 50
 
 provider:

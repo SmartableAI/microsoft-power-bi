@@ -1,7 +1,9 @@
 ---
 name: "CLOSINGBALANCEYEAR(<expression>,<dates>[,<filter>][,<year_end_date>])"
 excerpt: "Evaluates the expression at the last date of the year in the current context."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/closingbalanceyear-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/closingbalanceyear-function-dax
+type: article
 heat: 50
 
 provider:

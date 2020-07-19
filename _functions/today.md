@@ -1,7 +1,9 @@
 ---
 name: "TODAY()"
 excerpt: "Returns the current date."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/today-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/today-function-dax
+type: article
 heat: 50
 
 provider:

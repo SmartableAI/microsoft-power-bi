@@ -1,7 +1,9 @@
 ---
 name: "NORM.S.DIST(Z, Cumulative)"
 excerpt: "Returns the standard normal distribution (has a mean of zero and a standard deviation of one)."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/norm-s-dist-dax
+webUrl: https://docs.microsoft.com/en-us/dax/norm-s-dist-dax
+type: article
 heat: 50
 
 provider:

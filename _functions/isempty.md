@@ -1,7 +1,9 @@
 ---
 name: "ISEMPTY(<table_expression>)"
 excerpt: "Checks if a table is empty."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/isempty-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/isempty-function-dax
+type: article
 heat: 50
 
 provider:

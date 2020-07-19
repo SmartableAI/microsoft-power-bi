@@ -1,7 +1,9 @@
 ---
 name: "BLANK()"
 excerpt: "Returns a blank."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/blank-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/blank-function-dax
+type: article
 heat: 50
 
 provider:

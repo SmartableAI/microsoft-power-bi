@@ -1,7 +1,9 @@
 ---
 name: "TOTALQTD(<expression>,<dates>[,<filter>])"
 excerpt: "Evaluates the value of the expression for the dates in the quarter to date, in the current context."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/totalqtd-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/totalqtd-function-dax
+type: article
 heat: 50
 
 provider:

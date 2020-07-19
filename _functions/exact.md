@@ -1,7 +1,9 @@
 ---
 name: "EXACT(<text1>,<text2>)"
 excerpt: "Compares two text strings and returns TRUE if they are exactly the same, FALSE otherwise. EXACT is case-sensitive but ignores formatting differences. You can use EXACT to test text being entered into a document."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/exact-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/exact-function-dax
+type: article
 heat: 50
 
 provider:

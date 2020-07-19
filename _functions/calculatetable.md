@@ -1,7 +1,9 @@
 ---
 name: "CALCULATETABLE(<expression>[, <filter1> [, <filter2> [, …]]])"
 excerpt: "Evaluates a table expression in a modified filter context."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/calculatetable-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/calculatetable-function-dax
+type: article
 heat: 50
 
 provider:

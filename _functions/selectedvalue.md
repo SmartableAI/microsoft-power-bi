@@ -1,7 +1,9 @@
 ---
 name: "SELECTEDVALUE(<columnName>[, <alternateResult>])"
 excerpt: "Returns the value when the context for columnName has been filtered down to one distinct value only. Otherwise returns alternateResult."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/selectedvalue-function
+webUrl: https://docs.microsoft.com/en-us/dax/selectedvalue-function
+type: article
 heat: 50
 
 provider:

@@ -1,7 +1,9 @@
 ---
 name: "ACCRINTM(<issue>, <maturity>, <rate>, <par>[, <basis>])"
 excerpt: "Returns the accrued interest for a security that pays interest at maturity."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/accrintm-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/accrintm-function-dax
+type: article
 heat: 50
 
 provider:

@@ -1,7 +1,9 @@
 ---
 name: "PRODUCTX(<table>, <expression>)"
 excerpt: "Returns the product of an expression evaluated for each row in a table."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/productx-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/productx-function-dax
+type: article
 heat: 50
 
 provider:

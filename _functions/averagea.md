@@ -1,7 +1,9 @@
 ---
 name: "AVERAGEA(<column>)"
 excerpt: "Returns the average (arithmetic mean) of the values in a column. Handles text and non-numeric values."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/averagea-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/averagea-function-dax
+type: article
 heat: 50
 
 provider:

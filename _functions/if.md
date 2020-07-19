@@ -1,7 +1,9 @@
 ---
 name: "IF(<logical_test>, <value_if_true>[, <value_if_false>])"
 excerpt: "Checks a condition, and returns one value when it's TRUE, otherwise it returns a second value."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/if-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/if-function-dax
+type: article
 heat: 50
 
 provider:

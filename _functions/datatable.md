@@ -1,7 +1,9 @@
 ---
 name: "DATATABLE (ColumnName1, DataType1, ColumnName2, DataType2..., {{Value1, Value2...}, {ValueN, ValueN+1...}...})"
 excerpt: "Provides a mechanism for declaring an inline set of data values."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/datatable-function
+webUrl: https://docs.microsoft.com/en-us/dax/datatable-function
+type: article
 heat: 50
 
 provider:

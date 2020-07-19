@@ -1,7 +1,9 @@
 ---
 name: "ENDOFYEAR(<dates> [,<year_end_date>])"
 excerpt: "Returns the last date of the year in the current context for the specified column of dates."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/endofyear-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/endofyear-function-dax
+type: article
 heat: 50
 
 provider:

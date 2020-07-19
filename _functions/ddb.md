@@ -1,7 +1,9 @@
 ---
 name: "DDB(<cost>, <salvage>, <life>, <period>[, <factor>])"
 excerpt: "Returns the depreciation of an asset for a specified period using the double-declining balance method or some other method you specify."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/ddb-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/ddb-function-dax
+type: article
 heat: 50
 
 provider:

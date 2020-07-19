@@ -1,7 +1,9 @@
 ---
 name: "NEXTDAY(<dates>)"
 excerpt: "Returns a table that contains a column of all dates from the next day, based on the first date specified in the dates column in the current context."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/nextday-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/nextday-function-dax
+type: article
 heat: 50
 
 provider:

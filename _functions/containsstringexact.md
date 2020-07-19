@@ -1,7 +1,9 @@
 ---
 name: "CONTAINSSTRINGEXACT(<within_text>, <find_text>)"
 excerpt: "Returns TRUE or FALSE indicating whether one string contains another string."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/containsstringexact-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/containsstringexact-function-dax
+type: article
 heat: 50
 
 provider:

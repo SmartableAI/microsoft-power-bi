@@ -1,7 +1,9 @@
 ---
 name: "YIELD(<settlement>, <maturity>, <rate>, <pr>, <redemption>, <frequency>[, <basis>])"
 excerpt: "Returns the yield on a security that pays periodic interest. Use YIELD to calculate bond yield."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/yield-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/yield-function-dax
+type: article
 heat: 50
 
 provider:

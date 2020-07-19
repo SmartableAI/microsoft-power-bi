@@ -1,7 +1,9 @@
 ---
 name: "ENDOFQUARTER(<dates>)"
 excerpt: "Returns the last date of the quarter in the current context for the specified column of dates."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/endofquarter-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/endofquarter-function-dax
+type: article
 heat: 50
 
 provider:

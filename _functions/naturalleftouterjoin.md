@@ -1,7 +1,9 @@
 ---
 name: "NATURALLEFTOUTERJOIN(<leftJoinTable>, <rightJoinTable>)"
 excerpt: "Performs an inner join of a table with another table. The tables are joined on common columns (by name) in the two tables. If the two tables have no common column names, an error is returned."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/naturalleftouterjoin-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/naturalleftouterjoin-function-dax
+type: article
 heat: 50
 
 provider:

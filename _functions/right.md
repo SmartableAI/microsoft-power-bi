@@ -1,7 +1,9 @@
 ---
 name: "RIGHT(<text>, <num_chars>)"
 excerpt: "RIGHT returns the last character or characters in a text string, based on the number of characters you specify."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/right-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/right-function-dax
+type: article
 heat: 50
 
 provider:

@@ -1,7 +1,9 @@
 ---
 name: "FALSE()"
 excerpt: "Returns the logical value FALSE."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/false-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/false-function-dax
+type: article
 heat: 50
 
 provider:

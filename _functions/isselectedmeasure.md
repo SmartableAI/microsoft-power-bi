@@ -1,7 +1,9 @@
 ---
 name: "ISSELECTEDMEASURE( M1, M2, ... )"
 excerpt: "Used by expressions for calculation items to determine the measure that is in context is one of those specified in a list of measures."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/isselectedmeasure-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/isselectedmeasure-function-dax
+type: article
 heat: 50
 
 provider:

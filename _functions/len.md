@@ -1,7 +1,9 @@
 ---
 name: "LEN(<text>)"
 excerpt: "Returns the number of characters in a text string."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/len-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/len-function-dax
+type: article
 heat: 50
 
 provider:

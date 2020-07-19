@@ -1,7 +1,9 @@
 ---
 name: "TBILLEQ(<settlement>, <maturity>, <discount>)"
 excerpt: "Returns the bond-equivalent yield for a Treasury bill."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/tbilleq-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/tbilleq-function-dax
+type: article
 heat: 50
 
 provider:

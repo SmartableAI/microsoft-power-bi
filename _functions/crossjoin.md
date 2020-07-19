@@ -1,7 +1,9 @@
 ---
 name: "CROSSJOIN(<table>, <table>[, <table>]…)"
 excerpt: "Returns a table that contains the Cartesian product of all rows from all tables in the arguments. The columns in the new table are all the columns in all the argument tables."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/crossjoin-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/crossjoin-function-dax
+type: article
 heat: 50
 
 provider:

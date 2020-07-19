@@ -1,7 +1,9 @@
 ---
 name: "ISNONTEXT(<value>)"
 excerpt: "Checks if a value is not text (blank cells are not text), and returns TRUE or FALSE."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/isnontext-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/isnontext-function-dax
+type: article
 heat: 50
 
 provider:

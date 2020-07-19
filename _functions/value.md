@@ -1,7 +1,9 @@
 ---
 name: "VALUE(<text>)"
 excerpt: "Converts a text string that represents a number to a number."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/value-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/value-function-dax
+type: article
 heat: 50
 
 provider:

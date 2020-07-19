@@ -1,7 +1,9 @@
 ---
 name: "CALCULATE(<expression>[, <filter1> [, <filter2> [, …]]])"
 excerpt: "Evaluates an expression in a modified filter context."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/calculate-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/calculate-function-dax
+type: article
 heat: 50
 
 provider:

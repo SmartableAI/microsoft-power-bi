@@ -1,7 +1,9 @@
 ---
 name: "GEOMEANX(<table>, <expression>)"
 excerpt: "Returns the geometric mean of an expression evaluated for each row in a table."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/geomeanx-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/geomeanx-function-dax
+type: article
 heat: 50
 
 provider:

@@ -1,7 +1,9 @@
 ---
 name: "SIN(number)"
 excerpt: "Returns the sine of the given angle."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/sin-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/sin-function-dax
+type: article
 heat: 50
 
 provider:

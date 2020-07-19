@@ -1,7 +1,9 @@
 ---
 name: "ISLOGICAL(<value>)"
 excerpt: "Checks whether a value is a logical value, (TRUE or FALSE), and returns TRUE or FALSE."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/islogical-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/islogical-function-dax
+type: article
 heat: 50
 
 provider:

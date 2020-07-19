@@ -1,7 +1,9 @@
 ---
 name: "ASINH(number)"
 excerpt: "Returns the inverse hyperbolic sine of a number. The inverse hyperbolic sine is the value whose hyperbolic sine is number, so ASINH(SINH(number)) equals number."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/asinh-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/asinh-function-dax
+type: article
 heat: 50
 
 provider:

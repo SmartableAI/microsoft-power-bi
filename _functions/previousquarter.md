@@ -1,7 +1,9 @@
 ---
 name: "PREVIOUSQUARTER(<dates>)"
 excerpt: "Returns a table that contains a column of all dates from the previous quarter, based on the first date in the dates column, in the current context."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/previousquarter-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/previousquarter-function-dax
+type: article
 heat: 50
 
 provider:

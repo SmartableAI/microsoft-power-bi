@@ -1,7 +1,9 @@
 ---
 name: "COSH(number)"
 excerpt: "Returns the hyperbolic cosine of a number."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/cosh-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/cosh-function-dax
+type: article
 heat: 50
 
 provider:

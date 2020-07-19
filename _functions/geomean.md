@@ -1,7 +1,9 @@
 ---
 name: "GEOMEAN(<column>)"
 excerpt: "Returns the geometric mean of the numbers in a column."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/geomean-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/geomean-function-dax
+type: article
 heat: 50
 
 provider:

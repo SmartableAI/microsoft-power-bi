@@ -1,7 +1,9 @@
 ---
 name: "TRUNC(<number>,<num_digits>)"
 excerpt: "Truncates a number to an integer by removing the decimal, or fractional, part of the number."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/trunc-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/trunc-function-dax
+type: article
 heat: 50
 
 provider:

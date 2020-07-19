@@ -1,7 +1,9 @@
 ---
 name: "ERROR(<text>)"
 excerpt: "Raises an error with an error message."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/error-function
+webUrl: https://docs.microsoft.com/en-us/dax/error-function
+type: article
 heat: 50
 
 provider:

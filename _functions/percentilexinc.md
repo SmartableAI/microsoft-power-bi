@@ -1,7 +1,9 @@
 ---
 name: "PERCENTILEX.INC(<table>, <expression>;, k)"
 excerpt: "Returns the percentile number of an expression evaluated for each row in a table."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/percentilex-inc-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/percentilex-inc-function-dax
+type: article
 heat: 50
 
 provider:

@@ -1,7 +1,9 @@
 ---
 name: "ODDFPRICE(<settlement>, <maturity>, <issue>, <first_coupon>, <rate>, <yld>, <redemption>, <frequency>[, <basis>])"
 excerpt: "Returns the price per \\$100 face value of a security having an odd (short or long) first period."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/oddfprice-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/oddfprice-function-dax
+type: article
 heat: 50
 
 provider:

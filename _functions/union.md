@@ -1,7 +1,9 @@
 ---
 name: "UNION(<table_expression1>, <table_expression2> [,<table_expression>]…)"
 excerpt: "Creates a union (join) table from a pair of tables."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/union-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/union-function-dax
+type: article
 heat: 50
 
 provider:

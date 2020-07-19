@@ -1,7 +1,9 @@
 ---
 name: "SUM(<column>)"
 excerpt: "Adds all the numbers in a column."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/sum-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/sum-function-dax
+type: article
 heat: 50
 
 provider:

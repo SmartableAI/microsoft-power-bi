@@ -1,7 +1,9 @@
 ---
 name: "COUNTAX(<table>,<expression>)"
 excerpt: "The COUNTAX function counts nonblank results when evaluating the result of an expression over a table. That is, it works just like the COUNTA function, but is used to iterate through the rows in a table and count rows where the specified expressions results in a non-blank result."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/countax-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/countax-function-dax
+type: article
 heat: 50
 
 provider:

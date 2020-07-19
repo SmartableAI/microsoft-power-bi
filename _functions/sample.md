@@ -1,7 +1,9 @@
 ---
 name: "SAMPLE(<n_value>, <table>, <orderBy_expression>, [<order>[, <orderBy_expression>, [<order>]]…])"
 excerpt: "Returns a sample of N rows from the specified table."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/sample-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/sample-function-dax
+type: article
 heat: 50
 
 provider:

@@ -1,7 +1,9 @@
 ---
 name: "INT(<number>)"
 excerpt: "Rounds a number down to the nearest integer."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/int-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/int-function-dax
+type: article
 heat: 50
 
 provider:

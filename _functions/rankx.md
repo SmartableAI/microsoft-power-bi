@@ -1,7 +1,9 @@
 ---
 name: "RANKX(<table>, <expression>[, <value>[, <order>[, <ties>]]])"
 excerpt: "Returns the ranking of a number in a list of numbers for each row in the table argument."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/rankx-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/rankx-function-dax
+type: article
 heat: 50
 
 provider:

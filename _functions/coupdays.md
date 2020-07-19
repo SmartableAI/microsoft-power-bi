@@ -1,7 +1,9 @@
 ---
 name: "COUPDAYS(<settlement>, <maturity>, <frequency>[, <basis>])"
 excerpt: "Returns the number of days in the coupon period that contains the settlement date."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/coupdays-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/coupdays-function-dax
+type: article
 heat: 50
 
 provider:

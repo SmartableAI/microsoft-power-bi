@@ -1,7 +1,9 @@
 ---
 name: "APPROXIMATEDISTINCTCOUNT(<columnName>)"
 excerpt: "Returns the approximate number of rows that contain distinct values in a column. This function can query large amounts of data with potentially  better performance than DISTINCTCOUNT, with slight deviation from the exact result."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/approximate-distinctcount-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/approximate-distinctcount-function-dax
+type: article
 heat: 50
 
 provider:

@@ -1,7 +1,9 @@
 ---
 name: "TIME(hour, minute, second)"
 excerpt: "Converts hours, minutes, and seconds given as numbers to a time in datetime format."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/time-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/time-function-dax
+type: article
 heat: 50
 
 provider:

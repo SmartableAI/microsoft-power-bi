@@ -1,7 +1,9 @@
 ---
 name: "USERNAME()"
 excerpt: "Returns the domain name and username from the credentials given to the system at connection time."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/username-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/username-function-dax
+type: article
 heat: 50
 
 provider:

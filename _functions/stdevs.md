@@ -1,7 +1,9 @@
 ---
 name: "STDEV.S(<ColumnName>)"
 excerpt: "Returns the standard deviation of a sample population."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/stdev-s-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/stdev-s-function-dax
+type: article
 heat: 50
 
 provider:

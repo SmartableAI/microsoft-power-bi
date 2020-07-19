@@ -1,7 +1,9 @@
 ---
 name: "ISONORAFTER(<scalar_expression>, <scalar_expression>[, sort_order [, <scalar_expression>, <scalar_expression>[, sort_order]]…)"
 excerpt: "A boolean function that emulates the behavior of a 'Start At' clause and returns true for a row that meets all of the condition parameters."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/isonorafter-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/isonorafter-function-dax
+type: article
 heat: 50
 
 provider:

@@ -1,7 +1,9 @@
 ---
 name: "PREVIOUSDAY(<dates>)"
 excerpt: "Returns a table that contains a column of all dates representing the day that is previous to the first date in the dates column, in the current context."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/previousday-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/previousday-function-dax
+type: article
 heat: 50
 
 provider:

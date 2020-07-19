@@ -1,7 +1,9 @@
 ---
 name: "MIN(<column>)"
 excerpt: "Returns the smallest value in a column, or between two scalar expressions."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/min-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/min-function-dax
+type: article
 heat: 50
 
 provider:

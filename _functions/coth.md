@@ -1,7 +1,9 @@
 ---
 name: "COTH (<number>)"
 excerpt: "Returns the hyperbolic cotangent of a hyperbolic angle."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/coth-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/coth-function-dax
+type: article
 heat: 50
 
 provider:

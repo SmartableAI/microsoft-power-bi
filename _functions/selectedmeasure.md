@@ -1,7 +1,9 @@
 ---
 name: "SELECTEDMEASURE()"
 excerpt: "Used by expressions for calculation items to reference the measure that is in context."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/selectedmeasure-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/selectedmeasure-function-dax
+type: article
 heat: 50
 
 provider:

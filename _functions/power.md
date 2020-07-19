@@ -1,7 +1,9 @@
 ---
 name: "POWER(<number>, <power>)"
 excerpt: "Returns the result of a number raised to a power."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/power-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/power-function-dax
+type: article
 heat: 50
 
 provider:

@@ -1,7 +1,9 @@
 ---
 name: "T.DIST(X,Deg_freedom,Cumulative)"
 excerpt: "Returns the Student's left-tailed t-distribution."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/t-dist-dax
+webUrl: https://docs.microsoft.com/en-us/dax/t-dist-dax
+type: article
 heat: 50
 
 provider:

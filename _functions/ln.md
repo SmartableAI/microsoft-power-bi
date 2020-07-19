@@ -1,7 +1,9 @@
 ---
 name: "LN(<number>)"
 excerpt: "Returns the natural logarithm of a number. Natural logarithms are based on the constant e (2.71828182845904)."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/ln-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/ln-function-dax
+type: article
 heat: 50
 
 provider:

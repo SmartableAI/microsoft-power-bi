@@ -1,7 +1,9 @@
 ---
 name: "LASTDATE(<dates>)"
 excerpt: "Returns the last date in the current context for the specified column of dates."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/lastdate-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/lastdate-function-dax
+type: article
 heat: 50
 
 provider:

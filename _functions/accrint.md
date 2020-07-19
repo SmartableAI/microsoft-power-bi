@@ -1,7 +1,9 @@
 ---
 name: "ACCRINT(<issue>, <first_interest>, <settlement>, <rate>, <par>, <frequency>[, <basis>[, <calc_method>]])"
 excerpt: "Returns the accrued interest for a security that pays periodic interest."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/accrint-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/accrint-function-dax
+type: article
 heat: 50
 
 provider:

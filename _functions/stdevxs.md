@@ -1,7 +1,9 @@
 ---
 name: "STDEVX.S(<table>, <expression>)"
 excerpt: "Returns the standard deviation of a sample population."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/stdevx-s-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/stdevx-s-function-dax
+type: article
 heat: 50
 
 provider:

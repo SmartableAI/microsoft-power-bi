@@ -1,7 +1,9 @@
 ---
 name: "MEDIAN(<column>)"
 excerpt: "Returns the median of numbers in a column."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/median-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/median-function-dax
+type: article
 heat: 50
 
 provider:

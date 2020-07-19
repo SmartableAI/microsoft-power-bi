@@ -1,7 +1,9 @@
 ---
 name: "STARTOFYEAR(<dates>)"
 excerpt: "Returns the first date of the year in the current context for the specified column of dates."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/startofyear-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/startofyear-function-dax
+type: article
 heat: 50
 
 provider:

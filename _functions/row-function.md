@@ -1,7 +1,9 @@
 ---
 name: "ROW(<name>, <expression>[[,<name>, <expression>]…])"
 excerpt: "Returns a table with a single row containing values that result from the expressions given to each column."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/row-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/row-function-dax
+type: article
 heat: 50
 
 provider:

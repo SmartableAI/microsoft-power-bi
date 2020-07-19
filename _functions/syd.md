@@ -1,7 +1,9 @@
 ---
 name: "SYD(<cost>, <salvage>, <life>, <per>)"
 excerpt: "Returns the sum-of-years' digits depreciation of an asset for a specified period."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/syd-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/syd-function-dax
+type: article
 heat: 50
 
 provider:

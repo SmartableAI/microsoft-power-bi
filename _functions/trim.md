@@ -1,7 +1,9 @@
 ---
 name: "TRIM(<text>)"
 excerpt: "Removes all spaces from text except for single spaces between words."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/trim-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/trim-function-dax
+type: article
 heat: 50
 
 provider:

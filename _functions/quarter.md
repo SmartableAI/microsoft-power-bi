@@ -1,7 +1,9 @@
 ---
 name: "QUARTER(<date>)"
 excerpt: "Returns the quarter as a number from 1 (January – March) to 4 (October – December)."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/quarter-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/quarter-function-dax
+type: article
 heat: 50
 
 provider:

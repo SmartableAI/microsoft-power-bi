@@ -1,7 +1,9 @@
 ---
 name: "REMOVEFILTERS([<table> | <column>[, <column>[, <column>[,…]]]])"
 excerpt: "Clear filters from the specified tables or columns."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/removefilters-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/removefilters-function-dax
+type: article
 heat: 50
 
 provider:

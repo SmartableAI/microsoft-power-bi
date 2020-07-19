@@ -1,7 +1,9 @@
 ---
 name: "NOW()"
 excerpt: "Returns the current date and time in datetime format."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/now-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/now-function-dax
+type: article
 heat: 50
 
 provider:

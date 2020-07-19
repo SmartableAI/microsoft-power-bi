@@ -1,7 +1,9 @@
 ---
 name: "RELATED(<column>)"
 excerpt: "Returns a related value from another table."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/related-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/related-function-dax
+type: article
 heat: 50
 
 provider:

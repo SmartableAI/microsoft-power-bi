@@ -1,7 +1,9 @@
 ---
 name: "COS(number)"
 excerpt: "Returns the cosine of the given angle."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/cos-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/cos-function-dax
+type: article
 heat: 50
 
 provider:

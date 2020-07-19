@@ -1,7 +1,9 @@
 ---
 name: "UNICHAR(number)"
 excerpt: "Returns the Unicode character referenced by the numeric value."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/unichar-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/unichar-function-dax
+type: article
 heat: 50
 
 provider:

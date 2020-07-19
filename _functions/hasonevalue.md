@@ -1,7 +1,9 @@
 ---
 name: "HASONEVALUE(<columnName>)"
 excerpt: "Returns TRUE when the context for columnName has been filtered down to one distinct value only. Otherwise is FALSE."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/hasonevalue-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/hasonevalue-function-dax
+type: article
 heat: 50
 
 provider:

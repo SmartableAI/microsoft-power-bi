@@ -1,7 +1,9 @@
 ---
 name: "LOG(<number>,<base>)"
 excerpt: "Returns the logarithm of a number to the base you specify."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/log-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/log-function-dax
+type: article
 heat: 50
 
 provider:

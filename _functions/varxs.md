@@ -1,7 +1,9 @@
 ---
 name: "VARX.S(<table>, <expression>)"
 excerpt: "Returns the variance of a sample population."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/varx-s-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/varx-s-function-dax
+type: article
 heat: 50
 
 provider:

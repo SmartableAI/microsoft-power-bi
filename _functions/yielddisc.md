@@ -1,7 +1,9 @@
 ---
 name: "YIELDDISC(<settlement>, <maturity>, <pr>, <redemption>[, <basis>])"
 excerpt: "Returns the annual yield for a discounted security."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/yielddisc-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/yielddisc-function-dax
+type: article
 heat: 50
 
 provider:

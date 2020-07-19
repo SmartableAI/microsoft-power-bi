@@ -1,7 +1,9 @@
 ---
 name: "SUMMARIZE(<table>, <groupBy_columnName>[, <groupBy_columnName>]…[, <name>, <expression>]…)"
 excerpt: "Returns a summary table for the requested totals over a set of groups."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/summarize-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/summarize-function-dax
+type: article
 heat: 50
 
 provider:

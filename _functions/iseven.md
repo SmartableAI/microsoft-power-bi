@@ -1,7 +1,9 @@
 ---
 name: "ISEVEN(number)"
 excerpt: "Returns TRUE if number is even, or FALSE if number is odd."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/iseven-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/iseven-function-dax
+type: article
 heat: 50
 
 provider:

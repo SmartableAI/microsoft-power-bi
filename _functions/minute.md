@@ -1,7 +1,9 @@
 ---
 name: "MINUTE(<datetime>)"
 excerpt: "Returns the minute as a number from 0 to 59, given a date and time value."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/minute-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/minute-function-dax
+type: article
 heat: 50
 
 provider:

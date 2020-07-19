@@ -1,7 +1,9 @@
 ---
 name: "MAXX(<table>,<expression>)"
 excerpt: "Evaluates an expression for each row of a table and returns the largest value."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/maxx-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/maxx-function-dax
+type: article
 heat: 50
 
 provider:

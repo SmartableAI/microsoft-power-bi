@@ -1,7 +1,9 @@
 ---
 name: "EARLIER(<column>, <number>)"
 excerpt: "Returns the current value of the specified column in an outer evaluation pass of the mentioned column."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/earlier-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/earlier-function-dax
+type: article
 heat: 50
 
 provider:

@@ -1,7 +1,9 @@
 ---
 name: "NORM.INV(Probability, Mean, Standard_dev)"
 excerpt: "The inverse of the normal cumulative distribution for the specified mean and standard deviation."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/norm-inv-dax
+webUrl: https://docs.microsoft.com/en-us/dax/norm-inv-dax
+type: article
 heat: 50
 
 provider:

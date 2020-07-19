@@ -1,7 +1,9 @@
 ---
 name: "COUNTBLANK(<column>)"
 excerpt: "Counts the number of blank cells in a column."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/countblank-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/countblank-function-dax
+type: article
 heat: 50
 
 provider:

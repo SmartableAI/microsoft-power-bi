@@ -1,7 +1,9 @@
 ---
 name: "LOWER(<text>)"
 excerpt: "Converts all letters in a text string to lowercase."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/lower-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/lower-function-dax
+type: article
 heat: 50
 
 provider:

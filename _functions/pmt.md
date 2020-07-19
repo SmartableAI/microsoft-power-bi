@@ -1,7 +1,9 @@
 ---
 name: "PMT(<rate>, <nper>, <pv>[, <fv>[, <type>]])"
 excerpt: "Calculates the payment for a loan based on constant payments and a constant interest rate."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/pmt-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/pmt-function-dax
+type: article
 heat: 50
 
 provider:

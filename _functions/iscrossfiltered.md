@@ -1,7 +1,9 @@
 ---
 name: "ISCROSSFILTERED(<columnName>)"
 excerpt: "Returns TRUE when columnName or another column in the same or related table is being filtered."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/iscrossfiltered-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/iscrossfiltered-function-dax
+type: article
 heat: 50
 
 provider:

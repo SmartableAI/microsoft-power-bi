@@ -1,7 +1,9 @@
 ---
 name: "ODDLPRICE(<settlement>, <maturity>, <last_interest>, <rate>, <yld>, <redemption>, <frequency>[, <basis>])"
 excerpt: "Returns the price per \\$100 face value of a security having an odd (short or long) last coupon period."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/oddlprice-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/oddlprice-function-dax
+type: article
 heat: 50
 
 provider:

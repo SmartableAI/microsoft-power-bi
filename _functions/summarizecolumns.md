@@ -1,7 +1,9 @@
 ---
 name: "SUMMARIZECOLUMNS( <groupBy_columnName> [, < groupBy_columnName >]…, [<filterTable>]…[, <name>, <expression>]…)"
 excerpt: "Returns a summary table over a set of groups."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/summarizecolumns-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/summarizecolumns-function-dax
+type: article
 heat: 50
 
 provider:

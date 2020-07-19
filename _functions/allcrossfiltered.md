@@ -1,7 +1,9 @@
 ---
 name: "ALLCROSSFILTERED(<table>)"
 excerpt: "Clear all filters which are applied to a table."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/allcrossfiltered-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/allcrossfiltered-function-dax
+type: article
 heat: 50
 
 provider:

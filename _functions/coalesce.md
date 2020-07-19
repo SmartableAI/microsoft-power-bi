@@ -1,7 +1,9 @@
 ---
 name: "COALESCE(<expression>, <expression>[, <expression>]…)"
 excerpt: "Returns the first expression that does not evaluate to BLANK. If all expressions evaluate to BLANK, BLANK is returned."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/coalesce-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/coalesce-function-dax
+type: article
 heat: 50
 
 provider:

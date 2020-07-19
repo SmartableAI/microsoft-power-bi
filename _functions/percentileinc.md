@@ -1,7 +1,9 @@
 ---
 name: "PERCENTILE.INC(<column>, <k>)"
 excerpt: "Returns the k-th percentile of values in a range, where k is in the range 0..1, inclusive."
-type: 
+originalUrl: https://docs.microsoft.com/en-us/dax/percentile-inc-function-dax
+webUrl: https://docs.microsoft.com/en-us/dax/percentile-inc-function-dax
+type: article
 heat: 50
 
 provider:
