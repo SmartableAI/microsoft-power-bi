@@ -4,7 +4,7 @@ excerpt: "With the recent release of Gartner's Magic Quadrant for Analytics and 
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/3-Year-Analysis-of-Gartner-Magic-Quadrant-Leaders-for-Analytics/m-p/623702
 type: download
 publishedDateTime: 2019-02-14T10:25:00Z
-heat: 53
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNmVjMzk2NTctN2FkZS00NzUzLThhMWUtZjZmODE5MDY4MWZjIiwidCI6IjRhMDQyNzQzLTM3M2EtNDNkMi04MjdiLTAwM2Y0YzdiYTFlNSIsImMiOjN9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 1324
     isCached: true
 
-secured: "J43sQ3vL2W3+Tz4HHNKJLVQ/ykVO54kH6fV/M/TJSU8LQ/S9s2ykd6lCg69cCQk2WrMaqS/DPOI73u18QZ+dG3sqHapYG7gWu2YGA0Pham02hLgl1LVIR8CV6cPSlEjiTivUVl0cas7xpo36daaDqy0mDVdGH1tvSDByQ76neUFuYfVr5JK/QYi8GElCWHbbE4UfiI0oh/qMdmZINz5gTRwViWdl/1HWTs9bQvLo24/I8wapjq46tLgsg6Bw2Z6Gx42eehd05D0I+r4NoGhUmSMbGBEfqu+pf9cK8DB3/PT1tlBRArPtwd/kp9J2Fx9zHJeGLylmeBSuDzO8B8gXjpszIAVu1Ljsst2y3iYIg2dHeLgLn7gZQmiRzpjJH4ex7m4EDDIv3vblbgI/gRuZjBWwwkWyCQPUqTiX5OnT7lk=;Cu/ev3GicOM0dvMlmF9VgQ=="
+secured: "Klr0sf2CIw3DEhUb2KcaC0AbjACMfZMydl7epNyT0G7dTnGsqUkLQREoP8GJ683jiaXwqYzX5BLHcYdAWirGaJu8vfxXtjWK6Wqc+gBvud+OXj7Vyk0PK6zD4PSbBe6yh7w6eA1096OAj/hdesR3W7h15rMgNsjy3NOqfZ2yV4ZMrAjNTC57Dl3h4U8T92FWONcAsoSjY4x29mYXm4HJslWvSfgKr1KWvzYiGKaQI9jPdGOgBUX1Tr4MhrJNCqVOIXoE1INRxxc0AAQp/lp3FoV//mzr/ohhTLAKHbBwFXL+kbKG5cQWGRllXvXhR2lvUm31K176V5CbKvIvoM4iJlmwoTOsMzkPRjHoqE5Q1deEoNLJ+TSCwMP687SRcrySw8ldjj/b9RcoPVxJfqkffwBwh/7jeMgEb1E5c47V/jg=;pKzI4TOiW6yRbGkdQgUb4w=="
 ---
 

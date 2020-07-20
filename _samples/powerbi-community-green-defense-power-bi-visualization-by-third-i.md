@@ -4,7 +4,7 @@ excerpt: "Solved: Third I developed a Power BI report to measure carbon footprin
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Green-Defense-Power-BI-Visualization-by-Third-I/m-p/637230
 type: download
 publishedDateTime: 2019-03-05T05:43:00Z
-heat: 53
+heat: 55
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMWE4YWY1NWEtMzczZC00NDE3LTk4ZmUtM2U2MzFiNGZkNDQ5IiwidCI6ImExMTdlOGM2LWRhYTMtNDFlMi1iZDJhLTgyYzUwMmZlMzM4NCJ9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 627
     isCached: true
 
-secured: "O1eqh2JZLFNHasVgErYc40sCYhhvrPrfbsaV0G5Hp/H1HmMu4YyxD5Qq0CUHIC4cleY9Cze/b4HuekZTrZ7s87L16V4UFI9atc/PeFP5fwWg7WFK5pxsjQtfaHCGY6d6fSNZOxdRxavcy9znoP3VvoolKP9zd0zrwiqVkkktSOI75VZJ5h5LoNvu63uIJluUotDljd3ciY+ZlHhwV7LgIMOQrhjMh2MlyENRrg77W5Xv3n5qBmHZDckM7+TqzcwnD81KiKKID/M/j8dqlvXkQdEyk085tXXCwSHbvJZ9iQ7zIjLYstPkrf/rCM28TBbgXVHcnAsefQWvnoV4ekMlUHEWQBaIVQFvX3V1r/sf1Uxwc3yBVNE+p09CpCA6hxN7lbbamkF66t5hL/SOp0+Sg/2wKWdF97F8RCXzV7QaAE4=;GzZIgYm3RLd876RRlGtJZA=="
+secured: "AOnDJulLHhPwEmbDW4FDOVJ2w7auqKtRsnN3sRehNCi+oqtKiIKcmEEp4uY1jmN8zHBmDA9AnhZDHE3vEStuMeVOoLREUZAbGjoa0pplGRdIYmv5ymYIwq53Ors+EACJXEmAa3dU1Y6CqSt927jIvcq2cCdJxptuZzduxBRlgq26p8RT0AsVU/hBBpNcc3IZ9dbrAxvtSQ6UBam3c/AP1TkTq6FlKSEMkBu/ajRFNON9kmP+CH0PnsMvboX11mR+UKFUh8ay+5eH1yTfyNEvlt3z7SOEqmrrDVw6I7VC4dmKC+Y5feRd/G6JnRVPe1ev5/nNSxcGSpcXwMlKmLwBeDomWrmhXoXnZJto/AWcZXUkwhL7Id3enOD4LzNRO23+Md7AI8IcqKcmGzzm+fl878MrUsZ7aWNcmzibGMDuWH0=;7BatMmdGk/yR4bCIMtW5Pw=="
 ---
 

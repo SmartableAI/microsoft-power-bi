@@ -4,7 +4,7 @@ excerpt: "This report shows a completed example of a flexible, dynamic and atten
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Income-Statement-with-Ratio-Analysis/m-p/792479
 type: download
 publishedDateTime: 2019-09-14T16:02:00Z
-heat: 67
+heat: 66
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZTVkNjlkMDItYTk5Yy00M2RiLWJmMjYtM2Y4ZWViNDA0NDYyIiwidCI6IjBjNzk5ZDM4LTQ3NjQtNDJiYy1iNGZmLTIzYmViYTljN2ZlMiIsImMiOjh9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 765
     isCached: true
 
-secured: "Qu+Q62vCdAcT1I+3kZ9ljjT5htgZB/lZNDQ8u4tYjisEoR2Pj1L0nM45CJ8yHAnvG1fn4CISlaD1PGa9OL4V1WXK9WL3+J40tVXnPL17FZ+DHnad1At7ezTnTcagunA5Hqew70wsCqX2odwu7hMEybXcOPGCUmqjFd6CcY6000ikdZ0C8cR2xM5XMryuDlfwNyiuqm9nwB78uj6jEry8w5tatuSDLeeZbJ2k/YpvdBU7VBwEjDlm08S9n2k5+vUaxrgOO7wN3zoDno0lKIUWONsaJCV99PQEsuynMyeaXa/yaaKf5hpEU08wkW3QqglbzRJnx8yggTVnft0WyMez5//Tvnr/FcdIOZUnj8LRHIevT2dtWBE0+Ojf21JH6SO5Ae+sZW58NYAwkLX1RWXsBljPSron+0hpMsUSGJKwdOc=;I4vXXgye9kfFvnTVRnv6Pg=="
+secured: "KUgSTAIyHeaiLe1Fk2Jk81RKwcurr/h5vn5nrC66R3B+L9KP8XaabdUvCedpW+ZcIK80KJjjD0+uuBzpOrY5dUG1xDp2xAeE5rkxilc0BTS/r266BOiIc/Wb1jjhDS8l8yB82xuY21jyJ+L1ZvrWITArbyYg77QB3KoDgPlGo51cwkOnqPtDyqUx9ioghTS/ZGEv5NofYkfUEPH5ESWZqBgfZzNpNtzi2XFfPbYM54Yu7y+NvP6UwJAsrddGvvJzY7aWi13wvHJ88xMBeq/n7COjjSkvR2Ah4qB5064JEr9K1FsBcC5zaK9vBxzNtoXEuL8A5Gwu5tEW3lo9Yjy8IP8IS+Fqwh3d7dpucRneEfPa5j40SyqMfxyhmKa5tEB8+vO2+BL5EC+w3nybFGLT+qqf/FEV+J0p6Sp75Rl9jgk=;EWGHposID2c7vJOkSZMx+Q=="
 ---
 

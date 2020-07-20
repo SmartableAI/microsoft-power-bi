@@ -4,7 +4,7 @@ excerpt: "Former Massachusetts Governor Elbridge Gerry redrew the state's 1812 c
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/U-S-Congressional-District-Boundaries-Over-Time/m-p/567021
 type: download
 publishedDateTime: 2018-11-15T10:30:00Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNGY4YTQ2MTYtY2EyMS00OTRhLWFlMGItZDk2YjI2YTFlZjkwIiwidCI6ImRjNTliNTFkLWVmZDItNDYyNi04M2EyLTljMmU2MzE1MTcwZiIsImMiOjZ9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 1928
     isCached: true
 
-secured: "91tch3dqat+VH64ywR6divKHoVdH7J482Y899qdNq+7sGEothlAIhdK1XYbpTotiAjoCdpLUjba7fcui6qm3LrZ0Z+R4/6TnG4O/yomAnv5ox+lmU5Pnpqj2JMT7DQuU33fYBPBoyBJ0wn7ZaaZlcRsdlvrXQfWSOZZgAIem38JthKR69x/8jQxhUDE6S6+gMvSyYLouF0jA+LcCeYvnpxD3IyfGUQ9SrBoY4frXyGsU8Y2luRh7TvutS2KFGdJqqETqA7TBI5OS/vRKzRMznOelKeWaQ/ywCQJAI35ltuTZDG8q/4VFhVNxaLvagwsoZGiLYVmubF+sjz3tDcJpqJsd2EgztF40nT2OHBX0cjwe4YZx1lxQIf1iF3fBlO4RVgmSF/o9VG3FuKxaA2lkyg==;PGtgUutZoztiMvtaVh53Nw=="
+secured: "7VOwCfa2hXVIqE6QYtKvmsDkeQtiY9WS870EDMXsfHRl2pPL85ltNiXX5rPkdtolrsUerx8b1QQQOoPLCYuVvTS4qSE8uOkq3/VCJPadDmJwr07S9xShzgGAr5liIQIZb8p/yBYa/pZXNe30alFL824Ot8yIG0JqPthQdzoAiBgvBvSI7KimLS3Q0BPeRY3OW0S6nWz+eFHEx2ESd30UhpoFwOGH/5Y6vNjK/nlsXyNxTht/Xqng2u1uLsKGFRgaGMykK7eXL3quwd8mY4zZiURVvMxN3rPIYjERdtK90JiPvIldA6H3iSLlu58PPb+kFG+1QXrKWuj2Q7HMo7RknicCBPcrxCuhMXB9XtiqKI2Bieu4LOnxEa5oFwxrRR7ANKFamcpKSswFGcRnIDbMhg==;WA53KpjhDyM+32Guc5ZlIQ=="
 ---
 

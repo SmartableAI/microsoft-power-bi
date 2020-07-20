@@ -4,7 +4,7 @@ excerpt: "What's New Power BI Updated Sept 18th 2018 With weekly and monthly rel
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/What-s-New-in-Power-BI/m-p/100643
 type: download
 publishedDateTime: 2016-12-09T15:16:00Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMGQ2MTFiNDgtMWIxNy00Y2IzLTg4NmEtNDAzNTQ4ODU0YmJjIiwidCI6ImZkMTI5OGJlLWMwOWYtNDM0OS05NmU4LWJkMDk3MjEwZTI3NCIsImMiOjF9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 606
     isCached: true
 
-secured: "KP0Blhdn9XBbDoCxsv/OvSuQ+Lvpd2OhPDgu+FWPOnwcLD1GI/JsidYTBq8VwEbypkWUd9PDiFp8wQnUOyjaMNYZJ1LHCdYC39weWB3JVEQIfgFYTeWh35an26lqZniedUveMf/MBdn429WtsP96KYrD+iTFd5iMbuMswF5O3pqWbNKwK0Q2pmFy+e9LYVCgS5HpuAJGfA8AbKWlrtkzLTQ/4dEzHVw4fg0nNJdhXEJUxVW4vAw4QY9AYd7MMz41fbHqI0ipumb+X9JUgRnvF8CIc/dCdBRuQr+DvVkPcSshqF32lZo/mMcuOI62M02XB1Ms6MJSGk7fR8h8tsbq3iYw9SFYADt44EDVnIkEe2pUJPaJB3lP9pfG/Od456Mm2Dec1bGCt6zRC7Wd5H7emFTYrQ21TwQMQcf6sopZ390=;FR6jn0DPnWWKctbjHJw47A=="
+secured: "Al3MScsNqReH7pFFd0rJ9e8jOvSfrZbXXGhB8IvWZnWu/tfgMqQYBN4fO0zIIXiKtKKLnEPMI0/qtTron9bQHNaGPCPij88orhcl5wGdMwgyvHDBN+D6eBm4HOT3LDikxir6GMLQEbpEAG59RdIseKId1ch6tasENEtc8xxzROGcdrf6i/A8HE01TzCZ00jf5kA29LsJhtmmvxBgWRFdsrSZZyqHRdnZDgWGVd9nWcAF/zEw91a4ny2eOrvhDY/evYAphYtIzVRVFTlR/CApYXx6kiFOfXhMp58VM7LREp7wyRUPmvfrOK9TMtSd7aWf05SvizIeQ89DFf9FK3Jgx9SIgSuBPIMILTjoxu3YK0bsq0pJ1/TUJX7G+IHfmnr4P5l+GyswmLSNnnp5UfE7H5S8LAN1QaLWNs3IlD7kCUM=;p5pl0oz7mNkxhQhI8uf73Q=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "Tracking sales activities in a spreadsheet has become commonplace. Oft
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Sales-Dashboard/m-p/484507
 type: download
 publishedDateTime: 2018-08-08T16:32:00Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZTFkNTBjZDktZDA4MC00NGRiLWIyNjYtOTAzZTQ0YWM4ZGI0IiwidCI6IjI0ZGNkNzRiLTc3ZWYtNGY3My05ODM2LTNkN2Y0ZmY2NTkwOSJ9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 846
     isCached: true
 
-secured: "8oDgSbMN0wYtIMd5Uj2g2JN70ztf19Adv1Rn42aXUHqPN6sZZCviN7Ka3bajSjKkXq+oCbOo4HgZNNr7V0kIFIGFOaybHmE3rMuiOe7j3b5wxdlbZt+CrKQegZ/tQCwEcno0X0yD3g4RU+ORGUYggGpEM0wxmGdsJtb8bU/OOPhI8F9b7J6HG1UVyijDo5OjEVHFIrC3/7ZxwYjcMrvL4BWXwM20MzV8O8wAS8HGWjWLNGSviaefO0LHNfCLm7h2dmomsAbGk0Dgn5uXEKpU+Vm1g4jiDh0PYn0Apjp3jH1u9Soj2bQhvTi+vxpp7NrIzomhi+qwCnUtumQ/PJC6TT056krNhvNvlvFgqY3UlCkxAShntj0Sz6BGnJlHZvzHnjDXREPeGvxQgS3qrEFE/UiJtx9u4YAWa76WXlWh16c=;1QYAq5akGe3WzZGXdG9HHg=="
+secured: "1ukUqpsNRo7IytjTEEk2mYnwWR6YgWCMrYS8nq8eull/5cVS28NvOPgH+gICL0Wyg+KTkpaYc0A5XNhJjScD3NrpCDt3kVDAaeOUcqcxMVulbFjZ1w+auLU+bSEyEPy05vBy5HbreJFoyWWY3LKZJCugn8qOePGn8SKf1EKm8N2tlHigR9K04sejPUzu08ri7UIrManMF4oyoP2SnEliDoSNHMiZfg9a7XctAlgcsf72LUiGuKDBuQFYsp2O7Ij+TZ8QSOSGsr4ztb+nDQG9syeXdY8oUGsqyO/IbkFrFDI8478On9rN3dOvRV0GzrbQuF5XhVkNuhS7yclEQobKDyZBAKM98JpE+JmLHK376PfWYtB9oeKhJ8rRbNRGlj0mbV58Pgv9v+II8skr/tZwk7f3nun396xplR+2jEGS1cc=;mANruk6U2jd7fef6YeGazw=="
 ---
 

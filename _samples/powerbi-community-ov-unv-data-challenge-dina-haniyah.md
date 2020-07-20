@@ -4,7 +4,7 @@ excerpt: "As a data challenge for Online Volunteers , Dina Haniyah created a rep
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Dina-Haniyah/m-p/1082664
 type: download
 publishedDateTime: 2020-05-10T00:57:00Z
-heat: 52
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNTdjYzU4YjItYmNmYS00MzIyLWFjZDctNjNlZWQwMzQ2ZDRlIiwidCI6ImI0MThjNGZiLTBiYjQtNDBkMy1iYmIwLWIwMzI1YmQ5ZDA4ZiIsImMiOjEwfQ%3D%3D\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 1191
     isCached: true
 
-secured: "W0fBCH7/dHKq/B4qF8QVQQyV2IpKKULyfPRdzanuRNvYtFopCZnWxajYlf1nbVv6zQAIAAFQkTmLV91NZQNEt2HalsCi4yLDy/AWEHKkiQNyxNejMIz+A5F8t9x2uGiPeTxMCLwI5W0LqAFGw/Vo6nk8IjBBhQmatYaFjNhD6BfDovKBIzqLyfv2MQdnptj63q0PvDoxk/0FvS1vVKB4F+LyjOPPbol8/rFft150BdwCQZBqOxmdO/KlszY1X1FfZ6dHqAC1LRhALiGbcHYYxOGi2P0raBREb8I29CIJUVkB8BiNJhrh2KF7C1LERk6Zf/TkCB2709Urrnj/Q12k3KsNJWu1MY0RME1eC63EcygWx65jUWyXfLMPjg99IuFlxm50oLu7rX4wyXqlfcPjxA==;97nFzwWasuLMEiyncjXWdg=="
+secured: "GH/y0zn7uaN4ybCdCYfNI5u0SSgyCg18uNsWMQdJl8v3OKAuR0jn4Ckj5iHV5zu/aTlNtV8rFwJ92H/UdrhGPghAtHxjDFG67kAFVR/v9NI7QSQ0MtNjixU0EGzfz0UAgvAqSjiXgkRz6q8AAJniiGu7y8+1zH2rMMkzYbvshcMqPbzVGsa05+F/mvJZoI7nQILPqkmFjwI8clwKUi4uGQ9bGU/hnvVbNFYZNDEYKDIJ9d5qgQ0WTMnu+agP8s/klNUIWBbf7ySP9wq1AtMH+qrV71+Lmoo7aR9jF8Xz5oQL6Odr/4+yDnWkeGf7K/EfCyeR+ek8G73brg4jWrpcfLfmeAvM0hTebc3j8DU0Bs+LXWOfw43yucUQAA5L35XW5C4JPruhZ+XJdmiY7HD3eQ==;tk8A5ayy4d7qmXNbZ0iKDg=="
 ---
 

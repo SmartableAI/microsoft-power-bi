@@ -4,7 +4,7 @@ excerpt: "EWEN’s DCTP (Data Center Thermal Profiler) uses PowerBI to present 2
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Data-Center-Thermal-Profiler/m-p/141361
 type: download
 publishedDateTime: 2017-03-13T03:15:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMzY0NmQ2ZjUtOGI2NC00MjY1LThmMGItMTZhOWY5OTAyYjFlIiwidCI6ImUwNDdmNTRkLTQyZDctNDYyOS1iYmI2LWY5ZjFhMzAzZmFhYyIsImMiOjh9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 769
     isCached: true
 
-secured: "ZiGUUeywpfenVtAOgI9dxK8OHwfr7ZDtLLLpTRtQ9ffdfmARwNHqXkbfO0MFqC511LPthQ8oME8oOnkcM0JYWwUZXOQU/YVRonqKMLBWORlZQNVrj5QD3lLBDkoVEA9sD+dwkJSjtwzXL+/YuWdKKTJDac8fCO/vfysvehA0ClAYkFq/clxMRf6hRtk6PZAWytCJ3IXD72oaE6gLYd/YmUoR1ZuLNQPS/SXh3hrhar8oEulcLRZBmdy8DeWEpWWqjIx94LcL21YTDs9Ks4UdcDERpvH/XYaKRXMbpd9xkg1oIpfS41fCe09mqubj+XckU6o5dbHPcUT44vNUkPDfbuIcHF6V3q4NepIx3+YAISRgs3vsMWs2GzM11oq/Pd4QoRO17YAAhiXMkg3GfjmLPLbzAX1azifRFO2asV3LXLc=;mpRYhcECAkw+6dn1/ocPyA=="
+secured: "Li6VbU7Qx+QsnS43toF0cx/EhXuw6gPZryUK6qf6VddlaScEzbd9R0frv3d1XBhiiSaryL7CWjJVyrReHZoLzmpqsAdMho1UsTDuqJ/QGjky4Vs/COeXOeIQjSPDlh1E6uQNVWrsVO+k9ySHdUj4r1i1dnPG7j52h9FubaZeexN3hZdwNWitSVspK+NkHPZ5sL5EyBzRW9jc66X5ISKUPgBQroKEVOZG/V2FJaoG57og0cfXx8TkI8omRPI3Z2/KCqpQ72yz5k1Sxlcqmp8TXuPhj0OjUKwaV79LZ9KpiZ58/xrbWmxabcl1YmpZuUJpfC09aLUn4mbVhoqrD9nqHfgo4HPi05huB5A22BJ6mIDDC8yU03+bWB537ZQK+8z9eteRDtx4RYL5icgaYuYwFd98n3FOXH+Hnz3c7ybUhBc=;M2xQG2PLjT7nJrkimEd+zg=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "This Power BI demonstration is provided as an example of how a UK prim
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/UK-Public-Sector-Primary-Care/m-p/120381
 type: download
 publishedDateTime: 2017-01-30T10:45:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYmVmMWI2MzUtZWQxMy00MDg1LTk5NTYtOTM4NzE0OGVkNzg5IiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 736
     isCached: true
 
-secured: "vTCqKsxMJqqe83n1KHZNEKresAaN8+BCALIzOWQt+Ac1N8FInRPlwTZX3d9aQZB4JguEkO8chzi9zdcQjfSIcGAuN0MjpUjL6qJoTuUGjYxOC/laRqGxQg8CZKDmfD9Ghj0PUH7Af5vyP6H2xj1gZPenmKDu4sSFlvkgIgBlgP7eJ8LgM1qBj2OSU6DLTfFIfy8FUG2RhqZMhnRVm2wAlOOOahro0ptZvlc58WcfZKCc2NRWNG3mkX5hvK8dSRSuJqWD6xgrnGyNF9CYKp31u0cwYxbx1D2DPkKM859hSLIsZu6AxZGm1IKA3BwGP9jPusMBQczNfCLm4rygLgI84FVJxeSluZ0VeVP7sbYctpNB8LySOdDN9sbh/Y/F5YKmkYyk6YHbg9iERCqkS+BGYhR0iAU3Lm5rh5ochkU/z30=;McPLC//ZCKXT57mC/Dm5Kg=="
+secured: "yfjlExcCY9A3Ijd9P6l2ALpCoXVvPHNdKogNMuIHAyWDQYTik3eTM3Ox80BzcYUHYJMr6rIJhRK7MkASwP2mazEJXMh3rB0uafOePZHtlrNjt5iDB8C6SP8vOoqBdrdoh5erCCZhMNOR1zHZaJdUqaIby/J1wsK7AaL7FHqU0t+dlpOuKI3Jqfg7clqBiVe0EaRCYoq2X0mtSkzqa2GphDwQeaAv2SKKRabkyNbvQgwZI4mfyd1YpeV/zRm71gd9VT5EaGPvNgnv7pTMSZ2cTfic5SBU+oGjtRPk2cMAzeyKIEC/lScAz4RPx1S2F2hNXRKZcLFHzwmGqrOzbp5eGISePrAwxLyKVNvVwoPbcTkdMKy38o31fpxZyLLF6Us5qUZxFo+M6ZUTNfQ7sQinZcxo6Nc2zwUlObmjHD8REww=;a/Tkc5WyYEWQuJHTkh3RRw=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "Hi, First go at this, some colleagues and I are in a couple of Fantasy
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Fantasy-Football-League/m-p/80386
 type: download
 publishedDateTime: 2016-10-20T03:25:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNTBhNGMwOGUtNzMyNy00NzVmLTk5N2QtMTdiMTRkZGUwODI3IiwidCI6IjlkMzQ4NzUyLWI5YWMtNGI1OS1iY2YzLTgwMTQxMjZlMDExNyIsImMiOjh9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 513
     isCached: true
 
-secured: "ZJ4nQqlJ10lmH+BsQDbhjqFl/WbOu7LUdC5EcavomGNDIbNuo+qEL2AOqhjSvPZl6H98NOiL90gSDrY/IR10Rvryu+28RLhtCwGgrLrcuq1NmtmGkl5C/hx6PzYu1ANWZbJJplrlx3D2saykgD8+e7SxvJpxjl3O4Q3I5bPad8wGB5BkJ8FBllcuRzLE7cwsYMAU9noNR9JfH99sNi13rjzSaO8DaP0no4uLuy37eyjR1emjsFS0Uo5ADVzy1bEfTkhl04BxMsCLQuSkjV8TP5q83OusBs4QY5i47qxqNYiMSTbQGFNfeJ/mzudOvfypuY6vMA/rzWk4l+6BqObdHBcQmDAm1goUSdthomE/6K839zNLCix8f/Heym60p9aZpivkxXy/zDhjc6+YXJqOITc8nLWGb2VVaiE+JJ//7cs=;vNsbFP1LuLp2WrtNM8fAvA=="
+secured: "S+Kv1iy7Y7Tt5PSrvWmZ3hTR+Mm241kQ973iBq4P9rGwtOaWSHYaCm07bXGtt1HMXNUD/kvYdzwEwDMjY/GYOKJ9Bk0AM7EMdqHy3bxo2P3LvS9Y3wEnvh8xphEJ09zLhvu7dnwfzGlpTxhB2Q+jvF57j1K1qRNjxFQ9a1iTyKHDcmRqJ0GXGDvekfFLydSYk71ZslR8M88XHCUMf4GL1nWAAA4u4L4RbJkWmTUV9IyIwWqh9TicbF1ZJP5XA5Jgk+t3ltjfIMNv/88XZ3SvlCuPV7sTwqx1R3FA6ZoFbqKa7VZ7oUAsyA6KhBoS/yhTMP7TmcDQ59V8PO4qmJv5STD7so/PzoISxfgab1gWwlQLxt0WZjKjZr5fAthJQuLL9LNKd5CmlSEmfNfV5rJl7g==;3tnSNtUrJJX6Rm6GT6TzJA=="
 ---
 

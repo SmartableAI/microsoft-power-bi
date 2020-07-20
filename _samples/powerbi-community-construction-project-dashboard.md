@@ -4,7 +4,7 @@ excerpt: "This interactive report contains the most common activities in the con
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Construction-Project-dashboard/m-p/544131
 type: download
 publishedDateTime: 2018-10-16T23:02:00Z
-heat: 54
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZDYzNmU2YjMtNzI1OC00MTNlLWE5ZDgtZTMwZjg4YzY0ZDg4IiwidCI6IjQxZjZkMDg0LTZiMWUtNGM3YS04NmFjLTA2MmZmMGQ0NWY4NiIsImMiOjh9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 833
     isCached: true
 
-secured: "1mx4u7VgmI12M++Oeo0OKw1uO/uM0PW9b9f+uxVZLbLfB5oqRXtQRyDAnlG9zXZSNj6aJ5ofhCKHCF0abZQ7ozmDCZRNrafqS7TNdRAzb6Yi1VMnCoRBTA8wps71yFHXNCMKAwQip3JtfMEmQnZ7lRP3z1YAaQanXOl4mddlCuT2Ucnu+8aefe/o6qfJ9hlKOvdkirMt6QLuhOhdvE/hKDMlCvOwd/O4oX+6LZReIRBUsdk+WFuRACTAAhSzsySbawjdHoG3KfCASVfjj4gZJ79w+KEscvl8UswgYqxxsq7mUFKt2jOt7SpmjV2GGfhd/O9dhB363W3sipfXftnqgS+TcYuMB0PT4YDgW4IAZ3+/EC9F6SA6lPqVS2ulnk/jrBWOq3hFHjvAnN5boS5GFpmWHDlH5zrK2U1l3lGLErA=;3mSTiWdRqttdm91gL9l2bA=="
+secured: "vggQwwIDI6rdwzMlZcnGFn9PVHHanamhSXGPoaPk6LxgiFujsSm4dG3+AgIsNxsJv1BvkgL4GlLRZ6d9NW/tdQFxiOhGcJopfikbuW3glk+T13D7M8JIgMjrkoBmNJznWE/1FjgH286hjQsz/WsRULXWxdchUJFS8yYKDz+FnX3118TYOJ4oOjAjCBiwufh6Wh6/gtHPJ7k5RnHfUD2Q22351kqnkHVNqjelyW6MyD+8OlKFhALtf3GsNTMJWaS2LXNARkcsnBDTBDDJLb5RMNex8vl6zM3ht8XQe8BpmrSvABXYGkP4O4KtLatgQvuWv0HZZUnkRSTWq/vtl1ND5b01SZcfIANueOL78In7xpAJY25DlzpFgCmVyRnmy/HlRdcSCZP7SKCTP0CBTIALw31S9y7Pk1fq1bjO9WmU7LE=;+Op0nxcEqgiIjZr7wrK3cg=="
 ---
 

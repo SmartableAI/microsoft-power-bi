@@ -4,7 +4,7 @@ excerpt: "The most recent media outlet to leverage Microsoft Power BI and enhanc
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/GeekWire-Data-Visualization-About-Amazon-Growth/m-p/125217
 type: download
 publishedDateTime: 2017-02-09T13:22:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZWIwOWNhZjEtYzZiYS00OWE0LTliMDEtNThlNGY4ZmQyNGUwIiwidCI6IjNkODE4OGM4LTc3NTgtNDYzYy1iYjNmLTBlMTYwZGUzMzYwZiIsImMiOjN9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 425
     isCached: true
 
-secured: "YN3ymrAnlsgCKg6vU2iKl0lvsnhQwEzE0p9mAsmQONU07tZQYQXYcyapgVMH9ifHCYzgDF2EP2/Tj0NfTV6a/wPwaXCC81Z3H+56/i28dynHuSWLuH0qxql0ecWoATnmHvnOI6LUuWTcSfvIpU+4GhMp/lUbTp0GeMOemlc+WWQBU4D8R4BIwvIBmWtsVpmJj3Lz6FMdXPoeSqBzpZ6LdR/DF7MLln+wkTQkpZZFnN0VnvG7kTLlMOfV98o+o96e6U0nv+kiDMOU9cndy6MidhjtBYPvsk2RU72s5imMYN8oRH3Dybu7T/0ZBfQ/xAswQNt3N46ymvNLMXICkaWUFnKYQBE21aviQOif++igyEOkm3y/pObhuvwYgtsguto/2logcNxj4fBYsTakeg3otg==;FztqO8DExEsw0NSiUx+JnA=="
+secured: "C4f/dTfuD/aXelXFLUxpxvmbENlnNLz03AYC66SZhsLchCjp3jnGqvRMOxeX8PAZ96rW1p3vW7fWp2JptlXEbx6acyV/Zkb/zeHkx2XT2T0oiGvDwvjl9Sl71d/m4VIaFFn2+/VPbLHd1acOaseTFGwPksk/ROtzDduvDS7S+qZKwvcpsUvHxVSAlfYdYGfMVt3TI5Z7k3SDBgOVP9wMhI94zVkclRPxUfXCiNjwTdaRpzZYJvtPVEISvMQ6SX6dQxaNg2YuV/SCH9QSUs+hSdBbAsU9MZ15dF6FSKuddIrDU0lNCfG99+H/mWP9s2QZMmFMKFCoIZy4mJpP0QYE80oi7lHf5Hv+U493YQAt6Ry3kIT2LyXb7aoI9wrEj7M6K9FsclcuDchJM4ZWixCE6Q==;2ZrIHhCl6KLJAgKoBnQEfQ=="
 ---
 

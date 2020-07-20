@@ -4,7 +4,7 @@ excerpt: "Hi again! This time i've created a single report about de top 500 larg
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/PERU-S-LARGEST-COMPANIES/m-p/816215
 type: download
 publishedDateTime: 2019-10-11T15:24:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMmRiZTQ5OTAtNmI4YS00MjE4LTg4N2ItMGM3ZGRmYTNkNjA1IiwidCI6IjFlYmE0NDNmLTIzZTUtNDUzNC05MGQxLTA5NzZhYWJlODZhYyIsImMiOjR9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 924
     isCached: true
 
-secured: "U8jVjPEofUpQvTdkKPPOjoyXCLdNvpIix5sm2RPB9lhrMe8EwifIpGRFNN7LCoFhRDCy3iN6o55XSe7aStfCmHq8XlEpl339Y4zLmWl0f8X88nGQUeS6V10UFSQ53vZjm0torZF9C7ANzg6VRsMg3/N9mMU8aJeL1UuJ4nxSy6SIP3xInjhS3k246ZXLy0Jbsejm3vVrC3kmHoD19Z8i8J2YuZfG8NMxVb9RxjXvON7D/oIlk/bTgtXjZoRujY6k+V8DefBOxwLXVzanlAB5zveTPopEGhhKhHDhfrK3Y9JA7q3xzeSBiVwQFQTMTQ6ZsghUhpLXH70DOPLXYYYHRSUpQm6NNBOW8Tbz+6VxXPYJPlRDtZon/hoi0BVDCFtSTSVaAtU3Y/BpUaoiECakfQ==;KvR6AI6kABziNLkIjd9H6w=="
+secured: "IEVB3YkwsqJVm5TzmKK2fs5aMpcNuRJy/BJoW55VfHNpbY7V+dAI5obkEJp1VBGUrGr9TpZfeJ3Pc4ebeGRiF9g+o0IE3648QzrPkpgmCCdBpmJPsKT5fxtTWELRMCKM/9Gpy1bosZeVggTuvbylZe4rbI0Fk614yui+SlDKVKjzX+nVy7sYNvxAVvoV07iSKLO8HG42d2MWV0vr79phFD1vamgapZBKLjniOidWALnYtHt1FbQAQJB+dr95MIHGZBZhNHUCwQ6Qy7Fc9EvcCOmfQHL04W/bCenpZpOhZW7wlD1Ess/Gt3RQU96LqARjytq+PFLut8al8zg9At6Xa5EiCOs4HjA3KXJ62/UjtYwRooji3nG2K/Fadox6EWGjfhUdFHTsxyaRWggcto4sLQ==;1+fvWO7m9Clv9TvYGDv6Bw=="
 ---
 

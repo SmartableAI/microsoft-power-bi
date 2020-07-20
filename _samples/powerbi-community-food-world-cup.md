@@ -4,7 +4,7 @@ excerpt: "World Wide food rating analysis is done with world wide respondants wh
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Food-World-Cup/m-p/1182608
 type: download
 publishedDateTime: 2020-06-25T06:52:00Z
-heat: 53
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMTU0ODllMmEtZjlkYi00ZmE4LTlmMzktZGU3NzdiOWUzNDQ2IiwidCI6Ijg0MmU0ZTBlLTFjNjMtNDE0Ny1iNWJjLTJiOGJhZWQyZjk5OCJ9\"></iframe>"
 
@@ -33,6 +33,6 @@ topics:
 tags:
   - Entertainment
 
-secured: "qtfrI1a9YBqqG0u7KTNbfWgm6En0p4muPchEtXtLTz9HL1rgQV/AOwZVsWLaG97rGsb0JTxPDizZNl8TmU+3BdKD1s8tzDTcLzx2Kr5tc33uau985tHpl/HPUe14QB6FYoq2uEmuoOzkRdT5n4OKNd3v3xLl+B4DJsm7Z0Kp/PizXFNb6r6g3AXrXszJytAT23PraDE7RRAl60Yt5mJ1TJfDlztOx1T0gzN0FSmuNVKTkYypFnxvmugUD4uVRtB3g45jyxp0Xd2XbUp/NWDxWKlXQk2h7Dm84bEktwGeZokH2QMV4r8qZgl/v+0qDYPibkY5VdyH6mfJ/uXSXl8aCI/gE+AJuFpXHdX/+TUu34FYxn4EPwMuaXtwhEeKUK6sU4dPSsbuhmsAmBhYvVzM9A==;bThHWHBv9QlHPfvtC/h0xg=="
+secured: "ZIvGgoxmEtb200/W6b9XsvOp4qbzJD7JKm1xth9wnf7oxcR2r7w/iXPOkX0jHy7ybyETBgiQSPUICWaVQVp1LpZ6rZ4SAn6zamEd15C7R97gOV4fCx7ngGGnYAHv4ALrnnKZMOiq0/yKHzlkt/ypKG9h58MpGOId80Xns/fZH+J67TvyAhoegyinwgFsunQ5BtgT3bu7CKuU3l9zE1B5e4PyuzN2u2qVE9ZYV0Jd4FTi4NRv2TAMPZjzXcrq7wlgS579vZVb0R1dXhwqqt64SJY1FFeITT+p/qLuO6T+vFrz7CjOsDV/i2a1sXdo4qig/KobnAxXumfogyaCufgHLhfo3dWAtIPVR+KS4Vt2KkMzmRVyaFB2GEI93Z7RVq2mpWaGUtUPgupYEk4wiYMW5g==;VFe0qo11PS8hUNrwru0GjQ=="
 ---
 

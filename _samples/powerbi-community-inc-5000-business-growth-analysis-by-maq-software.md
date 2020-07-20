@@ -4,7 +4,7 @@ excerpt: "Business Case: Every year, Inc. magazine publishes a list of the 5,000
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Inc-5000-Business-Growth-Analysis-by-MAQ-Software/m-p/473764
 type: download
 publishedDateTime: 2018-07-27T04:28:00Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOTRiN2RjNTUtMjk4OC00YWY1LWE1YWUtY2Q5MzFkOGQ2NjYyIiwidCI6ImU0ZDk4ZGQyLTkxOTktNDJlNS1iYThiLWRhM2U3NjNlZGUyZSIsImMiOjZ9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 635
     isCached: true
 
-secured: "2RoNa/AsYac+SQO8y+H65bE3d8/uXRCsdF/HceWE0ccKlHZ95JwVeLCoblSR2CR5lX4hJYKnn3m5PX5V1pJybPPLzZxf5IkQM2448k+NUe5UgL00JvB9JBGY0OGDRpdl46fz9KfI+SljlUZdLKJDF4GIkVP399BW1dTKX+swFOeVa7+b2prFbtqJNbhKTKiBVkpA9jcfWC5dpmkNQVk2MSpBnLQKipAANYXSeyfB3Z9kuH7ZdBwWXxjcNdfbiqabfvssXwXqKQMwi87SsxprE1T7Z6pAhF3kXyKZCExt1Z61/MqV/3R2jJhZ2LMZIigaSVkmntWoFfVB6D9wVDDXoeuHe7oP+SV3mSmK8I32apGDaNIVy8FjPlpUrsoZa9ah86U9+ZM406FuqegWkS7Z+qIlh+52vEaxtoiq2cyZXvI=;OyNC9Zkdr5NOdq5Ttbv6Dg=="
+secured: "lqIISwXjAxi4E7KI+u4tsDXRegAXbe3FqGn5S/AfUGTT2p3fNYPMjKgeS4Cb+1N2b5/QQIXgEhzDo6sYpc3HgujLA7ssFBZL5Ys2dQXQb/i82xWvoH8D9IqOYd+UsQ2W4oEfDNSg0ipVW/oUQbV/1mDMNLf7gp9+hA0xk2+p2N6/PWYp2yZv/lfVO4gWMALP+74J+Q8thA1CoL/MV2YLhDWSXDjNZrIHLEd/uMPGGgJ20XFsQxzdrjN2yvefv9+GmewhrQ7dNkPC50oLvnjdqohR3BO+H5pGGAJWogiHuLvnxTIyY5PG0qmhiaxmhEwMf5EEhSjlDdcDVTXHuklTLOISKNTsn99iGkSvgrhiP3Dh6DRU6VPp/nWFpxKZ0Rth4cjd/leiSvJhriRaVwqMejHqB/9JsCk/W1T/Tddg0zU=;/cHtSZQ+M/tJB5+eah5e/w=="
 ---
 

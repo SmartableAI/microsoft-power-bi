@@ -4,7 +4,7 @@ excerpt: "In this Power BI example we take a look at leveraging some of the Worl
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Analyzing-Healthcare-Open-Data-with-Power-BI/m-p/148492
 type: download
 publishedDateTime: 2017-03-24T05:51:00Z
-heat: 54
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMTlhNjM4NTMtZWU2Ni00YWNlLTg5ZDItM2NiYmRhNjA2MDZjIiwidCI6ImJhMzNiNjE1LTI3MzItNGYwYi05MmU2LWE3NDZlNWNjNzBhMCIsImMiOjN9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 890
     isCached: true
 
-secured: "Wz1cuvUU7sbwopfSonLPjBYNAjn4wNfSXWlLxpaGyf5razeruCCj1FJfIlEk1VhvtbGfw4RIRTIWRhRfIKatDGZYsrcoJagr/I4cZckikYRkkfvrKzl3cmwePbbr/MOQGG2/5wY65uOz7X7sCdH+OHCuwg6rtISJTACaIXtsQplvIGl0JEcc3Pn0CCfZEEem735S5ELgOq4DSSjX8nSWOCM+fRpnceGNHg0TN14kBTOE3bNaHbLx1Cw3Lkth1wHs7BK720pY+Gni2YfKro54K7dObN0ATS39LJt1yz/lmJ4wBOWxX9e+u9DafZENiwg9iT5qt2G/4txK81HFWNXQF0XKao0i02kNzABTK+sWdaX4YrDMYKCR1k7DovFgxJ73X7lA4TmCmX3bXFb61J9Dyq0fZFECYafFsi/jux4ZIG0=;M1Ye7GnxnmZpk8eEeJJ+WQ=="
+secured: "vI8o7n6MoTW/5cMURPfPhjqz9UXmPRUJkyKiZLgyAPxZ/kp3AlaxwfeTm/bpEpHp4hfK7dCqnKqj/GlHMj39OU8o5QpEf6JUVXrH/Vh1UOfcNPpmi4ONtNQYzDOUxCVN3Pwj6oTuE6aJM3BlzvNsXWz/prurTg/EInTdXb+QtmUlXIJEu726Ta5tMVop71WjlWOtPzDXk0pAc52HbNObfzJucdtinoEOJVHfhmxWkVYGhP2t21hBLjA5SGIFGwGRF0u4XrRKNyy0teB1TRWCBgGFlef/tCMM+BPSOD4ek4opQnpDEwS5kog7THKRF22keRwdWD8GY4wAELhxZd/Io6GXS6B40Azqrf+VMy//H0Ojx7kIlEwLF9OpJ1XEEE7sSIjftxD0V5GFn+omD2PIwJa/K0vfvLsqlvYkhrNy/KU=;YzRj4MkZirfCyDTxgSj+EA=="
 ---
 

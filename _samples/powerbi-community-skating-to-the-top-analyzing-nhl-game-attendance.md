@@ -4,7 +4,7 @@ excerpt: "Discover NHL home game attendance in this report! Attendance has been 
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Skating-to-the-Top-Analyzing-NHL-Game-Attendance/m-p/725581
 type: download
 publishedDateTime: 2019-06-26T18:59:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjYyNjYyMTUtYzA3Ny00OTlhLWFjMGYtYmI3ZmE3MzE5MTczIiwidCI6ImQyOGMxMDVhLWI3N2ItNDA3Yy04YjBjLTFhNmYyZDNhZDg5MCIsImMiOjZ9\"></iframe>"
 
@@ -41,6 +41,6 @@ images:
     height: 1027
     isCached: true
 
-secured: "P+VClPSb5vW5QKpbd2z95FG/MEhjTiLtlK97cAWPZbT2gfddiL3mXnolbE0stFudIjYsjePePvxs7/aGX4ZqMyTqlakDQLbxuxnWYoln66pvbR64+xEBA6rP5LwqncaBSGbejArOXLEYfV8xpuULa/ssneUcyNCBuA+NAW96Pmw8sB/QYy3OWh/hilUh+AVexVaew8uuGXF/rq188yhCZzmRSQrZJfXRV9gaXdXpflr3YNZkJ26QIrqSJ9zDp0KTNR4GWQOM8lqlxjDTQIIt7QRosSXs5bXhfFz+bEDEGOmzdsDuQmVxHvtfE9mckttsK4JxSEfkw0HzsPHzH3ZqiGOMM8IwlxI4z+YycFQ4cOeoHcwVUk2nfA9MlInUVT0jSW8P2vFSXU9VZEXON+ADZQ==;AEeN+5IToaLQRUpdPe5+AQ=="
+secured: "Ibg2aehjE8zzyHTa75AsxKg/it68LYRDL4AFIJ0FcbXyRp/3sMREVjFvZ4R4D79JzxC7d1VX9xt9/QbUImknybM3PpliGhzCmgrdhgIgK72nfgovjTMhK7HyLG7fksWerdFKR0OOH6oA7m6XE8rFyXbpiNI5C4Qxn8nyha+9qw8rz38Ah5pvt5B9/4Sx3OA2IPBql8zcVqKz6WTGxCDh9B/X07TGmd3VENFSDmxQKdUtx7DW74sw9Bv+adKU5dSaC5q3uJPABLdrjoWP99TQ2I1RALpLsgzR3KyRALzEUxzoQLu4MmkVp2Tqze/55IydjeN2EyZRdP/H6AW5lBtKs03ePm2Is+p4kYmo7V1E/Q50sHk595ikBtd1SGEYX4OZWoAUhjwRFNvagntE6iW8jA==;BV16glsr/J2J504D8PFLnA=="
 ---
 

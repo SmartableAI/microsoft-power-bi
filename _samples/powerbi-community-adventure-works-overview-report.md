@@ -4,7 +4,7 @@ excerpt: "Here is a report I've created over the popular Adventureworks database
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Adventure-Works-Overview-Report/m-p/173862
 type: download
 publishedDateTime: 2017-05-11T02:40:00Z
-heat: 52
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiY2NkNWYxOTUtOGYyZC00OTAzLThmNjMtNzkzN2M3OGI2NmZjIiwidCI6IjY4ZWVjZjcyLWQwOTEtNDI5OS05YmM2LTg2ZjMyNzgwZDdiMiIsImMiOjh9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 927
     isCached: true
 
-secured: "fUr5MaVgZpM0rvNwGRW7dUMvI1bIYZoEi3gbJIgnJcpStvpJb69erGG3LVyzyrALECNvtXATlN3ftJaaZIo5eZgctMoWI3ke1hmgOcKxZP5Iz/1vIfxGj4yJTCjkwKzfuaE5A2FaZPaYhpjBwlcAkm86gkpeU/WU/RQquAycxYadO+j88RL6zdAssO2DclR/5VDkPNTh0OnvsK5rPRc5YwGsGwUNuX0TloYQhXi8NNzUvQ/enz0ZXXl/8nKGY9taUDyYidtOcFb2dr9bLB+/kWDNlcLgR4BMRcjj/CXbvJ9AW0ciKJlEQEz4uRoZo6hz+4IVDpn33Xwg7DYdOor0s8HfXIIbvsG7Vq1XinuzqX/5+nKAeY0OchMkbXkfFuWYJe+aQDzhimxbJD+WDEi0OmJ7Fd5rf5IjHoG0MRD26fs=;YiYVRNiKyHHJ5bbqjjE9bQ=="
+secured: "WaM3v4G0wYa3v2jycFq/7YxA6/e0j8ejA/xnueDC0vFDl8/LeiUYpJck1Aa18h8VurUDrUt4spA9QURXePVOPRSplHJ+RpidN5FopKaPk3TIkhm4sCKArv3mWzDHvcin0EOarTtaoCREkuscbt9p8DlSPidaRkYEW3e0JtRyb/ScKhROb5/uMMTpqciV1fIwn7At9v9JiY/bhiAX3jizFBFrJBatZ5+s2ZZ2pisUE/wbc9WGTYjnzcJXSg69d89j6tktp5o4R+TAu+WHvalamxTzhEZS65AKelqK2K9+WKXT29c6dTKxQvTDaY+szUep/nqYPkwiiRD20WPXUHD8Ap6/4FSICCf+MyJXKSarMCvWNaa+Lr2lnGHK5roOwNXssd4YdGRnGBNETeWrbFy/fjM/h4XQUlMhQQZ3THhO1p0=;+OAG3j8ph2DTrIJ/uYMr0g=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "This model came from a real world need to analyze a list of requiremen
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Requirements-Analysis-example-for-2016-MVP-Summit/m-p/88492
 type: download
 publishedDateTime: 2016-11-10T11:03:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjE0ZTU2MjUtNTBkMC00NTdjLWJiYzAtMGI5N2JjNTczMTJlIiwidCI6IjA5ODQ4YTQ5LTRiMDEtNGFkNS05YzIyLWFlNjdjOWRlODVjNCIsImMiOjZ9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 936
     isCached: true
 
-secured: "gWuHs+JOAZAg+gWPnEHsCMsfAcgTFSeEZ7rKgEBICaemV1vFTjExY0x1p9l7rF2VwnOsrppTrJio+ixZHTQIRU5lGkoAKaIbzfN43YKkc6/Mlf5KGYzFA8Val8aADD3mh4xu6NEkPZn0MYbzRar4O3XiXgc25IDO5nPZXtjy725tIy7KnKerEo2QieE9TXXXHocQFNJiLRCjqJsVOUyV+UVkYiK2Eb+29g8J36FfEofpSKbl+Erp4BV/gtPvCEPHytRvNLMYOd1k7MKjvGHu7gHtNDm5aU0ulT5YsBl2s/Wokjv9bTicUAeJYrDG5TFaJzmODaKtvLkDwAoEFz31VouK+uQhNrIdqcIw9I1uNYtQglQnpcLW7tKMhYdvQAK9PWCFOEClXThOPG6MaDKdTpbA4v3BoBVTruzb9fOMOnM=;tt6Tzk2mWqtkKfeVdGOe4Q=="
+secured: "ngJWzh+9H7xlQbk2wo7HvBSXBKnmohw13Igoga4huMnHWc6TxgLnEu/01A3ovHLqL4k44fC4EZgEuPSlZECo8gtE6ta+hUb1OPIJh4zAvQ0BN1AiDocfcy+fIjgfCU1R69tiSlVXhb2NQ18mhm68ic9k5vq9J9jJ8juUDJFGjUgTCGntYDWBEgqsQ/2xaY/eb848L4bzmEzG0RaXnQef0avn7xokflNzk1yMqQwJHqYI9ZmTIW4aWcdhGpXdn2u4L5vwL009phLKA36YXdA+zY8xT7wxfCRoloGFeYVFXxY/U1F25R9O1F5um5wm4ASttLMTwP34TcqON+hPSUySosqdeE8V0GbbduROwNoTUjfC8/rKfb7cqCwLrTqiyhtFsQ0D97R7itSNM3Mk0/2a+wldJToxxj9dr2zPtRo2ADs=;VUO1eFDWlSUuIgdmTnw86Q=="
 ---
 

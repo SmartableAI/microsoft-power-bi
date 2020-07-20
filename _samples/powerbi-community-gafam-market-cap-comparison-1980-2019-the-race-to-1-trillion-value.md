@@ -4,7 +4,7 @@ excerpt: "Market Capitalization is the measure that is mostly used by analysts t
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/GAFAM-Market-Cap-Comparison-1980-2019-gt-The-race-to-1-Trillion/m-p/599499
 type: download
 publishedDateTime: 2019-01-12T03:29:00Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiODY2MjYwMzUtODllNC00YTU0LWI3NDAtYjY5NDcwN2NjY2RmIiwidCI6Ijg5NWQ0YTRiLTE1NGYtNDUzNy04NzAyLTc4YWQ0MDE1Y2Y0YSIsImMiOjl9\"></iframe>"
 
@@ -41,6 +41,6 @@ images:
     height: 648
     isCached: true
 
-secured: "N2BpyQ824u8Lfa/gizYNUdY83Vxi6ldKGZ/kWWXnHFPQeIkXhyscagEk7Tcqvk3uYAUy2n8f+1xsrvSwGCo0Sm6wElGIkveIsveVU1x+KRk/F4wZFjyc60+xL74Bj84oJ5CLfs2PK+SFKK9dqFTPW8hHOh5JKkcPAOYT0kYeJDPmi93ARWCQUD9/iPbp4eUgakFwXtKYZ1i9eC3CG7jZKvJ4yv/u99aOEzPuc80XXk5RMkMrcowL9psN2irLHAB34Agvpnu+Va8vfDKj8RROjhbFTb4+XQJXJ/VJbf8xTb8xFPLIlhQTuYYCkxFFuNE6X90I6BvEdPnSc49Tj81c/6cDmKP1aHdY7bQd+BAQsoZPkflIq8adXdgoE4CkSfIF4hl5WhaYqeObgT5BK1fiGW1kYqric+zQnD/7LHShEk8=;LCYktt1aLTxG2KID6x7/aA=="
+secured: "+84BRqAKZNaae9C/jxn+HpllHqhhwoIB1NBhTGew95UcDuQGMe6GQKXDl+fCWQVg6yDOccxvP0HLUuzfIFg+twnBu0YuMdOkuG4YeYRa+2uFGRJiu37XzQfFZxkpzZ/1nGvsV4FisO6rwQ8zP4J/hDNLPj+UTmF06jugW+K6e+7Qztra8ehZARFPi3Ee5iYIBcho7Nm4rfwCF4SQ4Shl/+Qev63Yn5bjsuFLh98elrnoyYNJk3Xsj0gLLgrWeVyBadcjwenLdKQkDeyBVkrv+g8qbbUtboAgICUXd/3+8lLCnSV/f0sEs5Qputd1skYPvT3unouDvgFpeJX0A+OTmicdLCkMuA9TW6m25KI0x5wd786gC8O30NEUnU7fgC+3WKDObhyJdyEm12wUrcCkHHvQB6rnz2z5NU3g+81OTd0=;05fpmESisnw0kPUyMsE1SQ=="
 ---
 

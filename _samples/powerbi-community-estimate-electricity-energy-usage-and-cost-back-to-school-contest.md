@@ -4,7 +4,7 @@ excerpt: "This report helps you to estimate the Electrical Energy that you use w
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Estimate-Electricity-Energy-Usage-and-Cost-Back-to-School/m-p/785961
 type: download
 publishedDateTime: 2019-09-06T10:41:00Z
-heat: 109
+heat: 118
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNWI1ZjExZmMtM2E4MC00MGEyLWI3ODktZDcwOTZlMDA2ZTkyIiwidCI6IjI3NjlhOGY3LThmYjktNDliNS1iNDIyLTM5ZTc4ZmQwYjI5YiIsImMiOjEwfQ%3D%3D\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 1079
     isCached: true
 
-secured: "WucwRFJHL7kSzwbmL1rixDL3kp0izisTyhTWPUI4sbNvs9Hko57+qcVze5v4MnVMEdI2JEe5IT00KsDjSwUzi7lDsR5kEl2QTPfSVf05FXvh1wkRrZN5LeTbV8eA43pGkEENLG90KfRJ125h/SqREi8QzxkpSyybosjkJziTLY8XiXpLXhcPSy0MFvMyxoAuLdtJSNQMJGuJTADuEWbTr8y4sSGLDh9RC8owiNdQdTra1CC2trhPeQATaXzY/n4rmuTXKSEtzEi/+WMyIHFXsmWWf7RnXhDCCFidCBNK7Jn4UwSwwotidz5CIUREfKwRLzCBoDxjcn9oGnE9SsfdBEo6V8TEejYkD8PN1hfGNNd2PdCX05t08VDEe3QPbtkk273bHrHLUcXvhH9sEnjZ7BZ/l4CXkMZXvyK2noD2XH0=;nLqqYCw3qVR1BNY+4UwmVQ=="
+secured: "ykVTGwcy+PJY2xTx5EMYsxJYMwBd0fx99lf5zG8p7Hh/YNQz7ewLJECoSmVWoiKibcezOqDN6gK3+c4eXfhaTQae8DhbIWWBQk550/hdL8gIOMosl9itvnNz2D8eXBj0vCEocpUs4ezTEKSCzpAM7s5Lj0IIQk+XFe0JqHd5HpNWPQTraxp2dSwpUhw0Ts9dyHQ1eEogt8vVRWAPom9BHWAIbIL6EH57bNUsZrcTD525JgCc+qWb4FFEVutjEiqTNIjMd49Zx+xZ4Rnd/X0OTb6qi1J0WjtIGLOrmxurkDlT2gvQxFkHCASX2aKBGZSu1oSwrm0ACFOdXjH6WixxkMa5C8HcByLOT0c/laMN6JRXJj1i6yVZnI3MSxR2TLJIyYVB5u0U3/6EE3XjGkrR5n7NjuLiK0eCPxbaybc6hgs=;QWEDyXDTBvT6p5kHzU+6Lg=="
 ---
 

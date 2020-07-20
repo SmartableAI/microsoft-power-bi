@@ -4,7 +4,7 @@ excerpt: "Data Challenge UNV eyJrIjoiMGUzMGIzNGMtZjNlNy00MTAwLWI4ZjctZDJiNWU2YTQ
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Daphne-Orihuela/m-p/1145156
 type: download
 publishedDateTime: 2020-06-05T17:53:00Z
-heat: 53
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMGUzMGIzNGMtZjNlNy00MTAwLWI4ZjctZDJiNWU2YTQ3NzVhIiwidCI6ImM0YTY2YzM0LTJiYjctNDUxZi04YmUxLWIyYzI2YTQzMDE1OCIsImMiOjR9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 541
     isCached: true
 
-secured: "IUlcZuHMssxIR69+y7Hf8TBnUBF6QJu5ulaoYNOWxGs1hKQq/HgWgHrMucWcnUUrQbGIMl0Wqe1R0PQ/HZRdfm0hvoaGv2q8axQyqGHE5UoonOW0ezFwJfUiydQ1iRrGmBkwvW6xUMmoAU3SiPVLMTRNwJDiJ8K4QJ0nIWIwzFJAOTGM1L+p/KhgKwSY/MAyGMC8zVdCQzhKr7dTu9Rf2Oi79wQ35gQ1pTL4k0q5xZRxjRYqDSL1nIZYRWtXOw80ou9BcqlG8IYv6xV7IODddua2C7Ti3heIpqc7BExjJuh28o4ffB9ssOaD6aQOq7t3COE5U5XJhhNpNSu63N7p+zvXbHiFQ5okKjeaG4jTcwGFV7jswkaKhTG8LmRUj68lvB/jhtRiKbH9QMxONt9bLQ==;JMvIcQuq9/449ZzpUxWJyg=="
+secured: "1p66EXCWp+9GQCsWOIp6iHSlQwwJMcKDxksmyvUygsNJKHJoGgWVNvT/zxoVl5hPXYIHCY9zlqBqWxreNQREEFYi3JuFQ1IJeO89SMaGlj13v0HDY1T34aODB5JrCvOtFBXr9mVnscLPi8Nyo+7os5IrrtO8FJhowBqop2K4nbEwDe0kGQubow+3H9nKln2y5Kx6GWeyWw6dplKofaZ0u+CPkf+4/6oxVs/SGK6M/5YLbyKDbgX0RLROa2D3k9AZyjFW3xtaITPKZWUWRRmKMBKbAjmDjNXw70oQ4LtnfTHNGBnLgtLs0HIVf+mbVfakzya0UwRXv8ZbC9M+R1eIAFJNnff23MKu1oBal+m26EErXiIElTGRIdCeA5dhCsW8yYBEkNVQBy7jay+6GFrx5w==;WnVtgjlAv5Irx2jcexVOlg=="
 ---
 

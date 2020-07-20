@@ -4,7 +4,7 @@ excerpt: "Hi, I collected so much of XMas greetings in different languages and I
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Multilingual-XMasCard-2019/m-p/884743
 type: download
 publishedDateTime: 2019-12-26T16:52:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNzQyYWIwYjctNjI5NS00M2EyLWJjYWMtYWZlNDllNWVjMDI3IiwidCI6IjdjZjA0NzBlLWMzNzEtNGVjNy05NzgyLTA3NGE1NjNmODNkNSIsImMiOjZ9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 898
     isCached: true
 
-secured: "3l46GF1oAD+cp8H5WKjxrukHTQcBw9Q6XJ8aktVfnqYZ6KBXrMk3pu4IRcKKBBrijCirFA9+nGvthev7fbmm5JJhR334W9dVPps+QqTwi01baPcUsk22+0nMp69cyzPpCMLq0t4sntaZAv1h7Dl7PH0mfyXE2laln3WvrANY614oAJr3oyBSiXJ5YDhgg2gFFufpa7YP67JieVG7P8hb/DifiXGdYwe5yoUxmWlUYT7M/GX2F9i5zP14oJKNwnXpnK94r0Mr4ItmRc9Lzv1nL/vz0isKeN3IAoattvr253RX2NLxI5utjgaSSQXFs9pJQxAR4tw7W3xdA4n3FbI9SL3uQsc4B8zoLb+PgnF5R+IJ9OqUY2FzLD49bRXVD6Ea3m+wP0zHoS6fzUo5ySVXQg==;3sH/I/BZMA5b44V6ocvbNw=="
+secured: "bEmcUbdWmn5pqbbB7kLnI5RZA3vUO/HPlj2oh8XKCF8TbGZvoc/YEY0aK33GEGU5WLo7KQCwBjqMqXNSyranl4g1bDkOZZ+2nweLjfzQ76ErppEwVsU8qsHECtbQkDX9TtQirl4AL7rC8XOaMJ2mPE2/CcAJif5I51eo/KjOr1jp//oYIqqmpvz/aYqoPTWtJ7utXhuNT5uv5r5n6ByVQt7uscyj7WCHcVj3VM6yVJBRXlT8YOr+7l4SRiL52Vz83W+6Pya6xZ4wKjL0nhyGU/tqZuFdbZOx+O7QUIdkgvv5V66KYj13Z6h+quYtmzCpquSiyIkEx0NrFDxeqEkPKVUrtEebNIzwSs/Eg0iHYtXIpWbHEIuejVG94+5PjGC565zf8MnCO6lu3iOAPtjqfg==;lGZnyEPkZkFD9I8BvziT1w=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "Sales Analysis Reports eyJrIjoiYWFiZmE5NDktYWZiOS00ZGE4LTgwOTQtMzFiMmI
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Sales-Analysis-Reports-with-Bookmarks/m-p/329557
 type: download
 publishedDateTime: 2017-12-27T06:38:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYWFiZmE5NDktYWZiOS00ZGE4LTgwOTQtMzFiMmIyMGRkNTg4IiwidCI6IjJmNjI3NTMxLWQ4MTAtNGQ1Zi1hMzIzLWQ0ZjgwMjRmZjc0ZCIsImMiOjEwfQ\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 700
     isCached: true
 
-secured: "wwe0ITPKAhss2MG0Aa3AFs27hNFnju6fIruypwn/lm6AXW+muAxdT8A4fWM/XSXfQqJdnmu/hGnClsnouZUiasnjL4PWoIcn5igIFvwTZSABxdp5oi8TfcOXZhDw2zTeGtTDiEN0Ne1vcGQqtj6DoYlDIVtDiYWjnvC6oZnGJQ55/P5K8BY5X72yq03NDZbbIG1/wNQ8e4/yjGhuhfboUirkVKHDG017ozzn13VYetNJmjPN4hefdWFfBPhkkxZduzoBqSGT4usvrNHU2zhGgAi435GbDM+43031aT0Z8mSOOzl2zJpL2IRyH7oFKp6Lmhup5JEvmTNOfJwCcotBGyvNlWAtKRPThWGsTLK1YmXfzY6zOpi96lQCj7ZwkXjwyamRaxAdeWqayHYu9LOh4lIRKsgrTg8rS3xalBsX/Ss=;mDcTyfZcti0e3QbjwJAyAQ=="
+secured: "8WchwOVJ5U4VfdkJVl6kofw3gAD0+2RzOaWGotFi0nGR2nyXCHBFDFZkhXutuQUo5lgSWPfnohXX0GRuAiWavmYB76S2DWhK0jMGILnh+QnBCZ9PISvopuiIAmF6dhYvh7Td9EZ6LWDA1F6psRS+mOzcvn7fNUoHrSXkNOyeKROpIlxMkBanjXobkZziSnXH4rX8ae8vBlTs9T+HfaEALnBvGqm72XJD8ow4cqpFhUwHqrkH7TGvTc6vYW1tvlAMOFr2pxezE0WeDvbqUjKBpBMeDqRvcpFJ4Ls3KP+Poph6HBMmqfmHKJNP/MnhASJPzATZ2xAygbCH02IRcwhsBumtf0Adrfag8R4Ot6tmQjq9WZyrfE1W10Jv1EIZKcyku4I1mtOQunSrSf6w9dR3hh9umr4Uqcpti11oBtIZNmM=;M2dKj+gHwxWRH0jlwKH9mw=="
 ---
 

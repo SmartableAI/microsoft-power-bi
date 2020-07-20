@@ -4,7 +4,7 @@ excerpt: "Solved: This Report Contains Global Retail Store -Sales Analysis detai
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Global-Retail-Store-Sales-Dashboard/m-p/317488
 type: download
 publishedDateTime: 2017-12-05T05:05:00Z
-heat: 54
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiY2YzY2YwNjctMTY1My00ODk2LWE1MmMtZWViNDk2MTdkNjFlIiwidCI6ImQ3OWRhMmU5LWQwM2EtNDcwNy05ZGE3LTY3YTM0YWM2NDY1YyIsImMiOjEwfQ\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 532
     isCached: true
 
-secured: "O3Wp0rOSTD0Ywvk5I9aeR24DApl/WhnAKpFnenHt7mDzwefCqPqC3FCWRWJnX1VzhgH6ldB7KtlR59Gu01qNoagMkd9aNZiAacORUTmyAuYEtsMJ540KjfWYT3xDb7P+rkc4915MM4rpwLKtaCLxJf5XF85lcjD3+OrNQe1C30XxD4Yh6LIehazdWT63fMcYAryx/1oQPOA7h5JzmMGqFdHecCAgORAuGSGMS/bnAVI7HDacEn8YrI2jLIKfuMlXPLLCyZ8Uy5BP2a9kxlYPFLy1txvQ5k8UBnwLq4NB5llZYQbMPLNA896IpItjDn2dnGcPgAbZ2AT92i/0MXy9IOYSuhP5TeqsYZiMflIF/GqFo/x2p6tcNmvaQ/bMYOetfX5yKDvINbHUFoh7InDn11C3z3l21SyIwxw7MW7c1f4=;dvmHY+7ii27TJDQbpiVTzA=="
+secured: "YlEHAW8c/L8TOuHgwq9+YspRqHdVNgxncoWXRTkK0Y3BDFh0mDhIFf9KXKhtLJFas40z0IQAcg+07TXt9ZHwvhOuvalU5blsakp0rB8C8n4ZqGyaKqybqkHlPhFLr0sh8LnExpdQBDOczglZa0YLJxvx4XZYHnMI9Kd8MLrwOKxWYgfYg50iSAWzFtTxjrqYvcn3vn1caC3Cx9PLWCcwiFenB/CVWu94M3ZMhytLmsrEr+gWLbAc+ZGxUlFzn8mHnVV51FZfh/tKe0wdUDojxkyADJt0JX+ZHTObGZ/aNrnW8xnamgpx1oKPidi4brPcHwXdsSyHIDmadFG1elcUoRXm7ut5sJmfjGIjhWrbF5Z4I51vCq7qQSSidUZtqW9qtuU6IAJOCdQPm2trpywsXSRz0dEGv4Z+g29y3O8FLvg=;SBBv1R7gBS7mBjmC+PlL4A=="
 ---
 

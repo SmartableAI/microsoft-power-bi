@@ -4,7 +4,7 @@ excerpt: "KPI Trend over time Sales Profit Profit Ratio Choose a Date Range"
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/KPI-Trend-over-Time/m-p/929328
 type: download
 publishedDateTime: 2020-02-11T19:12:00Z
-heat: 53
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMmU2OTYyMzktNzI4Yy00M2U1LTkzMjAtZGM1YWYzMmYyMjJjIiwidCI6IjkyNzExMTFhLTJhODctNGUzOS1iY2IzLTk4MTQ2YTgxYmNhNSJ9\"></iframe>"
 
@@ -41,6 +41,6 @@ images:
     height: 749
     isCached: true
 
-secured: "VRVckQIpRnoSM2GJHwkeu70KLt/6M9H4u1GayWugeOIbKTAV0WSFqJzP4tDJmfEqfJKMXoaO1tb+UmqWNqTkWKr1HKP3JUKB00mR3ciPBAeg9cfHqzJjtYyw64EvTrJu4bRaudeDca4JQeJUrr639sjObqMlz8NO6XUAYeqHyI1d2H/QJaF+JU6MiWPW1WlyvKJf8TdEQkNQbNTgt+eLP2WmsMEKFls40ah531HREDo6dWy7KK3eR2eW2waoeejLtEQf1sy7krkT4556PP75PwvkVJEX8fOqn1vQnRDBG023axtNd03bxZcepf17gPJUsgFgu9o+q+M9wbgdMhE63SK+MC1/W5UtHAmzCFabJ1Om725XIK4HNcGBCPN3i/soiFnGsRxvDs8fC07K4JkJVg==;YWgjaE2MJObL8Bw/Y94zEA=="
+secured: "l77f4eCsYuYSljfpehqC95zpMme4yITKGxxuRyJ3t4i7Vlm21vqo6qYwWJZaK7eVmk++HBwoaYKeFhuNrcCjOgeRAunQ2mZMciBaWuw18wf+ax3s8cS9hf/B8SxWrvhKxsu19OK/2rdnocbLZzCqyYXw/6HrV+b8AKYPOMxqJuWhWCLx7J4Kx/TARKvyPF5VI+IImiPVphqfHC+GdmgFIS2AGaFIA10GXBHtaIRFQoJPLeDkyxu9UOkRZL3CmenBwANASPjN4vSXIKnzHJQsUpfzIRGFi31HGycOoEoXjjeja2tY5f3wnf/I/mmIigzbg9w429e41RDpPv/oktfKcPcrn5w4LD/WYWT7N2k9huxA14jeSykwSXupxhXzUFqqu+D91GWQ7Fi/rA9DJLkyBg==;xK9CNtGoNJNVntyF30Umow=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "Submission to the London Power BI User Group in 2019. Changes in fuel 
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/UK-Fuel-Prices/m-p/792351
 type: download
 publishedDateTime: 2019-09-14T03:00:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZDZkYTIzYjItMWFiOC00ODg2LWEzYzktMGQyMzM3OWNkMDgxIiwidCI6IjRlMWY1ZGU4LTg4NWQtNGY2Yy1iMDQwLWYxNDFhZTFmYzQ5OSIsImMiOjZ9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 317
     isCached: true
 
-secured: "QOK66uLZaT1rs3en2m7ubXrnubPfPPNoWitsQvaQyQlarm2PFXrb6cgRCBm6ufYp6QINMD3/GAAht2VVWTAzJhNl0wrMKhaVmKhp/bEiHHie5xRSJSM27d01/0R9INGZOp3qSpJXU1kfEyM7pk7zarHKwhppHkuq8HDeN1kzqa4gIiLjbFhH8ASxj3KPchOOzjAFI8ihiV0GUwnSE92UasGMX2vPskx/UbTlalCXKAumZpEMCn9OR6BW0L3aYyCe5kwwWJcoMKjAz7hZKh7XZNiB4EBXXBzKGWd1sMGo8apmqo0FQDJ04gpNkTEGWKqEC2TXlQkPrjj/o7r/enlJFJnUwIZ0WgpYKkXbW3Y3ESgk74nSSboN9ijvJHRD9FFPMMbZvhLYRPvCVTSV/3wzGw==;REGh+o7cdGyzZiW+2vIgqw=="
+secured: "MHgJ3C5azuLj/MktY/bLvbVpgUFi4Vhp1VowrN4TM/CZETXRN8xE7ATujRllPoop9pOBtL6TfD7uUJh38XQhmaMq5kCNsiSEKm/5+WDpu+iKwIAxEZ8BVq29BxsZcHKlGAcfMJBZ0sDpPwTFmnqCmsNHlKT9t9/36al82hNKwI0PXg+PPRJLyzhU3QKnqO7qI6f9fFfGVTBkQQQ4O+LV9sJpsol+55AMAng00jBafkJo93SyPygcWKJjXtl9ZQQNr9e3U+CPfDjaaA6dI6hr7q943k4MWIwb4+m7HAMaUGhrAcULOzE57g0SEXxvxJ1VKSTwvzk9FI4pKcncSm6S9jKVNIP6azQ91hRMalb+mzRsNhXgCd0mm8+7YGw7SbMBkeIUxU2f7A321H3hQOkKFg==;ynnx2CwvpAFGwWpXzHrHGg=="
 ---
 

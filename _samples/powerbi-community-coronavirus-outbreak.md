@@ -4,7 +4,7 @@ excerpt: "This dashboard visualizes the Coronavirus outbreak. The data is refres
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Coronavirus-Outbreak/m-p/914037
 type: download
 publishedDateTime: 2020-01-28T11:36:00Z
-heat: 58
+heat: 55
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZDFhNDdkYTQtYWYzZi00MTBiLTllZmItODJhZjc1ODI1M2M4IiwidCI6IjUyMzU0N2M3LTlmOTYtNDVhNS05ZjA3LTFkYmQyMmM3ZTNhNiIsImMiOjh9\"></iframe>"
 

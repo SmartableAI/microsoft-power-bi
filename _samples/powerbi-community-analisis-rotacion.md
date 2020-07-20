@@ -4,7 +4,7 @@ excerpt: "Análisis de Rotación en una Consultoría"
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Analisis-Rotacion/m-p/426235
 type: download
 publishedDateTime: 2018-05-27T17:58:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYzIyYjUwNmEtNTU0ZC00NmY5LWE4NzMtMWZlNWVjZjg4Zjg1IiwidCI6ImYyMmFlZDcyLTc1YmMtNDI2YS1hOGQzLTFiYTgyNmY0ODI4MSIsImMiOjR9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 659
     isCached: true
 
-secured: "MUT3QJLoIXA7qp65CUKsnSwuVBPAuUR8Ek7zqugVHbqsjZKh5dTVH0f+dH1LyiOoPEZEksJLJ33lvo8EKD+1AqeJqEykb36PgpzUJnBcgHzTb90JV20PWShRfAfHZD9avqh2A+gDMYuT3buKo5ODLrKSIO1CH1jD2Lill9oBXeqadEkH4VCHkrrELic1qncBgcfwEf4r1U4g6C7bb1DeM4qPEVO0TjYOJwpwgkCw1K1P5Ryo32ep71CGYER3evKNi5JCscWZq6yRwZ7UGrasabRC/FnBlXy5D2ApQeuL8Ln1S6S1biflTfE+GNNHGXNgDSoTozAzQY7usBEqGZkRxKEeMPAJdwzykpbnYBsh3wDKxs7TS/0vdWp62Dk811h9FnkP/Je5hCZ85dm35gDSXA==;jZfuODmsK2r/D8zPI37WUQ=="
+secured: "HYxmU383P05z25+CeFsUPtRc/cqbmvB2mOtcLvbPuaoEnrkIHODyM29PbHuPAIRSAYaxg66KZ7GyIkiDnrwRAIayjn2jDXvAAe2Snw34A5p+v2Qzy21nfWJHQ+eMGdOSFWzvCB/eE4F6GN/dzYpJCvhnNnAVVTibxgwvRN5lgNzbVK++G6LxcdD8IC+XhBNxitItD3dXkXUNkobrNwu9fgYDrZoQfHnJjWO8HV3tr13Qe9Du+IkLl8ySXD5c8leZqiWmvjMv0Ke15cWMsEHEaH2Gb6NCBnLoVibQn/Afdw4q8XFRp8mDbuU1ztFFhXIv1S3pC7iUqpjqrU77SFwMKNfXHjweKIBdC9sQXmyIjMxk7kUAj1efAQlf/PJ8w0SZS/hgDI2LY+4J1Gdk/NHiZw==;wsVUeIjj0SqPm8WJ1wyJ/w=="
 ---
 

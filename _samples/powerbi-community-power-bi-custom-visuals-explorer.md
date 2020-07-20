@@ -4,7 +4,7 @@ excerpt: "Use this report that refreshes in the service daily to find the right 
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Power-BI-Custom-Visuals-Explorer/m-p/187266
 type: download
 publishedDateTime: 2017-06-02T12:02:00Z
-heat: 62
+heat: 57
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYzQ5MDYxMGItYzBhNy00NDBjLWI2ZDItYjA3NThlN2Y2N2ZkIiwidCI6IjA0Y2UzMWRjLTExYzgtNDkxMi1hZmRkLTBhNDFiZmU0YzAzYyIsImMiOjZ9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 850
     isCached: true
 
-secured: "bjME6Xdbb5aL0YTu+v2aLFn9NAF4X9/LdDAgsrWHugl10wvKPk9+Q3eX70XFzG1e4TRl9rmx0ftMbKWO4aCe7tnoaVARNxH3A3b2gj6GeTUC8a04i+WjwfgQl7EAOwFOe/E0S84T0v2MTb+xjB2IisGujlwnFV7JZPbiQfGVv+yCx+2vdh5ie0sskkmHmkm11TE2HUF2E3Xcz2cJQvAx0hd9ydA5Jp/XoMXEaWbXH5b7lWbCmIlvkbOeCK5L519ux7w5DtpQekgBWjX/eVRePBZAxba7PkqYscyTivnZNLL8jY/5frNkv5KBwflzUIJkfGqyi0E7NVNitAhinMGhhcbGM277aYBXDUrklyW+s8nDIJ3sPvDnzOHTD2iiDp8DDw2k09V1qqJfHmgGsN98yJekrFtxQrO867WVQubZHX8=;cMd8EPHypyf4jMXAtQUsQA=="
+secured: "LP0njEgfVPZlMz151yWKN4I5P+VBe1ONyH9Omr//Jw3NxmQ3wYPjt4A0qexwvrZAelnj5aC+S/RyliAnOqBuzeCEaWUIj0IJ/f3uURxqtgVqv62Ku6tE0TReIQXErFsvyfX17Az0kfsVUxBvQSvctjGVH7dXfJe9IMe7crhOlAiX+N6y1Gs+87bNH652N/FrdwcleQ37sV93fwFc/Kz5QOVCO7muoV7SyCKPaO9uSSA2eCe8XNoY58dlo0M6tvZkXAP2qkdJiANwKF+9bs3Ib7WXAiqab/Oldv6rZBHTmMQVVe9Q5GO3SEeV9u3pY+XLiap/86Wj/A9fYsdrWfcsOnss53yEAsQphRw9eIVs3MQQ3ToOTQCrXv7iG9sNioZQr7mzn8nyXf0+jW2BTX8knIYOXOTRFfTPji/9Iy4mC1o=;uepTT0BwJEoY0MUZfd0SpQ=="
 ---
 

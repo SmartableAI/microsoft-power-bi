@@ -4,7 +4,7 @@ excerpt: "Dear All, Dear All, This is very good for financial analysis of the di
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/AUTOMATED-FINANCIAL-STATEMENTS-ANALYSIS/m-p/157046
 type: download
 publishedDateTime: 2017-04-11T00:51:00Z
-heat: 54
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYTA2MjA3MTQtNzkzNy00NTI2LWE3ODEtNTAyOWYwOGNjNWJkIiwidCI6ImY5YzUxOTU4LTg5ODQtNDU5My1iNzEyLTM0N2IyZjNhNmNiYiIsImMiOjl9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 768
     isCached: true
 
-secured: "rltt0/38YE9OEUufVVQmM6iL3RIcSSUKrWYkJ4Co+uTP7yCS6CKe2PNx1qX+m57NGChGpDjvmWH5SGd8ljZEF7j9X8mS0s52qr4TrQCN23n8Z0qGUtOniVMw3Y5/rqr1XMwNApDy8kKxdHsiTxY84SnBMiNFfZ2erP22MP2xyiGvBg4IzljGmndRftopMAOrXBrSAafBK146+Mbs9LP+4UNzUdzNXEhwrQ1e9Y57kfOabqpilJFODqWfLAAzwl94uScF1Es326I0xwJ8LgMY59QzlqzYdaDL55lIb60E0ksyj3kuOTw2JmjTyyr8HQw/MSS/fhVol1bue+a+fYrl2OfBiBzq4XsIIR2uTPuC0PP0sNqwKk71fHQCKZIuJr0QoI/aOhJzSYEeh8812mIZryO/604ZzmBT6i2YOqrtOFM=;j7S3QgF1EOfHRd//Cq1ttg=="
+secured: "yz0xwU3GneaqfLOuFKDO6Ne9ssL5Au369+Dlc+3HNrAIuoixscdPKD74JAX8iGffVTrxirHuIDTYIBx4gUpC7ehSc+qYkYhPba8RW/O9QNTeFP2NjZ+M94hvqbkhooHXlkMidWjGF2gg1oL3jwj9py4Cn9eHNgOHvEYoZxJR5QLk0BAhp8E9R+UPN/VQICdv0kLCcMXw2aKmY7TeQNCJVljHfYhhuyA28cU54kcpjud7Kz7Hvs/x41S/s8n6/kxpYQJsLNtBKP2AYuaq6XBe7l/vOQUjIzHdh4o9ZouLkSUnPZvISJWJbSzaUExoVUYIdY253aYxmMGPmQwBt41DK2wwa5NfcNhx81xcWLIMdKwqXQyFCZMgo2eXEEnl/r4E2wN4UndSDp94uf5Cvd/WaJ0EXAF0MQecIhJvDeFkK/g=;TtnxG620BftgjlZfNAPHRw=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "J’ai pris l’option de créer un rapport Power BI qui permet de rac
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Pr%C3%A9sentation-R%C3%A9sultats-Concours-Dataviz-France/m-p/261928
 type: download
 publishedDateTime: 2017-09-30T03:13:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNTRlOWNhNmUtZDNhNi00M2FlLWFkNDAtYzc1YTcyMzhhYjAxIiwidCI6ImU0ZWZmOGU4LWU2MzUtNDI2Yy05NTJkLTA5ZGQ0OGMzZmM4MCIsImMiOjh9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 1043
     isCached: true
 
-secured: "ghgeTuZXIG5TBgCvuNkKZRyNpDDQ498CJeHHwlafzRsc/uY5jqYcrusj+ZOjHllVU29nOjNOTV9xN+DCdXCHliaCQWqISiRUjhCWih0i8Ff19AEh4M1lYuTH1atsJ45dk3U3IB4lP3YOGhA5iXUx+x5xHG6HdSwi8NnS9WARnVyEwUwld5frdj9JSPt/hGhitlFAuiJ/H6d1ad/O2Svzgls6fq8saJIp56n8Zst5YFIWupScB3hJn8AYfqYPuG7Y/Qkf8+R4RxXrzB1V8yWf1jg6nqIK58OCF3gy2+kKb1PPbJFWK5oBUBQIV91pbYKP3+pAlge2Khq9LKBfoY/cJkt0QIiTt6JOHD8ZD1WCwSFBZR69pq/LrdiT5+M3emv3FDq1Hv//0TirTQaOKrUldIr6lmsnCxJA6eI5efOHs3A=;ocasmSsbET8quwLaQJ/9kg=="
+secured: "tXgK7f7cqmWs86LCMjVCGIZagxFsqWTHCsN0Jh91pAzKspsvhAoO3ya9Pq+23RaRIHwH82YDyMlEnbb7y5QpRipp2xheKIv0FZHAIS74zvAev4dWiChynWWpEq9QyVap1sWJtX00reBkAHMPTBOxtg0cBob6CvxmdZuzxNOBUI/LIpN1Sv1xfbiEKnb6G+javpBO/Sv8/B6F5bjHGQmyrPLadfjKha+bWMHAY0nC/WquA1qdfkrHi7L/Yv3OuN2XDnHwYaVIuiYVWgeFjHvfpC4G/3Jj6m/a+QlFM2aThUlOeeb9weN1gfU1RUe2JUrH8ZeXUrFQDjz5YJNF3+lyRl44y1Aw7PDB+z1dCD875PZZhim+QsMh4d80Bf5xUyWOWwfkDuaecIuDO/K9vY6OVLo0L4N7wj+6PLqx6Sishos=;1Sznfsc1HVgPSZgnoGuNxA=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "Inspired by the report: https://community.powerbi.com/t5/Data-Stories-
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Anime-Rating/m-p/252271
 type: download
 publishedDateTime: 2017-09-14T14:12:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiODg5ODc1YmUtYzM1ZC00MGZkLTlmYWEtZmJmMTc2OGY0OWMxIiwidCI6IjAyMTJmZDNkLWQ1ZGYtNGVkNy05NzYyLTQ5ZGRmZDQ1ZGM1MCIsImMiOjZ9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 827
     isCached: true
 
-secured: "i5Ou7FGh0bTFsD4+cdjRFS+LYrNyA6r3cKAU0RowDSvOyoljXIy3qFAz1hSgQHhNI3QNZatxM5YNpqgLE9jG8NDA7Skr/+r4tUIXmSKMxvlXdZ+UsJmYRFMhy3zIkD3gHj2bwJr90IhXLROY7BfbmlxVCqg8ALP7GAAkvp/dc+3ZbY7yBlptJBGt868GDNi24np5hrqMuUOv3MwqFe440JwM36xtjG1KB8Pb+6wEPdwqE1SwyYmoVkW6+RWX/ROuvMNcii5S0mCiHs0RrMVj+nbqgd5UGqiXEjtNEG0KDwxodsBgmj3Z29UyF54tOlxjktMk2hIt5pHqMnInlUTklOAlvDeoqTUCmm748JWzJWp70SGEFh744Tgt8LvC/VSI61NL1OAArk5k51dK/GUIGnPBKiBP72qLJruX7WYHB+k=;wG6pi0Di9A0qFktIOlAQRQ=="
+secured: "ZuwfqT4vDuKi3MTBXh0nueCIxBjfVJ9YA0tP9O1YRP/d/Wy44eBHPUp+ebEkN67/6ICXNsaRIXDkV+lBLvri92dQGLECq9nrjV5gH5B7UVW8BZIdgMGuaaXrPUyrfuuOM7lIPA/dXxB8NOIeAz0eNDmr6UZtNr1w1U/z7t/Jy0LRt3gH0EKWUKfGRbiB9RFh35g4rbwy58qNbSdGTHIMPYvSyF2Hr39cP91C6l6Bmk06CqTmT+OrZnXwqit2eAiZ+U8C9xAk9pFz6kk5jbEQEq4dam5rKL/LUvYzWmdjmzASd8nC4cZh7rjjLkbi9ogDZ6ExSyMI2a2SAjuW8MdlLeiuMb8uMSehFnWFufycbIUKjix8TaOf8PSDIX/yPkYt63oICYJbR+zrJt5T5a8OtwOhRG/xrBeHgnMi4vlQgvE=;VUdF7E1kBurKlumzks/cfQ=="
 ---
 

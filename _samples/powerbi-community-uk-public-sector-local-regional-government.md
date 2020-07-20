@@ -4,7 +4,7 @@ excerpt: "This Power BI demonstration is provided as an example of how a UK loca
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/UK-Public-Sector-Local-amp-Regional-Government/m-p/120229
 type: download
 publishedDateTime: 2017-01-30T05:00:00Z
-heat: 54
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZjRlMWUxMGMtNGZhNi00YzlhLTlkM2UtYzI0MzQ2M2YwYTk5IiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 703
     isCached: true
 
-secured: "iQ+Ie7WIXm1ZHTk8DHkig8zeZASY9hpBdfEcMbJAjkf+F5TrIjSuBTEIQ2ITU9IMFyB8Q+/i3CT1v81Y0M4k+6BbGQmx31KeFiHlhfVw1Wt/FoNUDIhZ8K4zji45+iYqZqsONiSQPWcaYPAo/Z0sRFQGIRYHuKc/LlWRSeAQ8HCwjHKsmFQGU0emHnTYU1kFNqbdhhyxo8cVahsmZq3DJUUt7t/zCcaSTxJmdW03OJTwtaOGfrKFITzMy0YqkAwgI6xPqmkaxs6XyAzWPjDUAMaSCHRprpqiIgnxK+x5D9NAWJsLTueZctFXAi2e00BuV65Hoqz/9tHO4Xy2VTeu2ROUAJX7m2Ei/EnRm3rs2rjMHdT513AgAvmcAskjwEkilpcTYzpJWu2h9oEWV9SEk0O/TYqLWtLTbcWXXsOdVpY=;xhqAZAJ21pkF9j270cJhMQ=="
+secured: "bURraImy13TUH1dMTsU56wIGD+Wdw23rRpd8lwFuzHDJ8E1j/S1Tst2ThVsL4M+vCLUri9FGwxJGQpHN/CXkcrCVziYmPLO0qZzSoj7TC7brF8UUdsnGvYmHWB/h7ZTFyK+ayWI+7fkUPhaVnfVchUvRAOnodj7X7XkMf+vMqlgD8IycPeYjxiIQjWMI5Dun6SzmT2QfFncNLQv9v/SY/OgfJXG+PlAj5wHcFldcyT2V4TswpXD6zO1c4HFhkEtTZFyxaK7SY7zvuLqnL/bacF9G2ztoT/AHcDKizoum8NEz8+LTosM2ecaZ/Di9T9Y8hiv8DjVuNzVN6NXMVMnEINxDvlNFL/JMF66zvn9v/s7L4aK3oV21js8cKJodj21rCqEGgsWdH4gX01jDjPoMIBmfiZQEV70py0MKZcZw2NM=;k377Bsc87PoKuJIVtySmsQ=="
 ---
 

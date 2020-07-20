@@ -4,7 +4,7 @@ excerpt: "The Global Superstore Dashboard provides a 360-degree view of overall 
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Global-Super-Store/m-p/627564
 type: download
 publishedDateTime: 2019-02-19T23:05:00Z
-heat: 191
+heat: 204
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZWUzODU4MDctNzYxNi00MTFmLTg5MmYtMTk4OGY5ZDBlYzUxIiwidCI6IjA0ZWM2MTA5LTRjNzktNGM3My1hZTcxLWE0NzRjMDlhMWY1YSJ9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 768
     isCached: true
 
-secured: "THbviVrd978gWpESJhWXVHnF85ZutpxraUdHtZ2nU9vH0Jf3fuBRuykz77e/esWhqKiXlLLWBNejgSh3XCqEfAcXzqJ6P6FMSeUODwGKYvrJoAFUzok7KEspK2r6j4cNuoH+dU4UROhLO9AgwyXLK3DtrbBFyturgjCx6BlJQpB8mWr+cz+oeDhfLQBodJWV2iId0CQJRLQxkwZQJ52JoIcxKLLsnpU+w6TTdNCUK5KYureT70mRQZPsmiLNR0SMQllbchAiwmmjpRMo4+pTfuPu3onbHcOkbPaYC8Z3Nw2wkzE7WGuoP8GUYo9IPHFINmTudp2P17RSvf07bV/TKo1sZVkPOljVOKBF+4kjXxWhTiMBAEk/C2DSgpKb0tvkYfWkAtYDDYQdO6r+l1oXyAmMvuypCuMVjbxLwYnQZIo=;t6v9YTCZkwqz4tvINBh4kA=="
+secured: "q6sAsa7+0yCUODFFayU6rpf+LHiYtDkwZXu94Ptll/mj2GAbzA8JObMplWVUkIZV1WbBfx19mMCU8Fb1MWtNcy15yGMOHNHw9Ss0Z1Df8CmLdWeAS84xVqzigsY+1CtouOf9W6B6SgHZS6JJdJ5PHHrvQpYQf2FZdxmkx9vC1EHS6m7V1O510mJ3CjcKVnmueZ3gXCsk3NfJ59XIuG3owP0Bgn92O19DJPZVxUYrkNYbOuxFVeBlbwprIvtUSQjJTzltKZqjvRLsoGYswFIeyNuc+E4vcAIvUNl78i04+a1rZZtZYdNs8/j5grEgM+noiomqGRkmIkFh8EAzbEM8BpTKKZ9GaSK/5eS9+MuAH0e72uKJEWFv/RY3QQYSAAJW4/Y4/bnZ5kdE/lKTUt6+pGTZaQkbjnZFbyRoEBe8HEI=;Wu3Y37DBRjxwCeHmg9o0dg=="
 ---
 

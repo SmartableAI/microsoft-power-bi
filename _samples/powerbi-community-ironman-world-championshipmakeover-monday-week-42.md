@@ -4,7 +4,7 @@ excerpt: "The Ironman World Championship has been held annually in Hawaii since 
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Ironman-World-Championship-Makeover-Monday-Week-42/m-p/817973
 type: download
 publishedDateTime: 2019-10-14T23:09:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYTRiZTRkZTEtNDJjMS00NGJhLTg3OGItZjgyNzFjZDU1ZWJhIiwidCI6IjgxNzdmMWQzLWU2NTAtNDAxNS1iNzdhLTY4MjUxODQwMzRiNyJ9\"></iframe>"
 
@@ -41,6 +41,6 @@ images:
     height: 838
     isCached: true
 
-secured: "vPW0H2mtfg9ApauN9EXGDY+YDvzM4DgtfGPL96VPMh8FY9sjfjgOyfRv5l0L60X5OwVIwPIxlJCtgcOczme660eJyuTNHmEWaSbasxZHfEkyCqkttl03KRCjFcEagUtSzeEsQnJu6EQBUvSt06G1oTtt2Ptv0UOmUWURCo+9yzOmW1vxGjHu0Qx4VVGaCeiHJ3N23Nn0iRBrorQEtUHkAfKT9cJaB7/1et2KbkW7+uFEhN5GaakcAt61zT7laoixhwDEPA0ANp7cgxXVhftTqc8YNDEiGkJliIY32BWfW6AgtQmKM8Vw21926DzkrZwwcC5ZLMnkBHTBhqm/l5Wmz7QP6cscqx8lQ+cskDuc7nSowWT5V7ve0wDJkjb/TtZIa8WWQy6gh75cVa3skvGHCw==;RjYfuvpZJ2RTrcqmocW5zw=="
+secured: "cQoJsorvUfAgQKyWSZFkZr3Scl01IUdusVVtUZ8NoWOW7osZXHk1WNuylONO4HULzlJ3LrYvWlgENaQoEt+2dJaBuR7wXcb8E48BgU3MMcVYCJEDEuOq1huzft2gH/s03PFy94pGCkA1dHqaU2esSp1+omJQjOWNNA/qLXwiMeRDikzFefDZBKEBZTCAoNrq/czcrBRIwYnVZchBXPB3kGYIH0SOXkuus8zdfdob3oRYb7G75beshkAfoCmo1ak1oISJvGR3Zp6lAsYcoD0H1PvyV3mj5RwqxLFXuo//8AXJBK7dpTLkXzXEx5YyvNpd4uR+Uqp+YFcPndWkVjIqmpcoXEQP72VKvkyRxH7cSG4w3HnHLaHZqNkmhSZr8k0wIH5INpo0CgCG1bJjKAsmqQ==;64Rg8OIMM5PiWygxZuur0g=="
 ---
 

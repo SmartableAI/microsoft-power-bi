@@ -4,7 +4,7 @@ excerpt: "The Airport Authority Performance Dashboard provides a quick snapshot 
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Airport-Authority-Performance-Summary/m-p/628963
 type: download
 publishedDateTime: 2019-02-21T07:25:00Z
-heat: 232
+heat: 250
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjgwMzFhN2YtMzA4Yy00NzE2LTkxMDAtZDM1OTNiN2YzODcxIiwidCI6IjA0ZWM2MTA5LTRjNzktNGM3My1hZTcxLWE0NzRjMDlhMWY1YSJ9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 768
     isCached: true
 
-secured: "D0zumKKdPzjG2kkum05+N3vIziTDsHppcvmkteqIlIW7MoHWQId3hH2xg95s7eKYC8PxpWym2wZhaMNtHCZXoVKBqDzLK8BksVCw3RrLoXVCX+sdZl4azaSuyPsGgTCH11V2g9Y29KyMmqB/L8JGss05FQIU8ZP7WFIOtSflGtbFaqhmVtzIhoG9wXBZOuEBtDkObmhCaslKLuokbjtWqSARLVBzn/H/kkZtkytH4+R129KGN0+wsEc6R3hblmynrWVybr+rVlBPNgTxP+NDpv1h2TehvmJaRlI4jpw1bKW5swXk8Q9/wl7ut02b287pe4Kxo/QfAIhMwgLq2UGNQZacx4joGvEHYpQKyULdQX6K7MpuzXZTRcH2a/AhoHXLBaM0E8kqQT0PKmt/1/0PTaHQHHUuKpvMkwp0zIP7cuc=;zR4LYzU2/Nx9yZwNPCVkSw=="
+secured: "9oEfFIQ6zKwc3DMdc6EgLxYYlmHu8D/am3JfskkxH5XeWD8Ydlnu1vgc6hUDIJzpDLLJG7x2BETowV522AfZ9mZfcAOVBJOGpf/wdNRc601EjgCSM03xaZA4g58TobrM/z7U3v358XTwfSc4KwdyKwnwzI97ISq3c+AKkytIxu0wa+aFzdPR4smEDyKmTytFudS9BCTToov60cBm0sYxlaE+FkyneOJnhavbhHSsgt8A6JxpSPbnODZ6/OnrRXDsjvfE8/62KLKMObBaMKe5SJsbCacn7y3wkRUCR1tadX/1BPsne4Q1BQ6bGgVznhQ6fQ2hAl31ZsON4IKwPu8KXhv/XQeiGWnqv8VKsYJ0JaSkhJm7Kvi7viowcgrcKtpUYMIoAknnuy05MmElh/Q9fZDLuEmIcyXxBdbFRIXok7Y=;vPyCa9wwaxOYEZGZOco4nQ=="
 ---
 

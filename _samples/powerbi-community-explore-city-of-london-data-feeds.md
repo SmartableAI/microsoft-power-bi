@@ -4,7 +4,7 @@ excerpt: "The City of London provides a large set of data feeds at the London Da
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Explore-City-of-London-Data-Feeds/m-p/45566
 type: download
 publishedDateTime: 2016-06-24T16:03:00Z
-heat: 53
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNDBiMGQyYjQtZGI4My00ZGUzLWFjODYtZjQ3NjZlZDU0Nzg1IiwidCI6IjNlN2ZjNjM1LTkxOTAtNDFmMC04MDZiLWI4OWIwZmJkNzU5ZSIsImMiOjF9\"></iframe>"
 
@@ -46,6 +46,6 @@ images:
     height: 4320
     isCached: true
 
-secured: "2+F+eNqGIXfmzGwEiWFBFBCd23ZVFi6G4RHEQqp9K1qOuVjefDL9F2y5fpXDVydRmq5U9n87iZnkcp9DJd+Uzo8gt9qdvjyteEewpqfOAFf135ttbLyKkKapv21U6Hvt5lSd2Bi33HH8BGlGGqb4NF1WXm9kJMq+IUEV6t90lyJpxULTz3MTFMYYKpXxAotlQmkwhBc4cKB9n+hLG4M6tmmDiuvPrkDrspb9bMQ19TYiNwhPs3heOLXWix7eW0I4M/oM4GTtJhGTiUWe5spG8oDUetNqfp2kpzcF1bax7X+r8dSQmZYC6FKhnqEkdYLkFPYXN0TDdP2x6iCp5XGSkesykpLNcer/mLy78PEnCrNDg6Vm0a40gIVLWNXl31an5iBcWQ9C1I8FNpMBroctJg==;sApasO76HmFAwBty8dFG8A=="
+secured: "scqe3mKTbh1RM/ujznLYoZ/NAnxLqLlKfqWpdrZEZ+vIsZYGZ15anib6g32NL67R7u8kOCWTNHsdaqUhYmzHCOXg4anSPxVjrCjxPyUYNGNN/awx7BBmZlQfRqIG1GaAbml3EkG3UdoMU+N3S+XaTZ0Q+ldVcxkaHRdPAhPx2UjLyFlIIrIsOIYzLTEq+6+J1y/JmLLSmtGd6LijAv7SH+dEZSFaQWmtfkP0U6F7JHkDyArLSsFm6NFJJB7OaHuYJJ1uj3S5s11y1+t/CaCDfFMVvyn9fRipa6o9tL3dxTd8o+bIuFEnLy9rNps706b3jQr9rxisVcDWnMF4womsTcilnl7QJ/suvlDKNcsHkvsuD8sjCU5DnmlrnKkINZxeB1V8NKhDrfxndUyMjEs8pQ==;w8JIjdR9k/y9Rcw+ioUb5w=="
 ---
 

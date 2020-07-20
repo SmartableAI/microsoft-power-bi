@@ -4,7 +4,7 @@ excerpt: "English | Spanish (español) For fullscreen click here: https://bit.ly
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/03-Simple-Charting-Tips/m-p/1128288
 type: download
 publishedDateTime: 2020-05-28T22:19:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNDhlMDA4ZGYtZTI0NS00OTVkLTk2Y2ItZTQxOTA5Yzk5MGExIiwidCI6IjEwZWM3OTJjLTU4NzctNGU1ZS05OGE5LTFiMWQ3YTNjM2RlYiIsImMiOjR9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 1020
     isCached: true
 
-secured: "X6unKGlliTmlqfKkRxNfththW+38MQv8DFOQBuWpbcxX0hkDpQiDxpU/WeLprImdRuwKKIYbcK32P32Ly52suZb5d9MC/hFk2BqVjnoVZ2WA8aSt3PpsVqn2EhW6kyeFL4kptlS6Yh2x5V+xItRW4v5tqdIKvhjxHNdAU0fN3tiBLe+IUOBWQ4e0/Kba4+oFJiNT/Qj8z9y9X1fCLjPmzKVAwOkto9dFECklf6v3sWXFGwB7v+wesnSI2uATX/uH64yjLteb4L1V8lsPNN4ImNu8hwDOrglhaqE1YRYfo5vjwxw67ih8lVTZv/U5t3iOKlniTTx0O7h3S5XmqfYcfK3CI/MV4HaL38SwlNqmhgES43dzIzXUEd0jy0CYRCx7LvBPW6CSmz8Z7eIGyiZypg==;ocTPm48zr26s5nGEgR6EUw=="
+secured: "JS7O/twtJV3XqLca1MYnBtdp7eoBCKQq8mfEc9epmTSP7i3gcbLUj7nNFKhmQ5gsg14YH7KnqS8w3tyPUeER2oVB/+ePZeiwvYwWjTH0z9BVi2yafwECesjntiZiMfHAAbY5XrjsiI2pKWGFmGrPj3V0Ne01qiJpG9RWV3nug+u788XY+F5cpdgd0GvkDImwBbFekLkQw+kQJ439i3gYXGwymgcZ/0rtzFginbWDMlv+exWHzVHQ8AioVJ3wAoc1P1DdX1+XQi+/bPaAtuV6ivNrTgL1XmSeTqlTw5fDjtBDjDTH87/CtSdLwl12LZ5HI3uq78k1E9tSmLJVGvxblRgNyFh+SLExosy5S/ViVPRVopPQzECLG6QKpr3ARY+6iMMrUpGXSTjaqUwRHJEQ0A==;3w3lzfmOXH91HRHaHFjouA=="
 ---
 

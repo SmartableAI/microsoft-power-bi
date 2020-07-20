@@ -4,7 +4,7 @@ excerpt: "This Power BI report provides the DAX reference \\ Cheat sheet. This r
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/DAX-Reference-Cheat-Sheet/m-p/483212
 type: download
 publishedDateTime: 2018-08-07T17:27:00Z
-heat: 111
+heat: 92
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMTJmZGZjM2YtMjA0OC00NzliLWI0Y2UtYWNiNThkMjA5MDI4IiwidCI6ImE5ZThjZjE4LWFhMTItNGM2OC1iNzIwLWQ1NGRlMzdiMWQ0MyIsImMiOjEwfQ\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 727
     isCached: true
 
-secured: "qF/mvMnf7JlgZa7wt8Xo6tqE9LIDGlH4IKvMvEA/VVfhmhtx9vuFW/xpFbv1VCK5lFq6Rh/nyrzM2Q+Dy9UTlHVxTLzR3bNrIVAN9YNelqJ7egIRToGI3r20zsuOaiv56epxbrcIugqb06fTo+oOt8NIe8vgqdlFsrl2adhZ+e6dYKYfATiGVGWdn5GqjLlX8xw+jQ04KfQZv3HCVZgPNy7xWHBuuiVC1SQ+CEzYl3mHNsX1oWbS+xpcSkanh3q+PiiLG8byDnSLa9FHhFmNeVG4GrZFLjlDTzrXEZ4zvQczoigyuFl46hOtU35/mh0upsC3T2pOtfnkVNge9PnD7TclL8tY5dmlMswAqfcwnwjEtpedfbxYlS/hFHAl7ZzEkFneVspE7gNIsh3Mm9uaairj1rtHuNxs+cyhIdp9NrA=;3Uh80zCMDdAnUvTi4U1pag=="
+secured: "xy/tW8Xq/omR083WjUkuNnOHpBisqHB5+kHeCsqWMBRVkyvbOxX2uoJJQC2hHfWUUtNf+z3QBwZg7ahucRtvqocGnBR6v/2NipzdTl0woUblCqqrSvL1swGVmWBphy+If2OQPN3oUwDUmLU+2qdDlNSUk1vdsr4ewdh4lmLdZNk2e2DSePRsNXzlgaKDEemVCu2H/pbmhU19ouRb1EPi5kZJOfYoTswWbfvQ6C5MHwFyxk9SYY+NLUIFpbguIAw9D18Eonsp5vQwWzQkxc15Yg85uqfA8mqdKjmvnkiZWBK9AxkqKdLEG3SdTtjvIKy3fvRCzPoNh7U8o1OoeKPaMBjlIIvucpNLCra66I+XytWKoJTDRFvxibsC+ejC7qvbT6ZwcMtIZY9fB8cqfqVN9e6INKFhkCigAJFQ9PgBxu4=;lpW1yHqEhkn1Nc5TrgT7Ew=="
 ---
 

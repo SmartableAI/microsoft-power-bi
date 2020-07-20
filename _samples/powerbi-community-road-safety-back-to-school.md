@@ -4,7 +4,7 @@ excerpt: "Hi All This dashboard is developed by 12 to 15 year old kids whose nam
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Road-Safety-Back-to-School/m-p/785683
 type: download
 publishedDateTime: 2019-09-06T05:18:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYWM4NGFhYjktY2JlZS00Y2FjLWI5ZjUtZTM4MzY4NzgyNTgxIiwidCI6IjY2NzI4MWJkLTM3MTYtNGNiNS05Yzg2LTYzMjZkOWEzODVlNCJ9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 575
     isCached: true
 
-secured: "To2UGSl8J9z1d+jhS7E26/77aU09flh3hWxO7+9geR1eDIlyB3TOYFV3O9Qe8SMGm+3lBbd8W09adVXZZ4qObxj3Yxu1MVp/GhR9eafHobhAgFeQMfoACL1eOUmAF/u4tyy5YkSl7+/LsX6Tq4KyMPKSK/IkzCA1BxJFtkCRKAJ6milrJn7RSI+aMsRdzsUroiDPpGASmhBdW1oYRxiZoWOtJj6IpiDbSErZYOU6EGGWW3lJBRA+pFEUBft0T5R3hBvIB1yRfRVmdvyG2rLtvhSjpHcQheCt2CkrM4JH+mwotlefVoSFyMuYfdBHdzqJujJK6jbLvfitmxnzNo8C5jiyhGfcW8U5o4TuUxrqjnpcQ1kpszxTY449o2yfy4akm1WN2pEwfLgUJglst6PWwA==;GhL/PakaytwB5/jceMug3g=="
+secured: "EJBb31EI+kMzR5e/zn1zEpnJiQBmNp+hMidWzrgEm7qTMi9x53I26+oujBJtEqTJ1EtCkb65tFJ7wglUD4HEnf/iG7SbXDDuEt34ngJX/knbWEEI5rqyeLGdp1Ooj8exZ1bVXpOpje+HLXOey+jOMJKxLAJJQsEry78W4PXjZ0gpI6kmpEHJDd/dCmpwItGHzo2LvPIvexEheg8ht4VS8EM7cVIjdItJrf12moP/Dduk3zRs78vJ8cQUsqzMmC0qKP60xKx08N5XqBArndUlhYU5HZBcZlAXBTnd+LIiyeT/DsuOrng5MgKWwKQs/+jRX9lI1x/h7HVWiNfkOeeuXfrD6xWyBanJ2CrhFRuH6nnT/8apqgVoQSGz6Ki+svNzZ+gcT53LnqRmPkA0AfZw7w==;SfQXK0zWq/QH/2rt13OJWw=="
 ---
 

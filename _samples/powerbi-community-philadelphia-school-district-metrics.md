@@ -4,7 +4,7 @@ excerpt: "This Power BI app shows the profile of Philadelphia School District Em
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Philadelphia-School-District-Metrics/m-p/100714
 type: download
 publishedDateTime: 2016-12-10T11:30:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOTRhNDIwY2ItNmViOS00M2RiLWJkZDQtMTNmNDI3Njc4ODdlIiwidCI6ImMwNmEzNTVkLTFkYmItNDVkYi1hYTI1LWM5OWRjYjgwOGIwYSIsImMiOjZ9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 168
     isCached: true
 
-secured: "y7aD0qHEj8uNv3uyb6I6Vj9jnvINTKCTGphYmlYaErXUVsmEg7HvUkzMLvmZjEyxEnEFd3vVZmJIGFtA4WOTxOLrfnkVsUrKeF501HgS4htTS86gRq9eAJN5mfvBi05x7tzREIAJX3j4MZ0G3EkRiXslFCfsbCOTcRJoJZrp7/Jz7sNojasc1SQJK92wMmSmnLjJkAnZAnQNAVu07rLQnWyfUO7j7QE5RCjHCH24TN8M8vLTMApCa+1yZt5Fos8DuOyBWL+ixbW956R1Br0LQLmDAZzU1FlIHrwNbmd5NvqUtbju/P68DmgOPZMyPDqI+XVg0XyDUZL3hBgXxJsNffPGZ6c8H0ce84+PSttGAf8JG2b6XGX2vqPTcTYOKaZOHKRIGq7ZEn3+vks6R5Jxr6D0PcAzOidpD4bC0ryH6kw=;r6mOMCOZyliy/qEuT3OyaA=="
+secured: "EZbimwNWVXxzzJc3fDixVtzt3IypM8UGpbUmTN0LlwIn7LHUkulETV0tWTQ7DvMXzh4l98GMKUtyC4U9lJ+qbHzRlnjm6QjcgKvOrOkW/PLKzQJbCD0nqBDoFpJgxaDt80Lzh7oG96zXlxQalxDlHwSPoQzgrIcApeew0S6oW5LS+RnYNvSctwQGnuc7diapeTWgzkPmE/kQ3hW9LSjK3lql6fwwjHBfbpa0/pTlH5/oqgDL63pwAsVNGpZYKydEmX2XIJyFglyhymSrH9nx54M9xyfoOX5NT31hpgHV5rmRAHeM1iCqQrGg6vL3QFK9v2RfPJ0R2l1mj7APZfZCDJ4F7qpZKV3olzZtbMMbeG+Ko8XEWveZX0+bIY1Ll1z5tQuwLt8S7HCUUCZXvZJH9LikJB4BuKk5OclBggihc18=;lRAHWeVlYsk1bNA3wZyBhA=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "Introduction With the Easter holidays fast approaching, we wanted to d
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Easter-Bunny-Hunt/m-p/378883
 type: download
 publishedDateTime: 2018-03-19T04:47:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOTg5Y2JkNGUtMWQ0NC00ZGRkLWE0NmMtODZmNjNkMGU2ZWFiIiwidCI6IjA5NzNiODUxLTQ1MDItNDVjZi04NWQ3LTg0ODdmZWU2OTI5OSIsImMiOjF9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 843
     isCached: true
 
-secured: "7ljNj8fbqy9wy4YYkqQj6P8O4fzSETTucMfzXEC13cpJ+hlwJLvI0NVfqo4hi8vsHmEzoj0b4vtfUnQKhk1OlrXsAlwY3TjfCWfmW8j39/rlM6YN4vSqsZF7Gg40+BCLwxgfwvw985Rv/v3lHDbiNXQ/fv0nwAJ3GKYdMoHtpJelhenbeFo2aXn4VrK7WwdHl3DDHA1S7M+CQ3pQ6GaO3nV+lDO8KgCQtJdx7q3gj+ve++rE4TsUbOOTYgVyYc6y83cH+1KyHeWtZdPhQ7T1PgzH/81ft46RoEWwcM8yFplHKfBqcle3JMmoD7UCAiT8fAmaTL0O82gakBqxriy5bf7NGnW8nvMony1g35h0SwK1uCWkAvv7+cYLrUg1lvuMGhCrAls0lYWgWtl9FGD/mQ==;VpedYL16tITOu9aOykUtUg=="
+secured: "v9i07SccWhZHXAqVIn2V/oHtWtg6Wy7Y8PjBMQ2GPJAIJRJg7sQ2TqHvDilBRn1WOes4fgS4omDk1WP9Z83S9aO+msz8guJgojlAy75F2QhlKNLXydW1tBEUQxK/CKYpxUdAwQvRseXTQOMZZUXmqjx4/SRHZ5uC0ZrpvtYD74g8mMwASXnuBANiO1LkbeXWNWlB9opOtLh/UuYwWr6B4TDX97yIbRbEK+8IyMIz++ZzJdbx9R8AubD7+VMOx8tlXT5XZvWQ9dyzekphVFBvYiK4KdfOooWNFotXqEjcucXhgKLQeTD59lYsxQmKuVqWFmGR6hgyc2ScBrAD59KxtTyQ9J5GzDXqNVBa7ylT4HUsw32ZIKj1ZgOB+dNHKaiWaFjYUhSzG1TNlH9KbJrHUg==;ISp9dgswwTyqg1/TQkGiFg=="
 ---
 
