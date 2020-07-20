@@ -37,19 +37,19 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://docs.microsoft.com/en-us/learn/modules/discover-customer-needs/</loc>
+    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://smartable.ai/apps/powerbi/learning/guy-in-a-cube-conditional-navigation-is-an-insane-amazing-way-to-change-pages-in-power-bi-desktop/</loc>
     <lastmod>2020-06-23T08:00:01-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://docs.microsoft.com/en-us/learn/modules/becoming-solution-architect/</loc>
-    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://docs.microsoft.com/en-us/learn/modules/data-anomaly-detection-using-azure-iot-hub/</loc>
+    <loc>https://docs.microsoft.com/en-us/learn/modules/continuously-export-data-from-iot-central-power-bi/</loc>
     <lastmod>2020-07-13T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
@@ -379,6 +379,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://docs.microsoft.com/en-us/learn/modules/becoming-solution-architect/</loc>
+    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/</loc>
     <lastmod>2020-07-13T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
@@ -440,6 +446,12 @@
   </url>
   <url>
     <loc>https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/</loc>
+    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://docs.microsoft.com/en-us/learn/modules/data-anomaly-detection-using-azure-iot-hub/</loc>
     <lastmod>2020-07-13T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
@@ -608,12 +620,6 @@
   </url>
   <url>
     <loc>https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/</loc>
-    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://docs.microsoft.com/en-us/learn/modules/discover-customer-needs/</loc>
     <lastmod>2020-07-13T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
@@ -1070,12 +1076,6 @@
   </url>
   <url>
     <loc>https://docs.microsoft.com/en-us/learn/modules/build-your-first-power-bi-report/</loc>
-    <lastmod>2020-07-13T00:00:00-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://docs.microsoft.com/en-us/learn/modules/continuously-export-data-from-iot-central-power-bi/</loc>
     <lastmod>2020-07-13T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
