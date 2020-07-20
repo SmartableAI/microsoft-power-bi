@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.neowin.net/news/microsoft-releases-open-source-power-bi-component-for-react</loc>
+    <lastmod>2020-07-20T11:20:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://smartable.ai/apps/powerbi/news/2020-07-20-power-bi-desktop-update-and-more-roundup-july-20-2020/</loc>
     <lastmod>2020-07-20T08:00:33-07:00</lastmod>
     <changefreq>hourly</changefreq>
