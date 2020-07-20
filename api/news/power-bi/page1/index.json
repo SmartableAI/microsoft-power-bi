@@ -51,6 +51,55 @@
       ]
     },
     {
+      "path": "_news/2020-07-20-announcing-react-power-bi.md",
+      "title": "Announcing React Power BI",
+      "excerpt": "We&#8217;re thrilled to announce the release of Power BI component for React.js. React.js is a popular open-source JavaScript library, and many of you asked for an easier integration between Power BI and React web applications.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-07-20-announcing-react-power-bi/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-react-power-bi/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 418,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-20T02:00:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2020-07-16-thank-you-for-5-years.md",
       "title": "Thank You for 5 Years!",
       "excerpt": "Join us to thank the Power BI Community for 5 Years of contributions and helping others.  Get a sneak peek of the event, and to find out more on our blog.",
@@ -107,7 +156,7 @@
       "webUrl": "https://www.neowin.net/news/power-bi-desktop-july-update-introduces-gradient-legend-support-qa-enhancements-and-more",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -1391,55 +1440,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-06-11T02:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-the-theme-youve-been-waiting-for-dark-mode-comes-to-the-power-bi-ios-app.md",
-      "title": "The theme you᾿ve been waiting for – Dark mode comes to the Power BI iOS app",
-      "excerpt": "In this week’s release we’ve added dark mode support to the Power BI iOS app. Power BI Mobile users know that we’re always working to improve our apps and looking for ways to provide our users the best, most delightful, and enjoyable experience possible. And enabling dark mode is one of those things",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-06-10-the-theme-youve-been-waiting-for-dark-mode-comes-to-the-power-bi-ios-app/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/news/2020-06-10-the-theme-youve-been-waiting-for-dark-mode-comes-to-the-power-bi-ios-app/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/the-theme-youve-been-waiting-for-dark-mode-comes-to-the-power-bi-ios-app/",
-      "featuredContent": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 418,
-          "height": 417,
-          "title": "The theme you᾿ve been waiting for – Dark mode comes to the Power BI iOS app",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-10T16:53:10-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

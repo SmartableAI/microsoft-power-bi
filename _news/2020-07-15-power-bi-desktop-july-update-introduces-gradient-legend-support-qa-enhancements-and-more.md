@@ -8,7 +8,7 @@ ampWebUrl: "https://www.neowin.net/amp/power-bi-desktop-july-update-introduces-g
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/power-bi-desktop-july-update-introduces-gradient-legend-support-qa-enhancements-and-more/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

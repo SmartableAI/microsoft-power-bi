@@ -51,6 +51,55 @@
       ]
     },
     {
+      "path": "_news/2020-07-20-announcing-react-power-bi.md",
+      "title": "Announcing React Power BI",
+      "excerpt": "We&#8217;re thrilled to announce the release of Power BI component for React.js. React.js is a popular open-source JavaScript library, and many of you asked for an easier integration between Power BI and React web applications.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-07-20-announcing-react-power-bi/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-react-power-bi/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 418,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-20T02:00:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2020-07-16-thank-you-for-5-years.md",
       "title": "Thank You for 5 Years!",
       "excerpt": "Join us to thank the Power BI Community for 5 Years of contributions and helping others.  Get a sneak peek of the event, and to find out more on our blog.",
@@ -107,7 +156,7 @@
       "webUrl": "https://www.neowin.net/news/power-bi-desktop-july-update-introduces-gradient-legend-support-qa-enhancements-and-more",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -1152,55 +1201,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-new-way-of-getting-apps.md",
-      "title": "New way of getting apps",
-      "excerpt": "We’re thrilled to introduce a new look for getting apps! As of today, getting an app from your organization or from the AppSource marketplace has never been easier!",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-06-17-new-way-of-getting-apps/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/news/2020-06-17-new-way-of-getting-apps/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/new-way-of-getting-apps/",
-      "featuredContent": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 418,
-          "height": 417,
-          "title": "New way of getting apps",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-17T03:37:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
