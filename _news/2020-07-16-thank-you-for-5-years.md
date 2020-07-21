@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-16T14:33:21Z
 webUrl: "https://powerbi.microsoft.com/en-us/blog/thank-you-for-5-years/"
 type: article
 quality: 82
-heat: 83
+heat: 82
 published: true
 
 provider:
