@@ -3,7 +3,7 @@ category: news
 title: "South African bank increases agility and productivity with Power BI and Azure"
 excerpt: "Werner Louw is the Head of BI and Data Discovery at Standard Bank; he currently leads Standard Bank’s BI center of excellence. Tiaan Taljaard is also a Standard Bank veteran, with 10 years’ experience with the company."
 publishedDateTime: 2020-07-19T11:51:00Z
-webUrl: "https://www.microsoft.com/pl-pl/microsoft-365/customer-stories/831695-standard-bank-banking-capital-markets-power-bi"
+webUrl: "https://www.microsoft.com/en-au/microsoft-365/customer-stories/831695-standard-bank-banking-capital-markets-power-bi"
 type: article
 quality: 34
 heat: 34
@@ -26,6 +26,6 @@ images:
     height: 1062
     isCached: true
 
-secured: "rONEDMIHT8LjpqqDTBHcqsNN0a8nvsSCet30Q3w9KEBzjtBkgp5HFl19pDagqhBVjkq0pw0x522QGA1XnPoNDP7Pb1Pa6Y0ZmNcF/PZU91OwQwwXYb0BBCltwvSH2pGdtCCvzxup0rSHGp2Wk7oIv7pKKEIQk9c6cFm7YrdeuEIxIFaDuNQZor3bvO0ncqAGJxHEUIC3sj9neS1tuRZymvG+HBhVxEKjSX++I8DC/mAyJhXpz0b75NDw1M8ULXvIXmEh9fNExj4+26mUGa+kF/s7PVHZhTK10eYcSD9h/2l2+6NvNgXruqNmWgcpT4j8GnonLCS+Qap7FSOuPGON1A==;+gj10sjonk8f+Ys7XK2lMA=="
+secured: "PcXE38cQQjQ2ljXJaEoCNG5OL/59RSy9ThbkF8FG2Y7LxUU7l5wZq0/An0rzEivOmkulQyIIfLRIb+O3FcEuaHPeZrLRwYm3gm2t3MePGNa1N1d1OyFGsRZiSkNIjP8D5iM9XXhMgZYIBXwqRUbLtH2mGIuSxTdELh84YXFV88ugOjvYTxmqdtJHje1gRXHtJ3Mj8z/YEQJwwkFY3Zo5czJaZpah4bgqqYbFe6FlLPiKVGDoUQ9wUvb7C+ZFvzLpxU4SCbkk2hr629wddOYdZqEg3uKWeKIis7NRcVNGiQAPLYURdSgro7vxUB1iyJp8VdFF+nlD52EjsUfxFYD/Yw==;NKWRGcDPTr4Yjnqrz/dp0g=="
 ---
 
