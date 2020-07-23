@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-20T19:35:52Z
 webUrl: "https://powerbi.microsoft.com/en-us/blog/join-us-tuesday-july-21-2020-at-1100-am-1200-noon-pdt-with-gaston-cruz/"
 type: article
 quality: 79
-heat: 79
+heat: 80
 published: true
 
 provider:
