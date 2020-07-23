@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Master big data with the Microsoft Power BI training bundle, currently 91% off"
-excerpt: "Power BI Training: This course will start by looking at Power Query, and how to use this tool to organize and clean our data. If you’ve used Power Query in Excel, then you’ll find it simple ..."
-publishedDateTime: 2020-07-12T16:17:00Z
-webUrl: "https://techspot.com/news/85965-master-big-data-microsoft-power-bi-training-bundle.html"
+excerpt: "Microsoft Power BI is a powerful Business Intelligence (BI) tool that lets people with a limited technical background perform complex analysis in just a few clicks. Big data is how you can empower your team to discover insights hidden"
+publishedDateTime: 2020-07-12T16:26:00Z
+webUrl: "https://www.techspot.com/news/85965-master-big-data-microsoft-power-bi-training-bundle.html"
 ampWebUrl: "https://www.techspot.com/amp/news/85965-master-big-data-microsoft-power-bi-training-bundle.html"
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85965-master-big-data-microsoft-power-bi-training-bundle.html"
 type: article
@@ -28,6 +28,6 @@ images:
     height: 1440
     isCached: true
 
-secured: "KN0g/ThSf0a1uLTbGfc3u4ke0rTdEJIzn6lP3AGwivRawFe7uh2a/BxWSdIVruv0pL+jCdAdGk22iYuNMUScrBimIXn9IBw3f87r84wNyxP5Qc2ynPX2A+T5ZzZX6krG8hCr7DKZJ4AXhAjTIVWZMrmeVgd0xzl4Ri+ZARk9kP/zarNiKn+kVAybCPHpQfLizOQkqIuDvBpOKxMKmlGR5hUBvaE/DNecROGfWXJakKVofJMJp/Ix9wx/WYRYkIfApaCHKLvIfEYA9cFToYGDMjJJEaI3uPaqnSf2IkFYaChjWHGqa8XV7sKH0Vog30hJIBUjMm17t8AfIYP6JQp7Hg==;ukMfxpwa6yf6HF3RZDo3rg=="
+secured: "+dYWnT+pN3ZamO5pacaRTOuSjMRCw9Z1dWLQPj8MpzTdiVeTrLZuYhjE9PvLGtr3VeojnG0tpF1ZFZqnR+Aav5pY9C9o44cmweUbxbOjp6j1dOr+8JufCeApH2NcJX+6GYPEyOmhvBosVunD9zfkIGAll2CcY5QOezeYcHvG/MnljDisUwIVtE9tQj8Geua2zuX0MyYOaw+7hp01jExK/gSo8O8YhKyfy6wqUvaXtwu66wQz0bZjB/ML8PF7Ke2velGqlJa5qmKrLlj8IFixBqqS0u7VyzQ3jtNyFtJ/p6lWLeWwn3Ff0tB2oMAbQ8HuziQX4G2vmok8PIMc2LUycw==;mBZJtYQ6dsjlyRY7REl/ew=="
 ---
 
