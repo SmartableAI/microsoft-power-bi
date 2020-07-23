@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT18M
 ratings:
-  count: 6843
-  average: 4.6885867
-heat: 104
+  count: 6852
+  average: 4.688704
+heat: 120
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Introduction to Power Platform"
 
-secured: "ohHPQ16uQwZjKJIi5Vq4AG9js9PQcCoWhu5lH1BZVrMzfcTgJbaY3ETKUeQvS66VLb24fGVr8u+1/TCCoHz99LtSxAkrnVQPwYE/fcaZccNZOgcnZxWVUrKPA3H8O4J6/RLxvt/y+16dg5xD0vn5IaOzo6ySt0Ua3xUjdbrbmiwXBs7CvtYbQWxpEybxpkoc3OO2FuUO0XwvpGy3TYkXuuvbq9UEfzbOvxayr9PHT4JCZ495njOpKboEg0gR6Y5lqga8Ln8WnJTuy815w3+qiigHmTDCjXrHtuekYLveRld7dbGEpD7QejX5Fe2rlQA4Te97xIobpi2mTQEfFRC7zqfAWfdFhDZURbe8rgYKfD9u5yh08SGn5YvJyAO8ge8JgxwsOUa5lqY1FG7ISDX0bw==;e8HgDwtMjtP23BnS/gle7A=="
+secured: "4t7uyeqhURWKu4cO7oF0yTfcK5Y2sMwjyhhmHe4hGzEbJQoT5Ov3weH0npAe0See8TXjk41ykq1IMu30bVAI/tWFr7S9NQwTcA/IJSQRwf+/56TbRo6Y9sEeO+GHcDETDn3UEsMXbSuZ31/YDum0hXB3stAu8ejNLFhaVt+t/xzDz0T1dacxH3AtFW7AqOGFvr5/C/oDyT7Cdx0v1EdsYd+X1c/QZauOnxA6vW2UR8uMX5expkg+bx1/AaNea0isacfL757uoh7YwMoGng8CW+BXQbEt8EdTcYXhcITvM9UMDqhSFCHL4LQN4fa9MMVCEK+2ZuA8/fqtiUQv6EhhHLY11iRvB0+g9jDvEQIGEXZ8Ikibuwmfqy7PR0h/n2y/vEjvs0h7POmpdc8odstcYg==;6uv4/trOU/GgLFcNNA/5vA=="
 ---
 
