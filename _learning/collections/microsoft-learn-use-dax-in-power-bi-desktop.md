@@ -19,9 +19,9 @@ items:
   - courses/microsoft-learn-dax-power-bi-write-formulas
   - courses/microsoft-learn-dax-power-bi-add-calculated-tables
   - courses/microsoft-learn-dax-power-bi-add-measures
+  - courses/microsoft-learn-dax-power-bi-iterator-functions
   - courses/microsoft-learn-dax-power-bi-modify-filter
   - courses/microsoft-learn-dax-power-bi-time-intelligence
-  - courses/microsoft-learn-dax-power-bi-iterator-functions
 
 levels:
   - Intermediate
