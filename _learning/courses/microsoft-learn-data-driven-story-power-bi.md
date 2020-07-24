@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT1H44M
 ratings:
-  count: 62
-  average: 4.709677
-heat: 54
+  count: 63
+  average: 4.714286
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Create data driven story with Power BI reports"
 
-secured: "wK0mtcrtlZ3/t6l68aIFh7jWbGGp2h5opg+JEA3rloED1edoCSH9uuk/NC6Ivu0aNqziVFuFpWrwSeC6OAfxLDd7VgqH8qMQUn0Lw4e5iSva7rX9w1Us7xDrXDU7bFX2PaMrSa4o1y3mdYOgEyZpM5M4hCfdCRmJ/6yRLudVbF8TqIiTUhQ3SxJi3v15zfqUcfUfNDn/QvWO1Hi6vtnZZMLM0i3Wlw4YYYdFjvfnMdKh/IIQt587jAf046yQ2JtuUKvFsXcA/dbXpQL0AnCHf1s0EQE+qakXIK+8kdEZHMVQpC7W96O8yygUCV0UxUwOPDOZTxTYmr+EQSHA5vhmEegvTG/Xzqhf9GjK7flPgdnY49IL3yamTAHpHqlvM1/mwcc9BwZuawvd9saKrzJeQg==;B8zDut06mySjiZzlwwRV+w=="
+secured: "iGomTMzgnrESreUba6wDFbK1i6pH6ksUnH1Vx8RkrIsZ1qO34oqB7axkkat1bqvY7BLhHWNi8ZUAFQHXZjzj8TQXFB8FxTcnYxkW24xyuLsUU496fWqTVhJOadKGdECaobh0dBEoyjRk3+OApIq4nNvBnioSGVln084jGbB1RANlAaAdvh+rmxcjPtC8hhYvlXvu8XflQqknu/LPnN1vKglNu6SAhbE4aa5E/5PzZrrMXX1+o1Ydd6BfqIiEOJlxtC3w9yvwOs6b3aEnEhfyoEcfG7G6cnjseEy/RPP5MiuaV79F6ZdzTZ3NsPTGfilXL+jqezt3n2NI9L9cD4KvmfyUhW7y2QiJ5Zdf2cjzk2UaMEK9n71UJHGnKYB2THrkKE7RC4uf+5mHPM+HDULDQg==;VTz4hZi9fvNmnN7VsJvZdg=="
 ---
 
