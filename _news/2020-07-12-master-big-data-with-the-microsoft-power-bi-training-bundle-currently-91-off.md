@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Master big data with the Microsoft Power BI training bundle, currently 91% off"
-excerpt: "Microsoft Power BI is a powerful Business Intelligence (BI) tool that lets people with a limited technical background perform complex analysis in just a few clicks. Big data is how you can empower your team to discover insights hidden"
-publishedDateTime: 2020-07-12T16:26:00Z
-webUrl: "https://www.techspot.com/news/85965-master-big-data-microsoft-power-bi-training-bundle.html"
+excerpt: "Power BI Training: This course will start by looking at Power Query, and how to use this tool to organize and clean our data. If you’ve used Power Query in Excel, then you’ll find it simple ..."
+publishedDateTime: 2020-07-12T16:17:00Z
+webUrl: "https://techspot.com/news/85965-master-big-data-microsoft-power-bi-training-bundle.html"
 ampWebUrl: "https://www.techspot.com/amp/news/85965-master-big-data-microsoft-power-bi-training-bundle.html"
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85965-master-big-data-microsoft-power-bi-training-bundle.html"
 type: article
@@ -28,6 +28,6 @@ images:
     height: 1440
     isCached: true
 
-secured: "XGRX1euWjIt8pFcj3B+UaG5iW8/RpeG2a+X4AEuwuJD4PTqlee2vX99G3kJdAzSs8DPiQDCIaiKQLEzg4mn4XJLZtw2BpnDLRPMMLYnSjuoBLeR0lk+tBqtefKDGnnRJc0jvB/45eP7SlJcOHZKrs3osrrKD1CSNZOnKeE6WA0jz89wJfbuXPjgm4lNT53mTuru711U6Uuip4TVGYhsHPt9JcLdvn8AwTNFr3LVyYpiJDQ3+dlSj3uNsR43OwI6YsKhVUEBgRAUqUM35w8VSwmUuCV+IAu5md4qh6SOdNvvsGAVXHJmmV5fAODAvsQ8Mvm/XB9OaCERgEZ8ExSIwVbmwaXr59iqg3Sedwm6gxgbJpA1t7uw/DwnCOuH39vX+qRfaTwPXZiBTpb/NegpOM/NUIDC2yPhUhiBIK2m5hSx5RfeapXOKGqBsPHemZNoBzrCtvZ7Z0+DhrYHhYBRUATuLdOAHcluI0krKhxUSXa38GAOcJkYaTBDkhe73kGGMtmxxghcaTn9CTpBQaC/NkQ==;w43Y4pA3IeMNKPxz2PEsIA=="
+secured: "wlbv6ImFK1fSxPy2yG5x1AqqU29PN2k7c8lSScNiC6WJpGT3gfWuAUvXOnkrBULOoVJmu6RJM8yD7vXD1HD7u1mMo/pdrN5Hkk3Pr7j0WLWRWYIZwHCwE8q+ZqwLFpOK/UtLPWUiVL6idqCw4V/yLe2oS4d4TpSAP0btUslpqg35iNJnlFA6WSYQtV7A6Xy9MLTEzBMAz0Nc7+EPr1plfOnYJp69eRNHlF30xDHjvJcLZEf/sBLD05sA4OP5OTM+elTT8recnRYdrQwZhMnhFFt+51jDWoewty0RIhx+32l8uA9WIsm7mTieIYB23phFRTCwFpx+AtWHo8CynVJl9w==;KgGMvEg9q1zpT8EPCbs/og=="
 ---
 
