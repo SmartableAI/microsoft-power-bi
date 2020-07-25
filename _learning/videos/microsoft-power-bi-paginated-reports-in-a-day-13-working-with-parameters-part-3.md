@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT19M29S
 publishedDateTime: 2020-03-18T04:12:05Z
-heat: 54
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/13-6sWIRD74\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Power BI Paginated Reports in a Day - 13: Working with Parameters - Part 3"
 
-secured: "ADgD5et3WGxGVfx0fzGk+2XQmrrHmYMc0V8d90COE02LEfaQA8EBlCxvD3cYD6MyxJSgEcHm3qJqUddCKrbkGHpsZ1OXTe7MQW/iwn32e8ScbSIA0W1bK2Xmii5XE5TyRTLVzzplu1Od5/YmbvxCSa7LCnLk5V6D3fnowm0L4i7gQBuylgyO+z/mvTTxCl29xajnoxWMik/k/nV8+oNu3TRBSN4fCSxe0dK1fUUkMM4q6nD42IBFwWmtrpInUp4qdhrYHZzpmk4HoCf9QJBE8gggVfzUHg/3M/nH+3OmiqAXLnvB9ceCEXv/eQ1aypzlb4+F/1+bEB/3d5id9l6H5VKjseQCrA7vGJ0UTfFQk7KrzfBBN54bSK8IJPJwPG7x9AeLUZ5UXdG8WAUHgwEtrQ==;aR6USfN0W8gpOmXajrAayA=="
+secured: "fyP64MkCSJb7sH+YuSHM15mc+XP0hoXcegkoS8zz5TETMZInU6KKyx4J7aB7Wiq7XYVn09pQSacWHaF4yM+htUv0rd0sGhNp1zvTterOCgdkdKDXwUPuD8CZgNGNZxMKFmK7lVqS6RdcJmRDfTLnMZaG3cYoA4JevJJWRhx0u1t2IkfkxS+QhV/lgXSFcyGh+K4uvHf64cYSVqYaiIiCPTy5YjBSU/OF+YHJCNLsD1kVsozyB4I84ZLhcw0cyIsL7zdnreQjeAPLWORoSMbcm9pjpwiYaXbsDawgVNzoti/yt6Dtt77NBFfeHb9ZHhcc/My41GQN8XSn77u6i40npdHVVZng+VZgdA+4rk+vYNFZJ5HUty1lp4rFtTu5QUGYHlPJFdUEatipv6UPoRibuA==;x/nTJiLZ+aAR4LhSbB2xGQ=="
 ---
 
