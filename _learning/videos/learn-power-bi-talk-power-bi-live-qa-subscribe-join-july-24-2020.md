@@ -7,6 +7,8 @@ price: Free
 length: PT2H28M36S
 publishedDateTime: 2020-07-24T19:09:01Z
 heat: 162
+removed: true
+published: false
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bZ-5CFI4Ll4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
