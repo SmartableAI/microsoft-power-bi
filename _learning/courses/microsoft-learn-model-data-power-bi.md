@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT1H7M
 ratings:
-  count: 4225
-  average: 4.708402
-heat: 62
+  count: 4226
+  average: 4.7084713
+heat: 64
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Model data in Power BI"
 
-secured: "qRQHMDmuchu4qrhAG7dOER9/Eu8aeWqVgcjgcWk5F8DgVVKGqok8xvGB4wxHkb+bExuScfNVzvJQh4mDWfULF0NhfHsNWrHFUzsZaTwZjLFBQyFJWBfg6MKqxWEmb31DAPYymftn89KvYoOxFmIfGxDspb8vO1sjeJKUhrIlVQNZcK+0S/t1jGHl8IRHyJd0b+xJh917oqGDlDCbkf0/e5hrLue4yds2yaWKyLeU8QhInUBpKkZvmS6MjToQgImTkQF/tlZ2ZfFCV5lr3R2pqYbMIOgpi6p+dQ6bjj+1HvNVUYVk1eBlm44yF3yNwWs4M+bkIoRnnQFaRT+sdiaSQj28m/AVH6aCwbbdSP1O3d+bE1tY2dOBCXrwZd6YOGiM0FuAo9LfDXPvaaz/q71jMw==;LwfbMBU2aRAj4R0sBb6rng=="
+secured: "yUy/ATtkQSfiEGUgVoQlpx65c6ySdWf9PK2zFsQRJ1y9bcTGs9Oozch9XdP+Aoi9YPog1sahaMH8vSfQ4rm1Vjxz0oFPghypaRHh24nkC3M3sFqr6ZkkUpxCTZP0evJ1hvTH+qOAfCpu3LUgV0TyHxIRaveugNsWAo/2Yg2CTQQKAN5knB6UkX3kBYZ2tvXXRziKWRsUsrjTM6Gsjv/3shFXMgs3VJcwJTklHQffEZKvzwB0Vapi9fdkPr4rHEU732po1Bsr7G9GPrHxg+G40HvBo7Pmu5rOQa3kxON1XVpzDQNYbV6uijsz5rkqjkTdC7XFT1ZVr0fKxyuEHxz7M63b3MnYr5eEXlBJivQru5eBTBwIPIN59q1w5BE7vwp4gAIEsFjYfIAcTuyCxDkigQ==;M7Sh45yDEcGldmbnd2TSqw=="
 ---
 
