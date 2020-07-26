@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT2M59S
 publishedDateTime: 2020-03-18T02:58:19Z
-heat: 61
+heat: 57
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DN1t5p9aui0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Power BI Paginated Reports in a Day - 01: Welcome and Course Introduction"
 
-secured: "OgCnzDr97o2lziSuoU7p4ugnLivFXJjZ31hfwvC1gtET1VCy9zH49/HiJn6qSJ6/xPQeHjE3wpJNOpkBsEOGxFUD6UXMDRJCBHgXLgYTdf7eUBAniBn/YJoSO+pu18WaphTS4UXmyNQrTvPD29nLejusK0YwMFKNNtuz40ySHVoU4DT7QWncB+rE3jfNtvD6x90/M4LG8cE0OfIzunq0FNqXd4+JS5AKbFCaYkWCAG7SRW6OMIgsP6490gBa+ardd6WTavYC1bH9FifZ/SxnAvY6qbKzypvq+K9DR+rakOhrZqSzGcbopmxoea8nIAlEOga69/qcJnSOWBmfG7+VB5POjXmn7P0HBziKBy3jMtb10FgQe6ZFQDFy1bPY99Uwwse5FC5ZzfRlVmVuRB++VQ==;SZTLBhA8QFQclPJ+TIvGaA=="
+secured: "Z4mQ8n5Mhmmz0fwB0XJwogVllVzWiSop8m9SQ3dUj1C5L2DfQAzzNtO0fOSgn/8WalZLbGUv7TLP6LTuKNlTa2iXrFSqkiC6IDYENa/tWrlsny5LXf93yO7irv0YohuL474ODUWOP6pK6yIWf/1DvMU5kERLh+6Aaoa5K2lUnjJV6uhRoUwYaDzQIMzzfujbF/ml20OFaLmcyrwG3e9C5DX7cN2Iz4zjit8vC5US/+MSry1ykkvPm+hmcHnwIDrhH/d63g/vr7AwIMsj4GgDMShTd7Y1KW7PmHet/cj5oSIXya475xEt/fD+ZDGVzHhgN8kEQOyXBU/GvHtVLKGvmz7rWEBbYShb8biYpM+W26BDOg8OtpuCr5JRwX61I8k4tnQ1zjCMGfqLIj2yEjxFZQ==;AVKVpal70/KGjQZ6P31u8w=="
 ---
 
