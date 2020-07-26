@@ -8,7 +8,7 @@ length: PT1H44M
 ratings:
   count: 68
   average: 4.720588
-heat: 55
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Create data driven story with Power BI reports"
 
-secured: "iGomTMzgnrESreUba6wDFbK1i6pH6ksUnH1Vx8RkrIsZ1qO34oqB7axkkat1bqvY7BLhHWNi8ZUAFQHXZjzj8TQXFB8FxTcnYxkW24xyuLsUU496fWqTVhJOadKGdECaobh0dBEoyjRk3+OApIq4nNvBnioSGVln084jGbB1RANlAaAdvh+rmxcjPtC8hhYvlXvu8XflQqknu/LPnN1vKglNu6SAhbE4aa5E/5PzZrrMXX1+o1Ydd6BfqIiEOJlxtC3w9yvwOs6b3aEnEhfyoEcfG7G6cnjseEy/RPP5MiuaV79F6ZdzTZ3NsPTGfilXL+jqezt3n2NI9L9cD4KvmfyUhW7y2QiJ5Zdf2cjzk2UaMEK9n71UJHGnKYB2THrkKE7RC4uf+5mHPM+HDULDQg==;VTz4hZi9fvNmnN7VsJvZdg=="
+secured: "Hhyklm3W0jCZ+Tw43LppDT55fVhIdSY5gO48W+pwlya7yBIVIPlDADwuvirM0uHQGa8e7nt25EMTKjRW5wyIXjUd6xf4oM7Muajo1QQp5fT/cZpsTkXoPGbtod4xbkmUb8CJxUuDhXN97t5KTYwyXBTe19cZuYiirtRg4H9FpODFW0F1AKaz75n6bxoP+5XhGEH991g+pOw3JSt4eeLSg4zR8LZdN5SuqF85AUIyeumk/9NLFFWy0N3t2gQBp/ehNHyI0GVTC9P77sehjhYFZYsCWOKjbymZCps4cDDcZtAKgOxXS5otrQqnh/m2UXznqcoGwL4mzbyLtqekS7gsigJ9yCO5qw36T7sfjE7iYRjxIazuIOE2+9eNqDKUREe42ZAzaYAkki9QK1dl+P4Eyw==;sOC1Bt0WGktNHHarQord8w=="
 ---
 

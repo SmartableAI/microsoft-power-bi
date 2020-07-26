@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT60M
 ratings:
-  count: 65
-  average: 4.8
-heat: 55
+  count: 66
+  average: 4.742424
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Create paginated reports  "
 
-secured: "WojYMsHPy2nO+qfoNrVUJcIopdYIlpoZwcR3lZOcqRE7nBLdsW68pALgSzyZM4GuSMGfwMz4EqJ1w45JbQUaz98B24obSkaOlvgvILTdntS5s6ybJLMebFS5JZ+Bv3zIg/t96aA1lIs4HJh0uvf0FVMVSzyVrjOEE0u7BuM4RkBKs51NqVBVj6hBJWuy/Jsu0uVg8RahNUan9cdLFyECQ7zKuF8z49xgIOx0he6vmn8cHKnVCf9ZxpNluzf+A/911/1v5ciLp9VDmgTyBgfiN7R9SZR2ilEq8U1gZnOEfj1W2KN/My95fJrsCcM0MFha4Yzh0Lv8kU5wgiN/Rr01MSwLYNTwptFF+5lRgAhbYorOpzNq0UeJjj535MGY69ezMl+XS49XSYNZb8vG3IZZrQ==;FQFpo5adtndRqU9tDPl4NQ=="
+secured: "EdMpBAiTv5DDuTFzCk4mW02b7ElFuO9UB+ZEOi+6W77KF3omknMnE/FuBH6oPT0F1G2knrwxEASgq1YYmpCgKNLwe3LJctdlLC1SIc0S3tmcBJVg/e9F1FVE6tRxCt3NFZnqlmRPD2cs+JYCY9mgMNMgs6oERG+GTv7PBcuFURGh9k8MptHeSFN8OiKZYNFcrTDQQmguwXyxIQJucvixMukDsL21Oz4U87OcU+d+EZpWx5pFW3dHlKI76TkcIEJkgFCeSi9ClxMB80PXNVtJCHn+ULLdxPxhK8xoXYMTVesKwldrq8lnVoQH+FzX/3auvO6aWP11kZd8oeUYfR38iK0s5svYZIIrv83sOdKEl+ellJM3VyGBjYD3YIbPJkxZpW4U/Nb66Dj0DmPUn2xBTA==;IZyU4haFwHMpX4HZz3wK+g=="
 ---
 
