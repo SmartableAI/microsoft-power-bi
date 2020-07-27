@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT1H1M
 ratings:
-  count: 62
-  average: 4.596774
+  count: 63
+  average: 4.5873017
 heat: 53
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Work with AI visuals"
 
-secured: "PyxKmuDfAcU5Pp/iB7usddX6wDV6oqSTktXOECGfBXrvEwuju9Zfm3i5TneJIhze7cFcI65Hfx3NtxVhtwe7LJxevjEVjm1LPZ4h0R7bqCO7faapfELR0FqKj65YYFP5uhfLs5hTFfIZagFV2uoqBrcuiE5hhbv5nAtQuAB2wtRyv9/iqc+9mYRfUrT3h3qp7QY5QQ3GMO7fThWO5iBwkvgqc+hhX0vxo6XNuSRebgle8OFbgxdxn4VTlo8tO0qSPLyJnK1Xu0Q5X+yKl3fv71Soq00hnejvbCIP+0eXPv06Rz+68d6SRAp+PlQ5F7d2695XhS8eu3kZ1raLBQ/U8JxtMU7SezTcBLWXp+ia5UpYnpK8nvL5e3u/7eYCRI9vpgKbtpErNbCe/tSHR/7xyw==;sNYbA8CSEcgG3mLsbXmLWw=="
+secured: "z/IczSpxeh/AqvF0rpGCvcQU6UJab2JXOuuHpztU7SR0lEzU920Qhj2Oxpg38vv6D3kL4IzaTs6IsGNwllZrBWPifkzR2tR5Zai0YXPj2kN2FkzheYvm0qa7leTpcppEzD1hEW14T0aez4tU9HsEZmMqUxgm7Pjrcr6iwWY5LdQoQ8jf+PBTijWqLfWhQOBtAoaUrhquo6i9tg3FtektFuHZMH8wHLkRGQCoR533i11frMQt2rluV9koRA4F8Mm/twTNbhPB3KqcPUGNnK//UkBS7tWUXDDbf/7cLVcpCi8CZW2P79sthPetDOOMWi6rHunJDEEIuf5bNGnsxsya59tKAf0v7xFLLSoM9HpPBsrndsklPfGm1EfciNZIRrAGRsAqrpkGXIoMnDBjc9HsWg==;B8jJ4g+DKiTR1twVuqkWMw=="
 ---
 
