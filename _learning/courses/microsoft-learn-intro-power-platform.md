@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT35M
 ratings:
-  count: 3586
-  average: 4.7473507
+  count: 3587
+  average: 4.7474213
 heat: 50
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Power Platform - Introduction, business value, and demos"
 
-secured: "ORK6vZ000wYhutqmk8dvSITUp4XvjXlRAAhgREjO0Kt2agA0195vsXjVNb0/UtcUFIrZuSm8uRZV6uhFy1+0PdKgBEITvBmcRD5bAL0e4AQgAE4XE5dJ4TPBGT1GmlVjLNHXuVcw2Q6dokuME53dk295f+xmr1gDobMVPOqxne7TaiFtGb+RHAzB6H6TzY4Ur99J9F4caXQ/EKXKfty2Dibs2U+ryadW2b8bB31rfrrRJbHkG+H2xgir+OU5B3hra/g9g6enTa8wZSrDLF8NQ39gzwQUMgobIGNoLlEWVQhVADRiCTwffOPlUqdUs4jPOiX59z5mLZOv4DATUWtefwvw4afy1D+A4CvT7tzh68pTIZhErVPrBF+la91VeoQzbrEK1i+EhcbFTZLliT6uNw==;Q6WHy/kQ9v2Wn/UPHHrFIg=="
+secured: "sZ1tCOkGTnCciuLMMfP5vEzr4WxTEYQx0tz70kFr2QOnD67eBfOQbv/1hMEThZZdctXN2c7LheL6WJvTt3+EEv4G3DtK1CHqt/LSaOdrCm7Sxy4v8TCsqUsvHAghgeREl5j7n6YDyWqQw4sCgiAWCJTingp5EioSMYH59liwpST2CTIc8IK2inaoSQMZ0OTt4HDl5roxf2+R90j1jY194N+PW4JyxXX5gSa0fE+YSG/YlnlZNCTyUGOWWNBfIc2EdkmQauqY9TGFjiXk6o+kG+plyEln1J+q7t1JQgL2yoFEaQXwsqcVqHWP91osgk6qo076neQNVTZTJriWqoYtSzij/QeVnfM72GNmTOy6iASloW16ZgmpToog39DnW/d/LS90HEjqS4+o2/5qekONyw==;0FDpYmx/v457QrF6UhCotg=="
 ---
 
