@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT13M43S
 publishedDateTime: 2017-03-01T00:37:16Z
-heat: 57
+heat: 64
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XSAHwE21Buk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Embed a dashboard from Power BI into your application"
 
-secured: "C8owz+pJTgdfxw2zC3ElDLaHYbcYJlaBMFK0c43v5TmVDxreqKDO2gXiJ4vwhclW2PioF53+gFo8AjGqoznx7PWupOA5RsVDA/GbqUajb6uN9nTn7SagM8JXDRanCpr2HRqUcFNfBkpMuyfpTSzeg9oj0z2xXswKudZOSFJlcOBXTH3OWTeA1We2W1aIp0LdREw1m5RRpBLnUelFvud47QcmlPhH/Y7E67L62qMcAQgMvk3i+h4GJ2vPJnp/zEIhGZKAcYoAzzHLDxSjYmM77Y4Qaf3YXIZPnr+aDt+4fNkMte7cxchzROpAjti1EH5FZSLGkwYzeoXIYQ1MXq1bBqa1eeqrLhdLgFWOYPdOCqdocV2krRKs+4Bs5eQJ6o11mPovSifXmpaPj0Y8KPo3ZQ==;+T07Pc89H7X9q42iVGdLag=="
+secured: "R723orcQkq9QK9Y/CidayTaRiAFZ3LlYS1sD+KDKP44JhSDXDGK/m4pnT3rPxgqm9kIKytQxyckZ7b+fe6nzbMxspbKV4+1anPPo4CMZHIov3sI7kZ0nstA/f7gmknP/02yaFnHWVlpfUGGP8nZaJmyNHwFIKD6QSN5uqD4Oorqryu9WWapYNjXO8KCpMdqRbAmTMAjnyOKq7CefNF4ixxU4AeKnvyZxuSVKFh8h7dmHMf3b2JNr0v23L7x+GSIHntyVHNUBvLhW9Sn20ImXOptTHuCymCTB81Nyt0G2mO9Va2QjBBf+Y2QFMAcqywEW+NxthxELvfpYN3oibAZceH7K1X5bAUimv8S9mWx7eS3tFMxa2jb/Hh9x+tAg3RslLS3sYlMbQOQj9pR6t4NQ0g==;VpULfxFkkRA9cD51Ld1yoQ=="
 ---
 

@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Create reports in the browser for Power BI Embedded and other updates"
 
-secured: "RGvcdwujxBe3wRUZCu2Arvm+dZ6F+0tnC0jxuYcTXa/M/YO0VvMTnRvgJpx5ya8Rq5BpfTnLyc+ZtM12OtJheBugMTzMMJzuIU5+quLcpGqtj99MT3pkk+WFf79OonTugAe77zG6xNierVFHf2mcxpIa9Px5YlW5hxEQKnZgl8qvd3zZlTpLRzVBOuhEZ2HPlq3/j/U8gBvtkAmwF+jaMt9xVufs6rm+Ieuhlc47aswoA4b3cTg/JAsVmJwQ6IaXr6pMXPS2zLU3cfGv1dWQaqREGon4I9QMTixgQRImH6oOyJYQId71rx32sJcOFMQkwirqV3ouZP6fhbIdst60bgKyA/+WGyH9P3Kn0p3QXlmaTNeJHgWdioMuv2QI8Bvv7saHiHFc4trvAwK/C3sxxQ==;s9Ezfee3Es+Q4buRPqqSDg=="
+secured: "mnVnsFd3+i/cCChQ3HJqn7eagHi2/1/xRgW8upeGaaiUlzVFMw/D8r4K6N8RWQaNPkzlp0r49XfLySuZK8bw0mpl3oGUTVfu4JzMBjfkTYMGI3EAs3WHyl5x0oDTaRji7IyAqDMutSIR5GYe+/70+JtsxtrdvS10NJXYbU+XOZ3I4j6oyuzwuglDq3ZvxQlAWygUFHooWbFeyLDbw4VEsGxC6EB5GDpm5B2+GkiZ9H0JstokES7fI9Y51tpSR3M3TO8nSYkLQpz+OFZcUVuvCxzU+iszT8cBluoSVyatrAPmR4Y6bmpMv4erbdwqy2aahMT/+liq/7outPIJtqKwrJbeqlacVUdfr0k3NttyPAm7d8Qsvv8c0iAFVuJBqyf/Rhwt+WQNQH9q7bMSH9x8tA==;7KWpS5JW2s9BKmeHx29WMg=="
 ---
 
