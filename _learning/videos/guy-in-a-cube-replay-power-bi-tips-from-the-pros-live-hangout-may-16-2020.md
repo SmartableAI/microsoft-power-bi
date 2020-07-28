@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT1H10M38S
 publishedDateTime: 2020-05-16T15:40:05Z
-heat: 51
+heat: 50
 removed: true
 published: false
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "lcZJHgpIPZkb36sOBsDvK/0SPFY6V+5kLMyClmYr4udocyGbR8NVyXrMVynR4BVDqL93CTbbXFnAInMtcAu5rgwDocD4cLtwALNb0qqT88WYaGe6RBIaxz20jJqpP0jD/yZ2w0MZeQb9GwPgITAbJsqQfbao08DfxUqCvsZSbEIhRjRHFjjPIm5ZUehSXnsdYS939ECXh2mikrk6jgzN+DVpo0+nR4qREq0SC6m/O+IeDDQk6Htyl5ADLZZLecQ71UEDtRqucreX7wmUaNLQxTIIPRN9bysx/7ELsIvFa2dkpG2pluGjKbEcKsRe40Ful3D5xmTHmu7qt2rYN/aCLfBjOO6K67DwSMCL7HhVG+q3ax8fIgdeeOqAKSZ+7RHoKjBZNcDJOFoNJ0lT8OTbsA==;hVS2gV+vdsgcjnqwM/K6OA=="
+secured: "5VL3IbyMdp9lURfMcowTaxFXds353MRqePgb204vJQjcva4rtS0wnAHaE/J0/Ao1Bm5u66pBzEO/2EaxQO857RKDXk6KwRA8oYOWGl/VCzo/bBb5XqmW/a/QL4cC1lfJLHeelxNmPUSPJPa5PwgzbsMuvilBSQGkBOgCLBwt2rQ3QgetCsRBlfYbkR8hRA/7VTs5dkghtJkx1LdIHDHhcr878ncK6vwJNJiOHzsO91kaRqTcFAm6QNojpNdUHp1sXaNngNqfQo8BomeRpaHrnsvqNvYg+zA/rYKhSVGgY5GW1VRTChk8CkTX3vNBAFcLJF3fjUuCyqAd7ufZeLFHGmk8oETkysIMqU+RjsiCj7eeqNS+5qV103uIKd84vHtU8pnSpqsGjdrN6l0lv80oCw==;F59p/S40D3RCTOWqrdfP6A=="
 ---
 
