@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT1H6M43S
 publishedDateTime: 2020-07-23T22:39:38Z
-heat: 107
+heat: 104
 removed: true
 published: false
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "opdeguDcmp+e7AniXFUkxQc0em80kV6avMZnDifNpn42gIPMuLKGqYYdNXV3BfU9OrxcBqArXZ6srp9ppNpdKEvAHEdVw8lqbpymRRxr7CIH+5Mp5Tf1nb5VII/DAgIxnT6DO35uEvDKoTAcs4xAzVQRC3/zCiUlWtmLxaClFmJnSj93y+qnxZIeJbooyTFlDbpaYO0UeJ1H6GWyMbYAMnBgbcns1/atXp5xVGTunLmy8/uBZFyvKmEJLquOQxXrDutYEXV6vQgYAgLynnFTI9mQeQHZnTKVjYa9eEQ2bYqeZg1Fy3hgntgZeeGfEvcKp1IFU6Iq/R4Xdx4/cZoAk+xtFX9B6xdkSDoliE2zoexjbPW/ACkQhXHd73SIot1iP56N31qW9HEoMspPDJpxtw==;iDN8RkheUXaafFhoXvOXpQ=="
+secured: "L0dD862M1MvvFfT7OGWBYn/JsNwzymUXZLyf502tTzc9xrIWyGxX24UdxahfTsHyQ3WWb1wH33ZtN5k1N283IwTs9lfIaiK+IMsqbZdPyJPsxy2702fhdn0YNJ3vIbv19NW30qvSAOIcEQ7/hB8KL+oIF8Ej/cTKVugT6nHH8zCr+hCGdb+Nu4nNPEMVBhiRxglanoHj2NCW216dQHTDvEYB8LRyuoerFohPK7vH6IStHPzR9PR52BX2XUHAfsAhguJbdh+W/fsYvQjwNs+WKwMzVqmM9E9yvfmk07BY3Y7jXlrrcPj0xcHj6xYkOijmAIcNdH2CdTH1x/CmxFtyMO7c8ZEdO6HLsrbaYnIdJR/quM1Wjj2sqEMgVS83UbDWIK59VlIorazRcCqPcnPK5Q==;TlDbKDvf0gDzJm46wTULgg=="
 ---
 
