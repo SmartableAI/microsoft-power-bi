@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT2H28M36S
 publishedDateTime: 2020-07-24T19:09:01Z
-heat: 105
+heat: 80
 removed: true
 published: false
 
