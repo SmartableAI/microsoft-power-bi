@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT24M
 ratings:
-  count: 1802
-  average: 4.6975584
-heat: 64
+  count: 1803
+  average: 4.6977262
+heat: 59
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "How to build a simple dashboard"
 
-secured: "KvbceDWCmR0r4ITIBPoiTMdeyfbRsZwH0Mf7B8vty2BGZyMcC7d3n3qrIusiYtI72xG8HjDgjWdkZqpHJz13WfsYTdOcUgVAxeIBlC7PgKVpofjUpqGHgR/odpYCq3oi8hv/MpVs/SVDeAfEm+JaXMvI2yC5QscWmxFTizh2chp9ox+qFPvPtXz5vJcSzTQQDtrl8DAuKBRuNgC9thLZYidNWsWe3yAvxmWyKPaq506tTwEUHSuQ91EIE5/kDh+2RkioWWLvMCCQ+mk6eY09OL5h+YIRHQy8c0TSv/xna7DYkIdVuhK4y+8uISikDvPd1BNj4JvrF2Q6v15qGJSBaKb5DQHOXzTvmwf+dc2gwpOvWXbGd+T6vNd748kxJapiajwK2g8nkLyD0+9GM75vlA==;mfAcmX6OkxY7keZot2Dmnw=="
+secured: "ag8QUJa+gcccyKngTExPnWCMiDqu2/2Z4Zrivc4lZd4qmSOHDx7PDR3o5aaaSDuwvdcrUor2PDYRouauZxBbGp7tLhBfinp3uLZE1h5oQemyugpf4pBwN2G5UqeHqLasvGRkQJ/S+2v9CblwghTHreBkIrFricGZK9VIRKGohkmXsv3w1EYaEPEwfwtRE4mOZUDzrzVpHUSfj3U38RgMxkxJUOSgYqKpMEJgwuQKv9Af4BokzGbP259U0DBzqiIpOBv/HhTBEcpjDwNaVGvmErIfv7ib9s7gE5TO8TnJDdK0eJSaUcNy8gXVzdJRwEbwucs99M5qZ1nGwEM/ViUFVVj6k0Gz4BEXD3S9qQYmFmPZXkCma9KFfaZoRGlQ5aK7JbECGQPZEd+rgoea5o3IXA==;bOn6J2etlfJ7wOlGChuL1w=="
 ---
 

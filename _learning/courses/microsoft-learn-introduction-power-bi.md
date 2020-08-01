@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT21M
 ratings:
-  count: 2510
-  average: 4.729482
-heat: 73
+  count: 2512
+  average: 4.729697
+heat: 67
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Introduction to Power BI"
 
-secured: "VAPcf88+JoxsG27O5nsBNO8x65oco1hLPet+lo58Ls8e0YCsqiSFdPyqr97Apc9jWFb5QbxuddYbyNRVgdhQdAsdKZFyuG0Qa9ALHhY2ojDYdoNkzqzhgzBiYhpMrFsgFVEZ6kDgdqCG4PcnC0UyLO1s+WxkkIJrjZrq6fnUMdln8Eg+6j9ZyNdYgW1rnPLcw/iYo3HcVj+Da0cEXspS5wKf+LUfyiTHguHJ3JIR0CdJ3jvLYdL87+mLreuQFbvKuIsRW9pfgiGXT9anEemsN6zTvNRZQx/U7PClSk8ScQ9MBoZS8KLvea++Xx63TNDFbhrRcOmQtwKJXdBUfoyFCvAyMYLfiYHyMFi9h2ehwrVK51mPKudfPOiQmzPeGIwxFcbeisGssWz989L1cWqIzw==;+PySywXAohgATgsH6D22kg=="
+secured: "Jq4EHY+WAiG8GbmN9rh94g1nBfOHsFsiVIoc26JgwFwMtTg/YUdNF/Ud/YO23BJlCO/Piotvj98fsV9yeG1tDY+dEEEeAbm25YrAXoI5NflJH6T6YIvttiHX8PjJpxLi7Te3UxDc/Eb/8hrpEI316iNaGI+8ZolLNsXhMzFFXc3dr7agP3PTBU7dX2kFSXADesR3TBj4Niro6QB4A1XG2E1LshxsFB/L4OS9xA/f9cNzV2Zj0/nO9XPn0/17I0hzxN15UMW4p5PEb0OwACdIViH7KdvycoU6j6kVDvK4bleI29iGk8tZC34zeMGk2uGGVdyPHEYVNR796KydCcWMbdEx/smbxc7Nl0RNwc9fOBdFokmmLLQ5GACNqkgnv0o8bI7osB9HNWAHLwV2bnsAYA==;6hoMMqe5XMqTu7HTzLA3GA=="
 ---
 

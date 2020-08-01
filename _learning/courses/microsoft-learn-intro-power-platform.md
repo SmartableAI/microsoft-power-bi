@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Power Platform - Introduction, business value, and demos"
 
-secured: "0nsR/+Nn+M4HCsRSUJU6bEDJvKt7bDuK6gC5xGpyh5Z/XCNqG88/a6/vzcrdH+MvlpxTAzRjztGElatd2Q37sXyy+1L3MP+Mj8e1m1X9lg+QafSY809fLvcVd7+druLUh3GSoDmrnnhw/ujGIrMLDu0dOvYsv8LzMzBC5gOXmWYy3gY4ndoXE/oVAyJ0DwklV0yG/K4ZYlKwQ5w0RCnfsTEQkNPdWfiC3rakLK6PjmRdSCNfPAOMUyvUUwvxKb0cV4SVQobeBJiRQBbewoTeOq6ZMD2kOLVrhvxGGhxiqz7rVW48ny9LfaXo63m6O+U966HNWk7N445U/nRIkmfp3FTEmnvJxECyXs7M+Ab6XESU5xLLoRlwxLOcNoKtZmoBwwgjV4mbTVKa/0YEZMOZ2A==;doSiYNlDfQL0Zq7O4Hveeg=="
+secured: "uJHQY8yW0DCPVQVYGqMHOSpFiz1O1YjDcLKqAK3qv7d8cvZ9M+tiK5+jGGQuO07nd0HyrAUOlUesL03czIicRM0cYsban3WPyjTiMlCDo3R99H7UXPtRPHc9oY+IwKZUt5sAzYeyTeuDo6zMhj6NIuXWDwMODoUGos7K9/PA5dtxiosSwJjNlhZVXtf8Wp9F8fjElbGeeaWafT+rHXIigNLowi/iCF11rMIlVIwmWW40l5khMorJUxoQnhts2hKY2iHdGlJs81Z1kQNSxw2ucg4epw3g4FSoWS0eXw2GHJ8y0aExF69zBqYW+L3g5iO+4Rb/aY2zr906vOEYIVOwef2ezRxjcyGmTusSecoJxfkQak4SXZ6KUj7Oi0zgyShPGI+Sth5+KBdps75JwNez8Q==;liqnHj83efdzZoo+rWk69A=="
 ---
 
