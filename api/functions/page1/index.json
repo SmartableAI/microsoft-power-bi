@@ -7,688 +7,919 @@
       "path": "_functions/collections/date-and-time-functions.md",
       "title": "Date and time functions",
       "excerpt": "These functions help you create calculations based on dates and time. Many of the functions in DAX are similar to the Excel date and time functions. However, DAX functions use a datetime data type, and can take values from a column as an argument.",
-      "sourceUrl": null,
-      "webUrl": null,
-      "originalUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/collections/date-and-time-functions/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/function/collections/date-and-time-functions/",
       "name": "Date and time functions",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": [
-        "calendar",
-        "calendarauto",
-        "date",
-        "datediff",
-        "datevalue",
-        "day",
-        "edate",
-        "eomonth",
-        "hour",
-        "minute",
-        "month",
-        "now",
-        "quarter",
-        "second",
-        "time",
-        "timevalue",
-        "today",
-        "weekday",
-        "weeknum",
-        "year",
-        "yearfrac"
+      "topItems": [
+        {
+          "path": "",
+          "title": "CALENDAR (<start_date>, <end_date>)",
+          "excerpt": "Returns a table with a single column named \"Date\" that contains a contiguous set of dates. The range of dates is from the specified start date to the specified end date, inclusive of those two dates.",
+          "name": "CALENDAR (<start_date>, <end_date>)",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ],
+          "heat": 50,
+          "type": "article"
+        },
+        {
+          "path": "",
+          "title": "CALENDARAUTO ([fiscal_year_end_month])",
+          "excerpt": "Returns a table with a single column named \"Date\" that contains a contiguous set of dates. The range of dates is calculated automatically based on data in the model.",
+          "name": "CALENDARAUTO ([fiscal_year_end_month])",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ],
+          "heat": 50,
+          "type": "article"
+        },
+        {
+          "path": "",
+          "title": "DATE (<year>, <month>, <day>)",
+          "excerpt": "Returns the specified date in datetime format.",
+          "name": "DATE (<year>, <month>, <day>)",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ],
+          "heat": 50,
+          "type": "article"
+        },
+        {
+          "path": "",
+          "title": "DATEDIFF (<start_date>, <end_date>, <interval>)",
+          "excerpt": "Returns the count of interval boundaries crossed between two dates.",
+          "name": "DATEDIFF (<start_date>, <end_date>, <interval>)",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ],
+          "heat": 50,
+          "type": "article"
+        }
       ],
       "heat": 220,
-      "tags": null,
-      "images": null,
       "type": "collection"
     },
     {
       "path": "_functions/collections/time-intelligence-functions.md",
       "title": "Time intelligence functions",
       "excerpt": "Data Analysis Expressions (DAX) includes time-intelligence functions that enable you to manipulate data using time periods, including days, months, quarters, and years, and then build and compare calculations over those periods.",
-      "sourceUrl": null,
-      "webUrl": null,
-      "originalUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/collections/time-intelligence-functions/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/function/collections/time-intelligence-functions/",
       "name": "Time intelligence functions",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": [
-        "closingbalancemonth",
-        "closingbalancequarter",
-        "closingbalanceyear",
-        "dateadd",
-        "datesbetween",
-        "datesinperiod",
-        "datesmtd",
-        "datesqtd",
-        "datesytd",
-        "endofmonth",
-        "endofquarter",
-        "endofyear",
-        "firstdate",
-        "firstnonblank",
-        "lastdate",
-        "lastnonblank",
-        "nextday",
-        "nextmonth",
-        "nextquarter",
-        "nextyear",
-        "openingbalancemonth",
-        "openingbalancequarter",
-        "openingbalanceyear",
-        "parallelperiod",
-        "previousday",
-        "previousmonth",
-        "previousquarter",
-        "previousyear",
-        "sameperiodlastyear",
-        "startofmonth",
-        "startofquarter",
-        "startofyear",
-        "totalmtd",
-        "totalqtd",
-        "totalytd"
+      "topItems": [
+        {
+          "path": "",
+          "title": "CLOSINGBALANCEMONTH (<expression>,<dates>[,<filter>])",
+          "excerpt": "Evaluates the expression at the last date of the month in the current context.",
+          "name": "CLOSINGBALANCEMONTH (<expression>,<dates>[,<filter>])",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ],
+          "heat": 50,
+          "type": "article"
+        },
+        {
+          "path": "",
+          "title": "CLOSINGBALANCEQUARTER (<expression>,<dates>[,<filter>])",
+          "excerpt": "Evaluates the expression at the last date of the quarter in the current context.",
+          "name": "CLOSINGBALANCEQUARTER (<expression>,<dates>[,<filter>])",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ],
+          "heat": 50,
+          "type": "article"
+        },
+        {
+          "path": "",
+          "title": "CLOSINGBALANCEYEAR (<expression>,<dates>[,<filter>][,<year_end_date>])",
+          "excerpt": "Evaluates the expression at the last date of the year in the current context.",
+          "name": "CLOSINGBALANCEYEAR (<expression>,<dates>[,<filter>][,<year_end_date>])",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ],
+          "heat": 50,
+          "type": "article"
+        },
+        {
+          "path": "",
+          "title": "DATEADD (<dates>,<number_of_intervals>,<interval>)",
+          "excerpt": "Returns a table that contains a column of dates, shifted either forward or backward in time by the specified number of intervals from the dates in the current context.",
+          "name": "DATEADD (<dates>,<number_of_intervals>,<interval>)",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ],
+          "heat": 50,
+          "type": "article"
+        }
       ],
       "heat": 210,
-      "tags": null,
-      "images": null,
       "type": "collection"
     },
     {
       "path": "_functions/collections/text-functions.md",
       "title": "Text functions",
       "excerpt": "Data Analysis Expressions (DAX) includes a set of text functions based on the library of string functions in Excel, but which have been modified to work with tables and columns in tabular models. This section describes text functions available in the DAX language.",
-      "sourceUrl": null,
-      "webUrl": null,
-      "originalUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/collections/text-functions/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/function/collections/text-functions/",
       "name": "Text functions",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": [
-        "combinevalues",
-        "concatenate",
-        "concatenatex",
-        "exact",
-        "find",
-        "fixed",
-        "format",
-        "left",
-        "len",
-        "lower",
-        "mid",
-        "replace",
-        "rept",
-        "right",
-        "search",
-        "substitute",
-        "trim",
-        "unichar",
-        "unicode",
-        "upper",
-        "value"
+      "topItems": [
+        {
+          "path": "",
+          "title": "COMBINEVALUES (<delimiter>, <expression>, <expression>[, <expression>]…)",
+          "excerpt": "Joins two or more text strings into one text string. The primary purpose of this function is to support multi-column relationships in DirectQuery models. See Remarks for details.",
+          "name": "COMBINEVALUES (<delimiter>, <expression>, <expression>[, <expression>]…)",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ],
+          "heat": 50,
+          "type": "article"
+        },
+        {
+          "path": "",
+          "title": "CONCATENATE (<text1>, <text2>)",
+          "excerpt": "Joins two text strings into one text string.",
+          "name": "CONCATENATE (<text1>, <text2>)",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ],
+          "heat": 50,
+          "type": "article"
+        },
+        {
+          "path": "",
+          "title": "CONCATENATEX (<table>, <expression>, [delimiter])",
+          "excerpt": "Concatenates the result of an expression evaluated for each row in a table.",
+          "name": "CONCATENATEX (<table>, <expression>, [delimiter])",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ],
+          "heat": 50,
+          "type": "article"
+        },
+        {
+          "path": "",
+          "title": "EXACT (<text1>,<text2>)",
+          "excerpt": "Compares two text strings and returns TRUE if they are exactly the same, FALSE otherwise. EXACT is case-sensitive but ignores formatting differences. You can use EXACT to test text being entered into a document.",
+          "name": "EXACT (<text1>,<text2>)",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ],
+          "heat": 50,
+          "type": "article"
+        }
       ],
       "heat": 200,
-      "tags": null,
-      "images": null,
       "type": "collection"
     },
     {
       "path": "_functions/collections/filter-functions.md",
       "title": "Filter functions",
       "excerpt": "The filter and value functions in DAX are some of the most complex and powerful, and differ greatly from Excel functions. The lookup functions work by using tables and relationships, like a database. The filtering functions let you manipulate data context to create dynamic calculations.",
-      "sourceUrl": null,
-      "webUrl": null,
-      "originalUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/collections/filter-functions/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/function/collections/filter-functions/",
       "name": "Filter functions",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": [
-        "all",
-        "allcrossfiltered",
-        "allexcept",
-        "allnoblankrow",
-        "allselected",
-        "calculate",
-        "calculatetable",
-        "filter",
-        "keepfilters",
-        "lookupvalue",
-        "removefilters",
-        "selectedvalue"
+      "topItems": [
+        {
+          "path": "",
+          "title": "ALL ( [<table> | <column>[, <column>[, <column>[,…]]]] )",
+          "excerpt": "Returns all the rows in a table, or all the values in a column, ignoring any filters that might have been applied. This function is useful for clearing filters and creating calculations on all the rows in a table.",
+          "name": "ALL ( [<table> | <column>[, <column>[, <column>[,…]]]] )",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ],
+          "heat": 50,
+          "type": "article"
+        },
+        {
+          "path": "",
+          "title": "ALLCROSSFILTERED (<table>)",
+          "excerpt": "Clear all filters which are applied to a table.",
+          "name": "ALLCROSSFILTERED (<table>)",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ],
+          "heat": 50,
+          "type": "article"
+        },
+        {
+          "path": "",
+          "title": "ALLEXCEPT (<table>,<column>[,<column>[,…]])",
+          "excerpt": "Removes all context filters in the table except filters that have been applied to the specified columns.",
+          "name": "ALLEXCEPT (<table>,<column>[,<column>[,…]])",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ],
+          "heat": 50,
+          "type": "article"
+        },
+        {
+          "path": "",
+          "title": "ALLNOBLANKROW ( {<table> | <column>[, <column>[, <column>[,…]]]} )",
+          "excerpt": "From the parent table of a relationship, returns all rows but the blank row, or all distinct values of a column but the blank row, and disregards any context filters that might exist.",
+          "name": "ALLNOBLANKROW ( {<table> | <column>[, <column>[, <column>[,…]]]} )",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ],
+          "heat": 50,
+          "type": "article"
+        }
       ],
       "heat": 190,
-      "tags": null,
-      "images": null,
       "type": "collection"
     },
     {
       "path": "_functions/collections/financial-functions.md",
       "title": "Financial functions",
       "excerpt": "Financial functions in DAX are used in formulas that perform financial calculations, such as net present value and rate of return. These functions are similar to financial functions used in Microsoft Excel.",
-      "sourceUrl": null,
-      "webUrl": null,
-      "originalUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/collections/financial-functions/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/function/collections/financial-functions/",
       "name": "Financial functions",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": [
-        "accrint",
-        "accrintm",
-        "amordegrc",
-        "amorlinc",
-        "coupdaybs",
-        "coupdays",
-        "coupdaysnc",
-        "coupncd",
-        "coupnum",
-        "couppcd",
-        "cumipmt",
-        "cumprinc",
-        "db",
-        "ddb",
-        "disc",
-        "dollarde",
-        "dollarfr",
-        "duration",
-        "effect",
-        "fv",
-        "intrate",
-        "ipmt",
-        "ispmt",
-        "mduration",
-        "nominal",
-        "nper",
-        "oddfprice",
-        "oddfyield",
-        "oddlprice",
-        "oddlyield",
-        "pduration",
-        "pmt",
-        "ppmt",
-        "price",
-        "pricedisc",
-        "pricemat",
-        "pv",
-        "rate",
-        "received",
-        "rri",
-        "sln",
-        "syd",
-        "tbilleq",
-        "tbillprice",
-        "tbillyield",
-        "vdb",
-        "xirr",
-        "xnpv",
-        "yield",
-        "yielddisc",
-        "yieldmat"
+      "topItems": [
+        {
+          "path": "",
+          "title": "ACCRINT (<issue>, <first_interest>, <settlement>, <rate>, <par>, <frequency>[, <basis>[, <calc_method>]])",
+          "excerpt": "Returns the accrued interest for a security that pays periodic interest.",
+          "name": "ACCRINT (<issue>, <first_interest>, <settlement>, <rate>, <par>, <frequency>[, <basis>[, <calc_method>]])",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ],
+          "heat": 50,
+          "type": "article"
+        },
+        {
+          "path": "",
+          "title": "ACCRINTM (<issue>, <maturity>, <rate>, <par>[, <basis>])",
+          "excerpt": "Returns the accrued interest for a security that pays interest at maturity.",
+          "name": "ACCRINTM (<issue>, <maturity>, <rate>, <par>[, <basis>])",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ],
+          "heat": 50,
+          "type": "article"
+        },
+        {
+          "path": "",
+          "title": "AMORDEGRC (<cost>, <date_purchased>, <first_period>, <salvage>, <period>, <rate>[, <basis>])",
+          "excerpt": "Returns the depreciation for each accounting period. This function is provided for the French accounting system. If an asset is purchased in the middle of the accounting period, the prorated depreciation is taken into account. The function is similar to AMORLINC, except that a depreciation coefficient is applied in the calculation depending on the life of the assets.",
+          "name": "AMORDEGRC (<cost>, <date_purchased>, <first_period>, <salvage>, <period>, <rate>[, <basis>])",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ],
+          "heat": 50,
+          "type": "article"
+        },
+        {
+          "path": "",
+          "title": "AMORLINC (<cost>, <date_purchased>, <first_period>, <salvage>, <period>, <rate>[, <basis>])",
+          "excerpt": "Returns the depreciation for each accounting period. This function is provided for the French accounting system. If an asset is purchased in the middle of the accounting period, the prorated depreciation is taken into account.",
+          "name": "AMORLINC (<cost>, <date_purchased>, <first_period>, <salvage>, <period>, <rate>[, <basis>])",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ],
+          "heat": 50,
+          "type": "article"
+        }
       ],
       "heat": 180,
-      "tags": null,
-      "images": null,
       "type": "collection"
     },
     {
       "path": "_functions/collections/information-functions.md",
       "title": "Information functions",
       "excerpt": "DAX information functions look at the cell or row that is provided as an argument and tells you whether the value matches the expected type. For example, the ISERROR function returns TRUE if the value that you reference contains an error.",
-      "sourceUrl": null,
-      "webUrl": null,
-      "originalUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/collections/information-functions/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/function/collections/information-functions/",
       "name": "Information functions",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": [
-        "contains",
-        "containsrow-function",
-        "containsstring",
-        "containsstringexact",
-        "customdata",
-        "hasonefilter",
-        "hasonevalue",
-        "isblank",
-        "iscrossfiltered",
-        "isempty",
-        "iserror",
-        "iseven",
-        "isfiltered",
-        "isinscope",
-        "islogical",
-        "isnontext",
-        "isnumber",
-        "isodd",
-        "isonorafter",
-        "isselectedmeasure",
-        "istext",
-        "selectedmeasure",
-        "selectedmeasureformatstring",
-        "selectedmeasurename",
-        "username",
-        "userobjectid",
-        "userprincipalname"
+      "topItems": [
+        {
+          "path": "",
+          "title": "CONTAINS (<table>, <columnName>, <value>[, <columnName>, <value>]…)",
+          "excerpt": "Returns true if values for all referred columns exist, or are contained, in those columns; otherwise, the function returns false.",
+          "name": "CONTAINS (<table>, <columnName>, <value>[, <columnName>, <value>]…)",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ],
+          "heat": 50,
+          "type": "article"
+        },
+        {
+          "path": "",
+          "title": "CONTAINSROW (<tableExpr>, <scalarExpr>[, <scalarExpr>, …])",
+          "excerpt": "Returns TRUE if a row of values exists or contained in a table, otherwise returns FALSE.",
+          "name": "CONTAINSROW (<tableExpr>, <scalarExpr>[, <scalarExpr>, …])",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ],
+          "heat": 50,
+          "type": "article"
+        },
+        {
+          "path": "",
+          "title": "CONTAINSSTRING (<within_text>, <find_text>)",
+          "excerpt": "Returns TRUE or FALSE indicating whether one string contains another string.",
+          "name": "CONTAINSSTRING (<within_text>, <find_text>)",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ],
+          "heat": 50,
+          "type": "article"
+        },
+        {
+          "path": "",
+          "title": "CONTAINSSTRINGEXACT (<within_text>, <find_text>)",
+          "excerpt": "Returns TRUE or FALSE indicating whether one string contains another string.",
+          "name": "CONTAINSSTRINGEXACT (<within_text>, <find_text>)",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ],
+          "heat": 50,
+          "type": "article"
+        }
       ],
       "heat": 170,
-      "tags": null,
-      "images": null,
       "type": "collection"
     },
     {
       "path": "_functions/collections/logical-functions.md",
       "title": "Logical functions",
       "excerpt": "Logical functions act upon an expression to return information about the values or sets in the expression. For example, you can use the IF function to check the result of an expression and create conditional results.",
-      "sourceUrl": null,
-      "webUrl": null,
-      "originalUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/collections/logical-functions/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/function/collections/logical-functions/",
       "name": "Logical functions",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": [
-        "and",
-        "coalesce",
-        "false",
-        "if",
-        "iferror",
-        "not",
-        "or",
-        "switch",
-        "true"
+      "topItems": [
+        {
+          "path": "",
+          "title": "AND (<logical1>,<logical2>)",
+          "excerpt": "Checks whether both arguments are TRUE, and returns TRUE if both arguments are TRUE. Otherwise returns false.",
+          "name": "AND (<logical1>,<logical2>)",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ],
+          "heat": 50,
+          "type": "article"
+        },
+        {
+          "path": "",
+          "title": "COALESCE (<expression>, <expression>[, <expression>]…)",
+          "excerpt": "Returns the first expression that does not evaluate to BLANK. If all expressions evaluate to BLANK, BLANK is returned.",
+          "name": "COALESCE (<expression>, <expression>[, <expression>]…)",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ],
+          "heat": 50,
+          "type": "article"
+        },
+        {
+          "path": "",
+          "title": "FALSE ()",
+          "excerpt": "Returns the logical value FALSE.",
+          "name": "FALSE ()",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ],
+          "heat": 50,
+          "type": "article"
+        },
+        {
+          "path": "",
+          "title": "IF (<logical_test>, <value_if_true>[, <value_if_false>])",
+          "excerpt": "Checks a condition, and returns one value when it's TRUE, otherwise it returns a second value.",
+          "name": "IF (<logical_test>, <value_if_true>[, <value_if_false>])",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ],
+          "heat": 50,
+          "type": "article"
+        }
       ],
       "heat": 160,
-      "tags": null,
-      "images": null,
       "type": "collection"
     },
     {
       "path": "_functions/collections/math-and-trig-functions.md",
       "title": "Math and Trig functions",
       "excerpt": "The mathematical functions in Data Analysis Expressions (DAX) are very similar to the Excel mathematical and trigonometric functions. This section lists the mathematical functions provided by DAX.",
-      "sourceUrl": null,
-      "webUrl": null,
-      "originalUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/collections/math-and-trig-functions/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/function/collections/math-and-trig-functions/",
       "name": "Math and Trig functions",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": [
-        "abs",
-        "acos",
-        "acosh",
-        "acot",
-        "acot",
-        "asin",
-        "asinh",
-        "atan",
-        "atanh",
-        "ceiling",
-        "combin",
-        "combina",
-        "convert",
-        "cos",
-        "cosh",
-        "currency",
-        "degrees",
-        "divide",
-        "even",
-        "exp",
-        "fact",
-        "floor",
-        "gcd",
-        "int",
-        "isoceiling",
-        "lcm",
-        "ln",
-        "log",
-        "log10",
-        "mround",
-        "odd",
-        "pi",
-        "power",
-        "product",
-        "productx",
-        "quotient",
-        "radians",
-        "rand",
-        "randbetween",
-        "round",
-        "rounddown",
-        "roundup",
-        "sign",
-        "sqrt",
-        "sum",
-        "sumx",
-        "trunc"
+      "topItems": [
+        {
+          "path": "",
+          "title": "ABS (<number>)",
+          "excerpt": "Returns the absolute value of a number.",
+          "name": "ABS (<number>)",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ],
+          "heat": 50,
+          "type": "article"
+        },
+        {
+          "path": "",
+          "title": "ACOS (number)",
+          "excerpt": "Returns the arccosine, or inverse cosine, of a number. The arccosine is the angle whose cosine is number. The returned angle is given in radians in the range 0 (zero) to pi.",
+          "name": "ACOS (number)",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ],
+          "heat": 50,
+          "type": "article"
+        },
+        {
+          "path": "",
+          "title": "ACOSH (number)",
+          "excerpt": "Returns the inverse hyperbolic cosine of a number. The number must be greater than or equal to 1. The inverse hyperbolic cosine is the value whose hyperbolic cosine is number, so ACOSH(COSH(number)) equals number.",
+          "name": "ACOSH (number)",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ],
+          "heat": 50,
+          "type": "article"
+        },
+        {
+          "path": "",
+          "title": "ACOT (number)",
+          "excerpt": "Returns the principal value of the arccotangent, or inverse cotangent of a number.",
+          "name": "ACOT (number)",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ],
+          "heat": 50,
+          "type": "article"
+        }
       ],
       "heat": 150,
-      "tags": null,
-      "images": null,
       "type": "collection"
     },
     {
       "path": "_functions/collections/other-functions.md",
       "title": "Other functions",
       "excerpt": "These functions perform unique actions that cannot be defined by any of the categories.",
-      "sourceUrl": null,
-      "webUrl": null,
-      "originalUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/collections/other-functions/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/function/collections/other-functions/",
       "name": "Other functions",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": [
-        "blank",
-        "earlier",
-        "earliest",
-        "error"
+      "topItems": [
+        {
+          "path": "",
+          "title": "BLANK ()",
+          "excerpt": "Returns a blank.",
+          "name": "BLANK ()",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ],
+          "heat": 50,
+          "type": "article"
+        },
+        {
+          "path": "",
+          "title": "EARLIER (<column>, <number>)",
+          "excerpt": "Returns the current value of the specified column in an outer evaluation pass of the mentioned column.",
+          "name": "EARLIER (<column>, <number>)",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ],
+          "heat": 50,
+          "type": "article"
+        },
+        {
+          "path": "",
+          "title": "EARLIEST (<column>)",
+          "excerpt": "Returns the current value of the specified column in an outer evaluation pass of the specified column.",
+          "name": "EARLIEST (<column>)",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ],
+          "heat": 50,
+          "type": "article"
+        },
+        {
+          "path": "",
+          "title": "ERROR (<text>)",
+          "excerpt": "Raises an error with an error message.",
+          "name": "ERROR (<text>)",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ],
+          "heat": 50,
+          "type": "article"
+        }
       ],
       "heat": 140,
-      "tags": null,
-      "images": null,
       "type": "collection"
     },
     {
       "path": "_functions/collections/parent-and-child-functions.md",
       "title": "Parent and Child functions",
       "excerpt": "These functions manage data that is presented as parent/child hierarchies.",
-      "sourceUrl": null,
-      "webUrl": null,
-      "originalUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/collections/parent-and-child-functions/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/function/collections/parent-and-child-functions/",
       "name": "Parent and Child functions",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": [
-        "path",
-        "pathcontains",
-        "pathitem",
-        "pathitemreverse",
-        "pathlength"
+      "topItems": [
+        {
+          "path": "",
+          "title": "PATH (<ID_columnName>, <parent_columnName>)",
+          "excerpt": "Returns a delimited text string with the identifiers of all the parents of the current identifier, starting with the oldest and continuing until current.",
+          "name": "PATH (<ID_columnName>, <parent_columnName>)",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ],
+          "heat": 50,
+          "type": "article"
+        },
+        {
+          "path": "",
+          "title": "PATHCONTAINS (<path>, <item>)",
+          "excerpt": "Returns TRUE if the specified item exists within the specified path.",
+          "name": "PATHCONTAINS (<path>, <item>)",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ],
+          "heat": 50,
+          "type": "article"
+        },
+        {
+          "path": "",
+          "title": "PATHITEM (<path>, <position>[, <type>])",
+          "excerpt": "Returns the item at the specified position from a string resulting from evaluation of a PATH function. Positions are counted from left to right.",
+          "name": "PATHITEM (<path>, <position>[, <type>])",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ],
+          "heat": 50,
+          "type": "article"
+        },
+        {
+          "path": "",
+          "title": "PATHITEMREVERSE (<path>, <position>[, <type>])",
+          "excerpt": "Returns the item at the specified position from a string resulting from evaluation of a PATH function. Positions are counted backwards from right to left.",
+          "name": "PATHITEMREVERSE (<path>, <position>[, <type>])",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ],
+          "heat": 50,
+          "type": "article"
+        }
       ],
       "heat": 130,
-      "tags": null,
-      "images": null,
+      "type": "collection"
+    },
+    {
+      "path": "_functions/collections/relationship-functions.md",
+      "title": "Relationship functions",
+      "excerpt": "Functions in this category are for managing and utilizing relationships between tables.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/collections/relationship-functions/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/function/collections/relationship-functions/",
+      "name": "Relationship functions",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "CROSSFILTER (<columnName1>, <columnName2>, <direction>)",
+          "excerpt": "Specifies the cross-filtering direction to be used in a calculation for a relationship that exists between two columns.",
+          "name": "CROSSFILTER (<columnName1>, <columnName2>, <direction>)",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ],
+          "heat": 50,
+          "type": "article"
+        },
+        {
+          "path": "",
+          "title": "RELATED (<column>)",
+          "excerpt": "Returns a related value from another table.",
+          "name": "RELATED (<column>)",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ],
+          "heat": 50,
+          "type": "article"
+        },
+        {
+          "path": "",
+          "title": "RELATEDTABLE (<tableName>)",
+          "excerpt": "Evaluates a table expression in a context modified by the given filters.",
+          "name": "RELATEDTABLE (<tableName>)",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ],
+          "heat": 50,
+          "type": "article"
+        },
+        {
+          "path": "",
+          "title": "USERELATIONSHIP (<columnName1>,<columnName2>)",
+          "excerpt": "Specifies the relationship to be used in a specific calculation as the one that exists between columnName1 and columnName2.",
+          "name": "USERELATIONSHIP (<columnName1>,<columnName2>)",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ],
+          "heat": 50,
+          "type": "article"
+        }
+      ],
+      "heat": 130,
       "type": "collection"
     },
     {
       "path": "_functions/collections/statistical-functions.md",
       "title": "Statistical functions",
       "excerpt": "Data Analysis Expressions (DAX) provides many functions for creating aggregations such as sums, counts, and averages. These functions are very similar to aggregation functions used by Microsoft Excel. This section lists the statistical and aggregation functions provided in DAX.",
-      "sourceUrl": null,
-      "webUrl": null,
-      "originalUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/collections/statistical-functions/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/function/collections/statistical-functions/",
       "name": "Statistical functions",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": [
-        "approximatedistinctcount",
-        "average",
-        "averagea",
-        "averagex",
-        "betadist",
-        "betainv",
-        "chisqdist",
-        "chisqdistrt",
-        "chisqinv",
-        "chisqinvrt",
-        "confidencenorm",
-        "confidencet",
-        "cot",
-        "coth",
-        "count",
-        "counta",
-        "countax",
-        "countblank",
-        "countrows",
-        "countx",
-        "datatable",
-        "distinctcount",
-        "distinctcountnoblank",
-        "expondist",
-        "geomean",
-        "geomeanx",
-        "max",
-        "maxa",
-        "maxx",
-        "median",
-        "medianx",
-        "min",
-        "mina",
-        "minx",
-        "normdist",
-        "norminv",
-        "normsdist",
-        "normsinv",
-        "percentileexc",
-        "percentileinc",
-        "percentilexexc",
-        "percentilexinc",
-        "poissondist",
-        "rankeq",
-        "rankx",
-        "sample",
-        "sin",
-        "sinh",
-        "stdevp",
-        "stdevs",
-        "stdevxp",
-        "stdevxs",
-        "sqrtpi",
-        "tdist",
-        "tdist2t",
-        "tdistrt",
-        "tinv",
-        "tinv2t",
-        "tan",
-        "tanh",
-        "varp",
-        "vars",
-        "varxp",
-        "varxs"
+      "topItems": [
+        {
+          "path": "",
+          "title": "APPROXIMATEDISTINCTCOUNT (<columnName>)",
+          "excerpt": "Returns the approximate number of rows that contain distinct values in a column. This function can query large amounts of data with potentially  better performance than DISTINCTCOUNT, with slight deviation from the exact result.",
+          "name": "APPROXIMATEDISTINCTCOUNT (<columnName>)",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ],
+          "heat": 50,
+          "type": "article"
+        },
+        {
+          "path": "",
+          "title": "AVERAGE (<column>)",
+          "excerpt": "Returns the average (arithmetic mean) of all the numbers in a column.",
+          "name": "AVERAGE (<column>)",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ],
+          "heat": 50,
+          "type": "article"
+        },
+        {
+          "path": "",
+          "title": "AVERAGEA (<column>)",
+          "excerpt": "Returns the average (arithmetic mean) of the values in a column. Handles text and non-numeric values.",
+          "name": "AVERAGEA (<column>)",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ],
+          "heat": 50,
+          "type": "article"
+        },
+        {
+          "path": "",
+          "title": "AVERAGEX (<table>,<expression>)",
+          "excerpt": "Calculates the average (arithmetic mean) of a set of expressions evaluated over a table.",
+          "name": "AVERAGEX (<table>,<expression>)",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ],
+          "heat": 50,
+          "type": "article"
+        }
       ],
       "heat": 120,
-      "tags": null,
-      "images": null,
       "type": "collection"
     },
     {
       "path": "_functions/abs.md",
       "title": "ABS (<number>)",
       "excerpt": "Returns the absolute value of a number.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/abs/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/abs-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/abs-function-dax",
       "name": "ABS (<number>)",
@@ -697,32 +928,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/accrint.md",
       "title": "ACCRINT (<issue>, <first_interest>, <settlement>, <rate>, <par>, <frequency>[, <basis>[, <calc_method>]])",
       "excerpt": "Returns the accrued interest for a security that pays periodic interest.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/accrint/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/accrint-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/accrint-function-dax",
       "name": "ACCRINT (<issue>, <first_interest>, <settlement>, <rate>, <par>, <frequency>[, <basis>[, <calc_method>]])",
@@ -731,32 +955,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/accrintm.md",
       "title": "ACCRINTM (<issue>, <maturity>, <rate>, <par>[, <basis>])",
       "excerpt": "Returns the accrued interest for a security that pays interest at maturity.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/accrintm/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/accrintm-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/accrintm-function-dax",
       "name": "ACCRINTM (<issue>, <maturity>, <rate>, <par>[, <basis>])",
@@ -765,32 +982,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/acos.md",
       "title": "ACOS (number)",
       "excerpt": "Returns the arccosine, or inverse cosine, of a number. The arccosine is the angle whose cosine is number. The returned angle is given in radians in the range 0 (zero) to pi.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/acos/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/acos-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/acos-function-dax",
       "name": "ACOS (number)",
@@ -799,32 +1009,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/acosh.md",
       "title": "ACOSH (number)",
       "excerpt": "Returns the inverse hyperbolic cosine of a number. The number must be greater than or equal to 1. The inverse hyperbolic cosine is the value whose hyperbolic cosine is number, so ACOSH(COSH(number)) equals number.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/acosh/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/acosh-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/acosh-function-dax",
       "name": "ACOSH (number)",
@@ -833,32 +1036,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/acot.md",
       "title": "ACOT (number)",
       "excerpt": "Returns the principal value of the arccotangent, or inverse cotangent of a number.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/acot/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/acot-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/acot-function-dax",
       "name": "ACOT (number)",
@@ -867,32 +1063,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/addcolumns.md",
       "title": "ADDCOLUMNS (<table>, <name>, <expression>[, <name>, <expression>]…)",
       "excerpt": "Adds calculated columns to the given table or table expression.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/addcolumns/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/addcolumns-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/addcolumns-function-dax",
       "name": "ADDCOLUMNS (<table>, <name>, <expression>[, <name>, <expression>]…)",
@@ -901,32 +1090,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/addmissingitems.md",
       "title": "ADDMISSINGITEMS (<showAllColumn>[, <showAllColumn>]…, <table>, <groupingColumn>[, <groupingColumn>]…[, filterTable]…)",
       "excerpt": "Adds combinations of items from multiple columns to a table if they do not already exist. The determination of which item combinations to add is based on referencing source columns which contain all the possible values for the columns.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/addmissingitems/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/addmissingitems-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/addmissingitems-function-dax",
       "name": "ADDMISSINGITEMS (<showAllColumn>[, <showAllColumn>]…, <table>, <groupingColumn>[, <groupingColumn>]…[, filterTable]…)",
@@ -935,32 +1117,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/all.md",
       "title": "ALL ( [<table> | <column>[, <column>[, <column>[,…]]]] )",
       "excerpt": "Returns all the rows in a table, or all the values in a column, ignoring any filters that might have been applied. This function is useful for clearing filters and creating calculations on all the rows in a table.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/all/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/all-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/all-function-dax",
       "name": "ALL ( [<table> | <column>[, <column>[, <column>[,…]]]] )",
@@ -969,32 +1144,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/allcrossfiltered.md",
       "title": "ALLCROSSFILTERED (<table>)",
       "excerpt": "Clear all filters which are applied to a table.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/allcrossfiltered/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/allcrossfiltered-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/allcrossfiltered-function-dax",
       "name": "ALLCROSSFILTERED (<table>)",
@@ -1003,32 +1171,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/allexcept.md",
       "title": "ALLEXCEPT (<table>,<column>[,<column>[,…]])",
       "excerpt": "Removes all context filters in the table except filters that have been applied to the specified columns.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/allexcept/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/allexcept-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/allexcept-function-dax",
       "name": "ALLEXCEPT (<table>,<column>[,<column>[,…]])",
@@ -1037,32 +1198,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/allnoblankrow.md",
       "title": "ALLNOBLANKROW ( {<table> | <column>[, <column>[, <column>[,…]]]} )",
       "excerpt": "From the parent table of a relationship, returns all rows but the blank row, or all distinct values of a column but the blank row, and disregards any context filters that might exist.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/allnoblankrow/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/allnoblankrow-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/allnoblankrow-function-dax",
       "name": "ALLNOBLANKROW ( {<table> | <column>[, <column>[, <column>[,…]]]} )",
@@ -1071,32 +1225,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/allselected.md",
       "title": "ALLSELECTED ( [<tableName> | <columnName>[, <columnName>[, <columnName>[,…]]]] )",
       "excerpt": "Removes context filters from columns and rows in the current query, while retaining all other context filters or explicit filters.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/allselected/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/allselected-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/allselected-function-dax",
       "name": "ALLSELECTED ( [<tableName> | <columnName>[, <columnName>[, <columnName>[,…]]]] )",
@@ -1105,59 +1252,18 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
-      "type": "article"
-    },
-    {
-      "path": "_functions/amordegrc.md",
-      "title": "AMORDEGRC (<cost>, <date_purchased>, <first_period>, <salvage>, <period>, <rate>[, <basis>])",
-      "excerpt": "Returns the depreciation for each accounting period. This function is provided for the French accounting system. If an asset is purchased in the middle of the accounting period, the prorated depreciation is taken into account. The function is similar to AMORLINC, except that a depreciation coefficient is applied in the calculation depending on the life of the assets.",
-      "sourceUrl": null,
-      "webUrl": "https://docs.microsoft.com/en-us/dax/amordegrc-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/amordegrc-function-dax",
-      "name": "AMORDEGRC (<cost>, <date_purchased>, <first_period>, <salvage>, <period>, <rate>[, <basis>])",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "Items": null,
-      "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     }
   ],

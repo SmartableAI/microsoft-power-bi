@@ -4,10 +4,64 @@
   "page": 7,
   "value": [
     {
+      "path": "_functions/ipmt.md",
+      "title": "IPMT (<rate>, <per>, <nper>, <pv>[, <fv>[, <type>]])",
+      "excerpt": "Returns the interest payment for a given period for an investment based on periodic, constant payments and a constant interest rate.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/ipmt/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/ipmt-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/ipmt-function-dax",
+      "name": "IPMT (<rate>, <per>, <nper>, <pv>[, <fv>[, <type>]])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
+      "path": "_functions/isblank.md",
+      "title": "ISBLANK (<value>)",
+      "excerpt": "Checks whether a value is blank, and returns TRUE or FALSE.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/isblank/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/isblank-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/isblank-function-dax",
+      "name": "ISBLANK (<value>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
       "path": "_functions/iscrossfiltered.md",
       "title": "ISCROSSFILTERED (<columnName>)",
       "excerpt": "Returns TRUE when columnName or another column in the same or related table is being filtered.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/iscrossfiltered/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/iscrossfiltered-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/iscrossfiltered-function-dax",
       "name": "ISCROSSFILTERED (<columnName>)",
@@ -16,32 +70,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/isempty.md",
       "title": "ISEMPTY (<table_expression>)",
       "excerpt": "Checks if a table is empty.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/isempty/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/isempty-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/isempty-function-dax",
       "name": "ISEMPTY (<table_expression>)",
@@ -50,32 +97,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/iserror.md",
       "title": "ISERROR (<value>)",
       "excerpt": "Checks whether a value is an error, and returns TRUE or FALSE.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/iserror/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/iserror-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/iserror-function-dax",
       "name": "ISERROR (<value>)",
@@ -84,32 +124,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/iseven.md",
       "title": "ISEVEN (number)",
       "excerpt": "Returns TRUE if number is even, or FALSE if number is odd.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/iseven/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/iseven-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/iseven-function-dax",
       "name": "ISEVEN (number)",
@@ -118,32 +151,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/isfiltered.md",
       "title": "ISFILTERED (<columnName>)",
       "excerpt": "Returns TRUE when columnName is being filtered directly. If there is no filter on the column or if the filtering happens because a different column in the same table or in a related table is being filtered then the function returns FALSE.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/isfiltered/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/isfiltered-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/isfiltered-function-dax",
       "name": "ISFILTERED (<columnName>)",
@@ -152,32 +178,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/isinscope.md",
       "title": "ISINSCOPE (<columnName>)",
       "excerpt": "Returns true when the specified column is the level in a hierarchy of levels.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/isinscope/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/isinscope-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/isinscope-function-dax",
       "name": "ISINSCOPE (<columnName>)",
@@ -186,32 +205,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/islogical.md",
       "title": "ISLOGICAL (<value>)",
       "excerpt": "Checks whether a value is a logical value, (TRUE or FALSE), and returns TRUE or FALSE.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/islogical/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/islogical-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/islogical-function-dax",
       "name": "ISLOGICAL (<value>)",
@@ -220,32 +232,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/isnontext.md",
       "title": "ISNONTEXT (<value>)",
       "excerpt": "Checks if a value is not text (blank cells are not text), and returns TRUE or FALSE.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/isnontext/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/isnontext-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/isnontext-function-dax",
       "name": "ISNONTEXT (<value>)",
@@ -254,32 +259,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/isnumber.md",
       "title": "ISNUMBER (<value>)",
       "excerpt": "Checks whether a value is a number, and returns TRUE or FALSE.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/isnumber/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/isnumber-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/isnumber-function-dax",
       "name": "ISNUMBER (<value>)",
@@ -288,32 +286,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/isoceiling.md",
       "title": "ISO.CEILING (<number>[, <significance>])",
       "excerpt": "Rounds a number up, to the nearest integer or to the nearest multiple of significance.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/isoceiling/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/iso-ceiling-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/iso-ceiling-function-dax",
       "name": "ISO.CEILING (<number>[, <significance>])",
@@ -322,66 +313,52 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/isodd.md",
-      "title": "ISODD(number)",
+      "title": "ISODD (number)",
       "excerpt": "Returns TRUE if number is odd, or FALSE if number is even.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/isodd/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/isodd-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/isodd-function-dax",
-      "name": "ISODD(number)",
+      "name": "ISODD (number)",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/isonorafter.md",
       "title": "ISONORAFTER (<scalar_expression>, <scalar_expression>[, sort_order [, <scalar_expression>, <scalar_expression>[, sort_order]]…)",
       "excerpt": "A boolean function that emulates the behavior of a 'Start At' clause and returns true for a row that meets all of the condition parameters.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/isonorafter/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/isonorafter-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/isonorafter-function-dax",
       "name": "ISONORAFTER (<scalar_expression>, <scalar_expression>[, sort_order [, <scalar_expression>, <scalar_expression>[, sort_order]]…)",
@@ -390,32 +367,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/ispmt.md",
       "title": "ISPMT (<rate>, <per>, <nper>, <pv>)",
       "excerpt": "Calculates the interest paid (or received) for the specified period of a loan (or investment) with even principal payments.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/ispmt/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/ispmt-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/ispmt-function-dax",
       "name": "ISPMT (<rate>, <per>, <nper>, <pv>)",
@@ -424,32 +394,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/isselectedmeasure.md",
       "title": "ISSELECTEDMEASURE ( M1, M2, ... )",
       "excerpt": "Used by expressions for calculation items to determine the measure that is in context is one of those specified in a list of measures.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/isselectedmeasure/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/isselectedmeasure-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/isselectedmeasure-function-dax",
       "name": "ISSELECTEDMEASURE ( M1, M2, ... )",
@@ -458,32 +421,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/istext.md",
       "title": "ISTEXT (<value>)",
       "excerpt": "Checks if a value is text, and returns TRUE or FALSE.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/istext/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/istext-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/istext-function-dax",
       "name": "ISTEXT (<value>)",
@@ -492,32 +448,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/keepfilters.md",
       "title": "KEEPFILTERS (<expression>)",
       "excerpt": "Modifies how filters are applied while evaluating a CALCULATE or CALCULATETABLE function.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/keepfilters/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/keepfilters-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/keepfilters-function-dax",
       "name": "KEEPFILTERS (<expression>)",
@@ -526,32 +475,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/lastdate.md",
       "title": "LASTDATE (<dates>)",
       "excerpt": "Returns the last date in the current context for the specified column of dates.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/lastdate/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/lastdate-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/lastdate-function-dax",
       "name": "LASTDATE (<dates>)",
@@ -560,32 +502,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/lastnonblank.md",
       "title": "LASTNONBLANK (<column>,<expression>)",
       "excerpt": "Returns the last value in the column, column, filtered by the current context, where the expression is not blank.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/lastnonblank/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/lastnonblank-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/lastnonblank-function-dax",
       "name": "LASTNONBLANK (<column>,<expression>)",
@@ -594,32 +529,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/lcm.md",
       "title": "LCM (number1, [number2], ...)",
       "excerpt": "Returns the least common multiple of integers. The least common multiple is the smallest positive integer that is a multiple of all integer arguments number1, number2, and so on. Use LCM to add fractions with different denominators.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/lcm/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/lcm-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/lcm-function-dax",
       "name": "LCM (number1, [number2], ...)",
@@ -628,32 +556,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/left.md",
       "title": "LEFT (<text>, <num_chars>)",
       "excerpt": "Returns the specified number of characters from the start of a text string.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/left/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/left-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/left-function-dax",
       "name": "LEFT (<text>, <num_chars>)",
@@ -662,32 +583,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/len.md",
       "title": "LEN (<text>)",
       "excerpt": "Returns the number of characters in a text string.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/len/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/len-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/len-function-dax",
       "name": "LEN (<text>)",
@@ -696,32 +610,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/ln.md",
       "title": "LN (<number>)",
       "excerpt": "Returns the natural logarithm of a number. Natural logarithms are based on the constant e (2.71828182845904).",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/ln/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/ln-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/ln-function-dax",
       "name": "LN (<number>)",
@@ -730,32 +637,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/log.md",
       "title": "LOG (<number>,<base>)",
       "excerpt": "Returns the logarithm of a number to the base you specify.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/log/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/log-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/log-function-dax",
       "name": "LOG (<number>,<base>)",
@@ -764,93 +664,18 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
-      "type": "article"
-    },
-    {
-      "path": "_functions/log10.md",
-      "title": "LOG10 (<number>)",
-      "excerpt": "Returns the base-10 logarithm of a number.",
-      "sourceUrl": null,
-      "webUrl": "https://docs.microsoft.com/en-us/dax/log10-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/log10-function-dax",
-      "name": "LOG10 (<number>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "Items": null,
-      "heat": 50,
-      "tags": null,
-      "images": null,
-      "type": "article"
-    },
-    {
-      "path": "_functions/lookupvalue.md",
-      "title": "LOOKUPVALUE (<result_columnName>,<search_columnName>,<search_value>[, <search2_columnName>, <search2_value>]…[, <alternateResult>])",
-      "excerpt": "Returns the value for the row that meets all criteria specified by search conditions. The function can apply one or more search conditions.",
-      "sourceUrl": null,
-      "webUrl": "https://docs.microsoft.com/en-us/dax/lookupvalue-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/lookupvalue-function-dax",
-      "name": "LOOKUPVALUE (<result_columnName>,<search_columnName>,<search_value>[, <search2_columnName>, <search2_value>]…[, <alternateResult>])",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "Items": null,
-      "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     }
   ],

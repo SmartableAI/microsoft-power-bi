@@ -4,10 +4,64 @@
   "page": 10,
   "value": [
     {
+      "path": "_functions/pi.md",
+      "title": "PI ()",
+      "excerpt": "Returns the value of Pi, 3.14159265358979, accurate to 15 digits.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/pi/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/pi-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/pi-function-dax",
+      "name": "PI ()",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
+      "path": "_functions/pmt.md",
+      "title": "PMT (<rate>, <nper>, <pv>[, <fv>[, <type>]])",
+      "excerpt": "Calculates the payment for a loan based on constant payments and a constant interest rate.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/pmt/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/pmt-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/pmt-function-dax",
+      "name": "PMT (<rate>, <nper>, <pv>[, <fv>[, <type>]])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
       "path": "_functions/poissondist.md",
       "title": "POISSON.DIST (x,mean,cumulative)",
       "excerpt": "Returns the Poisson distribution. A common application of the Poisson distribution is predicting the number of events over a specific time, such as the number of cars arriving at a toll plaza in 1 minute.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/poissondist/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/poisson-dist-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/poisson-dist-function-dax",
       "name": "POISSON.DIST (x,mean,cumulative)",
@@ -16,32 +70,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/power.md",
       "title": "POWER (<number>, <power>)",
       "excerpt": "Returns the result of a number raised to a power.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/power/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/power-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/power-function-dax",
       "name": "POWER (<number>, <power>)",
@@ -50,32 +97,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/ppmt.md",
       "title": "PPMT (<rate>, <per>, <nper>, <pv>[, <fv>[, <type>]])",
       "excerpt": "Returns the payment on the principal for a given period for an investment based on periodic, constant payments and a constant interest rate.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/ppmt/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/ppmt-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/ppmt-function-dax",
       "name": "PPMT (<rate>, <per>, <nper>, <pv>[, <fv>[, <type>]])",
@@ -84,32 +124,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/previousday.md",
       "title": "PREVIOUSDAY (<dates>)",
       "excerpt": "Returns a table that contains a column of all dates representing the day that is previous to the first date in the dates column, in the current context.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/previousday/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/previousday-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/previousday-function-dax",
       "name": "PREVIOUSDAY (<dates>)",
@@ -118,32 +151,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/previousmonth.md",
       "title": "PREVIOUSMONTH (<dates>)",
       "excerpt": "Returns a table that contains a column of all dates from the previous month, based on the first date in the dates column, in the current context.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/previousmonth/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/previousmonth-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/previousmonth-function-dax",
       "name": "PREVIOUSMONTH (<dates>)",
@@ -152,32 +178,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/previousquarter.md",
       "title": "PREVIOUSQUARTER (<dates>)",
       "excerpt": "Returns a table that contains a column of all dates from the previous quarter, based on the first date in the dates column, in the current context.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/previousquarter/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/previousquarter-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/previousquarter-function-dax",
       "name": "PREVIOUSQUARTER (<dates>)",
@@ -186,32 +205,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/previousyear.md",
       "title": "PREVIOUSYEAR (<dates>[,<year_end_date>])",
       "excerpt": "Returns a table that contains a column of all dates from the previous year, given the last date in the dates column, in the current context.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/previousyear/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/previousyear-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/previousyear-function-dax",
       "name": "PREVIOUSYEAR (<dates>[,<year_end_date>])",
@@ -220,32 +232,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/price.md",
       "title": "PRICE (<settlement>, <maturity>, <rate>, <yld>, <redemption>, <frequency>[, <basis>])",
       "excerpt": "Returns the price per \\$100 face value of a security that pays periodic interest.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/price/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/price-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/price-function-dax",
       "name": "PRICE (<settlement>, <maturity>, <rate>, <yld>, <redemption>, <frequency>[, <basis>])",
@@ -254,32 +259,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/pricedisc.md",
       "title": "PRICEDISC (<settlement>, <maturity>, <discount>, <redemption>[, <basis>])",
       "excerpt": "Returns the price per \\$100 face value of a discounted security.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/pricedisc/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/pricedisc-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/pricedisc-function-dax",
       "name": "PRICEDISC (<settlement>, <maturity>, <discount>, <redemption>[, <basis>])",
@@ -288,32 +286,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/pricemat.md",
       "title": "PRICEMAT (<settlement>, <maturity>, <issue>, <rate>, <yld>[, <basis>])",
       "excerpt": "Returns the price per \\$100 face value of a security that pays interest at maturity.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/pricemat/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/pricemat-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/pricemat-function-dax",
       "name": "PRICEMAT (<settlement>, <maturity>, <issue>, <rate>, <yld>[, <basis>])",
@@ -322,32 +313,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/product.md",
       "title": "PRODUCT (<column>)",
       "excerpt": "Returns the product of the numbers in a column.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/product/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/product-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/product-function-dax",
       "name": "PRODUCT (<column>)",
@@ -356,32 +340,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/productx.md",
       "title": "PRODUCTX (<table>, <expression>)",
       "excerpt": "Returns the product of an expression evaluated for each row in a table.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/productx/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/productx-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/productx-function-dax",
       "name": "PRODUCTX (<table>, <expression>)",
@@ -390,32 +367,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/pv.md",
       "title": "PV (<rate>, <nper>, <pmt>[, <fv>[, <type>]])",
       "excerpt": "Calculates the present value of a loan or an investment, based on a constant interest rate. You can use PV with either periodic, constant payments (such as a mortgage or other loan), and/or a future value that's your investment goal.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/pv/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/pv-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/pv-function-dax",
       "name": "PV (<rate>, <nper>, <pmt>[, <fv>[, <type>]])",
@@ -424,32 +394,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/quarter.md",
       "title": "QUARTER (<date>)",
       "excerpt": "Returns the quarter as a number from 1 (January – March) to 4 (October – December).",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/quarter/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/quarter-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/quarter-function-dax",
       "name": "QUARTER (<date>)",
@@ -458,32 +421,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/quotient.md",
       "title": "QUOTIENT (<numerator>, <denominator>)",
       "excerpt": "Performs division and returns only the integer portion of the division result. Use this function when you want to discard the remainder of division.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/quotient/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/quotient-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/quotient-function-dax",
       "name": "QUOTIENT (<numerator>, <denominator>)",
@@ -492,32 +448,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/radians.md",
       "title": "RADIANS (angle)",
       "excerpt": "Converts degrees to radians.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/radians/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/radians-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/radians-function-dax",
       "name": "RADIANS (angle)",
@@ -526,32 +475,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/rand.md",
       "title": "RAND ()",
       "excerpt": "Returns a random number greater than or equal to 0 and less than 1, evenly distributed. The number that is returned changes each time the cell containing this function is recalculated.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/rand/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/rand-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/rand-function-dax",
       "name": "RAND ()",
@@ -560,32 +502,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/randbetween.md",
       "title": "RANDBETWEEN (<bottom>,<top>)",
       "excerpt": "Returns a random number in the range between two numbers you specify.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/randbetween/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/randbetween-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/randbetween-function-dax",
       "name": "RANDBETWEEN (<bottom>,<top>)",
@@ -594,32 +529,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/rankeq.md",
       "title": "RANK.EQ (<value>, <columnName>[, <order>])",
       "excerpt": "Returns the ranking of a number in a list of numbers.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/rankeq/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/rank-eq-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/rank-eq-function-dax",
       "name": "RANK.EQ (<value>, <columnName>[, <order>])",
@@ -628,32 +556,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/rankx.md",
       "title": "RANKX (<table>, <expression>[, <value>[, <order>[, <ties>]]])",
       "excerpt": "Returns the ranking of a number in a list of numbers for each row in the table argument.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/rankx/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/rankx-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/rankx-function-dax",
       "name": "RANKX (<table>, <expression>[, <value>[, <order>[, <ties>]]])",
@@ -662,32 +583,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/rate.md",
       "title": "RATE (<nper>, <pmt>, <pv>[, <fv>[, <type>[, <guess>]]])",
       "excerpt": "Returns the interest rate per period of an annuity. RATE is calculated by iteration and can have zero or more solutions. If the successive results of RATE do not converge to within 0.0000001 after 20 iterations, an error is returned.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/rate/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/rate-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/rate-function-dax",
       "name": "RATE (<nper>, <pmt>, <pv>[, <fv>[, <type>[, <guess>]]])",
@@ -696,32 +610,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/received.md",
       "title": "RECEIVED (<settlement>, <maturity>, <investment>, <discount>[, <basis>])",
       "excerpt": "Returns the amount received at maturity for a fully invested security.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/received/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/received-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/received-function-dax",
       "name": "RECEIVED (<settlement>, <maturity>, <investment>, <discount>[, <basis>])",
@@ -730,32 +637,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/related.md",
       "title": "RELATED (<column>)",
       "excerpt": "Returns a related value from another table.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/related/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/related-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/related-function-dax",
       "name": "RELATED (<column>)",
@@ -764,93 +664,18 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
-      "type": "article"
-    },
-    {
-      "path": "_functions/relatedtable.md",
-      "title": "RELATEDTABLE (<tableName>)",
-      "excerpt": "Evaluates a table expression in a context modified by the given filters.",
-      "sourceUrl": null,
-      "webUrl": "https://docs.microsoft.com/en-us/dax/relatedtable-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/relatedtable-function-dax",
-      "name": "RELATEDTABLE (<tableName>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "Items": null,
-      "heat": 50,
-      "tags": null,
-      "images": null,
-      "type": "article"
-    },
-    {
-      "path": "_functions/removefilters.md",
-      "title": "REMOVEFILTERS ([<table> | <column>[, <column>[, <column>[,…]]]])",
-      "excerpt": "Clear filters from the specified tables or columns.",
-      "sourceUrl": null,
-      "webUrl": "https://docs.microsoft.com/en-us/dax/removefilters-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/removefilters-function-dax",
-      "name": "REMOVEFILTERS ([<table> | <column>[, <column>[, <column>[,…]]]])",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "Items": null,
-      "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     }
   ],

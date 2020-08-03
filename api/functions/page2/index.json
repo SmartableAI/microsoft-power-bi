@@ -4,10 +4,37 @@
   "page": 2,
   "value": [
     {
+      "path": "_functions/amordegrc.md",
+      "title": "AMORDEGRC (<cost>, <date_purchased>, <first_period>, <salvage>, <period>, <rate>[, <basis>])",
+      "excerpt": "Returns the depreciation for each accounting period. This function is provided for the French accounting system. If an asset is purchased in the middle of the accounting period, the prorated depreciation is taken into account. The function is similar to AMORLINC, except that a depreciation coefficient is applied in the calculation depending on the life of the assets.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/amordegrc/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/amordegrc-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/amordegrc-function-dax",
+      "name": "AMORDEGRC (<cost>, <date_purchased>, <first_period>, <salvage>, <period>, <rate>[, <basis>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
       "path": "_functions/amorlinc.md",
       "title": "AMORLINC (<cost>, <date_purchased>, <first_period>, <salvage>, <period>, <rate>[, <basis>])",
       "excerpt": "Returns the depreciation for each accounting period. This function is provided for the French accounting system. If an asset is purchased in the middle of the accounting period, the prorated depreciation is taken into account.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/amorlinc/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/amorlinc-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/amorlinc-function-dax",
       "name": "AMORLINC (<cost>, <date_purchased>, <first_period>, <salvage>, <period>, <rate>[, <basis>])",
@@ -16,32 +43,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/and.md",
       "title": "AND (<logical1>,<logical2>)",
       "excerpt": "Checks whether both arguments are TRUE, and returns TRUE if both arguments are TRUE. Otherwise returns false.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/and/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/and-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/and-function-dax",
       "name": "AND (<logical1>,<logical2>)",
@@ -50,32 +70,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/approximatedistinctcount.md",
       "title": "APPROXIMATEDISTINCTCOUNT (<columnName>)",
       "excerpt": "Returns the approximate number of rows that contain distinct values in a column. This function can query large amounts of data with potentially  better performance than DISTINCTCOUNT, with slight deviation from the exact result.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/approximatedistinctcount/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/approximate-distinctcount-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/approximate-distinctcount-function-dax",
       "name": "APPROXIMATEDISTINCTCOUNT (<columnName>)",
@@ -84,32 +97,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/asin.md",
       "title": "ASIN (number)",
       "excerpt": "Returns the arcsine, or inverse sine, of a number. The arcsine is the angle whose sine is number. The returned angle is given in radians in the range -pi/2 to pi/2.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/asin/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/asin-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/asin-function-dax",
       "name": "ASIN (number)",
@@ -118,32 +124,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/asinh.md",
       "title": "ASINH (number)",
       "excerpt": "Returns the inverse hyperbolic sine of a number. The inverse hyperbolic sine is the value whose hyperbolic sine is number, so ASINH(SINH(number)) equals number.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/asinh/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/asinh-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/asinh-function-dax",
       "name": "ASINH (number)",
@@ -152,32 +151,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/atan.md",
       "title": "ATAN (number)",
       "excerpt": "Returns the arctangent, or inverse tangent, of a number. The arctangent is the angle whose tangent is number. The returned angle is given in radians in the range -pi/2 to pi/2.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/atan/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/atan-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/atan-function-dax",
       "name": "ATAN (number)",
@@ -186,32 +178,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/atanh.md",
       "title": "ATANH (number)",
       "excerpt": "Returns the inverse hyperbolic tangent of a number. Number must be between -1 and 1 (excluding -1 and 1). The inverse hyperbolic tangent is the value whose hyperbolic tangent is number, so ATANH(TANH(number)) equals number.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/atanh/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/atanh-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/atanh-function-dax",
       "name": "ATANH (number)",
@@ -220,32 +205,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/average.md",
       "title": "AVERAGE (<column>)",
       "excerpt": "Returns the average (arithmetic mean) of all the numbers in a column.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/average/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/average-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/average-function-dax",
       "name": "AVERAGE (<column>)",
@@ -254,32 +232,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/averagea.md",
       "title": "AVERAGEA (<column>)",
       "excerpt": "Returns the average (arithmetic mean) of the values in a column. Handles text and non-numeric values.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/averagea/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/averagea-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/averagea-function-dax",
       "name": "AVERAGEA (<column>)",
@@ -288,32 +259,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/averagex.md",
       "title": "AVERAGEX (<table>,<expression>)",
       "excerpt": "Calculates the average (arithmetic mean) of a set of expressions evaluated over a table.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/averagex/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/averagex-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/averagex-function-dax",
       "name": "AVERAGEX (<table>,<expression>)",
@@ -322,32 +286,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/betadist.md",
       "title": "BETA.DIST (x,alpha,beta,cumulative,[A],[B])",
       "excerpt": "Returns the beta distribution. The beta distribution is commonly used to study variation in the percentage of something across samples, such as the fraction of the day people spend watching television.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/betadist/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/beta-dist-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/beta-dist-function-dax",
       "name": "BETA.DIST (x,alpha,beta,cumulative,[A],[B])",
@@ -356,32 +313,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/betainv.md",
       "title": "BETA.INV (probability,alpha,beta,[A],[B])",
       "excerpt": "Returns the inverse of the beta cumulative probability density function (BETA.DIST).",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/betainv/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/beta-inv-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/beta-inv-function-dax",
       "name": "BETA.INV (probability,alpha,beta,[A],[B])",
@@ -390,32 +340,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/blank.md",
       "title": "BLANK ()",
       "excerpt": "Returns a blank.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/blank/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/blank-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/blank-function-dax",
       "name": "BLANK ()",
@@ -424,32 +367,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/calculate.md",
       "title": "CALCULATE (<expression>[, <filter1> [, <filter2> [, …]]])",
       "excerpt": "Evaluates an expression in a modified filter context.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/calculate/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/calculate-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/calculate-function-dax",
       "name": "CALCULATE (<expression>[, <filter1> [, <filter2> [, …]]])",
@@ -458,32 +394,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/calculatetable.md",
       "title": "CALCULATETABLE (<expression>[, <filter1> [, <filter2> [, …]]])",
       "excerpt": "Evaluates a table expression in a modified filter context.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/calculatetable/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/calculatetable-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/calculatetable-function-dax",
       "name": "CALCULATETABLE (<expression>[, <filter1> [, <filter2> [, …]]])",
@@ -492,32 +421,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/calendar.md",
       "title": "CALENDAR (<start_date>, <end_date>)",
       "excerpt": "Returns a table with a single column named \"Date\" that contains a contiguous set of dates. The range of dates is from the specified start date to the specified end date, inclusive of those two dates.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/calendar/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/calendar-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/calendar-function-dax",
       "name": "CALENDAR (<start_date>, <end_date>)",
@@ -526,32 +448,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/calendarauto.md",
       "title": "CALENDARAUTO ([fiscal_year_end_month])",
       "excerpt": "Returns a table with a single column named \"Date\" that contains a contiguous set of dates. The range of dates is calculated automatically based on data in the model.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/calendarauto/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/calendarauto-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/calendarauto-function-dax",
       "name": "CALENDARAUTO ([fiscal_year_end_month])",
@@ -560,32 +475,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/ceiling.md",
       "title": "CEILING (<number>, <significance>)",
       "excerpt": "Rounds a number up, to the nearest integer or to the nearest multiple of significance.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/ceiling/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/ceiling-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/ceiling-function-dax",
       "name": "CEILING (<number>, <significance>)",
@@ -594,32 +502,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/chisqdist.md",
       "title": "CHISQ.DIST (<x>, <deg_freedom>, <cumulative>)",
       "excerpt": "Returns the chi-squared distribution.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/chisqdist/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/chisq-dist-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/chisq-dist-function-dax",
       "name": "CHISQ.DIST (<x>, <deg_freedom>, <cumulative>)",
@@ -628,32 +529,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/chisqdistrt.md",
       "title": "CHISQ.DIST.RT (<x>, <deg_freedom>)",
       "excerpt": "Returns the right-tailed probability of the chi-squared distribution.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/chisqdistrt/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/chisq-dist-rt-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/chisq-dist-rt-function-dax",
       "name": "CHISQ.DIST.RT (<x>, <deg_freedom>)",
@@ -662,32 +556,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/chisqinv.md",
       "title": "CHISQ.INV (probability,deg_freedom)",
       "excerpt": "Returns the inverse of the left-tailed probability of the chi-squared distribution.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/chisqinv/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/chisq-inv-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/chisq-inv-function-dax",
       "name": "CHISQ.INV (probability,deg_freedom)",
@@ -696,32 +583,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/chisqinvrt.md",
       "title": "CHISQ.INV.RT (probability,deg_freedom)",
       "excerpt": "Returns the inverse of the right-tailed probability of the chi-squared distribution.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/chisqinvrt/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/chisq-inv-rt-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/chisq-inv-rt-function-dax",
       "name": "CHISQ.INV.RT (probability,deg_freedom)",
@@ -730,32 +610,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/closingbalancemonth.md",
       "title": "CLOSINGBALANCEMONTH (<expression>,<dates>[,<filter>])",
       "excerpt": "Evaluates the expression at the last date of the month in the current context.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/closingbalancemonth/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/closingbalancemonth-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/closingbalancemonth-function-dax",
       "name": "CLOSINGBALANCEMONTH (<expression>,<dates>[,<filter>])",
@@ -764,32 +637,25 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     },
     {
       "path": "_functions/closingbalancequarter.md",
       "title": "CLOSINGBALANCEQUARTER (<expression>,<dates>[,<filter>])",
       "excerpt": "Evaluates the expression at the last date of the quarter in the current context.",
-      "sourceUrl": null,
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/closingbalancequarter/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/dax/closingbalancequarter-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/closingbalancequarter-function-dax",
       "name": "CLOSINGBALANCEQUARTER (<expression>,<dates>[,<filter>])",
@@ -798,59 +664,18 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
-            "title": null,
-            "attribution": null,
             "isCached": false
           }
-        ],
-        "publishers": null,
-        "authors": null
+        ]
       },
       "topics": [
         "Power BI",
         "DAX"
       ],
-      "Items": null,
       "heat": 50,
-      "tags": null,
-      "images": null,
-      "type": "article"
-    },
-    {
-      "path": "_functions/closingbalanceyear.md",
-      "title": "CLOSINGBALANCEYEAR (<expression>,<dates>[,<filter>][,<year_end_date>])",
-      "excerpt": "Evaluates the expression at the last date of the year in the current context.",
-      "sourceUrl": null,
-      "webUrl": "https://docs.microsoft.com/en-us/dax/closingbalanceyear-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/closingbalanceyear-function-dax",
-      "name": "CLOSINGBALANCEYEAR (<expression>,<dates>[,<filter>][,<year_end_date>])",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "Items": null,
-      "heat": 50,
-      "tags": null,
-      "images": null,
       "type": "article"
     }
   ],
