@@ -2,7 +2,7 @@
 name: "Table manipulation functions"
 excerpt: "These functions return a table or manipulate existing tables."
 type: collection
-heat: 
+heat: 120
 
 provider:
   name: Microsoft
