@@ -1,0 +1,280 @@
+{
+  "title": "Functions",
+  "path": "_functions",
+  "page": 14,
+  "value": [
+    {
+      "path": "_functions/weeknum.md",
+      "title": "WEEKNUM (<date>, <return_type>)",
+      "excerpt": "Returns the week number for the given date and year according to the return_type value. The week number indicates where the week falls numerically within a year.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/weeknum-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/weeknum-function-dax",
+      "name": "WEEKNUM (<date>, <return_type>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/xirr.md",
+      "title": "XIRR (<table>, <values>, <dates>, [guess])",
+      "excerpt": "Returns the internal rate of return for a schedule of cash flows that is not necessarily periodic.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/xirr-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/xirr-function-dax",
+      "name": "XIRR (<table>, <values>, <dates>, [guess])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/xnpv.md",
+      "title": "XNPV (<table>, <values>, <dates>, <rate>)",
+      "excerpt": "Returns the present value for a schedule of cash flows that is not necessarily periodic.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/xnpv-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/xnpv-function-dax",
+      "name": "XNPV (<table>, <values>, <dates>, <rate>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/year.md",
+      "title": "YEAR (<date>)",
+      "excerpt": "Returns the year of a date as a four digit integer in the range 1900-9999.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/year-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/year-function-dax",
+      "name": "YEAR (<date>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/yearfrac.md",
+      "title": "YEARFRAC (<start_date>, <end_date>, <basis>)",
+      "excerpt": "Calculates the fraction of the year represented by the number of whole days between two dates. Use the YEARFRAC worksheet function to identify the proportion of a whole year's benefits or obligations to assign to a specific term.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/yearfrac-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/yearfrac-function-dax",
+      "name": "YEARFRAC (<start_date>, <end_date>, <basis>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/yield.md",
+      "title": "YIELD (<settlement>, <maturity>, <rate>, <pr>, <redemption>, <frequency>[, <basis>])",
+      "excerpt": "Returns the yield on a security that pays periodic interest. Use YIELD to calculate bond yield.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/yield-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/yield-function-dax",
+      "name": "YIELD (<settlement>, <maturity>, <rate>, <pr>, <redemption>, <frequency>[, <basis>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/yielddisc.md",
+      "title": "YIELDDISC (<settlement>, <maturity>, <pr>, <redemption>[, <basis>])",
+      "excerpt": "Returns the annual yield for a discounted security.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/yielddisc-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/yielddisc-function-dax",
+      "name": "YIELDDISC (<settlement>, <maturity>, <pr>, <redemption>[, <basis>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/yieldmat.md",
+      "title": "YIELDMAT (<settlement>, <maturity>, <issue>, <rate>, <pr>[, <basis>])",
+      "excerpt": "Returns the annual yield of a security that pays interest at maturity.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/yieldmat-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/yieldmat-function-dax",
+      "name": "YIELDMAT (<settlement>, <maturity>, <issue>, <rate>, <pr>[, <basis>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    }
+  ],
+  "nextPage": null
+}

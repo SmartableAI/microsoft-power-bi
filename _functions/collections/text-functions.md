@@ -13,12 +13,9 @@ provider:
       height: 50
 
 items:
-  - blank
-  - code
+  - combinevalues
   - concatenate
   - concatenatex
-  - containsstring
-  - containsstringexact
   - exact
   - find
   - fixed

@@ -25,6 +25,7 @@ items:
   - ceiling
   - combin
   - combina
+  - convert
   - cos
   - cosh
   - currency

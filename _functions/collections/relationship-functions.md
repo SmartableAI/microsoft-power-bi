@@ -1,8 +1,8 @@
 ---
-name: "Other functions"
-excerpt: "These functions perform unique actions that cannot be defined by any of the categories."
+name: "Relationship functions"
+excerpt: "Functions in this category are for managing and utilizing relationships between tables."
 type: collection
-heat: 140
+heat: 130
 
 provider:
   name: Microsoft
@@ -13,10 +13,10 @@ provider:
       height: 50
 
 items:
-  - blank
-  - earlier
-  - earliest
-  - error
+  - crossfilter
+  - related
+  - relatedtable
+  - userelationship
 
 topics:
   - Power BI

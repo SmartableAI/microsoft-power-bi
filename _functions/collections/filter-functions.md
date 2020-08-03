@@ -13,7 +13,6 @@ provider:
       height: 50
 
 items:
-  - addmissingitems
   - all
   - allcrossfiltered
   - allexcept
@@ -21,24 +20,11 @@ items:
   - allselected
   - calculate
   - calculatetable
-  - crossfilter
-  - distinct-column
-  - earlier
-  - earliest
   - filter
-  - filters
-  - hasonefilter
-  - hasonevalue
-  - iscrossfiltered
-  - isfiltered
   - keepfilters
-  - related
-  - relatedtable
+  - lookupvalue
   - removefilters
   - selectedvalue
-  - substitutewithindex
-  - userelationship
-  - values
 
 topics:
   - Power BI

@@ -1,0 +1,858 @@
+{
+  "title": "Functions",
+  "path": "_functions",
+  "page": 13,
+  "value": [
+    {
+      "path": "_functions/today.md",
+      "title": "TODAY ()",
+      "excerpt": "Returns the current date.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/today-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/today-function-dax",
+      "name": "TODAY ()",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/topn.md",
+      "title": "TOPN (<n_value>, <table>, <orderBy_expression>, [<order>[, <orderBy_expression>, [<order>]]…])",
+      "excerpt": "Returns the top N rows of the specified table.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/topn-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/topn-function-dax",
+      "name": "TOPN (<n_value>, <table>, <orderBy_expression>, [<order>[, <orderBy_expression>, [<order>]]…])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/totalmtd.md",
+      "title": "TOTALMTD (<expression>,<dates>[,<filter>])",
+      "excerpt": "Evaluates the value of the expression for the month to date, in the current context.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/totalmtd-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/totalmtd-function-dax",
+      "name": "TOTALMTD (<expression>,<dates>[,<filter>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/totalqtd.md",
+      "title": "TOTALQTD (<expression>,<dates>[,<filter>])",
+      "excerpt": "Evaluates the value of the expression for the dates in the quarter to date, in the current context.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/totalqtd-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/totalqtd-function-dax",
+      "name": "TOTALQTD (<expression>,<dates>[,<filter>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/totalytd.md",
+      "title": "TOTALYTD (<expression>,<dates>[,<filter>][,<year_end_date>])",
+      "excerpt": "Evaluates the year-to-date value of the expression in the current context.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/totalytd-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/totalytd-function-dax",
+      "name": "TOTALYTD (<expression>,<dates>[,<filter>][,<year_end_date>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/treatas.md",
+      "title": "TREATAS (table_expression, <column>[, <column>[, <column>[,…]]]} )",
+      "excerpt": "Applies the result of a table expression as filters to columns from an unrelated table.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/treatas-function",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/treatas-function",
+      "name": "TREATAS (table_expression, <column>[, <column>[, <column>[,…]]]} )",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/trim.md",
+      "title": "TRIM (<text>)",
+      "excerpt": "Removes all spaces from text except for single spaces between words.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/trim-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/trim-function-dax",
+      "name": "TRIM (<text>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/true.md",
+      "title": "TRUE ()",
+      "excerpt": "Returns the logical value TRUE.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/true-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/true-function-dax",
+      "name": "TRUE ()",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/trunc.md",
+      "title": "TRUNC (<number>,<num_digits>)",
+      "excerpt": "Truncates a number to an integer by removing the decimal, or fractional, part of the number.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/trunc-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/trunc-function-dax",
+      "name": "TRUNC (<number>,<num_digits>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/unichar.md",
+      "title": "UNICHAR (number)",
+      "excerpt": "Returns the Unicode character referenced by the numeric value.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/unichar-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/unichar-function-dax",
+      "name": "UNICHAR (number)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/unicode.md",
+      "title": "UNICODE ( <Text> )",
+      "excerpt": "Returns the number (code point) corresponding to the first character of the text.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/unicode-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/unicode-function-dax",
+      "name": "UNICODE ( <Text> )",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/union.md",
+      "title": "UNION (<table_expression1>, <table_expression2> [,<table_expression>]…)",
+      "excerpt": "Creates a union (join) table from a pair of tables.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/union-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/union-function-dax",
+      "name": "UNION (<table_expression1>, <table_expression2> [,<table_expression>]…)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/upper.md",
+      "title": "UPPER  (<text>)",
+      "excerpt": "Converts a text string to all uppercase letters.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/upper-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/upper-function-dax",
+      "name": "UPPER  (<text>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/userelationship.md",
+      "title": "USERELATIONSHIP (<columnName1>,<columnName2>)",
+      "excerpt": "Specifies the relationship to be used in a specific calculation as the one that exists between columnName1 and columnName2.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/userelationship-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/userelationship-function-dax",
+      "name": "USERELATIONSHIP (<columnName1>,<columnName2>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/username.md",
+      "title": "USERNAME ()",
+      "excerpt": "Returns the domain name and username from the credentials given to the system at connection time.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/username-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/username-function-dax",
+      "name": "USERNAME ()",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/userobjectid.md",
+      "title": "USEROBJECTID ()",
+      "excerpt": "Returns the current user's Object ID from Azure AD or security identifier (SID).",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/userobjectid-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/userobjectid-function-dax",
+      "name": "USEROBJECTID ()",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/userprincipalname.md",
+      "title": "USERPRINCIPALNAME ()",
+      "excerpt": "Returns the user principal name.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/userprincipalname-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/userprincipalname-function-dax",
+      "name": "USERPRINCIPALNAME ()",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/value.md",
+      "title": "VALUE (<text>)",
+      "excerpt": "Converts a text string that represents a number to a number.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/value-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/value-function-dax",
+      "name": "VALUE (<text>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/values.md",
+      "title": "VALUES (<TableNameOrColumnName>)",
+      "excerpt": "When the input parameter is a column name, returns a one-column table that contains the distinct values from the specified column. Duplicate values are removed and only unique values are returned. A BLANK value can be added. When the input parameter is a table name, returns the rows from the specified table. Duplicate rows are preserved. A BLANK row can be added.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/values-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/values-function-dax",
+      "name": "VALUES (<TableNameOrColumnName>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/varp.md",
+      "title": "VAR.P (<columnName>)",
+      "excerpt": "Returns the variance of the entire population.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/var-p-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/var-p-function-dax",
+      "name": "VAR.P (<columnName>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/vars.md",
+      "title": "VAR.S (<columnName>)",
+      "excerpt": "Returns the variance of a sample population.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/var-s-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/var-s-function-dax",
+      "name": "VAR.S (<columnName>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/varxp.md",
+      "title": "VARX.P (<table>, <expression>)",
+      "excerpt": "Returns the variance of the entire population.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/varx-p-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/varx-p-function-dax",
+      "name": "VARX.P (<table>, <expression>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/varxs.md",
+      "title": "VARX.S (<table>, <expression>)",
+      "excerpt": "Returns the variance of a sample population.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/varx-s-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/varx-s-function-dax",
+      "name": "VARX.S (<table>, <expression>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/vdb.md",
+      "title": "VDB (<cost>, <salvage>, <life>, <start_period>, <end_period>[, <factor>[, <no_switch>]])",
+      "excerpt": "Returns the depreciation of an asset for any period you specify, including partial periods, using the double-declining balance method or some other method you specify. VDB stands for variable declining balance.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/vdb-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/vdb-function-dax",
+      "name": "VDB (<cost>, <salvage>, <life>, <start_period>, <end_period>[, <factor>[, <no_switch>]])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/weekday.md",
+      "title": "WEEKDAY (<date>, <return_type>)",
+      "excerpt": "Returns a number from 1 to 7 identifying the day of the week of a date. By default the day ranges from 1 (Sunday) to 7 (Saturday).",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/weekday-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/weekday-function-dax",
+      "name": "WEEKDAY (<date>, <return_type>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    }
+  ],
+  "nextPage": 14
+}

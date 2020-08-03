@@ -1,0 +1,858 @@
+{
+  "title": "Functions",
+  "path": "_functions",
+  "page": 6,
+  "value": [
+    {
+      "path": "_functions/filters.md",
+      "title": "FILTERS (<columnName>)",
+      "excerpt": "Returns the values that are directly applied as filters to columnName.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/filters-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/filters-function-dax",
+      "name": "FILTERS (<columnName>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/find.md",
+      "title": "FIND (<find_text>, <within_text>[, [<start_num>][, <NotFoundValue>]])",
+      "excerpt": "Returns the starting position of one text string within another text string. FIND is case-sensitive.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/find-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/find-function-dax",
+      "name": "FIND (<find_text>, <within_text>[, [<start_num>][, <NotFoundValue>]])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/firstdate.md",
+      "title": "FIRSTDATE (<dates>)",
+      "excerpt": "Returns the first date in the current context for the specified column of dates.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/firstdate-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/firstdate-function-dax",
+      "name": "FIRSTDATE (<dates>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/firstnonblank.md",
+      "title": "FIRSTNONBLANK (<column>,<expression>)",
+      "excerpt": "Returns the first value in the column, column, filtered by the current context, where the expression is not blank.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/firstnonblank-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/firstnonblank-function-dax",
+      "name": "FIRSTNONBLANK (<column>,<expression>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/fixed.md",
+      "title": "FIXED (<number>, <decimals>, <no_commas>)",
+      "excerpt": "Rounds a number to the specified number of decimals and returns the result as text. You can specify that the result be returned with or without commas.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/fixed-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/fixed-function-dax",
+      "name": "FIXED (<number>, <decimals>, <no_commas>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/floor.md",
+      "title": "FLOOR (<number>, <significance>)",
+      "excerpt": "Rounds a number down, toward zero, to the nearest multiple of significance.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/floor-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/floor-function-dax",
+      "name": "FLOOR (<number>, <significance>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/format.md",
+      "title": "FORMAT (<value>, <format_string>)",
+      "excerpt": "Converts a value to text according to the specified format.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/format-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/format-function-dax",
+      "name": "FORMAT (<value>, <format_string>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/fv.md",
+      "title": "FV (<rate>, <nper>, <pmt>[, <pv>[, <type>]])",
+      "excerpt": "Calculates the future value of an investment based on a constant interest rate. You can use FV with either periodic, constant payments, and/or a single lump sum payment.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/fv-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/fv-function-dax",
+      "name": "FV (<rate>, <nper>, <pmt>[, <pv>[, <type>]])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/gcd.md",
+      "title": "GCD (number1, [number2], ...)",
+      "excerpt": "Returns the greatest common divisor of two or more integers. The greatest common divisor is the largest integer that divides both number1 and number2 without a remainder.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/gcd-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/gcd-function-dax",
+      "name": "GCD (number1, [number2], ...)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/generate.md",
+      "title": "GENERATE (<table1>, <table2>)",
+      "excerpt": "Returns a table with the Cartesian product between each row in table1 and the table that results from evaluating table2 in the context of the current row from table1.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/generate-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/generate-function-dax",
+      "name": "GENERATE (<table1>, <table2>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/generateall.md",
+      "title": "GENERATEALL (<table1>, <table2>)",
+      "excerpt": "Returns a table with the Cartesian product between each row in table1 and the table that results from evaluating table2 in the context of the current row from table1.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/generateall-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/generateall-function-dax",
+      "name": "GENERATEALL (<table1>, <table2>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/generateseries.md",
+      "title": "GENERATESERIES (<startValue>, <endValue>[, <incrementValue>])",
+      "excerpt": "Returns a single column table containing the values of an arithmetic series, that is, a sequence of values in which each differs from the preceding by a constant quantity. The name of the column returned is Value.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/generateseries-function",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/generateseries-function",
+      "name": "GENERATESERIES (<startValue>, <endValue>[, <incrementValue>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/geomean.md",
+      "title": "GEOMEAN (<column>)",
+      "excerpt": "Returns the geometric mean of the numbers in a column.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/geomean-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/geomean-function-dax",
+      "name": "GEOMEAN (<column>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/geomeanx.md",
+      "title": "GEOMEANX (<table>, <expression>)",
+      "excerpt": "Returns the geometric mean of an expression evaluated for each row in a table.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/geomeanx-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/geomeanx-function-dax",
+      "name": "GEOMEANX (<table>, <expression>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/groupby.md",
+      "title": "GROUPBY  (<table>, [<groupBy_columnName1>], [<name>, <expression>]… )",
+      "excerpt": "The GROUPBY function is similar to the SUMMARIZE function. However, GROUPBY does not do an implicit CALCULATE for any extension columns that it adds. GROUPBY permits a new function, CURRENTGROUP(), to be used inside aggregation functions in the extension columns that it adds. GROUPBY attempts to reuse the data that has been grouped making it highly performant.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/groupby-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/groupby-function-dax",
+      "name": "GROUPBY  (<table>, [<groupBy_columnName1>], [<name>, <expression>]… )",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/hasonefilter.md",
+      "title": "HASONEFILTER (<columnName>)",
+      "excerpt": "Returns TRUE when the number of directly filtered values on columnName is one; otherwise returns FALSE.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/hasonefilter-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/hasonefilter-function-dax",
+      "name": "HASONEFILTER (<columnName>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/hasonevalue.md",
+      "title": "HASONEVALUE (<columnName>)",
+      "excerpt": "Returns TRUE when the context for columnName has been filtered down to one distinct value only. Otherwise is FALSE.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/hasonevalue-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/hasonevalue-function-dax",
+      "name": "HASONEVALUE (<columnName>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/hour.md",
+      "title": "HOUR (<datetime>)",
+      "excerpt": "Returns the hour as a number from 0 (12:00 A.M.) to 23 (11:00 P.M.).",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/hour-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/hour-function-dax",
+      "name": "HOUR (<datetime>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/if.md",
+      "title": "IF (<logical_test>, <value_if_true>[, <value_if_false>])",
+      "excerpt": "Checks a condition, and returns one value when it's TRUE, otherwise it returns a second value.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/if-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/if-function-dax",
+      "name": "IF (<logical_test>, <value_if_true>[, <value_if_false>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/iferror.md",
+      "title": "IFERROR (value, value_if_error)",
+      "excerpt": "Evaluates an expression and returns a specified value if the expression returns an error; otherwise returns the value of the expression itself.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/iferror-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/iferror-function-dax",
+      "name": "IFERROR (value, value_if_error)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/int.md",
+      "title": "INT (<number>)",
+      "excerpt": "Rounds a number down to the nearest integer.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/int-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/int-function-dax",
+      "name": "INT (<number>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/intersect.md",
+      "title": "INTERSECT (<table_expression1>, <table_expression2>)",
+      "excerpt": "Returns the row intersection of two tables, retaining duplicates.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/intersect-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/intersect-function-dax",
+      "name": "INTERSECT (<table_expression1>, <table_expression2>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/intrate.md",
+      "title": "INTRATE (<settlement>, <maturity>, <investment>, <redemption>[, <basis>])",
+      "excerpt": "Returns the interest rate for a fully invested security.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/intrate-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/intrate-function-dax",
+      "name": "INTRATE (<settlement>, <maturity>, <investment>, <redemption>[, <basis>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/ipmt.md",
+      "title": "IPMT (<rate>, <per>, <nper>, <pv>[, <fv>[, <type>]])",
+      "excerpt": "Returns the interest payment for a given period for an investment based on periodic, constant payments and a constant interest rate.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/ipmt-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/ipmt-function-dax",
+      "name": "IPMT (<rate>, <per>, <nper>, <pv>[, <fv>[, <type>]])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    },
+    {
+      "path": "_functions/isblank.md",
+      "title": "ISBLANK (<value>)",
+      "excerpt": "Checks whether a value is blank, and returns TRUE or FALSE.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/dax/isblank-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/isblank-function-dax",
+      "name": "ISBLANK (<value>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "Items": null,
+      "heat": 50,
+      "tags": null,
+      "images": null,
+      "type": "article"
+    }
+  ],
+  "nextPage": 7
+}

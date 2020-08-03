@@ -13,7 +13,6 @@ provider:
       height: 50
 
 items:
-  - addcolumns
   - approximatedistinctcount
   - average
   - averagea
@@ -34,13 +33,10 @@ items:
   - countblank
   - countrows
   - countx
-  - crossjoin
   - datatable
   - distinctcount
   - distinctcountnoblank
   - expondist
-  - generate
-  - generateall
   - geomean
   - geomeanx
   - max
@@ -62,9 +58,7 @@ items:
   - poissondist
   - rankeq
   - rankx
-  - row-function
   - sample
-  - selectcolumns
   - sin
   - sinh
   - stdevp
@@ -72,7 +66,6 @@ items:
   - stdevxp
   - stdevxs
   - sqrtpi
-  - summarize
   - tdist
   - tdist2t
   - tdistrt
@@ -80,7 +73,6 @@ items:
   - tinv2t
   - tan
   - tanh
-  - topn
   - varp
   - vars
   - varxp

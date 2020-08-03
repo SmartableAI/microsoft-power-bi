@@ -14,17 +14,29 @@ provider:
 
 items:
   - contains
+  - containsrow
+  - containsstring
+  - containsstringexact
   - customdata
+  - hasonefilter
+  - hasonevalue
   - isblank
+  - iscrossfiltered
+  - isempty
   - iserror
   - iseven
+  - isfiltered
   - isinscope
   - islogical
   - isnontext
   - isnumber
+  - isodd
   - isonorafter
+  - isselectedmeasure
   - istext
-  - lookupvalue
+  - selectedmeasure
+  - selectedmeasureformatstring
+  - selectedmeasurename
   - username
   - userobjectid
   - userprincipalname
