@@ -3,11 +3,14 @@ category: news
 title: "August 2020 Community Challenge: Can You Solve These?"
 excerpt: "Exciting news: We are starting our first cross-community &#8216;Can You Solve These?&#8217; challenge."
 publishedDateTime: 2020-08-03T11:00:00Z
+originalUrl: "https://youtube.com/watch?v=BCNYMJKyjEo"
 webUrl: "https://powerbi.microsoft.com/en-us/blog/august-2020-community-challenge-can-you-solve-these/"
 type: article
-quality: 82
-heat: 82
+quality: 184
+heat: 184
 published: true
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BCNYMJKyjEo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
   name: Microsoft
@@ -19,6 +22,7 @@ provider:
 
 topics:
   - Power BI
+  - Power BI Desktop
 
 images:
   - url: "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png"
@@ -26,6 +30,6 @@ images:
     height: 417
     isCached: true
 
-secured: "xsmDA3JVjso3JI9BfAQc4N5QWjjf0+6WNHzLCZrOaRQ+7GKRZ6myiO291476BQJGgVEvEbKC2JxDiCtnrE7WKsv5sm2uNJvN9Uxo3hje8I7ZpcFbhgB3bdPwzC6IulrdtVY0PW8zxSw7aFjashA7eWQHdyDzZm+wYR8dgGAnEFafqRc60XllblutVTpmfa8ejY0Ng4vAJOb7u9jI9HMq+Zr7eZoCOh6GBRnpLdq6PgNRttVH5mWriyWSDsYjTp2MAhU+tKu0y9tIlyfrW6IuMJiXvktfhKCKxbwllhzcNa89HHZ6/LP9Rrl7uX34OOv0WtoMx2QhslpvlwKpdrTQlQ==;vNqnmvYgZa/ffbLx0xyDkA=="
+secured: "Y3pqFpC/xmj5RooHEpSEd9lpX8AWpMc06kmntTyNLrKV8vHvn7gOn7PPKCtAHpCVXnrDYxroTQd4qfAX+o9V7GIFfzw3F41//LyogptADBDRq+kwrRFu0DSJPciJpU07gaDjXzp/qqmNcoAeNBuTRgvk/xjLskEuNzXl5y/O+aJpLmk6nkLKORREbHCCRtbA6RwNAeUZESm92p94qGiy0e2ohs6/TAT9B5efhYPlzPyFB4DGGDONRu4J9dzVSZNEzHrukV9UiRMEJtOVpJjnRZfbJQvsHTSKS94FqKv6oKxCGjIHHbP+1iYTqGBFgV1/0fbbQislwuhLcgihfNWE8gkRUkQ5BpobPXUg3ivA1DU=;53z4NNLHdEv9zX/IuK7qSg=="
 ---
 

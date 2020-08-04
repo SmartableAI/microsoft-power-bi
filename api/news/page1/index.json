@@ -56,9 +56,9 @@
       "excerpt": "Exciting news: We are starting our first cross-community &#8216;Can You Solve These?&#8217; challenge.",
       "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-08-03-august-2020-community-challenge-can-you-solve-these/index.json",
       "webUrl": "https://powerbi.microsoft.com/en-us/blog/august-2020-community-challenge-can-you-solve-these/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 82,
+      "originalUrl": "https://youtube.com/watch?v=BCNYMJKyjEo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BCNYMJKyjEo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -96,7 +96,8 @@
         "news"
       ],
       "topics": [
-        "Power BI"
+        "Power BI",
+        "Power BI Desktop"
       ]
     },
     {
