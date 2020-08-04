@@ -8,7 +8,7 @@ length: PT2H40M
 ratings:
   count: 187
   average: 4.695187
-heat: 57
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Introduction to creating measures using DAX in Power BI"
 
-secured: "vas/VDsCE0EWXatXhWRWEQg/lIjfj9zTI9Q0v+6bMHO+5G6bYs4CUrYu7TcVRdPmk1Fm661yldVLiIUW6N0cqqhfoEyWDblEZo7gSkoxH1LTnmYW340P+mlhN2l5tTNS0zrTlH9X9tjpMqPZM/2XD1bB6HSPbT3X7wOjUNoNwS7D7mFXWfpUjnHf7yRkphA1FRtF+y4PAL/qFKda3cyHDLR9pLfS7Wv3gpYWjndBEDxyHAOij2MMAVnZHcwjOpxr5s7ih7Ur9Ne8bRl+TKijCRzFTaVL8rZstag7S5UQ2pM3cqiZuUogRwRZ4/FEia76zDBTlYB0s5oqMwfNn71O1UdHl7ctueT5XaTY05rfqh87fOCwPS+xY6seps5GniomS1Eyy7ixcVxj7u0lWGMX0g==;tnStKRuZrZNY3doVJ2RqlA=="
+secured: "ixhN6tiNb3C2Nv5ocGs6vrLH5aUXqftnmfWDEghf4kjtAQ0hPGo5iAtGwDeER1Ct5YXHohyo00Q73FVLsFZqNoe831aQkbRx6ESgMmfz6cLDxOMsWX9KxkEQIOuDy5eIiQPez3eHDfCWeDiD3BX5UMkf/0A4LYkvqWHbVvltSTjG5sE7/tMQ09L2E5VxhEVzhgTR3AS7TLTqHAC3wJcqVSjoTulwNIBRAyzCTdiMe526HnCyh8PZe1qKxZ+9zk4DWWc4OY4bTmz8UsmPrsIUT++oGthW0qw5RWQ5yMBQc9nalmwsKpS/HyWEy31eztEdjkihphDvFcExIgvbaP32brg0IoRyxuABJ2tdANpw65jMPY+GztJMNnGF1ZJgCssr/zssHG7kxXo0ttb4zhHcpw==;dmhuFN/CdEDol0lyDn5+dQ=="
 ---
 
