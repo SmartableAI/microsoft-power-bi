@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT6M44S
 publishedDateTime: 2016-06-14T15:11:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gbSuFST-Nx4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "0Vroy7pAhfOVHFHr+TXLpzyx2S9nLA5fVrYY92v4gLlJxXQHfQHjI0fqkl3nBTUON5J/mNj1Qf1RszHYMUyU4IELgXHOeWBl0FTRmJK1r0EM77XbB21pS6wfP3ZWJcyjgEDF3Mmal197OV8mA7mT3kukvW23i2liKZBSzaC1Wj0KZIhFJnhY+xwXpjkptG9YXdHcXqVgNGappkbGvhpHwmM9B1P3+47UGaxlFKSy8B0tU/0TXFQJ6TcAAi9TFWDiN05s9H0cZHYWUUmDeCiWiiBAg9zRNVaQm//rPlyD8csfkgwOmcAcLehieeBzwMBMRxsI6EVAV1ImTTTnpzViXuW1/osiSCT28Gg4MTuZpHiWEo9GoQGgvOxqvAEDzpZGzAeXu31WYBc0/lrFpbYv1w==;BgHBjy82xgtOoMRMaS9uTQ=="
+secured: "146bjFoCcNKl8QMQ+80GgzgtOjWfTq8xspntY4PbeduKsRyJcoxgnmyp8HvTgzRJlcTH8B+ofrXqjrh4wLHJaimUAS1zikbnVObhK2ofknJlvN5M9bvLjZrW1WvfsWnVbDxZRdvTGUlH2iPob0DvWv4aQqjRnk7ZaeSEKdJByLiSG8lNrzZDW9elm3m9wlYmii7vgRGKcYcQuZB21CjTd3FBhsunPzHufRJInV6Rct5m3MpNm0jWjKdA6oQFnOVHREqEF+fj0Dv3byd8wqSr+KPukQnhhXLXI2Xc/0C5Ul6YKzu2hqMsDq28l4QsQ/EfldIN1ecN6MA6eiRjtg9u+Gr5ElUMW0Mgdw3B6KtFFX+RQWidXxgVsh/YLyAHYoFpiZWClBdOW0TmgtJc6R2kOg==;wtLjy1kGX8BxylKga6MdEA=="
 ---
 
