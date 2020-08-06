@@ -8,7 +8,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-releases-open-source-power-bi-c
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-releases-open-source-power-bi-component-for-react/"
 type: article
 quality: 97
-heat: 98
+heat: 97
 published: true
 
 provider:
