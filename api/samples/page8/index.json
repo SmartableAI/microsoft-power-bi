@@ -4,6 +4,68 @@
   "page": 8,
   "value": [
     {
+      "path": "_samples/powerbi-community-business-analytics-forum-baf-sheffield-july-2017.md",
+      "title": "Business Analytics Forum #BAF Sheffield July 2017",
+      "excerpt": "Here is an analysis of user surveys who attended our Business Analytics Forum in Sheffield in July 2019 The survey data is passed through a sentiment",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-business-analytics-forum-baf-sheffield-july-2017/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-business-analytics-forum-baf-sheffield-july-2017/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Business-Analytics-Forum-BAF-Sheffield-July-2017/m-p/741003",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "S_Harrison_DTB",
+            "type": "profile",
+            "name": "S_Harrison_DTB"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjg0YTAxMWUtNTkwZS00ZjAwLWExN2EtZDcxNTU5ODQ2NDdkIiwidCI6ImU4NDg4MGYxLTU4NTctNDFkMC05NWJkLTNmMWJiMGRiMDQ1NSIsImMiOjh9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNjg0YTAxMWUtNTkwZS00ZjAwLWExN2EtZDcxNTU5ODQ2NDdkIiwidCI6ImU4NDg4MGYxLTU4NTctNDFkMC05NWJkLTNmMWJiMGRiMDQ1NSIsImMiOjh9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2768/2/BAF3%20Forum.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2019-07-15T20:36:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Education",
+        "Business",
+        "Technology"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2768/1/Screenshot%202019-07-16%20at%2011.30.22.png",
+          "width": 2840,
+          "height": 1604,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_samples/powerbi-community-calendrier-2019-des-marches-de-noel-en-alsace.md",
       "title": "Calendrier 2019 des marchés de Noël en Alsace.",
       "excerpt": "Calendrier des marchés de Noël en Alsace. Découvrez la magie de Noël dans notre belle région, l'Alsace, à travers ses différents marchés de Noël. Vin",
@@ -306,6 +368,67 @@
       ]
     },
     {
+      "path": "_samples/powerbi-community-comicgen-visual-all-comic-pics-preview.md",
+      "title": "Comicgen visual all comic pics preview",
+      "excerpt": "I got really excited about this visual and wanted to see all faces. There are two pages: DEE - comic lady DEY - comic dude Hope you find this useful.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-comicgen-visual-all-comic-pics-preview/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-comicgen-visual-all-comic-pics-preview/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Comicgen-visual-all-comic-pics-preview/m-p/1078750",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "kbachova",
+            "type": "profile",
+            "name": "kbachova"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZjkyNDAwNTctYmZhMy00ZmU4LWE0ZDMtOTkwYzIzNTE1Y2UxIiwidCI6ImJjODFhOWVhLWVjYjYtNGE3Ny1iNjg0LTUzZDFkN2FjZDQxNCJ9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiZjkyNDAwNTctYmZhMy00ZmU4LWE0ZDMtOTkwYzIzNTE1Y2UxIiwidCI6ImJjODFhOWVhLWVjYjYtNGE3Ny1iNjg0LTUzZDFkN2FjZDQxNCJ9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3907/2/Comicgen_pose_sample.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2020-05-06T18:54:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Entertainment",
+        "Social Media"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3907/1/Comicgen.png",
+          "width": 788,
+          "height": 635,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_samples/powerbi-community-comparison-of-coronavirus-covid-19-deaths-in-italy-spain-netherlands.md",
       "title": "Comparison of Coronavirus COVID-19 deaths in Italy, Spain, Netherlands",
       "excerpt": "This report is about the status of #COVID-19 in Italy, Spain and the Netherlands, with a comparison of the curves of the number of deaths. For more",
@@ -358,67 +481,6 @@
           "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3666/1/CorVir1_tn.jpg",
           "width": 100,
           "height": 100,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_samples/powerbi-community-cortana-machine-learning-competition-womens-health-risk-assessment-power-bi-companion.md",
-      "title": "Cortana Machine Learning Competition - Womens Health Risk Assessment - Power BI Companion",
-      "excerpt": "Small companion for anyone participating in the Cortana Machine Learning competition - Women's Health Risk Assessment",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-cortana-machine-learning-competition-womens-health-risk-assessment-power-bi-companion/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-cortana-machine-learning-competition-womens-health-risk-assessment-power-bi-companion/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Cortana-Machine-Learning-Competition-Womens-Health-Risk/m-p/61588",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "rquintino",
-            "type": "profile",
-            "name": "rquintino"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMTdiNzNjOTYtZDRiYS00NDRjLWE5ODAtMTdkYjVlYTI3Y2ZlIiwidCI6IjA5ZTI1MWRjLTVlODctNDhiZi1iNGQyLTcxYjAxYWRiOTg0YSIsImMiOjh9\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiMTdiNzNjOTYtZDRiYS00NDRjLWE5ODAtMTdkYjVlYTI3Y2ZlIiwidCI6IjA5ZTI1MWRjLTVlODctNDhiZi1iNGQyLTcxYjAxYWRiOTg0YSIsImMiOjh9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/246/5/Cortana%20Competition-Women&#39;s%20Health%20Risk%20Assessment.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2016-08-23T13:10:00-07:00",
-      "heat": 50,
-      "tags": [
-        "Health",
-        "Technology"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/246/4/data%20stories%20thumbnail-2.png",
-          "width": 286,
-          "height": 191,
           "isCached": true
         }
       ],
@@ -610,6 +672,66 @@
       ]
     },
     {
+      "path": "_samples/powerbi-community-covid-19-coronavirus-in-spain-with-patient-details-gender-and-age.md",
+      "title": "COVID-19 Coronavirus in Spain, with patient details Gender and Age",
+      "excerpt": "This report shows data about COVID-19 Coronavirus in Spain, with patient details Gender and Age(-group). For more details, see my blog:",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-covid-19-coronavirus-in-spain-with-patient-details-gender-and-age/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-covid-19-coronavirus-in-spain-with-patient-details-gender-and-age/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-Coronavirus-in-Spain-with-patient-details-Gender-and/m-p/996350",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "maartenree",
+            "type": "profile",
+            "name": "maartenree"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMWQxMmI0OTctZjYwMS00OGE2LTk1MzUtNDRlYmQ0ZjdjNjJjIiwidCI6ImI3OWIyMzE3LTM0ZGQtNDNlNS05MWEyLWNkNjZkM2FlMWYwYiIsImMiOjh9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiMWQxMmI0OTctZjYwMS00OGE2LTk1MzUtNDRlYmQ0ZjdjNjJjIiwidCI6ImI3OWIyMzE3LTM0ZGQtNDNlNS05MWEyLWNkNjZkM2FlMWYwYiIsImMiOjh9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3592/2/Coronavirus_Spain_Age_Gender.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2020-03-27T17:07:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Health"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3592/1/CorVirES2_tn.jpg",
+          "width": 100,
+          "height": 100,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_samples/powerbi-community-covid-19-dashboard-who-regions-comparison.md",
       "title": "COVID-19 Dashboard - WHO regions comparison",
       "excerpt": "This dashboard presents a comparison of the 6 major regions of the world, according to the World Health Organization (WHO) breakdown. The data",
@@ -661,6 +783,129 @@
           "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3778/1/CODI-19%20Dashboard.png",
           "width": 1437,
           "height": 803,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-covid-19-in-the-netherlands.md",
+      "title": "COVID-19 in the Netherlands",
+      "excerpt": "To visualize the official Coronavirus (COVID-19) numbers in the Netherlands, that RIVM (National Institute for Public Health and the Environment)",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-covid-19-in-the-netherlands/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-covid-19-in-the-netherlands/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-in-the-Netherlands/m-p/985504",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "maartenree",
+            "type": "profile",
+            "name": "maartenree"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDk1ODY4NTEtZmFlMC00YzZmLThkYzEtMGJkNWUxODdmMWFjIiwidCI6ImI3OWIyMzE3LTM0ZGQtNDNlNS05MWEyLWNkNjZkM2FlMWYwYiIsImMiOjh9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiMDk1ODY4NTEtZmFlMC00YzZmLThkYzEtMGJkNWUxODdmMWFjIiwidCI6ImI3OWIyMzE3LTM0ZGQtNDNlNS05MWEyLWNkNjZkM2FlMWYwYiIsImMiOjh9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3538/2/Coronavirus_Netherlands.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2020-03-21T16:23:00-07:00",
+      "heat": 50,
+      "tags": [
+        "COVID-19",
+        "Health"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3538/1/CorVir1_tn.jpg",
+          "width": 100,
+          "height": 100,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-covid-19-in-washington-state.md",
+      "title": "COVID-19 in Washington State",
+      "excerpt": "Dashboard showing the rapid transmission in Washington state of COVID-19 in March, 2020. Data is collected from the Washington State Department of",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-covid-19-in-washington-state/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-covid-19-in-washington-state/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-in-Washington-State/m-p/974538",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "MJGrimm",
+            "type": "profile",
+            "name": "MJGrimm"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDA0NjYzODgtMDk1Yy00M2JkLTlhYTgtMzM3NWExM2E0Mzg0IiwidCI6IjdlY2M4YWEwLTgzMGUtNGQ4Ni1hZjc4LTgzYTNkY2MyNjIzOCIsImMiOjZ9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiMDA0NjYzODgtMDk1Yy00M2JkLTlhYTgtMzM3NWExM2E0Mzg0IiwidCI6IjdlY2M4YWEwLTgzMGUtNGQ4Ni1hZjc4LTgzYTNkY2MyNjIzOCIsImMiOjZ9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3476/2/DOH%20WA%20data%20viz.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2020-03-14T07:08:00-07:00",
+      "heat": 50,
+      "tags": [
+        "COVID-19",
+        "Health",
+        "Government"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3476/1/covid-19-in-wa-state.PNG",
+          "width": 1651,
+          "height": 932,
           "isCached": true
         }
       ],
@@ -791,12 +1036,12 @@
       ]
     },
     {
-      "path": "_samples/powerbi-community-covid-19-report-germany-and-worldwide-with-different-data-sources.md",
-      "title": "#COVID-19 Report - Germany and worldwide with different data sources",
-      "excerpt": "Ever wondered how corona data differs among different data sources? Yet another (but our own) customized visualisation of corona infections in Power",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-covid-19-report-germany-and-worldwide-with-different-data-sources/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-covid-19-report-germany-and-worldwide-with-different-data-sources/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-Report-Germany-and-worldwide-with-different-data/m-p/1009298",
+      "path": "_samples/powerbi-community-covid-19-worldwide-report.md",
+      "title": "Covid 19 worldwide report",
+      "excerpt": "One month ago I started this dashboard as Covid19 was arriving to Spain. In the beggining it was a couple of sheets, but now it has grown a lot.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-covid-19-worldwide-report/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-covid-19-worldwide-report/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Covid-19-worldwide-report/m-p/1019036",
       "provider": {
         "name": "PowerBI Community",
         "domain": "powerbi.com",
@@ -811,38 +1056,37 @@
         "authors": [
           {
             "path": "",
-            "title": "svwilder",
+            "title": "aalmoguera",
             "type": "profile",
-            "name": "svwilder"
+            "name": "aalmoguera"
           }
         ]
       },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZDFhODI3YTgtYTg2MC00MDYyLTkwNmItNzYxOTFjZGNiODBkIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9\"></iframe>",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYmJjMGViZGUtZWViNi00MmZhLWJkMzYtZjYzMWMyMTQwNDljIiwidCI6ImY0NzE5ZmJmLWY3YWUtNDllMy04ZWRmLWJmOTU5YzI3ZjYxZCIsImMiOjl9\"></iframe>",
       "actions": [
         {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiZDFhODI3YTgtYTg2MC00MDYyLTkwNmItNzYxOTFjZGNiODBkIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9",
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiYmJjMGViZGUtZWViNi00MmZhLWJkMzYtZjYzMWMyMTQwNDljIiwidCI6ImY0NzE5ZmJmLWY3YWUtNDllMy04ZWRmLWJmOTU5YzI3ZjYxZCIsImMiOjl9",
           "type": "preview",
           "title": "Preview Report",
           "attribution": "PowerBI Community"
         },
         {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3686/2/COVID19-GermanyAndWorldwide.pbix",
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3732/2/CoronaVirus.pbix",
           "type": "download",
           "title": "Download PBIX",
           "attribution": "PowerBI Community"
         }
       ],
-      "publishedDateTime": "2020-04-05T17:08:00-07:00",
+      "publishedDateTime": "2020-04-09T17:03:00-07:00",
       "heat": 50,
       "tags": [
-        "COVID-19",
-        "Health"
+        "COVID-19"
       ],
       "images": [
         {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3686/1/thumbnail.png",
-          "width": 1593,
-          "height": 896,
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3732/1/CovidDashboard.png",
+          "width": 1270,
+          "height": 711,
           "isCached": true
         }
       ],
@@ -1266,247 +1510,6 @@
           "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1926/1/SalonBelleza.png",
           "width": 1135,
           "height": 751,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_samples/powerbi-community-demonstration-dashboard.md",
-      "title": "Demonstration Dashboard",
-      "excerpt": "Demonstration Dashboard eyJrIjoiYmMzMDcyM2YtMmFjNC00ZWVmLWE0NGEtOTdhNTI3ZGJiMmVmIiwidCI6IjVkOGM2MGQxLTk4YzQtNDg5Yy1iM2RhLTRkMDczYmMwYzRhMyIsImMiOjl9",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-demonstration-dashboard/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-demonstration-dashboard/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Demonstration-Dashboard/m-p/233172",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "ICS-IT",
-            "type": "profile",
-            "name": "ICS-IT"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYmMzMDcyM2YtMmFjNC00ZWVmLWE0NGEtOTdhNTI3ZGJiMmVmIiwidCI6IjVkOGM2MGQxLTk4YzQtNDg5Yy1iM2RhLTRkMDczYmMwYzRhMyIsImMiOjl9\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiYmMzMDcyM2YtMmFjNC00ZWVmLWE0NGEtOTdhNTI3ZGJiMmVmIiwidCI6IjVkOGM2MGQxLTk4YzQtNDg5Yy1iM2RhLTRkMDczYmMwYzRhMyIsImMiOjl9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1017/2/Demonstration.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2017-08-16T20:07:00-07:00",
-      "heat": 50,
-      "tags": [
-        "Business"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1017/1/icsi-it-logo-transp.png",
-          "width": 1220,
-          "height": 450,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_samples/powerbi-community-distirbution-of-coronavirus.md",
-      "title": "Distirbution of Coronavirus",
-      "excerpt": "Hello everyone! I want to share with you this report about coronavirus disaster. This report shows us recovery percentage. I glad to see that",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-distirbution-of-coronavirus/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-distirbution-of-coronavirus/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Distirbution-of-Coronavirus/m-p/956702",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "BirhanAYDS",
-            "type": "profile",
-            "name": "BirhanAYDS"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDk3ODE3YWMtMTY2Zi00YTU5LWJmOTUtNjI2MDA4YjU3MTZmIiwidCI6ImM4YmUzMzgwLWQzMmUtNGZiNC05OWY5LWU4MTVmNmVkZTM2MiIsImMiOjl9\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiMDk3ODE3YWMtMTY2Zi00YTU5LWJmOTUtNjI2MDA4YjU3MTZmIiwidCI6ImM4YmUzMzgwLWQzMmUtNGZiNC05OWY5LWU4MTVmNmVkZTM2MiIsImMiOjl9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3393/2/Coronavirus_eng.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2020-03-02T17:46:00-08:00",
-      "heat": 50,
-      "tags": [
-        "COVID-19",
-        "Health"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3393/1/Screenshot_4.png",
-          "width": 1229,
-          "height": 790,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_samples/powerbi-community-donations-accepted-by-political-partiesuk.md",
-      "title": "Donations Accepted By Political Parties(UK)",
-      "excerpt": "Anyone can give a donation or loan to a political party, individual or other organisation. There is no limit on how much someone can give if they are",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-donations-accepted-by-political-partiesuk/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-donations-accepted-by-political-partiesuk/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Donations-Accepted-By-Political-Parties-UK/m-p/814338",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "sauravhippargi",
-            "type": "profile",
-            "name": "sauravhippargi"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNWUyOGY4ZmEtNmJlYy00OGExLWFlOGMtMDFlNjdlOGZjZjAwIiwidCI6IjgxNzdmMWQzLWU2NTAtNDAxNS1iNzdhLTY4MjUxODQwMzRiNyJ9\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiNWUyOGY4ZmEtNmJlYy00OGExLWFlOGMtMDFlNjdlOGZjZjAwIiwidCI6IjgxNzdmMWQzLWU2NTAtNDAxNS1iNzdhLTY4MjUxODQwMzRiNyJ9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3055/2/Donations%20Accepted%20By%20Political%20Parties%20in%20the%20UK.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2019-10-09T16:23:00-07:00",
-      "heat": 50,
-      "tags": [
-        "Government"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3055/1/Screenshot%20(72).png",
-          "width": 710,
-          "height": 835,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_samples/powerbi-community-donations-received-by-uk-political-parties.md",
-      "title": "Donations received by UK political Parties",
-      "excerpt": "Anyone can give a donation or loan to a political party, individual or other organisation. There is no limit on how much someone can give if they are",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-donations-received-by-uk-political-parties/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-donations-received-by-uk-political-parties/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Donations-received-by-UK-political-Parties/m-p/816871",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Ananya_M",
-            "type": "profile",
-            "name": "Ananya_M"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMjY1MzM1YmMtOTljYy00Nzg0LTgzN2ItNzVkY2Y4NWRiM2FlIiwidCI6IjgxNzdmMWQzLWU2NTAtNDAxNS1iNzdhLTY4MjUxODQwMzRiNyJ9\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiMjY1MzM1YmMtOTljYy00Nzg0LTgzN2ItNzVkY2Y4NWRiM2FlIiwidCI6IjgxNzdmMWQzLWU2NTAtNDAxNS1iNzdhLTY4MjUxODQwMzRiNyJ9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3064/2/Electoral_UK.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2019-10-13T16:06:00-07:00",
-      "heat": 50,
-      "tags": [
-        "Business"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3064/1/Electoral_UK.png",
-          "width": 1206,
-          "height": 521,
           "isCached": true
         }
       ],

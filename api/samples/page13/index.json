@@ -4,12 +4,12 @@
   "page": 13,
   "value": [
     {
-      "path": "_samples/powerbi-community-two-presidencies-two-presidents-two-persons-in-2017-as-seen-on-facebook.md",
-      "title": "Two Presidencies, Two Presidents, Two Persons in 2017 (As Seen on Facebook)",
-      "excerpt": "On Friday, January 20, 2017 Donald Trump was inaugurated as the 45th President of the United States. Social media have become a key communication",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-two-presidencies-two-presidents-two-persons-in-2017-as-seen-on-facebook/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-two-presidencies-two-presidents-two-persons-in-2017-as-seen-on-facebook/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Two-Presidencies-Two-Presidents-Two-Persons-in-2017-As-Seen-on/m-p/346261",
+      "path": "_samples/powerbi-community-tracking-coronavirus-outbreak.md",
+      "title": "Tracking Coronavirus  Outbreak",
+      "excerpt": "The r eport tracks Covid 19 progression and provides summarized view of Corona Outbreak across nations with an option to drill through specific",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-tracking-coronavirus-outbreak/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-tracking-coronavirus-outbreak/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Tracking-Coronavirus-Outbreak/m-p/1093073",
       "provider": {
         "name": "PowerBI Community",
         "domain": "powerbi.com",
@@ -24,37 +24,159 @@
         "authors": [
           {
             "path": "",
-            "title": "DataChant",
+            "title": "smtiwari",
             "type": "profile",
-            "name": "DataChant"
+            "name": "smtiwari"
           }
         ]
       },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNGQyZWU0NTItNzA4Mi00YzhlLTkzMmMtZjMyOTQzZWMyODZlIiwidCI6IjIyNzNjNDFiLWI4ZDAtNDVhZi1iZWU2LWUwODQ5NmFlNjcxOCIsImMiOjN9\"></iframe>",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDc4NzlhYzktN2JlNy00YTljLWFjNjEtZDZlOTE2ZTUzY2E2IiwidCI6IjQ2ZTU2MmVlLWFiNGUtNGYxYi1iOWUyLWM4NDUzN2RkNTYwOCJ9\"></iframe>",
       "actions": [
         {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiNGQyZWU0NTItNzA4Mi00YzhlLTkzMmMtZjMyOTQzZWMyODZlIiwidCI6IjIyNzNjNDFiLWI4ZDAtNDVhZi1iZWU2LWUwODQ5NmFlNjcxOCIsImMiOjN9",
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiMDc4NzlhYzktN2JlNy00YTljLWFjNjEtZDZlOTE2ZTUzY2E2IiwidCI6IjQ2ZTU2MmVlLWFiNGUtNGYxYi1iOWUyLWM4NDUzN2RkNTYwOCJ9",
           "type": "preview",
           "title": "Preview Report",
           "attribution": "PowerBI Community"
         },
         {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1527/3/Facebook%20Analytics%20Dashboard%20-%20President.pbix",
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3958/2/TrackingCoronaOutbreak.pbix",
           "type": "download",
           "title": "Download PBIX",
           "attribution": "PowerBI Community"
         }
       ],
-      "publishedDateTime": "2018-01-26T04:47:00-08:00",
+      "publishedDateTime": "2020-05-16T21:31:00-07:00",
       "heat": 50,
       "tags": [
+        "COVID-19"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3958/1/Thumbnail.PNG",
+          "width": 876,
+          "height": 500,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-twitter-analysis-during-covid.md",
+      "title": "Twitter Analysis During COVID",
+      "excerpt": "Analyse de l'impact d'une crise majeure sur le nb de follower de certains comptes en France. Hopitaux, Gouvernement ...",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-twitter-analysis-during-covid/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-twitter-analysis-during-covid/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Twitter-Analysis-During-COVID/m-p/1140624",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "DataStarLord",
+            "type": "profile",
+            "name": "DataStarLord"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYjFlMjU5ZmQtMGM2ZS00NzkzLWJhZDQtNzk0OWI2NmQyYTNmIiwidCI6IjE3MmFhY2FmLTM1YTUtNDZiMy05Y2FjLTY5OGM1N2M5NDM5YiIsImMiOjh9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiYjFlMjU5ZmQtMGM2ZS00NzkzLWJhZDQtNzk0OWI2NmQyYTNmIiwidCI6IjE3MmFhY2FmLTM1YTUtNDZiMy05Y2FjLTY5OGM1N2M5NDM5YiIsImMiOjh9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/4052/2/Analyses%20Tweeter.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2020-06-03T15:13:00-07:00",
+      "heat": 50,
+      "tags": [
+        "COVID-19",
+        "Lifestyle",
         "Social Media"
       ],
       "images": [
         {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1527/1/Screenshot_93.png",
-          "width": 1342,
-          "height": 775,
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/4052/1/2020-06-04%2007_08_47-Analyses%20Tweeter%20-%20Power%20BI%20Desktop.png",
+          "width": 1445,
+          "height": 801,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-twitter-trend-dashboard.md",
+      "title": "Twitter Trend Dashboard",
+      "excerpt": "Twitter Sentiment analysis in Power BI. The data was collected using Python. Refer to this link to read about the data collection process:",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-twitter-trend-dashboard/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-twitter-trend-dashboard/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Twitter-Trend-Dashboard/m-p/1013684",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "arnab96",
+            "type": "profile",
+            "name": "arnab96"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYTA0YjFlZjctNGY5Ni00MzQ2LTkzYTQtYWQ4YzNiNTU3YjJkIiwidCI6IjgwZjIzZjRhLTkxYTQtNDU2Ni04ZGIxLTNiY2FiYjIxZDFjYiIsImMiOjF9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiYTA0YjFlZjctNGY5Ni00MzQ2LTkzYTQtYWQ4YzNiNTU3YjJkIiwidCI6IjgwZjIzZjRhLTkxYTQtNDU2Ni04ZGIxLTNiY2FiYjIxZDFjYiIsImMiOjF9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3705/2/tweet%20dashboard.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2020-04-07T07:23:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Technology"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3705/1/tweet-dashboard.PNG",
+          "width": 1447,
+          "height": 819,
           "isCached": true
         }
       ],
@@ -489,6 +611,66 @@
       ]
     },
     {
+      "path": "_samples/powerbi-community-valentins-data-day.md",
+      "title": "Valentin's Data Day",
+      "excerpt": "Valentin's Day Data with an example of custum visual",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-valentins-data-day/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-valentins-data-day/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Valentin-s-Data-Day/m-p/932818",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "DataStarLord",
+            "type": "profile",
+            "name": "DataStarLord"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZTlkNWVjODMtMzc2YS00NzE4LWIzYzQtODI2YmVhM2M0M2Y4IiwidCI6IjE3MmFhY2FmLTM1YTUtNDZiMy05Y2FjLTY5OGM1N2M5NDM5YiIsImMiOjh9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiZTlkNWVjODMtMzc2YS00NzE4LWIzYzQtODI2YmVhM2M0M2Y4IiwidCI6IjE3MmFhY2FmLTM1YTUtNDZiMy05Y2FjLTY5OGM1N2M5NDM5YiIsImMiOjh9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3340/2/20200213_Actinvision_ValentinesDay.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2020-02-13T16:15:00-08:00",
+      "heat": 50,
+      "tags": [
+        "Lifestyle"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3340/1/2020-02-14%2000_51_34-20200213_Actinvision_ValentinesDay%20-%20Power%20BI%20Desktop.png",
+          "width": 1462,
+          "height": 819,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_samples/powerbi-community-variation-in-medicare-spending-per-episode-of-care.md",
       "title": "Variation in Medicare Spending per Episode of Care",
       "excerpt": "For this report I analyzed Hospital Compare public datasets to identify Medicare's costliest states and hospitals. The range between highest and",
@@ -913,6 +1095,66 @@
       ]
     },
     {
+      "path": "_samples/powerbi-community-wimbledon-championship-winners.md",
+      "title": "Wimbledon Championship Winners",
+      "excerpt": "Your Wimbeldon Champions analysed, this report contains the analysis of the final games only. It also shows the sucess rates of countries and",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-wimbledon-championship-winners/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-wimbledon-championship-winners/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Wimbledon-Championship-Winners/m-p/736419",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "bhupendrapatel",
+            "type": "profile",
+            "name": "bhupendrapatel"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDU3ZjMwM2QtZGVhNy00MDU2LWIyZWEtYzQwNTNiZDk2NTI3IiwidCI6ImM0MGQwZjIxLTZiZWUtNDFlOC05MTU2LWYxNDU5MjA0M2FkMCIsImMiOjh9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiMDU3ZjMwM2QtZGVhNy00MDU2LWIyZWEtYzQwNTNiZDk2NTI3IiwidCI6ImM0MGQwZjIxLTZiZWUtNDFlOC05MTU2LWYxNDU5MjA0M2FkMCIsImMiOjh9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2757/2/Wimbeldon.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2019-07-09T21:10:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Sports"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2757/1/wVIjMmatmp.png",
+          "width": 1878,
+          "height": 1021,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_samples/powerbi-community-wind-energy-in-the-us.md",
       "title": "Wind Energy in the US",
       "excerpt": "Which state has made the biggest investment in wind generated electricity? Which state has the most expensive wind generated electricity? AWEA data",
@@ -1145,66 +1387,6 @@
           "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/677/1/World%20Economy.png",
           "width": 899,
           "height": 517,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_samples/powerbi-community-year-on-year-comparison-of-entire-busines.md",
-      "title": "Year on Year Comparison of Entire busines",
-      "excerpt": "Hi Folks This is a Practice file for YoY Comparison of YoY Performance of Certain Business. 80% visuals will change their reporting Element",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-year-on-year-comparison-of-entire-busines/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-year-on-year-comparison-of-entire-busines/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Year-on-Year-Comparison-of-Entire-busines/m-p/860256",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "VijayP",
-            "type": "profile",
-            "name": "VijayP"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMzc3NTg1MzktNDRhMS00ZDM3LThhYzMtNjRmMzI0YjBjMzMwIiwidCI6ImUzYWQwNzczLTQ5ZTktNDU4OS1hN2RjLTcwMTllNjBjMWVjMyJ9\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiMzc3NTg1MzktNDRhMS00ZDM3LThhYzMtNjRmMzI0YjBjMzMwIiwidCI6ImUzYWQwNzczLTQ5ZTktNDU4OS1hN2RjLTcwMTllNjBjMWVjMyJ9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3168/2/YoY%20Performance%20Analysis-Data%20Story.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2019-11-28T12:21:00-08:00",
-      "heat": 50,
-      "tags": [
-        "Education"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3168/1/2019-11-29_094924.png",
-          "width": 1363,
-          "height": 679,
           "isCached": true
         }
       ],

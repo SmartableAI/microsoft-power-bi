@@ -4,7 +4,7 @@ excerpt: "Why were you interested in telling this story? For the Year in Review 
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Selfitis-The-Story/m-p/349421
 type: download
 publishedDateTime: 2018-01-31T16:13:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYjBiZWFlOTUtYjhjZS00NGIwLWE3Y2EtYTYzOTcxOTU4MzZiIiwidCI6Ijg0ODgwZjIxLWE0OGQtNDA4Zi1hZmZmLTg5NjY3ZjQ5YTJiNCJ9\"></iframe>"
 

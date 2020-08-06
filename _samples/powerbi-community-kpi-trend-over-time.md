@@ -4,7 +4,7 @@ excerpt: "KPI Trend over time Sales Profit Profit Ratio Choose a Date Range"
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/KPI-Trend-over-Time/m-p/929328
 type: download
 publishedDateTime: 2020-02-11T19:12:00Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMmU2OTYyMzktNzI4Yy00M2U1LTkzMjAtZGM1YWYzMmYyMjJjIiwidCI6IjkyNzExMTFhLTJhODctNGUzOS1iY2IzLTk4MTQ2YTgxYmNhNSJ9\"></iframe>"
 

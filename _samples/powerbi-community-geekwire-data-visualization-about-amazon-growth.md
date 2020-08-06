@@ -4,7 +4,7 @@ excerpt: "The most recent media outlet to leverage Microsoft Power BI and enhanc
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/GeekWire-Data-Visualization-About-Amazon-Growth/m-p/125217
 type: download
 publishedDateTime: 2017-02-09T13:22:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZWIwOWNhZjEtYzZiYS00OWE0LTliMDEtNThlNGY4ZmQyNGUwIiwidCI6IjNkODE4OGM4LTc3NTgtNDYzYy1iYjNmLTBlMTYwZGUzMzYwZiIsImMiOjN9\"></iframe>"
 

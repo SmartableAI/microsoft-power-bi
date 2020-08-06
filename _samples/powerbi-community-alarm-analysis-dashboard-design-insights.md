@@ -4,7 +4,7 @@ excerpt: "Description A&amp;E overview dashboard provides a quick snapshot of al
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Alarm-Analysis-Dashboard-design-insights/m-p/1091669
 type: download
 publishedDateTime: 2020-05-15T06:53:00Z
-heat: 52
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMTU3ZjkzMWItMWQzMy00ODhhLTg0MmQtOTA4ZjU1ZDFhZjlmIiwidCI6IjJiZGIwNGVlLTAyYTUtNDYzMi04NGJiLTIxNDQzMTk5OTEzYiJ9\"></iframe>"
 

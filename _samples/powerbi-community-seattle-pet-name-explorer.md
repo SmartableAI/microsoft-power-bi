@@ -4,7 +4,7 @@ excerpt: "The Seattle Pet Name Explorer is a fun way to search for popular and u
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Seattle-Pet-Name-Explorer/m-p/274940
 type: download
 publishedDateTime: 2017-10-10T12:36:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOGRjZDE5MWMtMWU2MC00ODMwLTk4ZjQtZmYxOTYyMWRhZDI2IiwidCI6IjdlY2M4YWEwLTgzMGUtNGQ4Ni1hZjc4LTgzYTNkY2MyNjIzOCIsImMiOjZ9\"></iframe>"
 

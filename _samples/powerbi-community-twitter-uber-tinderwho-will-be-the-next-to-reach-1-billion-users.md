@@ -4,7 +4,7 @@ excerpt: "Hi, This is my second public dashboard using Power BI. This dashboard 
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Twitter-Uber-Tinder-who-will-be-the-next-to-reach-1-Billion/m-p/211197
 type: download
 publishedDateTime: 2017-07-13T03:20:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNDBmYWIxZjMtOWU0Yy00YThkLWE0MWUtY2M2N2IwM2M4ZDkxIiwidCI6Ijg5NWQ0YTRiLTE1NGYtNDUzNy04NzAyLTc4YWQ0MDE1Y2Y0YSIsImMiOjl9\"></iframe>"
 

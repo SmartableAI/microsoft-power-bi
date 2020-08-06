@@ -4,7 +4,7 @@ excerpt: "Hi, First go at this, some colleagues and I are in a couple of Fantasy
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Fantasy-Football-League/m-p/80386
 type: download
 publishedDateTime: 2016-10-20T03:25:00Z
-heat: 50
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNTBhNGMwOGUtNzMyNy00NzVmLTk5N2QtMTdiMTRkZGUwODI3IiwidCI6IjlkMzQ4NzUyLWI5YWMtNGI1OS1iY2YzLTgwMTQxMjZlMDExNyIsImMiOjh9\"></iframe>"
 

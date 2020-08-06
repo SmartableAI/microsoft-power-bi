@@ -4,7 +4,7 @@ excerpt: "Explore the interactive navigations, report page tooltips, slicer pop 
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Video-Game-Sales/m-p/602233
 type: download
 publishedDateTime: 2019-01-16T09:27:00Z
-heat: 53
+heat: 55
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMGIyMzMxNWQtZGZiNC00NWU5LTkzY2YtMjdlYjM2NmZmZjhiIiwidCI6IjBhYTVjODNjLTkzZjMtNGY0ZC1hNzJmLTdiZTkzMDkxOTZhNiIsImMiOjN9\"></iframe>"
 

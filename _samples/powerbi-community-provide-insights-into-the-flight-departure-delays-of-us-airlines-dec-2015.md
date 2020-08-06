@@ -4,7 +4,7 @@ excerpt: "An analysis of US airline data for the month of December 2015. Used to
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Provide-Insights-into-the-Flight-Departure-Delays-of-US-Airlines/m-p/167816
 type: download
 publishedDateTime: 2017-05-02T03:51:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOGFhM2U0ZTMtMjNhZC00YWYyLWFmZjAtYzYzYzQxOGE3YTNkIiwidCI6IjlhYmM2MTIzLTNlMWQtNGQzMC05NzdhLTg4MDYxNzAwYTM2ZiIsImMiOjh9\"></iframe>"
 

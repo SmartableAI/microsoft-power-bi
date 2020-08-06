@@ -4,7 +4,7 @@ excerpt: "J’ai pris l’option de créer un rapport Power BI qui permet de rac
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Pr%C3%A9sentation-R%C3%A9sultats-Concours-Dataviz-France/m-p/261928
 type: download
 publishedDateTime: 2017-09-30T03:13:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNTRlOWNhNmUtZDNhNi00M2FlLWFkNDAtYzc1YTcyMzhhYjAxIiwidCI6ImU0ZWZmOGU4LWU2MzUtNDI2Yy05NTJkLTA5ZGQ0OGMzZmM4MCIsImMiOjh9\"></iframe>"
 

@@ -4,7 +4,7 @@ excerpt: "As a data challenge for Online Volunteers , Maher Fayad created a repo
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Maher-Fayad/m-p/1043525
 type: download
 publishedDateTime: 2020-04-23T00:55:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZDMyZjBlYWMtODQwYS00YzRkLTkwMWYtN2YzMmYxMDlmNGYwIiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9\"></iframe>"
 

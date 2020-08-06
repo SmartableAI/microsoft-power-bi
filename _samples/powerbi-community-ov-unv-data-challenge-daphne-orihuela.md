@@ -4,7 +4,7 @@ excerpt: "Data Challenge UNV eyJrIjoiMGUzMGIzNGMtZjNlNy00MTAwLWI4ZjctZDJiNWU2YTQ
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Daphne-Orihuela/m-p/1145156
 type: download
 publishedDateTime: 2020-06-05T17:53:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMGUzMGIzNGMtZjNlNy00MTAwLWI4ZjctZDJiNWU2YTQ3NzVhIiwidCI6ImM0YTY2YzM0LTJiYjctNDUxZi04YmUxLWIyYzI2YTQzMDE1OCIsImMiOjR9\"></iframe>"
 

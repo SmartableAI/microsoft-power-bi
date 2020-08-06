@@ -4,7 +4,7 @@ excerpt: "This report contains a number of example maps that can be created usin
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Icon-Map-custom-visual-examples/m-p/789914
 type: download
 publishedDateTime: 2019-09-11T15:25:00Z
-heat: 60
+heat: 59
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjJkN2E0MmYtMGJhZi00NDhjLThkZGQtNjE1YmE4YWYxMTU1IiwidCI6IjBjNzk5ZDM4LTQ3NjQtNDJiYy1iNGZmLTIzYmViYTljN2ZlMiIsImMiOjh9\"></iframe>"
 

@@ -4,7 +4,7 @@ excerpt: "Back to School Competition Ever since I read Bill Bryson's &amp;quot;A
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/The-Scale-of-The-Solar-System-Back-to-School/m-p/781943
 type: download
 publishedDateTime: 2019-09-03T00:21:00Z
-heat: 53
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNWRmYzA5NDEtNjgzOC00NjAxLTljNjEtNmI2MzgxMzIyNDU2IiwidCI6IjgwYWJhYWZiLWQ0YTItNDM5Ny1hMGY5LTc3OGYyMTVlN2VkNyJ9\"></iframe>"
 

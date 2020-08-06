@@ -4,7 +4,7 @@ excerpt: "I inspired by before working on this dashboard. He has a great Dashboa
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/SSIS-Replication-Log-Dashboard/m-p/630142
 type: download
 publishedDateTime: 2019-02-22T21:58:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYmExY2U1ODUtNDA0OS00YjFmLWE3NzktYWRjMTZiZGQyZWFhIiwidCI6ImViZGJlZmExLWU0NmMtNDkzYi05NzNlLWVjZjgxNTgwNmEwYiIsImMiOjl9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 541
     isCached: true
 
-secured: "cCgUo9joiNM2eGrPrd9+1nub481w51iM5EEYz1LilmAvMcXQXhJHQSWbwBTloHwZTIhRzpqtEqExHnyKxo11eHFhC+zoRVFUlMn5svbCMHPnrML6540E5JvImkOOqvzcF8hafWMkarasSwJXzlaYgQuVgxIBOCkPxygRT6oyQ4RwZzBQ6Jy/39Xrko6TGAqxOJh1s65SXit8179pCy0ifpEynC/kcBd8CBTnZGdBW0WAFk/gBOdyfS7TCqhS+iqngWepmsmwDoVOI7RMSzm2JmgmLboMm/koE4qFtOEl+nfr3CSO7Oa46LNaQdEQ6BiXJrOyLmf0BP23pbe+Sg+fO+NRSm6XEBJcuZuYq/+RSLJjsfDCHwNCz01q4dUHG+WonPYLJe4I7VAaktSAJxt7DQ==;GiS4po9ixXntigSIgWkVNw=="
+secured: "G5iTV061BYb2u8rRXBt9zZwkO6+3yvCwYuigtueD4Vuf2wFWel+Bv6sHpJBSxH3UZZsdu4SZcEXtNfZJvzhrN818MYHPbhFz4pMIWs4cZTzTPj9K2cvF31TvIOAzkBndT2PTbO2R40TS3b4vpIOb+PFEzxdlIG02Xj12yWI3PC/hswjlzhrtqE35L/LAY5sz2S3seSnWhmGwQgdECdopsxyYGR2J3svWToik7zYsePH+g80AA0I+hmgHILGeTh+tI5eJLChWR2Zd3kg1uc2EMwogVd8C+QXk9b/YTf2oJ4MTEXW0s+osHrW2lfS5c3Qqj/RYcS+XVtQrzxRhqLvXTG0daHrPU5wXOzgaHMsAimlrC28yjrdXq4CRpBSeyzuP5EUki7iQD7rcabr2gp5rew==;UiX1Sea2IRCwtSBN3+XoFg=="
 ---
 

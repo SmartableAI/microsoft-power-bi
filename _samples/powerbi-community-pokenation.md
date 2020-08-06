@@ -4,7 +4,7 @@ excerpt: "In this sentiment and emotional analysis of over 43,000 tweets about P
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Pok%C3%A9nation/m-p/53870
 type: download
 publishedDateTime: 2016-07-28T15:05:00Z
-heat: 53
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMTA2MGY0ZDMtMThhZi00NmVhLWI3N2UtODA4ODM0YzhhY2FkIiwidCI6ImQyOGMxMDVhLWI3N2ItNDA3Yy04YjBjLTFhNmYyZDNhZDg5MCIsImMiOjZ9\"></iframe>"
 

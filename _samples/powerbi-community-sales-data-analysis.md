@@ -4,7 +4,7 @@ excerpt: "Superstore Data taken from: https://community.tableau.com/docs/DOC-123
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/SALES-DATA-ANALYSIS/m-p/829375
 type: download
 publishedDateTime: 2019-10-27T10:45:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMmU3MDNjNzMtZmQyMy00YzE0LThlZWItMDYyZGZiZTMwOTY1IiwidCI6ImFhZDM5OWY1LWEyNTQtNDMwYi1iMjI5LWY5OWY4YmE3MTM0NyJ9\"></iframe>"
 

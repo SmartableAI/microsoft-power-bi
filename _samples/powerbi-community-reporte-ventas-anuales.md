@@ -4,7 +4,7 @@ excerpt: "Reporte de Ventas Anuales con Metas Individuales y Organigrama del Ár
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Reporte-Ventas-Anuales/m-p/430587
 type: download
 publishedDateTime: 2018-06-01T18:58:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiODU4NTlkNTItMTVlZC00NzU4LWJlMjctZWRkMTdhOGZmOWUwIiwidCI6ImYyMmFlZDcyLTc1YmMtNDI2YS1hOGQzLTFiYTgyNmY0ODI4MSIsImMiOjR9\"></iframe>"
 

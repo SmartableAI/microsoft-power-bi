@@ -4,7 +4,7 @@ excerpt: "Multichannel Attribution dashboard provides simple insights about paid
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Multichannel-Attribution/m-p/1178725
 type: download
 publishedDateTime: 2020-06-24T01:46:00Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYzQ0NDM4MjYtMGM2Yi00MWYwLWFlOTUtMzVkMDZmYjYwNjBlIiwidCI6IjYyYjBiNjRjLTRiNWItNDU5OC04OGZlLTljYTIxNmM1NjdkMiIsImMiOjh9\"></iframe>"
 

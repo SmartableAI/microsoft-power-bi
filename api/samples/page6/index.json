@@ -64,6 +64,66 @@
       ]
     },
     {
+      "path": "_samples/powerbi-community-pokemon-go-analysis-pokemon-peru-waiting-for-pokemongo.md",
+      "title": "Pokémon GO - Analysis Pokemon: Perú waiting for PokemonGo",
+      "excerpt": "Power BI: Pokemon Kaits - Alejandro Sanchez - Peru A small demo of pokemon, created by a fan !. enjoy it. More Demos:",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-pokemon-go-analysis-pokemon-peru-waiting-for-pokemongo/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-pokemon-go-analysis-pokemon-peru-waiting-for-pokemongo/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Pok%C3%A9mon-GO-Analysis-Pokemon-Per%C3%BA-waiting-for-PokemonGo/m-p/54560",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "AlejandroSnchez",
+            "type": "profile",
+            "name": "AlejandroSnchez"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiODA5YjhhY2YtMTFiYS00NzUwLTk2ODgtZjQ2MTA0MzNhMGJiIiwidCI6ImIxZDg0Y2ZmLTg4ZDktNDdlNC1hNzdjLTQ2MjNhZTE0MzVhZCIsImMiOjR9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiODA5YjhhY2YtMTFiYS00NzUwLTk2ODgtZjQ2MTA0MzNhMGJiIiwidCI6ImIxZDg0Y2ZmLTg4ZDktNDdlNC1hNzdjLTQ2MjNhZTE0MzVhZCIsImMiOjR9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/190/2/Pokemon%20Kaits.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2016-08-01T08:20:00-07:00",
+      "heat": 51,
+      "tags": [
+        "Entertainment"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/190/1/Pokemon%20Kaits.png",
+          "width": 933,
+          "height": 609,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_samples/powerbi-community-pomerol-covid-19-tracker.md",
       "title": "Pomerol COVID-19 Tracker",
       "excerpt": "Our goal was to create a simple dashboard that enables the user to quickly understand the spread of COVID-19 around the world whilst providing",
@@ -304,12 +364,12 @@
       ]
     },
     {
-      "path": "_samples/powerbi-community-presentation-resultats-concours-dataviz-france.md",
-      "title": "Présentation Résultats ( Concours Dataviz France)",
-      "excerpt": "J’ai pris l’option de créer un rapport Power BI qui permet de raconter une histoire ( DataStorytelling), et plus précisément de montrer qu’avec Power",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-presentation-resultats-concours-dataviz-france/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-presentation-resultats-concours-dataviz-france/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Pr%C3%A9sentation-R%C3%A9sultats-Concours-Dataviz-France/m-p/261928",
+      "path": "_samples/powerbi-community-provide-insights-into-the-flight-departure-delays-of-us-airlines-dec-2015.md",
+      "title": "Provide Insights into the Flight Departure Delays of US Airlines - Dec 2015",
+      "excerpt": "An analysis of US airline data for the month of December 2015. Used to analyse and provide insights into the departure flight delays of Virgin",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-provide-insights-into-the-flight-departure-delays-of-us-airlines-dec-2015/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-provide-insights-into-the-flight-departure-delays-of-us-airlines-dec-2015/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Provide-Insights-into-the-Flight-Departure-Delays-of-US-Airlines/m-p/167816",
       "provider": {
         "name": "PowerBI Community",
         "domain": "powerbi.com",
@@ -324,37 +384,37 @@
         "authors": [
           {
             "path": "",
-            "title": "jpierre79",
+            "title": "andylj123",
             "type": "profile",
-            "name": "jpierre79"
+            "name": "andylj123"
           }
         ]
       },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNTRlOWNhNmUtZDNhNi00M2FlLWFkNDAtYzc1YTcyMzhhYjAxIiwidCI6ImU0ZWZmOGU4LWU2MzUtNDI2Yy05NTJkLTA5ZGQ0OGMzZmM4MCIsImMiOjh9\"></iframe>",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOGFhM2U0ZTMtMjNhZC00YWYyLWFmZjAtYzYzYzQxOGE3YTNkIiwidCI6IjlhYmM2MTIzLTNlMWQtNGQzMC05NzdhLTg4MDYxNzAwYTM2ZiIsImMiOjh9\"></iframe>",
       "actions": [
         {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiNTRlOWNhNmUtZDNhNi00M2FlLWFkNDAtYzc1YTcyMzhhYjAxIiwidCI6ImU0ZWZmOGU4LWU2MzUtNDI2Yy05NTJkLTA5ZGQ0OGMzZmM4MCIsImMiOjh9",
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiOGFhM2U0ZTMtMjNhZC00YWYyLWFmZjAtYzYzYzQxOGE3YTNkIiwidCI6IjlhYmM2MTIzLTNlMWQtNGQzMC05NzdhLTg4MDYxNzAwYTM2ZiIsImMiOjh9",
           "type": "preview",
           "title": "Preview Report",
           "attribution": "PowerBI Community"
         },
         {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1172/2/VehiculesVariante6.pbix",
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/831/2/Airline_v1.pbix",
           "type": "download",
           "title": "Download PBIX",
           "attribution": "PowerBI Community"
         }
       ],
-      "publishedDateTime": "2017-09-29T20:13:00-07:00",
+      "publishedDateTime": "2017-05-01T20:51:00-07:00",
       "heat": 51,
       "tags": [
         "Business"
       ],
       "images": [
         {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1172/1/Pres.jpg",
-          "width": 1819,
-          "height": 1043,
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/831/1/Airline.png",
+          "width": 1920,
+          "height": 1200,
           "isCached": true
         }
       ],
@@ -429,12 +489,12 @@
       ]
     },
     {
-      "path": "_samples/powerbi-community-requirements-analysis-example-for-2016-mvp-summit.md",
-      "title": "Requirements Analysis example for 2016 MVP Summit",
-      "excerpt": "This model came from a real world need to analyze a list of requirements received as part of a Request for Proposal. These situations typically",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-requirements-analysis-example-for-2016-mvp-summit/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-requirements-analysis-example-for-2016-mvp-summit/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Requirements-Analysis-example-for-2016-MVP-Summit/m-p/88492",
+      "path": "_samples/powerbi-community-reporte-de-consumo-de-gasolina-oil-consume-report.md",
+      "title": "Reporte de Consumo de Gasolina (Oil Consume Report",
+      "excerpt": "Reporte de Consumo de Gasolina por Tarjeta (4)",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-reporte-de-consumo-de-gasolina-oil-consume-report/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-reporte-de-consumo-de-gasolina-oil-consume-report/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Reporte-de-Consumo-de-Gasolina-Oil-Consume-Report/m-p/434805",
       "provider": {
         "name": "PowerBI Community",
         "domain": "powerbi.com",
@@ -449,38 +509,158 @@
         "authors": [
           {
             "path": "",
-            "title": "trebgatte",
+            "title": "gabriva",
             "type": "profile",
-            "name": "trebgatte"
+            "name": "gabriva"
           }
         ]
       },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjE0ZTU2MjUtNTBkMC00NTdjLWJiYzAtMGI5N2JjNTczMTJlIiwidCI6IjA5ODQ4YTQ5LTRiMDEtNGFkNS05YzIyLWFlNjdjOWRlODVjNCIsImMiOjZ9\"></iframe>",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiODAyYTJlMTItYTYwYS00NjNiLWFhMmUtMTczYWI0MGVlNjIxIiwidCI6ImYyMmFlZDcyLTc1YmMtNDI2YS1hOGQzLTFiYTgyNmY0ODI4MSIsImMiOjR9\"></iframe>",
       "actions": [
         {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiNjE0ZTU2MjUtNTBkMC00NTdjLWJiYzAtMGI5N2JjNTczMTJlIiwidCI6IjA5ODQ4YTQ5LTRiMDEtNGFkNS05YzIyLWFlNjdjOWRlODVjNCIsImMiOjZ9",
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiODAyYTJlMTItYTYwYS00NjNiLWFhMmUtMTczYWI0MGVlNjIxIiwidCI6ImYyMmFlZDcyLTc1YmMtNDI2YS1hOGQzLTFiYTgyNmY0ODI4MSIsImMiOjR9",
           "type": "preview",
           "title": "Preview Report",
           "attribution": "PowerBI Community"
         },
         {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/429/2/Requirements%20Analysis.pbix",
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1971/2/ADM-EFECTIVALE-CONSUMO%2018.pbix",
           "type": "download",
           "title": "Download PBIX",
           "attribution": "PowerBI Community"
         }
       ],
-      "publishedDateTime": "2016-11-10T03:03:00-08:00",
+      "publishedDateTime": "2018-06-07T01:48:00-07:00",
       "heat": 51,
       "tags": [
-        "Business",
-        "Technology"
+        "Business"
       ],
       "images": [
         {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/429/1/RequirementsAnalysis.jpg",
-          "width": 1629,
-          "height": 936,
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1971/1/Combustible.png",
+          "width": 1389,
+          "height": 791,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-reporte-ventas-anuales.md",
+      "title": "Reporte Ventas Anuales",
+      "excerpt": "Reporte de Ventas Anuales con Metas Individuales y Organigrama del Área de Ventas en Visio",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-reporte-ventas-anuales/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-reporte-ventas-anuales/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Reporte-Ventas-Anuales/m-p/430587",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "gabriva",
+            "type": "profile",
+            "name": "gabriva"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiODU4NTlkNTItMTVlZC00NzU4LWJlMjctZWRkMTdhOGZmOWUwIiwidCI6ImYyMmFlZDcyLTc1YmMtNDI2YS1hOGQzLTFiYTgyNmY0ODI4MSIsImMiOjR9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiODU4NTlkNTItMTVlZC00NzU4LWJlMjctZWRkMTdhOGZmOWUwIiwidCI6ImYyMmFlZDcyLTc1YmMtNDI2YS1hOGQzLTFiYTgyNmY0ODI4MSIsImMiOjR9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1940/2/OPER-VENTAS-ANUALES-01.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2018-06-01T11:58:00-07:00",
+      "heat": 51,
+      "tags": [
+        "Business"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1940/1/VentasAnuales.png",
+          "width": 1477,
+          "height": 825,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-robot-wars-social-media-analysis.md",
+      "title": "Robot Wars - Social Media Analysis",
+      "excerpt": "This Social Media Analysis Report captures data from the official Robot Wars Facebook page . As a long-standing fan of the UK TV show “Robot Wars”, I",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-robot-wars-social-media-analysis/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-robot-wars-social-media-analysis/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Robot-Wars-Social-Media-Analysis/m-p/67036",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "TobiasOwen",
+            "type": "profile",
+            "name": "TobiasOwen"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMzc5ZDcxNmMtMzEyZC00NjM0LWI5YzYtODE5YTJlYTcxNWYxIiwidCI6IjMyMTY2YzE2LWJiMDItNGNlZi04OTEyLTFmNTE3MDQ1Yjc5YSIsImMiOjh9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiMzc5ZDcxNmMtMzEyZC00NjM0LWI5YzYtODE5YTJlYTcxNWYxIiwidCI6IjMyMTY2YzE2LWJiMDItNGNlZi04OTEyLTFmNTE3MDQ1Yjc5YSIsImMiOjh9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/283/2/Robot%20Wars%20Data%20Visualisation.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2016-09-08T21:59:00-07:00",
+      "heat": 51,
+      "tags": [
+        "Entertainment",
+        "Social Media"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/283/1/Robot%20Wars%20Data%20Visualisation.PNG",
+          "width": 1280,
+          "height": 741,
           "isCached": true
         }
       ],
@@ -541,6 +721,126 @@
           "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1392/1/Store%20Sales%20Analysis.PNG",
           "width": 1176,
           "height": 700,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-sales-commission-with-what-if-goal-setting.md",
+      "title": "Sales Commission with What-If Goal Setting",
+      "excerpt": "This is a simple demonstration on how to use the new What-If functionality in Power BI to determine the earning potential of a sales agent. The",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-sales-commission-with-what-if-goal-setting/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-sales-commission-with-what-if-goal-setting/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Sales-Commission-with-What-If-Goal-Setting/m-p/235539",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "mikedruta",
+            "type": "profile",
+            "name": "mikedruta"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMTFkOWRlMjMtYTBlNy00OTgzLTgyN2ItYjJlMGVlMzJiZWEyIiwidCI6IjA4NWY1YmMwLThkY2QtNDM1OS1iYTNmLWIzMDMzOThkZmZkNyIsImMiOjF9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiMTFkOWRlMjMtYTBlNy00OTgzLTgyN2ItYjJlMGVlMzJiZWEyIiwidCI6IjA4NWY1YmMwLThkY2QtNDM1OS1iYTNmLWIzMDMzOThkZmZkNyIsImMiOjF9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1041/2/wi.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2017-08-21T10:49:00-07:00",
+      "heat": 51,
+      "tags": [
+        "Business"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1041/1/withumb.png",
+          "width": 741,
+          "height": 343,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-sales-data-analysis.md",
+      "title": "SALES DATA ANALYSIS",
+      "excerpt": "Superstore Data taken from: https://community.tableau.com/docs/DOC-1236 Sales and Profit with Timeline Slicer. Matrix with Icon sets. Top N",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-sales-data-analysis/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-sales-data-analysis/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/SALES-DATA-ANALYSIS/m-p/829375",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "havish_mad",
+            "type": "profile",
+            "name": "havish_mad"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMmU3MDNjNzMtZmQyMy00YzE0LThlZWItMDYyZGZiZTMwOTY1IiwidCI6ImFhZDM5OWY1LWEyNTQtNDMwYi1iMjI5LWY5OWY4YmE3MTM0NyJ9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiMmU3MDNjNzMtZmQyMy00YzE0LThlZWItMDYyZGZiZTMwOTY1IiwidCI6ImFhZDM5OWY1LWEyNTQtNDMwYi1iMjI5LWY5OWY4YmE3MTM0NyJ9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3088/2/WebsiteSuperstore.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2019-10-27T03:45:00-07:00",
+      "heat": 51,
+      "tags": [
+        "Business"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3088/1/Annotation%202019-10-27%20231338.jpg",
+          "width": 1332,
+          "height": 747,
           "isCached": true
         }
       ],
@@ -674,12 +974,12 @@
       ]
     },
     {
-      "path": "_samples/powerbi-community-seattle-pet-name-explorer.md",
-      "title": "Seattle Pet Name Explorer",
-      "excerpt": "The Seattle Pet Name Explorer is a fun way to search for popular and unique pet names in the City of Seattle. Built with Seattle Pet License data",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-seattle-pet-name-explorer/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-seattle-pet-name-explorer/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Seattle-Pet-Name-Explorer/m-p/274940",
+      "path": "_samples/powerbi-community-skating-to-the-top-analyzing-nhl-game-attendance.md",
+      "title": "Skating to the Top : Analyzing NHL Game Attendance",
+      "excerpt": "Discover NHL home game attendance in this report! Attendance has been increasing overall but take a look to see who leads the pack and who is",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-skating-to-the-top-analyzing-nhl-game-attendance/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-skating-to-the-top-analyzing-nhl-game-attendance/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Skating-to-the-Top-Analyzing-NHL-Game-Attendance/m-p/725581",
       "provider": {
         "name": "PowerBI Community",
         "domain": "powerbi.com",
@@ -694,160 +994,39 @@
         "authors": [
           {
             "path": "",
-            "title": "Evan_at_DD",
+            "title": "MWinter225",
             "type": "profile",
-            "name": "Evan_at_DD"
+            "name": "MWinter225"
           }
         ]
       },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOGRjZDE5MWMtMWU2MC00ODMwLTk4ZjQtZmYxOTYyMWRhZDI2IiwidCI6IjdlY2M4YWEwLTgzMGUtNGQ4Ni1hZjc4LTgzYTNkY2MyNjIzOCIsImMiOjZ9\"></iframe>",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjYyNjYyMTUtYzA3Ny00OTlhLWFjMGYtYmI3ZmE3MzE5MTczIiwidCI6ImQyOGMxMDVhLWI3N2ItNDA3Yy04YjBjLTFhNmYyZDNhZDg5MCIsImMiOjZ9\"></iframe>",
       "actions": [
         {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiOGRjZDE5MWMtMWU2MC00ODMwLTk4ZjQtZmYxOTYyMWRhZDI2IiwidCI6IjdlY2M4YWEwLTgzMGUtNGQ4Ni1hZjc4LTgzYTNkY2MyNjIzOCIsImMiOjZ9",
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNjYyNjYyMTUtYzA3Ny00OTlhLWFjMGYtYmI3ZmE3MzE5MTczIiwidCI6ImQyOGMxMDVhLWI3N2ItNDA3Yy04YjBjLTFhNmYyZDNhZDg5MCIsImMiOjZ9",
           "type": "preview",
           "title": "Preview Report",
           "attribution": "PowerBI Community"
         },
         {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1190/2/Seattle%20Pet%20Explorer.pbix",
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2727/2/Skating%20to%20the%20Top.pbix",
           "type": "download",
           "title": "Download PBIX",
           "attribution": "PowerBI Community"
         }
       ],
-      "publishedDateTime": "2017-10-10T05:36:00-07:00",
-      "heat": 51,
-      "tags": [
-        "Entertainment"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1190/1/Seattle%20Pet%20Name%20Explorer.PNG",
-          "width": 1121,
-          "height": 738,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_samples/powerbi-community-selfitis-the-story.md",
-      "title": "Selfitis - The Story",
-      "excerpt": "Why were you interested in telling this story? For the Year in Review contest I wanted to find a subject/topic that was unique and interesting but",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-selfitis-the-story/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-selfitis-the-story/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Selfitis-The-Story/m-p/349421",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "RyanBentham",
-            "type": "profile",
-            "name": "RyanBentham"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYjBiZWFlOTUtYjhjZS00NGIwLWE3Y2EtYTYzOTcxOTU4MzZiIiwidCI6Ijg0ODgwZjIxLWE0OGQtNDA4Zi1hZmZmLTg5NjY3ZjQ5YTJiNCJ9\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiYjBiZWFlOTUtYjhjZS00NGIwLWE3Y2EtYTYzOTcxOTU4MzZiIiwidCI6Ijg0ODgwZjIxLWE0OGQtNDA4Zi1hZmZmLTg5NjY3ZjQ5YTJiNCJ9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1561/2/selfie%20mad.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2018-01-31T08:13:00-08:00",
+      "publishedDateTime": "2019-06-26T11:59:00-07:00",
       "heat": 51,
       "tags": [
         "Entertainment",
-        "Technology",
-        "Lifestyle",
-        "Social Media"
+        "Sports",
+        "Lifestyle"
       ],
       "images": [
         {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1561/1/thumb2%23.PNG",
-          "width": 1375,
-          "height": 785,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_samples/powerbi-community-ssis-replication-log-dashboard.md",
-      "title": "SSIS Replication Log Dashboard",
-      "excerpt": "I inspired by before working on this dashboard. He has a great Dashboard of SSIS catalog here . There couldn't be alternative work of him then i",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-ssis-replication-log-dashboard/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-ssis-replication-log-dashboard/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/SSIS-Replication-Log-Dashboard/m-p/630142",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "macnr",
-            "type": "profile",
-            "name": "macnr"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYmExY2U1ODUtNDA0OS00YjFmLWE3NzktYWRjMTZiZGQyZWFhIiwidCI6ImViZGJlZmExLWU0NmMtNDkzYi05NzNlLWVjZjgxNTgwNmEwYiIsImMiOjl9\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiYmExY2U1ODUtNDA0OS00YjFmLWE3NzktYWRjMTZiZGQyZWFhIiwidCI6ImViZGJlZmExLWU0NmMtNDkzYi05NzNlLWVjZjgxNTgwNmEwYiIsImMiOjl9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2516/2/ReplicationLogDashboard.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2019-02-22T13:58:00-08:00",
-      "heat": 51,
-      "tags": [
-        "Technology"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2516/1/dashboard_view.PNG",
-          "width": 955,
-          "height": 541,
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2727/1/Skating%20to%20the%20Top%20Thumbnail.png",
+          "width": 1853,
+          "height": 1027,
           "isCached": true
         }
       ],
@@ -1037,12 +1216,12 @@
       ]
     },
     {
-      "path": "_samples/powerbi-community-the-spread-of-corona-virus.md",
-      "title": "The Spread of Corona Virus",
-      "excerpt": "This dashboard tracks the spread of Corona and details the tragedy of it. This is still a work in progress. Feedback is appreciated.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-the-spread-of-corona-virus/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-the-spread-of-corona-virus/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/The-Spread-of-Corona-Virus/m-p/987165",
+      "path": "_samples/powerbi-community-the-scale-of-the-solar-system-back-to-school.md",
+      "title": "The Scale of The Solar System (Back to School)",
+      "excerpt": "Back to School Competition Ever since I read Bill Bryson's &amp;quot;A Short History of Nearly Everything&amp;quot; I have been fascinated by the Solar",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-the-scale-of-the-solar-system-back-to-school/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-the-scale-of-the-solar-system-back-to-school/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/The-Scale-of-The-Solar-System-Back-to-School/m-p/781943",
       "provider": {
         "name": "PowerBI Community",
         "domain": "powerbi.com",
@@ -1057,38 +1236,37 @@
         "authors": [
           {
             "path": "",
-            "title": "vanessafvg",
+            "title": "M_J_Farrow",
             "type": "profile",
-            "name": "vanessafvg"
+            "name": "M_J_Farrow"
           }
         ]
       },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMzE1OGE3ZjctNGZlOC00MDEzLWI5YmMtMmQyZGQyZGM1ZjY3IiwidCI6ImExZDY2YTAyLWE3MTctNDZjOC1iM2M3LWRlYzkxZTNmYzM5MiIsImMiOjh9&amp;fbclid=IwAR0oaV_9K8SLIgZzEtgpgg_Xk9seLCmL2A-9naW1ZaCUhT0tFa66YeKh73o\"></iframe>",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNWRmYzA5NDEtNjgzOC00NjAxLTljNjEtNmI2MzgxMzIyNDU2IiwidCI6IjgwYWJhYWZiLWQ0YTItNDM5Ny1hMGY5LTc3OGYyMTVlN2VkNyJ9\"></iframe>",
       "actions": [
         {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiMzE1OGE3ZjctNGZlOC00MDEzLWI5YmMtMmQyZGQyZGM1ZjY3IiwidCI6ImExZDY2YTAyLWE3MTctNDZjOC1iM2M3LWRlYzkxZTNmYzM5MiIsImMiOjh9&amp;fbclid=IwAR0oaV_9K8SLIgZzEtgpgg_Xk9seLCmL2A-9naW1ZaCUhT0tFa66YeKh73o",
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNWRmYzA5NDEtNjgzOC00NjAxLTljNjEtNmI2MzgxMzIyNDU2IiwidCI6IjgwYWJhYWZiLWQ0YTItNDM5Ny1hMGY5LTc3OGYyMTVlN2VkNyJ9",
           "type": "preview",
           "title": "Preview Report",
           "attribution": "PowerBI Community"
         },
         {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3551/2/Corona.pbix",
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2912/2/The%20Scale%20of%20The%20Solar%20System.pbix",
           "type": "download",
           "title": "Download PBIX",
           "attribution": "PowerBI Community"
         }
       ],
-      "publishedDateTime": "2020-03-23T00:31:00-07:00",
+      "publishedDateTime": "2019-09-02T17:21:00-07:00",
       "heat": 51,
       "tags": [
-        "COVID-19",
-        "Health"
+        "Education"
       ],
       "images": [
         {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3551/1/CoronaDashbaord.JPG",
-          "width": 1630,
-          "height": 882,
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2912/1/Understanding%20the%20Solar%20System%20Thumbnail.PNG",
+          "width": 1486,
+          "height": 833,
           "isCached": true
         }
       ],
@@ -1159,12 +1337,12 @@
       ]
     },
     {
-      "path": "_samples/powerbi-community-twitter-analysis-during-covid.md",
-      "title": "Twitter Analysis During COVID",
-      "excerpt": "Analyse de l'impact d'une crise majeure sur le nb de follower de certains comptes en France. Hopitaux, Gouvernement ...",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-twitter-analysis-during-covid/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-twitter-analysis-during-covid/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Twitter-Analysis-During-COVID/m-p/1140624",
+      "path": "_samples/powerbi-community-twitter-uber-tinderwho-will-be-the-next-to-reach-1-billion-users.md",
+      "title": "Twitter, Uber, Tinder...who will  be the next to reach 1 Billion Users?",
+      "excerpt": "Hi, This is my second public dashboard using Power BI. This dashboard enables us to track various KPIs of most famous mobile apps, such as : Linked",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-twitter-uber-tinderwho-will-be-the-next-to-reach-1-billion-users/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-twitter-uber-tinderwho-will-be-the-next-to-reach-1-billion-users/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Twitter-Uber-Tinder-who-will-be-the-next-to-reach-1-Billion/m-p/211197",
       "provider": {
         "name": "PowerBI Community",
         "domain": "powerbi.com",
@@ -1179,39 +1357,98 @@
         "authors": [
           {
             "path": "",
-            "title": "DataStarLord",
+            "title": "augustindelaf",
             "type": "profile",
-            "name": "DataStarLord"
+            "name": "augustindelaf"
           }
         ]
       },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYjFlMjU5ZmQtMGM2ZS00NzkzLWJhZDQtNzk0OWI2NmQyYTNmIiwidCI6IjE3MmFhY2FmLTM1YTUtNDZiMy05Y2FjLTY5OGM1N2M5NDM5YiIsImMiOjh9\"></iframe>",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNDBmYWIxZjMtOWU0Yy00YThkLWE0MWUtY2M2N2IwM2M4ZDkxIiwidCI6Ijg5NWQ0YTRiLTE1NGYtNDUzNy04NzAyLTc4YWQ0MDE1Y2Y0YSIsImMiOjl9\"></iframe>",
       "actions": [
         {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiYjFlMjU5ZmQtMGM2ZS00NzkzLWJhZDQtNzk0OWI2NmQyYTNmIiwidCI6IjE3MmFhY2FmLTM1YTUtNDZiMy05Y2FjLTY5OGM1N2M5NDM5YiIsImMiOjh9",
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNDBmYWIxZjMtOWU0Yy00YThkLWE0MWUtY2M2N2IwM2M4ZDkxIiwidCI6Ijg5NWQ0YTRiLTE1NGYtNDUzNy04NzAyLTc4YWQ0MDE1Y2Y0YSIsImMiOjl9",
           "type": "preview",
           "title": "Preview Report",
           "attribution": "PowerBI Community"
         },
         {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/4052/2/Analyses%20Tweeter.pbix",
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/946/2/MobileAppsWorldLeaders.pbix",
           "type": "download",
           "title": "Download PBIX",
           "attribution": "PowerBI Community"
         }
       ],
-      "publishedDateTime": "2020-06-03T15:13:00-07:00",
+      "publishedDateTime": "2017-07-12T20:20:00-07:00",
       "heat": 51,
       "tags": [
-        "COVID-19",
-        "Lifestyle",
+        "Entertainment",
+        "Technology"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/946/1/GAFAandNext.PNG",
+          "width": 676,
+          "height": 679,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-two-presidencies-two-presidents-two-persons-in-2017-as-seen-on-facebook.md",
+      "title": "Two Presidencies, Two Presidents, Two Persons in 2017 (As Seen on Facebook)",
+      "excerpt": "On Friday, January 20, 2017 Donald Trump was inaugurated as the 45th President of the United States. Social media have become a key communication",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-two-presidencies-two-presidents-two-persons-in-2017-as-seen-on-facebook/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-two-presidencies-two-presidents-two-persons-in-2017-as-seen-on-facebook/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Two-Presidencies-Two-Presidents-Two-Persons-in-2017-As-Seen-on/m-p/346261",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "DataChant",
+            "type": "profile",
+            "name": "DataChant"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNGQyZWU0NTItNzA4Mi00YzhlLTkzMmMtZjMyOTQzZWMyODZlIiwidCI6IjIyNzNjNDFiLWI4ZDAtNDVhZi1iZWU2LWUwODQ5NmFlNjcxOCIsImMiOjN9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNGQyZWU0NTItNzA4Mi00YzhlLTkzMmMtZjMyOTQzZWMyODZlIiwidCI6IjIyNzNjNDFiLWI4ZDAtNDVhZi1iZWU2LWUwODQ5NmFlNjcxOCIsImMiOjN9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1527/3/Facebook%20Analytics%20Dashboard%20-%20President.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2018-01-26T04:47:00-08:00",
+      "heat": 51,
+      "tags": [
         "Social Media"
       ],
       "images": [
         {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/4052/1/2020-06-04%2007_08_47-Analyses%20Tweeter%20-%20Power%20BI%20Desktop.png",
-          "width": 1445,
-          "height": 801,
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1527/1/Screenshot_93.png",
+          "width": 1342,
+          "height": 775,
           "isCached": true
         }
       ],
@@ -1272,250 +1509,6 @@
           "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1649/1/CollegeCosts.PNG",
           "width": 1627,
           "height": 915,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_samples/powerbi-community-us-congressional-district-boundaries-over-time.md",
-      "title": "U.S. Congressional District Boundaries Over Time",
-      "excerpt": "Former Massachusetts Governor Elbridge Gerry redrew the state's 1812 congressional district boundaries so bizarrely that one resembled a salamander .",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-us-congressional-district-boundaries-over-time/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-us-congressional-district-boundaries-over-time/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/U-S-Congressional-District-Boundaries-Over-Time/m-p/567021",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "tonmcg",
-            "type": "profile",
-            "name": "tonmcg"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNGY4YTQ2MTYtY2EyMS00OTRhLWFlMGItZDk2YjI2YTFlZjkwIiwidCI6ImRjNTliNTFkLWVmZDItNDYyNi04M2EyLTljMmU2MzE1MTcwZiIsImMiOjZ9\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiNGY4YTQ2MTYtY2EyMS00OTRhLWFlMGItZDk2YjI2YTFlZjkwIiwidCI6ImRjNTliNTFkLWVmZDItNDYyNi04M2EyLTljMmU2MzE1MTcwZiIsImMiOjZ9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2369/2/Gerrymandering%20Over%20Time.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2018-11-15T02:30:00-08:00",
-      "heat": 51,
-      "tags": [
-        "Education",
-        "Government"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2369/1/US-boundaries.png",
-          "width": 3360,
-          "height": 1928,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_samples/powerbi-community-us-weather-analysis.md",
-      "title": "U.S. Weather Analysis",
-      "excerpt": "An interactive dive into weather data provided by NOAA, showcasing Average High and Low Temperatures across the United States from 2010 through 2016",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-us-weather-analysis/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-us-weather-analysis/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/U-S-Weather-Analysis/m-p/58483",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "vrocca",
-            "type": "profile",
-            "name": "vrocca"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOTdmNTE4ZmQtMmFhNC00YjYzLWJjYWYtOGZjZmY2MDZhMThlIiwidCI6IjIxNGMwNTM2LTljNTctNDg1ZC05YTQ1LWZlMjFlYTYyZGExYiIsImMiOjN9\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiOTdmNTE4ZmQtMmFhNC00YjYzLWJjYWYtOGZjZmY2MDZhMThlIiwidCI6IjIxNGMwNTM2LTljNTctNDg1ZC05YTQ1LWZlMjFlYTYyZGExYiIsImMiOjN9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/229/2/Weather%20Analysis%20v2.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2016-08-14T05:07:00-07:00",
-      "heat": 51,
-      "tags": [
-        "Education"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/229/1/Weather2.jpg",
-          "width": 1000,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_samples/powerbi-community-valentins-data-day.md",
-      "title": "Valentin's Data Day",
-      "excerpt": "Valentin's Day Data with an example of custum visual",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-valentins-data-day/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-valentins-data-day/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Valentin-s-Data-Day/m-p/932818",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "DataStarLord",
-            "type": "profile",
-            "name": "DataStarLord"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZTlkNWVjODMtMzc2YS00NzE4LWIzYzQtODI2YmVhM2M0M2Y4IiwidCI6IjE3MmFhY2FmLTM1YTUtNDZiMy05Y2FjLTY5OGM1N2M5NDM5YiIsImMiOjh9\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiZTlkNWVjODMtMzc2YS00NzE4LWIzYzQtODI2YmVhM2M0M2Y4IiwidCI6IjE3MmFhY2FmLTM1YTUtNDZiMy05Y2FjLTY5OGM1N2M5NDM5YiIsImMiOjh9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3340/2/20200213_Actinvision_ValentinesDay.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2020-02-13T16:15:00-08:00",
-      "heat": 51,
-      "tags": [
-        "Lifestyle"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3340/1/2020-02-14%2000_51_34-20200213_Actinvision_ValentinesDay%20-%20Power%20BI%20Desktop.png",
-          "width": 1462,
-          "height": 819,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_samples/powerbi-community-vancouver-car-sharing-twitter-sentiment.md",
-      "title": "Vancouver Car Sharing Twitter Sentiment",
-      "excerpt": "This report was created by Zach Renwick . It uses Microsoft Flow, a Twitter connector, Azure Cognitive Services, and a streaming PBI dataset to",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-vancouver-car-sharing-twitter-sentiment/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-vancouver-car-sharing-twitter-sentiment/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Vancouver-Car-Sharing-Twitter-Sentiment/m-p/691075",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "ZachRenwick",
-            "type": "profile",
-            "name": "ZachRenwick"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMWEyZGEzNGUtZDIzMS00YjgxLWEzMjYtMmMzM2FmNDQyNDE2IiwidCI6ImYyMzg3ZjRlLWNmYzQtNDFjNi05NWNlLWJiNDdhNzdkNWIwYiJ9\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiMWEyZGEzNGUtZDIzMS00YjgxLWEzMjYtMmMzM2FmNDQyNDE2IiwidCI6ImYyMzg3ZjRlLWNmYzQtNDFjNi05NWNlLWJiNDdhNzdkNWIwYiJ9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2627/2/Vancouver%20Car%20Share%20Twitter%20Sentiment%20(Publish%20to%20Web).pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2019-05-14T06:15:00-07:00",
-      "heat": 51,
-      "tags": [
-        "Business",
-        "Technology",
-        "Lifestyle",
-        "Social Media"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2627/1/thumbnail%20dashboard.PNG",
-          "width": 1374,
-          "height": 1106,
           "isCached": true
         }
       ],

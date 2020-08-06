@@ -4,12 +4,12 @@
   "page": 7,
   "value": [
     {
-      "path": "_samples/powerbi-community-whats-new-in-power-bi.md",
-      "title": "What's New in Power BI",
-      "excerpt": "What's New Power BI Updated Sept 18th 2018 With weekly and monthly releases, there are a lot of fantastic new features to explore in Power BI. I used",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-whats-new-in-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-whats-new-in-power-bi/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/What-s-New-in-Power-BI/m-p/100643",
+      "path": "_samples/powerbi-community-us-congressional-district-boundaries-over-time.md",
+      "title": "U.S. Congressional District Boundaries Over Time",
+      "excerpt": "Former Massachusetts Governor Elbridge Gerry redrew the state's 1812 congressional district boundaries so bizarrely that one resembled a salamander .",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-us-congressional-district-boundaries-over-time/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-us-congressional-district-boundaries-over-time/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/U-S-Congressional-District-Boundaries-Over-Time/m-p/567021",
       "provider": {
         "name": "PowerBI Community",
         "domain": "powerbi.com",
@@ -24,161 +24,161 @@
         "authors": [
           {
             "path": "",
-            "title": "chass",
+            "title": "tonmcg",
             "type": "profile",
-            "name": "chass"
+            "name": "tonmcg"
           }
         ]
       },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMGQ2MTFiNDgtMWIxNy00Y2IzLTg4NmEtNDAzNTQ4ODU0YmJjIiwidCI6ImZkMTI5OGJlLWMwOWYtNDM0OS05NmU4LWJkMDk3MjEwZTI3NCIsImMiOjF9\"></iframe>",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNGY4YTQ2MTYtY2EyMS00OTRhLWFlMGItZDk2YjI2YTFlZjkwIiwidCI6ImRjNTliNTFkLWVmZDItNDYyNi04M2EyLTljMmU2MzE1MTcwZiIsImMiOjZ9\"></iframe>",
       "actions": [
         {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiMGQ2MTFiNDgtMWIxNy00Y2IzLTg4NmEtNDAzNTQ4ODU0YmJjIiwidCI6ImZkMTI5OGJlLWMwOWYtNDM0OS05NmU4LWJkMDk3MjEwZTI3NCIsImMiOjF9",
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNGY4YTQ2MTYtY2EyMS00OTRhLWFlMGItZDk2YjI2YTFlZjkwIiwidCI6ImRjNTliNTFkLWVmZDItNDYyNi04M2EyLTljMmU2MzE1MTcwZiIsImMiOjZ9",
           "type": "preview",
           "title": "Preview Report",
           "attribution": "PowerBI Community"
         },
         {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/486/12/What%20is%20new%20in%20Power%20BI.pbix",
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2369/2/Gerrymandering%20Over%20Time.pbix",
           "type": "download",
           "title": "Download PBIX",
           "attribution": "PowerBI Community"
         }
       ],
-      "publishedDateTime": "2016-12-09T07:16:00-08:00",
+      "publishedDateTime": "2018-11-15T02:30:00-08:00",
       "heat": 51,
       "tags": [
-        "Business"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/486/1/prezzy.png",
-          "width": 833,
-          "height": 606,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_samples/powerbi-community-wimbledon-championship-winners.md",
-      "title": "Wimbledon Championship Winners",
-      "excerpt": "Your Wimbeldon Champions analysed, this report contains the analysis of the final games only. It also shows the sucess rates of countries and",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-wimbledon-championship-winners/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-wimbledon-championship-winners/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Wimbledon-Championship-Winners/m-p/736419",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "bhupendrapatel",
-            "type": "profile",
-            "name": "bhupendrapatel"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDU3ZjMwM2QtZGVhNy00MDU2LWIyZWEtYzQwNTNiZDk2NTI3IiwidCI6ImM0MGQwZjIxLTZiZWUtNDFlOC05MTU2LWYxNDU5MjA0M2FkMCIsImMiOjh9\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiMDU3ZjMwM2QtZGVhNy00MDU2LWIyZWEtYzQwNTNiZDk2NTI3IiwidCI6ImM0MGQwZjIxLTZiZWUtNDFlOC05MTU2LWYxNDU5MjA0M2FkMCIsImMiOjh9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2757/2/Wimbeldon.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2019-07-09T21:10:00-07:00",
-      "heat": 51,
-      "tags": [
-        "Sports"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2757/1/wVIjMmatmp.png",
-          "width": 1878,
-          "height": 1021,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_samples/powerbi-community-world-data-visualization-prize-submission.md",
-      "title": "World Data Visualization Prize Submission",
-      "excerpt": "I created this Power BI Report as part of the World Data Visualization Prize . The goal was to create an app-like interactive user experience that",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-world-data-visualization-prize-submission/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-world-data-visualization-prize-submission/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/World-Data-Visualization-Prize-Submission/m-p/615034",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "chamil",
-            "type": "profile",
-            "name": "chamil"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYzQyOTc3MDAtYjUxOC00ZTUyLWI3YzQtM2Y5Y2RiMDY1NWZjIiwidCI6ImVhYzJmZmU0LWNmYWQtNDI5MC1hNmYxLTRkMjlhNjZhODA0NCJ9\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiYzQyOTc3MDAtYjUxOC00ZTUyLWI3YzQtM2Y5Y2RiMDY1NWZjIiwidCI6ImVhYzJmZmU0LWNmYWQtNDI5MC1hNmYxLTRkMjlhNjZhODA0NCJ9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2466/2/World%20Data%20Visualization%20Prize%20Submission%20-%20Chris%20Hamill%201.2.19.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2019-02-01T01:57:00-08:00",
-      "heat": 51,
-      "tags": [
-        "Health",
         "Education",
-        "Government",
-        "Lifestyle",
-        "Economics"
+        "Government"
       ],
       "images": [
         {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2466/1/World%20Data%20snap.jpg",
-          "width": 1918,
-          "height": 1051,
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2369/1/US-boundaries.png",
+          "width": 3360,
+          "height": 1928,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-us-weather-analysis.md",
+      "title": "U.S. Weather Analysis",
+      "excerpt": "An interactive dive into weather data provided by NOAA, showcasing Average High and Low Temperatures across the United States from 2010 through 2016",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-us-weather-analysis/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-us-weather-analysis/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/U-S-Weather-Analysis/m-p/58483",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "vrocca",
+            "type": "profile",
+            "name": "vrocca"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOTdmNTE4ZmQtMmFhNC00YjYzLWJjYWYtOGZjZmY2MDZhMThlIiwidCI6IjIxNGMwNTM2LTljNTctNDg1ZC05YTQ1LWZlMjFlYTYyZGExYiIsImMiOjN9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiOTdmNTE4ZmQtMmFhNC00YjYzLWJjYWYtOGZjZmY2MDZhMThlIiwidCI6IjIxNGMwNTM2LTljNTctNDg1ZC05YTQ1LWZlMjFlYTYyZGExYiIsImMiOjN9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/229/2/Weather%20Analysis%20v2.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2016-08-14T05:07:00-07:00",
+      "heat": 51,
+      "tags": [
+        "Education"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/229/1/Weather2.jpg",
+          "width": 1000,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-vancouver-car-sharing-twitter-sentiment.md",
+      "title": "Vancouver Car Sharing Twitter Sentiment",
+      "excerpt": "This report was created by Zach Renwick . It uses Microsoft Flow, a Twitter connector, Azure Cognitive Services, and a streaming PBI dataset to",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-vancouver-car-sharing-twitter-sentiment/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-vancouver-car-sharing-twitter-sentiment/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Vancouver-Car-Sharing-Twitter-Sentiment/m-p/691075",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "ZachRenwick",
+            "type": "profile",
+            "name": "ZachRenwick"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMWEyZGEzNGUtZDIzMS00YjgxLWEzMjYtMmMzM2FmNDQyNDE2IiwidCI6ImYyMzg3ZjRlLWNmYzQtNDFjNi05NWNlLWJiNDdhNzdkNWIwYiJ9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiMWEyZGEzNGUtZDIzMS00YjgxLWEzMjYtMmMzM2FmNDQyNDE2IiwidCI6ImYyMzg3ZjRlLWNmYzQtNDFjNi05NWNlLWJiNDdhNzdkNWIwYiJ9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2627/2/Vancouver%20Car%20Share%20Twitter%20Sentiment%20(Publish%20to%20Web).pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2019-05-14T06:15:00-07:00",
+      "heat": 51,
+      "tags": [
+        "Business",
+        "Technology",
+        "Lifestyle",
+        "Social Media"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2627/1/thumbnail%20dashboard.PNG",
+          "width": 1374,
+          "height": 1106,
           "isCached": true
         }
       ],
@@ -241,6 +241,66 @@
           "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2807/1/WHoDash.JPG",
           "width": 1467,
           "height": 845,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-year-on-year-comparison-of-entire-busines.md",
+      "title": "Year on Year Comparison of Entire busines",
+      "excerpt": "Hi Folks This is a Practice file for YoY Comparison of YoY Performance of Certain Business. 80% visuals will change their reporting Element",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-year-on-year-comparison-of-entire-busines/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-year-on-year-comparison-of-entire-busines/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Year-on-Year-Comparison-of-Entire-busines/m-p/860256",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "VijayP",
+            "type": "profile",
+            "name": "VijayP"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMzc3NTg1MzktNDRhMS00ZDM3LThhYzMtNjRmMzI0YjBjMzMwIiwidCI6ImUzYWQwNzczLTQ5ZTktNDU4OS1hN2RjLTcwMTllNjBjMWVjMyJ9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiMzc3NTg1MzktNDRhMS00ZDM3LThhYzMtNjRmMzI0YjBjMzMwIiwidCI6ImUzYWQwNzczLTQ5ZTktNDU4OS1hN2RjLTcwMTllNjBjMWVjMyJ9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3168/2/YoY%20Performance%20Analysis-Data%20Story.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2019-11-28T12:21:00-08:00",
+      "heat": 51,
+      "tags": [
+        "Education"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3168/1/2019-11-29_094924.png",
+          "width": 1363,
+          "height": 679,
           "isCached": true
         }
       ],
@@ -665,66 +725,6 @@
           "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/520/1/PBIX_Meetup_EN.JPG",
           "width": 1886,
           "height": 1088,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_samples/powerbi-community-a-marketing-presentation.md",
-      "title": "A Marketing Presentation",
-      "excerpt": "Presentación de Ventas eyJrIjoiMzJhZGRmMGItMjNjZi00NTA1LWI3NGQtNDQ3MDNjYzhhM2NiIiwidCI6ImYyMmFlZDcyLTc1YmMtNDI2YS1hOGQzLTFiYTgyNmY0ODI4MSIsImMiOjR9",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-a-marketing-presentation/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-a-marketing-presentation/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/A-Marketing-Presentation/m-p/425992",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "gabriva",
-            "type": "profile",
-            "name": "gabriva"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMzJhZGRmMGItMjNjZi00NTA1LWI3NGQtNDQ3MDNjYzhhM2NiIiwidCI6ImYyMmFlZDcyLTc1YmMtNDI2YS1hOGQzLTFiYTgyNmY0ODI4MSIsImMiOjR9\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiMzJhZGRmMGItMjNjZi00NTA1LWI3NGQtNDQ3MDNjYzhhM2NiIiwidCI6ImYyMmFlZDcyLTc1YmMtNDI2YS1hOGQzLTFiYTgyNmY0ODI4MSIsImMiOjR9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1925/2/MKT-PRESENTACION-OFFICECONSULTING-03.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2018-05-26T10:19:00-07:00",
-      "heat": 50,
-      "tags": [
-        "Business"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1925/1/OfficeConsulting_03.png",
-          "width": 1195,
-          "height": 695,
           "isCached": true
         }
       ],

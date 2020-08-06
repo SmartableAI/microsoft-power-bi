@@ -4,7 +4,7 @@ excerpt: "This report shows analysis for work packages (associated with equipmen
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Construction-Procurement-Process-Analysis/m-p/792469
 type: download
 publishedDateTime: 2019-09-14T15:12:00Z
-heat: 54
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNzRlYmJjMDktZmNkMC00YTkzLThjYTQtZTFiM2UzNWNiYTg2IiwidCI6IjBjNzk5ZDM4LTQ3NjQtNDJiYy1iNGZmLTIzYmViYTljN2ZlMiIsImMiOjh9\"></iframe>"
 

@@ -4,66 +4,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_samples/powerbi-community-sales-data-analysis.md",
-      "title": "SALES DATA ANALYSIS",
-      "excerpt": "Superstore Data taken from: https://community.tableau.com/docs/DOC-1236 Sales and Profit with Timeline Slicer. Matrix with Icon sets. Top N",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-sales-data-analysis/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-sales-data-analysis/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/SALES-DATA-ANALYSIS/m-p/829375",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "havish_mad",
-            "type": "profile",
-            "name": "havish_mad"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMmU3MDNjNzMtZmQyMy00YzE0LThlZWItMDYyZGZiZTMwOTY1IiwidCI6ImFhZDM5OWY1LWEyNTQtNDMwYi1iMjI5LWY5OWY4YmE3MTM0NyJ9\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiMmU3MDNjNzMtZmQyMy00YzE0LThlZWItMDYyZGZiZTMwOTY1IiwidCI6ImFhZDM5OWY1LWEyNTQtNDMwYi1iMjI5LWY5OWY4YmE3MTM0NyJ9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3088/2/WebsiteSuperstore.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2019-10-27T03:45:00-07:00",
-      "heat": 50,
-      "tags": [
-        "Business"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3088/1/Annotation%202019-10-27%20231338.jpg",
-          "width": 1332,
-          "height": 747,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_samples/powerbi-community-salud-ocupacional.md",
       "title": "Salud Ocupacional",
       "excerpt": "Seguimiento Salud Ocupacional, usando Drillthrough.",
@@ -245,6 +185,66 @@
       ]
     },
     {
+      "path": "_samples/powerbi-community-seattle-pet-name-explorer.md",
+      "title": "Seattle Pet Name Explorer",
+      "excerpt": "The Seattle Pet Name Explorer is a fun way to search for popular and unique pet names in the City of Seattle. Built with Seattle Pet License data",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-seattle-pet-name-explorer/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-seattle-pet-name-explorer/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Seattle-Pet-Name-Explorer/m-p/274940",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Evan_at_DD",
+            "type": "profile",
+            "name": "Evan_at_DD"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOGRjZDE5MWMtMWU2MC00ODMwLTk4ZjQtZmYxOTYyMWRhZDI2IiwidCI6IjdlY2M4YWEwLTgzMGUtNGQ4Ni1hZjc4LTgzYTNkY2MyNjIzOCIsImMiOjZ9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiOGRjZDE5MWMtMWU2MC00ODMwLTk4ZjQtZmYxOTYyMWRhZDI2IiwidCI6IjdlY2M4YWEwLTgzMGUtNGQ4Ni1hZjc4LTgzYTNkY2MyNjIzOCIsImMiOjZ9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1190/2/Seattle%20Pet%20Explorer.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2017-10-10T05:36:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Entertainment"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1190/1/Seattle%20Pet%20Name%20Explorer.PNG",
+          "width": 1121,
+          "height": 738,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_samples/powerbi-community-seguimiento-capacitacion.md",
       "title": "Seguimiento Capacitación",
       "excerpt": "Seguimiento de Capacitación usando Tooltips.",
@@ -305,12 +305,12 @@
       ]
     },
     {
-      "path": "_samples/powerbi-community-skating-to-the-top-analyzing-nhl-game-attendance.md",
-      "title": "Skating to the Top : Analyzing NHL Game Attendance",
-      "excerpt": "Discover NHL home game attendance in this report! Attendance has been increasing overall but take a look to see who leads the pack and who is",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-skating-to-the-top-analyzing-nhl-game-attendance/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-skating-to-the-top-analyzing-nhl-game-attendance/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Skating-to-the-Top-Analyzing-NHL-Game-Attendance/m-p/725581",
+      "path": "_samples/powerbi-community-selfitis-the-story.md",
+      "title": "Selfitis - The Story",
+      "excerpt": "Why were you interested in telling this story? For the Year in Review contest I wanted to find a subject/topic that was unique and interesting but",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-selfitis-the-story/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-selfitis-the-story/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Selfitis-The-Story/m-p/349421",
       "provider": {
         "name": "PowerBI Community",
         "domain": "powerbi.com",
@@ -325,39 +325,40 @@
         "authors": [
           {
             "path": "",
-            "title": "MWinter225",
+            "title": "RyanBentham",
             "type": "profile",
-            "name": "MWinter225"
+            "name": "RyanBentham"
           }
         ]
       },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjYyNjYyMTUtYzA3Ny00OTlhLWFjMGYtYmI3ZmE3MzE5MTczIiwidCI6ImQyOGMxMDVhLWI3N2ItNDA3Yy04YjBjLTFhNmYyZDNhZDg5MCIsImMiOjZ9\"></iframe>",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYjBiZWFlOTUtYjhjZS00NGIwLWE3Y2EtYTYzOTcxOTU4MzZiIiwidCI6Ijg0ODgwZjIxLWE0OGQtNDA4Zi1hZmZmLTg5NjY3ZjQ5YTJiNCJ9\"></iframe>",
       "actions": [
         {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiNjYyNjYyMTUtYzA3Ny00OTlhLWFjMGYtYmI3ZmE3MzE5MTczIiwidCI6ImQyOGMxMDVhLWI3N2ItNDA3Yy04YjBjLTFhNmYyZDNhZDg5MCIsImMiOjZ9",
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiYjBiZWFlOTUtYjhjZS00NGIwLWE3Y2EtYTYzOTcxOTU4MzZiIiwidCI6Ijg0ODgwZjIxLWE0OGQtNDA4Zi1hZmZmLTg5NjY3ZjQ5YTJiNCJ9",
           "type": "preview",
           "title": "Preview Report",
           "attribution": "PowerBI Community"
         },
         {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2727/2/Skating%20to%20the%20Top.pbix",
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1561/2/selfie%20mad.pbix",
           "type": "download",
           "title": "Download PBIX",
           "attribution": "PowerBI Community"
         }
       ],
-      "publishedDateTime": "2019-06-26T11:59:00-07:00",
+      "publishedDateTime": "2018-01-31T08:13:00-08:00",
       "heat": 50,
       "tags": [
         "Entertainment",
-        "Sports",
-        "Lifestyle"
+        "Technology",
+        "Lifestyle",
+        "Social Media"
       ],
       "images": [
         {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2727/1/Skating%20to%20the%20Top%20Thumbnail.png",
-          "width": 1853,
-          "height": 1027,
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1561/1/thumb2%23.PNG",
+          "width": 1375,
+          "height": 785,
           "isCached": true
         }
       ],
@@ -489,6 +490,66 @@
       ]
     },
     {
+      "path": "_samples/powerbi-community-ssis-replication-log-dashboard.md",
+      "title": "SSIS Replication Log Dashboard",
+      "excerpt": "I inspired by before working on this dashboard. He has a great Dashboard of SSIS catalog here . There couldn't be alternative work of him then i",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-ssis-replication-log-dashboard/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-ssis-replication-log-dashboard/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/SSIS-Replication-Log-Dashboard/m-p/630142",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "macnr",
+            "type": "profile",
+            "name": "macnr"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYmExY2U1ODUtNDA0OS00YjFmLWE3NzktYWRjMTZiZGQyZWFhIiwidCI6ImViZGJlZmExLWU0NmMtNDkzYi05NzNlLWVjZjgxNTgwNmEwYiIsImMiOjl9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiYmExY2U1ODUtNDA0OS00YjFmLWE3NzktYWRjMTZiZGQyZWFhIiwidCI6ImViZGJlZmExLWU0NmMtNDkzYi05NzNlLWVjZjgxNTgwNmEwYiIsImMiOjl9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2516/2/ReplicationLogDashboard.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2019-02-22T13:58:00-08:00",
+      "heat": 50,
+      "tags": [
+        "Technology"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2516/1/dashboard_view.PNG",
+          "width": 955,
+          "height": 541,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_samples/powerbi-community-st-johns-gospel-translated-to-word-cloud.md",
       "title": "St. John's Gospel Translated to Word Cloud",
       "excerpt": "no numbers, no data modelling, TEXT only. Click on a word to view the related sentences; click on a sentence and view a cloud generated word visual.",
@@ -602,6 +663,66 @@
           "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2950/1/historical%20events.PNG",
           "width": 1455,
           "height": 808,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-suicide-deaths-in-uk.md",
+      "title": "Suicide Deaths in UK",
+      "excerpt": "2019 Week 43 makeovermonday is about: The age at which most people are dying by suicide in UK",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-suicide-deaths-in-uk/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-suicide-deaths-in-uk/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Suicide-Deaths-in-UK/m-p/825984",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Ananya_M",
+            "type": "profile",
+            "name": "Ananya_M"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNzNmNTIxZjQtZjNlMy00NmRkLWI4MTctN2ZiZDBjNDhkMGNlIiwidCI6IjgxNzdmMWQzLWU2NTAtNDAxNS1iNzdhLTY4MjUxODQwMzRiNyJ9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNzNmNTIxZjQtZjNlMy00NmRkLWI4MTctN2ZiZDBjNDhkMGNlIiwidCI6IjgxNzdmMWQzLWU2NTAtNDAxNS1iNzdhLTY4MjUxODQwMzRiNyJ9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3084/2/Suicide%20rate%20in%20UK.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2019-10-22T18:46:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Health"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3084/1/suicide%20rate%20in%20UK.png",
+          "width": 1033,
+          "height": 608,
           "isCached": true
         }
       ],
@@ -974,6 +1095,67 @@
       ]
     },
     {
+      "path": "_samples/powerbi-community-the-spread-of-corona-virus.md",
+      "title": "The Spread of Corona Virus",
+      "excerpt": "This dashboard tracks the spread of Corona and details the tragedy of it. This is still a work in progress. Feedback is appreciated.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-the-spread-of-corona-virus/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-the-spread-of-corona-virus/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/The-Spread-of-Corona-Virus/m-p/987165",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "vanessafvg",
+            "type": "profile",
+            "name": "vanessafvg"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMzE1OGE3ZjctNGZlOC00MDEzLWI5YmMtMmQyZGQyZGM1ZjY3IiwidCI6ImExZDY2YTAyLWE3MTctNDZjOC1iM2M3LWRlYzkxZTNmYzM5MiIsImMiOjh9&amp;fbclid=IwAR0oaV_9K8SLIgZzEtgpgg_Xk9seLCmL2A-9naW1ZaCUhT0tFa66YeKh73o\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiMzE1OGE3ZjctNGZlOC00MDEzLWI5YmMtMmQyZGQyZGM1ZjY3IiwidCI6ImExZDY2YTAyLWE3MTctNDZjOC1iM2M3LWRlYzkxZTNmYzM5MiIsImMiOjh9&amp;fbclid=IwAR0oaV_9K8SLIgZzEtgpgg_Xk9seLCmL2A-9naW1ZaCUhT0tFa66YeKh73o",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3551/2/Corona.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2020-03-23T00:31:00-07:00",
+      "heat": 50,
+      "tags": [
+        "COVID-19",
+        "Health"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3551/1/CoronaDashbaord.JPG",
+          "width": 1630,
+          "height": 882,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_samples/powerbi-community-the-squirrels-of-new-york.md",
       "title": "The Squirrels of New York",
       "excerpt": "Created for #MakeoverMonday 2019 Week 48. Includes my first DAX measure and the Advance Card viz from the marketplace.",
@@ -1327,187 +1509,6 @@
           "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/964/1/IMG_20170717_224724_025.jpg",
           "width": 1366,
           "height": 768,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_samples/powerbi-community-tracking-coronavirus-outbreak.md",
-      "title": "Tracking Coronavirus  Outbreak",
-      "excerpt": "The r eport tracks Covid 19 progression and provides summarized view of Corona Outbreak across nations with an option to drill through specific",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-tracking-coronavirus-outbreak/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-tracking-coronavirus-outbreak/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Tracking-Coronavirus-Outbreak/m-p/1093073",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "smtiwari",
-            "type": "profile",
-            "name": "smtiwari"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDc4NzlhYzktN2JlNy00YTljLWFjNjEtZDZlOTE2ZTUzY2E2IiwidCI6IjQ2ZTU2MmVlLWFiNGUtNGYxYi1iOWUyLWM4NDUzN2RkNTYwOCJ9\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiMDc4NzlhYzktN2JlNy00YTljLWFjNjEtZDZlOTE2ZTUzY2E2IiwidCI6IjQ2ZTU2MmVlLWFiNGUtNGYxYi1iOWUyLWM4NDUzN2RkNTYwOCJ9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3958/2/TrackingCoronaOutbreak.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2020-05-16T21:31:00-07:00",
-      "heat": 50,
-      "tags": [
-        "COVID-19"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3958/1/Thumbnail.PNG",
-          "width": 876,
-          "height": 500,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_samples/powerbi-community-twitter-trend-dashboard.md",
-      "title": "Twitter Trend Dashboard",
-      "excerpt": "Twitter Sentiment analysis in Power BI. The data was collected using Python. Refer to this link to read about the data collection process:",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-twitter-trend-dashboard/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-twitter-trend-dashboard/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Twitter-Trend-Dashboard/m-p/1013684",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "arnab96",
-            "type": "profile",
-            "name": "arnab96"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYTA0YjFlZjctNGY5Ni00MzQ2LTkzYTQtYWQ4YzNiNTU3YjJkIiwidCI6IjgwZjIzZjRhLTkxYTQtNDU2Ni04ZGIxLTNiY2FiYjIxZDFjYiIsImMiOjF9\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiYTA0YjFlZjctNGY5Ni00MzQ2LTkzYTQtYWQ4YzNiNTU3YjJkIiwidCI6IjgwZjIzZjRhLTkxYTQtNDU2Ni04ZGIxLTNiY2FiYjIxZDFjYiIsImMiOjF9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3705/2/tweet%20dashboard.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2020-04-07T07:23:00-07:00",
-      "heat": 50,
-      "tags": [
-        "Technology"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3705/1/tweet-dashboard.PNG",
-          "width": 1447,
-          "height": 819,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_samples/powerbi-community-twitter-uber-tinderwho-will-be-the-next-to-reach-1-billion-users.md",
-      "title": "Twitter, Uber, Tinder...who will  be the next to reach 1 Billion Users?",
-      "excerpt": "Hi, This is my second public dashboard using Power BI. This dashboard enables us to track various KPIs of most famous mobile apps, such as : Linked",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-twitter-uber-tinderwho-will-be-the-next-to-reach-1-billion-users/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-twitter-uber-tinderwho-will-be-the-next-to-reach-1-billion-users/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Twitter-Uber-Tinder-who-will-be-the-next-to-reach-1-Billion/m-p/211197",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "augustindelaf",
-            "type": "profile",
-            "name": "augustindelaf"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNDBmYWIxZjMtOWU0Yy00YThkLWE0MWUtY2M2N2IwM2M4ZDkxIiwidCI6Ijg5NWQ0YTRiLTE1NGYtNDUzNy04NzAyLTc4YWQ0MDE1Y2Y0YSIsImMiOjl9\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiNDBmYWIxZjMtOWU0Yy00YThkLWE0MWUtY2M2N2IwM2M4ZDkxIiwidCI6Ijg5NWQ0YTRiLTE1NGYtNDUzNy04NzAyLTc4YWQ0MDE1Y2Y0YSIsImMiOjl9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/946/2/MobileAppsWorldLeaders.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2017-07-12T20:20:00-07:00",
-      "heat": 50,
-      "tags": [
-        "Entertainment",
-        "Technology"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/946/1/GAFAandNext.PNG",
-          "width": 676,
-          "height": 679,
           "isCached": true
         }
       ],

@@ -4,7 +4,7 @@ excerpt: "This was made for college presentation purpose."
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/FDIs-in-2019/m-p/889550
 type: download
 publishedDateTime: 2020-01-04T02:04:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNmViMTg3MzctNzgyYy00MDEwLThiNDUtYzQ5YThhOTVlNmYxIiwidCI6ImU4OGRlOGJjLWRlOWEtNDI2YS05ZGQyLWY0NzJjNGFhNGM4ZSIsImMiOjEwfQ%3D%3D\"></iframe>"
 

@@ -4,7 +4,7 @@ excerpt: "Have you ever wondered how the internet comes to your home? Have you e
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/How-the-Internet-Works-Back-to-School/m-p/785774
 type: download
 publishedDateTime: 2019-09-06T07:07:00Z
-heat: 53
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDRjZTdiNmMtYjAzMy00MjE5LTllYmQtYzVkMWU1ZWQ5MDEzIiwidCI6IjU2N2NhNTBiLWYxOTgtNGIxMS1iZjc5LWYzNzhlMzM1YzljMCIsImMiOjR9\"></iframe>"
 

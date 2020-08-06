@@ -4,6 +4,7 @@ excerpt: "I made some simple Power BI templates for Marketing Data Attribution a
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Marketing-Data-Attribution-Key-Influencers/m-p/1235179
 type: download
 publishedDateTime: 2020-07-20T06:12:00Z
+heat: 58
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMjk2ZmM5NjItODU3NS00ZTU0LTlmZWItZDU1YmFkNjJiMmFhIiwidCI6IjYyYjBiNjRjLTRiNWItNDU5OC04OGZlLTljYTIxNmM1NjdkMiIsImMiOjh9&amp;embedImagePlaceholder=true&amp;pageName=ReportSectiona456cdd07d035524421a\"></iframe>"
 

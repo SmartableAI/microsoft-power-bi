@@ -4,7 +4,7 @@ excerpt: "Local government is always looking for ways to target its resources mo
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Lancashire-County-Council-Neighbourhood-Intelligence/m-p/232538
 type: download
 publishedDateTime: 2017-08-16T08:14:00Z
-heat: 52
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYzIxMTM3YjMtNjBhMy00MDg4LTk4NmEtMzgzYzhkMjM2YmFiIiwidCI6IjlmNjgzZTI2LWQ4YjktNDYwOS05ZWM0LWUxYTM2ZTRiYjRkMiIsImMiOjh9\"></iframe>"
 

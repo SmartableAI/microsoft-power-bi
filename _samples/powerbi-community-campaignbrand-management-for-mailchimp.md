@@ -4,7 +4,7 @@ excerpt: "Solved: This Power BI demonstration is provided as an example of how a
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Campaign-Brand-Management-for-MailChimp/m-p/235868
 type: download
 publishedDateTime: 2017-08-22T00:55:00Z
-heat: 54
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiM2VjOTQzY2UtYmRhZC00ODVjLTlkMDYtZTU3NTBkYWI3ZDc0IiwidCI6IjhmZWYxOTVjLWVmMzQtNDk1MS1hYjVkLTQ0NzYyM2I5Mzc5YiJ9\"></iframe>"
 

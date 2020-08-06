@@ -4,7 +4,7 @@ excerpt: "Tittle: Sales Reporting Demo. Developed with Power BI - March 2020 ver
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Sales-Reporting-Dashboard-for-Executive-Results/m-p/985889
 type: download
 publishedDateTime: 2020-03-22T12:44:00Z
-heat: 63
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNTI3M2JmYmMtMjI3My00YzUzLWE2MTUtNWIxOWQ3ODEyNDkzIiwidCI6IjEwZWM3OTJjLTU4NzctNGU1ZS05OGE5LTFiMWQ3YTNjM2RlYiIsImMiOjR9\"></iframe>"
 

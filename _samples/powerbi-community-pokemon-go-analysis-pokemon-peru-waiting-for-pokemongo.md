@@ -4,7 +4,7 @@ excerpt: "Power BI: Pokemon Kaits - Alejandro Sanchez - Peru A small demo of pok
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Pok%C3%A9mon-GO-Analysis-Pokemon-Per%C3%BA-waiting-for-PokemonGo/m-p/54560
 type: download
 publishedDateTime: 2016-08-01T15:20:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiODA5YjhhY2YtMTFiYS00NzUwLTk2ODgtZjQ2MTA0MzNhMGJiIiwidCI6ImIxZDg0Y2ZmLTg4ZDktNDdlNC1hNzdjLTQ2MjNhZTE0MzVhZCIsImMiOjR9\"></iframe>"
 

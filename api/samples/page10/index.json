@@ -4,6 +4,367 @@
   "page": 10,
   "value": [
     {
+      "path": "_samples/powerbi-community-iglobe-crm-office-365-power-bi-opportunity-report-demo.md",
+      "title": "iGlobe CRM Office 365 Power BI Opportunity report Demo",
+      "excerpt": "iGlobe CRM Office 365 is a simple CRM for organizations on Office 365. Focusing on the user, as a part of a team or individual, iGlobe CRM Office 365",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-iglobe-crm-office-365-power-bi-opportunity-report-demo/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-iglobe-crm-office-365-power-bi-opportunity-report-demo/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/iGlobe-CRM-Office-365-Power-BI-Opportunity-report-Demo/m-p/349819",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "bruchiel",
+            "type": "profile",
+            "name": "bruchiel"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYmI4OWM0NWQtODI1ZS00ZWY2LTgwZTUtMTk1NDFkMTUzNDgzIiwidCI6ImIwNzA0M2Y4LWRkNGUtNGQzMC04NDBiLTlkOTJkYTEzZjlhZSIsImMiOjh9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiYmI4OWM0NWQtODI1ZS00ZWY2LTgwZTUtMTk1NDFkMTUzNDgzIiwidCI6ImIwNzA0M2Y4LWRkNGUtNGQzMC04NDBiLTlkOTJkYTEzZjlhZSIsImMiOjh9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1588/2/iGlobeCRMOffice365.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2018-01-31T19:43:00-08:00",
+      "heat": 50,
+      "tags": [
+        "Business"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1588/1/2017-09-24_16-29-07.png",
+          "width": 1911,
+          "height": 991,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-imdb-movies-in-2018.md",
+      "title": "IMDB Movies in 2018",
+      "excerpt": "Hello there! I made this power bi report with the oficial imdb databse and IMDbPY pyhton package to get de url image.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-imdb-movies-in-2018/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-imdb-movies-in-2018/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/IMDB-Movies-in-2018/m-p/827908",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "MauroLucas",
+            "type": "profile",
+            "name": "MauroLucas"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDY2NDg2ZWMtYzIwZi00MDNhLWE3MWQtNWVmYzA1ODEyZGY4IiwidCI6IjI1ZjdlNGIzLTJiYTUtNDM1Yi04NzE4LWFkZDAwNmVhNzI3NiJ9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiMDY2NDg2ZWMtYzIwZi00MDNhLWE3MWQtNWVmYzA1ODEyZGY4IiwidCI6IjI1ZjdlNGIzLTJiYTUtNDM1Yi04NzE4LWFkZDAwNmVhNzI3NiJ9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3086/2/2018%20IMDb.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2019-10-24T07:02:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Entertainment"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3086/1/Movies%202018.png",
+          "width": 1904,
+          "height": 768,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-indian-premier-league-2008-2019.md",
+      "title": "Indian Premier League 2008 -2019",
+      "excerpt": "This Dashboard presents data analysis for IPL (Indian Premier League) matches from the beginning till year 2019. This can be useful for all the",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-indian-premier-league-2008-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-indian-premier-league-2008-2019/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Indian-Premier-League-2008-2019/m-p/756185",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Dontamsetti",
+            "type": "profile",
+            "name": "Dontamsetti"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNDI2YzliMzYtNWI5My00MTU1LTkzODctZTdmZGE4YmYwZTQ3IiwidCI6IjA0ZWM2MTA5LTRjNzktNGM3My1hZTcxLWE0NzRjMDlhMWY1YSJ9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNDI2YzliMzYtNWI5My00MTU1LTkzODctZTdmZGE4YmYwZTQ3IiwidCI6IjA0ZWM2MTA5LTRjNzktNGM3My1hZTcxLWE0NzRjMDlhMWY1YSJ9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2814/4/IPL_V1.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2019-08-01T18:57:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Sports"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2814/3/Overview.JPG",
+          "width": 932,
+          "height": 521,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-ipl-cricket-2020-schedule.md",
+      "title": "IPL CRICKET 2020 SCHEDULE",
+      "excerpt": "IPL 2020 CRICKET SCHEDULE AND THE TEAM SQUADS",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-ipl-cricket-2020-schedule/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-ipl-cricket-2020-schedule/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/IPL-CRICKET-2020-SCHEDULE/m-p/957136",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "prarabdha7",
+            "type": "profile",
+            "name": "prarabdha7"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMTk4YThjNGYtNWQ3My00YzdkLWIzZDEtYmFjNDdkMGM1ZWVjIiwidCI6IjkzZjMzNTcxLTU1MGYtNDNjZi1iMDlmLWNkMzMxMzM4ZDA4NiIsImMiOjZ9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiMTk4YThjNGYtNWQ3My00YzdkLWIzZDEtYmFjNDdkMGM1ZWVjIiwidCI6IjkzZjMzNTcxLTU1MGYtNDNjZi1iMDlmLWNkMzMxMzM4ZDA4NiIsImMiOjZ9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3394/2/ipl%20theme.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2020-03-02T23:25:00-08:00",
+      "heat": 50,
+      "tags": [
+        "Sports"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3394/1/Capture_tn.jpg",
+          "width": 100,
+          "height": 100,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-katona-jozsef-theater-hu-2017.md",
+      "title": "Katona József Theater (HU) 2017",
+      "excerpt": "This is the current membership of the most prominent Hungarian Theater called Katona József Színház shown in a timeline. Legends in English: - Grey:",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-katona-jozsef-theater-hu-2017/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-katona-jozsef-theater-hu-2017/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Katona-J%C3%B3zsef-Theater-HU-2017/m-p/352300",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Judkacag",
+            "type": "profile",
+            "name": "Judkacag"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZmZkYjgyYzItZmQzZi00ODljLWIxODItZDVmM2RiMDdkOTg2IiwidCI6Ijk1NzY1MTNjLWQ2OTQtNDA4Ny1iMjExLTM2NjVjZWVlN2VkNCIsImMiOjN9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiZmZkYjgyYzItZmQzZi00ODljLWIxODItZDVmM2RiMDdkOTg2IiwidCI6Ijk1NzY1MTNjLWQ2OTQtNDA4Ny1iMjExLTM2NjVjZWVlN2VkNCIsImMiOjN9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1605/2/Katona%20t%C3%A1rsulat%202018.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2018-02-05T16:53:00-08:00",
+      "heat": 50,
+      "tags": [
+        "Entertainment"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1605/1/Katona_Power%20BI.png",
+          "width": 1908,
+          "height": 2316,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-kobe-bryant-career-visualization-by-seth-samuel.md",
+      "title": "Kobe Bryant Career Visualization by Seth Samuel",
+      "excerpt": "This report is to pay tribute to the great sportsman - Kobe Bryant. Contact: https://www.linkedin.com/in/samuelseth/",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-kobe-bryant-career-visualization-by-seth-samuel/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-kobe-bryant-career-visualization-by-seth-samuel/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Kobe-Bryant-Career-Visualization-by-Seth-Samuel/m-p/1035021",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Inspiresia",
+            "type": "profile",
+            "name": "Inspiresia"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjQzOTI4OWEtYjk0My00ZjJjLWEyOGEtYWMyZDRhZWQ4YTE1IiwidCI6ImYxYmM0MDQxLTFlY2ItNGIwMi05YzVmLWJkNjdiYmJhODI0OCJ9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNjQzOTI4OWEtYjk0My00ZjJjLWEyOGEtYWMyZDRhZWQ4YTE1IiwidCI6ImYxYmM0MDQxLTFlY2ItNGIwMi05YzVmLWJkNjdiYmJhODI0OCJ9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3797/2/Kobe%20Career.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2020-04-19T08:06:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Sports",
+        "Lifestyle"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3797/1/KB.PNG",
+          "width": 863,
+          "height": 659,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_samples/powerbi-community-las-vegas-historic-tourism-factsmakeover-monday-week-45.md",
       "title": "Las Vegas Historic Tourism Facts(Makeover Monday Week-45)",
       "excerpt": "The impact of the Great Recession on the city of Las Vegas",
@@ -608,6 +969,70 @@
       ]
     },
     {
+      "path": "_samples/powerbi-community-mobile-theme-by-maq-software.md",
+      "title": "Mobile theme by MAQ Software",
+      "excerpt": "Utilizing the design expertise in Power BI, MAQ Software engineering team has created a theme/layout in Power BI which looks best in mobile view.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-mobile-theme-by-maq-software/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-mobile-theme-by-maq-software/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Mobile-theme-by-MAQ-Software/m-p/511914",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "MAQSupport",
+            "type": "profile",
+            "name": "MAQSupport"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiY2Q1ZDY4Y2UtODUyZi00MTBmLTk0YmMtMmM0YWRiODcyYmNiIiwidCI6ImU0ZDk4ZGQyLTkxOTktNDJlNS1iYThiLWRhM2U3NjNlZGUyZSIsImMiOjZ9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiY2Q1ZDY4Y2UtODUyZi00MTBmLTk0YmMtMmM0YWRiODcyYmNiIiwidCI6ImU0ZDk4ZGQyLTkxOTktNDJlNS1iYThiLWRhM2U3NjNlZGUyZSIsImMiOjZ9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2211/2/Mobile%20theme%20by%20MAQ%20Software.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2018-09-09T23:25:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Education",
+        "Government",
+        "Business",
+        "Technology",
+        "Social Media"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2211/1/themes-mobile.png",
+          "width": 1092,
+          "height": 636,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_samples/powerbi-community-multilingual-xmascard-2019.md",
       "title": "Multilingual XMasCard 2019",
       "excerpt": "Hi, I collected so much of XMas greetings in different languages and I created a very simple BI application as unique online Christmas wishes card.",
@@ -969,66 +1394,6 @@
       ]
     },
     {
-      "path": "_samples/powerbi-community-new-york-city-traffic-accident-dashboard.md",
-      "title": "New York City Traffic Accident Dashboard",
-      "excerpt": "I have created a “NYC Traffic Accident Report Year 2018” dashboard, which is integrated to Google Cloud (underlay data) and Power BI from NYC",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-new-york-city-traffic-accident-dashboard/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-new-york-city-traffic-accident-dashboard/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/New-York-City-Traffic-Accident-Dashboard/m-p/1101892",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "fka0006",
-            "type": "profile",
-            "name": "fka0006"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNGUxZDJjYjQtZGU0MC00OTMwLWE1YmEtZDUxNWEzMDc5MjIyIiwidCI6IjkyYWVlZTNjLTk2OWYtNDU5OS1iM2ZkLTQyYmQ3ZTA1NTliOCIsImMiOjl9\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiNGUxZDJjYjQtZGU0MC00OTMwLWE1YmEtZDUxNWEzMDc5MjIyIiwidCI6IjkyYWVlZTNjLTk2OWYtNDU5OS1iM2ZkLTQyYmQ3ZTA1NTliOCIsImMiOjl9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3983/2/Power%20BI%20NYC%20Traffic.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2020-05-21T08:51:00-07:00",
-      "heat": 50,
-      "tags": [
-        "Government"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3983/1/NYC%20Traffic%20Dashboard.JPG",
-          "width": 965,
-          "height": 532,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_samples/powerbi-community-nintendo-bis.md",
       "title": "Nintendo BIS",
       "excerpt": "Business intelligence is for the storytellers.",
@@ -1141,366 +1506,6 @@
           "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1496/1/thumbnail.PNG",
           "width": 1456,
           "height": 845,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_samples/powerbi-community-online-voting-fraud.md",
-      "title": "Online voting fraud",
-      "excerpt": "Hi, this is an example of a fully automated dashboard/report which shows the results of an online voting contest, along with its frauds. DATA FLOW An",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-online-voting-fraud/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-online-voting-fraud/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Online-voting-fraud/m-p/53691",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "frodik",
-            "type": "profile",
-            "name": "frodik"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZmE5ZTNjYzEtNDE5Ny00ZTk4LTk2ODYtN2E3YmI0MTgzMTM3IiwidCI6ImZhYWU2NGVmLTU5NjAtNDYyNy05MzA0LWI1Njg4YzU1ZDY1NCIsImMiOjh9\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiZmE5ZTNjYzEtNDE5Ny00ZTk4LTk2ODYtN2E3YmI0MTgzMTM3IiwidCI6ImZhYWU2NGVmLTU5NjAtNDYyNy05MzA0LWI1Njg4YzU1ZDY1NCIsImMiOjh9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/173/2/Cener.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2016-07-27T20:00:00-07:00",
-      "heat": 50,
-      "tags": [
-        "Entertainment"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/173/1/cener_pbi_thumb.png",
-          "width": 1422,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_samples/powerbi-community-ov-unv-data-challenge-amara-diallo.md",
-      "title": "OV UNV Data Challenge - Amara Diallo",
-      "excerpt": "As a data challenge for Online Volunteers , Amara Diallo created a report to represent the geographical mobilization and demographics of United",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-ov-unv-data-challenge-amara-diallo/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-ov-unv-data-challenge-amara-diallo/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Amara-Diallo/m-p/1055698",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "luislopezunv",
-            "type": "profile",
-            "name": "luislopezunv"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNDljYzRiZDMtNjhkNS00MzZmLWI4NDItMzI5YTk3NmRmZmMxIiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiNDljYzRiZDMtNjhkNS00MzZmLWI4NDItMzI5YTk3NmRmZmMxIiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3863/2/OV_UNV_Data_Challenge-Amara_Diallo.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2020-04-28T18:11:00-07:00",
-      "heat": 50,
-      "tags": [
-        "Education"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3863/1/AmaraDiallo_UNVOVDataChallenge.PNG",
-          "width": 2270,
-          "height": 1248,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_samples/powerbi-community-ov-unv-data-challenge-dina-haniyah.md",
-      "title": "OV UNV Data Challenge - Dina Haniyah",
-      "excerpt": "As a data challenge for Online Volunteers , Dina Haniyah created a report to represent the geographical mobilization and demographics of United",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-ov-unv-data-challenge-dina-haniyah/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-ov-unv-data-challenge-dina-haniyah/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Dina-Haniyah/m-p/1082664",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "luislopezunv",
-            "type": "profile",
-            "name": "luislopezunv"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNTdjYzU4YjItYmNmYS00MzIyLWFjZDctNjNlZWQwMzQ2ZDRlIiwidCI6ImI0MThjNGZiLTBiYjQtNDBkMy1iYmIwLWIwMzI1YmQ5ZDA4ZiIsImMiOjEwfQ%3D%3D\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiYTU0YmVkMmItNTUxMS00NTBiLWIyNmItMTM5NjliZmU1NDJiIiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3917/2/OV%20UNV%20Data%20Challenge%20-%20Dina%20Haniyah.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2020-05-09T17:57:00-07:00",
-      "heat": 50,
-      "tags": [
-        "Education"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3917/1/DinaHaniyah_OV_UNV_DataChallenge.jpg",
-          "width": 2128,
-          "height": 1191,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_samples/powerbi-community-ov-unv-data-challenge-dorodi-krishty.md",
-      "title": "OV UNV Data Challenge - Dorodi Krishty",
-      "excerpt": "As a data challenge for Online Volunteers , Dorodi Krishty created a report to represent the geographical mobilization and demographics of United",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-ov-unv-data-challenge-dorodi-krishty/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-ov-unv-data-challenge-dorodi-krishty/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Dorodi-Krishty/m-p/1081701",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "luislopezunv",
-            "type": "profile",
-            "name": "luislopezunv"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOWM0ODM1ZTctZjg5MS00NmFmLWJhYWMtMjFlNTAzZTI2MWNiIiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiOWM0ODM1ZTctZjg5MS00NmFmLWJhYWMtMjFlNTAzZTI2MWNiIiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3913/2/DorodiKrishty.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2020-05-08T02:54:00-07:00",
-      "heat": 50,
-      "tags": [
-        "Education"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3913/1/OV_UNV_DorodiKrishty.jpg",
-          "width": 2129,
-          "height": 1179,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_samples/powerbi-community-ov-unv-data-challenge-jeffrey-hall.md",
-      "title": "OV UNV Data Challenge - Jeffrey Hall",
-      "excerpt": "As a data challenge for Online Volunteers , created a report to represent the geographical mobilization and demographics of United Nations",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-ov-unv-data-challenge-jeffrey-hall/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-ov-unv-data-challenge-jeffrey-hall/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Jeffrey-Hall/m-p/1028519",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "luislopezunv",
-            "type": "profile",
-            "name": "luislopezunv"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZDUwY2U0N2MtMjFjOS00YjFjLTk3NjQtNjMwYzc5NDU3Y2E4IiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiZDUwY2U0N2MtMjFjOS00YjFjLTk3NjQtNjMwYzc5NDU3Y2E4IiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3774/2/OV%20UNV%20Data%20Challenge%20-%20Jeffrey%20Hall.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2020-04-15T08:29:00-07:00",
-      "heat": 50,
-      "tags": [
-        "Education"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3774/1/jeffreyhall_report_thumb1.png",
-          "width": 4512,
-          "height": 2446,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_samples/powerbi-community-ov-unv-data-challenge-karolay-de-la-cruz.md",
-      "title": "OV UNV Data Challenge - Karolay De La Cruz",
-      "excerpt": "As a data challenge for Online Volunteers , Karolay de la Cruz created a report to represent the geographical mobilization and demographics of United",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-ov-unv-data-challenge-karolay-de-la-cruz/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-ov-unv-data-challenge-karolay-de-la-cruz/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Karolay-De-La-Cruz/m-p/1055662",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "luislopezunv",
-            "type": "profile",
-            "name": "luislopezunv"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMzE5ZGQ5MzgtNDM4NS00YjJiLWI1ZmItNDdiMDY2MTRlZDQxIiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiMzE5ZGQ5MzgtNDM4NS00YjJiLWI1ZmItNDdiMDY2MTRlZDQxIiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3862/3/OV-UNV-Data-Challenge-Karolay-De-La-Cruz.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2020-04-28T17:56:00-07:00",
-      "heat": 50,
-      "tags": [
-        "Education"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3862/1/KarolayDeLaCruz_UNVOVDataChallenge.PNG",
-          "width": 2091,
-          "height": 1174,
           "isCached": true
         }
       ],

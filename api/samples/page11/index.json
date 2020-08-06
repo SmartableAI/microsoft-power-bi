@@ -4,12 +4,12 @@
   "page": 11,
   "value": [
     {
-      "path": "_samples/powerbi-community-ov-unv-data-challenge-maher-fayad.md",
-      "title": "OV UNV Data Challenge - Maher Fayad",
-      "excerpt": "As a data challenge for Online Volunteers , Maher Fayad created a report to represent the geographical mobilization and demographics of United",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-ov-unv-data-challenge-maher-fayad/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-ov-unv-data-challenge-maher-fayad/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Maher-Fayad/m-p/1043525",
+      "path": "_samples/powerbi-community-online-voting-fraud.md",
+      "title": "Online voting fraud",
+      "excerpt": "Hi, this is an example of a fully automated dashboard/report which shows the results of an online voting contest, along with its frauds. DATA FLOW An",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-online-voting-fraud/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-online-voting-fraud/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Online-voting-fraud/m-p/53691",
       "provider": {
         "name": "PowerBI Community",
         "domain": "powerbi.com",
@@ -24,37 +24,37 @@
         "authors": [
           {
             "path": "",
-            "title": "luislopezunv",
+            "title": "frodik",
             "type": "profile",
-            "name": "luislopezunv"
+            "name": "frodik"
           }
         ]
       },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZDMyZjBlYWMtODQwYS00YzRkLTkwMWYtN2YzMmYxMDlmNGYwIiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9\"></iframe>",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZmE5ZTNjYzEtNDE5Ny00ZTk4LTk2ODYtN2E3YmI0MTgzMTM3IiwidCI6ImZhYWU2NGVmLTU5NjAtNDYyNy05MzA0LWI1Njg4YzU1ZDY1NCIsImMiOjh9\"></iframe>",
       "actions": [
         {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiZDMyZjBlYWMtODQwYS00YzRkLTkwMWYtN2YzMmYxMDlmNGYwIiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9",
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiZmE5ZTNjYzEtNDE5Ny00ZTk4LTk2ODYtN2E3YmI0MTgzMTM3IiwidCI6ImZhYWU2NGVmLTU5NjAtNDYyNy05MzA0LWI1Njg4YzU1ZDY1NCIsImMiOjh9",
           "type": "preview",
           "title": "Preview Report",
           "attribution": "PowerBI Community"
         },
         {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3822/2/OV-UNV-Data-Challenge-Maher-Mohamed-Attia-Metwally-Fayad.pbix",
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/173/2/Cener.pbix",
           "type": "download",
           "title": "Download PBIX",
           "attribution": "PowerBI Community"
         }
       ],
-      "publishedDateTime": "2020-04-22T17:55:00-07:00",
+      "publishedDateTime": "2016-07-27T20:00:00-07:00",
       "heat": 50,
       "tags": [
-        "Education"
+        "Entertainment"
       ],
       "images": [
         {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3822/1/maher%20fayad%20report%20thumb.PNG",
-          "width": 2097,
-          "height": 1182,
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/173/1/cener_pbi_thumb.png",
+          "width": 1422,
+          "height": 800,
           "isCached": true
         }
       ],
@@ -64,12 +64,12 @@
       ]
     },
     {
-      "path": "_samples/powerbi-community-ov-unv-data-challenge-papa-birame-tall.md",
-      "title": "OV UNV Data Challenge - Papa Birame Tall",
-      "excerpt": "As a data challenge for Online Volunteers , Papa birame Tall created a report to represent the geographical mobilization and demographics of United",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-ov-unv-data-challenge-papa-birame-tall/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-ov-unv-data-challenge-papa-birame-tall/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Papa-Birame-Tall/m-p/1082674",
+      "path": "_samples/powerbi-community-ov-unv-data-challenge-amara-diallo.md",
+      "title": "OV UNV Data Challenge - Amara Diallo",
+      "excerpt": "As a data challenge for Online Volunteers , Amara Diallo created a report to represent the geographical mobilization and demographics of United",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-ov-unv-data-challenge-amara-diallo/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-ov-unv-data-challenge-amara-diallo/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Amara-Diallo/m-p/1055698",
       "provider": {
         "name": "PowerBI Community",
         "domain": "powerbi.com",
@@ -90,31 +90,271 @@
           }
         ]
       },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZmMyYTRkMDctMGJiOS00OGI2LTljMDctY2MzMTgyYmNiNTQzIiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9\"></iframe>",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNDljYzRiZDMtNjhkNS00MzZmLWI4NDItMzI5YTk3NmRmZmMxIiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9\"></iframe>",
       "actions": [
         {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiZmMyYTRkMDctMGJiOS00OGI2LTljMDctY2MzMTgyYmNiNTQzIiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9",
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNDljYzRiZDMtNjhkNS00MzZmLWI4NDItMzI5YTk3NmRmZmMxIiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9",
           "type": "preview",
           "title": "Preview Report",
           "attribution": "PowerBI Community"
         },
         {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3918/2/UnvReport_Birame_TALL.pbix",
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3863/2/OV_UNV_Data_Challenge-Amara_Diallo.pbix",
           "type": "download",
           "title": "Download PBIX",
           "attribution": "PowerBI Community"
         }
       ],
-      "publishedDateTime": "2020-05-09T18:19:00-07:00",
+      "publishedDateTime": "2020-04-28T18:11:00-07:00",
       "heat": 50,
       "tags": [
         "Education"
       ],
       "images": [
         {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3918/1/PapaBirameTall_UNVOVDataChallenge.PNG",
-          "width": 2216,
-          "height": 1169,
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3863/1/AmaraDiallo_UNVOVDataChallenge.PNG",
+          "width": 2270,
+          "height": 1248,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-ov-unv-data-challenge-daphne-orihuela.md",
+      "title": "OV UNV Data Challenge - Daphne Orihuela",
+      "excerpt": "Data Challenge UNV eyJrIjoiMGUzMGIzNGMtZjNlNy00MTAwLWI4ZjctZDJiNWU2YTQ3NzVhIiwidCI6ImM0YTY2YzM0LTJiYjctNDUxZi04YmUxLWIyYzI2YTQzMDE1OCIsImMiOjR9",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-ov-unv-data-challenge-daphne-orihuela/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-ov-unv-data-challenge-daphne-orihuela/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Daphne-Orihuela/m-p/1145156",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "daphne05",
+            "type": "profile",
+            "name": "daphne05"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMGUzMGIzNGMtZjNlNy00MTAwLWI4ZjctZDJiNWU2YTQ3NzVhIiwidCI6ImM0YTY2YzM0LTJiYjctNDUxZi04YmUxLWIyYzI2YTQzMDE1OCIsImMiOjR9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiMGUzMGIzNGMtZjNlNy00MTAwLWI4ZjctZDJiNWU2YTQ3NzVhIiwidCI6ImM0YTY2YzM0LTJiYjctNDUxZi04YmUxLWIyYzI2YTQzMDE1OCIsImMiOjR9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/4067/2/OV%20UNV%20Data%20Challenge%20-%20Daphne%20Orihuela.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2020-06-05T10:53:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Education"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/4067/1/OV%20UNV%20Data%20Challenge%20-%20Daphne%20Orihuela.jpg",
+          "width": 578,
+          "height": 541,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-ov-unv-data-challenge-dorodi-krishty.md",
+      "title": "OV UNV Data Challenge - Dorodi Krishty",
+      "excerpt": "As a data challenge for Online Volunteers , Dorodi Krishty created a report to represent the geographical mobilization and demographics of United",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-ov-unv-data-challenge-dorodi-krishty/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-ov-unv-data-challenge-dorodi-krishty/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Dorodi-Krishty/m-p/1081701",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "luislopezunv",
+            "type": "profile",
+            "name": "luislopezunv"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOWM0ODM1ZTctZjg5MS00NmFmLWJhYWMtMjFlNTAzZTI2MWNiIiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiOWM0ODM1ZTctZjg5MS00NmFmLWJhYWMtMjFlNTAzZTI2MWNiIiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3913/2/DorodiKrishty.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2020-05-08T02:54:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Education"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3913/1/OV_UNV_DorodiKrishty.jpg",
+          "width": 2129,
+          "height": 1179,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-ov-unv-data-challenge-jeffrey-hall.md",
+      "title": "OV UNV Data Challenge - Jeffrey Hall",
+      "excerpt": "As a data challenge for Online Volunteers , created a report to represent the geographical mobilization and demographics of United Nations",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-ov-unv-data-challenge-jeffrey-hall/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-ov-unv-data-challenge-jeffrey-hall/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Jeffrey-Hall/m-p/1028519",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "luislopezunv",
+            "type": "profile",
+            "name": "luislopezunv"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZDUwY2U0N2MtMjFjOS00YjFjLTk3NjQtNjMwYzc5NDU3Y2E4IiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiZDUwY2U0N2MtMjFjOS00YjFjLTk3NjQtNjMwYzc5NDU3Y2E4IiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3774/2/OV%20UNV%20Data%20Challenge%20-%20Jeffrey%20Hall.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2020-04-15T08:29:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Education"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3774/1/jeffreyhall_report_thumb1.png",
+          "width": 4512,
+          "height": 2446,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-ov-unv-data-challenge-loai-saleh.md",
+      "title": "OV UNV Data Challenge - Loai Saleh",
+      "excerpt": "As a data challenge for Online Volunteers , Loai Saleh created a report to represent the geographical mobilization and demographics of United Nations",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-ov-unv-data-challenge-loai-saleh/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-ov-unv-data-challenge-loai-saleh/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Loai-Saleh/m-p/1096825",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "luislopezunv",
+            "type": "profile",
+            "name": "luislopezunv"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYzI4MTM2ZjgtMTI5OS00NTQ0LWFkN2ItMzQzMGYyODA1ZGU1IiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiYzI4MTM2ZjgtMTI5OS00NTQ0LWFkN2ItMzQzMGYyODA1ZGU1IiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3971/2/OV%20UNV%20Data%20Challenge%20-%20Loai%20Farajallah.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2020-05-19T04:55:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Education"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3971/1/OV%20UNV%20Data%20Challenge%20-%20Loai%20Farajallah-1.png",
+          "width": 2867,
+          "height": 1700,
           "isCached": true
         }
       ],
@@ -545,126 +785,6 @@
       ]
     },
     {
-      "path": "_samples/powerbi-community-philadelphia-school-district-metrics.md",
-      "title": "Philadelphia School District Metrics",
-      "excerpt": "This Power BI app shows the profile of Philadelphia School District Employees salaries by organization level over 5 years. More importantly it",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-philadelphia-school-district-metrics/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-philadelphia-school-district-metrics/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Philadelphia-School-District-Metrics/m-p/100714",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "bobrin",
-            "type": "profile",
-            "name": "bobrin"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOTRhNDIwY2ItNmViOS00M2RiLWJkZDQtMTNmNDI3Njc4ODdlIiwidCI6ImMwNmEzNTVkLTFkYmItNDVkYi1hYTI1LWM5OWRjYjgwOGIwYSIsImMiOjZ9\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiOTRhNDIwY2ItNmViOS00M2RiLWJkZDQtMTNmNDI3Njc4ODdlIiwidCI6ImMwNmEzNTVkLTFkYmItNDVkYi1hYTI1LWM5OWRjYjgwOGIwYSIsImMiOjZ9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/488/2/PHL%20School%20Metrics.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2016-12-10T03:30:00-08:00",
-      "heat": 50,
-      "tags": [
-        "Education"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/488/1/PhillySchoolDistrict_logo_newer.png",
-          "width": 300,
-          "height": 168,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_samples/powerbi-community-pokemon-go-analysis-pokemon-peru-waiting-for-pokemongo.md",
-      "title": "Pokémon GO - Analysis Pokemon: Perú waiting for PokemonGo",
-      "excerpt": "Power BI: Pokemon Kaits - Alejandro Sanchez - Peru A small demo of pokemon, created by a fan !. enjoy it. More Demos:",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-pokemon-go-analysis-pokemon-peru-waiting-for-pokemongo/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-pokemon-go-analysis-pokemon-peru-waiting-for-pokemongo/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Pok%C3%A9mon-GO-Analysis-Pokemon-Per%C3%BA-waiting-for-PokemonGo/m-p/54560",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "AlejandroSnchez",
-            "type": "profile",
-            "name": "AlejandroSnchez"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiODA5YjhhY2YtMTFiYS00NzUwLTk2ODgtZjQ2MTA0MzNhMGJiIiwidCI6ImIxZDg0Y2ZmLTg4ZDktNDdlNC1hNzdjLTQ2MjNhZTE0MzVhZCIsImMiOjR9\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiODA5YjhhY2YtMTFiYS00NzUwLTk2ODgtZjQ2MTA0MzNhMGJiIiwidCI6ImIxZDg0Y2ZmLTg4ZDktNDdlNC1hNzdjLTQ2MjNhZTE0MzVhZCIsImMiOjR9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/190/2/Pokemon%20Kaits.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2016-08-01T08:20:00-07:00",
-      "heat": 50,
-      "tags": [
-        "Entertainment"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/190/1/Pokemon%20Kaits.png",
-          "width": 933,
-          "height": 609,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_samples/powerbi-community-power-bi-50-years-of-capgemini-journey-so-far.md",
       "title": "Power BI : 50 Years of Capgemini - Journey so far",
       "excerpt": "Here is my attempt to showcase Capgemini's journey over the years in 4 phases. #powerbi #datastory",
@@ -1026,12 +1146,12 @@
       ]
     },
     {
-      "path": "_samples/powerbi-community-provide-insights-into-the-flight-departure-delays-of-us-airlines-dec-2015.md",
-      "title": "Provide Insights into the Flight Departure Delays of US Airlines - Dec 2015",
-      "excerpt": "An analysis of US airline data for the month of December 2015. Used to analyse and provide insights into the departure flight delays of Virgin",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-provide-insights-into-the-flight-departure-delays-of-us-airlines-dec-2015/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-provide-insights-into-the-flight-departure-delays-of-us-airlines-dec-2015/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Provide-Insights-into-the-Flight-Departure-Delays-of-US-Airlines/m-p/167816",
+      "path": "_samples/powerbi-community-presentation-resultats-concours-dataviz-france.md",
+      "title": "Présentation Résultats ( Concours Dataviz France)",
+      "excerpt": "J’ai pris l’option de créer un rapport Power BI qui permet de raconter une histoire ( DataStorytelling), et plus précisément de montrer qu’avec Power",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-presentation-resultats-concours-dataviz-france/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-presentation-resultats-concours-dataviz-france/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Pr%C3%A9sentation-R%C3%A9sultats-Concours-Dataviz-France/m-p/261928",
       "provider": {
         "name": "PowerBI Community",
         "domain": "powerbi.com",
@@ -1046,37 +1166,37 @@
         "authors": [
           {
             "path": "",
-            "title": "andylj123",
+            "title": "jpierre79",
             "type": "profile",
-            "name": "andylj123"
+            "name": "jpierre79"
           }
         ]
       },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOGFhM2U0ZTMtMjNhZC00YWYyLWFmZjAtYzYzYzQxOGE3YTNkIiwidCI6IjlhYmM2MTIzLTNlMWQtNGQzMC05NzdhLTg4MDYxNzAwYTM2ZiIsImMiOjh9\"></iframe>",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNTRlOWNhNmUtZDNhNi00M2FlLWFkNDAtYzc1YTcyMzhhYjAxIiwidCI6ImU0ZWZmOGU4LWU2MzUtNDI2Yy05NTJkLTA5ZGQ0OGMzZmM4MCIsImMiOjh9\"></iframe>",
       "actions": [
         {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiOGFhM2U0ZTMtMjNhZC00YWYyLWFmZjAtYzYzYzQxOGE3YTNkIiwidCI6IjlhYmM2MTIzLTNlMWQtNGQzMC05NzdhLTg4MDYxNzAwYTM2ZiIsImMiOjh9",
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNTRlOWNhNmUtZDNhNi00M2FlLWFkNDAtYzc1YTcyMzhhYjAxIiwidCI6ImU0ZWZmOGU4LWU2MzUtNDI2Yy05NTJkLTA5ZGQ0OGMzZmM4MCIsImMiOjh9",
           "type": "preview",
           "title": "Preview Report",
           "attribution": "PowerBI Community"
         },
         {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/831/2/Airline_v1.pbix",
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1172/2/VehiculesVariante6.pbix",
           "type": "download",
           "title": "Download PBIX",
           "attribution": "PowerBI Community"
         }
       ],
-      "publishedDateTime": "2017-05-01T20:51:00-07:00",
+      "publishedDateTime": "2017-09-29T20:13:00-07:00",
       "heat": 50,
       "tags": [
         "Business"
       ],
       "images": [
         {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/831/1/Airline.png",
-          "width": 1920,
-          "height": 1200,
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1172/1/Pres.jpg",
+          "width": 1819,
+          "height": 1043,
           "isCached": true
         }
       ],
@@ -1086,12 +1206,12 @@
       ]
     },
     {
-      "path": "_samples/powerbi-community-reporte-de-consumo-de-gasolina-oil-consume-report.md",
-      "title": "Reporte de Consumo de Gasolina (Oil Consume Report",
-      "excerpt": "Reporte de Consumo de Gasolina por Tarjeta (4)",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-reporte-de-consumo-de-gasolina-oil-consume-report/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-reporte-de-consumo-de-gasolina-oil-consume-report/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Reporte-de-Consumo-de-Gasolina-Oil-Consume-Report/m-p/434805",
+      "path": "_samples/powerbi-community-requirements-analysis-example-for-2016-mvp-summit.md",
+      "title": "Requirements Analysis example for 2016 MVP Summit",
+      "excerpt": "This model came from a real world need to analyze a list of requirements received as part of a Request for Proposal. These situations typically",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-requirements-analysis-example-for-2016-mvp-summit/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-requirements-analysis-example-for-2016-mvp-summit/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Requirements-Analysis-example-for-2016-MVP-Summit/m-p/88492",
       "provider": {
         "name": "PowerBI Community",
         "domain": "powerbi.com",
@@ -1106,97 +1226,38 @@
         "authors": [
           {
             "path": "",
-            "title": "gabriva",
+            "title": "trebgatte",
             "type": "profile",
-            "name": "gabriva"
+            "name": "trebgatte"
           }
         ]
       },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiODAyYTJlMTItYTYwYS00NjNiLWFhMmUtMTczYWI0MGVlNjIxIiwidCI6ImYyMmFlZDcyLTc1YmMtNDI2YS1hOGQzLTFiYTgyNmY0ODI4MSIsImMiOjR9\"></iframe>",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjE0ZTU2MjUtNTBkMC00NTdjLWJiYzAtMGI5N2JjNTczMTJlIiwidCI6IjA5ODQ4YTQ5LTRiMDEtNGFkNS05YzIyLWFlNjdjOWRlODVjNCIsImMiOjZ9\"></iframe>",
       "actions": [
         {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiODAyYTJlMTItYTYwYS00NjNiLWFhMmUtMTczYWI0MGVlNjIxIiwidCI6ImYyMmFlZDcyLTc1YmMtNDI2YS1hOGQzLTFiYTgyNmY0ODI4MSIsImMiOjR9",
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNjE0ZTU2MjUtNTBkMC00NTdjLWJiYzAtMGI5N2JjNTczMTJlIiwidCI6IjA5ODQ4YTQ5LTRiMDEtNGFkNS05YzIyLWFlNjdjOWRlODVjNCIsImMiOjZ9",
           "type": "preview",
           "title": "Preview Report",
           "attribution": "PowerBI Community"
         },
         {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1971/2/ADM-EFECTIVALE-CONSUMO%2018.pbix",
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/429/2/Requirements%20Analysis.pbix",
           "type": "download",
           "title": "Download PBIX",
           "attribution": "PowerBI Community"
         }
       ],
-      "publishedDateTime": "2018-06-07T01:48:00-07:00",
+      "publishedDateTime": "2016-11-10T03:03:00-08:00",
       "heat": 50,
       "tags": [
-        "Business"
+        "Business",
+        "Technology"
       ],
       "images": [
         {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1971/1/Combustible.png",
-          "width": 1389,
-          "height": 791,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_samples/powerbi-community-reporte-ventas-anuales.md",
-      "title": "Reporte Ventas Anuales",
-      "excerpt": "Reporte de Ventas Anuales con Metas Individuales y Organigrama del Área de Ventas en Visio",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-reporte-ventas-anuales/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-reporte-ventas-anuales/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Reporte-Ventas-Anuales/m-p/430587",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "gabriva",
-            "type": "profile",
-            "name": "gabriva"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiODU4NTlkNTItMTVlZC00NzU4LWJlMjctZWRkMTdhOGZmOWUwIiwidCI6ImYyMmFlZDcyLTc1YmMtNDI2YS1hOGQzLTFiYTgyNmY0ODI4MSIsImMiOjR9\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiODU4NTlkNTItMTVlZC00NzU4LWJlMjctZWRkMTdhOGZmOWUwIiwidCI6ImYyMmFlZDcyLTc1YmMtNDI2YS1hOGQzLTFiYTgyNmY0ODI4MSIsImMiOjR9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1940/2/OPER-VENTAS-ANUALES-01.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2018-06-01T11:58:00-07:00",
-      "heat": 50,
-      "tags": [
-        "Business"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1940/1/VentasAnuales.png",
-          "width": 1477,
-          "height": 825,
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/429/1/RequirementsAnalysis.jpg",
+          "width": 1629,
+          "height": 936,
           "isCached": true
         }
       ],
@@ -1317,67 +1378,6 @@
           "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2933/1/Road%20Safety.PNG",
           "width": 965,
           "height": 575,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_samples/powerbi-community-robot-wars-social-media-analysis.md",
-      "title": "Robot Wars - Social Media Analysis",
-      "excerpt": "This Social Media Analysis Report captures data from the official Robot Wars Facebook page . As a long-standing fan of the UK TV show “Robot Wars”, I",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-robot-wars-social-media-analysis/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-robot-wars-social-media-analysis/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Robot-Wars-Social-Media-Analysis/m-p/67036",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "TobiasOwen",
-            "type": "profile",
-            "name": "TobiasOwen"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMzc5ZDcxNmMtMzEyZC00NjM0LWI5YzYtODE5YTJlYTcxNWYxIiwidCI6IjMyMTY2YzE2LWJiMDItNGNlZi04OTEyLTFmNTE3MDQ1Yjc5YSIsImMiOjh9\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiMzc5ZDcxNmMtMzEyZC00NjM0LWI5YzYtODE5YTJlYTcxNWYxIiwidCI6IjMyMTY2YzE2LWJiMDItNGNlZi04OTEyLTFmNTE3MDQ1Yjc5YSIsImMiOjh9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/283/2/Robot%20Wars%20Data%20Visualisation.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2016-09-08T21:59:00-07:00",
-      "heat": 50,
-      "tags": [
-        "Entertainment",
-        "Social Media"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/283/1/Robot%20Wars%20Data%20Visualisation.PNG",
-          "width": 1280,
-          "height": 741,
           "isCached": true
         }
       ],

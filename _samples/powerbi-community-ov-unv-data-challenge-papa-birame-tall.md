@@ -4,7 +4,7 @@ excerpt: "As a data challenge for Online Volunteers , Papa birame Tall created a
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Papa-Birame-Tall/m-p/1082674
 type: download
 publishedDateTime: 2020-05-10T01:19:00Z
-heat: 50
+heat: 110
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZmMyYTRkMDctMGJiOS00OGI2LTljMDctY2MzMTgyYmNiNTQzIiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9\"></iframe>"
 

@@ -4,7 +4,7 @@ excerpt: "On Friday, January 20, 2017 Donald Trump was inaugurated as the 45th P
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Two-Presidencies-Two-Presidents-Two-Persons-in-2017-As-Seen-on/m-p/346261
 type: download
 publishedDateTime: 2018-01-26T12:47:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNGQyZWU0NTItNzA4Mi00YzhlLTkzMmMtZjMyOTQzZWMyODZlIiwidCI6IjIyNzNjNDFiLWI4ZDAtNDVhZi1iZWU2LWUwODQ5NmFlNjcxOCIsImMiOjN9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 775
     isCached: true
 
-secured: "2r+Htbo1cHmj6b8u976Vk2C6uhgvZi4uEGrCeoamSLLfL7//QFuDAcaq/OhA1qYrUjnSIZMrps3EWmsqrNqNk6EawQhZHSRkNzuWAG5U0qT1Nd4johl9XUcdqtHGKld06GUiTr/LG90eg2Wul1Wg690u5w6cxp/BUYJaa8B6hEXov0eO/RRpupMIxgCzbHisK/ljJ2hnOAn0xBsg1345nQzTamo5XrsI1jXk7+eGiICrYkFXypM2rRCkRH977AmLGunnbADRSF7jbFuli8GFtBbDig48ZsbCBdF7f5k2+dRKs3/5BTIrfSIFAQWDSbAJOnU9qG7c9brFs0AfZE1VRJ0LeaJvPCdwV6X6uc0WTxc5N68dcnHgQd3EU+/sF4CudHLdziG04B5IafNb3a0eYQ1x+2QN2UAb68pkUAkSPV0=;3B6Yn+7MGq9xxGYl+kCMWg=="
+secured: "dHdE7MbA5YbASd/Hde3o/pQMx8/gWoIAh74qpp1UCIEfeKIu05xmgNLUr0U5YjlUAcvyyGh9H8tPnWzB1SGyaAc/ZPspW5GCu7IpTR+K+k0FleD4maGUSKf08PSPCre2U0Xzt0Upbb+lxjTE3pHIzohB3R+A8jpIOTuKd0CZbL6vhQLWJdo6SBLyPGWnUln/zCRNRWKUe9TzL+B0MbQdrV08OKkNNV610JSVLsq0Zh5ZcVBqQDTOAyhCuklM2eK69wjYt+/jMWl3stUflZCAsFFPXbK3qula8ncFqWDfBks0Uv6bvMjJ1+I+qY5bPLtrvwwvnnY7NvYLATjkCsBtGmoySr86Mq3oeRvukfCzbf1hWDiwSnBYRZhR/T1kyz7jYIJoRTBkSgsNQ84lVTnnZC0Uy0C+PSLbuxfPBm8cabg=;xS1z1/TdW72/2IQ24KyP8w=="
 ---
 

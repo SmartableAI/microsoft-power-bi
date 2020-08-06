@@ -4,7 +4,7 @@ excerpt: "As a data challenge for Online Volunteers , Loai Saleh created a repor
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Loai-Saleh/m-p/1096825
 type: download
 publishedDateTime: 2020-05-19T11:55:00Z
-heat: 111
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYzI4MTM2ZjgtMTI5OS00NTQ0LWFkN2ItMzQzMGYyODA1ZGU1IiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9\"></iframe>"
 

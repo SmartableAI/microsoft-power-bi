@@ -4,7 +4,7 @@ excerpt: "This report shows the airbnb locations , on the left side of report we
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Airbnb-Berlin/m-p/727596
 type: download
 publishedDateTime: 2019-06-28T13:48:00Z
-heat: 51
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMzU3YzE2OTItNWQzNy00YjI4LTk4NGUtOTdhZTM2NzMxNjE1IiwidCI6IjIzMWRkOWNkLWRkYzctNGZiYS1hZTc4LTlmNGFjM2M5MTJlNyIsImMiOjN9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 727
     isCached: true
 
-secured: "04FHWvhFsa5xk+QZjFysrMoyOh3VuHrIHUbjNYtiqVX/Cbktzxyee+2WG5LBR9wwi6etzEuDHxtE0Jul5rkBsoMkieIu6wdf3tH/Zlhe0GJ7kHzaLyIE1w+NdG2kX8Op9EwwrS9ToFvotcTKQfaf6z9eflP2R1es55+qec1RSnV45bxl1+z9rpNYka00urfcpXWEWPCtK4+PCdU2iCKfpV6TAEevIC9LnbwRHn16s0xvLs7uSC3F9ekpkvjIRSyOxBwKcn3CAcNX9o66dUj+exFbicSbLZNbzsHGC3kZo442UjCI+aILJGe/H+itqOnX0EL+HesS7fx3MXTsBHVkrKn2qgaY8nDhGLqnmzZpQxwXG/tUA6XuH4JwUX0gcdcbWPxxM3FhM8acwRYt29t1Sb97P5vhZBGxu4yOsNOFCvk=;jiqq9g/Rbb0QHnmjeroatw=="
+secured: "QUywC2bqRHmi68PsgrNNKrUwvgoPm6eJNb6r+Tc4ksMWS2OGdd3xx4ExFQQjCsloVA+xo4VtZtd9wUcqphBqO+6FDgebcOEhCx2oXr+Knzmco3Qo/4UfNK92t4XZYAlbtz37428Wsr+r5QAw2RSxq+ChclLyxYKk4rUC2qXUHuwZO37AJ6jYCzTqh9N8thIA/fnxYcXlPUB7TK0f1WYvbkKLuzAg1Q+FX5EF0ZmYcErZscjnh4WeVrk9PYazeUWVkgCe0gKwjBzAVi6F/RUSRCVvIcXRclh8/HpXyvq6W6MyjEUU6JFYGKKhLsQWR39ppYqRBjUXb+jAmZHoM2sEz6xXfVqcW3ep3NxzqCY4SNSH8fu6kgPLBsppbMewJOKeUdZU4284KopO/TYZPy/GiblAvIFDqG0NGaZUTPyVGx0=;7gtQPh76eW1UakgbvXgA1Q=="
 ---
 

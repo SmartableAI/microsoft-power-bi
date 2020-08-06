@@ -4,7 +4,7 @@ excerpt: "This is a simple demonstration on how to use the new What-If functiona
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Sales-Commission-with-What-If-Goal-Setting/m-p/235539
 type: download
 publishedDateTime: 2017-08-21T17:49:00Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMTFkOWRlMjMtYTBlNy00OTgzLTgyN2ItYjJlMGVlMzJiZWEyIiwidCI6IjA4NWY1YmMwLThkY2QtNDM1OS1iYTNmLWIzMDMzOThkZmZkNyIsImMiOjF9\"></iframe>"
 

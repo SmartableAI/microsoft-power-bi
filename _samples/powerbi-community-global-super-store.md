@@ -4,7 +4,7 @@ excerpt: "The Global Superstore Dashboard provides a 360-degree view of overall 
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Global-Super-Store/m-p/627564
 type: download
 publishedDateTime: 2019-02-19T23:05:00Z
-heat: 204
+heat: 203
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZWUzODU4MDctNzYxNi00MTFmLTg5MmYtMTk4OGY5ZDBlYzUxIiwidCI6IjA0ZWM2MTA5LTRjNzktNGM3My1hZTcxLWE0NzRjMDlhMWY1YSJ9\"></iframe>"
 
