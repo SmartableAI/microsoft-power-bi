@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT1H6M43S
 publishedDateTime: 2020-07-23T22:39:38Z
-heat: 76
+heat: 51
 removed: true
 published: false
 
