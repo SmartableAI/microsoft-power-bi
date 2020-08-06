@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Power BI Developer resources (embedding, custom visuals and more)"
 
-secured: "6z0yQ5xv8ZQKVXOpoo6gL9ZJUZyr+cGghWrr5c8SolS1quTphwZaJwNwJG0audg0GsojEJ97bboeQJtL70v+BcuygYEiFtxxTEiVIrxVG4auhm0QGCuYVZBLcEe2FNQW5xDttSxqFaupYLzg8gjlgkZI2Kpbwd1cr1zXVSlL5voVGqk4tpAsffFbC0UI3T40Ryvpxkupb4Pi4jDpRy0h+oooqrwLfPU+IFkNeYX0iWN3cuk4oNVmlYNP52b0zHSJ0/ADeOodC1TtG3RGF+6Wv3R58NIxSvq62MK0Bo3qboXpgMWMefbv7uaHm5lT6s+hccdU/YVD+UtPV+xqTIk7+6c8CZ2PBjRGZ0CGVhWKPmR1xz+95Y4fUu1G7exKS9Ww0fSCiLSg8B3nYz0b/M+ejw==;l8BfD/EdYRMIffH+rcbTIw=="
+secured: "/SoPLpn26NN265JYf5fXMTlSuM1pRXh0vnRYc9GZuf2yW9Xs7WBR/UkZ+w1sIbuWSQy//bsNWtsKsUFTdoeqEpb9asmxqaU8/PjzN/5CsCPpsCfhBSpyUps5CfhPUM+A+lquU599wfQ9gz0hSF+iQG/DW1T8DV2In3d6/xTPyZ3aGRVRpi+UzEAIanwMyvQqT1LwWYZFr2Vfg+WNQGvWE+UETFE3JFIjz4kmKbWfbbAtMbS6BF5+zYWA/Gln2N8eStknHELw1weh5265MFyu2btlwgjdxT4zGRkp1jlQnc8Ps059pt0tFeGZUvU0LXQ0uCI02SZTWcClh2+0i14A7z9KtPuO3Xv0o3pA4qhic6WwopVC4SN8j/SrSGdQbSnxl05ghEMCWYKBwc9nAyQWwA==;3PdTGRY9Lcze7kojYkvBKA=="
 ---
 
