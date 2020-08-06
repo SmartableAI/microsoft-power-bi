@@ -4,7 +4,7 @@ excerpt: "As a data challenge for Online Volunteers , Amara Diallo created a rep
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Amara-Diallo/m-p/1055698
 type: download
 publishedDateTime: 2020-04-29T01:11:00Z
-heat: 110
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNDljYzRiZDMtNjhkNS00MzZmLWI4NDItMzI5YTk3NmRmZmMxIiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9\"></iframe>"
 

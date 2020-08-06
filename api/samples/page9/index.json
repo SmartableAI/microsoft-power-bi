@@ -1,0 +1,1521 @@
+{
+  "title": "Samples",
+  "path": "_samples",
+  "page": 9,
+  "value": [
+    {
+      "path": "_samples/powerbi-community-drive-formula-1-with-power-bi.md",
+      "title": "Drive Formula 1 with Power BI",
+      "excerpt": "Formula One (also Formula 1 or F1 and officially the FIA Formula One World Championship) is the highest class of single-seat auto racing that is",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-drive-formula-1-with-power-bi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-drive-formula-1-with-power-bi/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Drive-Formula-1-with-Power-BI/m-p/349544",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "HashamNiaz",
+            "type": "profile",
+            "name": "HashamNiaz"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNzBiZjUzMzUtMTJkZS00MGE4LWI2MDEtNTFhMTI1N2JjNGU2IiwidCI6IjllOGUzNDEyLTA1YTctNDA3ZS1iOWIyLTlhNzJiY2JmOTA4YSIsImMiOjF9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNzBiZjUzMzUtMTJkZS00MGE4LWI2MDEtNTFhMTI1N2JjNGU2IiwidCI6IjllOGUzNDEyLTA1YTctNDA3ZS1iOWIyLTlhNzJiY2JmOTA4YSIsImMiOjF9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1572/2/Formula1_2017.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2018-01-31T13:37:00-08:00",
+      "heat": 50,
+      "tags": [
+        "Sports"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1572/1/Formula1_2017.png",
+          "width": 1066,
+          "height": 621,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-drug-related-deaths-in-america.md",
+      "title": "Drug Related Deaths in America",
+      "excerpt": "Portland PowerBIUG Global Hackathon 2019 entry by Team Crisis: , , and Our #1 objective at Henry’s Uncle is to save lives. Period. And we can’t save",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-drug-related-deaths-in-america/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-drug-related-deaths-in-america/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Drug-Related-Deaths-in-America/m-p/744865",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "gregpetrossian",
+            "type": "profile",
+            "name": "gregpetrossian"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYWU3Mzg4ODUtNmRkMC00ZTJiLThhOWQtYmQxMjFmYTZkNjMwIiwidCI6IjBhY2U5YjBiLWVmYWUtNDMwNC04MTBhLTE0MTdiYmQxZDBkNiIsImMiOjZ9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiYWU3Mzg4ODUtNmRkMC00ZTJiLThhOWQtYmQxMjFmYTZkNjMwIiwidCI6IjBhY2U5YjBiLWVmYWUtNDMwNC04MTBhLTE0MTdiYmQxZDBkNiIsImMiOjZ9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2785/2/Henrys%20Uncle%20Hackathon%20Final.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2019-07-19T09:56:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Health",
+        "Education"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2785/1/Thumbnail.jpg",
+          "width": 1076,
+          "height": 1017,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-easter-bunny-hunt.md",
+      "title": "Easter Bunny Hunt",
+      "excerpt": "Introduction With the Easter holidays fast approaching, we wanted to do something fun to incentivise our sales staff. We have hidden Easter eggs on",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-easter-bunny-hunt/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-easter-bunny-hunt/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Easter-Bunny-Hunt/m-p/378883",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Davydmc23",
+            "type": "profile",
+            "name": "Davydmc23"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOTg5Y2JkNGUtMWQ0NC00ZGRkLWE0NmMtODZmNjNkMGU2ZWFiIiwidCI6IjA5NzNiODUxLTQ1MDItNDVjZi04NWQ3LTg0ODdmZWU2OTI5OSIsImMiOjF9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiOTg5Y2JkNGUtMWQ0NC00ZGRkLWE0NmMtODZmNjNkMGU2ZWFiIiwidCI6IjA5NzNiODUxLTQ1MDItNDVjZi04NWQ3LTg0ODdmZWU2OTI5OSIsImMiOjF9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1708/2/Easter%20Bunny%20Egg%20Hunt.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2018-03-18T21:47:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Technology"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1708/1/EasterBunnyHunt_screenshot.jpg",
+          "width": 1465,
+          "height": 843,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-easter-egg-hunt-in-glasgow.md",
+      "title": "Easter Egg Hunt in Glasgow",
+      "excerpt": "Easter Egg Hunt around some of Glasgow's top sites. Click the eggs to collect them. (Design: Kathryn McCrindle@ Eyecademy)",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-easter-egg-hunt-in-glasgow/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-easter-egg-hunt-in-glasgow/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Easter-Egg-Hunt-in-Glasgow/m-p/384598",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Eyecademy",
+            "type": "profile",
+            "name": "Eyecademy"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMTAxMTlmODUtMDdjYi00Mzg2LTg4YzItNGNhMWI2OGI0YTQwIiwidCI6ImI4NjY0M2ViLTY2ZWQtNDYzZi05ZWU2LTE3YjY5ZmQ2M2JiZiIsImMiOjh9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiMTAxMTlmODUtMDdjYi00Mzg2LTg4YzItNGNhMWI2OGI0YTQwIiwidCI6ImI4NjY0M2ViLTY2ZWQtNDYzZi05ZWU2LTE3YjY5ZmQ2M2JiZiIsImMiOjh9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1746/2/easter%20egg%20hunt%20around%20glasgow.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2018-03-26T20:53:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Entertainment"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1746/1/Easter%20Egg%20Hunt%20Image.PNG",
+          "width": 908,
+          "height": 506,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-english-premier-league-players-in-the-fifa-world-cup.md",
+      "title": "English Premier League Players in the FIFA World Cup",
+      "excerpt": "A quick view in the number of players from the Premier League that participated in this year's World Cup",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-english-premier-league-players-in-the-fifa-world-cup/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-english-premier-league-players-in-the-fifa-world-cup/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/English-Premier-League-Players-in-the-FIFA-World-Cup/m-p/462651",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "vrocca",
+            "type": "profile",
+            "name": "vrocca"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOGI5NjdiY2MtYzBhNy00MGI3LTg5NzctM2ZhMTE0NzIwNGExIiwidCI6IjIxNGMwNTM2LTljNTctNDg1ZC05YTQ1LWZlMjFlYTYyZGExYiIsImMiOjN9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiOGI5NjdiY2MtYzBhNy00MGI3LTg5NzctM2ZhMTE0NzIwNGExIiwidCI6IjIxNGMwNTM2LTljNTctNDg1ZC05YTQ1LWZlMjFlYTYyZGExYiIsImMiOjN9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2081/2/English%20Premier%20League%20Players%20in%20World%20Cup.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2018-07-15T12:12:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Sports"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2081/1/Report%20Preview.png",
+          "width": 1345,
+          "height": 778,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-eu-gender-equality.md",
+      "title": "EU Gender Equality",
+      "excerpt": "The Consult Blue– Gender Equality Dashboard has been developed as a country based benchmark for assessing gender equality in the European Union. The",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-eu-gender-equality/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-eu-gender-equality/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/EU-Gender-Equality/m-p/73667",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "consultblue",
+            "type": "profile",
+            "name": "consultblue"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDU5MWU0OTMtOWE5ZC00ODkyLWEzMWMtZWI1Yzc2NzM5ZjZjIiwidCI6IjkwNTgyMTc5LTFhMDktNDJiNi1hZmJmLTZhZWNjZWUwZTNiNiIsImMiOjh9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiMDU5MWU0OTMtOWE5ZC00ODkyLWEzMWMtZWI1Yzc2NzM5ZjZjIiwidCI6IjkwNTgyMTc5LTFhMDktNDJiNi1hZmJmLTZhZWNjZWUwZTNiNiIsImMiOjh9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/350/2/Consult%20Blue%20-%20EU%20Gender%20Equality%20Dashboard%20MPNID%204219805.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2016-09-29T21:50:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Economics"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/350/1/gender%20equality.png",
+          "width": 768,
+          "height": 512,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-fantasy-football-league.md",
+      "title": "Fantasy Football League",
+      "excerpt": "Hi, First go at this, some colleagues and I are in a couple of Fantasy Premier League Football leagues, I put together this report to keep track of",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-fantasy-football-league/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-fantasy-football-league/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Fantasy-Football-League/m-p/80386",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "theBIbutler",
+            "type": "profile",
+            "name": "theBIbutler"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNTBhNGMwOGUtNzMyNy00NzVmLTk5N2QtMTdiMTRkZGUwODI3IiwidCI6IjlkMzQ4NzUyLWI5YWMtNGI1OS1iY2YzLTgwMTQxMjZlMDExNyIsImMiOjh9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNTBhNGMwOGUtNzMyNy00NzVmLTk5N2QtMTdiMTRkZGUwODI3IiwidCI6IjlkMzQ4NzUyLWI5YWMtNGI1OS1iY2YzLTgwMTQxMjZlMDExNyIsImMiOjh9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2186/1/Fantasy%20Football%202017-18.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2016-10-19T20:25:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Entertainment",
+        "Sports"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/378/1/Fantasy%20Football%20Power%20BI.png",
+          "width": 905,
+          "height": 513,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-feminicidio-no-brasil.md",
+      "title": "Feminicídio no Brasil",
+      "excerpt": "Baseado nas pesquisas: https://artigo19.org/wp-content/blogs.dir/24/files/2018/03/Dados-Sobre-Feminic%C3%ADdio-no-Brasil-.p ...",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-feminicidio-no-brasil/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-feminicidio-no-brasil/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Feminic%C3%ADdio-no-Brasil/m-p/683885",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Anonymous",
+            "type": "profile",
+            "name": "Anonymous"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjBkYjdmOTgtNDcxNC00ZDFjLWI0MTgtZjA4YjI2NTQzNzQyIiwidCI6IjZlNjhlNmE2LTRkNmItNDUwNS05NjIyLWZkZGFmOGNmYzc1NSIsImMiOjR9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNjBkYjdmOTgtNDcxNC00ZDFjLWI0MTgtZjA4YjI2NTQzNzQyIiwidCI6IjZlNjhlNmE2LTRkNmItNDUwNS05NjIyLWZkZGFmOGNmYzc1NSIsImMiOjR9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2620/2/Feminicidio%20no%20Brasil%20III.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2019-05-04T11:12:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Health",
+        "Education",
+        "Government"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2620/1/Screenshot_6.png",
+          "width": 895,
+          "height": 505,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-fifa-world-cup-2018-russia.md",
+      "title": "FIFA World Cup 2018 Russia",
+      "excerpt": "Web Scrapping sur la coupe du Monde. Uniquement dans cette version le Groupe C.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-fifa-world-cup-2018-russia/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-fifa-world-cup-2018-russia/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/FIFA-World-Cup-2018-Russia/m-p/479907",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "ggaudfroy",
+            "type": "profile",
+            "name": "ggaudfroy"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMWM1YTA2N2QtMTM2Ny00OTM2LWEwMWUtY2E3NjAwYjViMTg5IiwidCI6IjhlYmE3MDI4LWE0MzAtNDRlYi05YmIwLWE3MzMyY2U3NGJiNCIsImMiOjh9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiMWM1YTA2N2QtMTM2Ny00OTM2LWEwMWUtY2E3NjAwYjViMTg5IiwidCI6IjhlYmE3MDI4LWE0MzAtNDRlYi05YmIwLWE3MzMyY2U3NGJiNCIsImMiOjh9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2123/2/Russia%202018.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2018-08-02T22:34:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Sports"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2123/1/Compo_Equipe.PNG",
+          "width": 1820,
+          "height": 1034,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-fifa-world-cup-history.md",
+      "title": "Fifa World Cup History",
+      "excerpt": "I'm just excited to tell the fifa world cup history. Check the statistics while you watch the Rusia 2018 cup. This is a report containing the",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-fifa-world-cup-history/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-fifa-world-cup-history/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Fifa-World-Cup-History/m-p/439983",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "ibarrau",
+            "type": "profile",
+            "name": "ibarrau"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZDVlMmQxOWYtZDk0NC00N2MzLWFjMTAtYjcyODBiYmMzNjY1IiwidCI6ImRjZmI2MzJhLWI4OTYtNDI4OC04NDEzLWVjOGQ5NTQxMDZlNiIsImMiOjR9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiZDVlMmQxOWYtZDk0NC00N2MzLWFjMTAtYjcyODBiYmMzNjY1IiwidCI6ImRjZmI2MzJhLWI4OTYtNDI4OC04NDEzLWVjOGQ5NTQxMDZlNiIsImMiOjR9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1999/2/Mudiales.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2018-06-14T01:11:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Entertainment",
+        "Sports",
+        "Social Media"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1999/1/thumb.png",
+          "width": 947,
+          "height": 577,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-finding-a-puppy-using-power-bi.md",
+      "title": "Finding a Puppy using Power BI",
+      "excerpt": "Hi All, We were looking for a puppy recently and when I went onto the UK Kennel Club website I found it a bit bewildering looking at all of the data.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-finding-a-puppy-using-power-bi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-finding-a-puppy-using-power-bi/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Finding-a-Puppy-using-Power-BI/m-p/257626",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "RoryBI",
+            "type": "profile",
+            "name": "RoryBI"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiODNiZGExMmMtMGExYi00NTI1LTkwYTUtNDc0ZWQ0ODJjYjM0IiwidCI6IjFkOTEwYzM3LWE0MjktNGYzNS1iYTFiLTM3ZDViMjNmZTRhMSIsImMiOjh9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiODNiZGExMmMtMGExYi00NTI1LTkwYTUtNDc0ZWQ0ODJjYjM0IiwidCI6IjFkOTEwYzM3LWE0MjktNGYzNS1iYTFiLTM3ZDViMjNmZTRhMSIsImMiOjh9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1161/2/Puppy%20Finder%20with%20Function.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2017-09-22T06:03:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Lifestyle"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1161/1/Capture.PNG",
+          "width": 1908,
+          "height": 1009,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-follow-the-fifa-world-cup-our-office-team-picks-in-power-bi.md",
+      "title": "Follow the FIFA World Cup & our Office team picks in Power BI🏆⚽🌏",
+      "excerpt": "The world cup is on and for this FIFA world cup 2018 in Russia !!! for fun and a bit of competition prize included I hope...we have picks for teams",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-follow-the-fifa-world-cup-our-office-team-picks-in-power-bi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-follow-the-fifa-world-cup-our-office-team-picks-in-power-bi/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Follow-the-FIFA-World-Cup-amp-our-Office-team-picks-in-Power-BI/m-p/442023",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "tmatarise",
+            "type": "profile",
+            "name": "tmatarise"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOTA3MGRkODAtYzNiZC00YzA4LTgzODctYzM5NTQyMmFjNGVhIiwidCI6IjAwZmQyNTZjLTcyMzUtNDhlNC04MTBjLTJiMzQ0NTY4NjBhYiIsImMiOjh9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiOTA3MGRkODAtYzNiZC00YzA4LTgzODctYzM5NTQyMmFjNGVhIiwidCI6IjAwZmQyNTZjLTcyMzUtNDhlNC04MTBjLTJiMzQ0NTY4NjBhYiIsImMiOjh9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2012/2/FIFA%20World%20Cup%202018%20_Teambase.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2018-06-17T21:47:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Sports"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2012/1/Knockouts.PNG",
+          "width": 1454,
+          "height": 831,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-forces-of-nature-as-seen-through-facebook-pages.md",
+      "title": "Forces of Nature - As Seen through Facebook Pages",
+      "excerpt": "Forces of Nature - As Seen through Facebook Pages. Data Source: https://datachant.com/public/Facebook Data - Eclipse 2017.xlsx",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-forces-of-nature-as-seen-through-facebook-pages/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-forces-of-nature-as-seen-through-facebook-pages/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Forces-of-Nature-As-Seen-through-Facebook-Pages/m-p/349176",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "DataChant",
+            "type": "profile",
+            "name": "DataChant"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMWM3ZTIwY2UtZWQyMy00ZmZiLThlNTItZjhlZDEwZTgzYzEwIiwidCI6IjIyNzNjNDFiLWI4ZDAtNDVhZi1iZWU2LWUwODQ5NmFlNjcxOCIsImMiOjN9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiMWM3ZTIwY2UtZWQyMy00ZmZiLThlNTItZjhlZDEwZTgzYzEwIiwidCI6IjIyNzNjNDFiLWI4ZDAtNDVhZi1iZWU2LWUwODQ5NmFlNjcxOCIsImMiOjN9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1557/2/Forces%20of%20Nature%20-%202017-Year-In-Review.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2018-01-31T00:18:00-08:00",
+      "heat": 50,
+      "tags": [
+        "Social Media"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1557/1/Screenshot_106.png",
+          "width": 874,
+          "height": 677,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-go-big-and-go-home-american-thanksgiving-vs-chinese-spring-festival.md",
+      "title": "Go BIG and go home : American Thanksgiving vs Chinese Spring Festival",
+      "excerpt": "Explore and compare the difference between consumer activities during American Thanksgiving and Chinese Spring Festival with this data viz!",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-go-big-and-go-home-american-thanksgiving-vs-chinese-spring-festival/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-go-big-and-go-home-american-thanksgiving-vs-chinese-spring-festival/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Go-BIG-and-go-home-American-Thanksgiving-vs-Chinese-Spring/m-p/732884",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "MWinter225",
+            "type": "profile",
+            "name": "MWinter225"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNDQwYmQ2NjItOGZiYS00MTNlLTk2NWEtZjk3ZjU1YzBhNTQ3IiwidCI6ImQyOGMxMDVhLWI3N2ItNDA3Yy04YjBjLTFhNmYyZDNhZDg5MCIsImMiOjZ9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNDQwYmQ2NjItOGZiYS00MTNlLTk2NWEtZjk3ZjU1YzBhNTQ3IiwidCI6ImQyOGMxMDVhLWI3N2ItNDA3Yy04YjBjLTFhNmYyZDNhZDg5MCIsImMiOjZ9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2748/2/Go%20BIG%20and%20go%20home.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2019-07-05T01:12:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Entertainment",
+        "Lifestyle",
+        "Economics"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2748/1/Go%20BIG%20and%20go%20home.png",
+          "width": 1876,
+          "height": 1026,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-health-care-spending-in-us-vs-canada.md",
+      "title": "Health Care Spending in US vs. Canada",
+      "excerpt": "Ontario Health Plan partners with Buffalo hospitals to provide treatment not available in Canada.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-health-care-spending-in-us-vs-canada/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-health-care-spending-in-us-vs-canada/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Health-Care-Spending-in-US-vs-Canada/m-p/777275",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Regiso",
+            "type": "profile",
+            "name": "Regiso"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZDE5YmM0NmUtNzFiNi00NDI3LWI1MGItMGFhN2IyNmI4NGFiIiwidCI6ImUxNzc4MGM2LTczMDgtNDc3YS1iNzY3LWZhNTY5ODI0NWUyYSJ9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiZDE5YmM0NmUtNzFiNi00NDI3LWI1MGItMGFhN2IyNmI4NGFiIiwidCI6ImUxNzc4MGM2LTczMDgtNDc3YS1iNzY3LWZhNTY5ODI0NWUyYSJ9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2892/2/OECD%20Spending.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2019-08-27T09:57:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Health",
+        "Government"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2892/1/OECD_HealthCareSpend.png",
+          "width": 902,
+          "height": 511,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-hitting-refresh-on-office-365.md",
+      "title": "Hitting Refresh on Office 365",
+      "excerpt": "I read a copy of Hit Refresh by Satya Nadella recently at felt at the time that it was a fascinating way of publicising the direction of travel of",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-hitting-refresh-on-office-365/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-hitting-refresh-on-office-365/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Hitting-Refresh-on-Office-365/m-p/303112",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "RoryBI",
+            "type": "profile",
+            "name": "RoryBI"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYWYxMjk3ODEtZDRiMi00ZmEyLWFkMjctYjdjMzgxZmYxYWZjIiwidCI6IjFkOTEwYzM3LWE0MjktNGYzNS1iYTFiLTM3ZDViMjNmZTRhMSIsImMiOjh9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiYWYxMjk3ODEtZDRiMi00ZmEyLWFkMjctYjdjMzgxZmYxYWZjIiwidCI6IjFkOTEwYzM3LWE0MjktNGYzNS1iYTFiLTM3ZDViMjNmZTRhMSIsImMiOjh9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1245/2/HitRefreshPBI.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2017-11-14T03:01:00-08:00",
+      "heat": 50,
+      "tags": [
+        "Education",
+        "Business",
+        "Social Media"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1245/1/Titlpage.PNG",
+          "width": 2102,
+          "height": 1183,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-how-far-do-turkey-vultures-travel.md",
+      "title": "How far do turkey vultures travel?",
+      "excerpt": "First time creating a marginal histogram in PBI. I wrote about the pros and cons on my blog .",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-how-far-do-turkey-vultures-travel/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-how-far-do-turkey-vultures-travel/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/How-far-do-turkey-vultures-travel/m-p/343737",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "VizWizBI",
+            "type": "profile",
+            "name": "VizWizBI"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMzU3OWQ3NTktOWU5My00ZDg5LWJiM2ItMWFlODZjYzVmNmQ0IiwidCI6ImNlZjk5OTUzLWM0OTYtNGE4MS1iMDYxLTNlYmU1ODRjY2ZjYyIsImMiOjh9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiMzU3OWQ3NTktOWU5My00ZDg5LWJiM2ItMWFlODZjYzVmNmQ0IiwidCI6ImNlZjk5OTUzLWM0OTYtNGE4MS1iMDYxLTNlYmU1ODRjY2ZjYyIsImMiOjh9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1507/2/Turkey%20Vulture%20Migration.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2018-01-23T00:40:00-08:00",
+      "heat": 50,
+      "tags": [
+        "Education"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1507/1/Turkey%20Vultures%20PBI.png",
+          "width": 1866,
+          "height": 1350,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-how-power-bi-saved-my-fantasy-football-draft.md",
+      "title": "How Power BI Saved My Fantasy Football Draft",
+      "excerpt": "This report and the content below were created just before the start of the 2016 NFL season. I'm a little behind in posting it here, but I hope you",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-how-power-bi-saved-my-fantasy-football-draft/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-how-power-bi-saved-my-fantasy-football-draft/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/How-Power-BI-Saved-My-Fantasy-Football-Draft/m-p/87926",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "rwpennin",
+            "type": "profile",
+            "name": "rwpennin"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNDU1ZmRhZGEtMjQ4Ni00ZTU2LTljOWQtMmIzMGE4MjJlNTNkIiwidCI6Ijc4MGEzOGNlLTQzYmUtNGM1Ny1hZDc5LTIyMzkxZWQyZDMzMyIsImMiOjN9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNDU1ZmRhZGEtMjQ4Ni00ZTU2LTljOWQtMmIzMGE4MjJlNTNkIiwidCI6Ijc4MGEzOGNlLTQzYmUtNGM1Ny1hZDc5LTIyMzkxZWQyZDMzMyIsImMiOjN9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/424/2/How%20Power%20BI%20Saved%20My%20Fantasy%20Football%20Draft.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2016-11-08T22:56:00-08:00",
+      "heat": 50,
+      "tags": [
+        "Sports",
+        "Lifestyle"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/424/1/2016-11-08_15-20-16.png",
+          "width": 704,
+          "height": 489,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-hurricane-harvey-as-seen-on-facebook.md",
+      "title": "Hurricane Harvey As Seen on Facebook",
+      "excerpt": "When Harvey started, many people and organizations used Facebook to call for support for the victimes. This report automates the Facebook page search",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-hurricane-harvey-as-seen-on-facebook/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-hurricane-harvey-as-seen-on-facebook/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Hurricane-Harvey-As-Seen-on-Facebook/m-p/246029",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "DataChant",
+            "type": "profile",
+            "name": "DataChant"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMmQzM2M0MjMtMDVjYy00YTU3LTkyYjQtMGUzMTZjOTE3MzIxIiwidCI6IjIyNzNjNDFiLWI4ZDAtNDVhZi1iZWU2LWUwODQ5NmFlNjcxOCIsImMiOjN9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiMmQzM2M0MjMtMDVjYy00YTU3LTkyYjQtMGUzMTZjOTE3MzIxIiwidCI6IjIyNzNjNDFiLWI4ZDAtNDVhZi1iZWU2LWUwODQ5NmFlNjcxOCIsImMiOjN9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1115/2/Hurricane%20Harvey.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2017-09-05T04:11:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Social Media"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1115/1/Screenshot_51.png",
+          "width": 2559,
+          "height": 1351,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-imdb-movies-in-2018.md",
+      "title": "IMDB Movies in 2018",
+      "excerpt": "Hello there! I made this power bi report with the oficial imdb databse and IMDbPY pyhton package to get de url image.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-imdb-movies-in-2018/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-imdb-movies-in-2018/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/IMDB-Movies-in-2018/m-p/827908",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "MauroLucas",
+            "type": "profile",
+            "name": "MauroLucas"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDY2NDg2ZWMtYzIwZi00MDNhLWE3MWQtNWVmYzA1ODEyZGY4IiwidCI6IjI1ZjdlNGIzLTJiYTUtNDM1Yi04NzE4LWFkZDAwNmVhNzI3NiJ9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiMDY2NDg2ZWMtYzIwZi00MDNhLWE3MWQtNWVmYzA1ODEyZGY4IiwidCI6IjI1ZjdlNGIzLTJiYTUtNDM1Yi04NzE4LWFkZDAwNmVhNzI3NiJ9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3086/2/2018%20IMDb.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2019-10-24T07:02:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Entertainment"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3086/1/Movies%202018.png",
+          "width": 1904,
+          "height": 768,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-indian-premier-league-2008-2019.md",
+      "title": "Indian Premier League 2008 -2019",
+      "excerpt": "This Dashboard presents data analysis for IPL (Indian Premier League) matches from the beginning till year 2019. This can be useful for all the",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-indian-premier-league-2008-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-indian-premier-league-2008-2019/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Indian-Premier-League-2008-2019/m-p/756185",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Dontamsetti",
+            "type": "profile",
+            "name": "Dontamsetti"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNDI2YzliMzYtNWI5My00MTU1LTkzODctZTdmZGE4YmYwZTQ3IiwidCI6IjA0ZWM2MTA5LTRjNzktNGM3My1hZTcxLWE0NzRjMDlhMWY1YSJ9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNDI2YzliMzYtNWI5My00MTU1LTkzODctZTdmZGE4YmYwZTQ3IiwidCI6IjA0ZWM2MTA5LTRjNzktNGM3My1hZTcxLWE0NzRjMDlhMWY1YSJ9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2814/4/IPL_V1.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2019-08-01T18:57:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Sports"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2814/3/Overview.JPG",
+          "width": 932,
+          "height": 521,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-inventario-por-sucursal.md",
+      "title": "Inventario por Sucursal",
+      "excerpt": "Inventario por Sucursal. Drill Throught, Bookmarks",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-inventario-por-sucursal/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-inventario-por-sucursal/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Inventario-por-Sucursal/m-p/436293",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "gabriva",
+            "type": "profile",
+            "name": "gabriva"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiY2VlZWJlNTMtMDJiOS00MTNhLTkwZTEtNTUwYmM1MmM5ZTAyIiwidCI6ImYyMmFlZDcyLTc1YmMtNDI2YS1hOGQzLTFiYTgyNmY0ODI4MSIsImMiOjR9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiY2VlZWJlNTMtMDJiOS00MTNhLTkwZTEtNTUwYmM1MmM5ZTAyIiwidCI6ImYyMmFlZDcyLTc1YmMtNDI2YS1hOGQzLTFiYTgyNmY0ODI4MSIsImMiOjR9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1977/2/OPER-INVENTARIOSUCURSALES-01.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2018-06-09T11:39:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Business"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1977/1/InventarioSucursales.png",
+          "width": 1485,
+          "height": 843,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-ipl-cricket-2020-schedule.md",
+      "title": "IPL CRICKET 2020 SCHEDULE",
+      "excerpt": "IPL 2020 CRICKET SCHEDULE AND THE TEAM SQUADS",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-ipl-cricket-2020-schedule/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-ipl-cricket-2020-schedule/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/IPL-CRICKET-2020-SCHEDULE/m-p/957136",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "prarabdha7",
+            "type": "profile",
+            "name": "prarabdha7"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMTk4YThjNGYtNWQ3My00YzdkLWIzZDEtYmFjNDdkMGM1ZWVjIiwidCI6IjkzZjMzNTcxLTU1MGYtNDNjZi1iMDlmLWNkMzMxMzM4ZDA4NiIsImMiOjZ9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiMTk4YThjNGYtNWQ3My00YzdkLWIzZDEtYmFjNDdkMGM1ZWVjIiwidCI6IjkzZjMzNTcxLTU1MGYtNDNjZi1iMDlmLWNkMzMxMzM4ZDA4NiIsImMiOjZ9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3394/2/ipl%20theme.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2020-03-02T23:25:00-08:00",
+      "heat": 50,
+      "tags": [
+        "Sports"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3394/1/Capture_tn.jpg",
+          "width": 100,
+          "height": 100,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-katona-jozsef-theater-hu-2017.md",
+      "title": "Katona József Theater (HU) 2017",
+      "excerpt": "This is the current membership of the most prominent Hungarian Theater called Katona József Színház shown in a timeline. Legends in English: - Grey:",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-katona-jozsef-theater-hu-2017/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-katona-jozsef-theater-hu-2017/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Katona-J%C3%B3zsef-Theater-HU-2017/m-p/352300",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Judkacag",
+            "type": "profile",
+            "name": "Judkacag"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZmZkYjgyYzItZmQzZi00ODljLWIxODItZDVmM2RiMDdkOTg2IiwidCI6Ijk1NzY1MTNjLWQ2OTQtNDA4Ny1iMjExLTM2NjVjZWVlN2VkNCIsImMiOjN9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiZmZkYjgyYzItZmQzZi00ODljLWIxODItZDVmM2RiMDdkOTg2IiwidCI6Ijk1NzY1MTNjLWQ2OTQtNDA4Ny1iMjExLTM2NjVjZWVlN2VkNCIsImMiOjN9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1605/2/Katona%20t%C3%A1rsulat%202018.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2018-02-05T16:53:00-08:00",
+      "heat": 50,
+      "tags": [
+        "Entertainment"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1605/1/Katona_Power%20BI.png",
+          "width": 1908,
+          "height": 2316,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-kobe-bryant-career-visualization-by-seth-samuel.md",
+      "title": "Kobe Bryant Career Visualization by Seth Samuel",
+      "excerpt": "This report is to pay tribute to the great sportsman - Kobe Bryant. Contact: https://www.linkedin.com/in/samuelseth/",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-kobe-bryant-career-visualization-by-seth-samuel/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-kobe-bryant-career-visualization-by-seth-samuel/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Kobe-Bryant-Career-Visualization-by-Seth-Samuel/m-p/1035021",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Inspiresia",
+            "type": "profile",
+            "name": "Inspiresia"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjQzOTI4OWEtYjk0My00ZjJjLWEyOGEtYWMyZDRhZWQ4YTE1IiwidCI6ImYxYmM0MDQxLTFlY2ItNGIwMi05YzVmLWJkNjdiYmJhODI0OCJ9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNjQzOTI4OWEtYjk0My00ZjJjLWEyOGEtYWMyZDRhZWQ4YTE1IiwidCI6ImYxYmM0MDQxLTFlY2ItNGIwMi05YzVmLWJkNjdiYmJhODI0OCJ9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3797/2/Kobe%20Career.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2020-04-19T08:06:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Sports",
+        "Lifestyle"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3797/1/KB.PNG",
+          "width": 863,
+          "height": 659,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    }
+  ],
+  "nextPage": 10
+}

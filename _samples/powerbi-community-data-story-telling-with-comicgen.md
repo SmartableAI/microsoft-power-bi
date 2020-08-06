@@ -4,7 +4,7 @@ excerpt: "The Covid dashboard emphasizes on the use of data story telling techni
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Data-story-telling-With-Comicgen/m-p/1207156
 type: download
 publishedDateTime: 2020-07-07T10:27:00Z
-heat: 69
+heat: 129
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMTY1MTk4ZmQtMGY0Zi00MjAyLWJhMWItNWJkN2YyMzg3MGNlIiwidCI6ImRkM2UyY2JmLTg2NDItNDgwYy05ZGI2LWI3YmE1NWJiZjMzMCIsImMiOjEwfQ%3D%3D\"></iframe>"
 

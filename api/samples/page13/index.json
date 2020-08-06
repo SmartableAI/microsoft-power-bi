@@ -1,0 +1,1278 @@
+{
+  "title": "Samples",
+  "path": "_samples",
+  "page": 13,
+  "value": [
+    {
+      "path": "_samples/powerbi-community-two-presidencies-two-presidents-two-persons-in-2017-as-seen-on-facebook.md",
+      "title": "Two Presidencies, Two Presidents, Two Persons in 2017 (As Seen on Facebook)",
+      "excerpt": "On Friday, January 20, 2017 Donald Trump was inaugurated as the 45th President of the United States. Social media have become a key communication",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-two-presidencies-two-presidents-two-persons-in-2017-as-seen-on-facebook/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-two-presidencies-two-presidents-two-persons-in-2017-as-seen-on-facebook/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Two-Presidencies-Two-Presidents-Two-Persons-in-2017-As-Seen-on/m-p/346261",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "DataChant",
+            "type": "profile",
+            "name": "DataChant"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNGQyZWU0NTItNzA4Mi00YzhlLTkzMmMtZjMyOTQzZWMyODZlIiwidCI6IjIyNzNjNDFiLWI4ZDAtNDVhZi1iZWU2LWUwODQ5NmFlNjcxOCIsImMiOjN9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNGQyZWU0NTItNzA4Mi00YzhlLTkzMmMtZjMyOTQzZWMyODZlIiwidCI6IjIyNzNjNDFiLWI4ZDAtNDVhZi1iZWU2LWUwODQ5NmFlNjcxOCIsImMiOjN9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1527/3/Facebook%20Analytics%20Dashboard%20-%20President.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2018-01-26T04:47:00-08:00",
+      "heat": 50,
+      "tags": [
+        "Social Media"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1527/1/Screenshot_93.png",
+          "width": 1342,
+          "height": 775,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-uk-baby-names-from-office-of-national-statistics-storytelling-example.md",
+      "title": "UK Baby Names from Office of National Statistics (Storytelling example)",
+      "excerpt": "This report analyses the popularity of baby names in the UK from 1904 to 2017. The data source is a simple file of names and associated rank in each",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-uk-baby-names-from-office-of-national-statistics-storytelling-example/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-uk-baby-names-from-office-of-national-statistics-storytelling-example/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/UK-Baby-Names-from-Office-of-National-Statistics-Storytelling/m-p/792472",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "rsaprano",
+            "type": "profile",
+            "name": "rsaprano"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNDcxOTg0OWItYzUzNy00MzFiLWJiMjYtNTNmYTNmNDA3NzYyIiwidCI6IjBjNzk5ZDM4LTQ3NjQtNDJiYy1iNGZmLTIzYmViYTljN2ZlMiIsImMiOjh9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNDcxOTg0OWItYzUzNy00MzFiLWJiMjYtNTNmYTNmNDA3NzYyIiwidCI6IjBjNzk5ZDM4LTQ3NjQtNDJiYy1iNGZmLTIzYmViYTljN2ZlMiIsImMiOjh9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2996/2/Baby%20Names%20With%20Storytelling.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2019-09-14T08:34:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Education",
+        "Lifestyle"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2996/1/Baby%20Names%20Thumbnail.png",
+          "width": 1377,
+          "height": 778,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-uk-fuel-prices.md",
+      "title": "UK Fuel Prices",
+      "excerpt": "Submission to the London Power BI User Group in 2019. Changes in fuel prices (Diesel &amp; Petrol) against inflation between 2004 and June 2019.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-uk-fuel-prices/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-uk-fuel-prices/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/UK-Fuel-Prices/m-p/792351",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Anonymous",
+            "type": "profile",
+            "name": "Anonymous"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZDZkYTIzYjItMWFiOC00ODg2LWEzYzktMGQyMzM3OWNkMDgxIiwidCI6IjRlMWY1ZGU4LTg4NWQtNGY2Yy1iMDQwLWYxNDFhZTFmYzQ5OSIsImMiOjZ9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiZDZkYTIzYjItMWFiOC00ODg2LWEzYzktMGQyMzM3OWNkMDgxIiwidCI6IjRlMWY1ZGU4LTg4NWQtNGY2Yy1iMDQwLWYxNDFhZTFmYzQ5OSIsImMiOjZ9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2991/2/Fuel%20Prices.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2019-09-13T20:00:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Business",
+        "Economics"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2991/1/Fuel%20Prices%20Thumbnail.png",
+          "width": 563,
+          "height": 317,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-uk-public-sector-primary-care.md",
+      "title": "UK Public Sector Primary Care",
+      "excerpt": "This Power BI demonstration is provided as an example of how a UK primary care service provider, such as a GP surgery or PCT, may use Power BI to",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-uk-public-sector-primary-care/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-uk-public-sector-primary-care/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/UK-Public-Sector-Primary-Care/m-p/120381",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "ScottAdams_MSFT",
+            "type": "profile",
+            "name": "ScottAdams_MSFT"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYmVmMWI2MzUtZWQxMy00MDg1LTk5NTYtOTM4NzE0OGVkNzg5IiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiYmVmMWI2MzUtZWQxMy00MDg1LTk5NTYtOTM4NzE0OGVkNzg5IiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/603/2/UK%20Primary%20Care%20small.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2017-01-30T02:45:00-08:00",
+      "heat": 50,
+      "tags": [
+        "Health"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/603/1/ukpsprimarycaredemo.jpg",
+          "width": 1228,
+          "height": 736,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-understanding-audio-concepts.md",
+      "title": "Understanding Audio Concepts",
+      "excerpt": "I got the idea of &amp;quot;visualizing&amp;quot; a song with PBI while driving, and a song came on with a syncopated beat. For us who like and study music,",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-understanding-audio-concepts/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-understanding-audio-concepts/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Understanding-Audio-Concepts/m-p/704891",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "matt_jk",
+            "type": "profile",
+            "name": "matt_jk"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjc4MWU4MjEtNGUzNS00OTI4LTkwYWUtY2VlODVhODY0YTlhIiwidCI6IjVlMTk5ZjVjLTYyYjItNDFiMS1hMjgxLTMxNWQzMWRmM2NlYiIsImMiOjJ9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNjc4MWU4MjEtNGUzNS00OTI4LTkwYWUtY2VlODVhODY0YTlhIiwidCI6IjVlMTk5ZjVjLTYyYjItNDFiMS1hMjgxLTMxNWQzMWRmM2NlYiIsImMiOjJ9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2648/2/Syncopation%20and%20Rhythmic%20Displacement.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2019-05-31T22:46:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Education",
+        "Entertainment",
+        "Technology"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2648/1/thumbnail_image.jpg",
+          "width": 1532,
+          "height": 735,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-us-employment.md",
+      "title": "US Employment",
+      "excerpt": "Simple Report using US Employment Data from data.gov. Milwaukee Brew City Power BI User Group!",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-us-employment/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-us-employment/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/US-Employment/m-p/616508",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "jschien2",
+            "type": "profile",
+            "name": "jschien2"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDBhZmNlZjQtZDdkMS00NTY1LTliOTYtNGRkYTk1YmZmMzkwIiwidCI6Ijk1NWQ1MTIwLWZiMjctNGQ1Ny05ZGVhLTY0YTNmYmQyN2E4ZCIsImMiOjN9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiMDBhZmNlZjQtZDdkMS00NTY1LTliOTYtNGRkYTk1YmZmMzkwIiwidCI6Ijk1NWQ1MTIwLWZiMjctNGQ1Ny05ZGVhLTY0YTNmYmQyN2E4ZCIsImMiOjN9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2470/2/Unemployment%20PBUG%20Practice.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2019-02-04T10:05:00-08:00",
+      "heat": 50,
+      "tags": [
+        "Economics"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2470/1/PBUG.png",
+          "width": 872,
+          "height": 493,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-us-mortality-rates-1980-2014.md",
+      "title": "US Mortality Rates 1980-2014",
+      "excerpt": "This is a re-creation of an existing data viz on the International Health Metrics and Evaluation website. Allow me to briefly lay out the features of",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-us-mortality-rates-1980-2014/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-us-mortality-rates-1980-2014/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/US-Mortality-Rates-1980-2014/m-p/227130",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "iDataDrew",
+            "type": "profile",
+            "name": "iDataDrew"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiM2U4ZDRlOTItNTFhNS00ODM1LTg3YTMtZTdmZjEyMGQyOTk0IiwidCI6IjZkNjM4YjFhLTMyYmYtNGJhMy1iNGI0LWU4NjU1MzcyNmZiMSIsImMiOjZ9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiM2U4ZDRlOTItNTFhNS00ODM1LTg3YTMtZTdmZjEyMGQyOTk0IiwidCI6IjZkNjM4YjFhLTMyYmYtNGJhMy1iNGI0LWU4NjU1MzcyNmZiMSIsImMiOjZ9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/999/2/USA_Mortality_Rates_1980_2014.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2017-08-07T14:03:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Health",
+        "Lifestyle"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/999/1/USMortalityRates_1980_2014.PNG",
+          "width": 1502,
+          "height": 840,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-utrecht-pug-keynote.md",
+      "title": "Utrecht PUG Keynote",
+      "excerpt": "The &amp;quot;slides&amp;quot; from the Utrecht PUG Keynote",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-utrecht-pug-keynote/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-utrecht-pug-keynote/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Utrecht-PUG-Keynote/m-p/658074",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "chass1",
+            "type": "profile",
+            "name": "chass1"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYWE4YTdhMjctZDliMC00ZTM2LTliNWYtYjFlYzllYzkwNjhkIiwidCI6ImZkMTI5OGJlLWMwOWYtNDM0OS05NmU4LWJkMDk3MjEwZTI3NCIsImMiOjF9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiYWE4YTdhMjctZDliMC00ZTM2LTliNWYtYjFlYzllYzkwNjhkIiwidCI6ImZkMTI5OGJlLWMwOWYtNDM0OS05NmU4LWJkMDk3MjEwZTI3NCIsImMiOjF9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2578/2/Utercht.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2019-03-29T16:36:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Business"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2578/1/Slide1.PNG",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-variation-in-medicare-spending-per-episode-of-care.md",
+      "title": "Variation in Medicare Spending per Episode of Care",
+      "excerpt": "For this report I analyzed Hospital Compare public datasets to identify Medicare's costliest states and hospitals. The range between highest and",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-variation-in-medicare-spending-per-episode-of-care/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-variation-in-medicare-spending-per-episode-of-care/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Variation-in-Medicare-Spending-per-Episode-of-Care/m-p/660582",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Evgenia",
+            "type": "profile",
+            "name": "Evgenia"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYzBiMDAwMDgtNWNlZC00Y2Y0LWEzOWUtMjZlODM3NmQ4NDAwIiwidCI6Ijc0NjM1YTNjLTZlMDgtNDgyYS1hYWQ0LTZkNTBmMmI2NDMyYiJ9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiYzBiMDAwMDgtNWNlZC00Y2Y0LWEzOWUtMjZlODM3NmQ4NDAwIiwidCI6Ijc0NjM1YTNjLTZlMDgtNDgyYS1hYWQ0LTZkNTBmMmI2NDMyYiJ9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2584/2/Medicare%20Spending%20per%20Episode.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2019-04-02T15:23:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Health",
+        "Government"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2584/1/Capture.PNG",
+          "width": 1332,
+          "height": 752,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-visualizing-asylum.md",
+      "title": "Visualizing Asylum",
+      "excerpt": "This is an examination of the US refugee program from 2008 to 2017. It reveals that the infrastructure does not have the capacity to handle the",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-visualizing-asylum/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-visualizing-asylum/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Visualizing-Asylum/m-p/686027",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Regiso",
+            "type": "profile",
+            "name": "Regiso"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMGUyMDJmNDQtNzJhNS00ODE5LThjMTktNWJhNWIwNWRmMDMxIiwidCI6ImUxNzc4MGM2LTczMDgtNDc3YS1iNzY3LWZhNTY5ODI0NWUyYSJ9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiMGUyMDJmNDQtNzJhNS00ODE5LThjMTktNWJhNWIwNWRmMDMxIiwidCI6ImUxNzc4MGM2LTczMDgtNDc3YS1iNzY3LWZhNTY5ODI0NWUyYSJ9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2622/2/uscins2.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2019-05-07T12:57:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Government"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2622/1/Picture5.png",
+          "width": 1248,
+          "height": 712,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-week-43-suicide-data.md",
+      "title": "Week 43 - Suicide Data",
+      "excerpt": "Week 43 - Suicide Data",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-week-43-suicide-data/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-week-43-suicide-data/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Week-43-Suicide-Data/m-p/864856",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "NarashimanRaji",
+            "type": "profile",
+            "name": "NarashimanRaji"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYmU2ODY3ZTAtOTc3ZC00YjYxLWJmNjYtZjJjZTg2MTQ1YmVhIiwidCI6IjY4YzRkZWNhLWQxODEtNDNmMi1hMmJlLWY2ODQzMTIwMjNhOCIsImMiOjEwfQ%3D%3D\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiYmU2ODY3ZTAtOTc3ZC00YjYxLWJmNjYtZjJjZTg2MTQ1YmVhIiwidCI6IjY4YzRkZWNhLWQxODEtNDNmMi1hMmJlLWY2ODQzMTIwMjNhOCIsImMiOjEwfQ%3D%3D",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3176/2/Week%2043.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2019-12-03T19:43:00-08:00",
+      "heat": 50,
+      "tags": [
+        "Health",
+        "Lifestyle"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3176/1/Capture.PNG",
+          "width": 925,
+          "height": 528,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-week-47-teen-favourite-app.md",
+      "title": "Week 47 - Teen Favourite App",
+      "excerpt": "makeoermonday,Week - 47",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-week-47-teen-favourite-app/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-week-47-teen-favourite-app/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Week-47-Teen-Favourite-App/m-p/864764",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "NarashimanRaji",
+            "type": "profile",
+            "name": "NarashimanRaji"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNGZmZDU2MjktMDdhNy00MTA4LWJlOGMtMzc1MDQ2YzliOGMwIiwidCI6IjY4YzRkZWNhLWQxODEtNDNmMi1hMmJlLWY2ODQzMTIwMjNhOCIsImMiOjEwfQ%3D%3D\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNGZmZDU2MjktMDdhNy00MTA4LWJlOGMtMzc1MDQ2YzliOGMwIiwidCI6IjY4YzRkZWNhLWQxODEtNDNmMi1hMmJlLWY2ODQzMTIwMjNhOCIsImMiOjEwfQ%3D%3D",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3175/2/Week%2047.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2019-12-03T18:05:00-08:00",
+      "heat": 50,
+      "tags": [
+        "Technology"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3175/1/Week%2047.PNG",
+          "width": 930,
+          "height": 525,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-whats-the-gender-gap-in-ma.md",
+      "title": "What's the Gender Gap in M&A",
+      "excerpt": "Hi! With NamSor API open source connector , any PowerBI table that has personal names can be enriched with gender information or other diversity",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-whats-the-gender-gap-in-ma/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-whats-the-gender-gap-in-ma/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/What-s-the-Gender-Gap-in-M-amp-A/m-p/417939",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "namsor",
+            "type": "profile",
+            "name": "namsor"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMmZkZjhiNTYtMzZkYi00ODk3LWFmMjAtMzhhNjQzOGU3M2IyIiwidCI6ImYzN2YxMjc3LTJiZTEtNDdjZi1hNGJmLTQ0MjJiMWM4YTU0MiIsImMiOjl9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiMmZkZjhiNTYtMzZkYi00ODk3LWFmMjAtMzhhNjQzOGU3M2IyIiwidCI6ImYzN2YxMjc3LTJiZTEtNDdjZi1hNGJmLTQ0MjJiMWM4YTU0MiIsImMiOjl9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1895/2/ACG_InterGrowth_2017_PowerBI.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2018-05-15T03:12:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Economics"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1895/1/2017_GenderGap_in_MandA_v1_Teaser.png",
+          "width": 1153,
+          "height": 870,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-where-does-your-electricity-come-from.md",
+      "title": "Where does your electricity come from?",
+      "excerpt": "Different regions use different sources of fuel to make electricity. Not every kWh of electricity is as clean and renewable as others. Explore the",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-where-does-your-electricity-come-from/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-where-does-your-electricity-come-from/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Where-does-your-electricity-come-from/m-p/46646",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "lukaszp",
+            "type": "profile",
+            "name": "lukaszp"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjZlOWZlMmMtMjE2ZS00OTM5LWFmYTAtNmI4MjBlNjk3NDg2IiwidCI6IjNlN2ZjNjM1LTkxOTAtNDFmMC04MDZiLWI4OWIwZmJkNzU5ZSIsImMiOjF9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNjZlOWZlMmMtMjE2ZS00OTM5LWFmYTAtNmI4MjBlNjk3NDg2IiwidCI6IjNlN2ZjNjM1LTkxOTAtNDFmMC04MDZiLWI4OWIwZmJkNzU5ZSIsImMiOjF9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/120/3/Where%20does%20your%20electricity%20come%20from.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2016-06-29T02:29:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Health",
+        "Economics"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/120/1/Where%20does%20electricity%20come%20from%20-%20small.PNG",
+          "width": 2396,
+          "height": 1493,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-who-wants-to-sleep-in-the-city-that-never-wakes-up-the-airbnb-map-of-budapest.md",
+      "title": "Who wants to sleep in the city that never wakes up? - The airbnb map of Budapest",
+      "excerpt": "When my Wacom tablet arrived in November I started sketching the below girl, my very first freehand drawing. It has been put aside for a while but I",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-who-wants-to-sleep-in-the-city-that-never-wakes-up-the-airbnb-map-of-budapest/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-who-wants-to-sleep-in-the-city-that-never-wakes-up-the-airbnb-map-of-budapest/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Who-wants-to-sleep-in-the-city-that-never-wakes-up-The-airbnb/m-p/599162",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Judkacag",
+            "type": "profile",
+            "name": "Judkacag"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNzBjYWY0MDAtZjRlYS00MzhhLWE1NjItOTIxMDgzZWU4MDgyIiwidCI6ImU3NjJmZmZmLTlmMjctNGFjNy04MmFiLTBmMTg0ZmIwMjkyMyIsImMiOjh9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNzBjYWY0MDAtZjRlYS00MzhhLWE1NjItOTIxMDgzZWU4MDgyIiwidCI6ImU3NjJmZmZmLTlmMjctNGFjNy04MmFiLTBmMTg0ZmIwMjkyMyIsImMiOjh9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2433/2/BP_heat_airbnb.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2019-01-10T22:40:00-08:00",
+      "heat": 50,
+      "tags": [
+        "Entertainment",
+        "Lifestyle"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2433/1/capture.png",
+          "width": 1920,
+          "height": 1080,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-wind-energy-in-the-us.md",
+      "title": "Wind Energy in the US",
+      "excerpt": "Which state has made the biggest investment in wind generated electricity? Which state has the most expensive wind generated electricity? AWEA data",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-wind-energy-in-the-us/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-wind-energy-in-the-us/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Wind-Energy-in-the-US/m-p/627233",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Regiso",
+            "type": "profile",
+            "name": "Regiso"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNmE4NWFkOTQtYjk0ZC00OGM2LTkwNGEtNTYyMjQ4MGFjZTkzIiwidCI6ImUxNzc4MGM2LTczMDgtNDc3YS1iNzY3LWZhNTY5ODI0NWUyYSJ9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNmE4NWFkOTQtYjk0ZC00OGM2LTkwNGEtNTYyMjQ4MGFjZTkzIiwidCI6ImUxNzc4MGM2LTczMDgtNDc3YS1iNzY3LWZhNTY5ODI0NWUyYSJ9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2495/2/mm8_wind.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2019-02-19T05:35:00-08:00",
+      "heat": 50,
+      "tags": [
+        "Technology"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2495/1/WIND.png",
+          "width": 1248,
+          "height": 712,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-winter-olympic-games-1992-2014.md",
+      "title": "Winter Olympic Games (1992 - 2014)",
+      "excerpt": "eyJrIjoiZTAyNTgwOTctNDFmOC00ZjBmLTlhMzItYzc2YzM1OGExMzcxIiwidCI6IjAxNGUxMWVkLTc5OTAtNGMzYS05NzY1LTUwODU0Mjg0YzViZSIsImMiOjh9",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-winter-olympic-games-1992-2014/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-winter-olympic-games-1992-2014/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Winter-Olympic-Games-1992-2014/m-p/394908",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "barbora",
+            "type": "profile",
+            "name": "barbora"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZTAyNTgwOTctNDFmOC00ZjBmLTlhMzItYzc2YzM1OGExMzcxIiwidCI6IjAxNGUxMWVkLTc5OTAtNGMzYS05NzY1LTUwODU0Mjg0YzViZSIsImMiOjh9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiZTAyNTgwOTctNDFmOC00ZjBmLTlhMzItYzc2YzM1OGExMzcxIiwidCI6IjAxNGUxMWVkLTc5OTAtNGMzYS05NzY1LTUwODU0Mjg0YzViZSIsImMiOjh9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1788/2/OWG%20for%20web2.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2018-04-11T18:15:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Sports"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1788/1/OGW.JPG",
+          "width": 1842,
+          "height": 1053,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-world-economic-outlook-2016.md",
+      "title": "World Economic Outlook 2016",
+      "excerpt": "This Power BI dashboard contains selected macroeconomic data series from the statistical appendix of the Woeld Economic Outlook Report, which",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-world-economic-outlook-2016/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-world-economic-outlook-2016/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/World-Economic-Outlook-2016/m-p/329122",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Marhayta_Loieva",
+            "type": "profile",
+            "name": "Marhayta_Loieva"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZDI2OGJmYjEtOGRkZC00ZjFmLTk1NGQtYjQ5MGU2MDIwMDZmIiwidCI6IjAwYjI4NzMzLWYyM2QtNDY3Ny04ODhiLTRkZWE0NDQ2MGQ0MyIsImMiOjl9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiZDI2OGJmYjEtOGRkZC00ZjFmLTk1NGQtYjQ5MGU2MDIwMDZmIiwidCI6IjAwYjI4NzMzLWYyM2QtNDY3Ny04ODhiLTRkZWE0NDQ2MGQ0MyIsImMiOjl9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1377/2/World%20economic%20outlook%202016.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2017-12-25T23:55:00-08:00",
+      "heat": 50,
+      "tags": [
+        "Economics"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1377/1/World%20Economic%20Outlook%202016%20Thumbnail%20image.png",
+          "width": 1467,
+          "height": 845,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-world-economy-marvelous-presentation-from-power-bi.md",
+      "title": "World Economy; marvelous presentation from Power BI",
+      "excerpt": "There is an excellent application of Power BI, need your suggestion for further improvement.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-world-economy-marvelous-presentation-from-power-bi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-world-economy-marvelous-presentation-from-power-bi/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/World-Economy-marvelous-presentation-from-Power-BI/m-p/133123",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "jamalq123",
+            "type": "profile",
+            "name": "jamalq123"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjFjNDQxZmEtZmIyOC00MTY0LTgzMWItMTgwMzZlZGE3NzFmIiwidCI6ImY5YzUxOTU4LTg5ODQtNDU5My1iNzEyLTM0N2IyZjNhNmNiYiIsImMiOjl9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNjFjNDQxZmEtZmIyOC00MTY0LTgzMWItMTgwMzZlZGE3NzFmIiwidCI6ImY5YzUxOTU4LTg5ODQtNDU5My1iNzEyLTM0N2IyZjNhNmNiYiIsImMiOjl9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/677/2/World%20economy.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2017-02-24T15:47:00-08:00",
+      "heat": 50,
+      "tags": [
+        "Business",
+        "Economics"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/677/1/World%20Economy.png",
+          "width": 899,
+          "height": 517,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-year-on-year-comparison-of-entire-busines.md",
+      "title": "Year on Year Comparison of Entire busines",
+      "excerpt": "Hi Folks This is a Practice file for YoY Comparison of YoY Performance of Certain Business. 80% visuals will change their reporting Element",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-year-on-year-comparison-of-entire-busines/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-year-on-year-comparison-of-entire-busines/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Year-on-Year-Comparison-of-Entire-busines/m-p/860256",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "VijayP",
+            "type": "profile",
+            "name": "VijayP"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMzc3NTg1MzktNDRhMS00ZDM3LThhYzMtNjRmMzI0YjBjMzMwIiwidCI6ImUzYWQwNzczLTQ5ZTktNDU4OS1hN2RjLTcwMTllNjBjMWVjMyJ9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiMzc3NTg1MzktNDRhMS00ZDM3LThhYzMtNjRmMzI0YjBjMzMwIiwidCI6ImUzYWQwNzczLTQ5ZTktNDU4OS1hN2RjLTcwMTllNjBjMWVjMyJ9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3168/2/YoY%20Performance%20Analysis-Data%20Story.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2019-11-28T12:21:00-08:00",
+      "heat": 50,
+      "tags": [
+        "Education"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3168/1/2019-11-29_094924.png",
+          "width": 1363,
+          "height": 679,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-zambia-southern-province-confirmed-malaria-cases.md",
+      "title": "Zambia Southern Province Confirmed Malaria Cases",
+      "excerpt": "#MakeoverMonday W16 challenge The data is a simulated data set based on actual malaria case counts detected by Zambian Ministry of Health staff who",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-zambia-southern-province-confirmed-malaria-cases/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-zambia-southern-province-confirmed-malaria-cases/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Zambia-Southern-Province-Confirmed-Malaria-Cases/m-p/400456",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "saramesquita18",
+            "type": "profile",
+            "name": "saramesquita18"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOWQ2ODFhNTgtZjdhZC00MDU3LTk5MjMtYzJiNWY5NzZiN2MwIiwidCI6IjE4NmE2ZTlkLTU0MjMtNGE3My1hNTUyLTRhZjY1N2VmNjZhNSIsImMiOjN9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiOWQ2ODFhNTgtZjdhZC00MDU3LTk5MjMtYzJiNWY5NzZiN2MwIiwidCI6IjE4NmE2ZTlkLTU0MjMtNGE3My1hNTUyLTRhZjY1N2VmNjZhNSIsImMiOjN9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1802/2/No%20More%20Malaria.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2018-04-19T05:15:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Health",
+        "Government"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1802/1/NoMoreMalaria.png",
+          "width": 1187,
+          "height": 678,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    }
+  ]
+}
