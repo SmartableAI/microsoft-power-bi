@@ -1,14 +1,14 @@
 ---
 title: "Power BI Dashboard Review & Makeover 🔴Talk Power BI LIVE (Subscribe & Join)"
 excerpt: "In Power BI 'Dashboard Makeover'  • We Review Power BI Reports/Dashboards sent in by users  • Provide expert feedback and ideas on how to improve  • Submit Your Screenshots or PBIX file here 👉 https://www.learnpowerbi.com/makeover  ⚠️NOTE⚠️ :  • Do NOT send any sensitive data in your screenshots  •"
-originalUrl: https://youtube.com/watch?v=nHW9d9ajaik
+originalUrl: https://youtube.com/watch?v=adMIKSTpi60
 type: video
 price: Free
-length: PT2H13M3S
-publishedDateTime: 2020-02-14T19:55:28Z
+length: PT2H38M51S
+publishedDateTime: 2019-09-13T11:58:49Z
 heat: 51
 
-featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nHW9d9ajaik\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/adMIKSTpi60\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
   name: Learn Power BI
@@ -18,11 +18,11 @@ topics:
   - Power BI
 
 images:
-  - url: https://i.ytimg.com/vi/nHW9d9ajaik/maxresdefault.jpg
-    width: 1280
-    height: 720
+  - url: https://i.ytimg.com/vi/adMIKSTpi60/hqdefault.jpg
+    width: 480
+    height: 360
     isCached: true
 
-secured: "qDRH5GrXKqkwxzlNW6bLJdkqelzmlOsjNJHUgl61eY/F0nNPMv+joWNGEczjEJ3G2U+c7HeH8mxo9+OculKr2bvgE7Fkg1mmtdFqGMgakZDhp5TR8wB71G4rAcCxIu2FRBBjJuxo7acnRI4BV+vsUzD8AqeUrRHmoaTjw2nZ4zqF4e6oMhtM6unMv2C7I1yeM5mSfarUL//cBI3r55FdQsZYgqyGTWpxz1LhlCBO05wHCg5l/QaZMbO8f8Ofl/Ep9MSx0S+FwfRiDpZbF3+JB7jAI2jNXXLvf5/NgIEmJDwXFtwn40335JvQshYBEtNlkxNucMwNvoppzCYUUeqv0H4p2uKlnBTEzek3YHs+2cqV+gzRj+DPi58URkMVtZAC;0bdHIi6Qh4a26GYf6q1xhA=="
+secured: "aktzuqyfpvj3xp3tr+Bte67dCj0GXONTE1D3Un+DVI3ef+7naGR/i3h3PZtpK0Wn+VgrOPoKmbG2W8jpx0BRlgag2v70df0+c6o2SOQmLJg3rOi5AEaHWdlf4p2E2MQbNQ6Tkiwz4CsPLd9FUj0BtduVa2hp9zHiew+CbyLf+syUrvX3Qjbq5O9MyE+ILd5L0J554fjMG+gAH1C8WqxGmPmeYCkR1cB10+wPTE0LBQGbTiOlL9e6Job2vULhf3LzdhYriFkiZGc9oiwonuFIYlqLqZnI2Ui8GhAhqn67k6qBCwcAMqOcNxx5WrqHJvGUkZ6cDgxM0DLCZCYNrhOJqRGBgYfcYy5ee3x/J09VfTg=;24Qa4eVDAhZ6zUr1FlFVMA=="
 ---
 
