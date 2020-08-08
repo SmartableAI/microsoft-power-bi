@@ -8,7 +8,7 @@ length: PT1H14M
 ratings:
   count: 84
   average: 4.714286
-heat: 117
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Create and manage workspaces in Power BI "
 
-secured: "tTEwwHTX3rDSE6VhFnSSotGn63ChG57bWaWWMJfxPSAYfjA49t4alN7ThgTv2ikeWEOG/Z11i+o4qYr3fpOvWRIBxG0wSpTE6BSyNsDqp5DM3tGjLXTZkDVMliTjW5eU4FWp3UXHKWp63J1PI7WLOHGczn2y7Sj6Ip6hO/Vk0HUX5oAP2GVyEUokSQvoBn+SKgfy88UY+K7e2YSAirBXM+j3iQt3n3ET1rIwmQQnFNkI7LWVHr1ndshyLdB6XzM9d3rhvaLciAfhvoiS0hvV0J5wuMOyaqVQXcTjClGrROqiyfKN7qAM/ecfoxb/y/6BsZo5rAZsvMJzCoC9Yu9wo6kXI7BEQEY0tK+is9vrm0OH89D1ZqWKrn5+KqnRShiZLPYmqtmw4q8lkPuNMAs7aQ==;K4kG+raAxYFn34/uZkqLYw=="
+secured: "j/PanPTv82CVGylqGKUr7UvG0mDO5Qw0bN7a1Q9Dr0QbhkyCq3QR7NmvKBBUF23uh28hc1BxigU7mc+mF9YIzEyu9zWyLQ9dWnXZrQGtPrNLFOdbAdS6fBfyW5HzNRTHKoMaHC9W4BsPTofvTnHUyLQL5KGma1qiwAJ2BJHaPVqM0QwgobV1vKmABij7Wlz+v4hcRnt9q1rUktLfEwhFxJxPv0B/pCoE8wFts+TmPC8cNfIqShO3D75qaJ45jvBb4iKBR6jU6NyOfnZlga/WV+a1CFf18+kljYphN7VET/28G77do3nEA+iyXRCQFtr53r5+9biQ0g2MBMVne0WOG8FR8JRaWbbPfc+x0/5qxVU2/z2uoitmhsi0ybl4PNVACJPYV8ny+AaJGTceH28mAQ==;OoXHcT4WJhBQ+TxZf+oGEw=="
 ---
 
