@@ -18,6 +18,8 @@ items:
   - videos/sqlbi-disabling-auto-date-time-in-power-bi
   - videos/sqlbi-counting-working-days-in-dax
   - videos/sqlbi-using-userelationship-in-dax
+  - videos/sqlbi-using-concatenatex-in-dax
+  - videos/sqlbi-mark-as-date-table-in-power-bi
 
 topics:
   - Power BI
