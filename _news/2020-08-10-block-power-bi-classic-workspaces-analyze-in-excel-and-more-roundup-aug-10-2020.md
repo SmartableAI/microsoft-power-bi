@@ -5,8 +5,8 @@ excerpt: "Thanks for watching this week's Power BI news roundup!  Last weeks rou
 publishedDateTime: 2020-08-10T15:00:09Z
 originalUrl: "https://youtube.com/watch?v=V4jSSBtL0do"
 type: video
-quality: 128
-heat: 128
+quality: 130
+heat: 130
 published: true
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/V4jSSBtL0do\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - Power BI
+  - Power BI Desktop
 
 images:
   - url: "https://i.ytimg.com/vi/V4jSSBtL0do/maxresdefault.jpg"
