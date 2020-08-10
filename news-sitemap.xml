@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://smartable.ai/apps/powerbi/news/2020-08-10-block-power-bi-classic-workspaces-analyze-in-excel-and-more-roundup-aug-10-2020/</loc>
+    <lastmod>2020-08-10T08:00:09-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://powerbi.microsoft.com/en-us/blog/power-bi-developer-community-august-2020-update/</loc>
     <lastmod>2020-08-09T01:39:40-07:00</lastmod>
     <changefreq>hourly</changefreq>
