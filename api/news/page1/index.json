@@ -51,6 +51,55 @@
       ]
     },
     {
+      "path": "_news/2020-08-10-humana-enhances-its-healthcare-data-usage-with-power-bi-and-azure.md",
+      "title": "Humana Enhances its Healthcare Data Usage with Power BI and Azure",
+      "excerpt": "Check out our new Mechanics Video on how healthcare giant Humana uses Power BI and Azure to get the most out of its data.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-08-10-humana-enhances-its-healthcare-data-usage-with-power-bi-and-azure/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/humana-enhances-its-healthcare-data-usage-with-power-bi-and-azure/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 418,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-10T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2020-08-09-power-bi-developer-community-august-2020-update.md",
       "title": "Power BI Developer community August 2020 update",
       "excerpt": "This blog post covers the latest updates for Power BI embedded analytics and Power BI visuals platform",
@@ -1151,55 +1200,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-june-2020-community-highlights.md",
-      "title": "June 2020 Community Highlights",
-      "excerpt": "\tFeatured community members, changes to the Community, and more! Read up on recent Power BI community news.\r\n",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-07-13-june-2020-community-highlights/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/june-2020-community-highlights/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 418,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-13T04:11:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
