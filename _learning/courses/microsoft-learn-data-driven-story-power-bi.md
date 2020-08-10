@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Create data driven story with Power BI reports"
 
-secured: "T6JryPlqb+8euje3yI6lfvU4QXHVY8d+sfgGgEpyT4U6R1aZqflH6kkhev4lEFuFB7E0T4r2u3CD39fCt7QIAyqetkSXbtPe373mzgymMABV+y07h4GErlUoFl/+pU9X0px8qYlavOlXQkmz0j5rcal4AKNAiOAkg2VskmOTYJi7bYacySGP6kKThVwAmhXPoifYnQ+dqdJJ9/nG8x0T7wh0j4O+3cG4n+hMQA2snBf0ACkdd/UtaooMW87XTOkVCMI10yatK8Te2J16HyyrI8GOXdIXCJrto8Msvm3Xr/0nx88/Ts1Cf3Ve+/joFqLAoADopltyV8ClK6HYtZOvc8mfoz6fkMZfIkrotysfZZt85pABGlICVPR/2DYvoj2OyFUpo7PG2xbJaF/thUbM1g==;f9cilbaUANQQiQ+OJqZ/1A=="
+secured: "iu55owwA3fj/BclcHrpAKjgDSKqMZd9zpXRez5IUCIZ4XMo0zTOQ4F1ubSehjDQyBvdSYfYuNNuyukm7Wi+5t7FgFMpYkvxcMgnQfxRMtR2Bpy6yDWyIPMKRDv4tr4oqa6DuURItKFWNzQTnPzoj8CgYKPcyuF+FmLqa2rpFdcXSrxl1BXrX5295Ew0QQoxV37hJHD8NM5jzBGs/L/8XDs6rPfrUWl2k7gWHAIJxhK0MH7bhm/WDUPdBWqdje7yE0VPNzeLbTOR/eAebZGpQ/KIkWI2RNSLl2Dy5JpHP8SOn7uv+dfVDo6bonFODhhxIGQ9WWTuRURqUfaFnfBfuBiKtthBJmumgBCobUkGztzscZozGUXaTk8+jm/7HCmDzea47xtUiQiFzzN/8+qoCgQ==;nfMY00uUnyAIemDKb6GJJQ=="
 ---
 
