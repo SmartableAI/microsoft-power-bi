@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-august-2020-feature-summary/</loc>
+    <lastmod>2020-08-12T04:03:24-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://powerbi.microsoft.com/en-us/blog/congratulations-to-the-featured-data-stories-gallery-contributors-for-june-and-july/</loc>
     <lastmod>2020-08-11T12:48:37-07:00</lastmod>
     <changefreq>hourly</changefreq>
