@@ -8,7 +8,7 @@ length: PT1H43M
 ratings:
   count: 543
   average: 4.697974
-heat: 52
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Becoming a solution architect for Dynamics 365 and Power Platform"
 
-secured: "5VP9rCl9Ku1kAQnxAPleRiekR1ED4oxa3aR6VB6q+z9R19gCLJ1so82TgmmZZYHInnhSfgJ3G2ZhwmdoeI/5HVX6H9BombeE/7TOJl80pluwHnhgmOXEZO9/Ot1djXIcf1mS4glMbkPi3dQ/Idh65O863R5fvmrNkIt9wx2vd4WjTLjKV585l2xzND62E0so/HTeQJDCyQU/Vscd055uQtnU94w3G0KVhoTt3n3Z361G0BpCNNEAhknjjHeU5qdQBcuKX8YgND+VA55dp2ocrguPOWw2Qqci2hqLWVEBlQdtwRFolT4lgBW9POAmJOA7bGQe8r7CAWntmP2mnwSxWYMBqgdS0Vn4JpP1Y271NRSN0aa6Q9s6lS/FYfOdpx3pe5n0P/GQWCFgj8LTXos2Rg==;eI/r4XcbBjlQftbPc07Hbg=="
+secured: "FA8/+K8/DH9YNDGt6J7PnLyJuVlDLKsIW7+L2Z3vazc7Mi4pjnj3V6oD8ofRLK+HPq+9/aV/mlx8pWddkbEh40X4daDgQEoa82Dy3a4KHWoqLtuIl8MI6ctJNxhVaR3kBy4Nsjp8afj06ZArd1Pm/jbI/vGYwH5b6uBTnqRc+JgnFWmhV+MkS/vB495tFhCOel14eWsjFECEz8HaGqR1txe1Kkl6u8lkgcgZT3MkPq+8SykaJbwZ4DLc/4t2TyOmCdnu2OgrjAeXYWmKoQRGxrnbIgmY7QEXuYwDt+VM7zY52F1s0tp8yQmGSkZDYOuoN/5w3eVBn+FDJ7F4Mz3re+9qTzD8kNFJzs2SCz2DiiOjK/3uIXMYCgyh+aZW28jyMLITvsrC101ZKVqTPiS6EQ==;gaOAfaDyC2g888kYpXHqLw=="
 ---
 

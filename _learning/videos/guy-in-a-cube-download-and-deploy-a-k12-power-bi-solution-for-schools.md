@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Download and Deploy a K12 Power BI Solution for schools"
 
-secured: "SYryR0pHrGzm8GthZE/vnADWj/He10oi4ZijUM1XaqMie/bc+9YDY1KGwWkL6Xxi55E/pTxuyGPi3yBc/+oeibQwfarMmWJw1KmI/WrrVpE+bFT5Ln1urE5hHfe2uPCpLFgM47L/O/uBC/R4XAcaW5GPBsWyeePmtea7BBvfknDixjRFoCdFdPDjPpP/kq0Kxevth6C6b8FUonjx0wI7fStP0DImZH4DjL6o6DLsp1qPl2hsk/J9SocJgO7He139vYyDPKaFNNaOPsv0X6f+AVTQ6wrUmHP0oMOP94Ex7DLemIOjPiBK0Dz0Twkdlm0KcXXdQI+uc6lUKWbQPCpEb/fWB+5ko+MffnZCNynzPleVtgOUCK/+Ld8bDNGWA56QJq6j6zE98JkL59Mz/YLEJg==;M/vObGcjiiVkQLNon3H1aA=="
+secured: "l7VcufkxMnUxXrh3Z66WjxCq8mwykaa4o8prVdu21dgb3zbXHook+9ixGX4dXEcbEy2HpIY89bd+tjulqQwBgBQt8g2iwQ+eXYuwKgucF1kfs7rOnZo3Tf7dN/S9XwPM0spJglBtpJL5eg9C56Eo92+8EIsaJJ7vH9cKSS5080EOX48RYvb3bfyklLVNn1v3aomkLZlQ8fNi1Mi0FF2V7NEq0ZzUe/aFCDvM/NNgTiaOpE8+c2nz1RoZi1OgEIqoqfwj8uWEpkuICQC9/Sn54S7o2y98YGmqEdU+yNVjK/1Fth3tXCYthE3X2aTg6oGxhrrgayMx5QZP5IZPR8vytRTPD4f9qolauuAMxLJ/ARhXKvRkIPvP5OhF5R/tZIa8Nk/HnZtCkalAK4Ndrih8iA==;C6nLIzkf9+kflJh9gi5nfg=="
 ---
 
