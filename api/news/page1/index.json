@@ -2,6 +2,55 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-13-power-bi-mobile-introduces-improved-navigation-experience-updated-headers-and-more.md",
+      "title": "Power BI Mobile introduces improved navigation experience, updated headers, and more",
+      "excerpt": "In March, Microsoft introduced a bunch of new features to Power BI Mobile, with emphasis on user control. Later in the same month, the tech giant unveiled a performance enhancement for the Power BI service, which soon after made its way to Mobile and ...",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-08-13-power-bi-mobile-introduces-improved-navigation-experience-updated-headers-and-more/index.json",
+      "webUrl": "https://www.neowin.net/news/power-bi-mobile-introduces-improved-navigation-experience-updated-headers-and-more",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2019/11/1574779296_powerbi2_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/power-bi-mobile-introduces-improved-navigation-experience-updated-headers-and-more/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/power-bi-mobile-introduces-improved-navigation-experience-updated-headers-and-more/",
+      "publishedDateTime": "2020-08-13T12:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2020-08-13-re-imagine-headers-and-navigation-in-the-power-bi-mobile-apps.md",
       "title": "Re-imagine headers and navigation in the Power BI Mobile apps",
       "excerpt": "As Power BI becomes a key tool for decision makers, more and more content is being created and published for them. Being able to easily find that content, to navigate between related items, and to share relevant content with colleagues has become critical to making these users productive when using Power",
@@ -1145,55 +1194,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-07-20T02:00:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-thank-you-for-5-years.md",
-      "title": "Thank You for 5 Years!",
-      "excerpt": "Join us to thank the Power BI Community for 5 Years of contributions and helping others.  Get a sneak peek of the event, and to find out more on our blog.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-07-16-thank-you-for-5-years/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/thank-you-for-5-years/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 418,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-16T07:33:21-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
