@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT1H1M
 ratings:
-  count: 126
-  average: 4.6031747
-heat: 58
+  count: 128
+  average: 4.609375
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Work with AI visuals"
 
-secured: "JdxWU489i90CvU2mR88KZ4TaOwkxczkAgfycgowmhBI7amiW5DS4g+OIxnF2PvS9XGsaUT9YPR9ALoWr+HUPsKINx4lajlv83RNTVCpeEbCjOXTvGSI7YLqIHkIMOMUgCfuKKrEFxM0dtdWLTJ7q1P0/q/efxvsOgDgbeaTsgzYJf1yU8mBTz6Ah7MkB42HVp80WGFF213DJcNwObKQRJwgPwifOK7h9PDer3MzeWHmYKeBU+omh8w1C9gjjPtdfDXkV5RXTLUvwVNwDCcC/Jr/RRt7143AyNbubrdHwRgW674akJcOMtyaYAYvoybTIOHfNK3sKGUevIhjuXQUaBC+kchoYDokh74QzhcOhr1kXy47Zmh5xisCMIimsa9xVnXAsxcJ5mzXhDaPYYtuNpg==;EYOgqCjw5AXYKPgynRWvlg=="
+secured: "8g/Vxqfj8C8cxSsx2k2WLjDSKTVtEMYymQTmk3A9X6ovnpEQiCEJcOI+UMR7Ipn+UJkbTAXAVpD++tbX1yl3aNmY4G30AwsYf47cEL8pPgB2N24VE5rJ1Jjstd2SBoloeXpjZEsFuB5rak++Ygc+VIqk81IaoxBfxTY28QFQJXfTALPfbaN3Gx1sI6yd9vc2JupmYmimc5GP9jxZ3scovw7gizRLqdLn2K5LnUe8BADDSC3DQgv9whtX6BILOxtgYtonxRn1z+Kii31w1BVhlHpKNw0Q5WpE9Nbv7hSdhKyXGv296yIWf5CW1rklYAD0kngqlarYNOYuQb75asWEqQafaGZr3pAPuu3oS3qfYo6o7c33ZPl57G9Aeq9n7/vcxsuOREPcDBYlT4HEkTJyBQ==;Y2E6HpknU4PYqF3I2595cw=="
 ---
 
