@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-11T17:27:11Z
 webUrl: "https://powerbi.microsoft.com/en-us/blog/building-cross-platform-solutions-that-connect-to-power-bi-datasets/"
 type: article
 quality: 97
-heat: 98
+heat: 97
 published: true
 
 provider:
