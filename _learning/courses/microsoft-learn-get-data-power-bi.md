@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT1H15M
 ratings:
-  count: 12046
-  average: 4.6897726
-heat: 88
+  count: 12048
+  average: 4.689575
+heat: 86
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Get data with Power BI Desktop"
 
-secured: "GETfIH+aSV5JlprE5xCmqB0xtQBzlOAqyTZPFV78Q6vD9uV72JThUtb9a0fnTQ8MnwqeyIU8LeZOEEPCxHCI9Y8aSzRHb2f9vWRmXR806q+PI6y15UweRYjX1iZJhp3qnmU/xu6zdbnlGYkeNbJ7Qshr+LpesPCoyTTNjKp5P9OnSewnjntPXVo4Pqe7fhS5rERJUF4uu2xBLvwAmz3ARbiAcIkItqnboRcztuhSLQktau9ZYcY5SWAHOnH1BKYP6eBGnEXUMzc9w8Xupf3mFFhs6D+7smmN7+0pvU6W1/6ihZSLSuDDSrQZ7WFO7PwMuvMrcQ/fg7GoAqDZ3r6LJcjmdk62ERjh++oKXyqR60JfahREUYA5rl8aXjuBCZ6C56T0uOaFIRNEbrNsp8U6Mw==;fw1jClA/2AIvIXzgmviCaA=="
+secured: "Qf9VcFM9vmA561RmH+MpvNQLkoHHgFv29cSsxgfrkcXFpgwek8Z9LsQhBziw/+fo9IEUOG3/A17r1cZK/pVd3HY8IfHlrIYXXCAfrDLGfv2gYvxhcZGBC4JX3i33ACl8KCOAOY3Oid0HM7uQ+5h8hptmBlSGtRwn9nhgZSomuXEZsXiUjCi+xhCJLrSXYnuc5AMXXH1TOtNN34p1Q4siLIC8j/5Snma8XEpdo5MmnOfuDmx/vRIB9BM/H4A2XfXVe6eOWyRqPLQDTys3NibS8U3+uEuBroIw4Cg9Fb9RS3MbZjaWQQDFNJQOYJnMF4W7vkZ/CLHXhT0CL6ifHjFh3T/iqI+KT+hMRTJ4vQqn0o2i52g9Cb6XI3QtO4Nif5XUf7eJ9Zcmii+J03eXQfuGuA==;koFYb4vEe0zqEZJTkvIF1Q=="
 ---
 
