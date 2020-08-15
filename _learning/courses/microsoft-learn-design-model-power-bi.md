@@ -8,7 +8,7 @@ length: PT2H8M
 ratings:
   count: 325
   average: 4.7384615
-heat: 64
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Design a data model in Power BI "
 
-secured: "UPkkgYL+I7Vi/JSndREWeBPr8fk3qNLTvQ6yCspczGIelBW14hkpO1lZqKxVbiAHUECDFNO00dnm79IZlxPy7eVXJ+oQcA92a7MVragOiFxufSLzlcx8+4Z171FoLRklwhjL5s9M1wE53d//6rhoZRPlYyMDPrVrUoFFwtzXR0YqIKy88CPr+tb34PBUUmFmD94dh3K8seZvzWqQ6LmS0eytFOcx6XTaTIHldXkhJzTbMXFCUFRxAFP+HyS3QVUCmU7xeVm08VemLM5e38mDTaG/UZo9vYOhNvbHNBY0QRuhCk4t9rMSqbEMzPngrvBcRVzV40u1PacaA33ZSEVkIr5eWC6eCZHx6pGTJBZRYgMqp261wwwiAfFT2H02gtlm+cq7JCXRbz7KwWq8Og6r+g==;ag/8VlG5qks/Y3IPA4DaVA=="
+secured: "soAMkWiPgaj8KtcYn3BYtERrb647tYO/ZRe+r3Ff3TipVnd9A1Jj/U6dlisaYVb4J+ZbI1sKPMXSyBI3t9j58Cx6AdenV9CS6zzH0urpMzxZKOREE1zGyNjeS6zM3ofyL3vc50D3OxJiKnQjXXKWrA7XLVqg4XBf3/zT1X5+yQLXi5O6hY/6VmpmHjGAuiWnRsjhmL1L1NPClgxITMWfkc51CZTlmiJwuKCEKujdeBDkHWmFjt7fqudxCEhhIkd6QQSXpUZc0WRG2iwk6jCUYxQtikApXb1WsFoWoEVEFg1NSIKxIex0R0VPFCAZbZkcepctqdBzEkSwd+QcdmTHvNp/2DACmzYyyiVtdUOoBljlh/VkDxhdmg7wt6QpaaNjsyhT7aR/gDMbRz3WnrC3kA==;b2JBu0kaPKlC0IR8fe5OLA=="
 ---
 
