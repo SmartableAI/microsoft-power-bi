@@ -7,6 +7,7 @@ services:
   learning: https://smartableai.github.io/microsoft-power-bi/api/learning/
   news: https://smartableai.github.io/microsoft-power-bi/api/news/
   samples: https://smartableai.github.io/microsoft-power-bi/api/samples/
+  functions: https://smartableai.github.io/microsoft-power-bi/api/functions/
   people: https://smartableai.github.io/microsoft-power-bi/api/people/
   events: https://smartableai.github.io/microsoft-power-bi/api/events/
   newsletters: https://smartableai.github.io/microsoft-power-bi/api/newsletters/
