@@ -8,7 +8,7 @@ length: PT18M
 ratings:
   count: 7825
   average: 4.695463
-heat: 93
+heat: 71
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Introduction to Power Platform"
 
-secured: "bC665pRBWXcm9vm2sESK4zThm+eh3hTyF9oIBHJB44eV7roThxs0M7KNBur3uRAaHqQQQWMl2cV15pgCKjLADUOHvANCpAoDqYqD3SYmddAS1QfMpFYWFVgFL/0xAz4aOfi07gm3X7ToeZwi/iYEIBdjOhnRviyUsi4wCb1HZy0XMIswfC+DoOKXupilxJOYj06iPXAjZFAesJgt450IvzNNTkBIhMVlSmmGB/WCzQwYHGkOGSJwrDVUpGCtPTisO5xNn9+U2e+HF5L6Qo2N7d+fW8h/boCsqFVFchKesNHIJh3heGDOdIGgobd06p+vUnz81CXChARM7v39jbo1AcSm2pG2euG9VRWOT7ez5gaX3pknElcQveeuEFtrOQfs2q1OBcaMbNYqS/N7VQQW5g==;ZhrqOrtjE+k9DS7H/7ODZQ=="
+secured: "QQ+UKG5n4MZchbOWJxBtxdmHiBvdbBomPiDDRzgbU/89Zm6yWj9yI0FGtg04r8FneoPtVs2ZMWvgfVI5UrbCSlUKFiyO1OiukUsalrHbi0hdt9nYHaPwlSz2GjovksZu5s1WHkZYehBVconjMIOmCqSgqayG19SETW9rc1VwMzN8K5Dok/Xn+iK6zarkWF0LZ+T3RMVHRhoBDWE7RQUjE6Gen0WVMT4teY+gMN7GDPW1OWK5JgJ23vXAwqkJnOpTzUe2v2IzivmKXL17E/UdSevCPX2qlkbzq/pSladvE2u9SoBnowA0z8qNPzzbQ8LSIlnK49WFuJ0Jq51/ZtOjS7g4ElDnKM38qSlTWyOKFSnObkg82cuQuag66hY1tCeq+Ko6LR+C1f/U9q+jFUQ/Mw==;MZ5xSFScCISOg0Rrfy3Dhg=="
 ---
 
