@@ -6,4 +6,4 @@ keywords:
   - dax
 services:
   learning: https://smartableai.github.io/microsoft-power-bi/api/learning/dax/
-  functions: https://smartableai.github.io/microsoft-power-bi/api/functions/
+  functions: https://smartableai.github.io/microsoft-power-bi/api/functions/dax/
