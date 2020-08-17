@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Implement row-level security"
 
-secured: "ppjaHHYlOn+H7813YCd44ZbH/gOjfcCsgLNGtBof9UoV6y35r7SIJYv5uLocZxn/U+XVOPIZhJD4X6J492/qvlCib2GppKAMP/tN3szi7zDY+SGNHI44J7R3dtFHkUAEZvDo2Eg+EaToutYCCSNCvXBBtd8khXC3GMKEUa76fd8XSxDfjai+cSOy/p1Tak0B9/G4Tbrzcey/qvHYngV63+ZwNNg643kg7HzQoytD4P4VkB/BYZmjAI1OQPhLhoSiYkX1HJOHAxmksg3Ue3styz1/NM/MGfqQ+YogQcoNrOxdFSnprgGlpcGLVz49TvzmBXIf1mLRNqxuQL4LvXtneymJ0KxSFgW6WogDtpnWmPLuh6+crPTLYJJl+YyPZSHsoiIKDFZLbNTRIj+VZaJ4Zg==;XqB+ZRwdyvYcCmNPDJVzUQ=="
+secured: "9bmZRrfO8ksdOaEl1aWGyGpoxnH7UuVvpHagf5f11hGuK8ZzpwKTchLh+AAfH5ZNNIC4morjxXNCgeQ/KF/2XdEeJUK6kgrOnnaBN2YMMNzJY2U5KhfXuEqTowSJMEfJYU01GOqbb3HTS2QwxqvUxgh1+1HccWNyd1cLvNZKd6Io6LGNU+f9ex8lkbFmNSVlAbddENoJcB7lxTpZQebQ/vgLUJr4fOe9ulmTu+TclgxnytgioVGxx7gIc5zlw2Ed7TlWFO2hNQ9gsHNmswh1KKnX7M/bp/uFIGnhQl6otpvjkKP0Hv/R18PLMo5k+gzY04I/S+CVPgbLVjDfTiQGlg2M6rSod6uhseOjxOmWrZqevmia1i1fRVK0HyIuC2nSs283fsSIzE0P+B02YR/D5A==;jzG8QncbhJfNi4uw1vAr0w=="
 ---
 
