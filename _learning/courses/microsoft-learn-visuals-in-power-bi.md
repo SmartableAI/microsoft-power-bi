@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT1H16M
 ratings:
-  count: 3531
-  average: 4.751062
-heat: 56
+  count: 3535
+  average: 4.751061
+heat: 61
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Use visuals in Power BI"
 
-secured: "3yccvfxXbm3Ow0nCaIaiLnYXVwpp/mKJ480Jf0owZypofGrc2CADkhrqSsX3VHSWlSYsnk00IYqhJ6tdkUYuc8I0sPXTY4gixXRgH7/ZSoPlQ6k0ymJxauR0j7DOhLTXs4VIkkhZWRgd09N5nTxgMGsEHAUIiL/82Af2SDOat9dkxyQN3TrBQaOODEwvPy/3gi/JH0QexHCgb7h7d9kes+8Ei7ZlcDUG9e8x45F4T2lEmdo8hmfs007e7TyAsR/WE/3DyaGJocyp/EOWDEf0WtmGWgcGxCZOt/SL3QxC9lEkgpq3XrDmWQmy4snMTDr90zFJUFGVaLPsh3eKaDYl6tSdiNNyiJ8m6PHwJQqcjQ/ZkaYRGEYNfCoULlDDgtTTPlREADsaxaUZ+gNM2EeWCg==;4gclB0iGwo/kaVoYt84Xrw=="
+secured: "aIG5TRwR1hlng6PLHxVGP7wPVWjmSau80f/iI28DG7loZACQXE22yiEL7rnFJydG3RUyIg3u/O8c7wqld7CLjxPlMIZPkymSLiGw7efA4T1mA1uu9AgIdIBAdlIysztrlPZMOaivm7G5oPQ9+PQcZgLjn49HVe2/w/cmzzjO7JbvxE6de2+lYtkWGPpXDUOetgieEjZJ+6zAgEOpW1KfDWr944YpDg8AlnI13Fuet2Xq38wgNFKfh1XrX4Bi2idqCvr1nUI9pM+kw8iQ1z32KbiV8wiBCLSMkyKMFakTPZS8a/XNqkxD/JwebkEa2yB4PRssErP4HAvEL56LIo4L+1Mq86SZMjfXWIDWhdN2Uz0zHmRJontFK5CbCY2JhSBx6kz0lDBqhhxVAQge/D5j6g==;wy/xIxUPHfxbl5epHMOg7Q=="
 ---
 

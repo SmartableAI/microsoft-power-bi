@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT53M
 ratings:
-  count: 2919
-  average: 4.717369
-heat: 55
+  count: 2920
+  average: 4.717466
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Explore data in Power BI"
 
-secured: "wsp+McpyLR1Nq4+L/o4hOhmDAxWxBOWRNMWea9xaAG5YMUuGMfOhlCrACcQ3XoafeT5HdEQajB5Iee69uNcL+iGThVypoQ9kITaOiTtNz3sxYVOf9xrkbStAKGcXhR28O/IzPnK0o30tEOj4WopWBCg/NZn6hfAEeXIagQuvSA0iz8h3DwDxVT34FL760ang8zTbS13MPSZJ/iDTCQRZNj3eJyMtvsaYajzikAsxnFV7+qxAhTKg9xl+fx16XmnF5f/wOF8disuEALD/E88hB4UE5NMaBqFTeuG8ebxwop3spYg+QruOCLSkYF+bFU+UN7mhrRk1hcUx92xU4d71tlyQleQL/NjFBi7Eeigv7ipgb8sXzWi+S+bsXYF59gd7c1CakIJfgFb0UUdiwoh/tA==;wGjOeU9HuvRJbLiwJCKoKA=="
+secured: "I3G8MaPg2jON+8HqXJfDV5R+OdwpQLoP2EugecuVxBNzYEGXdWFajFx3O51o5H+u3yj3cbEHy2bHtZ3WK7eMT4J7nB/wI5YrJgz+UOFB0yHqV3kLXCYKrLZN7Fb/hM81yW35kRniiHTmiqGhcX1wmZj/JB+X5/T1WI+7tfOMnBGuCfgmoF7rN+LoQUScJLPOhATJcHJ0iLc8k4EwClZTwcOsm3RDqNmVG9ETyulmmCJqKzWfVs+AYduKMA3HOHaojwhH+koEXbSWnmd0iMwy8/j05gtuq5Z5K40Isma8H+EtCtlL0qG6o2omEnYetBr8eJFG308274t/oIoEIjqSG842wmTEpGWF2Oxb+igcaybL2Vl6ByBbUPynRYOUlK5Gkl0eendrxygBjokPegBDIQ==;VwTWDzUpIKy3G2uuWMUJrQ=="
 ---
 
