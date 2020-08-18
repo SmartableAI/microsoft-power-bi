@@ -5,8 +5,8 @@ excerpt: "As Power BI becomes a key tool for decision makers, more and more cont
 publishedDateTime: 2020-08-13T03:27:38Z
 webUrl: "https://powerbi.microsoft.com/en-us/blog/re-imagine-headers-and-navigation-in-the-power-bi-mobile-apps/"
 type: article
-quality: 97
-heat: 97
+quality: 87
+heat: 87
 published: true
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 417
     isCached: true
 
-secured: "Q5jBT+/9F+Wrj9z8f6W8AzYJfbu9PA1npOMibgd3TZGKfBBtkIjgA8iD2Mwc/BvrrEkap0l6UzkJMhlaKhrVBoStQc8gwCTODPTX5jpChkf00WhevVzaHHxFMYyZyYb/SvtC+NuTw/Hf+LqSZfg7PWMPJwjCSRIekqrRyExLWnluIcKPjwaw7nGVq8ZcgQAmLvlUbnQg3YmY5cTa6s5xOjPMpGTl+8+9+sthPSouKvB+8qw9HndJ1VBu+gCNIvqGRZVexNNczZ0cBtW3AS5Zd7GRIAijYk+CIdfKVn0VC04/jn7h9AGFfpJUmHDjzFsaAJQtEYTftnEzO0x1z0BczQ==;fZzr4gzrm9LWyEgP2zIlyw=="
+secured: "kat1gGbXwBi/f/LseuT5gqhKJuim5AP8pl6HlWns8PfJnLCj6VU9tp0MpNLhmAd7nkZVzGhHF+K6KBLrd0FgZDnQvo+ioyqqU2r4NxZgIq7jaSlgXcbFT/vCGEGj5dnisxqm692BLywV4mNbmiKzDAs+ymb+qR7MSFg2fO2RhDfs68EqO2AKmHwKwnv8lDM+AjNkhnj2QkHEz0psm2adCeT3NKUBo8Y1cYQtHmgpX2x/AI2RE5KARt/411bBxBxDjrCMltxei4H4I3rZtbeXc+eM8yRYezAUM3Qw1FQqEh4BArftwt5MgsuwgbBVQkxJ1f0gKxwbf1mcch8Or677y0EpJLw7SleZtGSuQlKgDVs=;Z13yV3K4JtY31WzjaCZAlQ=="
 ---
 

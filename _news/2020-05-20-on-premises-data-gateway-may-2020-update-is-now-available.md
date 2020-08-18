@@ -5,9 +5,9 @@ excerpt: "May release of gateway"
 publishedDateTime: 2020-05-20T08:12:37Z
 originalUrl: "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-may-2020-update-is-now-available/"
 type: article
-quality: 82
-heat: 82
-published: true
+quality: 22
+heat: 22
+published: false
 
 provider:
   name: Microsoft

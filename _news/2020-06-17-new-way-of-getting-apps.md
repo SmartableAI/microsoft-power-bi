@@ -5,9 +5,9 @@ excerpt: "We’re thrilled to introduce a new look for getting apps! As of toda
 publishedDateTime: 2020-06-17T10:37:33Z
 originalUrl: "https://powerbi.microsoft.com/en-us/blog/new-way-of-getting-apps/"
 type: article
-quality: 82
-heat: 82
-published: true
+quality: 22
+heat: 22
+published: false
 
 provider:
   name: Microsoft

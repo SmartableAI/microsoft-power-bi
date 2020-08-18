@@ -5,9 +5,9 @@ excerpt: "July 2020 release of gateways"
 publishedDateTime: 2020-07-23T12:53:13Z
 webUrl: "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-july-2020-update-is-now-available/"
 type: article
-quality: 82
-heat: 82
-published: true
+quality: 22
+heat: 22
+published: false
 
 provider:
   name: Microsoft

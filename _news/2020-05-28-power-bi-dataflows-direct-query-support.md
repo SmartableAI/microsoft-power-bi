@@ -5,9 +5,9 @@ excerpt: "We are excited to announce Direct Query support (Preview) for Power BI
 publishedDateTime: 2020-05-28T07:00:00Z
 originalUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-dataflows-direct-query-support/"
 type: article
-quality: 116
-heat: 116
-published: true
+quality: 56
+heat: 56
+published: false
 
 provider:
   name: Microsoft

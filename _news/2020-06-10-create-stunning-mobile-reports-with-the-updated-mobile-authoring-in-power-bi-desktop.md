@@ -5,9 +5,9 @@ excerpt: "We are exciting to introduce an improved mobile layout authoring exper
 publishedDateTime: 2020-06-10T13:08:40Z
 originalUrl: "https://powerbi.microsoft.com/en-us/blog/create-stunning-mobile-reports-with-the-updated-mobile-authoring-in-power-bi-desktop/"
 type: article
-quality: 90
-heat: 90
-published: true
+quality: 30
+heat: 30
+published: false
 
 provider:
   name: Microsoft

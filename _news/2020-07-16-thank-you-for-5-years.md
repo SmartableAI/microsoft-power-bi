@@ -5,9 +5,9 @@ excerpt: "Join us to thank the Power BI Community for 5 Years of contributions a
 publishedDateTime: 2020-07-16T14:33:21Z
 webUrl: "https://powerbi.microsoft.com/en-us/blog/thank-you-for-5-years/"
 type: article
-quality: 82
-heat: 82
-published: true
+quality: 22
+heat: 22
+published: false
 
 provider:
   name: Microsoft

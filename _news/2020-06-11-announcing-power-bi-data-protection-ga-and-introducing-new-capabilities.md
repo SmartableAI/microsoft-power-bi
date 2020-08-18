@@ -5,9 +5,9 @@ excerpt: "Last fall we introduced industry-leading Power BI data protection capa
 publishedDateTime: 2020-06-11T09:10:00Z
 originalUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-data-protection-ga-and-introducing-new-capabilities/"
 type: article
-quality: 97
-heat: 97
-published: true
+quality: 37
+heat: 37
+published: false
 
 provider:
   name: Microsoft

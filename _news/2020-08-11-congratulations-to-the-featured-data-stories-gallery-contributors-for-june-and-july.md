@@ -5,9 +5,9 @@ excerpt: "See which Data Story we really liked in June and July as well as the h
 publishedDateTime: 2020-08-11T19:48:37Z
 webUrl: "https://powerbi.microsoft.com/en-us/blog/congratulations-to-the-featured-data-stories-gallery-contributors-for-june-and-july/"
 type: article
-quality: 75
-heat: 75
-published: true
+quality: 65
+heat: 65
+published: false
 
 provider:
   name: Microsoft
@@ -26,6 +26,6 @@ images:
     height: 417
     isCached: true
 
-secured: "Axnrh5dLwyz6Au27K+OLeok22G7MyldoDXJImIpi/a6WNEd4htqPWGQ2W1J83vh1oDZBzGmJKzpwNNtht9+TV5viA18Dt01qB50iHxkiH/x2HqO3gmO/OO2Z8A8uYzdpxdEg5YH90mUgvR0Yn3e52L3dg+bAmUwpE/UtflA3suNzBdzUYGJ2XAUqIuK9A6S65SfDh0iOkZAL/7eCoPGvhf2O91lCGG/HVuMOcAZ/Y51/WVowcSByWxbUvkxnrEhrRXm2d2QLmPcTjTA+2o8R2fMVkcDb68+vAhuBpyKa/0pExboPoKMLVu0ZCFIACRzX5nbWrcxl1CASBoV7gJuC5g==;iDoN4zTycvVvRHYqsCQrog=="
+secured: "zzoQlSiUZmb+4yQS8f+IqpAHcGEcEp5PX3RvEnRqk5iAhioXefIaPp9+ZZZ45yZmmef3mxy+b7/uajcR8qlTFeHUnQUCk2gbSRgPy+Pf4R0GUc4DAQiQx0cDbQBUA/O5i9H3t8jwjN3e2hx71Xs/wkQD66CuywQDMXo8n5/1AnY28ODr3j7L6dH1s1ACwZ8nXXUgu+LPY0o7EutEAwe1HGxb5fNifd9HOKRYGHTliUrv31qUcmgH+DUzrlt3WKd7lna0V+MIjjPPiELTqIoWSxrR5COJFZmAGpRt8QA4RHx5mBApSp/SsvrBNAM2K6rQXTn18tNbQ+AmY0FX0bs67W/DPn3IezdtT0Vc6/1AP5Q=;ps9VaNiyfdiYw3XIoO5c1w=="
 ---
 

@@ -5,9 +5,9 @@ excerpt: "Today, we wanted to announce our roadmap for workspace upgrade so yo
 publishedDateTime: 2020-05-29T07:00:15Z
 originalUrl: "https://powerbi.microsoft.com/en-us/blog/roadmap-update-whats-next-for-the-new-workspace-experience-upgrade-in-the-coming-months/"
 type: article
-quality: 73
-heat: 73
-published: true
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: Microsoft

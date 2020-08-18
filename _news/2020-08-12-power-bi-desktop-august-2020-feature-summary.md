@@ -5,8 +5,8 @@ excerpt: "We have exciting updates this month! The updates include support for P
 publishedDateTime: 2020-08-12T11:03:24Z
 webUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-august-2020-feature-summary/"
 type: article
-quality: 97
-heat: 97
+quality: 87
+heat: 87
 published: true
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 417
     isCached: true
 
-secured: "btbfIhMtjufF3DgIPHC02sAe3+daUCyxWN26PkZ8c1Jg+bqsaWczrz43YijRIQBX8sicc/f0ruMwtP4NmnNp4f8r3TcQD5T0jVabV5TOaJOKPg80Ir0jcuZcSIUaj0dP5m9V3F9xJ9BKI88u2hRAzcckldjrNwn+PgW809hG48ursOqjkW2TB7vFifJIBIQG66TYkWWDmBvWqtPaXKzYnKhThLnCbX5gy7gFN0svGin3Xi11Df5oZucFaRkPP/a4DsXaNCGF7ncbEdv0zxyFVg8QO855irdW8O4uVTo2G3DjY09luDbCfrt5a1BgMWRF+Q1K+oTdDcAph56OK57pJQ==;nqT/Evf+vJtOiDNtQW+66g=="
+secured: "kexxpi41arO3TsNdinpLyYl3dv+r4ebF6hR2TCG2i6+lyt/lqgS0iU9+o8BoWGgsWafHzKZkKDQvjXo6UtDyRmoTp1ud46572Atm5Bz5rAn5e3lZFgzi8mxRq7FBziOnG70UryocaAWUQL4V1GvoiB3RbgCEl00zoOm34GxHUZgcguWn2BBVMxIBPjBg8q0kidlicGXjbzEa2H6EEtoBkeswf59C336XvmpfKtMSsrOCYItHD0JeGlpveKjbAsDtgV19adfPFqC02/LfTf18fjttHe2mdjcscxHxGE0CpamBfb3ek449yrqjiiw/PtcizE0nFKDvjHQokgssw//O3hYkpRP59da3B1tEAD/X4ZE=;nJNN/O44lJdLnsJW9fGipA=="
 ---
 

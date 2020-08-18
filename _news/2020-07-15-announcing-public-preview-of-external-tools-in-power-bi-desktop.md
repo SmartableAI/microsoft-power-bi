@@ -5,9 +5,9 @@ excerpt: "Today, we are further enabling external tools to work with Power BI da
 publishedDateTime: 2020-07-15T13:48:40Z
 webUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-public-preview-of-external-tools-in-power-bi-desktop/"
 type: article
-quality: 97
-heat: 97
-published: true
+quality: 37
+heat: 37
+published: false
 
 provider:
   name: Microsoft

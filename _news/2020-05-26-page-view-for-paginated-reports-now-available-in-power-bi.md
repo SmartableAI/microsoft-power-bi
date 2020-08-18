@@ -5,9 +5,9 @@ excerpt: "We are pleased to announce the new page view option for Paginated Repo
 publishedDateTime: 2020-05-26T11:49:57Z
 originalUrl: "https://powerbi.microsoft.com/en-us/blog/page-view-for-paginated-reports-now-available-in-power-bi/"
 type: article
-quality: 99
-heat: 99
-published: true
+quality: 39
+heat: 39
+published: false
 
 provider:
   name: Microsoft

@@ -5,8 +5,8 @@ excerpt: "Check out our new Mechanics Video on how healthcare giant Humana uses 
 publishedDateTime: 2020-08-10T09:00:00Z
 webUrl: "https://powerbi.microsoft.com/en-us/blog/humana-enhances-its-healthcare-data-usage-with-power-bi-and-azure/"
 type: article
-quality: 97
-heat: 97
+quality: 87
+heat: 87
 published: true
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 417
     isCached: true
 
-secured: "EHDOIBXkZmNroEwuyn8P3GJUo7YMX0sJw7Tk9gXv2CB/hq/UYPEtQcBhscAf9bsI9fBmulRAtXRxvyVKcWWPg2bVjemkZLXOnWx9ylngKq8PFRP0WKLnRKEqW3HxZ9XsDegS0rC/K15CdZbvpkFzmO+FNYmpt7iudD9XexC5tWpDtfYUvHUTPyKTsaUEEbGOdR/PRUFQTF4skMV9wP0g4FV1J3B7wBWeczBhwA4WU6B5L0yirPWV5yGVEGZ4hi/vRsgBj7ks3ntbz42RWcgL56jJMCEQjZONBLGdOfnMnncC0q5U6E0fy6yI7iePG3427WuFHeGPc/5JDjAnPnXpqQ==;RKqhVOsJffNTzG4V/HN5Hg=="
+secured: "i56+ahZ00yWOoObEpMpE4F1E8qBYt2yLca/HtrGvIc10AHXKoCO8fiuYNi2vNlxjFgTb8aihIZgWldFvz4s6Ckz7unR3AK14ejbPE20gs847r5BKD8rwTT4NF6hj3U0l7svlC92HGWOSujkYzHneWkndEj2YuwSl8LHS2SrI4W9YxS41Bjc3t1xA2Q9lzgXleeR6Fr1x8w4ImwBTAZa3H6JTUypL38xvsyaoICGXj/JGCElAw3N14UBiWiozyjJvr5/AFHUQtcsjw+l/jtKrb7WIpKIc3jFtVXNfCt/BBd9jtthSkhl1pH84JglGlmeIX/mdwTDsB+jvjUI29AIrlQjey8/XnOS8rtTqW0RVn9M=;Z++kyCPNQ/6Fd81NZzSBJg=="
 ---
 

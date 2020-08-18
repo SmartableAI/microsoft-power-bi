@@ -5,9 +5,9 @@ excerpt: "Two new options for Power BI apps help you support and update your app
 publishedDateTime: 2020-07-09T11:47:52Z
 webUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-new-contact-list-for-power-bi-apps-and-the-option-to-allow-contributors-to-update-apps/"
 type: article
-quality: 83
-heat: 83
-published: true
+quality: 23
+heat: 23
+published: false
 
 provider:
   name: Microsoft

@@ -5,9 +5,9 @@ excerpt: "It’s time to recap all the features and announcements we made for th
 publishedDateTime: 2020-07-24T00:13:34Z
 webUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-service-and-mobile-may-and-june-2020-feature-summary/"
 type: article
-quality: 97
-heat: 97
-published: true
+quality: 37
+heat: 37
+published: false
 
 provider:
   name: Microsoft

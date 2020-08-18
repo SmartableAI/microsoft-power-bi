@@ -5,9 +5,9 @@ excerpt: "Refresh Summaries Announcement"
 publishedDateTime: 2020-05-19T18:37:40Z
 originalUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-refresh-summary-for-premium-capacity-admins/"
 type: article
-quality: 82
-heat: 82
-published: true
+quality: 22
+heat: 22
+published: false
 
 provider:
   name: Microsoft

@@ -2,830 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-07-20-power-bi-desktop-update-and-more-roundup-july-20-2020.md",
-      "title": "Power BI Desktop update and more... (Roundup | July 20, 2020)",
-      "excerpt": "Thanks for watching this week's Power BI news roundup!  Last weeks roundup: https://guyinacu.be/roundup186 Patrick's tech video: https://guyinacu.be/quickmeasure Adam's tech video: https://guyinacu.be/externaltools  🔴 Live Replay: https://guyinacu.be/live018  📢 Become a member: https://guyinacu.be/membership",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-07-20-power-bi-desktop-update-and-more-roundup-july-20-2020/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/news/2020-07-20-power-bi-desktop-update-and-more-roundup-july-20-2020/",
-      "originalUrl": "https://youtube.com/watch?v=roHDRafGIXQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/roHDRafGIXQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/roHDRafGIXQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-20T08:00:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-announcing-react-power-bi.md",
-      "title": "Announcing React Power BI",
-      "excerpt": "We&#8217;re thrilled to announce the release of Power BI component for React.js. React.js is a popular open-source JavaScript library, and many of you asked for an easier integration between Power BI and React web applications.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-07-20-announcing-react-power-bi/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-react-power-bi/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 418,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-20T02:00:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-thank-you-for-5-years.md",
-      "title": "Thank You for 5 Years!",
-      "excerpt": "Join us to thank the Power BI Community for 5 Years of contributions and helping others.  Get a sneak peek of the event, and to find out more on our blog.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-07-16-thank-you-for-5-years/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/thank-you-for-5-years/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 418,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-16T07:33:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-power-bi-desktop-july-update-introduces-gradient-legend-support-qa-enhancements-and-more.md",
-      "title": "Power BI Desktop July update introduces gradient legend support, Q&A enhancements, and more",
-      "excerpt": "Microsoft has released the feature summary for this month's Power BI Desktop update. A bunch of features relating to reporting, analytics, visualizations, and other components have been released.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-07-15-power-bi-desktop-july-update-introduces-gradient-legend-support-qa-enhancements-and-more/index.json",
-      "webUrl": "https://www.neowin.net/news/power-bi-desktop-july-update-introduces-gradient-legend-support-qa-enhancements-and-more",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2019/10/1571114082_power_bi_new_3_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/power-bi-desktop-july-update-introduces-gradient-legend-support-qa-enhancements-and-more/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/power-bi-desktop-july-update-introduces-gradient-legend-support-qa-enhancements-and-more/",
-      "publishedDateTime": "2020-07-15T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-join-us-thursday-july-16-2020-at-1100-am-1200-noon-pdt-with-markus-ehrenmueller.md",
-      "title": "Join us! Thursday July 16, 2020 at 11:00 AM – 12:00 noon PDT with Markus Ehrenmueller!",
-      "excerpt": "Power BI Desktop has to a lot to offer with visualizing time series data, whether its using built-in features or custom visualizations, scripts written in R and in Python, this is a great session to see what these tools can do to gain insights about data.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-07-15-join-us-thursday-july-16-2020-at-1100-am-1200-noon-pdt-with-markus-ehrenmueller/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/join-us-thursday-july-16-2020-at-1100-am-1200-noon-pdt-with-markus-ehrenmueller/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 418,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-15T07:32:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-this-excel-and-power-bi-course-bundle-is-95-off-learn-to-make-data-driven-business-decisions-for-just-25.md",
-      "title": "This Excel and Power BI course bundle is 95% off: Learn to make data-driven business decisions for just $25",
-      "excerpt": "That's regardless of whether you're interested in working at Google or a small-scale finance firm. The Data Analysis with Excel + Power BI Bundle is a great resource for learning about two of the world's most popular and powerful analytics programs ...",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-07-15-this-excel-and-power-bi-course-bundle-is-95-off-learn-to-make-data-driven-business-decisions-for-just-25/index.json",
-      "webUrl": "https://www.zdnet.com/article/this-excel-and-power-bi-course-bundle-is-95-off-learn-to-make-data-driven-business-decisions-for-just-25/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/07/06/7d5ff3cf-d4a6-48ff-a25f-33514821189f/pexels-photo-4050447.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-excel-and-power-bi-course-bundle-is-95-off-learn-to-make-data-driven-business-decisions-for-just-25/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-excel-and-power-bi-course-bundle-is-95-off-learn-to-make-data-driven-business-decisions-for-just-25/",
-      "publishedDateTime": "2020-07-15T06:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-announcing-public-preview-of-external-tools-in-power-bi-desktop.md",
-      "title": "Announcing public preview of external tools in Power BI Desktop",
-      "excerpt": "Today, we are further enabling external tools to work with Power BI datasets, this time from within the Power BI Desktop authoring experience. We are excited to announce the public preview of external tool support in Power BI Desktop.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-07-15-announcing-public-preview-of-external-tools-in-power-bi-desktop/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-public-preview-of-external-tools-in-power-bi-desktop/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 418,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-15T06:48:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-power-bi-desktop-july-2020-feature-summary.md",
-      "title": "Power BI Desktop July 2020 Feature Summary",
-      "excerpt": "We have great updates this month! These updates include several enhancements to Q&#038;A, gradient legend support, ability to further customize slicer header text, the general availability release for both relative time filter and model view enabled for live connect, the ability to launch external tools",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-07-15-power-bi-desktop-july-2020-feature-summary/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-july-2020-feature-summary/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 418,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-15T01:03:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-power-bi-roadmap-updates-roundup-july-13-2020.md",
-      "title": "Power BI Roadmap updates! (Roundup | July 13, 2020)",
-      "excerpt": "Thanks for watching this week's Power BI news roundup!  Last weeks roundup: https://guyinacu.be/roundup185 2 Minute Tuesday: https://guyinacu.be/premiumcpuspike Patrick's tech video: https://guyinacu.be/increfreshdate Adam's tech video: https://guyinacu.be/embeddedrls  🔴 Live Replay: https://guyinacu.be/live017",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-07-13-power-bi-roadmap-updates-roundup-july-13-2020/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/news/2020-07-13-power-bi-roadmap-updates-roundup-july-13-2020/",
-      "originalUrl": "https://youtube.com/watch?v=_8uRt_xP7Bs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_8uRt_xP7Bs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_8uRt_xP7Bs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-13T08:00:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-june-2020-community-highlights.md",
-      "title": "June 2020 Community Highlights",
-      "excerpt": "\tFeatured community members, changes to the Community, and more! Read up on recent Power BI community news.\r\n",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-07-13-june-2020-community-highlights/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/june-2020-community-highlights/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 418,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-13T04:11:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-how-metro-bank-uses-power-bi-to-improve-the-uk-banking-experience.md",
-      "title": "How Metro Bank Uses Power BI to Improve the UK Banking Experience ",
-      "excerpt": "Metro Bank, a high street bank in the UK uses Power BI to improve the banking experience. The company has over 100 reports in production and is using Power BI to continually improve. ",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-07-13-how-metro-bank-uses-power-bi-to-improve-the-uk-banking-experience/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/how-metro-bank-uses-power-bi-to-improve-the-uk-banking-experience/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 418,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-13T04:11:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-12-master-big-data-with-the-microsoft-power-bi-training-bundle-currently-91-off.md",
-      "title": "Master big data with the Microsoft Power BI training bundle, currently 91% off",
-      "excerpt": "Power BI Training: This course will start by looking at Power Query, and how to use this tool to organize and clean our data. If you’ve used Power Query in Excel, then you’ll find it simple ...",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-07-12-master-big-data-with-the-microsoft-power-bi-training-bundle-currently-91-off/index.json",
-      "webUrl": "https://www.techspot.com/news/85965-master-big-data-microsoft-power-bi-training-bundle.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/07/2020-07-12-image-3.jpg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/85965-master-big-data-microsoft-power-bi-training-bundle.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85965-master-big-data-microsoft-power-bi-training-bundle.html",
-      "publishedDateTime": "2020-07-12T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-10-learn-to-make-data-driven-business-decisions-with-this-25-excel-and-power-bi-bundle.md",
-      "title": "Learn to make data-driven business decisions with this $25 Excel and Power BI bundle",
-      "excerpt": "The Data Analysis with Excel + Power BI Bundle is a great resource for learning about two of the world's most popular and powerful analytics programs, and it's on sale today for 95% off at just $24.99.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-07-10-learn-to-make-data-driven-business-decisions-with-this-25-excel-and-power-bi-bundle/index.json",
-      "webUrl": "https://www.zdnet.com/article/learn-to-make-data-driven-business-decisions-with-this-25-excel-and-power-bi-bundle/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/learn-to-make-data-driven-business-decisions-with-this-25-excel-and-power-bi-bundle/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/learn-to-make-data-driven-business-decisions-with-this-25-excel-and-power-bi-bundle/",
-      "publishedDateTime": "2020-07-10T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-announcing-new-contact-list-for-power-bi-apps-and-the-option-to-allow-contributors-to-update-apps.md",
-      "title": "Announcing: New contact list for Power BI apps and the option to allow contributors to update apps",
-      "excerpt": "Two new options for Power BI apps help you support and update your apps more effectively. This blog explains how the new contact list of Power BI apps and option to let contributors update app content help you be more effective.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-07-09-announcing-new-contact-list-for-power-bi-apps-and-the-option-to-allow-contributors-to-update-apps/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-new-contact-list-for-power-bi-apps-and-the-option-to-allow-contributors-to-update-apps/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 418,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-09T04:47:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-06-power-bi-community-posts-roundup-july-6-2020.md",
-      "title": "Power BI community posts... (Roundup | July 6, 2020)",
-      "excerpt": "Thanks for watching this week's Power BI news roundup!  2 Minute Tuesday: https://guyinacu.be/userprincipalname Tech video: https://guyinacu.be/whatisrls  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level? We have training courses",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-07-06-power-bi-community-posts-roundup-july-6-2020/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/news/2020-07-06-power-bi-community-posts-roundup-july-6-2020/",
-      "originalUrl": "https://youtube.com/watch?v=Nn_wjfH4pAU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Nn_wjfH4pAU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Nn_wjfH4pAU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Power BI community posts... (Roundup | July 6, 2020)",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-06T08:00:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-06-join-us-thursday-july-9-2020-at-1100-am-1200-noon-pdt-with-reza-rad.md",
-      "title": "Join us! Thursday July 9, 2020 at 11:00 AM – 12:00 noon PDT with Reza Rad!",
-      "excerpt": "Building a data model in Power BI is the most important task you should do properly in your Power BI solution. This session is about the most common design pattern models of Power BI; Building the Star Schema with fact table and dimension tables, understand the relationships, building common models such",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-07-06-join-us-thursday-july-9-2020-at-1100-am-1200-noon-pdt-with-reza-rad/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/news/2020-07-06-join-us-thursday-july-9-2020-at-1100-am-1200-noon-pdt-with-reza-rad/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/join-us-thursday-july-9-2020-at-1100-am-1200-noon-pdt-with-reza-rad/",
-      "featuredContent": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 418,
-          "height": 417,
-          "title": "Join us! Thursday July 9, 2020 at 11:00 AM – 12:00 noon PDT with Reza Rad!",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-06T04:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-05-join-us-wednesday-july-8-2020-at-1100-am-1200-noon-pdt-with-reid-havens.md",
-      "title": "Join us! Wednesday July 8, 2020 at 11:00 AM – 12:00 noon PDT with Reid Havens!",
-      "excerpt": "In this Power BI webinar Reid Havens covers two of the cornerstones of Power Query, tuning and designing for optimal refresh speeds, and intelligently handling errors.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-07-05-join-us-wednesday-july-8-2020-at-1100-am-1200-noon-pdt-with-reid-havens/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/news/2020-07-05-join-us-wednesday-july-8-2020-at-1100-am-1200-noon-pdt-with-reid-havens/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/join-us-wednesday-july-8-2020-at-1100-am-1200-noon-pdt-with-reid-havens-performance-optimization-and-intelligent-error-handling-in-power-query/",
-      "featuredContent": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 418,
-          "height": 417,
-          "title": "Join us! Wednesday July 8, 2020 at 11:00 AM – 12:00 noon PDT with Reid Havens!",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-05T07:38:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_news/2020-06-29-new-capabilities-for-the-power-bi-snowflake-connector-are-now-generally-available.md",
       "title": "New capabilities for the Power BI Snowflake connector are now generally available",
       "excerpt": "Enhanced capabilities to the Snowflake connector for Power BI were added a while back, including support for Azure Active Directory authentication, and more. These are now generally available.",
@@ -875,55 +51,6 @@
       ]
     },
     {
-      "path": "_news/2020-06-29-ideaspowerbicom-azure-active-directory-single-sign-on-is-here.md",
-      "title": "Ideas.PowerBI.com – Azure Active Directory Single Sign On is Here!",
-      "excerpt": "It’s here! Navigate to your Ideas, connect with your Power Platform Community and other Power Platform sites using one identity! Find out what you need to do for the new Ideas.PowerBI.Com Single Sign On experience!",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-06-29-ideaspowerbicom-azure-active-directory-single-sign-on-is-here/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/news/2020-06-29-ideaspowerbicom-azure-active-directory-single-sign-on-is-here/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/ideas-powerbi-com-azure-active-directory-single-sign-on-is-here/",
-      "featuredContent": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 418,
-          "height": 417,
-          "title": "Ideas.PowerBI.com – Azure Active Directory Single Sign On is Here!",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-29T11:28:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_news/2020-06-29-save-95-off-the-cost-of-this-data-analysis-with-excel-power-bi-bundle.md",
       "title": "Save 95% off the cost of this Data Analysis with Excel + Power BI Bundle",
       "excerpt": "Length of time users can access this course: lifetime Certification of completion included Updates included Redemption deadline: redeem your code within 30 days of purchase See all Online Courses ...",
@@ -954,55 +81,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-29-announcing-general-availability-ga-of-enhanced-connectivity-for-snowflake.md",
-      "title": "Announcing General Availability (GA) of enhanced connectivity for Snowflake",
-      "excerpt": "We are excited to announce the that the enhanced capabilities added recently to the Power BI Snowflake connector are now GA, including the ability to connect to Snowflake without an on-premises data gateway as well as support for Azure Active Directory (AAD) authentication and SSO in DirectQuery mode",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-06-29-announcing-general-availability-ga-of-enhanced-connectivity-for-snowflake/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/news/2020-06-29-announcing-general-availability-ga-of-enhanced-connectivity-for-snowflake/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-general-availability-ga-of-enhanced-connectivity-for-snowflake/",
-      "featuredContent": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 418,
-          "height": 417,
-          "title": "Announcing General Availability (GA) of enhanced connectivity for Snowflake",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-29T02:20:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1217,6 +295,952 @@
       ],
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-15-power-bi-updates-dax-fusion-and-data-driven-subscriptions-roundup-june-15-2020.md",
+      "title": "Power BI updates, DAX Fusion, and data driven subscriptions (Roundup | June 15, 2020)",
+      "excerpt": "Thanks for watching this week's Power BI news roundup!  Last weeks roundup: https://guyinacu.be/roundup182 2 Minute Tuesday: https://guyinacu.be/askquestions Patrick's tech video: https://guyinacu.be/blankslicer Adam's tech video: https://guyinacu.be/workspaceroadmap  🔴 Live Replay with Marco Russo:",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-06-15-power-bi-updates-dax-fusion-and-data-driven-subscriptions-roundup-june-15-2020/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/news/2020-06-15-power-bi-updates-dax-fusion-and-data-driven-subscriptions-roundup-june-15-2020/",
+      "originalUrl": "https://youtube.com/watch?v=-7Wk8FPz7es",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-7Wk8FPz7es\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-7Wk8FPz7es/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Power BI updates, DAX Fusion, and data driven subscriptions (Roundup | June 15, 2020)",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-15T08:00:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_news/2020-06-10-power-bi-for-ios-gets-updated-with-dark-mode-support.md",
+      "title": "Power BI for iOS gets updated with dark mode support",
+      "excerpt": "The Power BI app for iOS has received a new update. The latest update adds support for dark mode to the app. Earlier, Microsoft noted that it will add dark mode to Power BI mobile apps in June 2020.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-06-10-power-bi-for-ios-gets-updated-with-dark-mode-support/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/news/2020-06-10-power-bi-for-ios-gets-updated-with-dark-mode-support/",
+      "originalUrl": "https://www.neowin.net/news/power-bi-for-ios-gets-updated-with-dark-mode-support",
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2019/11/1574779301_powerbi1_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "Power BI for iOS gets updated with dark mode support",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/power-bi-for-ios-gets-updated-with-dark-mode-support/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/power-bi-for-ios-gets-updated-with-dark-mode-support/",
+      "publishedDateTime": "2020-06-10T06:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-08-learn-todays-top-data-analysis-tools-microsoft-excel-and-power-bi-with-this-35-bundle.md",
+      "title": "Learn Today's Top Data Analysis Tools, Microsoft Excel, and Power BI with This $35 Bundle",
+      "excerpt": "The 2020 Master Microsoft Excel & Power BI Certification Bundle will teach you what you need to know. This nine-course bundle will get you up to speed on some of today's top data analysis tools ...",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-06-08-learn-todays-top-data-analysis-tools-microsoft-excel-and-power-bi-with-this-35-bundle/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/news/2020-06-08-learn-todays-top-data-analysis-tools-microsoft-excel-and-power-bi-with-this-35-bundle/",
+      "originalUrl": "https://www.entrepreneur.com/article/351506",
+      "featuredContent": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1591317005-Ent-PowerBIandExcel.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "Learn Today's Top Data Analysis Tools, Microsoft Excel, and Power BI with This $35 Bundle",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/351506",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/351506",
+      "publishedDateTime": "2020-06-08T09:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-08-power-bi-quizzes-data-masking-and-more-roundup-june-8-2020.md",
+      "title": "Power BI quizzes, data masking and more... (Roundup | June 8, 2020)",
+      "excerpt": "Thanks for watching this week's Power BI news roundup!  Last weeks roundup: https://guyinacu.be/roundup181 2 Minute Tuesday: https://guyinacu.be/dataflowstricks Patrick's tech video: https://guyinacu.be/synapse Adam's tech video: https://guyinacu.be/pipelines  🔴 Live replay: https://guyinacu.be/live013",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-06-08-power-bi-quizzes-data-masking-and-more-roundup-june-8-2020/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/news/2020-06-08-power-bi-quizzes-data-masking-and-more-roundup-june-8-2020/",
+      "originalUrl": "https://youtube.com/watch?v=876kLN_vBJE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/876kLN_vBJE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/876kLN_vBJE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Power BI quizzes, data masking and more... (Roundup | June 8, 2020)",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-08T08:00:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-power-bi-workspace-roadmap-directquery-dataflows-and-more-roundup-june-1-2020.md",
+      "title": "Power BI Workspace Roadmap, DirectQuery dataflows and more... (Roundup | June 1, 2020)",
+      "excerpt": "Thanks for watching this week's Power BI news roundup!  Last roundup: https://guyinacu.be/roundup180 2 Minute Tuesday: https://guyinacu.be/animatedvisuals  🔴 Live Stream Replay: https://guyinacu.be/live012  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-06-01-power-bi-workspace-roadmap-directquery-dataflows-and-more-roundup-june-1-2020/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/news/2020-06-01-power-bi-workspace-roadmap-directquery-dataflows-and-more-roundup-june-1-2020/",
+      "originalUrl": "https://youtube.com/watch?v=f1XqbeOSWyg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/f1XqbeOSWyg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/f1XqbeOSWyg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Power BI Workspace Roadmap, DirectQuery dataflows and more... (Roundup | June 1, 2020)",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-01T08:00:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Service",
+        "Dataflows"
+      ]
+    },
+    {
+      "path": "_news/2020-05-22-power-bi-desktop-update-may-2020.md",
+      "title": "Power BI Desktop Update - May 2020",
+      "excerpt": "We have lots of great updates this release! We’re super excited to announce this month that both the decomposition tree and drill through button actions are now generally available. On top of this, we have several new features and updates that will really enrich your reporting: curate featured tables",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-05-22-power-bi-desktop-update-may-2020/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/news/2020-05-22-power-bi-desktop-update-may-2020/",
+      "originalUrl": "https://youtube.com/watch?v=JtuHIslowxk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JtuHIslowxk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/JtuHIslowxk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Power BI Desktop Update - May 2020",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-22T12:24:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_news/2020-05-18-lots-of-power-bi-community-posts-roundup-may-18-2020.md",
+      "title": "Lots of Power BI community posts... (Roundup | May 18, 2020)",
+      "excerpt": "Thanks for watching this week's Power BI news roundup!  Last weeks roundup: https://guyinacu.be/roundup179 2 Minute Tuesday: https://guyinacu.be/copyquery Patrick's tech video: https://guyinacu.be/datepicker Adam's tech video: https://guyinacu.be/matrixkpis  🔴 Live Replay: https://guyinacu.be/35WURjU",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-05-18-lots-of-power-bi-community-posts-roundup-may-18-2020/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/news/2020-05-18-lots-of-power-bi-community-posts-roundup-may-18-2020/",
+      "originalUrl": "https://youtube.com/watch?v=qaZkALLm3hE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qaZkALLm3hE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qaZkALLm3hE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Lots of Power BI community posts... (Roundup | May 18, 2020)",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-18T08:00:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-11-power-bi-announcements-and-a-new-desktop-release-may-11-2020.md",
+      "title": "Power BI announcements and a new Desktop release... (May 11, 2020)",
+      "excerpt": "Thanks for watching this week's Power BI news roundup!  Last weeks roundup: https://guyinacu.be/roundup178  🔴 MBAS Recap Live Stream Replay: https://guyinacu.be/mbas2020recap  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level?",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-05-11-power-bi-announcements-and-a-new-desktop-release-may-11-2020/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/news/2020-05-11-power-bi-announcements-and-a-new-desktop-release-may-11-2020/",
+      "originalUrl": "https://youtube.com/watch?v=RqUc3d-0WXY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RqUc3d-0WXY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RqUc3d-0WXY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Power BI announcements and a new Desktop release... (May 11, 2020)",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-11T08:00:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-power-bi-desktop-update-april-2020.md",
+      "title": "Power BI Desktop Update - April 2020",
+      "excerpt": "We have a ton of great updates this release! We’re excited to announce a new visual personalization feature to allow your end-users to explore and personalize visuals all within the consumption view of a report! Also this month, if you’re interested in fast refresh scenarios, you will find these new",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-05-06-power-bi-desktop-update-april-2020/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/news/2020-05-06-power-bi-desktop-update-april-2020/",
+      "originalUrl": "https://youtube.com/watch?v=q2Hfn_Rhb3E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q2Hfn_Rhb3E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/q2Hfn_Rhb3E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Power BI Desktop Update - April 2020",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-06T10:18:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-the-power-bi-release-train-has-departed-roundup-may-4-2020.md",
+      "title": "The Power BI release train has departed... (Roundup | May 4, 2020)",
+      "excerpt": "Thanks for watching this week's Power BI news roundup!  Last weeks roundup: https://guyinacu.be/roundup177 2 Minute Tuesday: https://guyinacu.be/refreshmultipletables Adam's tech video: https://guyinacu.be/sqldirectquery  🔴 Live replay: https://guyinacu.be/may2020hangout  📢 Become a member: https://guyinacu.be/membership",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-05-04-the-power-bi-release-train-has-departed-roundup-may-4-2020/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/news/2020-05-04-the-power-bi-release-train-has-departed-roundup-may-4-2020/",
+      "originalUrl": "https://youtube.com/watch?v=pVZ6hJP_gz0",
+      "featuredContent": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pVZ6hJP_gz0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "The Power BI release train has departed... (Roundup | May 4, 2020)",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T08:00:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-power-bi-case-studies-ai-for-health-and-more-roundup-april-27-2020.md",
+      "title": "Power BI case studies, AI for Health and more... (Roundup | April 27, 2020)",
+      "excerpt": "Thanks for watching this week's Power BI news roundup!  Last weeks roundup: https://guyinacu.be/roundup176 2 Minute Tuesday: https://guyinacu.be/priad Patrick's tech video: https://guyinacu.be/modelviewtips Adam's tech video: https://guyinacu.be/9thingstoknow  🔴 Live replay: https://guyinacu.be/April2020Recap",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-04-27-power-bi-case-studies-ai-for-health-and-more-roundup-april-27-2020/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/news/2020-04-27-power-bi-case-studies-ai-for-health-and-more-roundup-april-27-2020/",
+      "originalUrl": "https://youtube.com/watch?v=dsi_6Ga5cAo",
+      "featuredContent": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dsi_6Ga5cAo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Power BI case studies, AI for Health and more... (Roundup | April 27, 2020)",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-27T08:00:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-power-bi-desktop-update-march-2020.md",
+      "title": "Power BI Desktop Update - March 2020",
+      "excerpt": "We're excited to be bringing you some top community asks this month, including multi-column sort and dual axis line chart! We're also releasing new button actions, a new DAX function, and improvements to the decomposition tree. And, of course, there are new visuals on AppSource and new template apps",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-03-12-power-bi-desktop-update-march-2020/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/news/2020-03-12-power-bi-desktop-update-march-2020/",
+      "originalUrl": "https://youtube.com/watch?v=DMjvJGGB_LQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DMjvJGGB_LQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DMjvJGGB_LQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Power BI Desktop Update - March 2020",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T08:13:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_news/2020-02-19-power-bi-desktop-update-february-2020.md",
+      "title": "Power BI Desktop Update - February 2020",
+      "excerpt": "We are super excited for our update this month! We are releasing two of our top community requests: incremental refresh for Power BI Pro and hierarchical slicer. Additionally, we’ve added some improvements to the new ribbon and a couple new DAX functions. Since our last release, there have been several",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-02-19-power-bi-desktop-update-february-2020/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/news/2020-02-19-power-bi-desktop-update-february-2020/",
+      "originalUrl": "https://youtube.com/watch?v=TN61JvbUAxk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TN61JvbUAxk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/TN61JvbUAxk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Power BI Desktop Update - February 2020",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-19T11:09:37-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_news/2020-02-05-power-bi-desktop-update-july-2019.md",
+      "title": "Power BI Desktop Update - July 2019",
+      "excerpt": "With this month comes the first feature release from our announcements at Microsoft Business Application Summit, Icon sets, which also addresses our current #1 idea on ideas.powerbi.com. On top of this major update, we have incremental improvements for many of our existing features, such as a counts",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-02-05-power-bi-desktop-update-july-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/news/2020-02-05-power-bi-desktop-update-july-2019/",
+      "originalUrl": "https://youtube.com/watch?v=l7OMRUF9UYg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/l7OMRUF9UYg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/l7OMRUF9UYg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Power BI Desktop Update - July 2019",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-05T12:19:17-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_news/2020-02-05-happy-new-year-from-power-bi-desktop.md",
+      "title": "Happy New Year from Power BI Desktop!",
+      "excerpt": "Happy New Year!   In honor of the new year, our team put together this fun video where we reveal what makes Power BI what it is today! Enjoy! ----------------------------------------------------------------------------------------------------------------------------------------------------- Follow us",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-02-05-happy-new-year-from-power-bi-desktop/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/news/2020-02-05-happy-new-year-from-power-bi-desktop/",
+      "originalUrl": "https://youtube.com/watch?v=-7rqXowuf1k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-7rqXowuf1k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-7rqXowuf1k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Happy New Year from Power BI Desktop!",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-05T12:18:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_news/2020-02-05-power-bi-desktop-update-august-2019.md",
+      "title": "Power BI Desktop Update - August 2019",
+      "excerpt": "Our August release has another hotly anticipated feature from the Microsoft Business Application Summit, grouping. Grouping in reports, similar to PowerPoint's grouping, lets you easily organize groups of visuals to move and resize them as a set. This month's release also has some updates to our newest",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-02-05-power-bi-desktop-update-august-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/news/2020-02-05-power-bi-desktop-update-august-2019/",
+      "originalUrl": "https://youtube.com/watch?v=sf4n7VXoQHY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sf4n7VXoQHY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/sf4n7VXoQHY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Power BI Desktop Update - August 2019",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-05T12:18:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_news/2020-02-05-power-bi-desktop-update-december-2019.md",
+      "title": "Power BI Desktop Update - December 2019",
+      "excerpt": "This December update is packed with several new features! In preview, we have the new Customize theme dialog that allows you to tweak common theme settings without having to write or modify a JSON file! Additionally, we now allow you to export the current theme as a JSON so you can easily share, reuse,",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-02-05-power-bi-desktop-update-december-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/news/2020-02-05-power-bi-desktop-update-december-2019/",
+      "originalUrl": "https://youtube.com/watch?v=eCEwgZsVUOs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eCEwgZsVUOs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/eCEwgZsVUOs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Power BI Desktop Update - December 2019",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-05T12:18:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_news/2020-02-05-power-bi-desktop-update-november-2019.md",
+      "title": "Power BI Desktop Update - November 2019",
+      "excerpt": "The November update has major updates in several areas of Power BI Desktop. There's a new, modern ribbon that aligns Power BI Desktop with Office and adds more functionality. We're also adding a new visual, the decomposition tree, which is one of the most requested ideas on ideas.powerbi.com. AI functions",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-02-05-power-bi-desktop-update-november-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/news/2020-02-05-power-bi-desktop-update-november-2019/",
+      "originalUrl": "https://youtube.com/watch?v=kVli3Vm_kDo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kVli3Vm_kDo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/kVli3Vm_kDo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Power BI Desktop Update - November 2019",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-05T12:18:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_news/2020-02-05-power-bi-desktop-update-october-2019.md",
+      "title": "Power BI Desktop Update - October 2019",
+      "excerpt": "This month’s update is filled with major updates across the whole product. In the data preparation area, we’ve introduced query diagnostics, which allow you to see what queries are being run behind the scenes. On the reporting side, we are taking a huge step forward in terms of real-time reporting, with",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-02-05-power-bi-desktop-update-october-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/news/2020-02-05-power-bi-desktop-update-october-2019/",
+      "originalUrl": "https://youtube.com/watch?v=A8A9baUQsXQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/A8A9baUQsXQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/A8A9baUQsXQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Power BI Desktop Update - October 2019",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-05T12:18:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
       ]
     }
   ],

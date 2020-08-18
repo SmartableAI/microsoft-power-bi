@@ -5,9 +5,9 @@ excerpt: "We are excited to bring you a new version of Power BI Report Server th
 publishedDateTime: 2020-05-28T06:00:00Z
 originalUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-report-server-may-2020-feature-summary/"
 type: article
-quality: 97
-heat: 97
-published: true
+quality: 37
+heat: 37
+published: false
 
 provider:
   name: Microsoft

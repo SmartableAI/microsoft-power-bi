@@ -5,9 +5,9 @@ excerpt: "We&#8217;ve added a new tenant setting for Power BI admins to choose i
 publishedDateTime: 2020-08-06T08:40:31Z
 webUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-you-can-now-block-classic-workspace-creation/"
 type: article
-quality: 82
-heat: 82
-published: true
+quality: 22
+heat: 22
+published: false
 
 provider:
   name: Microsoft

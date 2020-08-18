@@ -5,8 +5,8 @@ excerpt: "Thank You For 5 Years update! Find out which Power BI report contribut
 publishedDateTime: 2020-08-11T16:01:15Z
 webUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-thank-you-for-5-years-t-shirt-give-away-results/"
 type: article
-quality: 97
-heat: 97
+quality: 87
+heat: 87
 published: true
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 417
     isCached: true
 
-secured: "KvHL78fdY4PC7l1OK5398UAv8xEwJdQ2RleDYM+Nls4MBrF8e6RGEvWJUdXxeAmidBic7OK9R6gjsGoE2QnVVOmMoaMui1HjVeveTqI9n+86RvrXB2LSEAfqAPd8DxczN2pIBbhHEd93lbtz+e4j+saIZto5mlKTO0/2/c//T30pJbKnYc0r2D5cAYNjYSs7zUv3VmKlidPbAZuLPpjLfvM9bDVoYKUe0F0DoB2I0YC0O4DWSHTMRgqBZoZiFb/lG74xy2x2gJj6opQnYxtPd1a3WlDdD9PrxKDZ2aPvaaAea4oAgeAV0ZUe3L5VUhd2+xB9COavhjZY7bM8Wys/nA==;bxQDjBxr3b6i3bSfiMF6gg=="
+secured: "Yr4Nt2IUhOWrjLgrKxVYgSZRV0xLkt80F1G/9QUs+c4B1YMJ+t6rt+21gEdqRY1Y7uJ3fBLujhjo8xaHerreA4/iz/agAKqxZE2kzQtPHKjrm3DsTdqMPp8YwHAyPGNvfH+qz8dcN91IMYhS64vSD9V2pJ/2zRF/E6FpCF0+nPP7HoCYBuSOLU2F6uByGpA0nUyQf/lKjsod/+IdN2uNwA0RANdTCBPf2sKD1QaRaB/HBjQULodC4eUomHS11OTnXc5afuRor6SOLD+ffHEvxWuMejRS65Ty66u8wCMVJiGAc+58bgoCMndrttf/q47fAklA6UT1WT9dQWgQ0WejtfDZhdiVf7MtijwfyP1nLDg=;R1qE6QEkWQxJaBF/+Syz6Q=="
 ---
 

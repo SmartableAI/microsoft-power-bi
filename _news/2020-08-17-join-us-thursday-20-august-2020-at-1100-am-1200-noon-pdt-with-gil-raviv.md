@@ -5,9 +5,9 @@ excerpt: "We live in a changed world. As you stay safe at home, it’s time to p
 publishedDateTime: 2020-08-17T15:40:41Z
 webUrl: "https://powerbi.microsoft.com/en-us/blog/join-us-thursday-20-august-2020-at-1100-am-1200-noon-pdt-with-gil-raviv/"
 type: article
-quality: 78
-heat: 78
-published: true
+quality: 68
+heat: 68
+published: false
 
 provider:
   name: Microsoft
@@ -26,6 +26,6 @@ images:
     height: 417
     isCached: true
 
-secured: "5kyUiw7w/bcIUjkk/+ITulryREQNeN4yot0NjRcrhj2LV6/4tON2BXa93janq3ccKlDn32RarC8afaln3Ri03ZQk75Gcyf1NMNmNi+Is5wZDuh8SgK7opRX9WQw/mo29KumgSF7iSD4T3AanY7AsDrhErGKd4oLEANMGTpLXzwxgBII0I8YLPWAubx5ES0lzdmiqi9D0yD43gNIhAt664QUTEhhnHt0d9X5Sm421ZqbTtw1lG5e9JEOyEVoyxHAsBAUL30TXuP5te4cSulXyUlAhOreD4Eud4ijR6QpMmFzGpZpUXtgjtzSXSTt6lgSU5r4XD0vSp5d0qRkETC0yyg==;cZ5PZB7DxmfZve1s7XLa6Q=="
+secured: "74Vn0gmDFhOHNQAMytvw8YRTYiRGaV3e8F1kiQ9NWNp5dCLLtJfsPS0wdCKYfYXTBE9ekaJkeCNGfopEJv7xrtFA+UV2AxapXlhZee7kYTXr4NZIvjma8ioPTix4U7lEfkaDI27tUOuILpnYTE+rLqIvqHBxAaDXxxCUu6P60n7UiLIzBm+g2FwBsVWoTEBSEhZ1nKxB0plHKtFxY60ng8lV5pQHr9PEkoWytQh5swSLE6XxttU4Rs5DdWgH8pYdZ+rCCW2VUVeTzDTGtm0xWgD3fuCJqymAwWDM2zJdm1fDmEAwsWA5D5rWqMsBw8YN6xm5P6nTS7YC9fluBMxuq/RiY5yQx1Htcm6RKTatyGw=;47ytdcF0P5HaUZ0lmJj56w=="
 ---
 

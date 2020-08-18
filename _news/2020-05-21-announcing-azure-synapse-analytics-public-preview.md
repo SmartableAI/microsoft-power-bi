@@ -5,9 +5,9 @@ excerpt: "Earlier this week, Microsoft announced that Azure Synapse Analytics, t
 publishedDateTime: 2020-05-21T08:35:28Z
 originalUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-azure-synapse-analytics-public-preview/"
 type: article
-quality: 82
-heat: 82
-published: true
+quality: 22
+heat: 22
+published: false
 
 provider:
   name: Microsoft

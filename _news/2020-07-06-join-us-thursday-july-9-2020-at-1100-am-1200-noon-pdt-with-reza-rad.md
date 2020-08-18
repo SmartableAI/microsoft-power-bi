@@ -5,9 +5,9 @@ excerpt: "Building a data model in Power BI is the most important task you shoul
 publishedDateTime: 2020-07-06T11:46:00Z
 originalUrl: "https://powerbi.microsoft.com/en-us/blog/join-us-thursday-july-9-2020-at-1100-am-1200-noon-pdt-with-reza-rad/"
 type: article
-quality: 80
-heat: 80
-published: true
+quality: 20
+heat: 20
+published: false
 
 provider:
   name: Microsoft

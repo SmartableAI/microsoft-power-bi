@@ -5,9 +5,9 @@ excerpt: "\tFeatured community members, changes to the Community, and more! Read
 publishedDateTime: 2020-07-13T11:11:41Z
 webUrl: "https://powerbi.microsoft.com/en-us/blog/june-2020-community-highlights/"
 type: article
-quality: 82
-heat: 82
-published: true
+quality: 22
+heat: 22
+published: false
 
 provider:
   name: Microsoft

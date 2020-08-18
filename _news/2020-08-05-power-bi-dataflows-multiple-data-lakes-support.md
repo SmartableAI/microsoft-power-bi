@@ -5,9 +5,9 @@ excerpt: "Power BI Dataflows now support multiple independent ADLSGen2 storage a
 publishedDateTime: 2020-08-05T07:00:00Z
 webUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-dataflows-multiple-data-lakes-support/"
 type: article
-quality: 97
-heat: 97
-published: true
+quality: 37
+heat: 37
+published: false
 
 provider:
   name: Microsoft

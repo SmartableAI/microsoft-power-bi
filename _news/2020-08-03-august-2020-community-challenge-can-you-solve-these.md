@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-03T11:00:00Z
 originalUrl: "https://youtube.com/watch?v=BCNYMJKyjEo"
 webUrl: "https://powerbi.microsoft.com/en-us/blog/august-2020-community-challenge-can-you-solve-these/"
 type: article
-quality: 184
-heat: 184
+quality: 124
+heat: 124
 published: true
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BCNYMJKyjEo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"

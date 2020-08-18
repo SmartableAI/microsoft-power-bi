@@ -5,9 +5,9 @@ excerpt: "We&#8217;re thrilled to announce the release of Power BI component for
 publishedDateTime: 2020-07-20T09:00:28Z
 webUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-react-power-bi/"
 type: article
-quality: 97
-heat: 97
-published: true
+quality: 37
+heat: 37
+published: false
 
 provider:
   name: Microsoft

@@ -5,9 +5,9 @@ excerpt: "We are excited to announce the that the enhanced capabilities added re
 publishedDateTime: 2020-06-29T09:20:23Z
 originalUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-general-availability-ga-of-enhanced-connectivity-for-snowflake/"
 type: article
-quality: 80
-heat: 80
-published: true
+quality: 20
+heat: 20
+published: false
 
 provider:
   name: Microsoft

@@ -5,9 +5,9 @@ excerpt: "You asked for the sessions, and we&#8217;ve got them for you! View ove
 publishedDateTime: 2020-05-21T12:49:59Z
 originalUrl: "https://powerbi.microsoft.com/en-us/blog/microsoft-business-applications-summit-2020-power-platform-sessions-quick-reference/"
 type: article
-quality: 75
-heat: 75
-published: true
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: Microsoft

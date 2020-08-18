@@ -5,9 +5,9 @@ excerpt: "Power BI Desktop has to a lot to offer with visualizing time series da
 publishedDateTime: 2020-07-15T14:32:21Z
 webUrl: "https://powerbi.microsoft.com/en-us/blog/join-us-thursday-july-16-2020-at-1100-am-1200-noon-pdt-with-markus-ehrenmueller/"
 type: article
-quality: 74
-heat: 74
-published: true
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: Microsoft

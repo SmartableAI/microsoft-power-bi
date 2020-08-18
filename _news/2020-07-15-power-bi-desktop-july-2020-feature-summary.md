@@ -5,9 +5,9 @@ excerpt: "We have great updates this month! These updates include several enhanc
 publishedDateTime: 2020-07-15T08:03:20Z
 webUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-july-2020-feature-summary/"
 type: article
-quality: 97
-heat: 97
-published: true
+quality: 37
+heat: 37
+published: false
 
 provider:
   name: Microsoft

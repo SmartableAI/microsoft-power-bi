@@ -5,8 +5,8 @@ excerpt: "With XMLA endpoints available in Power BI Premium and the recent relea
 publishedDateTime: 2020-08-11T17:27:11Z
 webUrl: "https://powerbi.microsoft.com/en-us/blog/building-cross-platform-solutions-that-connect-to-power-bi-datasets/"
 type: article
-quality: 97
-heat: 97
+quality: 87
+heat: 87
 published: true
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 417
     isCached: true
 
-secured: "Hsnn2E4d+JlD93Nz8RSi1tanunKwHNDYxKkgNLpAIL2vfToW6ldFGW/ADz96WHXlOjewZvfPk8UoMUgkBH2x5haCYVAQGtbCFA+GGbDlUhxty2OSxkUS26T7K+3IkTzZ3alUZGbwkS+ly7nKl1zu3Gm/yTdHlVYQSrUwOM4d8J8JIK7p5m3NLPANptS8aEAD9WtEgfq1fNnFpTsbeUzS5bg64J05RSELfZA+48xE4CgXhurJBsIRXlW5/1RAdo6JeSkkBiL0+W+CJydnLVo0TnaoRRD+gioIMARSCfnOqejc4ObkyrInvFdBFEd9ssccJfWO9yU+qp3DGfhfEAi/BA==;8WCkNoTXAIVIfX3AfL/Jzw=="
+secured: "KGGBluYCBFL2Nr/uxa8RHKFKTvEmpRDwpXCc9hc5A8q/E+aTVqRu8C36EYQlBJCBfQPXhb2Jk4KzQKESif2lVmrHH8G6IEufNhsSOgcW/uSS6Vbbb2REL6KP9B75BOorM7rFWFWWRFNEUgh/4mF/Z+7B2lrmul74A9KyL9GntPzJ6MfZGOreKSpl/ghOEScwtVypX0T0EOpFWCqTxrxjm01t95xseV5+jiKZHtOj0PbugbfHtaYsQH0rSmEezK8SOtDFG65zpIz9Ad+4dlok0h46HzUdlL6c8McDc8Ho03L+kVLWF7JBcw8Cqi5dwTj6wyBzl4qulFVEoVT9o63YnTYSF6yRKMTg/rdHbqo1V4M=;H2aA97Wbtrynjg1jlZQRHQ=="
 ---
 

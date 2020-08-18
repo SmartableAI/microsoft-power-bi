@@ -5,9 +5,9 @@ excerpt: "It’s here! Navigate to your Ideas, connect with your Power Platform
 publishedDateTime: 2020-06-29T18:28:08Z
 originalUrl: "https://powerbi.microsoft.com/en-us/blog/ideas-powerbi-com-azure-active-directory-single-sign-on-is-here/"
 type: article
-quality: 82
-heat: 82
-published: true
+quality: 22
+heat: 22
+published: false
 
 provider:
   name: Microsoft

@@ -5,9 +5,9 @@ excerpt: "Since Power BI Report Server launched in June 2017, it’s been adopte
 publishedDateTime: 2020-06-16T09:46:02Z
 originalUrl: "https://powerbi.microsoft.com/en-us/blog/licensing-and-roadmap-update-for-power-bi-report-server/"
 type: article
-quality: 97
-heat: 97
-published: true
+quality: 37
+heat: 37
+published: false
 
 provider:
   name: Microsoft

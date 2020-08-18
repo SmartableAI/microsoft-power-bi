@@ -5,9 +5,9 @@ excerpt: "This blog post covers the latest updates for Power BI embedded analyti
 publishedDateTime: 2020-08-09T08:39:40Z
 webUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-developer-community-august-2020-update/"
 type: article
-quality: 97
-heat: 97
-published: true
+quality: 37
+heat: 37
+published: false
 
 provider:
   name: Microsoft

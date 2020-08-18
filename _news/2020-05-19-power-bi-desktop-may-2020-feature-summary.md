@@ -5,9 +5,9 @@ excerpt: "We have lots of great updates this release! We&#8217;re super excited 
 publishedDateTime: 2020-05-19T08:03:56Z
 originalUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-may-2020-feature-summary/"
 type: article
-quality: 97
-heat: 97
-published: true
+quality: 37
+heat: 37
+published: false
 
 provider:
   name: Microsoft

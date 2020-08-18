@@ -5,9 +5,9 @@ excerpt: "Come to this session to learn about the options that you have for your
 publishedDateTime: 2020-07-30T09:06:58Z
 webUrl: "https://powerbi.microsoft.com/en-us/blog/join-us-thursday-july-30-2020-at-1100-am-1200-noon-pdt-with-reza-rad/"
 type: article
-quality: 79
-heat: 79
-published: true
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Microsoft
