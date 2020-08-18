@@ -2,6 +2,55 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-17-join-us-thursday-20-august-2020-at-1100-am-1200-noon-pdt-with-gil-raviv.md",
+      "title": "Join us! Thursday 20 August, 2020 at 11:00 AM – 12:00  noon PDT with Gil Raviv!",
+      "excerpt": "We live in a changed world. As you stay safe at home, it’s time to power up your Power BI skills and join a walkthrough with Gil Raviv to build your own Power BI report that analyzes COVID-19 global spread.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-08-17-join-us-thursday-20-august-2020-at-1100-am-1200-noon-pdt-with-gil-raviv/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/join-us-thursday-20-august-2020-at-1100-am-1200-noon-pdt-with-gil-raviv/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 418,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-17T08:40:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2020-08-13-power-bi-mobile-introduces-improved-navigation-experience-updated-headers-and-more.md",
       "title": "Power BI Mobile introduces improved navigation experience, updated headers, and more",
       "excerpt": "In March, Microsoft introduced a bunch of new features to Power BI Mobile, with emphasis on user control. Later in the same month, the tech giant unveiled a performance enhancement for the Power BI service, which soon after made its way to Mobile and ...",
@@ -1397,55 +1446,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-this-excel-and-power-bi-course-bundle-is-95-off-learn-to-make-data-driven-business-decisions-for-just-25.md",
-      "title": "This Excel and Power BI course bundle is 95% off: Learn to make data-driven business decisions for just $25",
-      "excerpt": "That's regardless of whether you're interested in working at Google or a small-scale finance firm. The Data Analysis with Excel + Power BI Bundle is a great resource for learning about two of the world's most popular and powerful analytics programs ...",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-07-15-this-excel-and-power-bi-course-bundle-is-95-off-learn-to-make-data-driven-business-decisions-for-just-25/index.json",
-      "webUrl": "https://www.zdnet.com/article/this-excel-and-power-bi-course-bundle-is-95-off-learn-to-make-data-driven-business-decisions-for-just-25/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/07/06/7d5ff3cf-d4a6-48ff-a25f-33514821189f/pexels-photo-4050447.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-excel-and-power-bi-course-bundle-is-95-off-learn-to-make-data-driven-business-decisions-for-just-25/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-excel-and-power-bi-course-bundle-is-95-off-learn-to-make-data-driven-business-decisions-for-just-25/",
-      "publishedDateTime": "2020-07-15T06:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
