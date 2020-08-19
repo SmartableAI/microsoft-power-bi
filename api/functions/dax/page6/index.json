@@ -1,0 +1,683 @@
+{
+  "title": "Functions",
+  "path": "_functions",
+  "page": 6,
+  "value": [
+    {
+      "path": "_functions/false.md",
+      "title": "FALSE ()",
+      "excerpt": "Returns the logical value FALSE.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/false/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/false-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/false-function-dax",
+      "name": "FALSE ()",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
+      "path": "_functions/filter.md",
+      "title": "FILTER (<table>,<filter>)",
+      "excerpt": "Returns a table that represents a subset of another table or expression.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/filter/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/filter-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/filter-function-dax",
+      "name": "FILTER (<table>,<filter>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
+      "path": "_functions/filters.md",
+      "title": "FILTERS (<columnName>)",
+      "excerpt": "Returns the values that are directly applied as filters to columnName.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/filters/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/filters-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/filters-function-dax",
+      "name": "FILTERS (<columnName>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
+      "path": "_functions/find.md",
+      "title": "FIND (<find_text>, <within_text>[, [<start_num>][, <NotFoundValue>]])",
+      "excerpt": "Returns the starting position of one text string within another text string. FIND is case-sensitive.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/find/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/find-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/find-function-dax",
+      "name": "FIND (<find_text>, <within_text>[, [<start_num>][, <NotFoundValue>]])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
+      "path": "_functions/firstdate.md",
+      "title": "FIRSTDATE (<dates>)",
+      "excerpt": "Returns the first date in the current context for the specified column of dates.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/firstdate/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/firstdate-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/firstdate-function-dax",
+      "name": "FIRSTDATE (<dates>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
+      "path": "_functions/firstnonblank.md",
+      "title": "FIRSTNONBLANK (<column>,<expression>)",
+      "excerpt": "Returns the first value in the column, column, filtered by the current context, where the expression is not blank.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/firstnonblank/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/firstnonblank-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/firstnonblank-function-dax",
+      "name": "FIRSTNONBLANK (<column>,<expression>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
+      "path": "_functions/fixed.md",
+      "title": "FIXED (<number>, <decimals>, <no_commas>)",
+      "excerpt": "Rounds a number to the specified number of decimals and returns the result as text. You can specify that the result be returned with or without commas.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/fixed/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/fixed-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/fixed-function-dax",
+      "name": "FIXED (<number>, <decimals>, <no_commas>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
+      "path": "_functions/floor.md",
+      "title": "FLOOR (<number>, <significance>)",
+      "excerpt": "Rounds a number down, toward zero, to the nearest multiple of significance.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/floor/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/floor-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/floor-function-dax",
+      "name": "FLOOR (<number>, <significance>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
+      "path": "_functions/format.md",
+      "title": "FORMAT (<value>, <format_string>)",
+      "excerpt": "Converts a value to text according to the specified format.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/format/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/format-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/format-function-dax",
+      "name": "FORMAT (<value>, <format_string>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
+      "path": "_functions/fv.md",
+      "title": "FV (<rate>, <nper>, <pmt>[, <pv>[, <type>]])",
+      "excerpt": "Calculates the future value of an investment based on a constant interest rate. You can use FV with either periodic, constant payments, and/or a single lump sum payment.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/fv/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/fv-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/fv-function-dax",
+      "name": "FV (<rate>, <nper>, <pmt>[, <pv>[, <type>]])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
+      "path": "_functions/gcd.md",
+      "title": "GCD (number1, [number2], ...)",
+      "excerpt": "Returns the greatest common divisor of two or more integers. The greatest common divisor is the largest integer that divides both number1 and number2 without a remainder.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/gcd/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/gcd-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/gcd-function-dax",
+      "name": "GCD (number1, [number2], ...)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
+      "path": "_functions/generate.md",
+      "title": "GENERATE (<table1>, <table2>)",
+      "excerpt": "Returns a table with the Cartesian product between each row in table1 and the table that results from evaluating table2 in the context of the current row from table1.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/generate/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/generate-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/generate-function-dax",
+      "name": "GENERATE (<table1>, <table2>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
+      "path": "_functions/generateall.md",
+      "title": "GENERATEALL (<table1>, <table2>)",
+      "excerpt": "Returns a table with the Cartesian product between each row in table1 and the table that results from evaluating table2 in the context of the current row from table1.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/generateall/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/generateall-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/generateall-function-dax",
+      "name": "GENERATEALL (<table1>, <table2>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
+      "path": "_functions/generateseries.md",
+      "title": "GENERATESERIES (<startValue>, <endValue>[, <incrementValue>])",
+      "excerpt": "Returns a single column table containing the values of an arithmetic series, that is, a sequence of values in which each differs from the preceding by a constant quantity. The name of the column returned is Value.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/generateseries/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/generateseries-function",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/generateseries-function",
+      "name": "GENERATESERIES (<startValue>, <endValue>[, <incrementValue>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
+      "path": "_functions/geomean.md",
+      "title": "GEOMEAN (<column>)",
+      "excerpt": "Returns the geometric mean of the numbers in a column.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/geomean/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/geomean-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/geomean-function-dax",
+      "name": "GEOMEAN (<column>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
+      "path": "_functions/geomeanx.md",
+      "title": "GEOMEANX (<table>, <expression>)",
+      "excerpt": "Returns the geometric mean of an expression evaluated for each row in a table.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/geomeanx/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/geomeanx-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/geomeanx-function-dax",
+      "name": "GEOMEANX (<table>, <expression>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
+      "path": "_functions/groupby.md",
+      "title": "GROUPBY  (<table>, [<groupBy_columnName1>], [<name>, <expression>]… )",
+      "excerpt": "The GROUPBY function is similar to the SUMMARIZE function. However, GROUPBY does not do an implicit CALCULATE for any extension columns that it adds. GROUPBY permits a new function, CURRENTGROUP(), to be used inside aggregation functions in the extension columns that it adds. GROUPBY attempts to reuse the data that has been grouped making it highly performant.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/groupby/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/groupby-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/groupby-function-dax",
+      "name": "GROUPBY  (<table>, [<groupBy_columnName1>], [<name>, <expression>]… )",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
+      "path": "_functions/hasonefilter.md",
+      "title": "HASONEFILTER (<columnName>)",
+      "excerpt": "Returns TRUE when the number of directly filtered values on columnName is one; otherwise returns FALSE.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/hasonefilter/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/hasonefilter-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/hasonefilter-function-dax",
+      "name": "HASONEFILTER (<columnName>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
+      "path": "_functions/hasonevalue.md",
+      "title": "HASONEVALUE (<columnName>)",
+      "excerpt": "Returns TRUE when the context for columnName has been filtered down to one distinct value only. Otherwise is FALSE.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/hasonevalue/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/hasonevalue-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/hasonevalue-function-dax",
+      "name": "HASONEVALUE (<columnName>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
+      "path": "_functions/hour.md",
+      "title": "HOUR (<datetime>)",
+      "excerpt": "Returns the hour as a number from 0 (12:00 A.M.) to 23 (11:00 P.M.).",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/hour/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/hour-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/hour-function-dax",
+      "name": "HOUR (<datetime>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
+      "path": "_functions/if.md",
+      "title": "IF (<logical_test>, <value_if_true>[, <value_if_false>])",
+      "excerpt": "Checks a condition, and returns one value when it's TRUE, otherwise it returns a second value.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/if/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/if-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/if-function-dax",
+      "name": "IF (<logical_test>, <value_if_true>[, <value_if_false>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
+      "path": "_functions/iferror.md",
+      "title": "IFERROR (value, value_if_error)",
+      "excerpt": "Evaluates an expression and returns a specified value if the expression returns an error; otherwise returns the value of the expression itself.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/iferror/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/iferror-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/iferror-function-dax",
+      "name": "IFERROR (value, value_if_error)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
+      "path": "_functions/int.md",
+      "title": "INT (<number>)",
+      "excerpt": "Rounds a number down to the nearest integer.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/int/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/int-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/int-function-dax",
+      "name": "INT (<number>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
+      "path": "_functions/intersect.md",
+      "title": "INTERSECT (<table_expression1>, <table_expression2>)",
+      "excerpt": "Returns the row intersection of two tables, retaining duplicates.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/intersect/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/intersect-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/intersect-function-dax",
+      "name": "INTERSECT (<table_expression1>, <table_expression2>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
+      "path": "_functions/intrate.md",
+      "title": "INTRATE (<settlement>, <maturity>, <investment>, <redemption>[, <basis>])",
+      "excerpt": "Returns the interest rate for a fully invested security.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/intrate/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/intrate-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/intrate-function-dax",
+      "name": "INTRATE (<settlement>, <maturity>, <investment>, <redemption>[, <basis>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    }
+  ],
+  "nextPage": 7
+}

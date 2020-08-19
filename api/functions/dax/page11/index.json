@@ -1,0 +1,683 @@
+{
+  "title": "Functions",
+  "path": "_functions",
+  "page": 11,
+  "value": [
+    {
+      "path": "_functions/relatedtable.md",
+      "title": "RELATEDTABLE (<tableName>)",
+      "excerpt": "Evaluates a table expression in a context modified by the given filters.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/relatedtable/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/relatedtable-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/relatedtable-function-dax",
+      "name": "RELATEDTABLE (<tableName>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
+      "path": "_functions/removefilters.md",
+      "title": "REMOVEFILTERS ([<table> | <column>[, <column>[, <column>[,…]]]])",
+      "excerpt": "Clear filters from the specified tables or columns.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/removefilters/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/removefilters-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/removefilters-function-dax",
+      "name": "REMOVEFILTERS ([<table> | <column>[, <column>[, <column>[,…]]]])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
+      "path": "_functions/replace.md",
+      "title": "REPLACE (<old_text>, <start_num>, <num_chars>, <new_text>)",
+      "excerpt": "REPLACE replaces part of a text string, based on the number of characters you specify, with a different text string.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/replace/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/replace-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/replace-function-dax",
+      "name": "REPLACE (<old_text>, <start_num>, <num_chars>, <new_text>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
+      "path": "_functions/rept.md",
+      "title": "REPT (<text>, <num_times>)",
+      "excerpt": "Repeats text a given number of times. Use REPT to fill a cell with a number of instances of a text string.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/rept/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/rept-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/rept-function-dax",
+      "name": "REPT (<text>, <num_times>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
+      "path": "_functions/right.md",
+      "title": "RIGHT (<text>, <num_chars>)",
+      "excerpt": "RIGHT returns the last character or characters in a text string, based on the number of characters you specify.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/right/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/right-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/right-function-dax",
+      "name": "RIGHT (<text>, <num_chars>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
+      "path": "_functions/round.md",
+      "title": "ROUND (<number>, <num_digits>)",
+      "excerpt": "Rounds a number to the specified number of digits.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/round/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/round-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/round-function-dax",
+      "name": "ROUND (<number>, <num_digits>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
+      "path": "_functions/rounddown.md",
+      "title": "ROUNDDOWN (<number>, <num_digits>)",
+      "excerpt": "Rounds a number down, toward zero.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/rounddown/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/rounddown-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/rounddown-function-dax",
+      "name": "ROUNDDOWN (<number>, <num_digits>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
+      "path": "_functions/roundup.md",
+      "title": "ROUNDUP (<number>, <num_digits>)",
+      "excerpt": "Rounds a number up, away from 0 (zero).",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/roundup/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/roundup-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/roundup-function-dax",
+      "name": "ROUNDUP (<number>, <num_digits>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
+      "path": "_functions/row-function.md",
+      "title": "ROW (<name>, <expression>[[,<name>, <expression>]…])",
+      "excerpt": "Returns a table with a single row containing values that result from the expressions given to each column.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/row-function/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/row-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/row-function-dax",
+      "name": "ROW (<name>, <expression>[[,<name>, <expression>]…])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
+      "path": "_functions/rri.md",
+      "title": "RRI (<nper>, <pv>, <fv>)",
+      "excerpt": "Returns an equivalent interest rate for the growth of an investment.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/rri/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/rri-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/rri-function-dax",
+      "name": "RRI (<nper>, <pv>, <fv>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
+      "path": "_functions/sameperiodlastyear.md",
+      "title": "SAMEPERIODLASTYEAR (<dates>)",
+      "excerpt": "Returns a table that contains a column of dates shifted one year back in time from the dates in the specified dates column, in the current context.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/sameperiodlastyear/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/sameperiodlastyear-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/sameperiodlastyear-function-dax",
+      "name": "SAMEPERIODLASTYEAR (<dates>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
+      "path": "_functions/sample.md",
+      "title": "SAMPLE (<n_value>, <table>, <orderBy_expression>, [<order>[, <orderBy_expression>, [<order>]]…])",
+      "excerpt": "Returns a sample of N rows from the specified table.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/sample/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/sample-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/sample-function-dax",
+      "name": "SAMPLE (<n_value>, <table>, <orderBy_expression>, [<order>[, <orderBy_expression>, [<order>]]…])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
+      "path": "_functions/search.md",
+      "title": "SEARCH (<find_text>, <within_text>[, [<start_num>][, <NotFoundValue>]])",
+      "excerpt": "Returns the number of the character at which a specific character or text string is first found, reading left to right. Search is case-insensitive and accent sensitive.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/search/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/search-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/search-function-dax",
+      "name": "SEARCH (<find_text>, <within_text>[, [<start_num>][, <NotFoundValue>]])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
+      "path": "_functions/second.md",
+      "title": "SECOND (<time>)",
+      "excerpt": "Returns the seconds of a time value, as a number from 0 to 59.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/second/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/second-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/second-function-dax",
+      "name": "SECOND (<time>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
+      "path": "_functions/selectcolumns.md",
+      "title": "SELECTCOLUMNS (<table>, <name>, <scalar_expression> [, <name>, <scalar_expression>]…)",
+      "excerpt": "Adds calculated columns to the given table or table expression.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/selectcolumns/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/selectcolumns-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/selectcolumns-function-dax",
+      "name": "SELECTCOLUMNS (<table>, <name>, <scalar_expression> [, <name>, <scalar_expression>]…)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
+      "path": "_functions/selectedmeasure.md",
+      "title": "SELECTEDMEASURE ()",
+      "excerpt": "Used by expressions for calculation items to reference the measure that is in context.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/selectedmeasure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/selectedmeasure-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/selectedmeasure-function-dax",
+      "name": "SELECTEDMEASURE ()",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
+      "path": "_functions/selectedmeasureformatstring.md",
+      "title": "SELECTEDMEASUREFORMATSTRING ()",
+      "excerpt": "Used by expressions for calculation items to retrieve the format string of the measure that is in context.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/selectedmeasureformatstring/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/selectedmeasureformatstring-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/selectedmeasureformatstring-function-dax",
+      "name": "SELECTEDMEASUREFORMATSTRING ()",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
+      "path": "_functions/selectedmeasurename.md",
+      "title": "SELECTEDMEASURENAME ()",
+      "excerpt": "Used by expressions for calculation items to determine the measure that is in context by name.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/selectedmeasurename/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/selectedmeasurename-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/selectedmeasurename-function-dax",
+      "name": "SELECTEDMEASURENAME ()",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
+      "path": "_functions/selectedvalue.md",
+      "title": "SELECTEDVALUE (<columnName>[, <alternateResult>])",
+      "excerpt": "Returns the value when the context for columnName has been filtered down to one distinct value only. Otherwise returns alternateResult.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/selectedvalue/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/selectedvalue-function",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/selectedvalue-function",
+      "name": "SELECTEDVALUE (<columnName>[, <alternateResult>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
+      "path": "_functions/sign.md",
+      "title": "SIGN (<number>)",
+      "excerpt": "Determines the sign of a number, the result of a calculation, or a value in a column. The function returns 1 if the number is positive, 0 (zero) if the number is zero, or -1 if the number is negative.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/sign/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/sign-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/sign-function-dax",
+      "name": "SIGN (<number>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
+      "path": "_functions/sin.md",
+      "title": "SIN (number)",
+      "excerpt": "Returns the sine of the given angle.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/sin/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/sin-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/sin-function-dax",
+      "name": "SIN (number)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
+      "path": "_functions/sinh.md",
+      "title": "SINH (number)",
+      "excerpt": "Returns the hyperbolic sine of a number.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/sinh/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/sinh-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/sinh-function-dax",
+      "name": "SINH (number)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
+      "path": "_functions/sln.md",
+      "title": "SLN (<cost>, <salvage>, <life>)",
+      "excerpt": "Returns the straight-line depreciation of an asset for one period.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/sln/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/sln-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/sln-function-dax",
+      "name": "SLN (<cost>, <salvage>, <life>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
+      "path": "_functions/sqrt.md",
+      "title": "SQRT (<number>)",
+      "excerpt": "Returns the square root of a number.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/sqrt/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/sqrt-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/sqrt-function-dax",
+      "name": "SQRT (<number>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
+      "path": "_functions/sqrtpi.md",
+      "title": "SQRTPI (number)",
+      "excerpt": "Returns the square root of (number * pi).",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/sqrtpi/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/sqrtpi-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/sqrtpi-function-dax",
+      "name": "SQRTPI (number)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "type": "article"
+    }
+  ],
+  "nextPage": 12
+}
