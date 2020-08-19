@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT4M26S
 publishedDateTime: 2017-07-05T15:24:12Z
-heat: 57
+heat: 56
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/e8SXO4SaszY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Fixing Time Calculations in Power BI"
 
-secured: "1CdJuzEWwGbIMZbkKyUFz/G4eXV918ZcEPoz7D8Bh2G9VbrnY3dz0rNTM/U8MdY3Mu+8A82xeZ9rnu5ceu6lEufu3BedU1b2mL6MojOeFoAbGEGK1+AT8qaR+67DGGwzzPchv9FGOg4tJEOVrMiZJ6HMEdhaJdmhnfMnnXjuIfsOlJXC+ymekbaMFvOo65wsPbkvvABQy6tEaqrUt4bblJzcPplMpRc596fUCBVkjJOc1A4OrXeplaZICOMlm9Q4egtT3lHUoGBesA0Ec6xgYeK6OYiuHXDX02PAgcDHWPi5w+M47GCdIOhFdgl/XBa/52Z+zp+nqmScgV0AAxysOW/2kDUrkmT7MsafOs4OFA4osXJ9K6b4btt3w78KDC+7dc3xn3kwaBcn8PvYxXtv/Q==;wFf3iAwC7YSA64yNHV/8Pg=="
+secured: "5A1mKNvdAY9JfwCenjxgQIHWOk1CSNNCQ0w/o9Cc/4QPNO1iPqUfJDiInQ6GYBjxJKx1UKrPsX85389UVDAJU4gsDOf5gJgqFPhvUdxctdQZZ8Eh11GLmgGOyuoG19qwb8PSbLra5Bo56TBbt068L3uACIbOrd7Z8UUKlql5TwlMlxC4DIJQGiPGHvRaweLXv8J0fSE9xnCnpvZww1hQh8q6Xsx6S+enNXM7nSwRdaiXIRRmZEmgnf8XTzmlFarls1gkvNK5MUaGld2tvRT1D86HiUQFunbiw3+qDRlogTIOrv9NQq0xHsH9qbEuGgHzo08mtqQCu28zb2LOD5zT3cqMYO2+b93M8P0DEuBQST+9nvGBGWnDpdn+SnMmcwRpZHjBqPawMPciRykIYRUVQw==;zL14j2QstC/w3HW4ttBIcQ=="
 ---
 

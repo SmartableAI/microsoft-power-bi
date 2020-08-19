@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Are you HITTING your Power BI aggregations???"
 
-secured: "kUE4gw80hZR9e4+pmkE7MnloGZ+bfeGdovu22hLoSTS0y56/aN7BKKTDWAUVarrhwzyRM00f2CNMMHPlX7SgJs0O9c9Ukql6iGj/32K59xI5joSX0eiITzQhpEQZ11TgbczOO7eV2i4wqaC4fB+wUu8n36NuOmv/Po7jalslUfOWWpfZt6BiJsx3huSCkUX+FNvUhzA18AdYo/DhKMiNUaLu3e9M6jiUa2fOzb7WDdc+cRO1EVdTxq5NO/9+JCaitz6bUVG6KM74PKv0lef9b/ZEjOWkK5a5pE2YPEMOr0mSt0fFCVCEcl6oUgDdfCRM/Wv3koUmcF1HIJPMs2zaaR7JLP5bn9Nd1kMz705fFZs79rMUhwv/bkig0JpmZNcrJeunCHMaO80Wz5Hy6RVIyQ==;5VKZ/n/+2xhGyip9DN3LSw=="
+secured: "4uhhGbJVO5dJ3gtTUyzDve7dg3XVFkGKsFz5wgsMlj3rOAb6SHHS+Qndz3KcI+gfQcnl3Zm5Rzh5zzYu7QV6+naQoK/wduhO13mz8ylKtIiK0QH+oAaEo/51tMZjJ64FYR8JHgW1DhDrxzW8ps479Y7drSToYyPJetklK6Nh/OyHuavst0Q94Dqk2xx+X+eZxUCsa700celFDdW9e7qF6yBgL9QbK2ifo4eoEdnlZsfBFLtr2cqbFwLzlMtLebXbUAnJiBVNg11IJnUhIjbSFbPrSIAja/SZZgd7ByYOnYiB8YhVUdrGVjkFP7yC897UwQptVgNsVpXim1XvNoFgaP5n8RXhpN8nw5y/G4LB+u1meQKZRdV6tneTzKTPLWGvQy/hse3e+UjJFb386uQRHA==;mqdjUUmqwe4J970QslVRLw=="
 ---
 
