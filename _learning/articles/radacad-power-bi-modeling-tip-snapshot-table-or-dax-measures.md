@@ -4,10 +4,9 @@ excerpt: "I often get this question: “Is it better that I create this calculat
 originalUrl: https://radacad.com/power-bi-modeling-tip-snapshot-table-or-dax-measures
 webUrl: https://radacad.com/power-bi-modeling-tip-snapshot-table-or-dax-measures
 type: article
-publishedDateTime: 2020-08-07T08:57:50Z
 price: Free
-length: 
-heat: 50
+publishedDateTime: 2020-08-07T08:57:50Z
+heat: 75
 
 provider:
   name: RADACAD
@@ -21,5 +20,6 @@ images:
   - url: https://i1.wp.com/radacad.com/wp-content/uploads/2020/08/2020-08-07_10h14_41.png?resize=640%2C364&ssl=1
     width: 640
     height: 364
+
 ---
 

@@ -4,9 +4,8 @@ excerpt: "If you even need to show your DAX measures in a chart without a dimens
 originalUrl: https://radacad.com/dax-measure-in-the-axis-of-the-power-bi-report
 webUrl: https://radacad.com/dax-measure-in-the-axis-of-the-power-bi-report
 type: article
-publishedDateTime: 2020-08-19T08:57:50Z
 price: Free
-length: 
+publishedDateTime: 2020-08-19T08:57:50Z
 heat: 100
 
 provider:
@@ -21,5 +20,6 @@ images:
   - url: https://i2.wp.com/radacad.com/wp-content/uploads/2020/08/2020-08-19_09h16_15.png?resize=640%2C366&ssl=1
     width: 640
     height: 366
+
 ---
 
