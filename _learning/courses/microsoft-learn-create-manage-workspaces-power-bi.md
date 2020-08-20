@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Create and manage workspaces in Power BI "
 
-secured: "laO4ETvTVxPiSzbwYmcYWlo5ccytfzcTXaQCRaswvh2huFqz9nCpOq6dy/VA4aDVRsoOn4jxHS7TeO5Rn9lcWq83HO6L1BeRDN+kOBhYq6ZkSsrz4uTcHngFf0iVLPvM0jsu6bbgiE/8LNLaS+MNUCrTtOSs4rsAfODlRYRgfRfXqfoXxEUFgE6EvGZYQRLYl+VN4lAU9q5tVt25Jf9HfPzouzZBW96wyjaxtl2jYxiSxXAT/fR0B7dR9EqLhdx+zq481VNKrOZJ9I7ajclM98Z9+DBIQmpLX09+grKyKaq4UOZk2JQzbCj7W+lxR5eoEo9VuXQQkszI/AoB/JJ6LIMt/EVhu9YZH+x3sDStREVq8s9iu0PPBW4ccRIMe85FzeH1NTJQIzBbo/djM/Fh/w==;NWSh02czxEDnTT7X19p1XA=="
+secured: "XdLYpNuR+kreKW2283Pb2btXngC+MYO5HlmQI+xfQq9mhzIpJBiQRQZxHJZM8GuX3cQUyvRSZxfjmrXjgQkOk+aDFptzDVXXeUWSb/MBFH9Tq+FOKcl2k+KkpErXdsJfOqzBEv1H0euHUdrEz+z3X/qlTpx7iRCS2QoIanec0IYeLaGasAmJPsILeTziUpYAxe99iriErXjh88wfNU5c952+69qxaOkCRubivuMxKLWhHvGuifZWp0m91ADRx9RiNvhVryMOUgU9QGMynIRk+TAoyPM0+WdQNTBMUBxaeJ5HClF3fhrRqNCSUEm3hddJ6vyBJ/xtmnxJzlTvgCDBZaVlcCrsoT5Lb84YFmg9tcI9W1EcjE1f925gSx4KWBT8oXYG3wR3Cq8enila1x2F/g==;RftO3/Ya+8GLAyq7lwd2BQ=="
 ---
 
