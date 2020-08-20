@@ -5,7 +5,7 @@ type: "profile"
 heat: 57
 
 affiliation:
-  name: PowerBI.tips
+  name: Power BI Tips
   domain: powerbi.tips
 
 twitter:
