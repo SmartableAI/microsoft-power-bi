@@ -20,6 +20,7 @@ items:
   - videos/power-bi-tips-powerbitips-tutorial-best-practice-analyzer-in-tabular-editor
   - videos/power-bi-tips-powerbitips-tutorial-using-devops-in-tabular-editor
   - videos/power-bi-tips-powerbitips-tutorial-monkey-tool-introduction-part-1
+  - videos/power-bi-tips-powerbitips-tutorial-monkey-tool-introduction-part-2
 
 topics:
   - Power BI
