@@ -13,6 +13,7 @@ provider:
       height: 50
 
 items:
+  - videos/sqlbi-how-to-debug-a-dax-measure
   - videos/sqlbi-analyzing-a-slow-report-query-in-dax-studio
   - videos/sqlbi-understanding-performance-analyzer-metrics-in-dax-studio
   - videos/sqlbi-analyzing-performance-analyzer-trace-in-dax-studio
@@ -31,7 +32,7 @@ topics:
   - DAX
 
 images:
-  - url: https://i.ytimg.com/vi/C5HBhlLUFsE/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/fU5EQBJDfOM/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true
