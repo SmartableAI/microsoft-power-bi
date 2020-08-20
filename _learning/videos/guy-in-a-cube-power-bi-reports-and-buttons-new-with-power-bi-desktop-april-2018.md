@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Power BI Reports and Buttons (new with Power BI Desktop - April 2018)"
 
-secured: "3mJtBjcishtTw4oXRrAXaCv+/evfPgDUc9aSxwzuO9cBiCS8JCiQ+G/lfySqA6Fw2v5ezTqyYvM3ssJSiNbux0e/6LKSZPcbyinHl+AmoUKdJ83zixwp+TdJZTFbsfh2yI0oX4rwn9bjez5nwL3+nFpZ9++n0bCzjzZbce+dgKjlGEFfui+3P0Xz5NRYkqUtUl2ybaHkU9bJVqE+lxax9s7XkrlEUIToB+ZORQiw2rjlxAYB5opMBdVF0qQRGaPw9fugZSDMBk0afFhmhvDa79Br+NdwmGsBSAAJV+9dWjKhF9hCwp3OQMfMvwfyWBGMqIJT/1XkkdGbg9OeJRxr6ojROTR6yKEJ8smShzL1KYAraz4DZNaze4hQm2cuVesC6APYDxNOm+QnY8CRa5SfVA==;3XZNLUwlGa0d8ytRbQ8Bkg=="
+secured: "S/UiKCAtrhFZ0EZmu2720hAnkKykG6RV4G+DCYG4RLEwL4z8oNokkCOt03EbYG0Y4etcaNX2JSxFpFGXQgin3IK1jAS5djYmVGM5ITIFrLFZsw8VpNqyXHPi+Upy6DUcyMU0YF3+CL5FP3OxQvBM0j/XbLIERoGFytXSy6tD3VGMSRpUNJ4tZG6FU3T40pi5DR3zzvRzosQ5JCAeRtBQ811Ek+TEty2nF20d97hgj2Q19F+hQZwQB/6GK1tKYeGYEJzRdkdMqszAfDx9vHtEKaz8UWOGOXj2KJ7+kAa6vaGjlFqo8LGVkV++qdEyRxCuQxQBSLM88fq1TsMk6I8wZJtA+/dekkpv0LBLXFcDnjDyyPSnPKondZkCCx+lTdWw85RPhQEt0EGbvIYkqGSpaA==;tsLMWILCa3Qb57+3d9ed9A=="
 ---
 
