@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-18T11:55:06Z
 webUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-data-protection-updates/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

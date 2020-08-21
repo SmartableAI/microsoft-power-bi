@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT1H13M
 ratings:
-  count: 218
-  average: 4.6834865
+  count: 219
+  average: 4.6849313
 heat: 53
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Work with Power BI visuals"
 
-secured: "wyTzVjqo+jiA0Cx7ZuAWWozsHF+Qf5wj2saY7YOXx5VToZAJdXFVWiWQbD1ydPmFqwtv/f+KMN6BphN0oNrF4YCdkRBLyrpWUSmHYC/Vm0rSk743gl/M4k1YZ5kWSs+zRD424Yu0ywMII0bkPWwCy0QPbBsa/hNA/vx8tLGmD0fAD1PoQl0kxzZc567rFbg/p+n5PGo+4JuTxZfrXXqTZHHiYINRl0DFe3fkrwB9Rpn/fqJ938q1hp3aJ4OWGnFgq5hU2mIPLIHFGGvDnTWYaUorqxCo/TuaY1jUzdYbtGhMG+v97GK81HOLPp60GjAZR3t70VBKlUrULb268v7qU9OQuFpUtcvcTYqL0RFw7KWOjHa6R0pWWPJi6Rc2w7jO631JqiCx3a0sLpksJ6q04Q==;Hxf4lBBENiwMHHM2uV0yUg=="
+secured: "UYRDguDFTQu7nKNMzwDlFEDO1PIffEIjVK8vHp9DtpkByEfGfPkAfrJIH8XJoNaqdSjvi5EbCEV7mEG2tSSkzH3jLm2F4dxtk6QnRMwEsXCxALexRie+plY27u+824xWh1Pl4BY2jyP5Qs2HzvXAyr23y+Yp+gGN9pDvomGyETGHSRMpAlMOQaRVbNM0XoY9ohxL1jifSuLegQK87P7VSnBIOSToYAQJjeyWOE1diACEmYh3YYWblFagxCea0uv5cXlT/dhyYkAnPKoRxh+vmU5ZKu2CGen7f7OfGRD9yMnlPIBao9s8oNiyj/KrpfAoHvizZICgMMCGQXyn5xI2KwtvKFVFNG1ulfBbiq3Ekmr+WplWxRNtyuqPhLjBjHU/6R1MvvDyXe82pIuEKg7pXw==;Lm+l0lvTpk4sghUyUYa6vQ=="
 ---
 
