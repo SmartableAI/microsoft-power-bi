@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Set up continuous data export from Azure IoT Central to a Power BI app"
 
-secured: "Hc/7Kfg2PVclq2ca9gFV+qP2ZxypdL7GnhCwD5Wh+ZbwzXhOfz+dGfQ/8y//0lbrOAbEV6ChFI38mhk5wxIKL/Yuez+RtaplJOEvS/9f7cBLycjIW6YV8035eXciYuqyrmBT49tO24xQsFIZH29aaNuiClaaoC2ddmWujKwZ0IRQXz2UFI0Z44CWnpCmiJl7Ll5jfH1e19SGY7s33GQKd95Y4soMA6jnaT687NjD4WQRDWEGsRV3fDoZ2Ps94/ftsXXu6ruJBMrl+/oVbA45rpEm9r13y3G81UE7ELikR/q3hMB4chGHkyHzld9xGzKHPaLbVdoedL8Nouae9KL0fqV/GBNjeMcFf3J4jez7nwryp8qvxfUi/1aiqAsQ8mCdmr2OEQ8vC+fxqvwa583P+w==;PsjfEG3vxYW83oFAxRUuIg=="
+secured: "E5tlFv/1rzqOEstsvhOUiz0Dn9uulvl78vBaaIMz4p3IidkO8/tZwA6DhgdywQdWcPlRxrOpicy6X/t+5fpefbq+GfM0fi76TrVwgUauXY6L9TJ6Pp4AQaFZJkfj2XesmpQOXRmasUtnFJnGdyQU3thELc2cu6J5w7gur07rBuLSow2VmseHL2zwIu/fBv5Ff3BOhrnS+rMP0IKlovzTT1tXVb/Xu3T6sDILMb/kr0ahj7dxi2EkkTy/ijyVWLiV1u3YD+QrXHaSUbo1oOpBwYjOaOv/woOOmbHV0VS3TOv1CasBYCuKwtlx9EEM6QqUNcYyEvLhbOYFmC8t5Qnq47Vh/mMaTj2NtStlGFLwshuVbXTbFT/bae1MYHMeSHnOe7q+ffRqBsfc5yhehzjV8w==;2Btj+mYnLYG+NOGY9v6ByA=="
 ---
 
