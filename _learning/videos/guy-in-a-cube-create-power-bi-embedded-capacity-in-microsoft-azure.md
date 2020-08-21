@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Create Power BI Embedded capacity in Microsoft Azure"
 
-secured: "HSRR/hRZwazvnCRg6EQhtNYHqfucBAMgl6HerwIprk53/bRMssJ++VUJmuwNjhX2wHX9PNtNSdpjOg0qb72k3KqyU+gSKZ46EmXX48pj5OJhVchi4KKKZMiS4mVwXt2FHzOUcyVt7orvG+j/QV/8ocwOFH5OD62fsqB8Q2nvK6D0HkiqV2uw1RDvPyxIic2qu/DRaoibhukJ0rmpGRjSA+jAP47Lk5Cfp0Ald8JpThoCzBH9IDJHt/t6uyPZX4eq09+OKPLkWm94bpkKgN4BSHQPeTuBeWQw0kguzl/2DzJs9VsMiIUaGjPQu9dtNFPH1TSCYIAWQCi8BiAZ6HqO7EY4ZW/PQY1RC7wsd39iRyyTl7FQ2xZ6pBfMjcfxiHWaBWDglxis2t2nQfBNgTQHsQ==;/op3IopJJhJr3Zi3dCRh4w=="
+secured: "Zyf1wb3Y7H57nOlvSwftiQNhraGv5aEAwucEhVszS/QGIiKNNQIIe0FwTGRUpgBfs3Jh0fap+bJmpDMfCBNDYDsE3aDMMLWh4Q7g9wO2eusuc1eHkLx/d0ccxS6G7/94r78NQ+pTv+cwgaRmNpxj03BRfeBma/VDM02NnM6APJRym85wZjlULkzp+E/rAEixMzP7x3e0iqr0DRqUdEVGK83naZ5yoMWhuPB+yxevjP9ambPwgnZdHNuebuZ0QpGFJdIPAW2zf1+K1x7wS+U+zHi+Ogt0KHoxroQb55zDAb6889Q/ke/jQD5k+2q2fPNqrYQVIhAAVcn8GRp5x0A6JlCaFWN69SwdDR+JgLXpdPmFFRCyZ0/5CSWDNWs0ERVP0I848TZ7616JG+H8GwZFYA==;8ZgMNJfUH9RNnyjxkwIooA=="
 ---
 
