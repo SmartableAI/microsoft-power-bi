@@ -8,7 +8,7 @@ length: PT1H8M
 ratings:
   count: 155
   average: 4.7225804
-heat: 54
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Create dashboards in Power BI"
 
-secured: "aDXv/T9upkgXtw04GzIsBOAy+54Cd1rhBt9LcWEp8cCwQ73i8s+zyUPharO3jT+sq+3R63HXfneYc3Q0Z5GTJBbV9elhdv1zqA+M79pqNCKMMV4rsk7qrdb7ywDurtSv/SwBmZwVqrA3C47ZZNYwzOvj42WSl4nZvxYdFierEIzXa2DWsg/f0/GCmnbxBhzNW8tV9SAdF8fM+lPonUULeSR7kU8zOi0sr30GfKIHkZkvxzjG3p64ucwDGF3x9tzZVdlg9F54D4kw61CL76fX1SNH7/fiG6WcJ4q0Oqq0NNexLcb+6f7y4cXeSnI2IkXmBz4Rz1A11OsUMYwWPvrCeD5tuPgAQuDmiYdRy4PggmyfTZrwjoJcGzZ+xK7EVddokrlHUoz+yqjO9gDU0eTy+w==;i34nLhPguK3SVNATpO/0Kg=="
+secured: "mTQC7on6fzmK+UIRJymFHZEsJ6BPYsmjjcSCZN9Fzja+EqSky35gmg4DuHG43YjnZCfGTo+PlZaybLVkl83tpqQxMUWA5XyLNWbMIUAllTe6C+CDu8yJAQeIEsMu3tmgKGAHTTTwI2xMdMAsYOWo5oWmB0ygcLRgQlhrSSg8/HIxDSEvjkdHTnObVrmkgh+B3Zb1eeRPWlx3ddO+7yC1kyI1CNZuhRGs+/oTnbV1SDrsLtoJYYhXj4hgtG67pkTJYcqBiHKJlZeuISVTUYuyQdaEofzJYdVFTSRmovGRgV9lBUfVbrveEp9PRyfvjwGTMdWg/IHvIzCVgBbS470sRcM4FyQy+MUNx8NL+Tc/6DOYqhS7qoRr840wPD0kt42x0jHz83ukyJinAezte04iOg==;uMsd1buUYI4Y12sWYeqoPA=="
 ---
 
