@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Becoming a solution architect for Dynamics 365 and Power Platform"
 
-secured: "sr2UwZIvhFEgV7vQihRKfrdgko0gvxaCWml48U39s13ytodrefjeLVUXUMcizTwIZ7/puuM4SL1mnL84Ux9qLLtvVWgo3Sju9fdZ3Tog+gOK7nUi7MVOE7ESrlqZyngy3RaonAh+B8JCu9wW6p1Gw0Kgz7/2UqAl/d+Ca3r7j3r5ES8EhKa3Ecm8BSK6ZHy2aIxLpXwn+6FdBP5QyPaudwvy7QhmchpYf7qqQnRIpXOecyHHFBQFNS1zhi7+XSYq5oMxRnsCkefRSgARVeBQbMeIpi4V83JqHn/h/0m625JewyAR8IsIjvyFFFT9zLkLRm3R93CxElI3198AsKMUkmNQNR56XUgTAQVwgosxmN/vSHcxbUxQNaaXOGgv9EwDdd8yjHyioOfDFbwd/CAzLw==;NgFKfWUF0/u2MOOzDwgvjw=="
+secured: "V4wKCeA/YEzY60HHY+g0O/vH+mfbWZECxW+/4E7JdIcTuhm9bJ+ApT7fqh15Zs2gZMnvYGGK7Si6XMtUvSh5uevsoF+isp9dCUHOLHgXQl1CZWopnZTdrp11onKOCVJd5MUK8xux1gKtB+II+qGpVoqTk0aGtcgow8SOANIQDqZmzAEBe9Q5YGrPUwXJ3KZnlpcwxhJGhnR/nO3Az69ix0Dd1p/K4kmfI287cazMqahWmrN2oehToywTKNYVQb5MDLh9Ofze5s9K46pGFZqH3TI+p9w9yKLMaOoU8my+d1LuanEyq6c9H/vQuR8NZQY9Pak5zW/4chuDauubQmy468NQ1tW03AA0LMIgQvY5vHbfwpfdUueR5QCJu3XqL/CkgpPVQjJGD1N1FZrhiSJOqw==;Gar/LUXztGYIizw2bm3ajA=="
 ---
 
