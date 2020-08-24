@@ -4,7 +4,7 @@ excerpt: "Local government is always looking for ways to target its resources mo
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Lancashire-County-Council-Neighbourhood-Intelligence/m-p/232538
 type: download
 publishedDateTime: 2017-08-16T08:14:00Z
-heat: 53
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYzIxMTM3YjMtNjBhMy00MDg4LTk4NmEtMzgzYzhkMjM2YmFiIiwidCI6IjlmNjgzZTI2LWQ4YjktNDYwOS05ZWM0LWUxYTM2ZTRiYjRkMiIsImMiOjh9\"></iframe>"
 
@@ -43,6 +43,6 @@ images:
     height: 735
     isCached: true
 
-secured: "YKm5fiap6R8LPNXHKDNGi7j8/DOGUQTi4MMgbiFE2bVM5N0a76FygmOSt7TT6SPirXOTbDuE4QNp6Vdu8YbxjSYs4EPGnRcJaOVgILUTxmM85BaQgZUrjn1Ec11w6QcuvAuNuoEWfKwvPeTNIi2fvd4osnS/NDlB99geBQFBaKa2pMpUPMYppQuDwd0mvDyeST217uS4OkHi1KUU9k7hnE/AaYQ58BSBv98JVaPkwRvaFb7SoOABUHPTd8NQujGEzN9HkD+JMFLXeBaLKtwLn+bG0sMHg9I9yRy+whH6jkFooNBgQlpUYKaT9Msxnzvulem84PTcSkNW2TtairGkaviDFZsbo9XFbHWFpAERXVD43ZxRkWeqiiRpbSXNqhugyRBNUxk8DPPuH0KrBOiNHMv5WM5FDu3DZthUGpUtO0I=;WBsaAqJOxKkN/QE9NEQSag=="
+secured: "HfM1j82xdsyUdsJi7iVWQJuwYXj+3CZxqoqPdTbdmsBLLuYR0ZNOSUgEHG5BFRCh94OznOnmQENGoT1itqnNPZmJm7aEE2gWO5+Kmw0VqIpZ7kKaA6v0nbKE85pFkisW/RE39d77k64H3qifwxKHIjbn8x2ltxFSY41eHQWVeNlAgkTzLlzAbj+4DdTEvVdg5GZRs6oDDD6pssl1lev2hrCC7qHv+bDmWxYUAB6TgmwcfZHn6x+ZGyK3L3deryZWVSFRwEzVyynycT/20LCQCpOyFZrjpQ+KU2+otz5aHo6I8OW0wz+hYP37Q77HAxk6Ci4J3IRROrmlU8bW0Ug8X013nOcfXeF11c+oP2bk1IEem7Q1fdrr6NwJOKzEyTR5Df5+G4r7EihQVHyzBSv8IUTDLpaBAcqv5By42Eq9ls4=;59Grfxaat6S56TTGUGE09Q=="
 ---
 

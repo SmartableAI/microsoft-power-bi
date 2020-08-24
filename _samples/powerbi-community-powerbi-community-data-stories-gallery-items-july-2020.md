@@ -4,7 +4,7 @@ excerpt: "** A handy aggregate of all items here on Data Stories Gallery , with 
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/PowerBI-Community-Data-Stories-Gallery-Items-July-2020/m-p/1267131
 type: download
 publishedDateTime: 2020-08-02T14:51:00Z
-heat: 129
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiY2ZlOTQ1ZTgtNGQyMi00ZWFmLWJiYTQtZGFhMGVmMDJhN2Y1IiwidCI6ImU1ZDQ0NjI2LThjZTMtNDk3ZC1hZDJhLTZiOTM3NjhmZWIxNyJ9\"></iframe>"
 
@@ -33,6 +33,6 @@ topics:
 tags:
   - Social Media
 
-secured: "ljBT9h6YLesJUyGUBo14nOT0KTBIy3tOe/JsjXaYOSN9YlQSs+yK7fNcxpyXdKmgHVsWokrfLI74rhS8WyN5CNmr7OqdANtLb9nIv4tabJi/zeP549kLNLcVb+IJ8EF8B6W4IEYYbuXwGbbeRlcGMKcxy2Xk4PQoOQJqqfs/h20CRLAknYNRf2JyZ91JS4AO/tr1pPcqgNUFGRwQyCkqhS6BFZuTaNPOZ1m8W5XBzxbyERah13RZm41h0sH0cvewTC8Fei98c14VNJDMhFyEhbdNOHJkkCZ/8zTsaGbfpl0m+wAp+S+v5QhWgT1u0yUfEAIrGaHp7fR8SyQWKd+NvH/gWZLgCD16UFJkOBkHLSRpIROTHNnKmeABLfgvZbXJ;+Becmt6HIjMNkJlhAci0QA=="
+secured: "att3g1d60ZJomD8InHr6LQIbU81kvJFcX5Ks9VuQYL8OmrAwEPYh8aSlkzgwYUO6t1b+kh4njeITlWBWkqypAk2ZcpSX+vMG647whMYtmNV8YuTQlxnkgBBdwPF+x2hEckB/paC+FtuxOap3xmZn8YghdBon4voM8VysyN6GYCUn3OrBFAvsQXEn6+4GP00Ry4CNtTaoOChyhy6eLPHx3Qw0rhkP8WwG/ZeH7rwqUJaDituEtgTfqz2eN2fqfXE9luxzzg+0DrfqdItTmv1mSY/oCYsXpY4FMAsvH28s7YUYzWhpBKtNqufe1qPCaRXrKm0Jzhhbpl3TzrDuGa5/SiLRKCMKSRQK04z1j9mdtQlEb73uc68ZrQaX5wr+sO5rwbZLLW7jyhIFh7dlPA07OA==;gB6kL+X/UxoWFMVb0t3DHQ=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "I created this Power BI Report as part of the World Data Visualization
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/World-Data-Visualization-Prize-Submission/m-p/615034
 type: download
 publishedDateTime: 2019-02-01T09:57:00Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYzQyOTc3MDAtYjUxOC00ZTUyLWI3YzQtM2Y5Y2RiMDY1NWZjIiwidCI6ImVhYzJmZmU0LWNmYWQtNDI5MC1hNmYxLTRkMjlhNjZhODA0NCJ9\"></iframe>"
 
@@ -43,6 +43,6 @@ images:
     height: 1051
     isCached: true
 
-secured: "EWU+CCj8WyupT7mD5gKvFi8WkJuIdYEN2+h7VZN1I/DMKnXRisf8KO3IMk8DhD9sBriiWikl4dBzHmE+MqkTufPoi6uwZfKnPEjQXD+Z6FBzZSezXpGcm+qHZlI/b7kOa+JBPmQIL5WaH1lHE54UPLbp3tzMAvxhXLS6nkw6rHorIeILJxx0CDHG3XHkXuB8sFzPOJBm04dXfySRfglyRfAgb/PU7UtbJg8F2JA9kbQr0K3TVVuqw3J+eEmhdRTv4KmasE/V8Gb4f1XZkbv0ZD2yw9adrszs2rFgJ6MhK2Qr+/MZ2eWGWApIIr+zW5ZyYRa6tUw5GSDJuM6MJnmMdW+fOS61j6EpS79G/JSXcmazjHl6G9GbDkET3Gm29rI3TTfsl3HuIP7wKZqG8vu0PEX84S9rviwoB77BNMeqoNk=;xV2AU46ZHZGYxKWZKkDfGQ=="
+secured: "E054ExDmSKAAjgjlvI2z42bdL8N0bmDY532SVpEPHnuRFCFnMGe6ABBuC+S0LrtvAwlCDrsOKj3MPpPksfpPGV6xAZV1+dwhONaogQfq/x7MuoXI+Zf35ZtzKkJ4QMS0xc8twhONnj9tTSnAhHsf0ygy/vRKItEVbVL0LPUQ14D+9KccL3l6PzslWxPRrjmmQlUs/EOb5Je/xami/ToJ1SRJ7PaGJR72h8zHQGU8fKf7LmR7c7k8CjP82OL5ax5/6AyDnVSV9take5eAmmIj/RIfI/AJeBVkSite1/fpP/yNnkcE/Dru2OqzSwBlv+i+K6cEiA2PcZ9noILw+VOBWC9yGQacrILekqbGrmZJ86V8Ir10HONMTdCdLw2xAdPa0t0QLzNd3e6qr3IgBB5gQgJt+z8DEK3k52JJzPh7VS4=;NeGO1SP6O0UVFXTkDfCmIA=="
 ---
 

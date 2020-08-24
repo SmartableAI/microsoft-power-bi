@@ -4,7 +4,7 @@ excerpt: "Data visualization is an important part of analytics and making these 
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Power-BI-Dashboard-design-for-employee-management/m-p/1117324
 type: download
 publishedDateTime: 2020-05-25T01:11:00Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMTE1MWVlMmYtODdlZC00ZGY5LWIwNzktODJhMDU4MTNjZGRmIiwidCI6ImNiMWMyNWNiLTlkZWYtNGY0My04MThlLWQ1NmMyNjMzNTk1NSJ9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 800
     isCached: true
 
-secured: "iBi5qBMh2ggdPr5i/Cq2J2a4/bAMU92vYBa6Xs0eraEtX6YK/rtCHzy1Ct+5AiJRyOHGji2GLVM+01ezdzqbbNJF/Q3nq5kMPitjIooUwplFQmOfXcfpM2pDXhtydyJA5rWTI/s+K97UMlHI2JuIyt7gL3hCAF7zhsbWXnxcBzwvvA6vdm3Xs0yI6+NFdeZpPinTzSVgG/ppjumTyhYJ2lcXo8G6W5JnLkyWyU94kuwIYEGnq+QixjDNPUtVei1lHZ0aF2y4Y3hldJ9ap0KLyKsCylk1kfi9FpEYw8yDOVm5PeQDScn1BQrbU+4Zvp8lZy03vcCR72XEHndLAqSQMniteog5w01AAoLEeC5U6p81vemMrn3Tk4kizO9OKzN9P090pSJozUkll2fdXN9ssw==;cXmvVlQPJvMI0R4m66+0FA=="
+secured: "dwiD5qgQs3KUN8nXFnxTaEk5CrBMg0gcqEQAOispaFAJ+jmr5vbMGaH90WZ3faTDiSxvhRo9eI+KDlp/nN9KfHHzq9+HhnPUL77a1OZIjYpXgN6JgTd8T1Zr3rXqD8l1kox5BXyWmFUH5nMicSTFNllXSNTFdtYBgCSPCXDPZDBpnY46FV/sik1Lomw8o7mlJzKd3SsjIyTY+c0Ss4G8qysD0vAWWXCtxyHsnc4EjRRamLfKLuT7VKWOYs3Vp5euk14QdriMYaOhTHUq+qS+OWkjtPi8/qd8UIKgmMabPrlCwjDW+dnYGqjmbc2mbgAO0WF+DztunwttrlxDlU0kxTYVWifZYthe6MV2V4TNmPazA06iKYYiS7tP33ZJSea+Ur6bVocTgsig0SpRjvET5A==;87lvxURHesepvfwFzwja0g=="
 ---
 

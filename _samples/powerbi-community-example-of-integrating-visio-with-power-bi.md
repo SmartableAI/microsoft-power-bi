@@ -4,7 +4,7 @@ excerpt: "This data story illustrates how an existing Visio diagram can be inser
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Example-of-Integrating-Visio-with-Power-BI/m-p/248406
 type: download
 publishedDateTime: 2017-09-08T09:30:00Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMWQwYWU4MTgtYjZkMi00NDA5LWIyZWItMzYwMjA3NGQ5ZmZhIiwidCI6IjA5ODQ4YTQ5LTRiMDEtNGFkNS05YzIyLWFlNjdjOWRlODVjNCIsImMiOjZ9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 721
     isCached: true
 
-secured: "V4+Q+LRPb0OydkZm7ufCD5Aj9N+idihFrkYC2G0O/motwqVUbS8NSvy89HMlP3cVZWluxn79DZnXwqM/5wiTf5iy7WU1HC0NxcfDPgXDs2tHswouXxwCKJCoPoj68EJzEJzrNCKb74/Ug77gmQnRhOm9NIsyuLOBiGermmrlgEfk1KKlPe19eyvvjkuxZ7jHIHXzp7zW2TZVFztQc7gZBhwif6SasaRX6I8quth/8foUJBoM7/SAGg2SOgungsCzAkEXXLlS8leXLc7Vk8sw8GARMNcIJufFWNax+BTi6K1wWq2qWtFWKVbjGMq4pq0Cikjn8klldiKs/90dVz6z2apP88+ic1iF4MjtHuwLETw0tzTgBrsKXzJInJzZcY8pg/TWtPR7/bAN68MsgNw+qA==;HJjUdAeFM+MGX1FQdkai7g=="
+secured: "TNSlx8mzZDv+a6QKljf2wg3r1ld0d/5OnoruyeuOgqe4zuIEbXbo+dLpEB/PEoEvu9KRZ8x0dhPEvKHY+OVm8y3snnFSJqdy3TzUG8Y4RjMz3VMiZYNHR6DjLmzBIOzlqQW+bK00Qd/+8RV+BtskBULk/sNMbl6hZczcUwX8C1c/x/I6y9cpxbEpb52fMArj2wZpthXacbbbwb05dNcsHB4IwovRm6UvwfRCjopT9ggEkyJe4E/eU1+1dx1pok8ybpEKEed5wegxXYHVoEp3OVpwITciG2n/TzPSG0X/cIwGEP+ByGhJBdj60Sg3G4t9YOWM0j/LJAcpiSS7gCIDzd0jPxGNi+PZhAdPry5nVOV1xWD+CBlO2PRiWALemxrYgZkgalfnRxCpNmxxOfsQqA==;vnCWC1c5ROOWTl/FLioEeA=="
 ---
 

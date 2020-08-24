@@ -4,7 +4,7 @@ excerpt: "This visual was created using a hack on the scatterplot. I actually ha
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/NBA-Fan-Cost-Competition/m-p/208284
 type: download
 publishedDateTime: 2017-07-08T11:31:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNGIxMTNlNjgtMjRjNi00OTUxLWI3YTktYTUxYjNkYmE2NzE2IiwidCI6IjBmZmM3NzMyLTNkYWYtNDJhNC1iN2Y4LWRhMzhlNzE1YTgyOCIsImMiOjF9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 866
     isCached: true
 
-secured: "yBo9frzSW3fPCpYF0kQchNf3Y7Wmk/epcdvMubWKd1I2wqXriyU4c1UCRW0YA00lmOBEKSS59qUZwI3XzoqIlbjL3wgZ92XBys9BbRqIFZ0C6u7NWF1TuECWjdUnQKahnQ3L5amTl1khNc1UmGT75M7MF7kUOuqxDGmHdJ/dSozOVBXrb5sI+O5qczzE9UsPXUT4dmmG1rdXgac+HuZeBq8bEMSF2RJ6xe+P1TzdEiHlx86HOBPd/Vyho0D/jgSfMPsGGiYcHUsF5g0uQSoZ+/OJ1UyptZl6X3ym6Aa1R3CSoRvsqdDX0CUvHmKHgxbIETwUYnBvU7iof2aCc3CNGZEdBUVahovD6HeTidFPWjL3nwP/yseyEPV8Sv3k1kMtf89odQU5mDNSG/FS9e7QFGdLRTTsjs17gpBk9UJU2TA=;PB6JryxOVxKieCpEb+4wMg=="
+secured: "rKfitoR7fWWOz8dCASvmIFSsZowinm925V/X987T347OP/qJC+gbeuYbuUeWY9LKxpeZGzLzDg/ifZTOJOUVaZ9zGhJJ1YRfaLfCEe1cPD8rELJNCZZ4zqazJM6u9KzPef5Sk6qwX135sEqUAaasEV8rjU3LaTzPNS7HxOVdKZL+pE9EaNCHp7WCW0RPICVRVjzATEJydRHoiqfb099KFJ+whjNVUpsLeSh7Kyt5IqT0W+LR2yJIcFoj/KCD751yiAH+tZvTvyFfZwIjECO93ns/hkIgPLITNRSCD9qj0vsyeZSJGCc/doaxmQTcuEdS1Po0giTuDlXGH1m5pmUJ97WoiqJKGk2yJfgAG1M0Zp1G4C0iwA/ulS2cYfr8Vi8HvBMfcu/cQFTFHWySNA32iqe7OT2Kmj1QP7XuQZycD/U=;2gC2FPlnm82PCa5pFfcFFg=="
 ---
 

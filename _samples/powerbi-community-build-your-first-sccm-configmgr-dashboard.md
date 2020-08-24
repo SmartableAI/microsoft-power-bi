@@ -4,7 +4,7 @@ excerpt: "As part of my &amp;quot; Power BI - 12 Days of Dashboards &amp;quot; s
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Build-your-first-SCCM-ConfigMgr-Dashboard/m-p/105331
 type: download
 publishedDateTime: 2016-12-21T22:33:00Z
-heat: 53
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDZhZjdiNjQtZTg4OC00OWI1LTk1NDgtM2U4NjQ0ZTljMDBkIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 832
     isCached: true
 
-secured: "VHlMA0PlkGMD33QwkwZazE7gOtXbs3+WSY3CiggxJsQQOBppVXoZjLUoMEqVex2QfmRGOvhueh59G5rsV7HsMPw8ooNt1i/SjaLtMUMZocqlzxweacsEkP1T4FHmdFq8tSsZr7G0ab5K2h3h0Ag9o72aztudJrZVkthH9iV7DJ0UBr0SRceScqpt6F/ZvtSLKe1w7IfwuRl2lJj1LEm/HOIeU5LYKF/Lwx7CEW4r/YjN/tDG566zv1e6SNlSL1ZgX6qmRbpK0nDr+9nj8k3iWQPGmAb8dUWUJhMO86CTCQMNnMHKb2uMTDTogFICE4VeHezuiW9xMhIT5x8ZdZdLnM/DD8QrZZMQ+fcq+WeflRVGHzFrkEQMTNgPafeB7p+H1aNtJZv0GdJDn0XMYYow0Xe/n2fl2FvbgHgbGGRMskc=;Km1YpOvL70JJE6lywfXTwA=="
+secured: "DrMIMS80w7HJO9DcQ6zbzJgvesoV5/HFzcba45uep2gnb1znBKLxHsSI4HxflyUDeKeTuVR0rXGKUELD0M6pCIpv7NdKBNTeaxat14QBpojfcwfPj3xSjqjynUxgbgr+dyaXAqFaYZcgQeoTPa6DRj4xcNpPEJGy1yZ5f2ZGOXDZ5cOiYrFz5yg0nk8fQKpX4DJdDg4K8Fgtec7sDIpncYxzU8tiGjC1s7aLKvt+h7MAtYhKQtzcqZizi/DpjSutFB1Cvw4PjYEccSKoqO7HkVitHIexWk0In9Ha93q137eeIvoYI5NGoJIdElj/LeTRoNmWipR9Vs5VuBnccTWoTWTDUlY/NsI2OS0Z2wdhpkxFhliS89xRGnWM5C5TN8ub85VoxLRUyf867sVIXkrZQ01in8TjwZ65QW6GpMJCuzY=;/3ewwfuxs7Zc4ha8dSqijQ=="
 ---
 

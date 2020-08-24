@@ -4,7 +4,7 @@ excerpt: "See trends in the periodic table based on the elements' positions. Com
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Periodic-Table-of-the-Elements-Back-to-School/m-p/780804
 type: download
 publishedDateTime: 2019-09-01T07:12:00Z
-heat: 62
+heat: 59
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYmM0YzYwZmMtYmVmMy00ZTYwLTllMmUtODU1OWU0MWFhMTQyIiwidCI6ImFjYzhhYWE1LWYxOTEtNDgyZi05MjFiLWNmNmMzM2E1ODgzMiIsImMiOjF9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 1495
     isCached: true
 
-secured: "dVy941IREdwPUfY7HXjUVgld9Zehu8Dcs8m22m1JC99hJwstY6yP1kkwsuRtefNrqchyExH+RDJkdo3GcOnfqnDWpeRbyPmCv00FMZfEiC/67M0ZCcWiW4pCzWyiD6u/nl7BlWXUDVMUnROawwo1gmoQWe1Ktlj+zUN/5BoZ4dL2khDSvqMZIV8R5Hx0gDegMeecUFJwsu8r1ecFGjNt/u7ROh1kvd6YGWV3hqEcWN3NIxhU1NTkqTzGy5oxtf88OKQpCiY4YpSbiW8ghxqQxWVcFVCi79LG0snTN9yRc3E5qsghCe+ksNIvZFRLC4BXbMCTPdDzQEh7j67pF9TR+a5gB29yZ8MXtx0g/8c9v/LulQP4pivZk+GXgy1t29CAMUFoyS5DS4o2fl6EiYimhIkN1oDvnR3UuDAKcPTx+Zs=;OS2T8M/Yz9ja6Kt4WaVBeA=="
+secured: "PnI04anRSDc+1QCRa+CU1Dd7sZKsFJAEQxrThubsbMRSfTJpC+1S9lgI/sjzq2Zkg5UHSnyOz49yg83x3EsP4vgwYIH5yuNu1DzDn8qXsOD0OndKB6NFq6xOz8CQsp5DbI9voHE0xBIRnTWu3yP9BcNkMtdiTHWdgLXdA5B0BCksIfacTjO3wCdke3osaxBIi6RajU1LBfI2RSvukmUJJBe9jlGaLmim6Kwn+o1+EgKg5p28Pa7k37hSwjHrvFqCaKWHrsmLAoI0Xsv1YormSlwX3DRGbsNHcStSBRzr6ANyfqRaIFS0LMkygTWa/vufA1D4mwJ5xsHhv8P0Zl9Au/AnfclqXTEYILTi8S1FdVHfqwVVBL6ZrwBwmyA5uu0qncA5IidJgR3ifnBzTL4K+JHCiGYABbqBDe0/zxrthRg=;12MYICclkK/yEzdCnWsVdw=="
 ---
 

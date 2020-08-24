@@ -4,7 +4,7 @@ excerpt: "Explore the interactive navigations, report page tooltips, slicer pop 
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Video-Game-Sales/m-p/602233
 type: download
 publishedDateTime: 2019-01-16T09:27:00Z
-heat: 55
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMGIyMzMxNWQtZGZiNC00NWU5LTkzY2YtMjdlYjM2NmZmZjhiIiwidCI6IjBhYTVjODNjLTkzZjMtNGY0ZC1hNzJmLTdiZTkzMDkxOTZhNiIsImMiOjN9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 520
     isCached: true
 
-secured: "3diC1xwR2oOL2G2mhQwgx2NE0nl32N5qXEHaOB6c+T0rcl1GAYWASWMtai82QAcKNbOFMuqywWJedFU1/87k0Gq4eHWSyafHlqmzxEyHP+pTNpfQPNnfX/TdohmjmB30mc+PbpCSj9iDjVtZXouVbqpAy0dHLcrfrr9s5Z5hxT+ZFdAScs3roZzMk9IqASDQbKhXllo5oprikX9ZvjaqPoq4Q7XfCiltRTQJNrpw9K7XuZt3KPLTPlTCKsYdoD3I2BqdxJFBgnOYcWpc+DrryI3IWTy4u//kLF3RRK3wV2XHhZgGekG+XPB6inrGuwaMHhFjNRZaeR0XNGF3vJCuqvVy93R2WjbUyusnaKq+xIGj2VD9uIDEojM7Uyrj5YqGWwNHtTShXQ9vGz/g0K/yUrfRAZd7BbtvFf0hwqOjwjI=;t1db9i+JDyWWCF9QhbKBNA=="
+secured: "MGuQBbjUV4K47Q+2IEvWD9bgqAUFA4GpKSuC1bMwvTaRLCET31Xi6zlC4/7HMT0tZhnnMfi1FiVM90BWzuox8CanJsJZA4a3mNlrxicnyzuQG31yVD6r6uZc9JXiWoU/5NJgrOAQy4xuw6mfe95AtNLtg4BV2O147o3MoAWSi7lY1jGv8kFuxqdK7mMvA3R06YPdbmpDdg2MKbKqHrluK3WgRlrP9znxAOXwXHIEEHl2X1xe5+Yas/5UM5OkRNMcXYObyIJptJFOjJWs+Bx4cPy1G+kwrgEaJ1+Bn26T9At98T0xBcSR8wuZJuSJh1mp/YToWfevEG3aSNqeDAn0Oa7VF14znQChKh0acvNbaIoVyefOBA7zo6I24C+TH/tjzrE9xSlntBW5w5s7QXAodbDcJt8g0Wbiso/5MnmgAo0=;/c7RXml0PCd08MFgswgS5A=="
 ---
 

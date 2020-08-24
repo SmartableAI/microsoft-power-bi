@@ -4,7 +4,7 @@ excerpt: "* A report view of Microsoft MVP data from the site : https://mvp.micr
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Microsoft-MVP-Profiles-amp-Activities-2020/m-p/1266944
 type: download
 publishedDateTime: 2020-08-02T08:19:00Z
-heat: 130
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiY2FmZjE1YjYtOGIwOS00OWIyLTgxYTUtZWM4NmE1ZDUwN2QyIiwidCI6ImU1ZDQ0NjI2LThjZTMtNDk3ZC1hZDJhLTZiOTM3NjhmZWIxNyJ9&amp;embedImagePlaceholder=true&amp;pageName=ReportSection\"></iframe>"
 
@@ -33,6 +33,6 @@ topics:
 tags:
   - Social Media
 
-secured: "xuL3+aAaFldIJoBAEqt8ZDxsdg4nvPxbcDBFsTKJ62s9Ok2P5haqYVXplEBeTqspGLnAlr4NO0tEr6HHn8H9onrfqqO3mVTHbFOzO0ShT2PKFNfsy6z3Mq0W+A5EpqFTZGcQ2koWIaWfB5q4SSOSDP6STRVWlaXGFDuTpJSbPACy92QtVak0gMU0Kn6C28rbzenQLV7CDa4018enA/1EFqULY/qnEv26RHcRRFWlIX304+q1JktSY644mK1np2NN18cN1Z11nrOGdG3dy3mJL6kojK2nUrpANfyO9SUO2vfkg1qre71cfJLi3NaG8xx7pHTAe7Fnnpl4gV8y3pB0n8dbHfQ/Oc3IZVuCU7k0Y4CsuKt7IVTxm+htCeVi1nwP;IopeHQTaag1LKZ0lxgyWZQ=="
+secured: "FpWbrbQ7lwNTfOorsRco56ekiV84RoGL9U0iQoOFA/UWkyWnDL/Tl3OzswdBZSd01diPqD+4dizsYZLNSEbbof696Tqm004PqIE9SSCKhBq1b9p384kfsgOSeySOYq5UBPMR06emFHMekynWzWhsyjfbkbgZRKUYK9geW/fMFEYaDhBiTiIc7lFWYzA7Yk/3dvUJ2QVPwBmiEAWgElrrGsvfdBiJ+EQWudGJN2qJl/PUmJ/UEjNkTRwCYbl0h1Bsnd5hwOpU4Hp78pxZSKS03BjEC5+l1jglQun844chE6YHA0q+Rh4i+6U5iXY0Yby962GYyRdrLpzekHqExi9+c+kFEHMV9bFE5+qmVRMpky3NUJEI/1a8N305woC5SYCSu9SIBH16cvKg1rRYxKbONQ==;J9EeCfUI/3cYb2tX4ljuIg=="
 ---
 

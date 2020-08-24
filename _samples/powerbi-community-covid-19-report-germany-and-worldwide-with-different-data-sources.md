@@ -4,7 +4,7 @@ excerpt: "Ever wondered how corona data differs among different data sources? Ye
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-Report-Germany-and-worldwide-with-different-data/m-p/1009298
 type: download
 publishedDateTime: 2020-04-06T00:08:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZDFhODI3YTgtYTg2MC00MDYyLTkwNmItNzYxOTFjZGNiODBkIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 896
     isCached: true
 
-secured: "WElsu3fJXlyinGfUg93eW7NV6cps2SM4M1vz/uulStXYUrXP4L4G0f4+0bQE8KAT6mGYxAAx3hZczE6e/yKURhms7mh0XxM1gH8GhKGSOKTJJwMFrweE3hmnJTOlcJV4V3gLvP3NcIxlrVXAjhr3Un2qjofIgp/Rt+BadKJ/MGPNAzrqTp52/hsO5x4YwouYJly3N3tK2NZnGq3kfOuVRnd2WRYIfvVjQ8OIyocAETRuR6nLseYblMvHnTGnOHH7KmKW/7iKUzkzGWXXPsphvHBSUo4FKreGke2Ej4GeCTRySsrD0AYIJuMEzrEOp+4T5TG0F3ke97S7avL1BSicTREL6CxbAfQ0ApCAlH15A7ej/RVaA+RGJwlMEXMXvM9OqlUQUy+wId2V9W1MO23P4w==;5Z7kuD9n4n65fbXjT9z9TA=="
+secured: "E5jQ3vXejEKn1SoEZD34tidr8VcsMDdgko0VzT/22ae0K8XUlzBPgwhmI/dswiWu8MRJHwVQtx/dRFf/SFhDW0eM0rJGK9UrLXEsPWZYVHYD/4I83qGVQFrYwICkTFOymdkV2OKLT8F8Q/FjkUJXnBp10JjE8OGqv8F77xFFbi+n3xlwNja4K8wWWccj6aFNkgd5+RBqS10/XJ2rmgbOx++9z4dQaGUmnAJSYJcILFLYQ/zGHiOjDkPziut9p+mB2pNZd3Rs0SORU+CI05FQRra/wBpHLNbSJ72OaruASM3h75GY+OB40VEPJtI+VY3x7QsfG0Ay2oT4b3xjCZy+geZMofB67Sk6aXgR3LzwRv7SvHLqi3PuBVxS9wM4YdXl/sbP7pp8Uqm2GyowrX18NA==;i0F2UDNDIb6S18YH9DX/bw=="
 ---
 

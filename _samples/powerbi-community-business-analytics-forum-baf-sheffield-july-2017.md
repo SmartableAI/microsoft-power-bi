@@ -4,7 +4,7 @@ excerpt: "Here is an analysis of user surveys who attended our Business Analytic
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Business-Analytics-Forum-BAF-Sheffield-July-2017/m-p/741003
 type: download
 publishedDateTime: 2019-07-16T03:36:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjg0YTAxMWUtNTkwZS00ZjAwLWExN2EtZDcxNTU5ODQ2NDdkIiwidCI6ImU4NDg4MGYxLTU4NTctNDFkMC05NWJkLTNmMWJiMGRiMDQ1NSIsImMiOjh9\"></iframe>"
 
@@ -41,6 +41,6 @@ images:
     height: 1604
     isCached: true
 
-secured: "ncasmXM96caLbvBcLG+yzUwr9QNEygAiL7QsmNzrYASBfN0tKpejovO/Nas9+cJJgjL6sVPEZ4cSuN2bPKLEIm5xQ9lC8HHXayJI7QVvJskXMGsakFvPGFJjHaHZSSEylNWXmtQxq05Gk/ZGYt2JvV7WGBUeWoL180QSF53PTrmPm/oQ8BaodEb2vw9mA9Byw78UFwXNAodCFAZJGIA0R4FR6FpZtt0lFmae4pLmjd6TdX9n09l3s4WLhPnEHaWK/1EZPIjmDlHmcvTvUQZK6ouOhmjyta3OBSErroeYc5ZmTbwTpIjsrY3DksThVa3I08DBGmnLSkrWnIajSjIL1BT76YPvKtWM71F8qQe9MKg7DzlA4R08MdNIhmNp2LfWll/pl2ptluCfEcwOJOFx9g==;lvIrXe2ClJbu59sAyBrWOA=="
+secured: "eiD0+7ATi8G+eTPcSWQ3EgEueaqxRdl/JBYY+ick2ObzOwl42Zb2IrbbFJTq9HLUzfT0vDzuoPZ6rz8AHj6AixEqAcY2wFGeGIbfaETvCfO2FlrX5W22OcVqLxPRPTziFYVBTEMMXksc0r133GYqEIJQtfBRk2YjqmYo1Tw7jvoS5dxfi+wXgZXOUg/avB6B0twN5CeWVqXLyYLlNvWjOKRBfF74//Dg1gHFmRx207N+1urcTBMyc37jQqfMcccr/HrL8ki7NW4sWLXr+Qn1JL5phtffqUSVWJqp65OkIooOtGbYAW00jsIsl+/HLtEKsUjBfA9hcvVHlBjKKtX+gUfr1AAb3gm5aPnaeyUJJi/YveeNJwMNkJ+ENGtAOyQjoMo5YVhdrrzchDw+xV9Jpg==;rQa3uOm0A1qiy77LkQQVTw=="
 ---
 

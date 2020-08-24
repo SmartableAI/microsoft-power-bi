@@ -4,7 +4,7 @@ excerpt: "Here is a new take on delivering insights related to the Retail Indust
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Retail-Data-Stories/m-p/811497
 type: download
 publishedDateTime: 2019-10-07T09:08:00Z
-heat: 53
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNTUxNGYyMzktNDk1MC00MmYyLWE2NWEtMGMxZDMwMjUxODdkIiwidCI6ImJiNDY2Y2JiLTYyMWMtNDkzYi04Mzc0LTZjOGYyNmRjNmExOCIsImMiOjEwfQ%3D%3D\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 659
     isCached: true
 
-secured: "szNS20PQyZrCXce6xlTDUB3MdnWimhEjnaBOGmD5Zb7PKjCWafMdxiizIH19KE7HknfNfusQyuADp6KVek1nZ8NcsUrKg7m1bJZYKx5RI7fP52HxVnVAN4DPcNZDakLuPEk7hvCtejLaIUj4HEgKHyeXm9Kp74xRA4YD+5Tvgd0hqoapMYR/O63RgeZL5ZG7jo+IZm6fAmUpsm2TKtAtK4i9xAK0nZqVvAeEwZXWcdn8qdcAbNY4h6FHfawZAXumIJ6dNE0imDVWW+x6etR+BPoWQOnXH8GrXPZeQ0uZeScGnJjbnMrPq/838Y9FNDGHtOCKqjhcL0WRXQq9/edbMdItP7qzmbr5otvw1blmN9QMTD80sybK7WmiICToRLE/VfELQLghQn4h4FR6wVjzGj9zy2yhqDixjdVOtsUcNyY=;PY+CYKfZKc2cnfmfHgie/Q=="
+secured: "h2dkSo1JEvdyPqf8sojz3Fhc58eCZNQgzhb0dDTF/0Q6gnWt9maNVgbm1MiXizxqxpwfxYatC5P1T+Ii3MuCNJ6fSolI3tP1ae3UWErJtBygu7ndi1ZzKVYC4E09qOmajETclQTPlRfsHUaXjU6chzV6hCNUMaLHWqqlToqMtwK8yKO+BmdwRrAlp34x7xyd5+FMQxyafQE4SDv0Nbtl3E9p2rmiPMjnuEX5VS7P6rOsCQzt1hZBEHSoWexB1eRhfcQNqpMf8YNozGsY+q/+boxGfxno/YzbPlQH6fD3bqiOXj21K1p+Xg8mRS8euaq23OLN6v2D7ZLhJfSB8QuFDQnQ8Ed0nAeqq6uNbbaD8XVqtiupYrcquoSyHRRGZCDWDPzCbSbHNYRYdixaR3fPhpx4Crh679f8SgLm51ZX5Fc=;QS8d8EwxDkuPx0Kq/cTlcQ=="
 ---
 

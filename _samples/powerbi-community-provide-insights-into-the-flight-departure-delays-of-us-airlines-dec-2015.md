@@ -4,7 +4,7 @@ excerpt: "An analysis of US airline data for the month of December 2015. Used to
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Provide-Insights-into-the-Flight-Departure-Delays-of-US-Airlines/m-p/167816
 type: download
 publishedDateTime: 2017-05-02T03:51:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOGFhM2U0ZTMtMjNhZC00YWYyLWFmZjAtYzYzYzQxOGE3YTNkIiwidCI6IjlhYmM2MTIzLTNlMWQtNGQzMC05NzdhLTg4MDYxNzAwYTM2ZiIsImMiOjh9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 1200
     isCached: true
 
-secured: "/1lVN8blZCuwuKuwBpTZNCjzKrMnXf5VB84S9icIrdi4mG/uJc3WFznbJNDy063odPLjZGRiy3WWdOi54rEWFOkRej5en7dNfTNFhwRowEJi8sEAYSVXEMbjsfiiKDbog86OctbIzHqLWOPLu8fUEsW+bkx3N7oHWg6zA/Wu33ATHKUz0q6RWMQohhPT3zid7YPajbZajck0++pWBvXywWIE60QVbnUxZd7WfoMt36JSA8JrAovaVqfXY/YRmBSESNew4t/lW8VEXhEfVHP+R9Oi5yGdNA2K3NCd76IXlevQG7qbu3lo2APzIKVh8LuJGr26W+bnJskejD4lySVZGzn9VQWBXYlwRHAuARTVPZWtD8SA6K/NGjA1j+NfZv7mFPmsc8+TdzJ1biEzcHC/TQFRijZtc/Lm+GH4jzLbas8=;IkcdIbliz6k1Mjw7ZyNcjg=="
+secured: "TVtG1rzmqsKNq4BgLe0wFJZ7CN+cTv880q/4113YO4KkMbs+gmHEPYTPc9Xi0dLISSdylbI5QCwTKHOBmD6y2cFwNDk7dEN261hhVlpj22evRmCW7AW9+nr+CEEtX67WRn3NRThM6GTUs6Y77DPqDJhOltXS/DxcsD/OdjQBZZm6c74dItFrGlrb/ZhcodVGxs4aJT4UO+UPGfomVa8GHY5TjuPzYk0UdF2xvNgTT1uAxSsim1TfJfMnMHrGl7wgjnBWINr5IPmXMY4JrkvIm/esD1ZXwzUcodXvoGk5/YOCK/eUubgVGDXrQ7/B6e+B/pfGz4Lbm5LKVwi++uBegl1XIJVn+vLBP1HVFU019bspoT98ixvapvXLtfyK7q4uYRG8Ob5T3WbPEORanVCT7yUyVv7p5pEEus5BrXb3TZc=;Tc2gZd1/i5Vszegkt40G2g=="
 ---
 

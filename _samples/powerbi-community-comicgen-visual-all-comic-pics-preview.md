@@ -4,7 +4,7 @@ excerpt: "I got really excited about this visual and wanted to see all faces. Th
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Comicgen-visual-all-comic-pics-preview/m-p/1078750
 type: download
 publishedDateTime: 2020-05-07T01:54:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZjkyNDAwNTctYmZhMy00ZmU4LWE0ZDMtOTkwYzIzNTE1Y2UxIiwidCI6ImJjODFhOWVhLWVjYjYtNGE3Ny1iNjg0LTUzZDFkN2FjZDQxNCJ9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 635
     isCached: true
 
-secured: "Ilyd1MPdqVpAHapC00VLcE5b4l8xqcX59sFQE7TfssBe8uOScNKgZJx0EcZhd1e/qkiKn3scU17zFsjFlLofn0Gfpse7ad0sbulq/dLW+VEW7lNowJyRzElrEEF+KeSgIyB7/mjxZDwCX9cpk5qZuXqWWJtjT0n5u4A2z8QJXIAzzg87f23Dt1rUwkv6sKaWXnhgbiw4WfMEQMFJq2LOkIVwyX143LTZfAcUWRaGy5LFzHv9s1f/penGApGwP9feHog/RqlWyUNKDICldwhm+367jqdoFZzrN1S2uGrmhfOfmHl6phXpT13DEe3qr1541aQ9SN9Iohna+h9cKpkZHkrv1kgiCVuP2HWjcgjDIo1xrbLwKpNeqIcNRdTE6xHoTNBVMPrquDwNJHa1Kn2jTg==;gySjaXHDT027yCpAt9O5EA=="
+secured: "3w1UNsgDijSk88rGJy5PQb2rG0iEjWjng4K9cruEz7AyWTK/k+/Cx+/Aee6pfnLg7xW5UOdlJYdiwGO3KTovgV6rAn8y22gsVLNV7vUKf9CHLe0WkqMKKLGQ771ue2kidq0BP2F8YSZ3llH9TfHJ2PSfIfWH+meCt9o8zbPIp27e2ugw7sWbKrdNUmAaTM9WdQ9xbSPzo6Wodfp/fitd7z1D+wnMAcg/j7gFSYoHdxfpKZcxfG3JN01EKypcNdrYawMFQWw74N+ipiYS4SqdQTlv4sUw9V9WsYQLC3HsLFQd+IYKZIYyUJl7eCOijDgVtpBnGOqCJ0WwthXDtN+FYfZuh9bO0wBgcRJO0if5DXFQFBRinbEJC9uiYFkvSEjGa4RNL49QK7BkXCAABfepqw==;kgAwuFs75GHhq1jp+kFFjQ=="
 ---
 

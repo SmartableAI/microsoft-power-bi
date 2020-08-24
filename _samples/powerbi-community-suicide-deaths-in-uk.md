@@ -4,7 +4,7 @@ excerpt: "2019 Week 43 makeovermonday is about: The age at which most people are
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Suicide-Deaths-in-UK/m-p/825984
 type: download
 publishedDateTime: 2019-10-23T01:46:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNzNmNTIxZjQtZjNlMy00NmRkLWI4MTctN2ZiZDBjNDhkMGNlIiwidCI6IjgxNzdmMWQzLWU2NTAtNDAxNS1iNzdhLTY4MjUxODQwMzRiNyJ9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 608
     isCached: true
 
-secured: "l8O+8AIazXKCSZnLi1pQZtQSSVMb1bjrf6zW5jdK8N41RRfCpyr9QXK6uDu5MpVEl5VSYiISZyNSEWsHx17Z7yw9WXxWvmgTQOT4YyVifKAebiuSGBSVDlaV8YuYVdUuk/yXB1u1ioFOzWq/DJJslhrxG8DtdJZTmoGXh+rwLpcEO1DV6dNYaJNIzTH5xSPnVoE4GTnjwqqbwTAVDmHtymFXW+TaWinOLj7/3NzuJQ12qO7num/Z4Mmas1zvMDyvSTOTaWoXl15euq60JMEMt+hoveOtIKzexHCnxoIvx/ehG0F3cjCPBncrMlkMDaRat7mQD1suAlPu/Piu730XDdOyBK3zlVl7D0xRtLaemD4fKLc8MdfZXwCSTJ4lJ8ss0y7+Y800WmbaismZJD3mkg==;L+I8H6A3f5vkflinD5wc2Q=="
+secured: "jnL/d0cmikWFI7Oh1GbuR3ntP4Eulygys+2VSIDAOnG5kjJCVl0ChytM1AysePA2freqTf3eFz3VyIDr1SJkHroTS0GeZbhvDiYfVe9txe596c/wIMM0LSph4mzwuu0nPb9TudPKPgusHWa+TLtMvvCvOA/FJMv5nA414EiIc9t8Ke26AJVv5+Efg2Gv9nXywandLsaYxSoul6fChhs/rV5Jw7sPBNEup7c/yjcPmD+5IL/dzLcclbdUVKAzTKgnR+W31i6TkKFsui4XxsJrxgFMoiMS8Ar5cr2wMWv0AQBw7RHiIJrRW6mZ2OcEIW0CGUsnNpgnOH/CBjGDIf1b3iV5H4raD9jAqAARfSv1YOEN3OY/TdJe2XrvsSwIG5pLa1a9VwwIP+DRHUhKrEA7eQ==;9BKK/Gtc1lFhcGwDUrc9dg=="
 ---
 

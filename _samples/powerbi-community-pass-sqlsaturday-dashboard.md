@@ -4,7 +4,7 @@ excerpt: "Here is a dashboard of the SQL Saturday sessions from around the world
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Pass-SQLSaturday-Dashboard/m-p/489529
 type: download
 publishedDateTime: 2018-08-14T10:13:00Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMjY0MTk3ZDctZmI3YS00ZWI4LTgyNGYtNDkzZWRhZTM4ZmZiIiwidCI6ImEwYTcyYzIzLTdlMWEtNGYxOC05NDU4LTlhNzUyYTEzMTg1NCJ9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 828
     isCached: true
 
-secured: "mAi7LyBg2jO53oRujtmf6oCSdWeIAMuRwO0ZKmlZjJCOw/BT0yCDOpVBvlsstsBv3/H4XD2paxy/0JWJAKxvlS6Et1ySSVapOKFalTTC0jPPRsPDBm/Y+eSq+fsCOSYMCpVcfW9BBnD5sN6PA89GMbQlw51GqIpzADnoMEPsUGTzTJppbI1obRpbII+qZrLuI/0pxAl214Yo/dYAinz2t4TfeuFjNGc4JQDzSTSQ966krzOLCflXVu6WsXIqhVXW2sKBze5QJHOkZE1+ZEF5oWSpPBGF3gSTPz612CAyQicPKJK2Y+ox3zdhg30Ug51+HIBX2bGApeL3pnEbtLSQyHzEJUSFjsUXrW/OTZsQtQ3HoBQer9jVAR4Z5QhQbFcvz5678FK/cWKAmwuvIPdVZURroDBvKwPWP4+xMSYTcGs=;mDE0MQWI//BA6wcV8bHKeQ=="
+secured: "12xTwPbFoleJjJ2SIK1+Gys01WVQLF9CfaYgx+iNHZcpahIB0zwuBOAaj//st6AUm65WF9hr6VU36WLstt/UY1c9JV7kXENY5373OhvqvZ8wy5jF9Kk0FJx3voIXvgViPdCBb1srjPiKX69mRAKc0UUoy4OO5q3y/cNo2XLbIEP9GdxC2g4cFcmsZ6x2SmTYu/oki3Yvg4RJWF1U6yFfFDItd8akBNriECpCPJQr2b6k58u/K0R/H96HwJwH5hkz565KdwBK/SiWkvU0Lxm2V9yP/GnNel5BrxG81BAnOP4OUYiLaaVUzuDP7/lv+IZYz0VLvFITpsQDu63TRDwQDJPZ1r1TYPd2sCgHXm5eRCu8qO1r3tP5O1pN/XKae7ps+RKTuasUM2b1CNto3311per+diJsxRyxRzLEdfhNjQk=;YSLiZDm2l98xG8PXrjxEAg=="
 ---
 

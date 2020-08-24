@@ -4,7 +4,7 @@ excerpt: "WHO Life Data Dashabord. Something I made a couple years ago Thought I
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/World-Health-Organization-Life-Data-Dashbaord/m-p/753069
 type: download
 publishedDateTime: 2019-07-30T10:49:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYmUyNzMzODEtZmVmOC00NTMyLWE4ZmUtNGQzMzIyNzM1MDNhIiwidCI6ImRiOWE0ZTJiLWQxODEtNDE4My05M2ZiLTVjOTQwMTNhMzA2YyIsImMiOjh9\"></iframe>"
 
@@ -41,6 +41,6 @@ images:
     height: 845
     isCached: true
 
-secured: "yofstyJfSqhu3XKMqWaXujNU2BUXYcrVFAW85GN4CZGuUkWnQVA7MVlWbgTqRMczscZ7MEXi68kQPfzM6PgQt3dFIZGhJTG0hb0o1I88j30QdecJXpZrThoGjrr5VVkHLbP5KthMvDzGlF0lvCXdnnB+p+S2GsqHuKkZPuSFD2TFOg8RGRs53W9d0iCwxJu/xFpfisaXmAkAyN5IwIVWbHoe/ysuiqKXKrpjAx2JhDnnqLHfwDgLdFE309U0Y8VuS6I8fodm6wz8GwS/GU8UtZl5+f8VNIYArTBl5kl+kD55dQqiRw5YSES9100S9k1OGCY7xUTrxGta+iyMIHoNlVDenc1TyhBehgMfnk0FlmqHdmzfWpk0ej5h4kmpIuVsusbNjntQLKy2HaqqigCnHQ==;XdBDqHE/1dBm0nldsTnMkw=="
+secured: "wsmvZpBu0fhPZRYjjgPBA9bO7GvMObC9umfyZ0UPjgWBGaT6Ezr+I/zWB0JOO7IqttRB7+3Z9PunxlqTt70gJLQ6hYveA3fmNGf4u7kyqdIPeN0vJeEwXJLF0xZ2VMXE7mpduKScnTHZf+nf0igFEk9GpXduKIsrPWyD+oWiRH1ckL6Y8hpKlqPtaBS/0BjvMF5l4KwEq9YHwSZ9IkcqOO9dEaot1vXYRdThI+WFICpv5zGc50JdAyfNY0D8XH5vZFOjFGMTFtBIKRh8vJgchSQlc5jiw9E54cJqKVWs86akcUvViOmvbtMFVsNwtSAtio/DJYKHY+/ImZRMAQI3OhrI7TnoeGgU7aEZQO+LWXrwFWb39wUkMFAgoHxx585QYen/UgHb+aA8K7moI+XMXA==;KHSsLv7/FxqlPGozTmW+5w=="
 ---
 

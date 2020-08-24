@@ -4,7 +4,7 @@ excerpt: "Description A&amp;E overview dashboard provides a quick snapshot of al
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Alarm-Analysis-Dashboard-design-insights/m-p/1091669
 type: download
 publishedDateTime: 2020-05-15T06:53:00Z
-heat: 53
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMTU3ZjkzMWItMWQzMy00ODhhLTg0MmQtOTA4ZjU1ZDFhZjlmIiwidCI6IjJiZGIwNGVlLTAyYTUtNDYzMi04NGJiLTIxNDQzMTk5OTEzYiJ9\"></iframe>"
 
@@ -42,6 +42,6 @@ images:
     height: 539
     isCached: true
 
-secured: "bX5lYC1xkB5Xo6T3TX/h7o/D04n2fbHu9rIzQNeLO1cq9aOt7I5DiiBSVqgf41Y0fMfU+fJ5SzhaJFvSMPCHjXM4FUdqRcnBeAldtWYpmeicVtriTrtju6H6/JexRjmNkG5ZoBOiFt2OVpcgy/hN4bgwW5N4CYp1Ob3LbGeAqmjy5LZIK9SQ04YBZNK1vZNIWoLET9if/xLl7da86WpE4gza/bJB/rMP+PrVJUdeT02xCNannRfXr2Otp+FAIjHnQ8YTwgrTXFkv13xAyxmDZ2i4lVvZ0y4JR0R2wYZCWIFytkEeL5nK/PJugag21P8OYsklILaDu7nxplHyjtl8aLkFWlAFu6b4CHUz+t82ZQeye6SIrGu3SvQyLROI/kc+5zJ4P9O0rBacgIGvncffqQ==;A/DkHjl2SbT+0Ec7KSsZ4A=="
+secured: "0Swet1uvqLWImYm1GgaOzYnDB/M/U7QACGerimrFxqfDR+k44eQQSQTsrlLS4r+eVA5Ww4QVqBp7C/GZDTbgrHbpR0ChbqGqM0YPFlZ7Iuq9m9mFdc4di7hifsdcdRijB9+64XS85kbQMK7x8sf5GPfY6zHM2C1FcIIeChaEqsvBCEchpNf/YvQiam/O18h3Ou/uPAuAZ032+7kJ281eLOFqyaCNqhYoAJmsmzyeK8ObvEs1DEz9FJL7BBA0UIs09xJWmKfFHZlvG25wmN5ye3Pz98CF2fd1CBGS+63ee5rVSIxoU1m1CnMnHyR3oW9uYWHWbMbdY1XIZv7PRWH6p5bkzAHHdvGGwufnBZfmMoodA/v2bbriL2ac2C7BUV0g1RWyrYupiP7O77JUWjbcbg==;k4xGyxix4+H4TFlYA7skzA=="
 ---
 

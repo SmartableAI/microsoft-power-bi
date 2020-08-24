@@ -4,7 +4,7 @@ excerpt: "Presentación de Ventas eyJrIjoiMzJhZGRmMGItMjNjZi00NTA1LWI3NGQtNDQ3MD
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/A-Marketing-Presentation/m-p/425992
 type: download
 publishedDateTime: 2018-05-26T17:19:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMzJhZGRmMGItMjNjZi00NTA1LWI3NGQtNDQ3MDNjYzhhM2NiIiwidCI6ImYyMmFlZDcyLTc1YmMtNDI2YS1hOGQzLTFiYTgyNmY0ODI4MSIsImMiOjR9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 695
     isCached: true
 
-secured: "t6URVC707+Xp6PMiRui2KKWQ2HngysPw6lh5HV6JqnjCHmY+DPcj9Bv4FvuuhDU28FaZk47P1HvfdAE9J9rCikWCXJN7oayrtZ03mu5q6Db608QvnmX8nhJE/+gQzbY6k+aZHjN0AGEGZZhchR6VcXBOcJagcsY7/YwoPtxufkj62iadNxh/Lr1lMh7UViXYRYoKPsinfQ3A9t0BY0y2ubIVOK2eGM9GODkoA7qz75GfptReZB+dNAeOz7RvRDn3rkTnPIYfbIslVDayv3sDA2de83KvfiqeRbei2/+LeNpztWND0TNjCDKz8XSlorWqQEXfJV1aBRDJ7TU2fQYEUvsvg+8f3LYcV9UTRGaej0JSc4aCItWdBCndHAB8LYKkTal+XSUJ5JXtahve3G0zuvZo7Ytd9BOIdaeN3cXNcz0=;jCS+yEM3QzYXvXiYgvG21A=="
+secured: "ezqzmiQNZNjZwdMToGeDEJv+08q4R1E3RiQyJimIJ+oDJe9VzOF5koXnRsI1573BzBa1C/5Wki0FO8RhUqcO4eaRIZFEzy9ZxOQbAIMfTaeoglBuGnYb5igXcjg/bk9ywL4JS0zrDQjjR5JnbdRcLJSZBDkX0vn2iiPA1SZQF1Xxm2/gIc1EsvlkJTCbJeUOKGDfuaLX+Y+thLDYXEpoycWgVVvosvyCZOUyBkiSy6BjR1tlFsYHsJi4Ajasteloy+gHvAEip2lfbeFxIo8WcsJB1J7L/PqN+tJb2oqRZKHk4EOGclQtdg6Fpgj1iTejE0VN4BZBJhVFw/qsUa2ROSYIhtHRz6Oc/8zYVc0vG9Li6yOf7fm38lBwkzN0V6pK5ovnI1Bjq0W0DCxfFKQb8SMffL+8OVhC6M0jNeluemE=;C4iABRFItW3MW7II52t9hw=="
 ---
 

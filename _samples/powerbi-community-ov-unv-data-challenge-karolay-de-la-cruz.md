@@ -4,7 +4,7 @@ excerpt: "As a data challenge for Online Volunteers , Karolay de la Cruz created
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Karolay-De-La-Cruz/m-p/1055662
 type: download
 publishedDateTime: 2020-04-29T00:56:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMzE5ZGQ5MzgtNDM4NS00YjJiLWI1ZmItNDdiMDY2MTRlZDQxIiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 1174
     isCached: true
 
-secured: "JNiTx+KOSe7V6TAdVZ1cyhrd2BgxSdgzHOi9PXN4c9gEWpvNRPaCtFfSMzTxuZbE6R0F2l0Ky9qlWM+02fUCyIsD8tKVSrF45bWSr0zhfEcOsicYBgji5MjL4lh+Dz+TO2X+rFY/CRCBzanToZ+W6cX3FrRQiWG7EE44MEYyOeVJr5zXIG6AhThS0e7kgE3Jp8IGxfMb6iRnYD92XQ6nIkV91cUwH6zzZQoEtzHjmbxUES2n1UodvWbF1EbODOW+nCkbUr9KUVBFSvQRRepr/BuZk6VqNAEkUwtgKDT9WM8MF6TdC/QfDAt5Eg7xqajWsdshNu9/w40fM9LhlivcdN+/74qfLPhZbP3h2BJpQNvLib+GIQTPTNfCohlvx67aucxL9Mnq5AFKhKdKv8+bQA==;6ysjcDj6rDnlFHcyZS24dQ=="
+secured: "fk6ralsi5UnQtzr+eVpG5RYptYKCqMPessQ0UYXJ43R4+Jd/OmOYdxb6LO7RXS7Hpw16/KW8JT2PircNuTRv1LzOOkgi2Mmv0J2Z6EzgYBYOdzgmddalaGplVd0UEzjuJVN6G4o3Hxfa9hAC3ujsDSHe/1iv9W9mGfeNSBIH74/rOhca/B3KGh7oV3FBNzMxPhycDbGsqJ8pF4GUpEIV0Tqks5fWdvP0EYByxYmvMkV6UZsRIMYcu2KcsIwv4vyHPXdg/5MSEsgd5XGYhWdOEaVqdAZkGXCYeltu9K32cerSqSNkuLbAaYip5v/fckMxOgkLY8KU1Qs0Mm1IMzpwSUIaE61MCbAmozIPFKzR3G6SRub3j+Fxao6YkPxaxVJqRjgX+LLEZ1+PXOeofn8tXQ==;EMF5BucKsROk6naamfcHzw=="
 ---
 

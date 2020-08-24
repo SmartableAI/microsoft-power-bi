@@ -4,7 +4,7 @@ excerpt: "Hi all, This is my first public dashboard using Power BI ! This dashbo
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Business-Schools-Dashboard-France/m-p/187496
 type: download
 publishedDateTime: 2017-06-03T15:55:00Z
-heat: 54
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNWIzNTY0NzktMWY1NS00NDI1LTg0OTItZmUyYjcxZWYzNjI2IiwidCI6Ijg5NWQ0YTRiLTE1NGYtNDUzNy04NzAyLTc4YWQ0MDE1Y2Y0YSIsImMiOjl9\"></iframe>"
 
@@ -41,6 +41,6 @@ images:
     height: 303
     isCached: true
 
-secured: "+jQSMtoJ6mIZTbWeTSXBswgs0rHr9N2J8GS4n1rdYA3L9yMoYKXUipO1veOmOoluNzqSZ163UPyzCE0YUvp3eWjQfgg6RlR5/lU8Q8X8bEVUK1Bl6pNfBnUBquQ6ca914DJCDmZIc0N7+ZC+vOzwr4dL0xdIyL6/hRTxTmjXEBsm6miB5AJ63a9mKnOxb21uZyHEr1kaO7bmdykmIbBkWOK2+goqFSzLcscSOpJ5iZFhC4MeTxabYHz+BYfH5qyFueQcYuA/ppNa8HpYof4Bg2FAhKd2N6HcB5RMPtzyLSFjCxlf+FYszX13AMywedcM5ZKVPgHFXyxFQrovNpOIwvOnR4+SVB9OPfpJH1UwUPKxSlkpR5qL3PYS92Xa2AgMvvgMntNDAPbeYSSHpBbhxob0W9tltysF6TL5pTiGfsQ=;UY4XoEQ1r+Ilonej3z6iOg=="
+secured: "hM41ilTEiPRsoEMwHCIeGVNhv2p/6k8rOazmsoEqVn3+LPtD5vJI7rem/JQrDzfjTFgWerZvGGW6c+seOd6lLzUA8X8Ulg1KKsg4IThBMaRK1XyA5bLdnUqrRxolkrz9gCclOvqMvb0wwiwZbdvbE4TgK5BLzFixl33ZdFTGb9vhV8fDiRzUlK4OKUX4CsfziAYeuJH9ewx7cjNBVi2Kb0A9FvcbsqpYFYhUfin3+rBT3cTsVDWDSjLn/NYx+ILbPH68FRJQJkmqGCARhgFpCRNztJlTfIcBkYPDmgNbOf3uLJqGUdwbW8CRFw8L0oZDAB5fmiLBfH8cLdi1FkBOIJRwfKcxUyyxk9yNKEVZRDD1MoN1l//laCHIhVUQKFY2BkmJ3aqanQDa88u3/lqHGJAiVFgSrUQ1s+0AFFsL3aw=;UNtzjFHSFp9IIdp7fHq+wg=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "Note: This visualization is designed for Mobile. Switch to mobile view
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Trip-Home-Power-BI-Mobile-Visualization-by-Third-I/m-p/690689
 type: download
 publishedDateTime: 2019-05-14T04:22:00Z
-heat: 53
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjllMzAwOGEtYjdjMy00ZjhlLWIzYTQtMTY2ZmQ4ZWI3YjMzIiwidCI6ImExMTdlOGM2LWRhYTMtNDFlMi1iZDJhLTgyYzUwMmZlMzM4NCJ9\"></iframe>"
 
@@ -41,6 +41,6 @@ images:
     height: 4302
     isCached: true
 
-secured: "I3v/9d8rraIrpQyi+ZtAmVcFahuh/AwNTQ+REBq+2JutFM97iPvphuHBBX/l0UyNgZUc9sdhDLFG9UNpgvEXT1gO1nV3tANf0yKDG7MET6MFJGAptM9WCMIsAR3JwpcwSL4+J6o9KdMYCOiwGo+g/EP/FOt0F/CvtKMCKj07KTFvSrp9aLLHVEz3i0USI1yTU1/rcTANhWjurXO+GGDvTvTzvh/cMDGRm6bwXdr88QvYCbNoo/GT3jFDSLbL1fRVTnQ5fuKe9dm7Ex9fMI81PrVaWrqtt6EeVy/9GOYi1oV4VwO/l0uAYaLndDcCTKrUfgVNFjYEa+GS9xRz9SrGKNEuzFnkkEP4rDOK+268JUZyqDDut8273VIW6naYWIDs+qVIhU0Y/YDCGDmuV4dj0IpTDbHpt5cXNYtC8fZ58VU=;UZSobAm2qzN6309S//AZuA=="
+secured: "CKt8Di98XGivFML2xTTRnMewRG5/XFe8CyXj8YKFvfK8FiKQUo2jU73qBcJrY/G9Ie7b81kcLKxekJAZlg5fNNwfIC1HfaO8lup5XPn9ZzBnglV8e/YW7cE5PfuClYjjHIqzy+YToHJsiI9/0mJMOtOmfRxcpsQA9hV6RXQt/WYPACWBymQWPspdEGHjLwf6W2/+KIDJRIG1fYMUrDkoDdVR7AffLwTPzzS5DiEJSuIU+a6Sz7lcaGOb0z68TUhcdgcweD4Rs2ViZSpQz6Ct48iQ4/mWmBDv6zVuIaWYEFW4j8dJDg8LDFHgjgGSMiQyMRdiPXiYbz7fhyjFs4JAEpHC+ms0giJn8pFXkBJ1bqb/OwkqpNIEVY8110FweHzmb9ddyfrlDcA4qLRQUoS8PR2P5D6zb1YrpopgYv9p1PI=;69719CSxJNfkMWII/PwqSA=="
 ---
 
