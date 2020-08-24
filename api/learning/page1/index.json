@@ -207,48 +207,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-build-simple-dashboard.md",
-      "title": "How to build a simple dashboard",
-      "excerpt": "Power BI helps business users and developers alike to easily analyze, visualize, and collaborate on data. This module will teach you how to do all of that without effecting your underlying dataset.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-build-simple-dashboard/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-simple-dashboard/",
-      "length": "PT24M",
-      "ratings": {
-        "count": 1969,
-        "average": 4.6927376
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 116,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/build-simple-dashboard-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "How to build a simple dashboard",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/radacad-combining-tables-in-power-bi-union-except-and-intersect-in-dax.md",
       "title": "Combining Tables in Power BI   Union Except and Intersect in DAX",
       "excerpt": "Power Query is often the engine used for combining data tables, especially using Merge or Append. However, sometimes, you might need to do that operation in DAX. An example of that is when you want to create that combination only virtually as part of a measure calculation that evaluates dynamically.",
@@ -315,42 +273,66 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-data-anomaly-search-using-iot-hub.md",
-      "title": "Identify anomalies by routing data via IoT Hub to a built-in ML model in Azure Stream Analytics",
-      "excerpt": "Learn about Azure IoT Hub message routing, and Stream Analytics anomaly detection. Start by creating an app that simulates issues with conveyor belt vibration. Then, use the Azure portal to route all the data for archiving in blob storage. Finish by routing the vibration data to anomaly detection, using a built-in ML model.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-data-anomaly-search-using-iot-hub/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-anomaly-detection-using-azure-iot-hub/",
-      "length": "PT1H6M",
-      "ratings": {
-        "count": 176,
-        "average": 4.590909
-      },
+      "path": "_learning/videos/learn-power-bi-power-bi-vs-current-crisis-challenges-opportunities-for-businesses-and-power-bi-professionals.md",
+      "title": "Power BI vs. Current Crisis: Challenges & Opportunities for Businesses and Power BI Professionals",
+      "excerpt": "Certainly the current crisis has affected businesses all over the world. But how can we reframe the current challenges and focus on opportunities. We would hear from Speakers ➔ Positive examples of what's still working ➔ Clients/Businesses that are still moving forward ➔ What Speakers are doing themselves",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-power-bi-vs-current-crisis-challenges-opportunities-for-businesses-and-power-bi-professionals/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-power-bi-vs-current-crisis-challenges-opportunities-for-businesses-and-power-bi-professionals/",
+      "originalUrl": "https://youtube.com/watch?v=HkU37TMOpt0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HkU37TMOpt0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H4M41S",
       "provider": {
-        "name": "Microsoft Learn",
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2020-06-12T10:40:52-07:00",
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/HkU37TMOpt0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-module-3-acquiring-access-power-bi-developer-in-a-day.md",
+      "title": "Module 3: Acquiring access | Power BI Developer in a Day",
+      "excerpt": "In this video, you’ll learn about token types and theory to acquire access and embed tokens. This is video 8 of 20.    The Power BI Developer in a Day online course empowers you as an app developer with the technical knowledge required to embed Power BI content. We recommend you watch the videos in the",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/microsoft-module-3-acquiring-access-power-bi-developer-in-a-day/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/microsoft-module-3-acquiring-access-power-bi-developer-in-a-day/",
+      "originalUrl": "https://youtube.com/watch?v=3dYCMTsDT3c",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3dYCMTsDT3c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M7S",
+      "provider": {
+        "name": "Microsoft",
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "levels": [
-        "Beginner"
-      ],
+      "publishedDateTime": "2020-06-01T13:34:41-07:00",
       "heat": 110,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/iot/iot-hub-conveyor-belt-vibration-detection-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Identify anomalies by routing data via IoT Hub to a built-in ML model in Azure Stream Analytics",
+          "url": "https://i.ytimg.com/vi/3dYCMTsDT3c/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],
-      "type": "course",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power BI"
@@ -745,8 +727,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 16827,
-        "average": 4.727462
+        "count": 16832,
+        "average": 4.727543
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1175,8 +1157,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 1784,
-        "average": 4.753924
+        "count": 1786,
+        "average": 4.7541995
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1358,8 +1340,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 12279,
-        "average": 4.6910987
+        "count": 12282,
+        "average": 4.6910925
       },
       "provider": {
         "name": "Microsoft Learn",
