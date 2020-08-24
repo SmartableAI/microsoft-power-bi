@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT1H44M
 ratings:
-  count: 172
-  average: 4.610465
+  count: 173
+  average: 4.6127167
 heat: 54
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Create data driven story with Power BI reports"
 
-secured: "wbueXFzo2edlTZaXm58hzJz4urfIkEpg4BVTZMwtVFB3iqPTep1MMSt5+Fayq/BtppIhbLfkLZg32CT1pUzPsq/ZEd3K5lj1DnQ0v/g72hEHc7NnI8zaseHAAqmJ6tYrSzcAdxEadfHHMGs5ZmmU9zswXgIuQF3UafL9jrTjoOURU0FU2vAjiAr04jMeuoDtOXfIUyPmHi5AmbMkIdt24W1EZGfNJ8OO6vLDQPmGbrBmgZ/wfymFb3Ed8H1gNJ76UUnk0wANJ6bia1jS18VyVrGSdxH0gRP55GtpamNw42nifGBdW7D6YoVIn9MY+0WHnMRGtIfKSKKvxlzlcmU96VKbkMw5mNIZaUsgt3n5p3XWjwsQYnKjfr9gI1ivgujHEgQj0xArrRvNhbE3JlimHA==;lfyADMJA6a5GAifJmsU55Q=="
+secured: "xC56awfpBVl9jeuoofLxvqi4KQjv8ZGcLZFdy1V1aWvTVmq3Xjy3dW1YOsDToqe7tiBxBcBScey2THGoQ3UVRLJ3gR3m1pCRxCA+VfhH5cBM4oFxagr9DzVaoNEbKdHfQvFgfYgcJ1reyXMdGsCFsIEzwhR8SD/XggUB9EHRex6HvDt2xd7b/SDPAGM6b6St7/1oZKD+bkIo/iItXxZ77S/kdQpiXfwq3RVfwHG9fRmXpjB42hucWOtRpfiDY5/hD4qWBx2XxMDl0MIzXwwQHTAMUpffg7q3D7acw2vRtvkYV6xCrtr/dJi9Q3FbdhGy7OQvrujCWSBqRWf1Ed3PSlEHXQ/Au+t1OkOCrhMqzZxKF11LfwRz5HQWmksjdP9x2FcgWmGs4IGX2J/AJ84G7w==;67IklDqMM2eGnObusm66qw=="
 ---
 
