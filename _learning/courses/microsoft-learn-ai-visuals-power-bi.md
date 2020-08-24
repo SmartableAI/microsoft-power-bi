@@ -8,7 +8,7 @@ length: PT1H1M
 ratings:
   count: 158
   average: 4.588608
-heat: 52
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Work with AI visuals"
 
-secured: "rcJ8fVN9uP4I8hH/cvPeUEmXXVfIi/cbn4AjVoe2M50ZFxwcHNodl11yYr9K2U3FSTDyBcZO7PBML6fldY5UZRyBkadco0rHOnCFFYLj5RvEzvWih1ZZDUVdbjo44cBwVkC/fy55QzHSeQM37RbDdFGm0Kc+iZjJOpmysRdVlq99fvF5ngZMEbgIEojlqmgErkYAiSQZf+v5BLeF+bGAIxnqZOoi7EbMRe8LF9imvk4qs7akobNyt9EB0MCO8udv9N3b6hZ/1bYIqXM+BDq8Sle2R0rjP4xod0gMhpqNUrOB/BX06x+IRatHRqRrSdhsz+r6laPym6u3gDHTTaoJnJpXqhZbmhF1c+te38nt4/XNwyyr6gCd6v8Hl7tFofudfbRYNB7FHeCfz9hpxodnXQ==;8ps0K0qnVLvPVTABZbNHwA=="
+secured: "JodTi35Sn8rbYZ/fJTQBWMnJ675LrI2OLaKnuGxBMCRHOHMzutNvN+awjBy7YTthdclnOG68O4rElRUwbEdDpsLNasSNPiuNcc07r4ipvtXrc0qmkEdqhGBzOHEh3HA7kJ82qazf9HGqUk0nsmGWyu6AoEPH5PRNZ566ZUeF9/rYIM0ZyzFQMf4EFWgv5ueIURzhrqLIHRdRY8U5buUlNO1O8n2xW0HccVjT4Z+hoZI5rseaEyA+havkQ91pCWNO+kl/w9c22lGNVTfy2hluqOqo9dcHfSqiANjIlVgqjs3hTc5I3Rvp4UB+VOYsMquYH+7Su+hoEK7W0DineH+GDr4dXMveqHRDcl/5Nv9Y/r2f6bs5iE52VBROD7UCLmoMoegdz5RUqGavM7p8MB1KJQ==;JACAjFXLv0I7lQ8bzGiUJg=="
 ---
 

@@ -8,7 +8,7 @@ length: PT23M
 ratings:
   count: 1779
   average: 4.753794
-heat: 84
+heat: 79
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Discover Data Analysis"
 
-secured: "XZiZLFGQhFfCrkkC++wMSWI+XLExRnYSGIgocsk7ebYCmips5ktgj3S5hkGcKJu9MSs4cJc73ie2bzQPqhKZtGvh+uImZUAD5gnXi56AOTRY0u9F2iYGD+xNNGZn/XyBDK4AwqjgtOo1vgG+B/qoiymqHg7gcVOwvO1w3phbeRIQ+lG4teSUWvLCsJKr8MsYHug1Nas8/6cWOoWzyIYwkeKf7MUTc1aLMkNDjPLfwFEfcxtzHKrN47JxsiRc+Wd36rK9cnryAOEOwEpoSo4+S7z5Uw6AFnU11at7amnhHooBJ5j63cGcL/izcpL3QEloQKQpMNaX6LzAU9QJ5UKQh+Er4GGKnPIl0BUIC9r4Qp5KCCdJ2ufL4OxGpRCrdWw670cLwpjjFHxZNNbnQuj29g==;+6agUyQrnIJa/yjpF1amcA=="
+secured: "yOKMzY8ouLZzHZALz2iK2W5uG6sXwVtClBBoCDr+TfShorOmMpO1DVT2I00tt0qtgYXkd+6tzDEKTD1Xhx0TRpJVLNW4lU23PG9FjBkYjNegjVJ3m9kT/p5/8oELr5yWov8uxv8S2lSq2NzkUD1hhrPIaxIC6KFOck4NSjSAh5O5TiUnIb6qvdo/cUL2U4JCeOaGKQqZuRf3efKMylZgQl2DtJx0HgC69q4amYGVuLcAC/qpv6XkxCCvEyYvU6VhoULPsIAef20P9anpc2YtIiQvPmozipGlMdNQQNVhoG2kUJvJ/aZva+hq5V2HMMruoDrMgyszvNS55rupxe6t2Op07zVCWgH4M+Byst7LVPB8BLvdWPEZ6/3mx6x5LpXOLUckP4frK5BotgTuuTVyeA==;H9CYJ48k1Gw62X/qgMXrnQ=="
 ---
 
