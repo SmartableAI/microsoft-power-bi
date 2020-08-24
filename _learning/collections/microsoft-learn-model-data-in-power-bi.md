@@ -22,6 +22,11 @@ items:
 levels:
   - Intermediate
 
+items:
+  - courses/microsoft-learn-design-model-power-bi
+  - courses/microsoft-learn-create-measures-dax-power-bi
+  - courses/microsoft-learn-optimize-model-power-bi
+
 topics:
   - Power BI
 

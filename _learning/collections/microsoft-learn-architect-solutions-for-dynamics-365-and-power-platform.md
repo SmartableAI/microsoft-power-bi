@@ -24,6 +24,13 @@ items:
 levels:
   - Advanced
 
+items:
+  - courses/microsoft-learn-becoming-solution-architect
+  - courses/microsoft-learn-discover-customer-needs
+  - courses/microsoft-learn-propose-solution
+  - courses/microsoft-learn-work-with-requirements
+  - courses/microsoft-learn-fit-gap-analysis
+
 topics:
   - Power BI
 

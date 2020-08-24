@@ -2,11 +2,20 @@
 title: "Power BI Skills that Everyone Should Learn"
 excerpt: "Master quick and easy tips to ensure you become the most efficient data analyst with Power BI"
 type: collection
-heat: 76
+heat: 150
 
 provider:
   name: Absent Data Channel
   domain: absentdata.com
+
+items:
+  - videos/absent-data-channel-conditional-columns-in-power-bi
+  - videos/absent-data-channel-split-and-merge-columns-in-power-bi
+  - videos/absent-data-channel-append-and-merge-tables-in-power-bi
+  - videos/absent-data-channel-create-a-power-bi-dashboard-in-10-minutes
+  - videos/absent-data-channel-how-to-get-round-corners-on-visuals-in-power-bi
+  - videos/absent-data-channel-change-the-font-across-all-visuals-in-a-power-bi
+  - videos/absent-data-channel-forecasting-in-power-bi
 
 items:
   - videos/absent-data-channel-conditional-columns-in-power-bi

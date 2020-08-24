@@ -2,11 +2,18 @@
 title: "DAX Studio Tutorials"
 excerpt: "DAX Studio is the tool for data model tuning."
 type: collection
-heat: 76
+heat: 78
 
 provider:
   name: Power BI Tips
   domain: powerbi.tips
+
+items:
+  - videos/power-bi-tips-powerbitips-tutorial-introduction-to-dax-studio-by-darren-gosbell
+  - videos/power-bi-tips-powerbitips-tutorial-model-performance-tuning-in-dax-studio-by-marco-russo
+  - videos/power-bi-tips-powerbitips-tutorial-dax-studio-full-features-review-by-darren-gosbell
+  - videos/power-bi-tips-powerbitips-tutorial-dax-studio-query-performance-tuning-by-marco-russo
+  - videos/power-bi-tips-powerbitips-tutorial-dax-studio-release-2111
 
 items:
   - videos/power-bi-tips-powerbitips-tutorial-introduction-to-dax-studio-by-darren-gosbell

@@ -21,6 +21,10 @@ items:
 levels:
   - Intermediate
 
+items:
+  - courses/microsoft-learn-data-analytics-microsoft
+  - courses/microsoft-learn-get-started-with-power-bi
+
 topics:
   - Power BI
 

@@ -22,6 +22,11 @@ items:
 levels:
   - Intermediate
 
+items:
+  - courses/microsoft-learn-create-manage-workspaces-power-bi
+  - courses/microsoft-learn-manage-datasets-power-bi
+  - courses/microsoft-learn-row-level-security-power-bi
+
 topics:
   - Power BI
 

@@ -21,6 +21,10 @@ items:
 levels:
   - Beginner
 
+items:
+  - courses/microsoft-learn-intro-to-power-bi-service
+  - courses/microsoft-learn-analyze-explore-data-power-bi
+
 topics:
   - Power BI
 

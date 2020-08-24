@@ -4,7 +4,7 @@ excerpt: "This learning path introduces Data Analysis Expressions (DAX) and prov
 type: collection
 price: Free
 length: PT2H4M
-heat: 78
+heat: 79
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,15 @@ items:
 
 levels:
   - Intermediate
+
+items:
+  - courses/microsoft-learn-dax-power-bi-models
+  - courses/microsoft-learn-dax-power-bi-write-formulas
+  - courses/microsoft-learn-dax-power-bi-add-calculated-tables
+  - courses/microsoft-learn-dax-power-bi-add-measures
+  - courses/microsoft-learn-dax-power-bi-iterator-functions
+  - courses/microsoft-learn-dax-power-bi-modify-filter
+  - courses/microsoft-learn-dax-power-bi-time-intelligence
 
 topics:
   - Power BI

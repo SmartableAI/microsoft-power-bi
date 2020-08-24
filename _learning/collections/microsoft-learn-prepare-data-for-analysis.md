@@ -21,6 +21,10 @@ items:
 levels:
   - Intermediate
 
+items:
+  - courses/microsoft-learn-get-data
+  - courses/microsoft-learn-clean-data-power-bi
+
 topics:
   - Power BI
 

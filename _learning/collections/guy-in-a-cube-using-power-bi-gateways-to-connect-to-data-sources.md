@@ -18,6 +18,12 @@ items:
   - videos/guy-in-a-cube-using-single-sign-on-with-the-power-bi-gateway
   - videos/guy-in-a-cube-power-bi-user-lookup-with-the-gateway-using-active-directory
 
+items:
+  - videos/guy-in-a-cube-get-started-with-the-power-bi-gateway
+  - videos/guy-in-a-cube-what-the-heck-is-a-power-bi-gateway-cluster
+  - videos/guy-in-a-cube-using-single-sign-on-with-the-power-bi-gateway
+  - videos/guy-in-a-cube-power-bi-user-lookup-with-the-gateway-using-active-directory
+
 topics:
   - Power BI
 

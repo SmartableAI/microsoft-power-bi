@@ -21,6 +21,10 @@ items:
 levels:
   - Intermediate
 
+items:
+  - courses/microsoft-learn-perform-analytics-power-bi
+  - courses/microsoft-learn-ai-visuals-power-bi
+
 topics:
   - Power BI
 

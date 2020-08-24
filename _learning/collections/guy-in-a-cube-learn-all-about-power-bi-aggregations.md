@@ -2,7 +2,7 @@
 title: "Learn all about Power BI Aggregations"
 excerpt: "Power BI aggregations are for more than just large data models! In this series, Patrick looks at the different aspects of Power BI aggregations."
 type: collection
-heat: 76
+heat: 79
 
 provider:
   name: Guy in a Cube
@@ -11,6 +11,13 @@ provider:
     - url: https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg
       width: 50
       height: 50
+
+items:
+  - videos/guy-in-a-cube-the-how-and-why-of-power-bi-aggregations
+  - videos/guy-in-a-cube-configure-power-bi-aggregations
+  - videos/guy-in-a-cube-why-cant-i-define-my-power-bi-aggregations
+  - videos/guy-in-a-cube-are-you-hitting-your-power-bi-aggregations
+  - videos/guy-in-a-cube-using-precedence-to-force-power-bi-aggregations
 
 items:
   - videos/guy-in-a-cube-the-how-and-why-of-power-bi-aggregations

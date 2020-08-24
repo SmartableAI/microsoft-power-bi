@@ -14,6 +14,12 @@ items:
   - videos/power-bi-tips-powerbitips-tutorial-best-practice-analyzer-in-tabular-editor
   - videos/power-bi-tips-powerbitips-tutorial-using-devops-in-tabular-editor
 
+items:
+  - videos/power-bi-tips-powerbitips-tutorial-intro-to-tabular-editor
+  - videos/power-bi-tips-powerbitips-tutorial-using-scripts-in-tabular-editor
+  - videos/power-bi-tips-powerbitips-tutorial-best-practice-analyzer-in-tabular-editor
+  - videos/power-bi-tips-powerbitips-tutorial-using-devops-in-tabular-editor
+
 topics:
   - Power BI
 

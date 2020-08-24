@@ -4,7 +4,7 @@ excerpt: "This learning path introduces you to Power BI, and teaches you to use 
 type: collection
 price: Free
 length: PT6H22M
-heat: 88
+heat: 112
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,14 @@ items:
 
 levels:
   - Beginner
+
+items:
+  - courses/microsoft-learn-get-started-with-power-bi
+  - courses/microsoft-learn-get-data-power-bi
+  - courses/microsoft-learn-model-data-power-bi
+  - courses/microsoft-learn-visuals-in-power-bi
+  - courses/microsoft-learn-explore-data-power-bi
+  - courses/microsoft-learn-publish-share-power-bi
 
 topics:
   - Power BI

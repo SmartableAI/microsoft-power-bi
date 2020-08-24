@@ -23,6 +23,12 @@ items:
 levels:
   - Intermediate
 
+items:
+  - courses/microsoft-learn-visuals-power-bi
+  - courses/microsoft-learn-data-driven-story-power-bi
+  - courses/microsoft-learn-create-dashboards-power-bi
+  - courses/microsoft-learn-create-paginated-reports-power-bi
+
 topics:
   - Power BI
 
