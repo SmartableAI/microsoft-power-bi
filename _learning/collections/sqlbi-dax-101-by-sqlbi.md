@@ -13,6 +13,7 @@ provider:
       height: 50
 
 items:
+  - videos/sqlbi-computing-totals-by-summing-visible-values-in-dax
   - videos/sqlbi-computing-a-running-total-in-dax
   - videos/sqlbi-creating-a-simple-date-table-in-power-bi
   - videos/sqlbi-disabling-auto-date-time-in-power-bi
@@ -20,8 +21,10 @@ items:
   - videos/sqlbi-using-userelationship-in-dax
   - videos/sqlbi-using-concatenatex-in-dax
   - videos/sqlbi-mark-as-date-table-in-power-bi
+  - videos/sqlbi-computing-totals-by-summing-visible-values-in-dax
 
 items:
+  - videos/sqlbi-computing-totals-by-summing-visible-values-in-dax
   - videos/sqlbi-computing-a-running-total-in-dax
   - videos/sqlbi-creating-a-simple-date-table-in-power-bi
   - videos/sqlbi-disabling-auto-date-time-in-power-bi
@@ -29,13 +32,14 @@ items:
   - videos/sqlbi-using-userelationship-in-dax
   - videos/sqlbi-using-concatenatex-in-dax
   - videos/sqlbi-mark-as-date-table-in-power-bi
+  - videos/sqlbi-computing-totals-by-summing-visible-values-in-dax
 
 topics:
   - Power BI
   - DAX
 
 images:
-  - url: https://i.ytimg.com/vi/4gf3eueRD_g/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/YtIdcCYnZ9w/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true
