@@ -2,7 +2,7 @@
 title: "Make Power BI Awesome with Python"
 excerpt: "Using Python with Power BI is a dream made in Heaven. Learn how to incorporate machine learning models into Python that will amaze your boss and solve real world problems"
 type: collection
-heat: 56
+heat: 68
 
 provider:
   name: Absent Data Channel
@@ -12,11 +12,13 @@ items:
   - videos/absent-data-channel-machine-learning-in-power-bi
   - videos/absent-data-channel-sentiment-analysis-in-power-bi
   - videos/absent-data-channel-sales-prediction-model-with-python-and-power-bi
+  - videos/absent-data-channel-machine-learning-anomaly-detection-with-python-and-power-bi
 
 items:
   - videos/absent-data-channel-machine-learning-in-power-bi
   - videos/absent-data-channel-sentiment-analysis-in-power-bi
   - videos/absent-data-channel-sales-prediction-model-with-python-and-power-bi
+  - videos/absent-data-channel-machine-learning-anomaly-detection-with-python-and-power-bi
 
 topics:
   - Power BI
