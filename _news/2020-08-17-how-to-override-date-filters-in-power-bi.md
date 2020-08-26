@@ -3,6 +3,7 @@ category: news
 title: "How to override Date Filters in Power BI"
 excerpt: "They wanted to display values for a specific period in the past based on the selected dates in the Power BI report. Let us assume that if we select 30 June 2020, the report has to display data from 01 July 2019 until 30 June 2020, which is data for the ..."
 publishedDateTime: 2020-08-17T01:59:00Z
+originalUrl: "https://www.sqlservercentral.com/articles/how-to-override-date-filters-in-power-bi"
 webUrl: "https://www.sqlservercentral.com/articles/how-to-override-date-filters-in-power-bi"
 type: article
 quality: 37

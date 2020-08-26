@@ -3,6 +3,7 @@ category: news
 title: "Release update for Sept 2020 release of Power BI Report Server"
 excerpt: "In October 2018, we committed to you three releases of Power BI Report Server each year, to be shipped in January, May, and September.  We did this to provide transparency around the release timing and allow customers to plan their upgrade cycles accordingly. "
 publishedDateTime: 2020-08-25T10:34:22Z
+originalUrl: "https://powerbi.microsoft.com/en-us/blog/release-update-for-sept-2020-release-of-power-bi-report-server/"
 webUrl: "https://powerbi.microsoft.com/en-us/blog/release-update-for-sept-2020-release-of-power-bi-report-server/"
 type: article
 quality: 87

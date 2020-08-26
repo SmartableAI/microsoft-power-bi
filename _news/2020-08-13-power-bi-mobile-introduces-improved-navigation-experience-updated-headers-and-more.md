@@ -3,6 +3,7 @@ category: news
 title: "Power BI Mobile introduces improved navigation experience, updated headers, and more"
 excerpt: "In March, Microsoft introduced a bunch of new features to Power BI Mobile, with emphasis on user control. Later in the same month, the tech giant unveiled a performance enhancement for the Power BI service, which soon after made its way to Mobile and ..."
 publishedDateTime: 2020-08-13T19:56:00Z
+originalUrl: "https://www.neowin.net/news/power-bi-mobile-introduces-improved-navigation-experience-updated-headers-and-more"
 webUrl: "https://www.neowin.net/news/power-bi-mobile-introduces-improved-navigation-experience-updated-headers-and-more"
 ampWebUrl: "https://www.neowin.net/amp/power-bi-mobile-introduces-improved-navigation-experience-updated-headers-and-more/"
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/power-bi-mobile-introduces-improved-navigation-experience-updated-headers-and-more/"

@@ -3,6 +3,7 @@ category: news
 title: "Power BI Desktop August update released - here's all that's new"
 excerpt: "With the latest round of updates being pushed to Power BI, a bunch of updated AppSource visuals have been highlighted, along with the introduction of new reporting, analytics, and further components."
 publishedDateTime: 2020-08-12T22:26:00Z
+originalUrl: "https://www.neowin.net/news/power-bi-desktop-august-update-released---heres-all-thats-new"
 webUrl: "https://www.neowin.net/news/power-bi-desktop-august-update-released---heres-all-thats-new"
 ampWebUrl: "https://www.neowin.net/amp/power-bi-desktop-august-update-released---heres-all-thats-new/"
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/power-bi-desktop-august-update-released---heres-all-thats-new/"

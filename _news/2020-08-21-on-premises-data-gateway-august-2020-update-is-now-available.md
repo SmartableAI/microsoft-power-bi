@@ -3,6 +3,7 @@ category: news
 title: "On-premises data gateway August 2020 update is now available"
 excerpt: "August Gateway release"
 publishedDateTime: 2020-08-21T10:27:24Z
+originalUrl: "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-august-2020-update-is-now-available/"
 webUrl: "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-august-2020-update-is-now-available/"
 type: article
 quality: 72

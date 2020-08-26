@@ -3,6 +3,7 @@ category: news
 title: "Power BI Desktop August 2020 Feature Summary"
 excerpt: "We have exciting updates this month! The updates include support for Perspectives in Personalize visuals, rectangular select for data points, dynamic formatting support to more visuals, Direct Query support for Q&#038;A, several new AppSource visuals, and more! Check out the full blog to learn more about"
 publishedDateTime: 2020-08-12T11:03:24Z
+originalUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-august-2020-feature-summary/"
 webUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-august-2020-feature-summary/"
 type: article
 quality: 87

@@ -3,6 +3,7 @@ category: news
 title: "July 2020 Community Highlights"
 excerpt: "Learn about the exciting things that happened in the Power BI Community in July."
 publishedDateTime: 2020-08-18T11:15:23Z
+originalUrl: "https://powerbi.microsoft.com/en-us/blog/july-2020-community-highlights/"
 webUrl: "https://powerbi.microsoft.com/en-us/blog/july-2020-community-highlights/"
 type: article
 quality: 72

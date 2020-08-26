@@ -3,6 +3,7 @@ category: news
 title: "AutoML now supports applying models in PQO Function Browser"
 excerpt: "Previously, AutoML models could only be applied to entities in the same dataflow.  With this new capability, users don&#8217;t need to be an owner of the dataflow that has the model.  They can use models created by others in the same workspace."
 publishedDateTime: 2020-08-21T05:00:00Z
+originalUrl: "https://powerbi.microsoft.com/en-us/blog/automl-now-supports-applying-models-in-pqo-function-browser/"
 webUrl: "https://powerbi.microsoft.com/en-us/blog/automl-now-supports-applying-models-in-pqo-function-browser/"
 type: article
 quality: 72

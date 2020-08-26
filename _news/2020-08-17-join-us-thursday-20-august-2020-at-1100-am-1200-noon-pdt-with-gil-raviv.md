@@ -3,6 +3,7 @@ category: news
 title: "Join us! Thursday 20 August, 2020 at 11:00 AM – 12:00  noon PDT with Gil Raviv!"
 excerpt: "We live in a changed world. As you stay safe at home, it’s time to power up your Power BI skills and join a walkthrough with Gil Raviv to build your own Power BI report that analyzes COVID-19 global spread."
 publishedDateTime: 2020-08-17T15:40:41Z
+originalUrl: "https://powerbi.microsoft.com/en-us/blog/join-us-thursday-20-august-2020-at-1100-am-1200-noon-pdt-with-gil-raviv/"
 webUrl: "https://powerbi.microsoft.com/en-us/blog/join-us-thursday-20-august-2020-at-1100-am-1200-noon-pdt-with-gil-raviv/"
 type: article
 quality: 68

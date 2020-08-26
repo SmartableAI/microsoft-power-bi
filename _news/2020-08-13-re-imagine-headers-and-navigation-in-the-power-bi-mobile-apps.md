@@ -3,6 +3,7 @@ category: news
 title: "Re-imagine headers and navigation in the Power BI Mobile apps"
 excerpt: "As Power BI becomes a key tool for decision makers, more and more content is being created and published for them. Being able to easily find that content, to navigate between related items, and to share relevant content with colleagues has become critical to making these users productive when using Power"
 publishedDateTime: 2020-08-13T03:27:38Z
+originalUrl: "https://powerbi.microsoft.com/en-us/blog/re-imagine-headers-and-navigation-in-the-power-bi-mobile-apps/"
 webUrl: "https://powerbi.microsoft.com/en-us/blog/re-imagine-headers-and-navigation-in-the-power-bi-mobile-apps/"
 type: article
 quality: 87

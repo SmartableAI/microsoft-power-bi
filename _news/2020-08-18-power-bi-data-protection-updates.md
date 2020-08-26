@@ -3,6 +3,7 @@ category: news
 title: "Power BI data protection updates"
 excerpt: "Recap of recent Power BI data protection features: Excel file to inherit the Power BI dataset&#8217;s MIP sensitivity label when using PivotTable connection , Sensitivity labels in embedded reports and dashboards – public preview and Label inheritance upon creation of new content"
 publishedDateTime: 2020-08-18T11:55:06Z
+originalUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-data-protection-updates/"
 webUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-data-protection-updates/"
 type: article
 quality: 87

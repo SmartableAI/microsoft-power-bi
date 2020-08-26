@@ -3,10 +3,13 @@ category: news
 title: "Power BI Mobile Receives New Navigation and Share Tools"
 excerpt: "Microsoft has updated its Power BI Mobile app on Apple’s iOS and Google’s Android, making several improvements to the service."
 publishedDateTime: 2020-08-14T14:27:00Z
+originalUrl: "https://winbuzzer.com/2020/08/14/power-bi-mobile-receives-new-navigation-and-share-tools-xcxwbn/"
 webUrl: "https://winbuzzer.com/2020/08/14/power-bi-mobile-receives-new-navigation-and-share-tools-xcxwbn/"
+ampWebUrl: "https://winbuzzer.com/2020/08/14/power-bi-mobile-receives-new-navigation-and-share-tools-xcxwbn/?amp"
+cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/08/14/power-bi-mobile-receives-new-navigation-and-share-tools-xcxwbn/?amp"
 type: article
-quality: 37
-heat: 37
+quality: 57
+heat: 57
 published: false
 
 provider:

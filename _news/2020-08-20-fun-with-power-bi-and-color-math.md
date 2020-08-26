@@ -3,6 +3,7 @@ category: news
 title: "Fun with Power BI and Color Math"
 excerpt: "I recently published my color contrast report in the Power BI Data Stories Gallery. It allows you to enter two hex color values and then see the color contrast ratio and get advice on how the two ..."
 publishedDateTime: 2020-08-20T10:00:00Z
+originalUrl: "https://www.sqlservercentral.com/blogs/fun-with-power-bi-and-color-math"
 webUrl: "https://www.sqlservercentral.com/blogs/fun-with-power-bi-and-color-math"
 type: article
 quality: 37

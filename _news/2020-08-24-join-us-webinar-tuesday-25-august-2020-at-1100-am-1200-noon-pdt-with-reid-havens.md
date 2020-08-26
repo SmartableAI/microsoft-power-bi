@@ -3,6 +3,7 @@ category: news
 title: "Join us! Webinar – Tuesday 25 August, 2020 at 11:00 AM – 12:00 noon PDT with Reid Havens!"
 excerpt: "Learn about reporting and formatting features to take your report to the next level!"
 publishedDateTime: 2020-08-24T19:37:33Z
+originalUrl: "https://powerbi.microsoft.com/en-us/blog/join-us-webinar-tuesday-25-august-2020-at-1100-am-1200-noon-pdt-with-reid-havens/"
 webUrl: "https://powerbi.microsoft.com/en-us/blog/join-us-webinar-tuesday-25-august-2020-at-1100-am-1200-noon-pdt-with-reid-havens/"
 type: article
 quality: 63

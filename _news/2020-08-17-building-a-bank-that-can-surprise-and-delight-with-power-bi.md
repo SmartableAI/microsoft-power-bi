@@ -3,6 +3,7 @@ category: news
 title: "Building A Bank that can Surprise and Delight with Power BI"
 excerpt: "When Metro Bank opened in London in 2010, it was a brash competitor in a seriously traditional industry. The vision is to redefine the relationship people have with their bank by innovating ..."
 publishedDateTime: 2020-08-17T16:13:00Z
+originalUrl: "https://www.techrepublic.com/resource-library/casestudies/building-a-bank-that-can-surprise-and-delight-with-power-bi/"
 webUrl: "https://www.techrepublic.com/resource-library/casestudies/building-a-bank-that-can-surprise-and-delight-with-power-bi/"
 ampWebUrl: "https://www.techrepublic.com/google-amp/resource-library/casestudies/building-a-bank-that-can-surprise-and-delight-with-power-bi/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/casestudies/building-a-bank-that-can-surprise-and-delight-with-power-bi/"
