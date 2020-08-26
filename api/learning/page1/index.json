@@ -42,111 +42,115 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-create-and-use-analytics-reports-with-power-bi.md",
-      "title": "Create and use analytics reports with Power BI",
-      "excerpt": "This learning path introduces you to Power BI, and teaches you to use and build business intelligence reports.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/collections/microsoft-learn-create-and-use-analytics-reports-with-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/collections/microsoft-learn-create-and-use-analytics-reports-with-power-bi/",
-      "length": "PT6H22M",
+      "path": "_learning/collections/sqlbi-dax-101-by-sqlbi.md",
+      "title": "DAX 101 by SQLBI",
+      "excerpt": "",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/collections/sqlbi-dax-101-by-sqlbi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/collections/sqlbi-dax-101-by-sqlbi/",
       "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
         "images": [
           {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/sqlbi.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "levels": [
-        "Beginner"
-      ],
       "topItems": [
         {
           "path": "",
-          "title": "Get started building with Power BI",
-          "excerpt": "Learn what Power BI is, including its building blocks and how they work together.",
-          "heat": 114,
-          "type": "course",
+          "title": "Computing totals by summing visible values in DAX",
+          "excerpt": "This video shows how to compute a measure that sums the values produced row by row in the visual into the visual total, instead of recomputing the total value in the filter context of the total. Article and download: https://sql.bi/89870",
+          "heat": 192,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/YtIdcCYnZ9w/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "type": "video",
           "topics": [
-            "Power BI"
+            "Power BI",
+            "DAX"
           ]
         },
         {
           "path": "",
-          "title": "Get data with Power BI Desktop",
-          "excerpt": "How can you find, collect, and clean data from different sources? Power BI is a tool for making sense of your data. You will learn tricks to make data-gathering easier.",
-          "heat": 77,
+          "title": "Computing a running total in DAX",
+          "excerpt": "This video shows how to compute a running total over a dimension, like for example the date. Article and download: https://sql.bi/79926",
+          "heat": 55,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/get-data-power-bi-desktop-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Get data with Power BI Desktop",
+              "url": "https://i.ytimg.com/vi/4gf3eueRD_g/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
               "isCached": true
             }
           ],
-          "type": "course",
+          "type": "video",
           "topics": [
-            "Power BI"
+            "Power BI",
+            "DAX"
           ]
         },
         {
           "path": "",
-          "title": "Model data in Power BI",
-          "excerpt": "Connect Power BI to multiple data sources to create reports. Define the relationship between your data sources.",
-          "heat": 122,
+          "title": "Creating a simple date table in Power BI",
+          "excerpt": "This video shows how to build a basic date table using a calculated table and DAX. Article and download: https://sql.bi/137725",
+          "heat": 53,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/model-data-with-power-bi-desktop-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Model data in Power BI",
+              "url": "https://i.ytimg.com/vi/-li7sxUxEqA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
               "isCached": true
             }
           ],
-          "type": "course",
+          "type": "video",
           "topics": [
-            "Power BI"
+            "Power BI",
+            "DAX"
           ]
         },
         {
           "path": "",
-          "title": "Use visuals in Power BI",
-          "excerpt": "Create and customize visuals to present data in compelling and insightful ways.",
-          "heat": 58,
+          "title": "Disabling auto date-time in Power BI",
+          "excerpt": "This video shows how to disable the date table automatically created by Power BI. Article and download: https://sql.bi/137706",
+          "heat": 110,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/create-visuals-power-bi-desktop-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Use visuals in Power BI",
+              "url": "https://i.ytimg.com/vi/xu3uDEHtCrg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
               "isCached": true
             }
           ],
-          "type": "course",
+          "type": "video",
           "topics": [
-            "Power BI"
+            "Power BI",
+            "DAX"
           ]
         }
       ],
-      "size": 6,
-      "heat": 136,
+      "size": 9,
+      "heat": 132,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/get-data-power-bi-desktop-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Get data with Power BI Desktop",
+          "url": "https://i.ytimg.com/vi/YtIdcCYnZ9w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "type": "collection",
-      "price": "Free",
       "topics": [
-        "Power BI"
+        "Power BI",
+        "DAX"
       ]
     },
     {
@@ -173,48 +177,6 @@
         }
       ],
       "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-model-data-power-bi.md",
-      "title": "Model data in Power BI",
-      "excerpt": "Connect Power BI to multiple data sources to create reports. Define the relationship between your data sources.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-model-data-power-bi/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
-      "length": "PT1H7M",
-      "ratings": {
-        "count": 4581,
-        "average": 4.7090154
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 122,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/model-data-with-power-bi-desktop-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Model data in Power BI",
-          "isCached": true
-        }
-      ],
-      "type": "course",
       "price": "Free",
       "topics": [
         "Power BI"
@@ -320,6 +282,48 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-create-paginated-reports-power-bi.md",
+      "title": "Create paginated reports  ",
+      "excerpt": "Paginated reports allow report developers to create Power BI artifacts that have tightly controlled rendering requirements. Paginated reports are ideal for creating sales invoices, receipts, purchase orders, and tabular data. This module will teach you how to create reports, add parameters, and work with tables and charts in paginated reports.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-create-paginated-reports-power-bi/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/",
+      "length": "PT60M",
+      "ratings": {
+        "count": 171,
+        "average": 4.7192984
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 114,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-paginated-reports-power-bi-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Create paginated reports  ",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-get-started-with-power-bi.md",
       "title": "Get started building with Power BI",
       "excerpt": "Learn what Power BI is, including its building blocks and how they work together.",
@@ -327,8 +331,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 17003,
-        "average": 4.727754
+        "count": 17005,
+        "average": 4.727786
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -391,127 +395,6 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-data-analysis-in-power-bi.md",
-      "title": "Data analysis in Power BI",
-      "excerpt": "Report authors can use additional features to enhance their reports for analytical insights in their data with features like Q&amp;A and exporting. In this module, you will closely examine your data and Power BI reports and then extract value with deeper analysis. Additionally, you will learn how to sort data and how to present the report in a cohesive manner. You will learn how to get a statistical summary for your data and export data from Power BI. You will also apply and perform advanced analytics on the report for deeper and more meaningful data insights.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/collections/microsoft-learn-data-analysis-in-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/collections/microsoft-learn-data-analysis-in-power-bi/",
-      "length": "PT1H52M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Perform analytics in Power BI ",
-          "excerpt": "You will learn how to use Power BI to perform data analytical functions, how to identify outliers in your data, how to group data together, and how to bin data for analysis. You will also learn how to perform time series analysis. Finally, you will work with advanced analytic features of Power BI, such as Quick Insights, AI Insights, and the Analyze feature.",
-          "heat": 113,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/perform-analytics-power-bi-social.png",
-              "width": 640,
-              "height": 320,
-              "title": "Perform analytics in Power BI ",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Work with AI visuals",
-          "excerpt": "This module outlines the AI capabilities of Power BI.",
-          "heat": 54,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/ai-visuals-power-bi-social.png",
-              "width": 640,
-              "height": 320,
-              "title": "Work with AI visuals",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Power BI"
-          ]
-        }
-      ],
-      "size": 2,
-      "heat": 113,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/perform-analytics-power-bi-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Perform analytics in Power BI ",
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-perform-analytics-power-bi.md",
-      "title": "Perform analytics in Power BI ",
-      "excerpt": "You will learn how to use Power BI to perform data analytical functions, how to identify outliers in your data, how to group data together, and how to bin data for analysis. You will also learn how to perform time series analysis. Finally, you will work with advanced analytic features of Power BI, such as Quick Insights, AI Insights, and the Analyze feature.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-perform-analytics-power-bi/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
-      "length": "PT51M",
-      "ratings": {
-        "count": 177,
-        "average": 4.59322
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 113,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/perform-analytics-power-bi-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Perform analytics in Power BI ",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-create-a-trial-tenant-to-explore-power-bi-administration.md",
       "title": "Create a trial tenant to explore Power BI Administration",
       "excerpt": "Want to explore or test Power BI administration settings? Adam shows you how to create your own Office 365 tenant to do just that - at NO COST!  📢🎓 Get notified about our upcoming Power BI Administration course: http://guyinacu.be/admincoursenotify2  📢 Become a member: https://guyinacu.be/membership",
@@ -546,6 +429,44 @@
       "price": "Free",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/sqlbi-disabling-auto-date-time-in-power-bi.md",
+      "title": "Disabling auto date-time in Power BI",
+      "excerpt": "This video shows how to disable the date table automatically created by Power BI. Article and download: https://sql.bi/137706",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/sqlbi-disabling-auto-date-time-in-power-bi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/sqlbi-disabling-auto-date-time-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=xu3uDEHtCrg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xu3uDEHtCrg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M51S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-06-16T08:30:13-07:00",
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xu3uDEHtCrg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
       ]
     },
     {
@@ -677,8 +598,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 1868,
-        "average": 4.7569594
+        "count": 1870,
+        "average": 4.7566843
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -824,6 +745,114 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-create-and-use-analytics-reports-with-power-bi.md",
+      "title": "Create and use analytics reports with Power BI",
+      "excerpt": "This learning path introduces you to Power BI, and teaches you to use and build business intelligence reports.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/collections/microsoft-learn-create-and-use-analytics-reports-with-power-bi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/collections/microsoft-learn-create-and-use-analytics-reports-with-power-bi/",
+      "length": "PT6H22M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Get started building with Power BI",
+          "excerpt": "Learn what Power BI is, including its building blocks and how they work together.",
+          "heat": 114,
+          "type": "course",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Get data with Power BI Desktop",
+          "excerpt": "How can you find, collect, and clean data from different sources? Power BI is a tool for making sense of your data. You will learn tricks to make data-gathering easier.",
+          "heat": 77,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/get-data-power-bi-desktop-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Get data with Power BI Desktop",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Model data in Power BI",
+          "excerpt": "Connect Power BI to multiple data sources to create reports. Define the relationship between your data sources.",
+          "heat": 62,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/model-data-with-power-bi-desktop-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Model data in Power BI",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Use visuals in Power BI",
+          "excerpt": "Create and customize visuals to present data in compelling and insightful ways.",
+          "heat": 58,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/create-visuals-power-bi-desktop-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Use visuals in Power BI",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Power BI"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": 92,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/get-data-power-bi-desktop-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Get data with Power BI Desktop",
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-introduction-power-platform.md",
       "title": "Introduction to Power Platform",
       "excerpt": "Learn about the components of Power Platform, the business value for customers, and security of the technology.",
@@ -831,8 +860,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform/",
       "length": "PT18M",
       "ratings": {
-        "count": 8194,
-        "average": 4.6945324
+        "count": 8198,
+        "average": 4.694316
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1080,8 +1109,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 12344,
-        "average": 4.6915913
+        "count": 12346,
+        "average": 4.691641
       },
       "provider": {
         "name": "Microsoft Learn",
