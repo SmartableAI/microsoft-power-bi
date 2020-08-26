@@ -4,5 +4,7 @@ name: Power Query
 parent: Power BI
 keywords:
   - power query
+hashtags:
+  - "#PowerQuery"
 services:
   learning: https://smartableai.github.io/microsoft-power-bi/api/learning/power-query/

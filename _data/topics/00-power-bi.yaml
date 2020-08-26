@@ -3,6 +3,8 @@ _id: power-bi
 name: Power BI
 keywords:
   - power bi
+hashtags:
+  - "#powerbi"
 services:
   learning: https://smartableai.github.io/microsoft-power-bi/api/learning/
   news: https://smartableai.github.io/microsoft-power-bi/api/news/

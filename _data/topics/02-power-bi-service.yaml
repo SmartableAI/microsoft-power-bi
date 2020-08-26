@@ -5,6 +5,8 @@ shortname: Service
 parent: Power BI
 keywords:
   - power bi service
+hashtags:
+  - "#PowerBIService"
 services:
   learning: https://smartableai.github.io/microsoft-power-bi/api/learning/power-bi-service/
   news: https://smartableai.github.io/microsoft-power-bi/api/news/power-bi-service/

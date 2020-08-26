@@ -5,6 +5,8 @@ shortname: Desktop
 parent: Power BI
 keywords:
   - power bi desktop
+hashtags:
+  - "#PowerBIDesktop"
 services:
   learning: https://smartableai.github.io/microsoft-power-bi/api/learning/power-bi-desktop/
   news: https://smartableai.github.io/microsoft-power-bi/api/news/power-bi-desktop/
