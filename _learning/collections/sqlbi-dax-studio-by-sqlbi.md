@@ -2,7 +2,7 @@
 title: "DAX Studio by SQLBI"
 excerpt: "Discover and learn how to use DAX Studio with this series."
 type: collection
-heat: 62
+heat: 133
 
 provider:
   name: SQLBI
