@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT1H4M
 ratings:
-  count: 2821
-  average: 4.7089686
+  count: 2823
+  average: 4.7091746
 heat: 57
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Publish and share in Power BI"
 
-secured: "5kYJSI1EGUtcO3jVp2foCr9ftDnxcMCPvPp42SwSOZTQwRUAURM2ZChI1ZlEG+GR1GrN5vU6kyXmTcOP/e6IALypuhhzz+xWTr5iwhE4s1+GFXmBSH9M2az7Z5Rk+g41bsJ9mmDoPKdFJmiaP1izKHm+MFLykXYztHQg9qLmaVf1GQW3muxhcKS3dQ1nFmjieV1yUeQbHCsqFMTRWAihmRps9f8+rDjUB6EcaTqIwoz5cMVlw+E8zUj3x13Dq+yLLadkG3MPo4Nt15N/lKZzCifbhX9RV/KkGeuCdSPbosOWijFLsHUyULFXtezCnp66yR46dT9Qxf5mTBUj/K0OiTo2hMBqxJPFHZ0EAspbXUIpdZeukRq9omZnm5EDHbkaI2dRxrrDuWEkskb8MUlulQ==;UyhD1R45gG8T+vi0uO/Udg=="
+secured: "btq2K9nKxQajjH891Or0/6x6FjsDs5zwhj+YvfMQQxEMfHjVdOMjl1nA0rMyY7A5NWtyfKbEL4fqoQVXpNujF2bWWSYxNxGL+O/i/cM6YI7eslMqcFEEcouRCaJeqhEnY28avCyCc3U7vNfZqS+ez18gqeY/wzvXMtgu5Ql8CNxEQIgZEMDypA3XJM754viN73yyUpdhVHvIB6tWY0+kM1ihU4ZOD6QdHLsrdy0T5MrEzTsyXDjie5AqdfHoEoj6SCiehqZtOsCTLV7WBvr2phH3bSEkURINETIwREwNUgJLLPnKPYyTkiyD30auguTWSYxkPZycgN77W5ZCbLa+w1w6hCCFN4wcZxAWh3JcHMmtAnmZIPq/G2o9s+vVbtzANr6PeOv/grBYYGtnEoTWlw==;zV3LTniHtiCn96QBPEODvw=="
 ---
 
