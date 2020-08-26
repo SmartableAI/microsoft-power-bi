@@ -8,7 +8,7 @@ length: PT9M
 ratings:
   count: 129
   average: 4.6821704
-heat: 52
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Implement row-level security"
 
-secured: "4t2eLwx9WtXngr04+Z8qRFkUJvXuAY6zzeGs67aohYDJWOixIdvwy8G/01MvJiMFTQeQSbMQIGCNGa7yVvpg1X976K/jRnhTcdUCggwac1YocGSIsPWUKQvOTBvCQ+xArDaAqyxe3QY7liupH68wmmpWFd9JyQTt/nlnNsfqM6lyOriT3JyVJROZEv+LpuzcX+lvrTh8/zGV6NVcXliLt5+ralNGlorLkxfagMWhLYcTof6VS2D3ca8MyrFJEgcGm1ttmoVkYYLO0Ho1mbko9LJZ9RPc3OWza8YtCz8dpKCySXF8huE5pRpcMMvqKsly2QlJ88BYq51M/CaTlySLkJreyjBSajeEbxLH+aHPzZCseYVc67a5ThireJNIDwH90eM6gBh4U0EuGNWBNifJ7Q==;xsGUa03Jd890TNtWz6KgNw=="
+secured: "njrPMK8HeIQt8qw60Qy/Sb2xGS2Qgvyzu3ZS95AZx0E3iYk5FTjQNJXyiST4o/0cfxwB+UFkKhANyM46n2NTwfMUfy1zJnO7jLw+IeTvluNGhndjilISC+Udu85ilwgjjTlM7Pzkjsda2xtAoNEk1Amc4MzrCGEGIvHx6Wb/ms6LuW0jiLyJUsbsyALW5c5kKMsN0Jrv8RBuBUqx09rJu1nNeaj063zbQe8dpLqtcImohBFO0SgnhtAkTmhTUDrAcnOEA2A8q+ZWuzyMLy7rVqCv+ibTR6RRWEsO70KeOeg/jHXONJKtWEsg6EP3cjtbMa8FSnAw7oocthSprFLhLWRZM0J7DEPZbGgyGbAcU+AxEdUE6mIm070Liy88txe3Sj9d+FaWL75KZ08MP+oXeA==;1NDd9tk9UbaPdwcimz/c3Q=="
 ---
 
