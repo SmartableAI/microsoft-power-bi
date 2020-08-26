@@ -3,6 +3,7 @@ category: news
 title: "Learn from customer Power BI migrations"
 excerpt: "One of the major factors for selecting Power BI as its business intelligence (BI) platform is its deep integration with Azure and Microsoft 365. In 2017, the company began using Power BI. The initial organizational objective was to introduce Power BI as an additional BI tool."
 publishedDateTime: 2020-08-25T11:55:00Z
+originalUrl: "https://docs.microsoft.com/en-us/power-bi/guidance/powerbi-migration-learn-from-customers"
 webUrl: "https://docs.microsoft.com/en-us/power-bi/guidance/powerbi-migration-learn-from-customers"
 type: article
 quality: 37
