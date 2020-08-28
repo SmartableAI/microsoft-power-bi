@@ -8,7 +8,7 @@ length: PT1H4M
 ratings:
   count: 2831
   average: 4.7096434
-heat: 57
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Publish and share in Power BI"
 
-secured: "btq2K9nKxQajjH891Or0/6x6FjsDs5zwhj+YvfMQQxEMfHjVdOMjl1nA0rMyY7A5NWtyfKbEL4fqoQVXpNujF2bWWSYxNxGL+O/i/cM6YI7eslMqcFEEcouRCaJeqhEnY28avCyCc3U7vNfZqS+ez18gqeY/wzvXMtgu5Ql8CNxEQIgZEMDypA3XJM754viN73yyUpdhVHvIB6tWY0+kM1ihU4ZOD6QdHLsrdy0T5MrEzTsyXDjie5AqdfHoEoj6SCiehqZtOsCTLV7WBvr2phH3bSEkURINETIwREwNUgJLLPnKPYyTkiyD30auguTWSYxkPZycgN77W5ZCbLa+w1w6hCCFN4wcZxAWh3JcHMmtAnmZIPq/G2o9s+vVbtzANr6PeOv/grBYYGtnEoTWlw==;zV3LTniHtiCn96QBPEODvw=="
+secured: "V1o6aGSV7jJnozRdHa4cmx3sE5hqcKLoPVy1ElyYinmbSRaPn/wAr8LV95ZK8xM6CHqBx/t6/uoIzZSBaBva/aBf7ZnDmH6+o/mjX4KK6JVwI63M4xf30zB6L+kwLRQCvx06QSTCheXef8k0yrlegB5XDEp5+GCdnWd19CfAob5tTyGYePzuUphA4rVLS4lcr1ID5Lulx8ih6LJK0Cmyw3Sls4YfdHm9PUe1OObiQ7MZnTzNc6/3ZJuzyfZ246M3ui1kXx9cNuayvGuumgylaP+Qaoji4pTeWboqWNdIft9MU2Z0+Rw+UU5lzX8GYK9Bn0NB8ORqAYGgXE4ecSMAygCewqibxGjm+JaeSMYCDQIzYdd776rHU5e99Ymin35BlMFfpx7yQ3QXhDaAViYO0fjUC0RtbuXdbFCfkIq0jms=;Ro0ZWf1ca75Pat7i3G0eGg=="
 ---
 
