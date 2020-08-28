@@ -2,6 +2,7 @@
 title: "REDUCE Power BI dataset size by 60% with ONE CHECKBOX???"
 excerpt: "What if I told you that you could potentially reduce your Power BI dataset size by up to 60-70% with ONE CHECKBOX??? This was crazy and we show you what is going on! (results will vary)  Download Sample: https://guyinacu.be/onecheckboxsample  DAX Studio: https://www.sqlbi.com/tools/dax-studio/  📢 Become"
 originalUrl: https://youtube.com/watch?v=RnDdDlozcdo
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-reduce-power-bi-dataset-size-by-60-with-one-checkbox/
 type: video
 price: Free
 length: PT7M49S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "sks6rkSI2mAs5FtpEmybFf2bmW2zlK2Hv7MRXRE2nvzp/jUVSUNR0s7IETyhHVpSO2qqa92ltdK9wxGfZfY4u5xyvCEl7N52eOokwD6/yneyd+2bgn0ixYJQ44ImGpFWOvptatEJe9vheomnVeSTXHB6nyg0pyyX8JbkSUAJgKvaY1fBbAkE7R4sbZDSDt9n4mkNNM87tyfiREtIZpXmhdwHrjYf1bCHtHNj9RXmKAJaZNnTBZC9tjR7qX+0DdstAw5fTXP0IKSgaDxLrnyl9wXT+DG9YPwLt3SCX2v+SnLFBGQF8qi0tW0hUpIqXa10fR64SExOBzfl7uo/GR36f81etalYK+TCSHwxxhGUyO42icAojpn6XjVuDjmfZIK1zrMi6COfRG2ySDL8JqiBlw==;tHqDm0NpMnkHwVx02N+FLw=="
+secured: "Yj0oeQBzymuGq52pQi98W+wOL/b7LSgxlMNgK0M5QBA6H2KJJB0iW6OfjDZkIY7ulJCBIRnwwlhTHboN+5NKvuvDI4RSAWZHPRQbA287qwnWHVsblU42bUdvkE4OyFwWlOQgue2YBgZv6avVF2NUVfbQ+fmb4yGmOp47sK307PyqaLtQtiSDJqnP9VVjVVZQMH0BcM8SusO7+v40P7al0DQLQ0nFvlkrmtSviTx8Ognu/Swl11ZfCFGD7jiy0lQjOOlYl5vMfsujuzQK6eLdGq5dpzXF5VtM7NaCfoEpuATqUdUDb37QIK6aqEnLj5WJQsYmuHjx4ylFitddI9ssRpBSA/kv9TaAFl11FIEtGK8YuD0S/i1Sgzr4sDZPViY2NV0mCuA0ThvCctMAKvFWXQ==;tHldYZXo+rggRzhFs8BXHw=="
 ---
 
