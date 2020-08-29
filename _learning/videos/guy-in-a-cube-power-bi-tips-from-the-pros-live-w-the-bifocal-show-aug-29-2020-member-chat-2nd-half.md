@@ -2,6 +2,7 @@
 title: "🔴 Power BI tips from the Pros - LIVE w/ The BIFocal Show (Aug 29, 2020) (Member Chat 2nd Half)"
 excerpt: "Join us live as we answer your questions about Power BI! With special guest, Jason Himmelstein and John White from The BIFocal Show podcast!  Connect with Jason and John: Twitter: https://twitter.com/jasehimm Twitter: https://twitter.com/diverdown1964 Twitter: https://twitter.com/BIFocalShow Website:"
 originalUrl: https://youtube.com/watch?v=S2DfcyCnHx0
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-power-bi-tips-from-the-pros-live-w-the-bifocal-show-aug-29-2020-member-chat-2nd-half/
 type: video
 price: Free
 length: PT1H13M18S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "pIBVK/IWAt+PRjnIQIwBHNWj77c2pztYgCRSBcUIQ3rI1iHLA0kFkmDS/Iw5lHJd3qonz6J0NHEfXg74qi7M34U55BYtGL/bBEffHW8weYgfC7lxsKtjeAGj+4YJNWNG7x6Rdt5wIjlxU3r7zkXqpomkRCyTuP/Xa4qEF4LYWxczuYcw65EoRDcM6qG+QJO6gZfwypVwcFbfZlAjITfBgINFhgjGRDY3HAXaAoCsdNl1IPKrzYIYLk9oAT0ECZVqJ95zJw0Okzif3YSrMY3T+WSf0c1dEQOLyR0vJn8pM5UKIci93ah8gMXPxIycoqihJZ7e9AZrHw5HLBEqdYlXojSMH7mH6e59U1bfVQMnE9PczpiXYu7j1Q/VvomAGLrvRkgJvhU0uqC5HDgb4pjzOw==;gYyyDEMor+NlMn1OQSxQ7w=="
+secured: "fCf7OaHVDjYA8iYgUtTH+vqqQur+nKjwhrg77fvGHufB5oxaRcBAbtWyTMIbUhQe6a7cQ9CiYUB9n0rWXdoWb6QTjPJAcNVxBXjhibEtXsrqaUJqY6Zbr5mGZV8xzWg410ZhSd8zHKt3XaXLWUI9CE6WB+zdllKhRqdwEHFoohdf6ks4ook+eRviJXkMLWlqUCMAjmh8R38iUab+JiKHGOMhqu6Nr/zsPFjnhuYQ7NpnKDZ35qnUMAriIB38uChry3q4bZIzirzco9us2/IUcBzs9asEiq4J0m1/wECmUur2NlOk/vYKVnn30JyDYQk0px/pv/dlTxRkaitoOhOdCLfefdKAvpTVBX7mCYWTdZpKPrmaisDusc91sdyhf9VSgi9xUJKcTdJe+Csao/udyQ==;i5c37kVGF+/uBODfUpQL2Q=="
 ---
 
