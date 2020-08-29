@@ -8,7 +8,7 @@ length: PT43M
 ratings:
   count: 352
   average: 4.7670455
-heat: 60
+heat: 58
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Optimize a model for performance in Power BI "
 
-secured: "LNrnJbHOLvi1LtbbnxqLT5hWewTrfL//XFGKO+uf8JJtvvtwsV8ObhTiuwp3W19ivhxlZps0STqlnI/VyiDjkm0zWTGOJpDNrE2DKvdIAzLSIpj996AWDJrtDvnYoqsQDo/swj3IYdIlL8DL0bSmO/8e+iUeD2QNcUERgX8vavz82CA/wqBBt/BkCf348pnB0LGbGWm08X+Ikq4SCbjx74wakag7AYxDY4dh/eOU5Qf0tAy3ywkvi2ZiuN6+0zUu1N7706FnugtdoIwAyDgrNkoNJKerHObTlmY3HWA0gxY4M93CsVCvZWrKd8MEa14wYu5X81do6kgJoFaHdYRchGydy/+1ZP2t8Khx+pMf/9bDK8D1YXRJdRVFDkx0x0T0jx2j0S/JNuFprX+O+UC91P4QYkScM8Yj/aGMmbiZDAA=;YH8CnFzP6NvXVOkcBb/1KQ=="
+secured: "ToAm6a7k28g4N6d9Q5K/gZEt983f2gVt/F75FKoNaiFNDHQGT8TkizLSxr3T57ruq4ogCO8qgn6X78pe53r71OpE82eN78mNIYH+LxoLiQdWzwulgUUWwPYxhUS1mcETNFgrgVN76M8qon/XHxmR2RGd5k7gCJS/CDrfGH5pf4A/pRcK1O1A96VM7OGMEKgBWBItPP7j5BWXwZ+QSgEApaAtL03LfykGNr/jW/lvHv/4Kjdp6R9O2RzpqXm+7RTilWedjuh7jTxmKgRdOJ7FjBgeDWOqHOsdSQ/Zb+QhBSlMtznGhinUeRlPyotx8Zh00Tgae0yDHIAZRAVkZKOG1pGM3vACEhUps+if7pmPtnXhW1ckm6YAVmt+vU5YwzeaBcuJndRRWrToDeKTp/luMbsZYy9tTW1TCuK0X7bnSmA=;wkChRvwLM5EnlDIySOXY/g=="
 ---
 
