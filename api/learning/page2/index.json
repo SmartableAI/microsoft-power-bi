@@ -172,8 +172,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 807,
-        "average": 4.74969
+        "count": 808,
+        "average": 4.7487626
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1204,7 +1204,7 @@
           "path": "",
           "title": "Year over Year and Month over Month Calculations in Power BI",
           "excerpt": "Learn how to quickly produce time intelligence calcution in Power BI using these easy to follow DAX equations. Elevate your time series analysis.",
-          "heat": 54,
+          "heat": 114,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/80i8rLQtO3o/hqdefault.jpg",
