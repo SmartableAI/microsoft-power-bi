@@ -264,8 +264,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 626,
-        "average": 4.7587857
+        "count": 627,
+        "average": 4.7591705
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -602,7 +602,7 @@
           "path": "",
           "title": "Welcome and Course Introduction | Power BI Developer in a Day",
           "excerpt": "In this video, Peter Myers (Microsoft Most Valued Professional - Data Platform, and course developer), Sergei Gundorov (Principal Program Manager), and Amit Shuster (Product Manager) welcome and introduce you to the course. This is video 1 of 20.    The Power BI Developer in a Day online course empowers you as an",
-          "heat": 60,
+          "heat": 120,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/dv-ep90wse8/hqdefault.jpg",
@@ -1697,8 +1697,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 6328,
-        "average": 4.665613
+        "count": 6329,
+        "average": 4.665666
       },
       "provider": {
         "name": "Microsoft Learn",
