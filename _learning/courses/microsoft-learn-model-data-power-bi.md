@@ -8,7 +8,7 @@ length: PT1H7M
 ratings:
   count: 4614
   average: 4.7080626
-heat: 58
+heat: 61
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Model data in Power BI"
 
-secured: "kaybRxHeSLxbaCMA3JCms6BMPP/NB4+MiRCp/9agwRcfKP65evDOmx7BEhyaaLDXhEy/TKXVotCskvgTllDZ0l6OoyvrYrdfGrhko3kTF39XMeQ7JrpWtPss1o/H73WbMHpM9iHFuq/KB6PQNcHtL6wTVYO+azI9Sy4sEBmzffQypov7rkVapxEHXeKs2TmJgkqajSxAoUWt+ogF28C1XyNu6p9tg0SFhu04X7EnzyA51ByJdGq3i99dzzyh638BrhpCxg+bqCnhSIGuuSDNHR2H0iB0zljaBeRFC0xh/Bk1Y9v9BzkZpIZNRD96lK4zw1dgfHyc1So8EiPw/OmErlT8PKUuK0Ia3439pz2xIlzEMNKA+t3QAtos+u55M8JaOU0IAnhPDZVRsGYbURfiJ1VKJFu3Fb3ytuGer4T/s18=;Yz1KrjKmilZ1uSvSh+oh+Q=="
+secured: "71r5AEqwyxW4acOSV7A4qzvgJm/t4f7cjryXxbUZrTWZP5WzWgRL3bnTVClS7KA+CMYtPpD4NGyJ1Yab0buQlS+QPwLUmb2/3KMAPtqtKansopXWkfYYa9OFLkLWHZOU5V639l20fAN5yAnraxvxQsWwoRjeT1lILOVVend9/HoRt+vBz0/iXRHcJfaYruPbr+yuPR6FE9D73mjdrwaGx/HQmUuMtkU2FSXX6375GCJaNPMRfubMMu1Vt0FV9MTSCEJBDPZ1I/RXi4XanqpWv5d5FPZmqt188PXgsiyFsbAelRpfg7atYVmE7CUxpPDdJ/FXVfxwx5pWxfTdt/qieRHk6Fixdr0g3fFwAqz3O2jZ24RpHQ32OpQihFLSiCBNBQ4dD1xWTDgAfTEZUFWhjHu9Kk1C6AIwlIw/RxVqC6k=;ydapfQwPEbI0xoJrQnnVFg=="
 ---
 
