@@ -3,6 +3,7 @@ category: news
 title: "Power BI Monthly Digest – August 2020"
 excerpt: "In this month’s Power BI Digest Matt and I will again guide you through some of the latest and greatest Power BI updates this month. In our August 2020 edition we highlighted the following ..."
 publishedDateTime: 2020-08-14T22:44:00Z
+originalUrl: "https://www.sqlservercentral.com/blogs/power-bi-monthly-digest-august-2020"
 webUrl: "https://www.sqlservercentral.com/blogs/power-bi-monthly-digest-august-2020"
 type: article
 quality: 37
