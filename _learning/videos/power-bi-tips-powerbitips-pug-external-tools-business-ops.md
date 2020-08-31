@@ -2,6 +2,7 @@
 title: "PowerBI.tips - PUG - External Tools & Business Ops"
 excerpt: "This month Mike and Seth go through the external tools functionality of Power BI desktop.  Additionally, we are introduced to the Amazing Business Ops tool which helps users add External tools into Power BI desktop.   Download Business Ops: https://powerbi.tips/product/business-ops-beta/"
 originalUrl: https://youtube.com/watch?v=QBK-qtSEBiQ
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/power-bi-tips-powerbitips-pug-external-tools-business-ops/
 type: video
 price: Free
 length: PT55M14S
@@ -23,6 +24,6 @@ images:
     height: 360
     isCached: true
 
-secured: "Na6fOXUnQFusmuiwKdHjo5wdimnI71Mt0o9t0F3lOCR/fUk4KUg3TnqtzA4tAYuJEa7QcsScn3wHjvOKZcsU+TQtqSf0ARMuNJ3fNSOhquyNoUgslqS9V3a69x40/r0dCbYMuFwedf74xK2qK/Skz4Tn+u7MTtMguoHYqpjnRxO3/DGKMlF4Cny1yasfuw9Is+ECYXpefnF3UxWYfR93PHAB2Y96EynmQM9sm1RRQ8M+WO93IokTxuMBR9vMXhBCdhwjhSz2t04Qyal+5rzGHc+1vhZOEIDCJSJnaBYlWVQE0bxfLY37U59LeYEbWYGnLGKRUAR1gcpeGUz1Xl3Or0gBsrusfy1FuQUXTnSt+ZcDD8QFFWquWI1qhKxc7tu1Ggcthh0ufgELTSjcs/8Byw==;YvgQRaqxdFArdFflmGX6fg=="
+secured: "adIbX6nvo1bZ1qnr8fGmooR5H3g/aJpa3Wmevuv7JmgHK9IMSSbGBGqqIJ5siUZmM4X+XvNdt6H4yxKincqc70DjlsjH1KfLolhucC94HuaRNyWdZaBV1T1IGYdWVg40/XYsbvHaRh/skfFMiqhE39QLGzwwTvmbnCTUMX7S2XmRqnWBb/ciN+yaAR4rlSaNSZk/uLTmkzZl1tXWBVgHZpqcUBxqYRFH8NA1rk3RyL45RNqgtggH+O7u87NYKPeAfcYhwtU0yQXlNJl02AIYiH2NS3z/8aie7N5PrDlFQ5qwa9Ey6dXMCTWGlZpHVaH59wEzhBGJ6PDe6ddIdOWM9fQMKoILp5tRYVtMwi+cM2DfBAg9sbz/zZfDPyQsqVbR;GcYFStpGrdiUSi3JiynCKw=="
 ---
 

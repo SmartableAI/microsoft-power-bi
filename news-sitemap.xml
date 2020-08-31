@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://smartable.ai/apps/powerbi/news/2020-08-31-power-bi-in-excel-updates-and-more-roundup-aug-31-2020/</loc>
+    <lastmod>2020-08-31T08:00:16-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://powerbi.microsoft.com/en-us/blog/release-update-for-sept-2020-release-of-power-bi-report-server/</loc>
     <lastmod>2020-08-25T03:34:22-07:00</lastmod>
     <changefreq>hourly</changefreq>
