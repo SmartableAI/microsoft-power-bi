@@ -21,6 +21,8 @@ items:
   - videos/power-bi-tips-powerbitips-tutorial-using-devops-in-tabular-editor
   - videos/power-bi-tips-powerbitips-tutorial-monkey-tool-introduction-part-1
   - videos/power-bi-tips-powerbitips-tutorial-monkey-tool-introduction-part-2
+  - videos/power-bi-tips-powerbitips-pug-external-tools-business-ops
+  - videos/power-bi-tips-powerbitips-hot-swap-connections-webinar
 
 items:
   - videos/power-bi-tips-powerbitips-tutorial-alm-toolkit-with-christian-wade
@@ -35,6 +37,8 @@ items:
   - videos/power-bi-tips-powerbitips-tutorial-using-devops-in-tabular-editor
   - videos/power-bi-tips-powerbitips-tutorial-monkey-tool-introduction-part-1
   - videos/power-bi-tips-powerbitips-tutorial-monkey-tool-introduction-part-2
+  - videos/power-bi-tips-powerbitips-pug-external-tools-business-ops
+  - videos/power-bi-tips-powerbitips-hot-swap-connections-webinar
 
 topics:
   - Power BI
