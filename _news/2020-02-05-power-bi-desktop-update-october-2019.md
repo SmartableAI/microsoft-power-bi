@@ -30,6 +30,6 @@ images:
     isCached: true
     title: "Power BI Desktop Update - October 2019"
 
-secured: "6swhdnFnf+969ADsrl0ePeiltAkSyTkL96OmbbONQ30+0Yv7j8xTl/8WUNUT6EkFPzwNmN6tIy/+7x20qYFTqXrVSGiOB9/QbEg2kWpGFtNFCz9sNsjYRmgodi+oe36CUa+Gy2icIv6/Q1Up5kkTCfUwKM7Jlf6P/HiYot86I8vb9Q0tsfrTrb3tULWFLa9GQvN6cDfIfareOlSxV1FEN4VirsEFNj/Gs/DWS+VyjFuje4boQss99JH+QWhl+/w2dkygyKdHcX2ICbasiz/oMppbSd+KbH6OTX2lFPWlHg8Eoy872rlmY6kY48g8iEyObqeCMG+cT/PlAgaHhDFRsQ==;E6BplFpOdHiJ93nCa9KVjQ=="
+secured: "FfQZcdqa4UmBroAwLSsTF7Y3Uf7UmrTEAtzUl/Ymug9mpt1SbV4d/1xA1CXxIlsqexRivjAOlwTrcm9J3MHTeE8Zgw4x+NODcf0DVDv3LvXUTlScj+BarGV/pomhOoC/dvXL6bTtUkX11imn4HL5mLE7FLASVDWlX+pln2WQnNu0KTphurDodiNpMTdoaAvcwEswgEtBLYjEIOCD5WziEh9xyUCsooLxsJoBgFCiYxaMLHjS9cFN6Uk5ZisztjXrlGsMsVxemEoz90LF/5dJCcXpvgEQV7TCGj6KR9TbJ5Lvyy2IK73V/0xWU+n/bGQu8I9RxgqS8BAAxTnNhU00JByzTeyoc4fO/uvjRq4+Rejnwn5KQVbJ25+1x3xpDtDSjePiTATQ9ezsfGSlJdNCdg==;fsLXTphQvmWL3bR/zh/gqw=="
 ---
 
