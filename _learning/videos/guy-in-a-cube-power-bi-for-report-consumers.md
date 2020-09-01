@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT7M40S
 publishedDateTime: 2018-09-04T16:08:58Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FMcnf5WU0x8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Power BI For Report Consumers"
 
-secured: "iWzgmR3fq0FTrZPdAkXoWTR/q010NqN6OCSE/1ee1KRO8d7k31aaOT+3DWaHgQSQ/xMPxlG4Yqsf6aN7hQw+Jbpz2vL6ybYckjO0xbwbZrTK2PlyyDx9RQbmOQUueNUBaseSZiRSp6Kkzaoc21ZgLmHkKBnRUhxQxosCHKLTAZfpRGn7yyoKsq8mp+8BM5LX3/4IFxytW8BUB0CwY2FarYLS4WWo0ucaXi6Bpoq1VKxTHP+xiEGKyFmLspr5dQ1T55rnc/0TLkJBTBVWP9r1TyANoY7L3NYWr1rwVOGaEVNaWulQNI3eJeX2qtNELr9jrFflwO+Vtb/KcxlDvrn63MgmaxD7JL+OZjk/93VkH6Wd7xExoS1phSgW6BpyNUyzHt2o7DF5wVxLRQv/2wQb6qh5+gPSyUIcVh37E3idxk4=;yiEU47YX6/P2LDH2goflfw=="
+secured: "iCHyU6yjT/X6aAPhHRasL2MI7q6sx1crUtMYdxr+L4TgFm9t19ZAeYoBaIj/oMnR4kqXjpKMcEWUzs4Rtho08cM6opZ9JigsANIyc82xP/1a9XBhKYyZo/RDV47DqJNIJqQ5HXdaErdOsk+DbmRUJK2uyp+hdIUxods1aM2KpS9Uaez9qdvx+dl/F5STY+khR89Qi5WyCoiQvMCqob7bej7w6/dp3jNjwgRq4yedf2ghad7yfZVN5ZRJsfIGa2qFg3owogFtOvcPr5OswujjPMmjCiLHQzOksI68HY17QA2ij5B8xuip8+kZ79hCqlMB53mSERyI097tvFYJzTnc01l2/WY3kkagVZHMwJUiV/jRKlAGzYUUVWaDYsH/RqcOOAHKpIxQkm9TgaeQ8YrCQxVdMFhm+jHS6dCXuEArhgc=;+iS9U2OShMvFm3O6PlYvRQ=="
 ---
 

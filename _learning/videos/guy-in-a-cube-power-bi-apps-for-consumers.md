@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT6M55S
 publishedDateTime: 2019-08-11T11:58:47Z
-heat: 54
+heat: 57
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lcGoWfXLRpc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Power BI Apps for Consumers"
 
-secured: "oWcUcAkcg9TwXgMTaqP/3mwO11cI4sGio6dkVdIzl2KSN6A4Yb9cuScxg8y5oVbqAkyfiBIofodygjfAiAVPoeVrQ2Gon9yobOSortT+DKr1jUg/Eh4fvQooT7NHEWi+xtB+DOmR0TwJXCF7TY1pzWVsR42Oi1rL0cxeSs7Oo6SecwFqT7sx4cp8dIXuUc3JJ5XXADY6MOehmUHEUxfl2Ppm0dFquWGgLPWN0AFoOFRxqOHILwup/yH3Q9SDGUsp8pbiHwhY8cLl+bQ5VBfCFlzxY6ASNXJ+7NmWM4wGmDRV68p9MGVQDdAD69mrfDOILiImKrKST5vFHxhKDXUGr8W5RGHr2SHDDSf/ke3LJ5XTf1+Hp47AZN3ai4sE4BfoZ0Mo8wlgbsZ3NWvNOeARQMNtMmP3ss3JSm+kWwt9pVw=;cLItNniBX6lWPvPDexJdqQ=="
+secured: "9SCw6D3/ni2S9iVnsrMveGLr8129w+8ZAPqdxkdLJVsn2Zd2bN6rzazvfnAkGOkfSvJEomG4nMG/pj+ByvGPZFJOY99DVchS2tFFN3WvVAqsKOY11/+sxnO4mVHdcDHCFhKimee+7+Iw3cPc/JrKBNHngndQpYAdIWDOqDPf7S1MzQVicOoasL3IJ26gfpolcpErTOp1dbw8dArtCPzEuJZSYUncJ9GL/I4hEO3il6Q1PQFTWiU8d4fS4YLY580FbknC4yh+GMqywEt3I5nhLkPTYTrah2i7bMH4Nz2YYTbFPaHQDVq5+ac1vFozTRMFqmGLd6nsFI6P2bI8JkIwvYeK22ntLiXdixki+cdWEK0wfnyBHmjnCBkGBGQqkU3NJaFlQMg+/uTk2sAHdgz6sAQTcVZfrM8ZHl1bA0q0XAw=;TSBeW9wKAk3aoNvMHsbORA=="
 ---
 
