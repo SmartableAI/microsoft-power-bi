@@ -2,6 +2,7 @@
 title: "A different perspective with Power BI Personalized Visuals"
 excerpt: "Struggling with Power BI personalized visuals? Patrick has a different perspective for you that may help with a better user experience.  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next level? We have training courses available"
 originalUrl: https://youtube.com/watch?v=20HwiEhIShc
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-a-different-perspective-with-power-bi-personalized-visuals/
 type: video
 price: Free
 length: PT11M25S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "jU7HhTf5AIx2iwRcg6mm+HlNuvb9o/DP368JDhyCvNSM6eGJ4TJDoAneNjWCYqvnV6DeJwIpNyXj8NSWju7PsP43d7vT6atkHQE1AX9lNZwIhdRyuNaYlhi/+4eUOlkbzwEaIIPqYadUSod82BLrzmROGdyKfP/5BRwYiwlrX3oE1PibOb1/W5RN37ZhHazjTuYg8Krrg8JF7Vlr2/7E1jcMP0SFP0s9I4wdrtmmSAKleGL40AGFuqRkNkNNp37tVAd42gcYNsVBxgc37rOxAY9iZNIclKbgo3ZDRpkARLy4n1EpnyNj3WY9/8Zil0I8LEJzMKOuQmend2qqJFYETe1bdzkvbc71jle2KwIe5z68Bosxvcdph4FZpKpCQmEu7Nco60ePf3Wi0z/HZeye0A==;+GUlzQDIsbmYN76dwkin5w=="
+secured: "RRoill+u28RV7DY5w2HXD4orqsP/BDTbNGH3Min9hHSEXGkNzY53Pl59AA6zlcUxOMReAmyjwoE+VigNY9a2zTsSY30g8Ui4psu8EjbTaX1akVu2LOMMnL7xxK3SVZmTXvzVkNf21U9FudrF+7hAfy4Am4Vz2ThAeAAJoxaKTVtzZP9eCdhJ+5uMSoWZyQauhBPs6DxxY3Huy8zUAohDC2KjsukgY4FMoyvnsxEIGeLzw0WFE+tFKceetLjPUEF5yG4mSaNhMPVmFo02Zm3byQIvTSSODoka4IJnWCDlBOxZusExSRqfbJ97LwCI/0FOZWhXb/LsD3b80uqBwspchLuCgLRh0XttXbsmAijmNzkWR8+D2FmzbKlvNz30dCPHRLY4r4hoBUtw6ES+i0GXCQ==;+IE8ejRXMqVKaPXud/9snA=="
 ---
 
