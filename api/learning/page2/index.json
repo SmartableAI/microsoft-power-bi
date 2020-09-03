@@ -118,8 +118,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 856,
-        "average": 4.75
+        "count": 858,
+        "average": 4.7505827
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -235,8 +235,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 684,
-        "average": 4.754386
+        "count": 686,
+        "average": 4.755102
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1270,8 +1270,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 6371,
-        "average": 4.6663003
+        "count": 6372,
+        "average": 4.6663527
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1303,8 +1303,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 4651,
-        "average": 4.708235
+        "count": 4652,
+        "average": 4.7082977
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1568,7 +1568,7 @@
           "path": "",
           "title": "Append and Merge Tables in Power BI",
           "excerpt": "Learn how to quickly merge and append tables using the query editior in Power BI. Build models with multiple data sources. Contact me on LinkedIn: www.linkedin.com/in/gaelimholland",
-          "heat": 122,
+          "heat": 62,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/CW-Er8slv9k/hqdefault.jpg",
