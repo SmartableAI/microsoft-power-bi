@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT23M
 ratings:
-  count: 2158
-  average: 4.7594995
-heat: 89
+  count: 2162
+  average: 4.759482
+heat: 85
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Discover Data Analysis"
 
-secured: "Xg1J0yAH9nCfRNwgLSgE1fayICquRwN1nZZ6HZex26nguGotSEEwb/uDS5zFkEwS7+xeqzfGJlstTgBnM+nZtYpoBO7bCH/MKWo22Eizg7y+zdajlg1V7CxLLoFoeMTEzO9Mi5stxACptae3Ua6QbiX+vufMOSpoVVMRoH9vVKAeyCstTWl1MFNn4Jsv0u+0uLmItEc/vqG4xzjWuyJUtvqi9di+TtVM8SM9f0LJLvpcdDGn2efxwHl+JeUEioN+Xhd8iyNajxFp+gcqzhSBxo4CLMJ1gQyaVmnyMgOyi36l5s0PAQcm1WkVIIldWw7MT99YeYaU5rn0ZoiR+7iOAGnd94hXSPN4iFFdWNcF9YpQifuw6d8uXgssBF8IsIYO3eNbZuYqbRNj8lIHBR10ge/n4f/jg+fEyIdNR7USG+4=;G/tZG1Yyn/Er+RI0B80oQw=="
+secured: "3aJrgqvasujdRtBpdFf7FYM11vBBJBz5mDi1Q54VvePgkpzprdUgMVAYseWFaPp5aVWLeOGDRYkamOqNvOSIvJ4pCuwm8RyZH6NDTyAPpi5DvYiDipNG+taYMty9sm7d3bBpYwTOWkZiYEuzUwt2IP+rDnxaEwBjs9u8jFKe5v6th8zIDlFES0Aa79SHIy9p3x5wvrq2bTlCf+zakbf6RlaX0Q8i8tMiMQwTku/R1MvgdT3WdPUNy80lWs7RzIt4JM2+72HKMupUuGSB+fERmo+mXGuNLLSWCpoYblLg/vb+huGjvG0R5wiNxL1CQl+JJPdY1++GvTxCPfNfPjLYpnY3j6qispgIc82rwX9kmjrvWQ/y0LZH5L/0t7P7PQlamYZCQsmO8YGc+vYISbhBbM3LPxWyLhdDOUAlQIEa3Pw=;nZYdYYR/Ps/j1rxd4txKYQ=="
 ---
 

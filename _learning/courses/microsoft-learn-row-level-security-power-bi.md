@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT9M
 ratings:
-  count: 153
-  average: 4.712418
-heat: 55
+  count: 155
+  average: 4.709677
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Implement row-level security"
 
-secured: "QddGdD1mr/lPmUFPf2XIMI6EOrojna0k0O3CKpi/fTRYOe8aczIGXg3cMh/QVNhqC8EorrmjvBOcyWZZlBLXqVtDJ9asGlgVnvHHIjaYZSoinSxV/l4y7IqfYj9DU8Z6pXfbGkvsXMindYSyE9yk4zX69H3ovLcDJjyAD7LSZoA6SvIb3iya6z12axPzSqFiJk2Qwedv/V7pFXCDxWrbToH+LktUUdBa/OuJJRpbZvpL6+rx+YzlOm08gfflDTbKBtAvaaWBfYrdLThpyafNAn7BXrbi8/3rKD6Ta9UG1vfIEVHJM1AfOLh0a0bLVFsKK0mqM/cB5lOBWXFSb/zVkq3PwPpUj3Pbz6sWjggp7XbAF6gOpGIidwP2YOlEh5TDAvKAIY3SGqzfS4ne556aWj12uMndEPEsYN4cJ8HV44Y=;RwVg4kDiiRKeCwSTb6KQVw=="
+secured: "PGOUWgZn1pF0qYVgB2Dm1pcNlolAQbL9jSukGZ4apFyqblmcd0gFpoYwC1EyKwmSRvDR/GbnSIH5Yb2RVKmzuYmNPT5qkX6Ak2FrKGrxrcU3YTatOlIVybUu7jIA0gF/Wl9QVJgZuMZKFii+Tq5G4eTxTmEYGcCFsTzqVcU++WxNpczHT7Y4/vBuaIw0a5rYpxB9f5sizk+IEXQ4z6ANgCdTR90Og7iF3/Gtm5S4S3KdsZJJB+JK+jhpD5RL124NVJJSodya1FPOw+vIB+RNnhlsoCePWhYa/GyhIG56vCc8nJMztLujvm7oJj2Cn8V5DjHtMhY6Sp9EHylTlPv8OjFOc3hKxC2LkMKDakON6XukqLdtEiFCQFWqH5i0tP39/jUK1By4qKoYyLz7b84ps6lgKCf6XCFJVoTAeDLdG0c=;hjRQw82L4GcfkHuLQe4LMg=="
 ---
 

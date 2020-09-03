@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT60M
 ratings:
-  count: 196
-  average: 4.7244897
+  count: 197
+  average: 4.7258883
 heat: 53
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Create paginated reports  "
 
-secured: "GFaGkL5WjxxjSHxmxDyXAng5evggtH5jvD+EaNeJPVPmfXigabtlgYROvBDP6L9Ikvrlb+mTUWmVZ/HgilPS48CFL0hnycY7x6L/SrNO59uLRdW1V4dop6bJYkU+ZHQ9dvQ4yyfBw9dVzVn1bhJw2uoRH0FitlS90pSxhPKB836QzLWhJ7UTfqk839i8/ewxWIfAvyLllnnDwEfukSFt3zvZzLpF84mLRohMnqJ8t+p2rUwepw9qsXyEc4DnMuIu3TT0U8BqXG33r31R3UFelo3K0J6D7gMincYkOZn3XQ12E8LSHL7hlx+MJWjlxz7S0FmcOLicQpO+xNNyfENrgqwfwFXhImeWo07hHzzD1vrwl5Zj357hIIPkOYDhZgP8Lb0mMG9R8uElJQb6d1/KPENEMLiVMIUsMZMGxivvBss=;2ldknK3cvvAxPMDXZQJlJg=="
+secured: "qfZgJeDrMlv6OdkuA5/cVrfeKoCi3UOztRebeF9q068jjk+OhnXBj6vfxLiPXyfcRpVReyNt2+Q1r5oGYlB96AQGvjMmygFjP/jv0gO+YrI+m/Q0eAwn6toFSxTjOOYETD9FdAau9i0FqYbXB+pze3m6QzoLVmz3Cpdftx3qdYt+T1obQOC+FI5RmP3+HVobgEKq1YZL7as41x7ZYsnO1CBHAOmXO8I+qpLJtNRp+ciWBK9VGop5nF2QUnaKSbXWZ+uir8vOJtncIOQ4gEvIbMKqurQ4yuaDjYciyMLOWBgLB0srGFIRsIVccdpu9jLkqJugZ/koM9EUO4XwSLac2k7ywvFanBJRbAQZFRmDEXS7uZyiF19la5AtASO2DcKqHpu+jxFSe0Yya+PUVn9oypIA3o2wssDfPRO4q4ws3gQ=;rBccCXec3aNZbff3jWoHJQ=="
 ---
 

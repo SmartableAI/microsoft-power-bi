@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT51M
 ratings:
-  count: 209
-  average: 4.6172247
-heat: 55
+  count: 210
+  average: 4.6190476
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Perform analytics in Power BI "
 
-secured: "Yjp1lW3WQhwU2yg65JQ+gvtM0T/j9jGQygcku0kbbJ1InRNu153uNPSiTOpoBeBzMgY7ST+n/CWTxBhmdtZx8nndI1abkFi1YpVubBmua8+byeFHaCWCn5qeKQ6xKJ9WAydNg/yfa1TncpHVk9AbeZYR40SjC7GFGWQb0cm76Ncl0JsFQmMblsVDD25dhogxsv9aDrD46R6ayA+lcnHiMd/A9ZXq7FVSxmaxsh4l2vKhJ7V5tMVooAmVCfEzOxv6ECeEOK/w8o1ywpMMG4Iyc4uLdly6Vy8uM+ge+6lNBxHgqybORi/ZnXCOOVrHT8R6wXHkJrVLARb3zPSbpCnTX57RnH7oQEw7Y2VvZNthj0E1d7Qcw3KFeAgLXeTQHJ80IaQPGopJ9O7glEKfYy+C6yuLmSIIC0dQzbswxe4g6Ms=;gibqql0o1sPWsFMKRY3gmA=="
+secured: "AZjRFbrBj12jo06THdveelBPC0YehC4YqsSQ6FFLWL2AAmymRSfYSvALh4GitNyGyqmudCDmuf0bante8IX7DWQNC7asdz/XaFMer93RJIPKm+7L+UHXNPn+mtkvRpHCbEjVn7z6wSTm+Af5kumnqKgBeEMKvuU5ytofdm0v38Uqk4d4kcR7y4PItM3jmAJsnyKFhvZ4ijZ0BazRxlznsZlI1gfjMftFS6oL3o8m5hnUJtKTbtHHHq3h3WrwmXQkwssmEpnZN1EEuxsRE1vGxddcKrzrT7t8V0BKow7/tF9nkI1HMYCuWVS3SEXQy8jsXwue/DXBlzp8f8zpwXKTOKFZBQAX+ysmN8e6Xp1bu0AItGXMiYFMHWNSMQPBIIHhBmW2Ps5iuw7D2IjRqZDk9F1pTqj2fa98irVTrWPUvTo=;okN1AfTmOFWGajBIGRwXmA=="
 ---
 
