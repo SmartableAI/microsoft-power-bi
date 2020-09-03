@@ -2,6 +2,7 @@
 title: "Measures vs. calculated columns in DAX and Power BI"
 excerpt: "What are the differences between measures and calculated columns in DAX and Power BI? All the answers in this short video. Do you want to know more? Start with Introducing to DAX free course: https://www.sqlbi.com/p/introducing-dax-video-course/ Go deeper with Mastering DAX: https://www.sqlbi.com/p/mastering-dax-video-course/"
 originalUrl: https://youtube.com/watch?v=ePPi1LLX0sA
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/sqlbi-measures-vs-calculated-columns-in-dax-and-power-bi/
 type: video
 price: Free
 length: PT6M
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "6aUxpX62O+7H6Qj8diGVCZBpgT2vpY0YSfsuaokARvXN1Si4EskSHVIkxF2cDyDp0AE5XwgjHwWHFCms6wTOWX++4wFpaMAzx4p7eeqQRGzdOMZvJuFoxVoxrul5+nEtLH+NRnx1Xg5JPfId6jL97uLx3hIdlexICwJNBGCM55zlDvpA4cSH3d6yWDeonyFbC8MLJBByEqJbfJlCynjuPK6dl+61ZXADAYr8YsGJBM4ZkLAlX/VZjxRccQVM6o9V5n3sBhOC3pgi58fJG+T4XiweVMdMQ4+mHqMIfl0+u425E3kgxpF6NbTbFXDJ87Y6TXjep21/A2TM9BX547lKxhDhMGdXqupVP/8V6Z8DZyDT8IkAS/6HZEr80zXeCFN52Kdx1cAMdrj1PxzUzPr+gA==;rzlPPXx1rpWbeec1Ky/OXQ=="
+secured: "6tN0kt0XKgnj1ddaPGSW0+8wBtjz7okaEz7AkCpRDHZBCsRdg7fgqGuVs2WOADKlam4D1OOHkJWTCiymeu5WMBHcMlfiqQhKzoObIo1gWnvCWXGJTbXZjwzlOkO389lrpsyCjL3BtZVlktjjggxn50DQ1+Hc7bQ7mOZ5mOd1l3tUBQQRmv0C5EZYpGlNPvnmKHgODy8qgJ1SlZuKIDEoNBKGlmAlGcIeLC7oxYA416iCxAm4X5yjvbp7FgfE1lmjhKZcvzx9Bycxko/OqqhZ27y751MsoEs9eBH7HU/1vO/etBlmpajSR1QhCIkNDYtFT3Yb4YNZyPzUBS6pAzF9g1DBBQW0EZYhljMt5Ox+W8Z+C0Q42UNdvRzj/S9WE0Ke;41FRmuVyksM7dslbaPdzNg=="
 ---
 
