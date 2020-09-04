@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://powerbi.microsoft.com/en-us/blog/power-bi-paginated-reports-august-2020-updates/</loc>
+    <lastmod>2020-09-04T01:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://powerbi.microsoft.com/en-us/blog/improving-power-bi-performance-when-querying-multidimensional-models/</loc>
     <lastmod>2020-09-02T02:32:43-07:00</lastmod>
     <changefreq>hourly</changefreq>
