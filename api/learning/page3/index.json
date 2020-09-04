@@ -1001,7 +1001,7 @@
           "path": "",
           "title": "Becoming a solution architect for Dynamics 365 and Power Platform",
           "excerpt": "The Solution Architect leads successful implementations and focuses on how solutions address the broader business and technical needs of organizations.  This module covers what it takes to get started as a Solution Architect and as key member of the overall project team.",
-          "heat": 50,
+          "heat": 110,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/becoming-solution-architect-social.png",
@@ -1072,8 +1072,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 6385,
-        "average": 4.666562
+        "count": 6388,
+        "average": 4.666719
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1105,8 +1105,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 4670,
-        "average": 4.7074947
+        "count": 4672,
+        "average": 4.7076197
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1445,8 +1445,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-simple-dashboard/",
       "length": "PT24M",
       "ratings": {
-        "count": 2039,
-        "average": 4.690044
+        "count": 2040,
+        "average": 4.690196
       },
       "provider": {
         "name": "Microsoft Learn",
