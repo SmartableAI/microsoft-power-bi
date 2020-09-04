@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT1H25M
 ratings:
-  count: 879
-  average: 4.750853
+  count: 880
+  average: 4.7511363
 heat: 71
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Get data in Power BI"
 
-secured: "s3tJWLAD/K0sYXFdCLgZ2DwZYmDl6CXF9ogcSeXX4oaExXUNAzILZeDHfrldcSsQiLQdh7sDmg8W3/KXrYBnzzNFco3tPfqBLetGw225EGo8fXhrxExEn/YpYMZNxEk3SakuZ5KpxzwKZe9dshmxvhMx+Q0ykKM4TRzfM0UsJ4beob+XWggMQRF4Bzax8y9BHEElfW7+NTb92sSWkmI+7FNA9Zqypb0P5k/28THcQN6nGc/bdy8mFJQaBl9xS4ngfzv5MAWvoJTDdKzF2ULUfibfMj+BOJmytQOvUE3uaqiEOmn7XRH3rNml9ktkRCAIXkOvxPi+7mH3HWWp9R9AETJZH+ujnh5fXtJR+ZpF0OAYS+qgLWQKGeXDgCiaedCACRldINRCuMNBo2upg1HE224Mz2efHT+y9D0UwZAKh6s=;+ppKwCRZWbCObzXGG/zErw=="
+secured: "E+9e8BQjqEguukWE2GLMPsqjPooBmt0fBQMiQkg/H0934pCfE7RdQMyo/S1Ukow0FbiesH1isyBQwfYbkHkR1cJpExuSKv8/U8CZEF0Mk1i4QXu1EUEnW8HOwfNCQs67p2EpyaK/44tf0tcn6FwLtIAMx2fkvFR7ixCKxaK41JPl6rcdTJgVgW73tmTTqoUkT6DCUSEbtXHGYaDcpgf+AXpdmsrCMENdTA7i1rpeNo2T6DRbri8c/WL+jTcxleaGdZYKComn0/a+OrExmEvYuvhjZL98lS1Aq8oYQ+jg90R3u8pmBxFQEZRQOvlX1Wjl7rBonf9xBkyIZ2E9lApA9I1UxfyHAQiyVqHJwCWHNy/qmz+SPwb6y0f20KgQlFMIM1JCQSQEeFy6TKxlS2k98QX76bXu/9kgMvgzey7Qkjo=;19pJ4yKTE9VWJuDmUGrTwQ=="
 ---
 
