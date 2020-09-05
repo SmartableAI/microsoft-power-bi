@@ -977,7 +977,7 @@
           "path": "",
           "title": "Work with requirements as a solution architect for Power Platform and Dynamics 365",
           "excerpt": "It is important to capture the customer’s needs accurately. This module explains how to capture requirements and identify functional and non-functional items.",
-          "heat": 110,
+          "heat": 50,
           "type": "course",
           "topics": [
             "Power BI"
@@ -1009,8 +1009,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 6390,
-        "average": 4.6666665
+        "count": 6391,
+        "average": 4.666719
       },
       "provider": {
         "name": "Microsoft Learn",
