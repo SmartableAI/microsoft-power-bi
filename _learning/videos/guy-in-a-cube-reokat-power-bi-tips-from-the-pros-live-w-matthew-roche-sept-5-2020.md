@@ -2,6 +2,7 @@
 title: "REOKAT Power BI tips from the Pros - LIVE w/ Matthew Roche (Sept 5, 2020)"
 excerpt: "Join us live as we answer your questions about Power BI! With special guest, Matthew Roche!  Connect with Matthew: Twitter: https://twitter.com/SQLAllFather YouTube: https://www.youtube.com/channel/UCpsilPn-2qFlrYYuvyFkpPQ Website: https://ssbipolar.com/  💥 30 minutes: Open Q&A (Public) 💥 Then... Members"
 originalUrl: https://youtube.com/watch?v=mx36Hvrmpc0
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-reokat-power-bi-tips-from-the-pros-live-w-matthew-roche-sept-5-2020/
 type: video
 price: Free
 length: PT1H12M35S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "gd6qWukbwVy5R2hlWfM29Rwkvou5uJVSk41p+duArU+Dno/sE4oz7heqKsn7KY/JL5gjkiO6PlQpnPKx9kELU+tvjbx860ibr97k9dqM81E9rNj2ohQH9NFD2w8Gj35YLsnZdMnrxJhm3fwJ7ej0dlXolrpx3COahN/Hjl52aE0N0u2+8efqDCrggf/v2Q29yjzzw5nd31X+3Og7F/G6N0GcpagkTXJlxPfEkS3su8U15QaTwSvoT9cuSRno9Wsi50oN78TWKGW3GclZXULRE5cK2pMbDStlrRDmzIrwc1EQkVZt3BjnaCSBFnBUasFzFeut/vH3+WLvr3X0FVAul5/wS3hd/EZf6272CkCtWm/SHBWPu4RiPBmtplD7vGfuAXh9uGLeUXHustbO31/2Wg==;ICwCE5gAnCrMVJiPx9c/Ug=="
+secured: "hcGe3NrZ1I4uaqFIJExBPr4j1Rx0OiHji5X5tKwPTEZmntCyhsKFU18LsXJaMGxGiU19uWZanSmnU08TzbIemtSMNdgKFpQx9EhMYvfoc8sIDVDjjQaihXrnZqy6qPJzWw5CCUjpNq21LpQu+X7qNi0knuHs1lG4UBus1wEW8l6ToYHXzjOA0/sSjBFxrJ6y28B9Ll9J43P87dNbJSF7Kstq4ay/swD1xaIlAr0Db2BKYI0wVy7kbUg6uta0xZ+xQWAaQEYaNTRPTlXd84JVyGmIek85Eqss9UKaPl85Qi3QjsGm77jP32hE8OsborBzYrHUc166y963cPP6oiMByND3u9YLc8KuepJDZJkH0uRrfaki93aedABLPI93bwt3eTiFKIv/QuSDiAYuuJxZvA==;oBZH7mAj71qFuJCG2Ar6Sw=="
 ---
 
