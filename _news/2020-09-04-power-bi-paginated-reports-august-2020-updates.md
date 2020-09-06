@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-paginated-report
 webUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-paginated-reports-august-2020-updates/"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:
