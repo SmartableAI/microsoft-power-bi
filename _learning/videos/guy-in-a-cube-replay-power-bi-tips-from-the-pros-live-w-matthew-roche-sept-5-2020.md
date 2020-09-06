@@ -8,6 +8,8 @@ price: Free
 length: PT1H12M35S
 publishedDateTime: 2020-09-05T15:41:10Z
 heat: 244
+removed: true
+published: false
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mx36Hvrmpc0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
