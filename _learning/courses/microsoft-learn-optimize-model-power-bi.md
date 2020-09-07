@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT43M
 ratings:
-  count: 407
-  average: 4.773956
-heat: 54
+  count: 408
+  average: 4.77451
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Optimize a model for performance in Power BI "
 
-secured: "md8nY3xcs54QmuAEHvXb6WiWZCyvBDwwtIoaqZlQHLp+OjcFD183rVgdHi1FqDDY55Z5FOXsCV+a4L2QNwUmgM1wFRwQxk6oe7aXgbwKdhim67++c8JVplTVXzyFUbOS8gxDWfxRov/3kFb5QJ0g13tkxXuG/IODCN3QMb2nQvcJMTEEjPmm63SkNoERwyWofPP0X/c8hl1WL6M2+efSEg8veTmwYJSzPBqPmsAcRtH7kpqKCwL65i2tI9vOOSkyUquDq6mL8E+GYLt5q8kONgeNCFMIRQL3+Y3rPk7jcf0zXJ8SzIbpRN4oPoZ2fvaspuMmForXRvtIy7DKRGilwXq51Gqm8eDgn/pruriD4odcVJoT+dYPROvfzG0P7+oQvhDLXl7mlkMsgdUGNuqUyqzqOcxlXRPwJj2QhRZaFs4=;hgD5mw5Vzxp6aokHbQi8yQ=="
+secured: "+M6Xzu5zpoev4qkcEZLtMeJyshz60eqX7M74q9htyXI9DBMFlgA5QkwwW0OH6FBhy3igBZytbOtEZB92CJ2dfDACscgoNtfgaYlk91hEz2lXVbiBbXPFIon1DqTo0wKfCItgBbWY0xF6VU3qOj7fyiuS5iJmURDhsLRcUhxmh5c1e732IBsQo9SkRoap0WUz3MU33Jubj3COn0Hq+/rn0GZihNQE9ZtU7iqckCFzBsre7n4y3bhoC7WG1vAoTd+4DlqGQrJXbqyqu6x/DQCCFFtYTeC7Z4TVRKZTD5Edtw0tnwD/5q1/xbBTbBYX/ceDusJG8wEvPDoiXn5UXKVuG6Voa8zb+/qRI4JG+08wuSdAadRECCwd+sO8ZbGdf96ON4TKaRujmGjQ+LxQW3wLCnvn2Mi8+P+EC5VD5dbUG2c=;pSscD/oCYZkT0zwTlrh4kA=="
 ---
 
