@@ -470,7 +470,7 @@
           "path": "",
           "title": "Analyzing a slow report query in DAX Studio",
           "excerpt": "Investigate a slow query in a Power BI report using DAX Studio, looking at the query plan and the server timings. How to learn DAX: https://www.sqlbi.com/guides/dax/ DAX Studio: https://daxstudio.org/ Optimizing DAX Workshop: https://www.sqlbi.com/p/optimizing-dax-video-course/",
-          "heat": 53,
+          "heat": 113,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/C5HBhlLUFsE/maxresdefault.jpg",
@@ -1603,8 +1603,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 902,
-        "average": 4.751663
+        "count": 903,
+        "average": 4.7508307
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2231,8 +2231,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 6398,
-        "average": 4.666771
+        "count": 6400,
+        "average": 4.6665626
       },
       "provider": {
         "name": "Microsoft Learn",
