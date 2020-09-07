@@ -4,6 +4,66 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/videos/absent-data-channel-sumx-simplified-finally-understand-with-excel-power-bi.md",
+      "title": "SUMX - Simplified. Finally Understand with EXCEL & POWER BI",
+      "excerpt": "WTF is SUMX!!? Stop the confusion by going back your roots in EXCEL. Follow this simple guide to get instant clarity.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/absent-data-channel-sumx-simplified-finally-understand-with-excel-power-bi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/absent-data-channel-sumx-simplified-finally-understand-with-excel-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=7JgbyhlhfyY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7JgbyhlhfyY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M45S",
+      "provider": {
+        "name": "Absent Data Channel",
+        "domain": "absentdata.com"
+      },
+      "publishedDateTime": "2020-08-10T18:11:57-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7JgbyhlhfyY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/enterprise-dna-evaluation-context-18-ultimate-beginners-guide-to-dax-2019.md",
+      "title": "Evaluation Context - (1.8) Ultimate Beginners Guide to DAX 2019",
+      "excerpt": "Learn the importance of evaluation context and follow along to the Beginners' Guide to DAX tutorials by using the demo data available for download. Enjoy!  ***** Video Details ***** 1:10 calculating total quantity sold 2:31 defining filter propagation  3:17 writing advanced DAX formula  ***** Learning",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/enterprise-dna-evaluation-context-18-ultimate-beginners-guide-to-dax-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/enterprise-dna-evaluation-context-18-ultimate-beginners-guide-to-dax-2019/",
+      "originalUrl": "https://youtube.com/watch?v=bfJh_qMz7e4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bfJh_qMz7e4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M22S",
+      "provider": {
+        "name": "Enterprise DNA",
+        "domain": "enterprisedna.co"
+      },
+      "publishedDateTime": "2018-03-05T19:22:17-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bfJh_qMz7e4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/enterprise-dna-filter-context-19-ultimate-beginners-guide-to-dax-2019.md",
       "title": "Filter Context - (1.9) Ultimate Beginners Guide to DAX 2019",
       "excerpt": "Follow along to the beginners guide DAX tutorials by using the demo data available for download. Enjoy!  ***** Video Details ***** 1:15 understanding filter context  2:41 using aggregation  3:31 associating filter context with aggregation  ***** Learning Power BI? ***** FREE COURSE - Ultimate Beginners",
@@ -334,36 +394,6 @@
       ]
     },
     {
-      "path": "_learning/videos/power-bi-tips-powerbitips-tutorial-dax-studio-query-performance-tuning-by-marco-russo.md",
-      "title": "PowerBI.Tips - Tutorial - DAX Studio Query Performance Tuning - By Marco Russo",
-      "excerpt": "DAX Studio is the tool for data model tuning.  Marco Russo contributor to DAX Studio will be giving us a deep dive and demo around using DAX Studio for Query Performance Tuning.  You will not want to miss this event as Marco is a wealth of knowledge for all things Data Modeling!  Watch the Full Tutorial",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/power-bi-tips-powerbitips-tutorial-dax-studio-query-performance-tuning-by-marco-russo/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/power-bi-tips-powerbitips-tutorial-dax-studio-query-performance-tuning-by-marco-russo/",
-      "originalUrl": "https://youtube.com/watch?v=d6ppyWQU-f0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d6ppyWQU-f0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H59S",
-      "provider": {
-        "name": "Power BI Tips",
-        "domain": "powerbi.tips"
-      },
-      "publishedDateTime": "2020-04-24T15:44:45-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/d6ppyWQU-f0/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/power-bi-tips-powerbitips-tutorial-dax-studio-release-2111.md",
       "title": "PowerBI.Tips - Tutorial - DAX Studio Release 2.11.1",
       "excerpt": "DAX Studio has just released it's latest version 2.11.1.  With this release comes a number of great improvements.  Come listen to the Creator Darren Gosbell review the latest features of DAX Studio.  New features include:  - Query Builder  - Query Benchmark  - More Quick access buttons  - Exporting button",
@@ -419,44 +449,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/rMqZmrOqAAo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-connecting-excel-to-power-bi-desktop-using-dax-studio.md",
-      "title": "Connecting Excel to Power BI Desktop using DAX Studio",
-      "excerpt": "You can connect Excel to Power BI Desktop copying the connection string from Power BI Desktop. Useful to test your model for Excel consumption before publishing to Power BI service.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/sqlbi-connecting-excel-to-power-bi-desktop-using-dax-studio/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/sqlbi-connecting-excel-to-power-bi-desktop-using-dax-studio/",
-      "originalUrl": "https://youtube.com/watch?v=MVuEzcK0Rag",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MVuEzcK0Rag\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M21S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-06-18T08:30:19-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/MVuEzcK0Rag/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
