@@ -2,6 +2,7 @@
 title: "Year-to-date filtering weekdays in DAX"
 excerpt: "Time intelligence functions oftentimes hide an automatic ALL statement meant to make time intelligence calculations easier. This video describes this behavior and what to do in case it ends up breaking your calculation. Article and download: https://sql.bi/123591"
 originalUrl: https://youtube.com/watch?v=JS-K2faCiCc
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/sqlbi-year-to-date-filtering-weekdays-in-dax/
 type: video
 price: Free
 length: PT5M10S
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "wkEg+tzpUdyayqhCoqliE6/gYA6iNiRO6IedWGCrtoql387HhoVlaVqxhSwJ/nqy+MTNJOk96A5Qyio1evTCF+bwSfSPdg3iVjwyHHh9DsjZAxCh4Be2uEp0JoweYoRHp813Bjedj6VkJN4R3YqFzrXsUD/GO9lCPcwuA8tKGEwVQoUhQb0POInrMbdDaCqNFQHLJkKXetbM5aizg4CbglS3sbWJzsT1P77TutwO7mi/WMnNQkERyk8R1yeysWBRQEESGC/PuyAvw3ec2TUl7XG9Ir1wg/b1xTKBOT8LErz+NJBdj+x0BkOfcJBrs+DDSlNvt5gzGaxebtx82YMUDKlRAryiXOLt9/wHgk2om8Nkz8CraQp9y6NYu3VGJJTfg706rHUzEF1rdEKJHPQOBA==;IV8X6qezjpf9qq0aoxQa5w=="
+secured: "buB+LIfrGgxGSlYLJnn2QR61VoBnKcaqx6zfOZIgZ3IftF0Z4QHbqXw318RPnoGduhyjxqJTKF/7RETrJK7JAcmTrSAZJi2u5ZiwnVe1QWEalpSfKsD8Xai55hs2L+ZhBYcofxrdbFx7o5YO/WZ5xPAMVtH9q74hNnJtVpmdK+Afv+J1GCwWsd6SX+xZWzQUfyaE9wjiqlusvEothjkk0LqY/9EPFxhLpdhxwSkamwo3DVsxWCdohbTWCVlj0ViYPqSZulvsKXyrCjUHybbxoFGHg6DGXoX4hjFJ0t9sVV+PnbCDf9n20tNmarhoAuvCXLvdd7w1cTwjcpVlWtG4xkuZfecoNoMVyivyopw4JuD2CydOWUNJw/SimNZpUHYz;bf68ZspePzg1OJ6e445Xtw=="
 ---
 
