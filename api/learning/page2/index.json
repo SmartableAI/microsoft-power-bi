@@ -1103,7 +1103,7 @@
           "path": "",
           "title": "How to debug a DAX measure",
           "excerpt": "Use DAX Studio to run and debug a DAX measure: fix a calculation issue in a more productive environment and then copy the right formula back in Power BI. How to learn DAX: https://www.sqlbi.com/guides/dax/ DAX Studio: https://daxstudio.org/ VertiPaq Analyzer: https://www.sqlbi.com/tools/vertipaq-analyzer/",
-          "heat": 53,
+          "heat": 57,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/fU5EQBJDfOM/maxresdefault.jpg",
@@ -1528,8 +1528,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 12615,
-        "average": 4.6932225
+        "count": 12617,
+        "average": 4.693271
       },
       "provider": {
         "name": "Microsoft Learn",
