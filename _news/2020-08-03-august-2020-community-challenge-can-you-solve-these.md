@@ -7,7 +7,7 @@ originalUrl: "https://youtube.com/watch?v=BCNYMJKyjEo"
 webUrl: "https://powerbi.microsoft.com/en-us/blog/august-2020-community-challenge-can-you-solve-these/"
 type: article
 quality: 124
-heat: 124
+heat: 125
 published: true
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BCNYMJKyjEo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
@@ -30,6 +30,6 @@ images:
     height: 417
     isCached: true
 
-secured: "h5NjGOqV+b8x8X+WYzSCzcb0EYlqFkxFjpYP+y8pcHXUGGPSILvMU5ECMlsGh+QuUNgQ4Wclsrj2CWlXrZChHJgNsS8gtptLCdr5URGpNerjDXs7ONGyazbV8Ycsjz1m3IUjb78XVKRHqg9TeCPKmBCWKN9XhV1ojQwkDrQNsWMfBcCgKizm1k0UZJRYHq8+kLGR27mRMk0XT7H5TnQ8/hLUkbLFa5q0U9vVv/3IYaA5B45WuJVuO/4HGwQHEoAYgCpGNqvxoROKw3/kW7yFxxNSv1z4oIB5fdUebr0KG4O/e6SnHjs/ISDIIo+qtOivMOqp2AvkxTfBYre36FuGMZmsUrHklqI9OjcYgXuA3wVnr0UXuVWQf2Z47ZY8BBVoCPtgs0lv+k1ZyCuOBGnT7d+0oMWGmwzmtLb12z3Mxal9IEsfv1CMbQsUyk8eraMu6P0dfCe/CZPfUuQPLH6gpw==;47feZdzcsq4snBE8RtMm8Q=="
+secured: "TJBTdVkoDWLAFa3mixfizJWT/ccQB0lZu33ob7/37mVCcNr8cIDVH9fcR4oKi4VFWjW5KcYNkT8vEyGSSq8ebnlf/AIKMuqJLVC5qO8/pa9q9hgGYMU8MSEHbS5b7cXUhO/tlURgVnnhSvQIb1oeYweOmqFg5SlnlW8In+op/wHC4srLgGkqS4bcvRcbwp7RerBW6oe8XPH2h/CMpVTj+c/j+7WzpqTGJYG8bvDiJpKvqlApxME29N403MR/3rpEGPyiEMrIwJf1Rc8984ubcayrUBPWUWSqsqbcR89xAIXxGm+h7DJTrFNPoNpq+VZRNkeCuXbQIWnye2dfK+6amaD1XyZ2Tq6aBgK3Oo2fqnit5dPGsi5nhgvGY2OmuyYkSNCss+UZoTq3auDOIrh3LNbWDYup6L4MFSYpEPo0GIZMXbewssrDHFl0yYa3OQ+5oxW1GORyiHQqO1YuIzGmpw==;nLTrTVHjTZ1OkQaGMybuFA=="
 ---
 
