@@ -2,7 +2,7 @@
 title: "DAX 101 by SQLBI"
 excerpt: ""
 type: collection
-heat: 64
+heat: 120
 
 provider:
   name: SQLBI
@@ -13,6 +13,7 @@ provider:
       height: 50
 
 items:
+  - videos/sqlbi-year-to-date-filtering-weekdays-in-dax
   - videos/sqlbi-measures-vs-calculated-columns-in-dax-and-power-bi
   - videos/sqlbi-computing-totals-by-summing-visible-values-in-dax
   - videos/sqlbi-computing-a-running-total-in-dax
@@ -25,6 +26,7 @@ items:
   - videos/sqlbi-computing-totals-by-summing-visible-values-in-dax
 
 items:
+  - videos/sqlbi-year-to-date-filtering-weekdays-in-dax
   - videos/sqlbi-measures-vs-calculated-columns-in-dax-and-power-bi
   - videos/sqlbi-computing-totals-by-summing-visible-values-in-dax
   - videos/sqlbi-computing-a-running-total-in-dax
@@ -41,7 +43,7 @@ topics:
   - DAX
 
 images:
-  - url: https://i.ytimg.com/vi/ePPi1LLX0sA/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/JS-K2faCiCc/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true
