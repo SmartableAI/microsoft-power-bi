@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT2H8M
 ratings:
-  count: 558
-  average: 4.7455196
-heat: 56
+  count: 559
+  average: 4.745975
+heat: 64
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Design a data model in Power BI "
 
-secured: "53UUrbbvpb45EpUqKKftEO1LMGhp4gK5Y2yHNsRBCOld9SGdXlFJqfk5o18TAb0Q7ym6wzEDKs677RmYcn3rlkZgn0OtDYA57REU1ePNaazKRvXyFqRCuz8MVCwBsXKhWaj05y/cftqgqtCwh3JI5FfE+IxWRyKxd/F6/R4TdAnOdiECYpbWWevN3sQP8Td8BDaWwqx95sKnsFE2s/0UEOo7fPaa37AYwc2P8oVjNgJHZxlP3CbFtFl56UT8egFOCeK86bYAvqij8yj2bEAdkiBBREsp6WVa6A63gsbA/nUJTJbc8z75ajj863PrNkiT/eZ29UdT1zu26UbZGD3zNEmdNDOolVCGpvqadkdEjG1P4PvzpMZER3ahEmflFZBrZsi7VwFrOczcObDUlpx2+Ftu/34KPLMUJGyAaYfXCkw=;DM3Q9Sl0MAOtNKG2zPfBoQ=="
+secured: "RXueBVGywza9zIl+2/XT8siRWaArvl/Uak2mhgeL3gfBHYtdFJgb8j1PGxCmrJ/lPzccr7DmrxWy04INXZJcYL2IvVP1FlOBRRUtMHDQ4zfdR12i0OIlWVhxyAOT//WChnQ1CFO/HtZEgYyTSa8ZjZQJFgZdrGObj3xDklRC9o/wPjmcl+o4SNu7G6ZbK9Sy1kcKGE+tQ5QkrofEaAK6e+xYjyfdc3ts/jESsyxpDA6hTgTFDNtw+Zfb4s8VaDZF2vg+tif1uzsPopJfdZucx7CXsaQ02qZqPEGTUQgbscZkt407zQgFOpAdZgGWtOgrTe5GedwIJ9AomoRlxiFsJwl7u1vErlBPU2fARfjR1Sv4+LJvorTiqIhJnhy1XIQDxGioPQDLqBZN7MI3pTH/q1pKQrOBT/cVV6fYB442bhw=;p0dnAOZQYhzaqO9Ouxn50w=="
 ---
 
