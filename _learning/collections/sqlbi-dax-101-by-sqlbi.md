@@ -2,7 +2,7 @@
 title: "DAX 101 by SQLBI"
 excerpt: ""
 type: collection
-heat: 145
+heat: 144
 
 provider:
   name: SQLBI
