@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT7M53S
 publishedDateTime: 2018-04-25T15:52:10Z
-heat: 67
+heat: 69
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0m-PCX1uCG4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Power BI Reports and Buttons (new with Power BI Desktop - April 2018)"
 
-secured: "Ms7zEWrg4onGA4E2FR9JZsWoaA6HgM8pmXvZxPIXXFBisynsrI1V201HwAs0dn56yfsL3IvJe6g7EcYcGiRRw55Oo5VC/GRAAxMxIDsMzXIbXjXCm2dYhu4GCFOdsVm8MDb/YvktB2fqD7/DHB0fxNiESs6Hj9Ll35YaR9OiFbhYLiHv2GKnoLhaJakyCGmougfztDzwb/fZOHSgBV9UBahhZaKnuGnx44IseaJsaf5NUt6rYErvWgHFEiiLHzRVH8FQlL+FywxRy5cl4hYBBBVGAqehpJaImz6UA8m9GbEXajDdwnlY0QZiIqbhSkxXkQhT2MVEFEZB3VtFZGtjxq6Sv7M4AckX58/cQtGQtnnrx4cPF9jS3f2rMuTBh1FTl8o4f9bo/E9///k3P6Jrgdhav2lX35U9zahUxATLziwwWGAxroKwIrTD/lZzCnJS;pkU0E5I3fueUUuKy2AwNQA=="
+secured: "6xb/8DAXBxrmMQ1qa+iJFJ41Jjcr8/9qaT0evnrpALJ5AFNHHJJ5TRIS6s7WFtk4yfCvF/ecFOhU4Z7Rlq/GYhvNTbHXHWAO9MDYWaFRubpxjk6xMx3vgoVEEjc5Zll1+DXm1z+hAw4PD0aSFGEvIKdJ7HmTVAm5Q8oNa7ht/4xdOuyY9JBQJ8TG0N9WKJpinGTyZS84yrPKtK8Wfb5JGczsks50GjrGiDuDwhI3alOxvS4+xEcoks85SOXMUjryUrjfJt9vylZvNLXcIn76GH/UprrVpvGT4JVBYkoXuOxAO/tGEE7xujPpAWYqhCoZrBSiuXKLu9/VnQfBz3nThhLNpwGxwyQ4w63uNjbxZf6KPEmzOVFEUmhhYulx3s+H/Qjfo2ErN13TceCgvFr5EFhvGwkibvqVRMcTkxBE/TNbJRuyGvLUlFw1bwB2evm9;+0wcNuLhqETxalGR87Fa9Q=="
 ---
 
