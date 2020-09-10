@@ -1,14 +1,14 @@
 ---
 title: "Add measures to Power BI Desktop models"
 excerpt: "In this module, you'll learn how to work with implicit and explicit measures. You'll start by creating simple measures, which summarize a single column or table. Then, you'll create more detailed measures based on other measures in the model. Additionally, you'll learn about the similarities of, and differences between, a calculated column and a measure."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-measures/
+webUrl: https://docs.microsoft.com/learn/modules/dax-power-bi-add-measures/
 type: course
 price: Free
 length: PT13M
 ratings:
   count: 63
   average: 4.6507936
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "Z/RxLzZsywWZylfS66hDppAn/6YThb1I8R6WfKtpDWWiALYY+8Gha7sM9lqeVc0cY5RPjm66hetcY5VBYyHK++gOoNLVPxCO2FrZ9XagJI1n/7cAvH7PgxQ/Pi73adSCTjsXXEEDBxY26kBpTMe5dtjV9TqbA/P2locF81oQV01UfoL785sdGRYOArpntwTzsYgGY9Ip43jX0pOei0+pTsz7bZeQ/ZUDKyBjwK5e7SGqLehuNLZzYq3RimNb+W23JkVXIMeHCrv6eQjrFtDcdUmsHyKhTjHPQg6ewjDnOrCXN1St/OWFo0Ui1v3d/nJjg4Y9ns07FgcJsqrabVhbsJwlEfdi4dXbUHVag7XWZ6P933LqBX+wIKUaN782ZceOEVwGCCLLbb6CWP3bymrqLsjfknxQsJWf1O+sx/Nd0VA=;gEbIH3uL4WSY/6PZUWyMwg=="
+secured: "EDfoT+481CHI+OjOjIv2JThrvdaWI80RGtKVPhGgH6m50I86R4SCFnOSuX9LzwLmGO+tDVokQL33UrayOR8n2VKT14MEFyCWepXW/NjjCDp4DJmXiPMyyJFrwW8F/VeCvNJzLTuhcUe0kldzTnxKSfz80t0u7861PUSEhXiQk/gnNA6gOwOMgkcESccvvE6u3vubawsV2iwjOE8StC1p9ppXu36zVSx/ZsCYtDaWTcdXYDm5K9LKC6J7wHSOC3vWvCBBgKXiSZwkF+raXS2QVTA7YubxgkumxwqFIJbgjyHRkp24TXzkIBJSsR4M6KI3VJ0rvZk+eAiKqcQ/k/5fesV+j/thwzr+0yPdw9VbE8+sB8fD3qRASuhywv+x3zde1zP4LpCUChNjN3nUyGIUnQ==;BVYDselRjNZ71JT177P/cg=="
 ---
 

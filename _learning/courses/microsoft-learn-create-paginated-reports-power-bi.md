@@ -1,14 +1,14 @@
 ---
 title: "Create paginated reports  "
 excerpt: "Paginated reports allow report developers to create Power BI artifacts that have tightly controlled rendering requirements. Paginated reports are ideal for creating sales invoices, receipts, purchase orders, and tabular data. This module will teach you how to create reports, add parameters, and work with tables and charts in paginated reports."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/
+webUrl: https://docs.microsoft.com/learn/modules/create-paginated-reports-power-bi/
 type: course
 price: Free
 length: PT60M
 ratings:
-  count: 224
-  average: 4.709821
-heat: 54
+  count: 225
+  average: 4.711111
+heat: 59
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Create paginated reports  "
 
-secured: "f8Vzea6b+ninc/RXMFI4/LxliY/aMNALSHW89v7DQOn8gzGAxbwPNLvDo0BqjSeJUG7lhG3Ojla+clGbCSaAiePOz0T+toxSMIgHx+zwnlIGuuNr9n8s2Bb6KALCXcoLnWXlCYEWgSulskdWOY4jU0o2ht2gYSYFdC2/SQ7/5XTOHBnkOvLcRSya767HRBMgO/BNwI2by9C1U2r220qq0QzyJiFMpEfTNZja8HJjwazxKbw3xCaSyWdxVqRwIMLR406bZ4sd9UTHpou4Ra4ui8yJmZQTWGsbU2JLZMUUjDmEgN04PX/sOaY2M7lsw53WB9aGWhiA07osZHb3X72eMN/U9kEql25j4XbclyutXIr/LN9+a9SXNih5Nl+hcf2BbmVlFiANxK6l8ewDeArWiHBkVNSdDlvDGfeyKeffjp0=;zUB925U//Rn1xPPcLNzeiw=="
+secured: "SzdNbknPsg86ZzuqPlcW5rNfKf+YceE58LlG3eOsZrqNJCY5+mV31ZrfbET3v2I71QoeNOgeSt/EFi8Rx7EOvOSVHhRkH6ZL4tlTtPMfkcnPWFY9pWLZkFcn9H//PHLrehGjvotis7grgM4t6udG1Yya8a16mQ4XlTI7XeDJP8yPn/iMCAKHaja/Bp4SB1x3HybO8wXCIgcyoUyoILBRVLNbEePYxbDf6HX9cDY+8FVDeufhwJpvjCRok1ZZbx8UOlLhFeywOLUVWGrTR4fts86lm7scr7ks6XqKZcua1M05ErfKSKPekgiMaRvqfZaCBad//uCKUUxi3dsYoI/gjgRuI24EnogxaP8aMQZwrGFSAgmZYI8F55exqL2+untbJyTj/hs/pW9CyyCzOve9tg==;bE/VPocNuRgdF9eAqTDpdA=="
 ---
 

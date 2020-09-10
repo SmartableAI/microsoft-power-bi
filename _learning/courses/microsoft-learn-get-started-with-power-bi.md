@@ -1,14 +1,14 @@
 ---
 title: "Get started building with Power BI"
-excerpt: "Learn what Power BI is, including its building blocks and how they work together."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/
+excerpt: "Power BI is a collection of software services and applications that let you connect to all sorts of data sources and create compelling visuals and reports. You can benefit from receiving those reports, or you can share them with others inside or outside your organization. Learn the basics of Power BI, how its services and applications work together, and how they can be used to create or experience compelling visuals and analytics based on your data."
+webUrl: https://docs.microsoft.com/learn/modules/get-started-with-power-bi/
 type: course
 price: Free
 length: PT47M
 ratings:
-  count: 17891
-  average: 4.72897
-heat: 117
+  count: 17892
+  average: 4.728985
+heat: 230
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,6 @@ levels:
 topics:
   - Power BI
 
-secured: "GDfX1CbbHa1+kbCq7I6rbLympD6rNNbyPl+l0I5AsH76dFxyDMgfS5fxHl8BMJ7ezcG5T/0rKPvMhrEAitUc3Se1g/rSLCk4pIuno555qOvpo4slxzydBNeiFaLwxZAFR9gG2DrCp8ZACID7GcwtJlUIVhqK57uBfyeTa4WO50oxapL+6INZ0/owCOixoEURJ3dWRRpB6tXECViPb9bSJF1PZmTcAWiVyv16iHJKuNDvdbn27wHMUFf0P9P/tRUzyPdFC9E59t3PiCLAk4j0swh6m40fwd7AL40rAhXDqpD33GXqx5wpBy8QyPOlC3LrXJNtJECSmb7jFmQbxL/boRCgrFKUshq5FjHfyMedDV6ZabRMAZJ1xouRPgDVviIT+5AZBop6nP9o9RSHn/lGP5bTKrEL5QVSZiGAPBBbBqwu1yU7ox+s21zV0gwNpE1g;n3coOC8n9yQ0fIHbFquIcA=="
+secured: "7a87+EO8wPLnUsXcWqMg3NSuLcQZLzPm7b4PRX64quj+b88cWrfO/zKwWx/47s731Ce5NlCqBS78GKadrF3NK7VcIhlWI/5aIu829qTZsWm3Boi9oFZvcfmkth1q5Ux8jEWwqezKgfudyVolieAXuuKC9v/rHLtSpvfDWtrkZZJV0Ab290kEkPBTeVTp+qnkOgKJjTKVBmNpHv6/bDVTt8ZgtgUg+PqHBJ/wEovASZjM/20m46q9B/n2+eF+JQ6E0hH3pFqbmrfVMiJ5i8YvLQ0lVepg5MTGsZNk9cEOqOqAdMofVrzULD75LbpxsaIGAllhaJyvoiCxgTBQD2qLQ1p98V+wAY4WAEhxKUpu764WY3tmMk1vw1FnoJKLRfAb1vQxcnnqRlD0D2ZbTkBRVQ==;bPSTku2UCy/AZoCRAVRcww=="
 ---
 

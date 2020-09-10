@@ -1,14 +1,14 @@
 ---
 title: "Use DAX iterator functions in Power BI Desktop models"
-excerpt: "By the end of this module, you’ll learn what the family of iterator functions can do, and how to use them in your DAX calculations. Calculations will include custom summarizations, ranking, and concatenation."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-iterator-functions/
+excerpt: "By the end of this module, you’ll learn about what the family of iterator functions can do and how to use them in your DAX calculations. Calculations will include custom summarizations, ranking, and concatenation."
+webUrl: https://docs.microsoft.com/learn/modules/dax-power-bi-iterator-functions/
 type: course
 price: Free
 length: PT12M
 ratings:
   count: 55
   average: 4.7090907
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "Tm3QYUbHnQBt9a8ePk1Oa/2oTfnoJrt59ydx9E0iYefMdh9vcezDRlWkEXeqTgB8DKswcPcd1LTQ2tnMt96LDehdB+B0zUARXTDNeq6YlU7EtGdruNgGFaJkKa6OZacu3e98GFRV5JFkuQDyxY+vK2kYW3q5X4bcX4NUvlg16rHYQWSaYYD3UQzDG0XRotAQSUx7QBAhpe3B30cyqYb7NSLiU+QIcVQvkQUU2hfFn4jtl3HoYRkjbtZyFuQkiXBKK91C7+pE0o/DTiKhPbum5fAVKIk757FzpQCl+h5dMShqLguj4bdeZ67ZdN46qQCaMJPWmfOr3CI4mTJYmggdZgN4hXjkpBLbOdAQVohw8/+8a8aJKASz3QmYtl0Rd4V+giXQd1JnSBddFjqNPwceZAvqIv6fN76dzusY4ip/12U=;1XvoqGWPVkEwS95+e6lIRA=="
+secured: "WqH/8NBonrPRXJ+8xUA5lNyYprwqx1R8dTW3H/99YiTOqyvvLJYA+6mSYwovRak/DQYiIZ7w3njTG5wiObujzWyV7wsevn88sg8BBkmhrCr8YSXmdyw7FYI53CqSkHzJMPZ3mrWrMIyew5dOcrdN/ONVOAOgaWDnFjOkmPFba7Uh/U9bSPhbrgyOLt+YzBso1u6/4i99hXFN0HYboyfiqXU2o/bmoy9TuldVH0Odxvu6dIx9mKDcXf6hB88x9EU3snWSBdaO62tHHgcp5RTP+puU5YJXkDYBw0CT+WwCpRtgnT3c88idkShOT/JZNi1lPfRomEyK1kTTR4Ix+HHTGKDgPjUgeHLY84ARhMNoNO9u8oN+b+LBcw7HXV1w7KsJ+v9SKs4uA+SqRJAX9gJDAQ==;Flev2ApjHVtHcN8t+S42Eg=="
 ---
 

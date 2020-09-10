@@ -1,14 +1,14 @@
 ---
 title: "Modify DAX filter context in Power BI Desktop models"
-excerpt: "By the end of this module, you’ll be able to describe filter context, which is used to evaluated measure formulas. You’ll then learn why some calculations need to modify filter context, and that it can be achieved by using the CALCULATE function. You’ll learn how to configure the CALCULATE function with filters and filter modifiers."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-modify-filter/
+excerpt: "By the end of this module, you’ll be able to describe filter context, which is used to evaluate measure formulas. You’ll then learn why some calculations need to modify filter context and that it can be achieved by using the CALCULATE function. Additionally, you’ll learn how to configure the CALCULATE function with filters and filter modifiers."
+webUrl: https://docs.microsoft.com/learn/modules/dax-power-bi-modify-filter/
 type: course
 price: Free
 length: PT21M
 ratings:
   count: 58
   average: 4.724138
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "FRvC4UBMGGF+BJWPO/ipO3u5PC6doqRTcIDhjpXl4uzxsRCRfsjIFk3Qj9K1EJ1Of3rlNIaRU/sbgCTThvxwcaqOtxR3ue/4JlQjIOZir47cQfbjkzFwExxiC8RUhWpuN5rH38YNYAAGatet3SnLfTPCgHKOhfJPhTDl9ThpJA4/jw2IeTBCb9vsMqRXh1HPRqN1I0Dz0L0W5hELJF1CXoercgHyUpLXLzuyKP1o4sD7nzl4cU36ruG8tuO25jO43lIC1K89Zop+TZuFAef2mFOzyv+lYShxBM2L1QZ3fthRPW9tWSTP7R4YkOg5/7hBYtQ/rOuApGfpRDpYA6OHc0UK+V//lpOC28XvXtvz2fCinVy8B7mtdxHh8+DXlZP+Dp9kXHwWdWbdERtPzmo9mC9sL6SwjzWHFk9WtmsVkYs=;Lu1azXda0Zk6kwaXhTp/Ow=="
+secured: "MtpA4cIZ6U5oaYPvEYgyFYvzxyKzJhCbnn/5HewoVOWmgJkjt1OIVW7fqwiAmRk0EP2Kc8bcqOv3SGrlN8tr2mqdwdPWvYV8wyvfynPSNjoBiJllTIJQX/tcLieUDgOKbMgLNvwv4X66mxTOxANKL77npa0khtn3us4KQOG2jnEmHz5iRKPbNLrPK5ljkEjQU8+mkKAK2a2TRqw2VGOTfDE2N76UUmZnN2+CZAzf5DQyUlNcwVM81E69Cx73SSTGEPxQhkrF27CtUapkqojdDxOyc0r65auZO0ibbhQ1dQUDbHHvj17XKQc0i/E+EzVgQDKjsDa8vjddYUvu8UeAPbhDI4KlGMfGeqFksXBcZg/TFsaE40niftbg4EgjX6N3Zd0TZPezWm99RuiNwgsznQ==;8+0oZ+n7x79z6DzmU7iF7g=="
 ---
 

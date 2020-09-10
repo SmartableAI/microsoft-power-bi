@@ -1,14 +1,14 @@
 ---
 title: "Use DAX time intelligence functions in Power BI Desktop models"
-excerpt: "By the end of this module, you’ll learn what “time intelligence” means, and how to add time intelligence DAX calculations to your model. These will include year-to-date (YTD), year-over-year (YoY) growth, and others."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-time-intelligence/
+excerpt: "By the end of this module, you’ll learn the meaning of time intelligence and how to add time intelligence DAX calculations to your model. These calculations will include year-to-date (YTD), year-over-year (YoY) growth, and others."
+webUrl: https://docs.microsoft.com/learn/modules/dax-power-bi-time-intelligence/
 type: course
 price: Free
 length: PT19M
 ratings:
   count: 53
   average: 4.716981
-heat: 51
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "xz+fcfKt6meHVlaQMXeO0GaxySBGlL6I7O+xPHOjpNFuhJuE23EgwKHIp44pngL9unw8eY8P531SIsvyajLIaJ6qN+iisHDjtuH2IlV5+QCxXmmVcW0+6QzbUrvLK1rNtew2Fd3bPRQwD6qsVKjifn1SuM57zVNvy4OCFm4fP2XfwJ1/wORE51X15r8xUfS1lqTT0N4rnLr/LJNG6hl5TbChY/9CfYGGj8cEecHUsNNm746hj9BSg1yes7pbHqCLj4Qn0vGx7nB+rMq/YDkbn0qcRHiSOpmgPQsoF1PBrYzCyn/3oXlBFtryV2RJTyh5Ljp0omp2GFKutA3J2mDQK56uoFs1JMkTMcDaqafrgU8ykNshdJYP1zvxZFxcigepb72YX5A+4uoX4qprNREc1yqZMffgRxG3Th5+GD05FaA=;VU+uJ42vFgZZWFmdCv5tCg=="
+secured: "IyCl9dEHV5HRGsUUvauAy9u9mlvYz//zQNUKheCy6OYNZw/1G//fPfLQr+qGfz6h11iOCi3DmIoZGuaPappvr+dJxiCKaV9rwBQ8wIGrhhdZ8WOFpYbMgpSqyR8ZwxvFjZr0m0sODgyjWb7CbugISAxgGCdjCLM7wa+ciHpg7+BMDRP+aV0oavFGde05odgooqC3lio9gDuEK8OsH47dZI1ue3lELprWAxRPk7aItbSEAwfXePlB4Sp8fRTkPUAV1Elv9SegfktUyFo0gtdNT0xqaiYf43dcqZbrhQP2FAw7a8NrEws4IlkTugfMZmgf/KSee5zEE7Z+NEiI/jxqwiJ+Ai8errMPZW8XIf8kZlH7sNRNZvSih0EAnlSjHv0De4daEsmpBVVIHmw9CsYwUg==;5psUQhAPUL+qXvTtqgQrXg=="
 ---
 

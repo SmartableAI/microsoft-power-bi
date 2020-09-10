@@ -1,14 +1,14 @@
 ---
 title: "Optimize a model for performance in Power BI "
 excerpt: "Data Analysis eXpression (DAX) language is a key feature of Power BI. It is used to create calculated columns, calculated tables, and measures. In this module, you will learn how to use DAX to solve typical analytics problems. You will learn about one of the most popular DAX functions, CALCULATE, and how it can override the default behavior of Power BI."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/
+webUrl: https://docs.microsoft.com/learn/modules/optimize-model-power-bi/
 type: course
 price: Free
 length: PT43M
 ratings:
-  count: 422
-  average: 4.772512
-heat: 54
+  count: 423
+  average: 4.77305
+heat: 67
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Optimize a model for performance in Power BI "
 
-secured: "KHnNZkH4aUQjlv2lVs7zWV0Ei8DMNji9UW1I357VcenEUYnQGONMXTmi8H6QO9JV95vlFpI20OigsJGmsIINlHhXxCbh+5XAvf1zVZci+roTWVYxaG4VLM7m4mXvzFjcBgIvy5Q6MT4qmM04BbKE52NnaJeOnOhyDvpHYeNLK4zXEqGwA8fARItaIlVKIXEn3uEi9NkMRAkStzemvLvwogANE02SZ3QbbHc/yRNZJERrEVXgRlMwqbuWTsWPF9bzo/l8AxhT1AytJFc5lfkRy3jzh6aJj+ly3S2kt/d6BTGt2A7w0+gzGeDqcpJDfqc0GasK1Mzg6+c3gx6S4vu/T/GD7lVVN2+m6tN4iOMRNpxrSOwEQRluPNp5IoqRDAPCTbAKpVYnvUUc6tEsTslCHyC4CLC0XM80jPDgg20DgYY=;aDcNRFv3zyiPuQGUj/fz/g=="
+secured: "Ggku9PhC8u0bit5FdebbHdcCJUGFLHUU4tLqXQsr+xXmdnsTh0Msgd6Y0LDNw6H1t/UkYPpmnHIr9ybvcBjGKjguvD79k4yDlzqQbNSh2Q6sSaipX4gD/qhFf6psciTuiYBbLif+lbpJ9mli9OFdvcc9wRefLif7CfZ4yBszNTmNA9Fxez+15BIhjqyPVsAeow7a/xedBXJ2rfYCWJ87PooVRfEFhYM5C7sJkL1RsubKSjxXe3cYS4lBwCZBStafwqFzEqFhdZAewwu1AZCpgTIbIb4E8f4WEEbm5o7WK82FnOsCgSWWtsgOOpiiMbb9Ygd402oCvIATWk1ap5j36+DNMsxWS7LqhJwPwU37mipXhpmVIFovJ07KkI3c8HE1yJM4nyCbHbDYqhghZ7zFTg==;aPh/urZ6rKYXWAUrjHUsPQ=="
 ---
 

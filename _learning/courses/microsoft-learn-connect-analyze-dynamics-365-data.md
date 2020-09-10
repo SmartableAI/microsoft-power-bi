@@ -1,14 +1,14 @@
 ---
-title: "Connect and analyze your Dynamics 365 Data​"
+title: "Connect and analyze your Dynamics 365 data​"
 excerpt: "Connect and analyze your Dynamics 365 Data​"
-webUrl: https://docs.microsoft.com/en-us/learn/modules/connect-analyze-dynamics-365-data/
+webUrl: https://docs.microsoft.com/learn/modules/connect-analyze-dynamics-365-data/
 type: course
 price: Free
 length: PT57M
 ratings:
   count: 1051
   average: 4.637488
-heat: 52
+heat: 85
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 400
     isCached: true
 
-secured: "xrShupAq/NN9+5TjLU4930QnTVSjw2zEClA/W/ICh/aUw3A8cWA/AZMReKLLioL7mTOHgPTDNM0IoqEWhVMj1YxzciA7wh8acO9/Q9E870VrSWh/Ekbss01ScchtNIjmUQIbo2TTsGvdo+WzFNN5j3aM+fJSMqm4nKw2FuwF8z+NmMcTAzBEQqykll4LjActvAZYFcQiWIg3rZCWuC9sZuzpMLXaBYDuwIMd3Uck9eE5SCAG/mbSWb+QGbEbXRHXFl98RG3ujFa5R7Uc4/fdWxAN0bI8LH3j1NmmHMsZeFJIPPvEbyZuuvPF64DpKmIXNzCZXH5Tfr7HoubWC1YtKkDQqva06PJ+E3nb4gwWsyyRZpIgD5PyBCHRmSul+60VtwYc66cZAXjCHJRNTLALydXkp8mlqq4VbSVVw6HGySs=;MpTocIX7soC6L/KhyRALzw=="
+secured: "bgVGN6Bv5YZiv3qjUl3e2YRfXwTlJms6T1W3QgGBLvtWLVl3eQ3KvE36y9Zj9rnpruvf+rtsfkdjRbeUVN/+ctBlZxRTlDGW2LBXUSMzXOD0jFqbpLyy+/2fgDJFIDXwf1lu48zszMLFKzBCacRc/NeMP7uzwGRr5IFRFmWFqTZWyHD0omyByaTDYfHmppAX9iKOWrOioFLs2MlLRQf0sWy/hUTHIQOMwuPpwescP/p2fOUNmomz5GibeaPvB44juN/TXnXLI4B+Xx1IJvpNJMeezvinbzSATKYTWU/SLCw/0QqTQqmxHfzHvToFkJrgiabjzZuqA+5bnmCRzJeoOf1K2Fky2QKnoUXfludV1ux7Lid3dfKkrhQ8+NmEYCH1L7wE0p08p7H7nTRznvEHaw==;mHCbL3m2uuiYcmZQuFsPMg=="
 ---
 

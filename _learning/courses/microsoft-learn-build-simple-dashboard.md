@@ -1,14 +1,14 @@
 ---
 title: "How to build a simple dashboard"
-excerpt: "Power BI helps business users and developers alike to easily analyze, visualize, and collaborate on data. This module will teach you how to do all of that without effecting your underlying dataset."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/build-simple-dashboard/
+excerpt: "How to build a simple dashboard"
+webUrl: https://docs.microsoft.com/learn/modules/build-simple-dashboard/
 type: course
 price: Free
 length: PT24M
 ratings:
   count: 2071
   average: 4.689039
-heat: 59
+heat: 109
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "How to build a simple dashboard"
 
-secured: "2361w8e3n9nvPh40J6uUUzIRaCtDCzSONf8iJS5qVAGHyNgi5DEY2i277uytziYjP/SxGupue1+0jOZ14KcaFJbgExa6ICVybosW+5rB8ss1IbhemftOG30Kmad9PpdoVa7r1BJ9bYFdIChSP3E7IvoplOlLy6fntxWoedrykIoiBHwWeSFkTPxMIaQwWfmSpFzbTsmdk97IdU+4UnTtDo1WHxDhJCn++yQQKzrC0rPvlx8NqggUrj0crDYD4Wv5nDFI5GsfKU4CvLYekCsyhi6un5ZSj6Q1zfMIYLs/28dgxTZ1sxrN4Az/CU3RuciFaFTM7y7UfzWzqH6qUf72osFV24KX0Wbh1U/eAlE7wJ2nyfcMeNS924Gvjr7GgcyZGs2vPsn4GScCkQg/EYSkuPe4kcfmE10SQtjlfQiBTnQ=;pZ/PF7gr2YLIxtUS+Q+N0g=="
+secured: "e/Qk4UperpomoeUsnAZdEPlqkkNVoUkpATZKgC+3h/++ZOxmi+Utue9q0ySP/kmkG7vWSsXWW/CmQJfsrR9FY9zfJqO34+HIQCOR6+tctYYr7YIa+ELE76q771RXk1Ogmtqs5cP+Zyua0vq8uix1CehopymRCuI48gRj+IZHKGxvkiIg1x38yxfv+LU8/5StV+3fvUCDHp7BuN1I0+Wtcq6xdipbjh08lyJa4iKNbplloVsV2qwXpFcpu8OOIGhX5BD9TO8LrZn4SHbrv6jTqp1EDh4ggmI8cWdFjt0A/t+d3IUSN0IQCU13SOxsROhlWO7C/0DYDHmJFfUKoMhSn4a6DIvXkKGws7AqTp+XhQ9agXs4htbpeUsjNK0c3eLAlm5yvdVEdLtmMXz0Gdz8NA==;MyGXP5r0So8hCKoCu8agWw=="
 ---
 

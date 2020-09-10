@@ -1,14 +1,14 @@
 ---
 title: "Implement row-level security"
 excerpt: "Row-level security allows you to create a single or set of reports that targets data for a specific user. For instance, you can create a single report where a salesperson can only see their individual sales transactions and not the transactions of someone else. RLS can be implemented using either a static or dynamic method and you will learn both here. You will also see how Power BI simplifies testing RLS in both Power BI Desktop and the Power BI service."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/
+webUrl: https://docs.microsoft.com/learn/modules/row-level-security-power-bi/
 type: course
 price: Free
 length: PT9M
 ratings:
-  count: 174
-  average: 4.724138
-heat: 53
+  count: 175
+  average: 4.72
+heat: 57
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Implement row-level security"
 
-secured: "15lIJ3FBuTd+tq6Q8jiFz+5+fA9JdA7YOQe9b2J06YqPH+0DdrazYXy3RkFQfnQ+0aAmRF4SLphUev/0AhafM577W2aOuLatqt7FkoomxA2UG/YbfGGnGuwxlCDv+x1kz3TCsr4ea5YcOLbyURGqriBNV5zXt3CLoylzVJseJq2oOVsddxYJVEzHReXRzwkLSvDxoYfFLKLXAdRDc3Jl/Zo2CgunWCU8Pj+CdF8E4SrY45mYvWtG7oYx8WzriPuauthYMXi9PUh/8jvCbxatqBviY3mOk00AjFs1rxWlYg7A31uJ/5JBK2KzNwz7T2NHjfy1v3yUc/rUfAquRC2IMNFdGzXP9lMnjFFJDm+Er/kOh2J2FbLqprwnq9YDt63W0BhUgizZlsLW+p5CWLw3pxk5fjiUbbVXZI+acCpghno=;+BDO0ygb/OjS136BETnemg=="
+secured: "RDjHXgQZEj2UBVzy8aGg28yVx4fEFk0H096R4JUVGO2ztONe5P2TsPjHVMcsxVgm7IFbMzmECl76vj2I4JPvsHQ1tv0Hn4gG6xhL+qiv+I3QKbmj0SEftkCHtlC8WjKPkgQaRX+kQHBUB/egZt719+IZjycIIaGl9BqayQPhlcmDVEb89Z4uI4eIHsTeWmcDxrWX1c8eHx5yyrh3AVvZ732OW8vWS1dRggNJF4cW+1bhe/w1ptouWKUU2uALjYQEpYl4ImuWLZmQfg21EeOpZFnKKQE0U56RWwgDSesZUbwemk+D9FWpwe3fqyUipr+dcgVseO6v8OEPfXUvX7qU5gjbIdRZldfRPyq2Wb7jA/A4mhSYHCzv0ANzTJDIK8vrUO4W5KC4QjZ+/4H0x+g5NA==;mMSbWYISJW//8kOIoBddOA=="
 ---
 

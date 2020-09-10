@@ -1,14 +1,14 @@
 ---
 title: "Use visuals in Power BI"
 excerpt: "Create and customize visuals to present data in compelling and insightful ways."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/
+webUrl: https://docs.microsoft.com/learn/modules/visuals-in-power-bi/
 type: course
 price: Free
 length: PT1H16M
 ratings:
-  count: 3682
-  average: 4.751222
-heat: 62
+  count: 3683
+  average: 4.75129
+heat: 136
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Use visuals in Power BI"
 
-secured: "iugRDTQ0cXPF8a00gUNefirMIdyON31v4mmX6CzPJTbYHH2iIPy1IMhXwVvsjYe2KMnTt2NB4nuP4CjrkAwhLmbKZWA/rTsmc4D584pEarJ3KYFi91OcQ7A/+d6RG/lS83mJg8kSfUBjbCJ0Lla1Ib5y795yJWwnbZku3YWz/4xQROdDZj56447gs6fipHhTVHZ0JXC+14EhP6+MmxdVM53RTqfsD/96bw7e4/9diBcbv1NhHImtyb4CXYvol5dmjt6ik3HAFDmvvmWZAjEflrMnbDLj14t8srktsvNwByiIIg+ajxsYROa1+GbCUZKoRYb6TI3YXckwwo6BfhRo6WC8QV01GTol80DZlDmER9FQHb3K18QypZK2XbTT2QMHqD7y3bnfpniY/IaPYmGnBNZHFPxmmVjC0m8fWxFApnk=;MZJTx/MBjuGfsgJ5jBr4gg=="
+secured: "QwM+7FP1aexjRCNT+g5IgrJV89wz0o9LkEyqeNduvDOZSrawpNjdCQsrlyt3TiEFFXoxJg8kKMQb0RrpGBUy0jEp+9p3j0JI/jlKtCmRyJF4P/GIIauA+F1lC1GhXE89AQpiRppRmLTc1//HX3NZkOGul7nEGMJ0l+sLyyF/HG55YjLKPqCFcdyIKdc9ZnWmIgOpKpkwJ/dwF8+icLiKT91EiMuDv+UYJ0+D+IQSgwb7eoH0+H6l9t4p9bBvRGXrYY56XjG8EI/h9A3yejwABMNL0CZnTh83KKMLb/P49TrZQw28JSOQ4hAfCHx8fKMxItjbzaW6ZHueHF2nkuAoPIxBxDfA5W2wTOXz4lfZ2GGVGzD8NtHx1vv4xPaN93N9dcWIAXUKfoFGycsVL947Wg==;xjhCg83xwTFd3rxEZNB6Cw=="
 ---
 

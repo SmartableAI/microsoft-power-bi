@@ -1,14 +1,14 @@
 ---
 title: "Introduction to creating measures using DAX in Power BI"
 excerpt: "Data Analysis Expressions (DAX) is a programming language that is used throughout Microsoft Power BI for creating calculated columns, measures, and custom tables. It is a collection of functions, operators, and constants that can be used in a formula, or expression, to calculate and return one or more values. You can use DAX to solve a number of calculations and data analysis problems, which can help you create new information from data that is already in your model."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/
+webUrl: https://docs.microsoft.com/learn/modules/create-measures-dax-power-bi/
 type: course
 price: Free
 length: PT2H40M
 ratings:
   count: 447
   average: 4.702461
-heat: 58
+heat: 67
 
 provider:
   name: Microsoft Learn
@@ -23,15 +23,13 @@ levels:
 
 topics:
   - Power BI
-  - DAX
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/create-measures-dax-power-bi-social.png
     width: 640
     height: 320
     isCached: true
-    title: "Introduction to creating measures using DAX in Power BI"
 
-secured: "MhEZ21dgrKlFvF938O64fmvBtlCmKR8I7Cwu+a/qNZFO/CpnIXS2n8zEJZHaxTI+q1/d1OPd58xLM0V63uUjVhXpy4yw6cuSRjHX49/zlQtOc3fvpMTHqIN4i+oX58LoBf8Eo7ZmHlHFXHr2W7mXslFy5PuByHxIZ3aj78qED6j/I59H+OgfrKQftAudRUij/2L2qf4I1cB2FAsEaIopEmx9aaeLGniOaZ+r8XCGW7w1mxqSpQ7PciE1ZNalpjUt8MP6SkoCFLWJ8HVzt5PNW97J6xDI4BNPndlK0d5AAXhIt3Rubmd4MXGqWGimJqm+AbIdPOAz/zDySEot/MfIBsHnANNMhE/legUWvnObV1p8bPcoh/CK42MgYyQTErUTj7JCZY3iAOcYZMhB4jhPvM6aC27kA6VxFMGUA24CW0I=;Fy6+FUalhIJ5rnFddezE5Q=="
+secured: "SapbOM2f1bb8JsSoS4zM3no4A9M+XaDvdFRBPXSiq3TH8aM0APrb9KQCfDXoqdzejCn2yi04Vb5lrIXkqxmsL6rLEQswrj+kPGk8430738gzGoWYjRLF9v4BRkGcQDjcg2EiEBKjFwA4+NS1hLuLxOm8H1b7qdGPoVFldZZY3IteJG13ggetx7AGV5Kw9VThc6j8wrzuL/kBE+e+qlSSAeJJB2bxRj6gOEHNYsu1iQYey3tRUhNYc6EvScrEvFFnBBOL16rNL6KlIArLBCSCD/lJ+EjMR5v05rpZVk3ztl00CAXbQjwcs9esv9wFsbmIfgD3Ot4gnWjnA+YRWMg/kV7G0/JYXGY7B/Y1LqOtV2lXO5D9yeTrZPfWel1CcgFiUbA7UxXpuyOK/PN4tkDm2A==;EnQU7igCBc6peUY3RVQ57Q=="
 ---
 

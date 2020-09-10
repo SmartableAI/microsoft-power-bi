@@ -4,7 +4,7 @@ excerpt: "Report authors can use additional features to enhance their reports fo
 type: collection
 price: Free
 length: PT1H52M
-heat: 113
+heat: 59
 
 provider:
   name: Microsoft Learn
@@ -33,7 +33,6 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Perform analytics in Power BI "
 
 secured: "jchaiReImZz+cLDoj6Of+f7fJrQZeeNWA68JkHHXKuTNtphVgNmmE/O/8DqwMSzltxxdXlEkb92q2dsiQnzeuwaTgSOkS3MBpw8TTnqk6gxxev1r4P0LqIdtFEVUaeI+nRk1aUGZWC1dvtS6EWU0mn5GuVWPX3ScmLcdxZmyghlIuLBezxouQW2lhjichgE1Jeh/yWslJbjzEipLgm7uaD6RDZZrIFIuNF3QC3Q6UUTkog3gYWzRw5LCzwzKimLPSSwVv7RfhjD6C+/JTS3N+lnmzKp8e/1z11LLkFLBwbArgKBL4FRBwLS44PgRtPQqGYPlgPNXMoR2v+w36kOHRA==;CFN9bRD0puB/lZe/O779Dg=="
 ---

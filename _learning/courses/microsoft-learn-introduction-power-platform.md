@@ -1,14 +1,14 @@
 ---
 title: "Introduction to Power Platform"
-excerpt: "Learn about the components of Power Platform, the business value for customers, and security of the technology."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform/
+excerpt: "Introduction to Power Platform"
+webUrl: https://docs.microsoft.com/learn/modules/introduction-power-platform/
 type: course
 price: Free
 length: PT18M
 ratings:
-  count: 8625
-  average: 4.6951885
-heat: 88
+  count: 8628
+  average: 4.6952944
+heat: 183
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Introduction to Power Platform"
 
-secured: "M3zR4/JdR20TNCpIES79KllAMlO+UZReNCO1leNsA1rYtXpBVmZX6XYxFt60WYUYnyzwhxRisbOA3quWICgFsvJNgPW6j3IaPWOaW+9FlJINg6cnmuZ78KBGclJr9beUbdis98NKsPrlCGRDyZUFLtJPai6X8C2uYULQMF/9jYCLn2Dd8sdTzIBAz6bIVsOR1lnFyWKK4L1qtuav7mEGu7NcNT3WtxmSbSEOITRm2/0ksyyP4oILr1eYL6vEndY2FSmiIMVmwlREftHaOTKeVuC+jDKUHo9zPIF23IpPCxMbci16liT+8DinZsHfAHRl6J1ybWgBYf+kZ+sOrK8paydHevfZYlAy5xKf0OxjVzvad4uBqfDurn35LgOClCwZcbrMOLIMIETJTh02eof5n39Xw8QbbEDvFKgCyHbKHPw=;2mZHey0IsRxzHSZq2QW6Og=="
+secured: "EPWlGq5hgiOte+8ez4Ou3EldF21P/U7h5Gq3w1AOem6F6/g9jTQXdX/hxAC+ItUrOGOlBxd2ri9IVwizs5cKxVC2ljym0P1BNavxUMMX7bd/seTPOggwVQXZqrq+IHTXpR4l2p94xAlZEvOOr7imhXIhV0PClrttzA50JZEAcKghakH8OLmhnkNF/KgedQCej/L1n+QMa8tsXN4AgZqnc+cKU9bUa23xe0gVL9d2IyRA6miWdAvHIPlyd0J6tkyuc8I+dW7N5JHxaYqN+OoH3nMNMn2QmWh34DYnXcLmKzzdkm+/+glBr0tP4z8qtWXIUc29C65Gl5s9Iuje8OABa3awLByNoEoYdJCcHDIZZ2gR1ftyPNWy3osX7OMW3hMQjJtd1DoW4jr4eP4IhUJvGA==;HGRp1BFGTcq9pZK4DMt+HA=="
 ---
 

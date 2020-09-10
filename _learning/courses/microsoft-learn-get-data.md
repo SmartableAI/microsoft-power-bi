@@ -1,14 +1,14 @@
 ---
 title: "Get data in Power BI"
-excerpt: "This module will focus on getting the data from the different data sources and importing it into Power BI by using Power Query."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/get-data/
+excerpt: "You will learn how to retrieve data from a wide variety of data sources, including Microsoft Excel, relational databases, and NoSQL data stores. You will also learn how to improve performance while retrieving data."
+webUrl: https://docs.microsoft.com/learn/modules/get-data/
 type: course
 price: Free
 length: PT1H25M
 ratings:
-  count: 939
-  average: 4.747604
-heat: 67
+  count: 940
+  average: 4.7478724
+heat: 83
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Get data in Power BI"
 
-secured: "hPwHT6tGHsRA2XH2hr8Ir8Y+9G9LqiofVf3FlnvZqKt5SPbgyjESM+QOp5eqohBsVTOuM7IqEUyoBcoYkx9w4ClwAKKAUo6Ni/Jj7CgHPHEOLoleSWDk5q0bML+ZPy0Pkt3RTKlmZkdvrJVtW+tGTJLigQfRRrdIxs3806m8Mvgu8TAna5EU7RXkwnUOwjJCzCarEHVsY4GnxNYeF04TQJoJXl+rxuffSqdLLRZYzPe1Z7aKofpkW/YTwk0L/NBRBX+PvkuFwHwUMe7dbdyy0urUKbQkFK/acNsMmtbrrchfEtPW+c3WdVAYzze63JUs5D0KT/YnURQQ4qipBTic9IpUspyle4KZLBsMNJZTyCiopLO/Hvux74g8eY+lBpRs4qpM9f6QqAja88Vw2hD8Bu4hU2yFLvRvB6/0abLtQr4=;Awbhq/IoXLhBj4r7MfYAqw=="
+secured: "b8ObBuWCnkWg0HND+QXtoJ+CSQoyGXnHGl19ILx10XmTbEYcC0I10R89CDMQSEae68dAJtELRjHIy5WKQYttcsM2cglOFelocQGNRHCVorv2uf29jr3eQp22ykRnew4v2DAV9zbmcbqy7YqXqBcpDhlu3F8U3Q7nOtVC9VKC7Za1dbRlyz6vRHKDdDUOaEinWrQdpmg+HeYHQSr6z8pa7Mqj33qG09cXiinBW7HjZSevFL4x5c5jsPuC6muWiJfBlRsUm42FmDfWsIhfAfY+Ve+gw5caDbwJct9X+kk9aImUToT71pMV9paSQPkeucjKSgdhTpcnUcQ/VxMqVw5MSFWoAWdGXRygXnpMEoNeAf2I9QV4fHwV5XDfkS7VWYHSoI2SgPGsIBS5UZTTQGSSEw==;2yT+QQWez02O09URNFpjaw=="
 ---
 

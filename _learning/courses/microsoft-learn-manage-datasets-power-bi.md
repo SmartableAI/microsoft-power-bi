@@ -1,14 +1,14 @@
 ---
 title: "Manage datasets in Power BI "
 excerpt: "In Power BI, you can build multiple reports from a single dataset. This means that if you change the dataset, all the reports will be updated with that change. It also means that you can do the work of cleaning and prepping data a single time, instead of repeatedly for each report. Once a dataset has been deployed, you'll want to automatically refresh it, so the users see the most current data in their reports. By using the Power BI gateway, it's possible to retrieve data from on-premise data sources, for instance a SQL Server that might be in your organization’s data center."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/
+webUrl: https://docs.microsoft.com/learn/modules/manage-datasets-power-bi/
 type: course
 price: Free
 length: PT32M
 ratings:
-  count: 154
-  average: 4.551948
-heat: 52
+  count: 155
+  average: 4.548387
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,6 @@ levels:
 topics:
   - Power BI
 
-secured: "CSI5PRzjas3ECkvTd5mcGXtDbk8jhABQ1vWACJdRZpZV/VjXISp7fNxosQQ4w+MfIpgb9Qp9EPFXVyU0J15cz9RAxa/4g6/SKOMU1dv8bVzNIQqP8tAaYwxLq86T1LB6xg2cBCqlt0akkquD7I+wwvvwwOpK6l6lKt5+ZuJWzVXrN8xxTq0aXgrYGN9DmxysFfCXShCn48AA6tpQlgcGUYiuA7sU7KGhMj5N6tkw4E9IwJ0WsUQgyvAjLJ0VIkRjtFDsfZ+wDlROLTO+zXyFhic8A32IpYLVs3+Kp5UtA5PLuVxrPrtX1234AAsJPDzC99t3hDFKtSmBgZSNsD/MTeXam+XS71vAYWV5YOFLovEu1I4H3sM0yE2m2yroKbAVGjZb1OFYISH9K5jTFrBEcKFyV6y1B7MdhDb7YH+j0kg=;1FqyeDTE1WVDdN3jVKjGVg=="
+secured: "OSQul89rpugZbvL7YPuL/Ggds3vVUzoVsSULL6k4RYFwWetsrXPxQi5KhmNqBpLD+c/eTo8tM5C4pXQuTS4Z04Bg1kpa8vpI6TiFz86DkV7VNGQdH5uuIn3nr9eVnMUTdXONUaeJra1jWJK9s6zHCPri/dAyMvNnDZpKgsqwJ2DfG0szq09kI+bzaNprptL2fflrPr+DDmrpv/Pk+2pu577Jv6JPl/Dy7/2y5g7K9sh2xUh9a4pYmZTciM4vrZrEPHuo8rRNA5wjj5I2a8VaVpNijcXh+xqVMWqA6ijwcJTrQnyNT0A7mfyhN8Sj7tZlgYU/kKo332Iduytiv071zKLoIKWMlPsuwH1H0cctQtBCjHH04XS0HqnGzQRGZzsmINlj1j7bspAKE3Q+KhTJiA==;cobv1xRhHwp3OUVvxEDNQQ=="
 ---
 

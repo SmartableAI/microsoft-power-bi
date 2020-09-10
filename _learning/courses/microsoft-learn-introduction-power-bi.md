@@ -1,14 +1,14 @@
 ---
 title: "Introduction to Power BI"
-excerpt: "Learn how you can leverage Power BI to easily build reports and dashboards with interactive visualizations and see how other organizations have used this solution to drive business results with actionable insights."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/
+excerpt: "Introduction to Power BI"
+webUrl: https://docs.microsoft.com/learn/modules/introduction-power-bi/
 type: course
 price: Free
 length: PT21M
 ratings:
-  count: 3257
-  average: 4.7270494
-heat: 84
+  count: 3258
+  average: 4.7271333
+heat: 130
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Introduction to Power BI"
 
-secured: "SDiTtC3XbAbtIU2PS6GpsRiTuqrglXel//Dj8tnqzFEoK75DbmRmN6TweoVoN2XW17nK4ynM2mfEguCiWOZX055L0fD3A5gikeGAmieI4CJCgL06PNEHX/G3XaWMgv593ahB0sWsU6iFizh5MLogsR8nP3lY3ecG3Zdrk1ebe8gxNJsiO/yJuCv95/J+jc0wWFxoKtP45OvIEoalFu13z+NY2qQJz578P5vo+qAVYd4kE2gE+JUMCMKL3l5s0uM10N+dk4XF45EKzE1NB4uTcqNOvw9UoQ1gwHg0uDGzWWZmMDX51UMherzqJNYUIkbfGVZq1FTW2kbhHIpsT//tuek/LEs4pD/kf42QWNJmrREW/Vmwz1mx24X2xKSPpe5jI+uLo9rqZPEYYa86h+oU8rhjD7678w7ZuLraWMHwfsQ=;ufsh/PMGYWe+zcbhQzafdA=="
+secured: "2CXfJMMApSiIbAkltPgnp7PONLs2ZKWZm+INcvQNXHT0ahbsoJmQlVbroaAvE+NeDQoJ3XIppcfu6VVlGZm1CgnCwMwTzzPLt1hjWzJOuCaeWzQ55ywd1ke+LS8rMHbcgtAxNcl3K/nhhFVM4CPZz6qTdRx0Qt7FSVOg3nHnAdsklgbxDYSjPGis2YU0i2V0OjWj0NOTP/a1S/Gwfm24uoAhyDrrMdQfYbBfV2uRyv9dxWFLaHHXglets2HmWd5YusibgkuEnm+1I0ybtMqXEHD9ZZRipFYfXpb/hGqvLSg9hK/ciwtdA5qvYbVJJmLk6fQk4UDCkmL18ztGq1h0WnZpWRwAuxQes3hiEsGl7vTE2iJeUpJBkvQefBJ1M5Vkj4JR4Al7hSXbIIpNcZs+4w==;ltZJxC0UY61OWQ9h/XiGnQ=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Model data in Power BI"
 excerpt: "Connect Power BI to multiple data sources to create reports. Define the relationship between your data sources."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/
+webUrl: https://docs.microsoft.com/learn/modules/model-data-power-bi/
 type: course
 price: Free
 length: PT1H7M
 ratings:
-  count: 4710
-  average: 4.7070065
-heat: 62
+  count: 4712
+  average: 4.7069187
+heat: 148
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Model data in Power BI"
 
-secured: "FAvcsofArgjZdVsU4lX+j+BzmUqlGWzHz+JUyrEcUZUiNpU7OdxuvZFFVeNCkLY0NOaTrB3fVntJZO3xIdPuICdqcW79VgzFPk/kwH2JDhgQmZerO9PXTw2djevKMgEgGYnaeRKf1+Cge7m6YjHNRVQXgdRVLD9dg/1hi/aIKqTaVQzd7YajWbf0xkXR3J2KjhLr2LozvbfqKV4ynbd+yzaTnRb2KaYotTnhJ+b5dSZ7ucVaDm8c7mJM7gWORFw9zd3khQ4R+AErp1LN6a1V/OUVPkeILCe9AObCQGVPcfXQ30xnrBLx8AvuFnxgqXc51tOdfbtoK7syfJ1eoxEVYUpQI4N+mGUEzDHLRmzjZbcBqp4hNupFAEYT2JV81ZNNcyYNa4Vp4dymHelzQUxlZaUN1sZyBsb7diWdYvu4iqw=;OCe76Fwq8hNtCmbi6a7mEw=="
+secured: "fUfIYN0w+AMKG8RpeYaq25uNMZoUfcyV+5p7MaGYyzOIlC5fBiu8jFeUkEPOEev+FNDZQGA/hRxaEbQwri5bXD7nQABofIwkfnmk6YwMu6o9aVGodJTj89krh02SlvoiwmO1Hg4tkaR+Pm+NEtEAK3rpVLdRnc5SUrSyp+/XKvpCwz/6923d1F1BEukg+ZUQ5+2hj1ffwm9zCaVgd2DE4RokVtBMUmS6nG7vWJwLSQzU0ySAVBuptwdRJHj1fcamHp34rbkcf7FqwFedzFBdsSZCa4M+NQFTF/WOwEXHA08YmKDt9y8HDa8sV6N+aLZxnR4PP3GPpgNpRAYNyd0DxuisZn+6MarmG6WTJg2D8Wt+wtCiaVefscdWECs+t7b8gG/8FL/6mGbVwUSnEtcztw==;7VG+tbvKA2+K1QO4oiJRLA=="
 ---
 

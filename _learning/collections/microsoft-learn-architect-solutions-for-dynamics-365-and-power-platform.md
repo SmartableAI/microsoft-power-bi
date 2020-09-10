@@ -4,7 +4,7 @@ excerpt: "A Solution Architect is responsible for the successful design, impleme
 type: collection
 price: Free
 length: PT3H57M
-heat: 63
+heat: 78
 
 provider:
   name: Microsoft Learn
@@ -39,7 +39,6 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Becoming a solution architect for Dynamics 365 and Power Platform"
 
 secured: "NqY3jU1Tc1JHbn+qjkUBoZcytCfF9OK9VZkPpz1g4/6eLVTSCLCQv+n/eggsjlG9Wo8qVJy6SlS92MdEVCTozg0j11mCEiLc20vL0/xoShBl46YKJoUbcyNe6pImDiU1dwkvrwPDpB/sVxA6KEk+gqnOHfuTaEkDEp8cNe1OG7Rg7zS2YIAa4Uz+y+lwe06+5vKJOOf+AUW8DJV6BQ4EGpaoKUiEAQL9VsB9A0JDWMIg0z7zb4p47bXEYyvzNSDfI4CCDGb0nIFilVUvOdA4AyD1MsONk5m/RYDc3/hnRJlRK+Ze/LmbHeLCtKNW+iHwxF0UibGNqMNGi3m9NtNFbA==;gR2YXLKZEJTbXspXhDHcjQ=="
 ---

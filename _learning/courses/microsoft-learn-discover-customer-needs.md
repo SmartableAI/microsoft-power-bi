@@ -1,14 +1,14 @@
 ---
 title: "Discover customer needs as a Solution Architect for Dynamics 365 and Power Platform"
 excerpt: "Learn how to ask customers questions about their business processes and feature requirements to create a viable solution."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/discover-customer-needs/
+webUrl: https://docs.microsoft.com/learn/modules/discover-customer-needs/
 type: course
 price: Free
 length: PT36M
 ratings:
   count: 401
   average: 4.683292
-heat: 53
+heat: 65
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,6 @@ levels:
 topics:
   - Power BI
 
-secured: "Xjk5jmwRHiGavQPjn8cG/s9nm8o8aw3xz2uZblbt2S3APfUF+Uqz5c0lhIm3kJTbHuO9fniAwW/nN0TAAfKSQJo/w/rjaID259rbQ2BFooIxp/E2vxFH3f304Av2aQkETUhX5ebMkxn6O7NFqI6VAd8WGPzDzg9euRYfVyEYHrUYrJ4zKBwXlMamLjZzIrA+BzdRYrQuo+v6d+9Y189QgbzauSEmU+3FrIP+rRWd0Ds7gOqyDFHSR4c/p4GpW7fICwPEx8+/5pXU3Jqs3kFJkeha4Tfzr6wgB9Fw0JpOp83TFZoKKn6540p6RiV/VT7BaQq4szh8x+OL9YqfdWnBQJL6ryR4tcps01BE5RPVtrDfs1H8qU8zVkQfsd4wj17Y27tLOLuKbTcSRwaURCmC8MwfrYuVmjhazZm8+/Rhx8k=;/JI7KG+obcm2g/S/xqb8oA=="
+secured: "sS06+cw/e+/4Pp9AwpN7GxNyLeLiOnPGZfSRAs1TA4A3o/ngXQOu0jSF0ARx564rhHi5Yb0YwGFEJHCgwp19UtNZwzedekS4cgHoOkNM4YCDEGAEl43uL9oRI1nqUkWe0fhZ/2l4gqDjmSGefv0MxxbNmGBC8R/sFg8vxRvu8gvhxfcx2v8HPOn020BpFRpUP4rIVpdHkiXJZzo0xq0tBtIAsieagfjr7e8WYmUQ+dF2Nu9FdwwtqMRN10UJ3029vHXcm70kuAScOsEMLPUTlM2J6mTHD/6NLOzCVnorEIh1criH9/oX3eRIsvAY1qMLvQhrBEMj7rQZqtm5OWaWNJ65JBIc87UAtPtpu0JP3UYzV0S/DQXG3004s5mkZ/RqXneKM6GdRMK3zegePPtC0g==;rc6KNe62stBHkRVMJDppyg=="
 ---
 
