@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://powerbi.microsoft.com/en-us/blog/join-us-power-bi-dev-camp-thursday-september-24-2020/</loc>
+    <lastmod>2020-09-09T23:00:46-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://smartable.ai/apps/powerbi/news/2020-09-07-power-bi-implementation-migration-colors-and-more-roundup-sept-7-2020/</loc>
     <lastmod>2020-09-07T08:00:21-07:00</lastmod>
     <changefreq>hourly</changefreq>
