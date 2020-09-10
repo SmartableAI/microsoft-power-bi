@@ -95,7 +95,7 @@
           "path": "",
           "title": "Model data in Power BI",
           "excerpt": "Connect Power BI to multiple data sources to create reports. Define the relationship between your data sources.",
-          "heat": 149,
+          "heat": 150,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/model-data-with-power-bi-desktop-social.png",
@@ -220,8 +220,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 17956,
-        "average": 4.7289486
+        "count": 17963,
+        "average": 4.729054
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -253,8 +253,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 12673,
-        "average": 4.693048
+        "count": 12676,
+        "average": 4.693121
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -294,8 +294,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/introduction-power-platform/",
       "length": "PT18M",
       "ratings": {
-        "count": 8656,
-        "average": 4.6946626
+        "count": 8657,
+        "average": 4.694698
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -354,7 +354,7 @@
           "path": "",
           "title": "Explore what Power BI can do for you",
           "excerpt": "As a consumer, you'll work in the Power BI service to review and interact with content that has been shared with you. This module provides the foundational information that you need to work effectively in the Power BI service.",
-          "heat": 167,
+          "heat": 168,
           "type": "course",
           "topics": [
             "Power BI"
@@ -372,7 +372,7 @@
         }
       ],
       "size": 2,
-      "heat": 167,
+      "heat": 168,
       "type": "collection",
       "price": "Free",
       "topics": [
@@ -387,7 +387,7 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 6436,
+        "count": 6439,
         "average": 4.6671844
       },
       "provider": {
@@ -405,7 +405,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 167,
+      "heat": 168,
       "type": "course",
       "price": "Free",
       "topics": [
@@ -541,7 +541,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 149,
+      "heat": 150,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/model-data-with-power-bi-desktop-social.png",
@@ -564,8 +564,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/visuals-in-power-bi/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 3690,
-        "average": 4.7506776
+        "count": 3691,
+        "average": 4.750474
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -724,8 +724,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-data-power-bi/",
       "length": "PT53M",
       "ratings": {
-        "count": 3054,
-        "average": 4.714145
+        "count": 3055,
+        "average": 4.714239
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -803,8 +803,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/publish-share-power-bi/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 2910,
-        "average": 4.7099657
+        "count": 2912,
+        "average": 4.710165
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -844,8 +844,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 2425,
-        "average": 4.752165
+        "count": 2429,
+        "average": 4.752573
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1031,23 +1031,23 @@
       ]
     },
     {
-      "path": "_learning/videos/absent-data-channel-create-dynamic-personal-greetings-in-dax.md",
-      "title": "Create Dynamic Personal Greetings in DAX",
-      "excerpt": "Learn how to ultilze variables, the SWITCH Function, and LOOKUPVALUE to create a dynamic personal greeting on each report that could make someone's day",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/absent-data-channel-create-dynamic-personal-greetings-in-dax/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/absent-data-channel-create-dynamic-personal-greetings-in-dax/",
-      "originalUrl": "https://youtube.com/watch?v=ctT0UKMeTbs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ctT0UKMeTbs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M15S",
+      "path": "_learning/videos/absent-data-channel-sumx-simplified-finally-understand-with-excel-power-bi.md",
+      "title": "SUMX - Simplified. Finally Understand with EXCEL & POWER BI",
+      "excerpt": "WTF is SUMX!!? Stop the confusion by going back your roots in EXCEL. Follow this simple guide to get instant clarity.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/absent-data-channel-sumx-simplified-finally-understand-with-excel-power-bi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/absent-data-channel-sumx-simplified-finally-understand-with-excel-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=7JgbyhlhfyY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7JgbyhlhfyY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M45S",
       "provider": {
         "name": "Absent Data Channel",
         "domain": "absentdata.com"
       },
-      "publishedDateTime": "2020-08-02T20:29:49-07:00",
+      "publishedDateTime": "2020-08-10T18:11:57-07:00",
       "heat": 110,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/ctT0UKMeTbs/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/7JgbyhlhfyY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
