@@ -1,0 +1,18 @@
+---
+name: "Power BI Exchange by Power BI User Group"
+excerpt: "Connect with all the Power BI Users in the Power BI Exchange! All the user groups have access to this one online forum to collaboratively and instantly share their Power BI projects, wins and struggles."
+originalUrl: https://www.pbiusergroup.com/communities/community-home
+webUrl: https://www.pbiusergroup.com/communities/community-home
+members: 76494
+
+provider:
+  name: Power BI User Group
+  domain: pbiusergroup.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/pbiusergroup.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Power BI
+---
