@@ -106,6 +106,18 @@ default_customer_settings: &default_customer_settings
 
 
 #----------------------------------------------------------------------------------
+# Community Settings
+#----------------------------------------------------------------------------------
+
+# Default settings of communities
+default_community_settings: &default_community_settings
+  layout: post
+  category: community
+  permalink: /api/communities/:path/index.json
+  deleted: false
+
+
+#----------------------------------------------------------------------------------
 # Newsletter Settings
 #----------------------------------------------------------------------------------
 
@@ -140,6 +152,8 @@ collections:
   functions:
     output: true
   customers:
+    output: true
+  communities:
     output: true
   newsletters:
     output: true
@@ -191,6 +205,20 @@ defaults:
       layout: collection
       category: sample
       permalink: /api/samples/collections/:title/index.json
+      type: collection
+      support_paging: false
+  # _communities
+  - scope:
+      path: ""
+      type: communities
+    values:
+      <<: *default_community_settings
+  - scope:
+      path: "_communities/collections"
+    values:
+      layout: collection
+      category: community
+      permalink: /api/communities/collections/:title/index.json
       type: collection
       support_paging: false
   # _customers
