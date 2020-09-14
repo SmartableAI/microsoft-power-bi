@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://powerbi.microsoft.com/en-us/blog/gartner-analytics-and-bi-virtual-bake-off-2020-world-population-health-analysis-with-power-bi/</loc>
+    <lastmod>2020-09-14T00:30:16-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://powerbi.microsoft.com/en-us/blog/power-automate-actions-for-exporting-power-bi-and-paginated-reports-now-available/</loc>
+    <lastmod>2020-09-14T00:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://powerbi.microsoft.com/en-us/blog/join-us-power-bi-dev-camp-thursday-september-24-2020/</loc>
     <lastmod>2020-09-09T23:00:46-07:00</lastmod>
     <changefreq>hourly</changefreq>
