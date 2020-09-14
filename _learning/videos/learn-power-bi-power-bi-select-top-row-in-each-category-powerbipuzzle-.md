@@ -2,6 +2,7 @@
 title: "Power BI: Select Top Row in Each Category?! #PowerBIPuzzle 🤔"
 excerpt: "👉 Download Accompanying PBIX Files for Video at https://web.learnpowerbi.com/download/ 00:00 Outline Problem & Approach 02:26 Solution 1: Thought Process 05:08 Solution 1: Steps 10:50 Solution 2: Thought Process (Use a Tie-Breaker) 12:20 Solution 2: Steps  Let me show you how you can select the “Top"
 originalUrl: https://youtube.com/watch?v=WmAHSuasfFw
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-power-bi-select-top-row-in-each-category-powerbipuzzle-/
 type: video
 price: Free
 length: PT16M52S
@@ -23,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Y0XWIwYT+RbwoRjtMwrO8AdzClNVemz4PBAYllLQ3Cw0YNlFHGclql7twszwTHX33Uym7wNV7EYQhoxQh0mDK/wsjOXFuWYzEip7BX9v+FZkSKtywCt7KYw+Q98+IEbMfypHZ9lgsXQZ45L7zxP3NbwHnvVDRJ64iXhi038MQKWeggZOSMowLyH+NoYkBreVI26W9P1+EtZWXAK9R+hmzYZggd/+4g3Gb2cvcpS9L6Tgdnesx7bUUu/N7ptIDFuyXOIjXtFbAueDsm334CMeJfckripgUq4zx8coyMsQ1iLftxnK/VXk3W//5q9gCWl6y/5XBlRqJYf9Q3zpHuzBvUi8CGAxqlTTjALB0q2fSjhw6BnUXvEoFRB/PjSvhBk8F0EdULvyJQxw1nlYv1u8tQ==;GOuQDmL2iMhK3iZojJG6ig=="
+secured: "7tcoOmOnm6QPr93oFlkFERimnmJSvydDRv/FJeF5HTOw7w0GtPVxljssmQAxCPD/XFJSeaUPAShcH6i7vkH8mCjZZF2rg3wLYAhle91qPFTc6ddf7anIFkPQR6JyYDU0nPaY9l58k8SyqzYHaeaEDaE/QEq/FTXiUakF5bYKSeRu7iGbiCypWLl8g8YPt2XFJ0Ns9tIwRC5NZjomnW+wKGlCs6RhdE07+m20qKCG+IPu7UEYcvZSEz2Tq8GmKRsspZ/ytHpM/6/Jj1gFb7RNZ6XAdR/P0p3kXyYspch0WpZEAJDbgyxwl4Tp5ptKlaHdEdPFqIzhPH6LENPuozg93B43AXL6njmNc9Qq25PxJcXov6ytUxJ6LrvFlLrCvRQ4;hn+P7A9heOZ9hg4/JHrMxQ=="
 ---
 
