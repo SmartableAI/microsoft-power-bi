@@ -2,6 +2,7 @@
 title: "Working with Time Periods in Power BI"
 excerpt: "How do you work with time periods in Power BI like last month? Patrick digs in to show how you can accomplish this with a little DAX.  Fourmoo Blog: https://www.fourmoo.com/2016/09/07/create-dynamic-periods-for-fiscal-or-calendar-dates-in-power-bi/  Phil Seamark Blog: https://dax.tips/2019/10/09/row-based-time-intelligence/"
 originalUrl: https://youtube.com/watch?v=8Mvr_AIw2DU
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-working-with-time-periods-in-power-bi/
 type: video
 price: Free
 length: PT11M52S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "C+cLvmrQbg5EipQI+P04/GOCVQNM14xH4zDdfuK7Rri+Ewf1/qdpLtPvqKo0pbFZzOQ2XwmWz8rJpkvU4bTj4IUqbVN4kBQnkiPz1ei8sHe1Uza/9+qTFuN2+r1L9VMr2lJW5vJoUS4B1cnrhmU7gkinNnM/40WuwY+20sAqYiDJmWOVWwq9csWUVFCOBsNEZZiPF55sd6HRA0y74c+YXd0Oo/NdA/Ft9X0AyTr91hYUmG5NuLgiZap1F6ou9ZnT294XlxQ2mk0z7niuU61+rjisL0BLAWuMwhbNfH6VgirswTnHcym2In8ktOJbs4gtCK4TE4YQWCkpifQ2yx/aE7vlNlNKecbrWsXSrJ/r3urBwB6/vXHMmaL8SIbS5opUju5JBzi6CyfbFZesf0xoAg==;YjyJFuGBYXSDielX417cDw=="
+secured: "pqeT/J5qMQaP2e6s+H6hsfr3pHQoJnuupyF5fqfmd7wPGFG9J8rxSg/DL2o0AsAXVBOYRHoRwVQeFX4lQfT1sR1SMYs7scFxgSqzJeW0vtPIfCYnpMG3ACLbJi5VyMXQbjKB05Hh0rSIeXSIoFoPBU48i3UGPbkYKn25M0vdKziRIc76h8STX/OBUUsezlYapVZYMjVhR6M8TuD9r1WCjwgDBg/WPKop6wsrO4NIApxLIZn6iEdax1MTSNYFqFQk5a5QtET/+/8TnilrMoqRQ+FC4snXgRWVWkqc7ZVnDg44ThcFoBDSGVzXXYrK+iyTXHVMBpWNWP/KsPaK7I7ftGxcqIIKXnA3jiuoyO5jHNjfaq/leF7G47FMPxTpK7dz2MT8DLCEe189EeTIHf900Q==;6CeGfN25b5LjeLasi+JKgA=="
 ---
 
