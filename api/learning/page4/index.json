@@ -279,8 +279,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/analyze-data-power-bi/",
       "length": "PT60M",
       "ratings": {
-        "count": 4784,
-        "average": 4.693562
+        "count": 4785,
+        "average": 4.693626
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -353,8 +353,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-data-power-bi/",
       "length": "PT53M",
       "ratings": {
-        "count": 3085,
-        "average": 4.7115073
+        "count": 3086,
+        "average": 4.7112765
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -676,7 +676,7 @@
           "path": "",
           "title": "Design a data model in Power BI ",
           "excerpt": "The process of creating a complicated data model in Power BI is straightforward. If your data is coming in from more than one transactional system, before you know it, you can have dozens of tables that you have to work with. Building a great data model is about simplifying the disarray. A star schema is one way to simplify a data model, and you’ll learn about the terminology and implementation of them in this module. You will also learn about why choosing the correct data granularity is important for performance and usability of your Power BI reports. Finally, you’ll learn about improving performance with your Power BI data models.",
-          "heat": 120,
+          "heat": 60,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/design-a-data-model-in-power-bi-social.png",
