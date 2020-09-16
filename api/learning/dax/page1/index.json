@@ -26,7 +26,7 @@
           "path": "",
           "title": "Year-to-date filtering weekdays in DAX",
           "excerpt": "Time intelligence functions oftentimes hide an automatic ALL statement meant to make time intelligence calculations easier. This video describes this behavior and what to do in case it ends up breaking your calculation. Article and download: https://sql.bi/123591",
-          "heat": 90,
+          "heat": 89,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/JS-K2faCiCc/maxresdefault.jpg",
@@ -137,7 +137,7 @@
         ]
       },
       "publishedDateTime": "2020-09-08T03:00:15-07:00",
-      "heat": 90,
+      "heat": 89,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/JS-K2faCiCc/maxresdefault.jpg",
