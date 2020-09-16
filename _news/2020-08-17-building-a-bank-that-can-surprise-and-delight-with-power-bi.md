@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/resource-library/casestudies
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/casestudies/building-a-bank-that-can-surprise-and-delight-with-power-bi/"
 type: article
 quality: 77
-heat: 78
+heat: 77
 published: true
 
 provider:
