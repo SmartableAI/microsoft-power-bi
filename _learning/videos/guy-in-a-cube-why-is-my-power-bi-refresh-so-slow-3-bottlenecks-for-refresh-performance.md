@@ -2,6 +2,7 @@
 title: "Why is my Power BI refresh so SLOW?!? 3 Bottlenecks for refresh performance"
 excerpt: "It's really frustrating when your Power BI refresh takes too long or times out! Adam breaks down 3 bottlenecks that can slow down your Power BI refresh to help you optimize the performance.  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills"
 originalUrl: https://youtube.com/watch?v=nP-8_st1wWk
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-why-is-my-power-bi-refresh-so-slow-3-bottlenecks-for-refresh-performance/
 type: video
 price: Free
 length: PT8M9S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "pENCjDhuYbph8T0eaLIwG7sAuzU6jL5pbPqDSOQvHpzAjPsXd7docAxsMI55qpgdm+ptnZBKyXRl6vTYcPm37yod6kEDGewxqaCWL8hyAvy89SDITRncI2iJfx/YBkNSGEDYGNDZijrRV3Ig11ix3ORku+zti0Yv+Qfse43RLuJynEHXKcv3zfXCoOJ2264IhYOr3EKfjJDP9GgNYp/8j60c9di7s+uFFeZgzH1ZnA5iW3bU19LnWnvHHoEyJH4ahrw3F6zTg1DYJ4zjKhZr43GACFdvD0t6UWaWh+bKDgD7Oyn9XrMHz8iqAc9YkjL2IU6HDXbodDHkY9ctOMHa7tGfVmoSsQkXbmcllNjtUUUw5LVJ8BotMYQE4b2fmBx1MjqyUNKj2mFlCcWItIKgpw==;mlmK14ide/OukvP7emGewg=="
+secured: "Pa2Hq+UkuEMA05xOb/UCpWQWO5R/0NG00DuH5Nph310vK0j4xClO5xLayRejrNI4idCfeSzpF6ctmuLrE63NUy1aBbhF97RY2vMPVL2/IQB+S4BYZWan/89FfwAAMleZ/6dzteoMw3L2d3SKA9f6mhU9yPUb5xXDw/GVRc8iuglp4pnszKYTGZLqJgy6mNxCTzrHuIyphCO1qHbc+LA9MYxJcCZwLg5VnpWluw/DTVcgeQ0RaLqoDSMyltgFhfUG0o1fgHQMeGT+zPGhmjHBAaOFAqVUxwrdkAo6FD92kIlpRn+hsrErQg25C6WvtM55iujMVivx161CMmajMV/9/RD86wrR8BuSSxMIz+4p+sNJ75dssnYPvsUXMHiZK6gQ/WNzTtBwNkeFxIAX6oK81w==;YjI2TKpQJHtSaMkJGjPGVA=="
 ---
 
