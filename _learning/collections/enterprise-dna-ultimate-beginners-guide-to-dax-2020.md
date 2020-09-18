@@ -29,6 +29,8 @@ items:
   - videos/enterprise-dna-how-to-combine-patterns-of-dax-formula-118-ultimate-beginners-guide-to-dax-2020
   - videos/enterprise-dna-using-quick-measures-119-ultimate-beginners-guide-to-dax-2020
   - videos/enterprise-dna-examples-of-advanced-dax-120-ultimate-beginners-guide-to-dax-2020
+  - videos/enterprise-dna-where-to-next-121-ultimate-beginners-guide-to-dax-2020
+  - videos/enterprise-dna-enterprise-dna-membership-122-ultimate-beginners-guide-to-dax-2020
   - videos/enterprise-dna-course-intro-11-ultimate-beginners-guide-to-dax-2019
   - videos/enterprise-dna-what-is-dax-why-do-you-need-to-learn-it-12-ultimate-beginner-guide-to-dax-2019
   - videos/enterprise-dna-review-of-the-data-scenario-13-ultimate-beginners-guide-to-dax-2019
@@ -47,7 +49,6 @@ items:
   - videos/enterprise-dna-how-to-combine-patterns-of-dax-formulas-116-ultimate-beginners-guide-to-dax-2019
   - videos/enterprise-dna-using-quick-measures-in-power-bi-117-ultimate-beginners-guide-to-dax-2019
   - videos/enterprise-dna-examples-of-advanced-dax-118-ultimate-beginners-guide-to-dax-2019
-  - videos/enterprise-dna-where-to-next-121-ultimate-beginners-guide-to-dax-2020
 
 items:
   - videos/enterprise-dna-ultimate-beginners-guide-to-dax-2020-course-intro
@@ -70,6 +71,8 @@ items:
   - videos/enterprise-dna-how-to-combine-patterns-of-dax-formula-118-ultimate-beginners-guide-to-dax-2020
   - videos/enterprise-dna-using-quick-measures-119-ultimate-beginners-guide-to-dax-2020
   - videos/enterprise-dna-examples-of-advanced-dax-120-ultimate-beginners-guide-to-dax-2020
+  - videos/enterprise-dna-where-to-next-121-ultimate-beginners-guide-to-dax-2020
+  - videos/enterprise-dna-enterprise-dna-membership-122-ultimate-beginners-guide-to-dax-2020
   - videos/enterprise-dna-course-intro-11-ultimate-beginners-guide-to-dax-2019
   - videos/enterprise-dna-what-is-dax-why-do-you-need-to-learn-it-12-ultimate-beginner-guide-to-dax-2019
   - videos/enterprise-dna-review-of-the-data-scenario-13-ultimate-beginners-guide-to-dax-2019
@@ -88,7 +91,6 @@ items:
   - videos/enterprise-dna-how-to-combine-patterns-of-dax-formulas-116-ultimate-beginners-guide-to-dax-2019
   - videos/enterprise-dna-using-quick-measures-in-power-bi-117-ultimate-beginners-guide-to-dax-2019
   - videos/enterprise-dna-examples-of-advanced-dax-118-ultimate-beginners-guide-to-dax-2019
-  - videos/enterprise-dna-where-to-next-121-ultimate-beginners-guide-to-dax-2020
 
 topics:
   - Power BI
