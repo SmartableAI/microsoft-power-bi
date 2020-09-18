@@ -2,6 +2,7 @@
 title: "Where To Next - (1.21) Ultimate Beginners Guide to DAX 2020"
 excerpt: "DOWNLOAD RESOURCES HERE https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Learn about advanced DAX functions, supporting tables, and customer segmentation.  ***** Video Details"
 originalUrl: https://youtube.com/watch?v=n5ymKk9Rl6I
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/enterprise-dna-where-to-next-121-ultimate-beginners-guide-to-dax-2020/
 type: video
 price: Free
 length: PT8M
@@ -24,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "TrmuHvnUVESvvy63CDUEShk0cgfzNj1Ntmj09dawlX4v+6fyY9WZTxNC3iwMGow2oKAx6lWVtq23lNYMyslxLfHDT0h0MNB6U7qiBrRVf6w0EPoyMNQajpS9dvK5WSOObT0tVNc3aSJjw8WemAW161oMnNZWGNgLRhRbAXqlCmVM0rgN+q8ga+s/TDszR5ETdJKSjRWG9uPDaBF/CTgu9SLmWiq6thN0iv+bwo0CMTrZgQ9NwUsN1cIxKeuu3USmG1zmdZLgMMpN8TJIhE+K3zYvYaDy2XvwK2dauy+bIPe6VLbc2lJKZXy2+1hHdY2InrwgE35U45Tlj8L/KuRCfPEDXQxcDUdVdisBYfbHgi2uKQ1JdfOQmtKUb/ea6BdQ4+a4AR4ow1cuizcAqqsb1Q==;nm9J5oEU3Vco5/PrsN/YaA=="
+secured: "gtluR9RC8Jb0Q6ngYughrdh4gC/XdD+BLPN4cq5uv6D4iSKaAv4guRYsp6IyiERB1p+mjCTOhXiniaLK9eA8P2Z3PaUzXlXKjuw2xyismCF6EVQ9kMq+VNSeNuVmmJauygRnOWce1O17zBCgyFNljZZLCJYyHLgyQfO7uh1ffx4FFAtqvHPfWdNK+hL72LZYapkQfcSVlHyL7rJeK1emXCZ1JHLlykeZvFedWnsmQWcQJWOGAePXagV2MuY77xYCgTc5F08cDsjAgT1dxMZtWeFMN2fg6QJYl0Fj6/iwkihwZPNOKmno9lkFvzLexHYTmWTKXlDnA8Wznjo9SzPguyqpjyz6VwdxqPp79QHClA7a3x1PAQHqcbA5wKpe4HOS;3/SUnaaGvR0ksWLG6HwEFw=="
 ---
 
