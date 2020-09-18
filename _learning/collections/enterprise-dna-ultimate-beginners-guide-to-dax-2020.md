@@ -2,7 +2,7 @@
 title: "Ultimate Beginners Guide to DAX 2020"
 excerpt: "Follow along to the beginners guide DAX tutorials by using the demo data available for download. Enjoy!"
 type: collection
-heat: 68
+heat: 69
 
 provider:
   name: Enterprise DNA
@@ -47,6 +47,7 @@ items:
   - videos/enterprise-dna-how-to-combine-patterns-of-dax-formulas-116-ultimate-beginners-guide-to-dax-2019
   - videos/enterprise-dna-using-quick-measures-in-power-bi-117-ultimate-beginners-guide-to-dax-2019
   - videos/enterprise-dna-examples-of-advanced-dax-118-ultimate-beginners-guide-to-dax-2019
+  - videos/enterprise-dna-where-to-next-121-ultimate-beginners-guide-to-dax-2020
 
 items:
   - videos/enterprise-dna-ultimate-beginners-guide-to-dax-2020-course-intro
@@ -87,6 +88,7 @@ items:
   - videos/enterprise-dna-how-to-combine-patterns-of-dax-formulas-116-ultimate-beginners-guide-to-dax-2019
   - videos/enterprise-dna-using-quick-measures-in-power-bi-117-ultimate-beginners-guide-to-dax-2019
   - videos/enterprise-dna-examples-of-advanced-dax-118-ultimate-beginners-guide-to-dax-2019
+  - videos/enterprise-dna-where-to-next-121-ultimate-beginners-guide-to-dax-2020
 
 topics:
   - Power BI
