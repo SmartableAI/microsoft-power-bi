@@ -2,6 +2,7 @@
 title: "Enterprise DNA Membership - (1.22) Ultimate Beginners Guide to DAX 2020"
 excerpt: "DOWNLOAD RESOURCES HERE https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Learn about advanced DAX functions, supporting tables, and customer segmentation.  ***** Learning Power"
 originalUrl: https://youtube.com/watch?v=ghTnqXBFa4Y
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/enterprise-dna-enterprise-dna-membership-122-ultimate-beginners-guide-to-dax-2020/
 type: video
 price: Free
 length: PT8M1S
@@ -24,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "RESdodt10WDEaHrMig4jYyBXGCA41fDjLfqxLQc0/g0VjkJPAX2YkwWIRKRNcWXlHv1cYB2NOBOMWfef9tMne1N7YK+t9d2i+3EJ5ZgNuQjeoKnimTkjOoOE4dE9ukncDD841WV9+DUTFwLK+rRwu7LpcuaWhcICEsg7+o2VR5dRYVWJW8wUsbgkTjUVnWspCG7ZlCmZGMbtENSCdkxtfXWffTT07lVh3iwLy2ZhESa8NoGd4g2SUjYnKwxy6HeTSIN+MD5H71M68Q8kYj7m97cWVadsXyzMJPE4jswFHZFX0+d9MVPbVUB9aEI5/UGv4gL5G/AvX5Lvx82DMVhRRsajpkA6GmCfdw0wOBzoNLCSscCD+bz/TLG4Q56GB0YA;2oIduYrNxiVVaa6riAw1zA=="
+secured: "kEq3c2UqFk+CPZyYgdDryFWOtJAOtp6XEh/Y4PzPpjwYtIMiVq4WvoAXKEt2P4iFdYS8XXtmwHJYSkIILz4poEdN//Rj/RcM0gBb4FLASotJQuLm/Ts4CA08EKjpYMixIxk5rwfjTR6tHUBgCc9v5XAB1IFDEgZXdeazKA1d0fox6PbzMSspR3NpHYvGBStMhNuvBs8w7NQ53nTcq8WS//P/zPZX0oXWCYk05YBAzxZbUq+3UrKx6kJ67U8GbLZIWENoIicv9c8KnvW9fvS/ammfMNiRsAV7Zicv9z8LGAN7NZglDpllBnckhLsZpu1PNoiX+EHn5/bVeL8vE3VwhfKUddv5BnRXW922TmnMgpz/2MktXPPNorOXsHzwXxLT;hZ8jNFR+t9t1GglV4IrO3w=="
 ---
 
