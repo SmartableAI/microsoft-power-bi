@@ -8,9 +8,9 @@
       "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-09-18-power-bi-new-look-updated-close-to-becoming-default-experience/index.json",
       "webUrl": "https://www.neowin.net/news/power-bi-new-look-updated-close-to-becoming-default-experience",
       "originalUrl": "https://www.neowin.net/news/power-bi-new-look-updated-close-to-becoming-default-experience",
-      "featuredContent": null,
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gPGy18Yo0Go\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "highlight": null,
-      "heat": 97,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -48,7 +48,8 @@
         "news"
       ],
       "topics": [
-        "Power BI"
+        "Power BI",
+        "Power BI Desktop"
       ]
     },
     {
