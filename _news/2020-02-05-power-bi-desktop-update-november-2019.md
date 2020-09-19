@@ -30,6 +30,6 @@ images:
     isCached: true
     title: "Power BI Desktop Update - November 2019"
 
-secured: "FtUe/39AzPO3CJDzXafEXGaICCdT288ITSmmXf3Asbn8DqsuszZA21bI4NInjO7D6bbfK4+BO2KO9cLQRstGEx51I6aZr7Ri1uXyDtC7zooHNRi0cA8uLKtCNZYPU78+2MwYVCPvQH7O44rff78nMliP/S5UW2GmgDN+GgQd6/+sNxmnZ6GYQV0PH71Fxif+u0HQSlLf9PNYYwxBLiWGTK30hvrhEQ8rCol60Bi/caeDAUeJvSrsPl6ebT0kYoq/kieaKzCZOavY7w0w+pp24BZlYFicFoQqhdWTQIINW9silqjUBg3b/trC+pWE9NTwERTwnZs9OMawosY32DKvH5EF/KNhZgu0dpwGn1fZha6Z4oUSFih80L2MdrfRggr10nA2onTibbgmbN0G8oy7Jd+XmwJTbftWY4acFmIQ+EMoOK+8+++pZl2rIFgc6VTU;T+bKTB9CGcug7qqlWkBirg=="
+secured: "4xMqxqnuPk5T0dst/PQdNIhuwLEsoQ6HA2dWI1EX5VzD51JHecRjLClOEnXCFgwZCwD0/kBIKkqADCaj5+UlZlPi7yGfkzTEsTW/DqyRikDPC+heJJvUhqE5o05D9F1nIrMIFAMXQQxnS7xwje+OaIF5P4StOlchhOvgIlWWpEZtNJX+j67N2V+Btc71XsyMRfapCx9Z5HySaVZqmHfqNCTKzZutQkiP00+xgMcZ8IDYZS/FKphp9xX6/tMKZSrnHssMlijLA+KH15ricBy/eDpJuIR2ZZH8dnrc+2l+pWuDskNGGzqZN2Ac/RiohMdhwqPYTFBa/Hmga1vnxt22RHq/Im2Cih5mQwJWNp5PZNyXrfAkZwkxKdUmbYeMMaW3iHYnxbNhg+ZWq+GJnd0USXZWrGnLyidI1eJyZ2JUM+SWXloWMa7KPtsbiu1FV9m0;rqJpXmI3Ceefq+vdrOmILw=="
 ---
 
