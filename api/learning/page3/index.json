@@ -1346,7 +1346,7 @@
           "path": "",
           "title": "Discover customer needs as a Solution Architect for Dynamics 365 and Power Platform",
           "excerpt": "Learn how to ask customers questions about their business processes and feature requirements to create a viable solution.",
-          "heat": 110,
+          "heat": 50,
           "type": "course",
           "topics": [
             "Power BI"
@@ -1509,8 +1509,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/design-model-power-bi/",
       "length": "PT2H8M",
       "ratings": {
-        "count": 642,
-        "average": 4.753894
+        "count": 643,
+        "average": 4.7542768
       },
       "provider": {
         "name": "Microsoft Learn",
