@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/86065-become-certified-data-expert
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/86065-become-certified-data-expert-excel-power-bi-training.html"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:
