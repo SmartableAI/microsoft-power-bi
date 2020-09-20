@@ -4,7 +4,7 @@ excerpt: "Power BI has extraordinary visuals that can be used on Power BI report
 type: collection
 price: Free
 length: PT5H5M
-heat: 69
+heat: 64
 
 provider:
   name: Microsoft Learn
@@ -13,12 +13,6 @@ provider:
     - url: /assets/images/organizations/microsoft.com-50x50.jpg
       width: 50
       height: 50
-
-items:
-  - courses/microsoft-learn-visuals-power-bi
-  - courses/microsoft-learn-data-driven-story-power-bi
-  - courses/microsoft-learn-create-dashboards-power-bi
-  - courses/microsoft-learn-create-paginated-reports-power-bi
 
 levels:
   - Intermediate

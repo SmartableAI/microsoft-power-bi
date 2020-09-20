@@ -26,24 +26,6 @@ items:
   - videos/absent-data-channel-power-bi-course-for-beginners-part-13-customizing-visuals-and-dashboard-structure
   - videos/absent-data-channel-power-bi-course-for-beginners-part-14-backgrounds-shapes-and-wallpaper-
 
-items:
-  - videos/absent-data-channel-power-bi-course-for-beginners-part-1-getting-to-know-power-bi
-  - videos/absent-data-channel-power-bi-course-for-beginners-part-2-your-first-graphs-and-homework
-  - videos/absent-data-channel-power-bi-course-for-beginners-part-3-hierarchies-and-drilling
-  - videos/absent-data-channel-power-bi-course-for-beginners-part-4-custom-hierarchies
-  - videos/absent-data-channel-power-bi-course-for-beginners-part-5-slicers-and-filters
-  - videos/absent-data-channel-power-bi-course-for-beginners-part-6-styling-charts
-  - videos/absent-data-channel-power-bi-course-for-beginners-part-7-calculated-columns
-  - videos/absent-data-channel-power-bi-course-for-beginners-part-8-replacing-values
-  - videos/absent-data-channel-power-bi-course-for-beginners-part-9-calculated-measures-and-profit
-  - videos/absent-data-channel-power-bi-course-for-beginners-part-10-styling-maps
-  - videos/absent-data-channel-power-bi-course-for-beginners-part-11-conditional-formatting-
-  - videos/absent-data-channel-power-bi-course-for-beginners-part-12-segments-and-filters
-  - videos/absent-data-channel-power-bi-course-for-beginners-part-15-drillthrough
-  - videos/absent-data-channel-power-bi-course-for-beginners-part-16-updating-data
-  - videos/absent-data-channel-power-bi-course-for-beginners-part-13-customizing-visuals-and-dashboard-structure
-  - videos/absent-data-channel-power-bi-course-for-beginners-part-14-backgrounds-shapes-and-wallpaper-
-
 topics:
   - Power BI
 

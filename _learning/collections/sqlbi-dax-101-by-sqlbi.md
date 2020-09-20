@@ -2,7 +2,7 @@
 title: "DAX 101 by SQLBI"
 excerpt: ""
 type: collection
-heat: 67
+heat: 64
 
 provider:
   name: SQLBI
@@ -11,19 +11,6 @@ provider:
     - url: https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/sqlbi.com-50x50.jpg
       width: 50
       height: 50
-
-items:
-  - videos/sqlbi-year-to-date-filtering-weekdays-in-dax
-  - videos/sqlbi-measures-vs-calculated-columns-in-dax-and-power-bi
-  - videos/sqlbi-computing-totals-by-summing-visible-values-in-dax
-  - videos/sqlbi-computing-a-running-total-in-dax
-  - videos/sqlbi-creating-a-simple-date-table-in-power-bi
-  - videos/sqlbi-disabling-auto-date-time-in-power-bi
-  - videos/sqlbi-counting-working-days-in-dax
-  - videos/sqlbi-using-userelationship-in-dax
-  - videos/sqlbi-using-concatenatex-in-dax
-  - videos/sqlbi-mark-as-date-table-in-power-bi
-  - videos/sqlbi-computing-totals-by-summing-visible-values-in-dax
 
 items:
   - videos/sqlbi-year-to-date-filtering-weekdays-in-dax

@@ -4,7 +4,7 @@ excerpt: "Do you want to make business decisions backed by data? Learn how to do
 type: collection
 price: Free
 length: PT2H9M
-heat: 123
+heat: 63
 
 provider:
   name: Microsoft Learn
@@ -13,10 +13,6 @@ provider:
     - url: /assets/images/organizations/microsoft.com-50x50.jpg
       width: 50
       height: 50
-
-items:
-  - courses/microsoft-learn-intro-to-power-bi-service
-  - courses/microsoft-learn-analyze-explore-data-power-bi
 
 levels:
   - Beginner

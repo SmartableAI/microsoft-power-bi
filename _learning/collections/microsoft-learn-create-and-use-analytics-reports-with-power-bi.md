@@ -14,14 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-get-started-with-power-bi
-  - courses/microsoft-learn-get-data-power-bi
-  - courses/microsoft-learn-model-data-power-bi
-  - courses/microsoft-learn-visuals-in-power-bi
-  - courses/microsoft-learn-explore-data-power-bi
-  - courses/microsoft-learn-publish-share-power-bi
-
 levels:
   - Beginner
 

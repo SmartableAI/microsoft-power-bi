@@ -14,15 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-dax-power-bi-models
-  - courses/microsoft-learn-dax-power-bi-write-formulas
-  - courses/microsoft-learn-dax-power-bi-add-calculated-tables
-  - courses/microsoft-learn-dax-power-bi-add-measures
-  - courses/microsoft-learn-dax-power-bi-iterator-functions
-  - courses/microsoft-learn-dax-power-bi-modify-filter
-  - courses/microsoft-learn-dax-power-bi-time-intelligence
-
 levels:
   - Intermediate
 

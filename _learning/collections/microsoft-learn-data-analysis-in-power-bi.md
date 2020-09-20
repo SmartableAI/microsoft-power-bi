@@ -14,10 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-perform-analytics-power-bi
-  - courses/microsoft-learn-ai-visuals-power-bi
-
 levels:
   - Intermediate
 

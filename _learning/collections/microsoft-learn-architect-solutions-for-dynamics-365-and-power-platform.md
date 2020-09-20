@@ -14,13 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-becoming-solution-architect
-  - courses/microsoft-learn-discover-customer-needs
-  - courses/microsoft-learn-propose-solution
-  - courses/microsoft-learn-work-with-requirements
-  - courses/microsoft-learn-fit-gap-analysis
-
 levels:
   - Advanced
 

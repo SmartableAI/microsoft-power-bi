@@ -2,7 +2,7 @@
 title: "Power BI Developer in a Day"
 excerpt: "The Power BI Developer in a Day online course empowers you as an app developer with the technical knowledge required to embed Power BI content. We recommend you watch the videos in the recorded sequence, starting with video 1 and ending with video 20."
 type: collection
-heat: 64
+heat: 62
 
 provider:
   name: Microsoft
@@ -11,28 +11,6 @@ provider:
     - url: https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg
       width: 50
       height: 50
-
-items:
-  - videos/microsoft-welcome-and-course-introduction-power-bi-developer-in-a-day
-  - videos/microsoft-self-study-kit-power-bi-developer-in-a-day
-  - videos/microsoft-module-1-overview-part-13-power-bi-developer-in-a-day
-  - videos/microsoft-module-1-overview-part-23-power-bi-developer-in-a-day
-  - videos/microsoft-module-1-overview-part-33-power-bi-developer-in-a-day
-  - videos/microsoft-module-2-embedded-analytics-part-12-power-bi-developer-in-a-day
-  - videos/microsoft-module-2-embedded-analytics-part-22-power-bi-developer-in-a-day
-  - videos/microsoft-module-3-acquiring-access-power-bi-developer-in-a-day
-  - videos/microsoft-module-4-embedding-content-part-15-power-bi-developer-in-a-day
-  - videos/microsoft-module-4-embedding-content-part-25-power-bi-developer-in-a-day
-  - videos/microsoft-module-4-embedding-content-part-35-power-bi-developer-in-a-day
-  - videos/microsoft-module-4-embedding-content-part-45-power-bi-developer-in-a-day
-  - videos/microsoft-module-4-embedding-content-part-55-power-bi-developer-in-a-day
-  - videos/microsoft-module-5-integrating-content-with-javascript-api-part-12-power-bi-developer-in-a-day
-  - videos/microsoft-module-5-integrating-content-with-javascript-api-part-22-power-bi-developer-in-a-day
-  - videos/microsoft-module-6-enforcing-row-level-security-part-13-power-bi-developer-in-a-day
-  - videos/microsoft-module-6-enforcing-row-level-security-part-23-power-bi-developer-in-a-day
-  - videos/microsoft-module-6-enforcing-row-level-security-part-33-power-bi-developer-in-a-day
-  - videos/microsoft-module-7-embedding-licensing-power-bi-developer-in-a-day
-  - videos/microsoft-embedded-playground-power-bi-developer-in-a-day
 
 items:
   - videos/microsoft-welcome-and-course-introduction-power-bi-developer-in-a-day

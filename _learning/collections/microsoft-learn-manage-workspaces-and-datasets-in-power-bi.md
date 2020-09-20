@@ -14,11 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-create-manage-workspaces-power-bi
-  - courses/microsoft-learn-manage-datasets-power-bi
-  - courses/microsoft-learn-row-level-security-power-bi
-
 levels:
   - Intermediate
 

@@ -14,11 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-design-model-power-bi
-  - courses/microsoft-learn-create-measures-dax-power-bi
-  - courses/microsoft-learn-optimize-model-power-bi
-
 levels:
   - Intermediate
 

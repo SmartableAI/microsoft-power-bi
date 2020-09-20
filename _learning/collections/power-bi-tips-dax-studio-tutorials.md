@@ -15,13 +15,6 @@ items:
   - videos/power-bi-tips-powerbitips-tutorial-dax-studio-query-performance-tuning-by-marco-russo
   - videos/power-bi-tips-powerbitips-tutorial-dax-studio-release-2111
 
-items:
-  - videos/power-bi-tips-powerbitips-tutorial-introduction-to-dax-studio-by-darren-gosbell
-  - videos/power-bi-tips-powerbitips-tutorial-model-performance-tuning-in-dax-studio-by-marco-russo
-  - videos/power-bi-tips-powerbitips-tutorial-dax-studio-full-features-review-by-darren-gosbell
-  - videos/power-bi-tips-powerbitips-tutorial-dax-studio-query-performance-tuning-by-marco-russo
-  - videos/power-bi-tips-powerbitips-tutorial-dax-studio-release-2111
-
 topics:
   - Power BI
   - DAX
