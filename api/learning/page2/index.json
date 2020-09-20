@@ -18,7 +18,7 @@
           "path": "",
           "title": "Ultimate Beginners Guide To DAX 2020 - Course Intro",
           "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
-          "heat": 135,
+          "heat": 126,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/ILVRJQ22cjs/maxresdefault.jpg",
@@ -249,8 +249,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 1061,
-        "average": 4.7464657
+        "count": 1062,
+        "average": 4.746704
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -777,8 +777,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 890,
-        "average": 4.7539325
+        "count": 891,
+        "average": 4.7542086
       },
       "provider": {
         "name": "Microsoft Learn",
