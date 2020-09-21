@@ -4,7 +4,7 @@ excerpt: "I have to admit, I never thought that a Power BI Podcast could be a th
 webUrl: https://exceleratorbi.com.au/power-bi-podcast-wait-what/
 type: article
 publishedDateTime: 2020-09-08T01:56:54Z
-heat: 75
+heat: 50
 
 provider:
   name: Excelerator BI
