@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/power-bi-new-look-updated-close-to-becomi
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/power-bi-new-look-updated-close-to-becoming-default-experience/"
 type: article
 quality: 199
-heat: 200
+heat: 201
 published: true
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gPGy18Yo0Go\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"

@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/updates-to-the-new-look-e
 webUrl: "https://powerbi.microsoft.com/en-us/blog/updates-to-the-new-look-experience-and-release-plan/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:
