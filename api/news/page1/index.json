@@ -2,6 +2,397 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-22-microsoft-announces-power-bi-teams-integration-nlp-and-per-user-premium-subscription.md",
+      "title": "Microsoft announces Power BI Teams integration, NLP and per-user Premium subscription",
+      "excerpt": "Usually, when Microsoft puts on one of its big technical conferences, it takes the opportunity to announce and roll out new features for Power BI. This year's Ignite conference, which kicks off as a virtual event today, is no exception. In fact ...",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-09-22-microsoft-announces-power-bi-teams-integration-nlp-and-per-user-premium-subscription/index.json",
+      "webUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-announces-power-bi-teams-integration-nlp-and-per-user-premium-subscription/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-announces-power-bi-teams-integration-nlp-and-per-user-premium-subscription/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-announces-power-bi-teams-integration-nlp-and-per-user-premium-subscription/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-announces-power-bi-teams-integration-nlp-and-per-user-premium-subscription/",
+      "publishedDateTime": "2020-09-22T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-power-bi-for-teams-enters-preview-premium-per-user-offering-introduced.md",
+      "title": "Power BI for Teams enters preview, Premium Per User offering introduced",
+      "excerpt": "In August, Microsoft introduced an improved navigation experience for Power BI Mobile. This month, meanwhile, the 'new look' for the service was further updated, bringing it closer to becoming the default experience for all users. At Ignite 2020 today ...",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-09-22-power-bi-for-teams-enters-preview-premium-per-user-offering-introduced/index.json",
+      "webUrl": "https://www.neowin.net/news/power-bi-for-teams-enters-preview-premium-per-user-offering-introduced",
+      "originalUrl": "https://www.neowin.net/news/power-bi-for-teams-enters-preview-premium-per-user-offering-introduced",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/09/1600610905_powerbi1-ignite2020_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/power-bi-for-teams-enters-preview-premium-per-user-offering-introduced/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/power-bi-for-teams-enters-preview-premium-per-user-offering-introduced/",
+      "publishedDateTime": "2020-09-22T07:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-announcing-new-power-bi-experiences-in-microsoft-teams.md",
+      "title": "Announcing: New Power BI experiences in Microsoft Teams",
+      "excerpt": "The way we work is changing dramatically. It’s more connected, collaborative, and often done remotely. Organizations need tools to help everyone infuse data into every decision. We’re excited to announce new Power BI integrations for Microsoft Teams to make it easier to discover and use data within your",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-09-22-announcing-new-power-bi-experiences-in-microsoft-teams/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-new-power-bi-experiences-in-microsoft-teams/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-new-power-bi-experiences-in-microsoft-teams/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 418,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T01:31:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-driving-a-data-culture-in-a-world-of-remote-everything.md",
+      "title": "Driving a data culture in a world of remote everything",
+      "excerpt": "During this new Microsoft Ignite format, with 48 hours of hours of digital sessions and interactions where thousands of IT professionals will come together, we have several exciting innovations to announce that will help customers drive clarity when they need it most.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-09-22-driving-a-data-culture-in-a-world-of-remote-everything/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/driving-a-data-culture-in-a-world-of-remote-everything/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/driving-a-data-culture-in-a-world-of-remote-everything/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 418,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T01:30:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-power-bi-september-2020-feature-summary.md",
+      "title": "Power BI September 2020 Feature Summary",
+      "excerpt": "Starting this month, we have merged the Power BI Desktop, Service and Mobile blogs so there is one overview of everything that is new in this month. For now, let us get started because we have exciting updates this month! Amongst others, in the analytics area, we introduce a preview of the Smart narratives",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-09-22-power-bi-september-2020-feature-summary/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-september-2020-feature-summary/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-september-2020-feature-summary/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 418,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T01:30:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-announcing-deployment-pipelines-general-availability-ga.md",
+      "title": "Announcing deployment pipelines General Availability (GA)",
+      "excerpt": "we are excited to announce that deployment pipelines become GA, along with additional new features.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-09-22-announcing-deployment-pipelines-general-availability-ga/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-deployment-pipelines-general-availability-ga/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-deployment-pipelines-general-availability-ga/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 418,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T01:30:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-smart-narrative-preview.md",
+      "title": "Smart Narrative (preview)",
+      "excerpt": "The Smart narrative visualization helps you quickly summarize visuals and reports by providing relevant out-of-the-box insights that are customizable.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-09-22-smart-narrative-preview/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/smart-narrative-preview/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/smart-narrative-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 418,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-power-bi-app-for-mixed-reality-now-available-for-hololens-2.md",
+      "title": "Power BI App for mixed reality now available for HoloLens 2",
+      "excerpt": "Power BI continues to innovate and today we are releasing Power BI app for HoloLens 2 with the goal to provide our users with real-time business information in the context of their work through a unique, delightful, immersive experience.. Using Power BI app on HoloLens 2 makes it easy to view and interact",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-09-22-power-bi-app-for-mixed-reality-now-available-for-hololens-2/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-app-for-mixed-reality-now-available-for-hololens-2/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-app-for-mixed-reality-now-available-for-hololens-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 418,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T01:25:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2020-09-21-congratulations-to-the-featured-data-stories-gallery-contributors.md",
       "title": "Congratulations to the Featured Data Stories Gallery contributors",
       "excerpt": "Find out which Power BI Community Data Story won for September and which Data Story received an honorable mention! We also announce next month&#8217;s Data Stories Gallery theme at the end of the blog.",
@@ -827,397 +1218,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-08-18T04:55:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-july-2020-community-highlights.md",
-      "title": "July 2020 Community Highlights",
-      "excerpt": "Learn about the exciting things that happened in the Power BI Community in July.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-08-18-july-2020-community-highlights/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/july-2020-community-highlights/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/july-2020-community-highlights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 418,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-18T04:15:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-building-a-bank-that-can-surprise-and-delight-with-power-bi.md",
-      "title": "Building A Bank that can Surprise and Delight with Power BI",
-      "excerpt": "When Metro Bank opened in London in 2010, it was a brash competitor in a seriously traditional industry. The vision is to redefine the relationship people have with their bank by innovating ...",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-08-17-building-a-bank-that-can-surprise-and-delight-with-power-bi/index.json",
-      "webUrl": "https://www.techrepublic.com/resource-library/casestudies/building-a-bank-that-can-surprise-and-delight-with-power-bi/",
-      "originalUrl": "https://www.techrepublic.com/resource-library/casestudies/building-a-bank-that-can-surprise-and-delight-with-power-bi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/resource-library/casestudies/building-a-bank-that-can-surprise-and-delight-with-power-bi/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/casestudies/building-a-bank-that-can-surprise-and-delight-with-power-bi/",
-      "publishedDateTime": "2020-08-17T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-power-bi-mobile-introduces-improved-navigation-experience-updated-headers-and-more.md",
-      "title": "Power BI Mobile introduces improved navigation experience, updated headers, and more",
-      "excerpt": "In March, Microsoft introduced a bunch of new features to Power BI Mobile, with emphasis on user control. Later in the same month, the tech giant unveiled a performance enhancement for the Power BI service, which soon after made its way to Mobile and ...",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-08-13-power-bi-mobile-introduces-improved-navigation-experience-updated-headers-and-more/index.json",
-      "webUrl": "https://www.neowin.net/news/power-bi-mobile-introduces-improved-navigation-experience-updated-headers-and-more",
-      "originalUrl": "https://www.neowin.net/news/power-bi-mobile-introduces-improved-navigation-experience-updated-headers-and-more",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2019/11/1574779296_powerbi2_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/power-bi-mobile-introduces-improved-navigation-experience-updated-headers-and-more/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/power-bi-mobile-introduces-improved-navigation-experience-updated-headers-and-more/",
-      "publishedDateTime": "2020-08-13T12:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-join-us-monthly-power-bi-dev-camp-is-here-starting-august-27-2020.md",
-      "title": "Join Us! Monthly Power BI Dev Camp is Here! Starting August 27, 2020",
-      "excerpt": "This month&#8217;s Power BI Dev Camp topic is &#8220;Developing with .NET Core&#8221;. Learn how to develop custom web applications for Power BI using .NET Core 3.1 and .NET 5. In this session, campers will learn best practices for acquiring and caching access tokens in cloud-based development and learn",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-08-13-join-us-monthly-power-bi-dev-camp-is-here-starting-august-27-2020/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/join-us-monthly-power-bi-dev-camp-is-here-starting-august-27-2020/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/join-us-monthly-power-bi-dev-camp-is-here-starting-august-27-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 418,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-13T11:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-re-imagine-headers-and-navigation-in-the-power-bi-mobile-apps.md",
-      "title": "Re-imagine headers and navigation in the Power BI Mobile apps",
-      "excerpt": "As Power BI becomes a key tool for decision makers, more and more content is being created and published for them. Being able to easily find that content, to navigate between related items, and to share relevant content with colleagues has become critical to making these users productive when using Power",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-08-13-re-imagine-headers-and-navigation-in-the-power-bi-mobile-apps/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/re-imagine-headers-and-navigation-in-the-power-bi-mobile-apps/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/re-imagine-headers-and-navigation-in-the-power-bi-mobile-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 418,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-12T20:27:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-12-power-bi-desktop-august-update-released-heres-all-thats-new.md",
-      "title": "Power BI Desktop August update released - here's all that's new",
-      "excerpt": "With the latest round of updates being pushed to Power BI, a bunch of updated AppSource visuals have been highlighted, along with the introduction of new reporting, analytics, and further components.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-08-12-power-bi-desktop-august-update-released-heres-all-thats-new/index.json",
-      "webUrl": "https://www.neowin.net/news/power-bi-desktop-august-update-released---heres-all-thats-new",
-      "originalUrl": "https://www.neowin.net/news/power-bi-desktop-august-update-released---heres-all-thats-new",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2019/11/1573589737_power_bi_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/power-bi-desktop-august-update-released---heres-all-thats-new/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/power-bi-desktop-august-update-released---heres-all-thats-new/",
-      "publishedDateTime": "2020-08-12T15:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-12-power-bi-desktop-august-2020-feature-summary.md",
-      "title": "Power BI Desktop August 2020 Feature Summary",
-      "excerpt": "We have exciting updates this month! The updates include support for Perspectives in Personalize visuals, rectangular select for data points, dynamic formatting support to more visuals, Direct Query support for Q&#038;A, several new AppSource visuals, and more! Check out the full blog to learn more about",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-08-12-power-bi-desktop-august-2020-feature-summary/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-august-2020-feature-summary/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-august-2020-feature-summary/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 418,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-12T04:03:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-building-cross-platform-solutions-that-connect-to-power-bi-datasets.md",
-      "title": "Building cross-platform solutions that connect to Power BI datasets",
-      "excerpt": "With XMLA endpoints available in Power BI Premium and the recent release of .NET Core versions of the Analysis Services client libraries (ADOMD.NET and AMO) in public preview, you can start building modern cross-platform Power BI solutions across Windows, Linux, and macOS, and cloud-oriented environments.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2020-08-11-building-cross-platform-solutions-that-connect-to-power-bi-datasets/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/building-cross-platform-solutions-that-connect-to-power-bi-datasets/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 418,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-11T10:27:11-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

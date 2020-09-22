@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-announces-power-bi-teams-integration-nlp-and-per-user-premium-subscription/</loc>
+    <lastmod>2020-09-22T08:38:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.neowin.net/news/power-bi-for-teams-enters-preview-premium-per-user-offering-introduced</loc>
+    <lastmod>2020-09-22T07:59:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://powerbi.microsoft.com/en-us/blog/announcing-new-power-bi-experiences-in-microsoft-teams/</loc>
+    <lastmod>2020-09-22T01:31:25-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://powerbi.microsoft.com/en-us/blog/driving-a-data-culture-in-a-world-of-remote-everything/</loc>
+    <lastmod>2020-09-22T01:30:43-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://powerbi.microsoft.com/en-us/blog/power-bi-september-2020-feature-summary/</loc>
+    <lastmod>2020-09-22T01:30:02-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://powerbi.microsoft.com/en-us/blog/announcing-deployment-pipelines-general-availability-ga/</loc>
+    <lastmod>2020-09-22T01:30:01-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://powerbi.microsoft.com/en-us/blog/smart-narrative-preview/</loc>
+    <lastmod>2020-09-22T01:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://powerbi.microsoft.com/en-us/blog/power-bi-app-for-mixed-reality-now-available-for-hololens-2/</loc>
+    <lastmod>2020-09-22T01:25:40-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://powerbi.microsoft.com/en-us/blog/congratulations-to-the-featured-data-stories-gallery-contributors/</loc>
     <lastmod>2020-09-21T08:23:49-07:00</lastmod>
     <changefreq>hourly</changefreq>
