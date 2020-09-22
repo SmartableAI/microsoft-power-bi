@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://powerbi.microsoft.com/en-us/blog/congratulations-to-the-featured-data-stories-gallery-contributors/</loc>
+    <lastmod>2020-09-21T08:23:49-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://powerbi.microsoft.com/en-us/blog/power-bi-at-microsoft-ignite-virtual-conference/</loc>
     <lastmod>2020-09-21T02:56:33-07:00</lastmod>
     <changefreq>hourly</changefreq>
