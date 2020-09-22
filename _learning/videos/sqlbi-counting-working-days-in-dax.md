@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT5M38S
 publishedDateTime: 2020-05-05T07:48:27Z
-heat: 54
+heat: 55
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JgeUhXkxXbU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "UnOwNWQZBI71e7uNf/ziC/3OJ+TyjIc+2TxQHcKgikTx9D3b7kc8u0kbl1DmsUdMDcxYJAcWiTYamIbwVt7wdGc/6uCWkod2vnugRRN/saiBkfsudfTwj+uSgIu4+8ADDXEEHNPkw6oIS4StF8/W52dgnO6y1dUyu02iTajWsG4GYWRL16CkyzS4HUqZVeJp5OHlPQx/rjfPgZoSeWV/EzhJHflWg8NIYy0oiu5hPvE+0JttrjTz4csAvBewALFvZP5RwBjn4mTQImQgmadMXkBngqGKzilTK9DCVrCyRGHZ80oXsh7uxHNxwUchSI4kzTmudr6I039+/evkfEcKYEPwBr5uRMBOezurl0JHg2KRaLndXcKCj0Qy2F+dSt1bGNCtW4Ooew5UFiDTR682mC41Dn9Q4dqqbKY6z4hq8yk=;FcXjYHq1WVzBxfNTTaYfLw=="
+secured: "Urumli+w7s3A8P8/GiggNEepngHULAocZDsp1wAhFSsjrrtWyXutFpopZ4k/g5Rz96dNNAp/j3FrkghtYZCB6YueBJKAG2arzgNTOoG7vF4Hl11XH1OO3BDZAlbZoB2VQ8qzipAZ9VqqldZHummmRODlRMe80auT12GBbJMC5oUARi3YSe28+RzZn/33hhCPdU9jHzb3C/IxWh/VvlOw/jxpEUdKQ3c0YuLtRnzRhCMfr2Hwq1C23+5kVCrluMHr0DeX4W1Cc5dPQuSwn2W2oMGZy5FYG0aTaMtoRseCucHTmCaQsq7+5TSV9W6fNSsquH3bp3u5V3FUmnHh/nV7qpESvsolQedNGLXfJOTE94vh0R0oVWNmYlExzlxpTW5jckeHtJV2ZXUPTntVSxA1WfgyWydz/jy98TFSMZ8PX7A=;+ZCVF3LJjkefdbRX5U3jlA=="
 ---
 
