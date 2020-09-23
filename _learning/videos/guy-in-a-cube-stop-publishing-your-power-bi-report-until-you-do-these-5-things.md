@@ -2,6 +2,7 @@
 title: "STOP publishing your Power BI report until you do these 5 things!"
 excerpt: "Your Power BI report could be slow and not functional. Publishing to Power BI may also show you your ugly baby. Patrick has you covered with 5 things to do before publishing to get that cute baby!  Power BI Tips: External tools https://powerbi.tips/2020/08/hot-swap-report-connections-external-tools/"
 originalUrl: https://youtube.com/watch?v=rsS7E5tOtDk
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-stop-publishing-your-power-bi-report-until-you-do-these-5-things/
 type: video
 price: Free
 length: PT10M15S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "rRfMDAPFpdeZ8QvbF7oeaOvtpbqGGOmBpR7t6FyB9pqwO2dQmEc5ftodlftw3vG2OSflkBhdVIrYp5Dm89y427kB5gnAhgv5bJ3YeJATeVd7bh3QOTt40dS8TdL9ghwoaaiyDn+zg2NNrV4qyx6W8efd1zmruud0wMBXqi7jzEwK5UVyXE2DyHyVE3YTDD6giDkcrvFWO3ulmssUifCLkbXcKYPiC+ppC5wd/MXy5xeSiBAQ2xnQ5YUHB4uGF3OzsYtaeUaeOvq0J3PosT7HPUGHduNyS7UDEnbRrakBiDd6Z6RkzA+H2FGCsbFajKFqPokIFSpLZXZQWwy1dJwyaWP4tWEERYYDxX/E/lHQSJ7m/iYLDRzHAnAzs/ZhkPBVdbTOuyfQHl/u/vNtZNnrQA==;gazAiPUySnDZ/+I50VBqdQ=="
+secured: "vT7vEDfQ4qfkmh/YTOdOpmcQkwdU3zeOurgP/XH/fFR+L2BBXjnn851rXh3v13bOMcgXA3HNwhliDlHKAPMIkHHbIBq9J/j5kaGkw0pyRtUHK785EenDgcYxK5ZEaNaUhDnooR4IZ7UzBWE+m223cJF7pOALmrCluQvbQvv1r1TUwYoSrzUtv/8FtkTcR8HlIGiNLy8xTMIslUDReU1MVsuB+P36MlyX7xnm4IcJ9MRZos2k1XfIvNHZ8PafFbpeovjJYm1CJtrztDaGl8csdY4uTRiUXLWux4ae3xmwZFk3u8MftZZXhiXiPOVUg3xSonybJKPLd8YL5ymmuicE8mwseTydrn1z8+C5aCqX+QYRxzQqf7xglhqKn7wVaDhvH/lFks5pIfJttAfRYdVeWw==;O0C/rWWcpzFPq2+gxdsOtA=="
 ---
 
