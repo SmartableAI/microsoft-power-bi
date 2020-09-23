@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT2H1M
 ratings:
-  count: 949
-  average: 4.7544785
+  count: 952
+  average: 4.755252
 heat: 66
 
 provider:
@@ -23,6 +23,12 @@ levels:
 
 topics:
   - Power BI
+
+images:
+  - url: https://docs.microsoft.com/learn/achievements/clean-transform-and-load-data-in-power-bi-social.png
+    width: 643
+    height: 321
+    isCached: true
 
 secured: "8z7d/hcNfbB87GYqhiaSKGiHDjiPiXNFuXexAEx/664T/RNCFMorHnyRHJ1D7Z4Izu472DVVEBsdFgYgpHifWvNAdUtmjVBhahnFtO7hlU1tBxxlbkge3jyS14RhNPLs7CwctGamDfxgnA4k1oSncqSuEiHua05ReSKW/iH30yOmZSgzXDf9XVpJ507Pbdrc5t0FO5OAuaRw+vbd9RqB4qBLfRPNGU0X4o+zJYhODaG8t0aRql14jFjXJ8XcIkeuW1vB+tXtJpWdJMlQiq/pdl9WvMcbsePsDtzmphuWAGN6I3gmnDEdXDwj5otM1jbPEul4tH2FkUxwsxUZEKSuZOnbYvAP6VlOx/O1eEIgSo/ylgdMk0eAA6GpO9svPVyp9lxcO7uH09A84LSj21wU/IJYaIK6KxUE/ELOUPQsKAs=;TAoXwXp2uw3hFWhBCh9Ezg=="
 ---

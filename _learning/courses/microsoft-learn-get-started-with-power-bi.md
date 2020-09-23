@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT47M
 ratings:
-  count: 18927
-  average: 4.7303853
+  count: 18941
+  average: 4.7305317
 heat: 108
 
 provider:
@@ -23,6 +23,12 @@ levels:
 
 topics:
   - Power BI
+
+images:
+  - url: https://docs.microsoft.com/learn/achievements/get-started-power-bi-social.png
+    width: 643
+    height: 322
+    isCached: true
 
 secured: "90k4cr8glZbt3OXOAOkTYB1nXWM65PU/7S0sCi0m+kWIl2E5rV+m4M1ezoR34GLXv13uaFEu953lEUJRr3/qOpmZa+NaABNxJ8m+B766WdLTuKC0MHJKi9tcWao0UUkyCzN/IjzaiDX6jRpsSg2dssEWZouSJZGU3TlNyhMgU1bXPftjMBZzYBhWCn4ufCrP5RON7q/9VWQdWNcKeMsMPu8BmzPk5Ye2i9YQTrgqLYDR6DYdRKUE/ugt84e8dsfIY28/ganlkv9AxPlIaaN2nBLuftD71qw9G8jrfXmntHguvVNEBKtRbE3zOMOde/Ku/okasq4dsf9xpl2IaYeyVBRlFvsdYue8T1GkZTVP3M7VTr99zzeFCCDVO8rLAtKswl6Szk+7/pR/G++iyFegFMKOSklt4kgLVVkwN825jZUElKaQrgvlyLoVcJCgOqPN;YwSIuLzBVyNcv4yICWCobQ=="
 ---

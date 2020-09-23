@@ -24,6 +24,12 @@ levels:
 topics:
   - Power BI
 
+images:
+  - url: https://docs.microsoft.com/learn/achievements/manage-datasets-in-power-bi-social.png
+    width: 643
+    height: 321
+    isCached: true
+
 secured: "klgxDfq2prl4W9awuNnm+++vplPPI+l8Ip7BoC+sXDXZ46nZIvoj2fBipy0uc9yHLEjGhxNolpBQq98g7JyWItilbhDyFVau0rd0bx3K5inZZFakKt4/GouQS+vzBXpSPMI076uT69JFijWErRf/UBGhAmoc2erbsF5WmlU4jgYNMH6KeSpAQV8IJzoNqGHISGf3oXrp4dQF2LRpgltJhsWvLudlQro9wWmVAobzPebhaQ28j4cQVL/7FD7gQkNbqFeNN+laKgjTRfl8MsIO5f7fSZJYVCQ57ewQsxFLLICYed8OSWrUWiPwrLBydnj/VkV1XOChmkTFfuqqze6q69XiYTv7MFn76iyA1v0Xxhg6U6S1fMF8rzkPI86ldk/a/d01B+mop+qHEDPpV1Shbsdp/c+0HOnYtUERmaFFVdo=;ykPH1AKOKCZh5damebc/Cw=="
 ---
 
