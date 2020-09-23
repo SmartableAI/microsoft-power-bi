@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/power-bi-mobile-introduces-improved-navig
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/power-bi-mobile-introduces-improved-navigation-experience-updated-headers-and-more/"
 type: article
 quality: 90
-heat: 91
+heat: 90
 published: true
 
 provider:

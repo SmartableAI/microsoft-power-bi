@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-at-microsoft-ign
 webUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-at-microsoft-ignite-virtual-conference/"
 type: article
 quality: 187
-heat: 188
+heat: 187
 published: true
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5_MFGnLDUHU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"

@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/power-automate-actions-fo
 webUrl: "https://powerbi.microsoft.com/en-us/blog/power-automate-actions-for-exporting-power-bi-and-paginated-reports-now-available/"
 type: article
 quality: 82
-heat: 83
+heat: 82
 published: true
 
 provider:
