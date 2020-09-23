@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://powerbi.microsoft.com/en-us/blog/announcing-the-upcoming-evolution-of-power-bi-premium-to-enterprise-markets-and-beyond/</loc>
+    <lastmod>2020-09-23T04:14:56-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://powerbi.microsoft.com/en-us/blog/answering-your-questions-around-the-new-power-bi-premium-per-user-license/</loc>
     <lastmod>2020-09-22T23:00:24-07:00</lastmod>
     <changefreq>hourly</changefreq>
