@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://powerbi.microsoft.com/en-us/blog/see-all-the-power-bi-updates-at-the-microsoft-business-applications-launch-event/</loc>
+    <lastmod>2020-09-24T03:59:04-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-september-2020-update-is-now-available/</loc>
     <lastmod>2020-09-24T02:58:18-07:00</lastmod>
     <changefreq>hourly</changefreq>
