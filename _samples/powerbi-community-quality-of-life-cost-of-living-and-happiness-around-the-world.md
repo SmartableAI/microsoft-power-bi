@@ -4,7 +4,7 @@ excerpt: "Hi All, I leveraged the idea and used the link below as a reference to
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Quality-of-Life-Cost-of-Living-and-Happiness-around-the-World/m-p/716949
 type: download
 publishedDateTime: 2019-06-17T11:37:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNWQxNDZiY2UtNDM2Zi00YWNiLWFlY2QtYjBmOWUwNDk2MzEwIiwidCI6ImUxMzk1OWFkLTYyNzktNDIwYy1hYmEzLWE5ZTgzYzg1YWQyZSIsImMiOjh9\"></iframe>"
 
@@ -44,6 +44,6 @@ images:
     height: 1045
     isCached: true
 
-secured: "uqhk29ns33DNElqsiQcXs/GplniJxHCx+12Hx0IGBox5McHqUyBh/LfT5klMHScwHQ2bZ6YZUOEQI3VFpcOVZZfrZgLaGPzk6JQYHtptQ9hecP4kOM14x8POb8Xoqu1kquwNSfypb46OZvyCc2cnR8M0q353uFQ1e/TW7couIebYYqZ81YsOphvrvyqG033/AhpOcESVoeOreVKovWkVrBwItPKUJIZYV1B++Rh86yQvPUxgvTj0eeVM6MkhzvCfqOKGvUsNv3TnF6tPyxH+pBKAsU41NZbpZ9K2hTeZnRWymby1blUjxHQ254/4ia9ITqqf0tqzWFhnbLafWroQM8TAKrt110YO60TG0BWA874VG6/kVYrDWYQEmWknrI5nWBw5mazQFy57ydDirAtKSQ==;9gAFMMcuqVlYS13UKSVkIw=="
+secured: "6GipndDdb5WzUZz4qCSR6TkKBFisQE/Ajsbkf9o+1DJz5xZsEHiaia3TGb1IyJZNJz8gytTSVhqeITgKifHC2h7aupYAJQfiGTkEjZl//dAMOo6gqHfUIWF3sI5K0Y1BM/xNohC/MaMA8CYKD59w4d0yQo51Zife4uBDORUXakYylHCwruE17IlUzl4ykNWkuUVe1EloFK77BB7dp6XhIAg5EEBr+D7fCHzCQ7Rcx3EPecBm6zGbYvIO2T8mfCeOHav6yinXoOE0qqpYkMTOxanxVViZH5Q9UjXnHa2jIj5vejhHfVieuqvE7a7hZs6lyC84hqnB6bJJQO8TiOzRCcPlMmbU6SYI96rQXAbGvK6BJlurTdPyHlg1PXCWYPv1JV+FZHPCFdBGHHhFIyvBFWJJfyhb5w5o7aO2iIwIHt8VXGyCX0VHlfBbHCkhqoEn;QBzJKzcmi+f7+Wb4uUp2Mw=="
 ---
 

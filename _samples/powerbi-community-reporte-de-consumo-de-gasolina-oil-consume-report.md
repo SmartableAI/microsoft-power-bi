@@ -4,7 +4,7 @@ excerpt: "Reporte de Consumo de Gasolina por Tarjeta (4)"
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Reporte-de-Consumo-de-Gasolina-Oil-Consume-Report/m-p/434805
 type: download
 publishedDateTime: 2018-06-07T08:48:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiODAyYTJlMTItYTYwYS00NjNiLWFhMmUtMTczYWI0MGVlNjIxIiwidCI6ImYyMmFlZDcyLTc1YmMtNDI2YS1hOGQzLTFiYTgyNmY0ODI4MSIsImMiOjR9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 791
     isCached: true
 
-secured: "y0v5MhUFQonjmUGRivfwsC+v+ZhqnzbMEQC7fj3WCgwete+/0pJlRhl1lkJq7Gx6ommapiEYk3C6k2LmpMvsrU8Lab+TafIYjHGF2ieV/BuNtxQ0KPosxeWCG1njYlm27AQtoD8UQh+Z2zkM/JyPlqtUWaWn/FWObJxtcOGI45PcEzeWP5zIykJayE5VknlIGZKRI+l6mQvCqeWUoVUDInMrnuzrbCrO+67yySoLp+frP2OqfSjnjNuG3czNHQj2eakzVn1DdBCH4nxngLcdYrmwGszYMq4lHp5bnU+MVf8KLi9Ysnuhtojjzqxybq1lCJiBV43nkk9+M4MBQ9eVHd+Tlzehu1RyiqfXf3rWOwSC6GCiDgmlfSUXRh++ilxmBH4206qHqAAiG3QWyMbTHfEWU6CzZzPRg10Mid1+OVc=;jayGf/NErxkTuViGkNPYqA=="
+secured: "AwcytTMBV7BR5zh/NAP9zchqwn97379OjTGsRBr79Zw0C1kEmCTnPbtkDFclHy+DbqLdSJvD/YvhTLVCFa07+IlHtsZikXslbG1KwEoybSpR+vchEYPNvOdkzALPLRDEqmt53hj3dZyzdXk6A1iUv94N8Qv8SDeNtP/asO9K1Yn4SZeATeuX0RvPNqevkCQbaMTu7JLBPvMM/dYaQeiiqyAU3/mqAWxqdFZiLCzdGN2qN9sUotbqjfUnueJh+ND0PCBi/fV41FWYpxy+nPkimpQkZibEDGRn3v/aHm8UufzOlVJ7bZzHZF2qjOZ4amonDIAD0dykGRcvBlq9R6eOlvCZhy70ovTvn2lXnRFmWnPdlMe+o0kvuLFaH9QOiwNw9o7ODqkYYMZVI4JCWO3UIAto/2A9+V6Ncg83XL5DESWh3+S9eRlvzjLnK+Ue59XD;mxOZJ0Rarx7UW16vBNVyAg=="
 ---
 

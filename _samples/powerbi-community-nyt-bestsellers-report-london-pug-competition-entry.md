@@ -4,7 +4,7 @@ excerpt: "This report highlights the books featured on the New York Times (NYT) 
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/NYT-Bestsellers-Report-London-PUG-Competition-Entry/m-p/441345
 type: download
 publishedDateTime: 2018-06-16T13:48:00Z
-heat: 52
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYThjYjM5YzEtZmY4Yy00ZjBmLWI3NGYtM2UxMGVhOWY1ZTU1IiwidCI6IjBjNzk5ZDM4LTQ3NjQtNDJiYy1iNGZmLTIzYmViYTljN2ZlMiIsImMiOjh9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 543
     isCached: true
 
-secured: "hDMrXszuxadXIZ0KjVrNqdA+sy3Z04jfMdKH0jNKv7VlABbpaDCb1oDoiQyANt+FdHeFGm6ooiowOjDhKIdbhdC2lweRsSVLRmZM05cNKeMu3Fx77mgtNbN2eAAaDsA0x9fcFb27+T26VY+ljNrJ8yyFo6YnvRfVMaqWqnCtKa67a4icugPK15VkwT9O3zxo65DP2GIWwXaLefhm/WKUlH0zvx/N4vd3wPOlWGBmFw567s37/kP3ngAs0oDD6DBr2C6PAo1QjbLHYd9fH9TZ04TOhb5w7zKvAfyXYGK1rULtKOphmmbEQ9CC79hmPWgjOAjdsX9WiiJ7z60mcjOt/3f0J9xmzIgwFrPdmjmoyrcuAPps1Y8k++e+LxYkomkjzZ60IU79aMsvsNGvgT3ifnm1bSlbFNkt+BAjgDTTGRM=;gU+cPTay3nB1IPQMSewvpA=="
+secured: "Hw5LLn1hviMMI2mAUoJnakYL8Pn4mNK0uF5XQDFJZZMO46cX/2ugumets318yvNI2boHl3FT47qfViowV5xTeHRFVSLf2x3TMRdNb2IuD+yHp/eXdcCulGX5adpRi+GtPXYRQAWeVDCGOeTVd6PdYgYvUp5YcphUkRZONaAJFzGiHptJROzswMM7wV0F3tg0zzOaz7lmUUWI0j7RqRpBADELJYhgUiD//rBsLKOd/0YYEZNWuSoZOVexJ2IBtHmPqQoe6vG84hdVnx1zXF0aHNO6fl5gp6XgsJpubhFheoYsdFjj2IhcyoA66bClN6iHzF9A6ZVORMFJkqWbS04LytVkUwnO3SOE5MQ+BFr1G/ftjKOZYIlu4aQbT26yArRmn87EwcdAdO6ffSIf1uVXYJZu6Y7VCQmh3JmjttbsIhqDXs90eQRku2NsG7NLJezz;2l4FglmvZDJKoV94+UBxjg=="
 ---
 

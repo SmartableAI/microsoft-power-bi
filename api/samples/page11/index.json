@@ -4,6 +4,67 @@
   "page": 11,
   "value": [
     {
+      "path": "_samples/powerbi-community-ov-unv-data-challenge-pushpa-bhandari-neupane.md",
+      "title": "OV UNV Data Challenge - Pushpa Bhandari Neupane",
+      "excerpt": "OV UNV Data Challenge submitted Pushpa Bhandari Neupane, an Accountant and Newbie to PowerBI .",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-ov-unv-data-challenge-pushpa-bhandari-neupane/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-ov-unv-data-challenge-pushpa-bhandari-neupane/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Pushpa-Bhandari-Neupane/m-p/1090368",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "PBNeupane",
+            "type": "profile",
+            "name": "PBNeupane"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiODA5NGZiNmEtODI4Yi00NjFiLWEyNDktZGEwODFlMjNlYTY5IiwidCI6ImE4YzUzNWUxLThiNGYtNGRkYi1iMzRjLTVhYWIwZGMzMzQ2MCJ9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiODA5NGZiNmEtODI4Yi00NjFiLWEyNDktZGEwODFlMjNlYTY5IiwidCI6ImE4YzUzNWUxLThiNGYtNGRkYi1iMzRjLTVhYWIwZGMzMzQ2MCJ9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3948/2/OV%20UNV%20Data%20Challenge%20-%20Pushpa%20Bhandari%20Neupane.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2020-05-14T06:45:00-07:00",
+      "heat": 50,
+      "tags": [
+        "COVID-19",
+        "Technology"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3948/1/OV%20UNV%20Data%20Challenge%20-%20Pushpa%20Bhandari%20Neupane.JPG",
+          "width": 1196,
+          "height": 629,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_samples/powerbi-community-ov-unv-data-challenge-raghvendra-shivhare.md",
       "title": "OV UNV Data Challenge - Raghvendra Shivhare",
       "excerpt": "As a data challenge for Online Volunteers , Raghvendra Shivhare created a report to represent the geographical mobilization and demographics of",
@@ -528,6 +589,126 @@
           "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/488/1/PhillySchoolDistrict_logo_newer.png",
           "width": 300,
           "height": 168,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-pilotage-de-la-performance-dataviz-power-bi.md",
+      "title": "Pilotage de la performance - Dataviz Power BI",
+      "excerpt": "O util de suivi de projet basé sur l'expérience utilisateur permettant de piloter sur le suivi budgétaire. B asé sur des droits d'accès précis,",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-pilotage-de-la-performance-dataviz-power-bi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-pilotage-de-la-performance-dataviz-power-bi/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Pilotage-de-la-performance-Dataviz-Power-BI/m-p/249482",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "ggaudfroy",
+            "type": "profile",
+            "name": "ggaudfroy"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOGUwOGMwNGUtNTcwMi00YTg1LTljZDUtMDc3MzA0Mzg2YTI2IiwidCI6IjhlYmE3MDI4LWE0MzAtNDRlYi05YmIwLWE3MzMyY2U3NGJiNCIsImMiOjh9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiOGUwOGMwNGUtNTcwMi00YTg1LTljZDUtMDc3MzA0Mzg2YTI2IiwidCI6IjhlYmE3MDI4LWE0MzAtNDRlYi05YmIwLWE3MzMyY2U3NGJiNCIsImMiOjh9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1128/3/Tableau%20de%20Bord%20Pilotage.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2017-09-11T04:51:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Business"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1128/1/TDB-page-001.jpg",
+          "width": 3508,
+          "height": 2481,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-pokemon-go-analysis-pokemon-peru-waiting-for-pokemongo.md",
+      "title": "Pokémon GO - Analysis Pokemon: Perú waiting for PokemonGo",
+      "excerpt": "Power BI: Pokemon Kaits - Alejandro Sanchez - Peru A small demo of pokemon, created by a fan !. enjoy it. More Demos:",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-pokemon-go-analysis-pokemon-peru-waiting-for-pokemongo/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-pokemon-go-analysis-pokemon-peru-waiting-for-pokemongo/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Pok%C3%A9mon-GO-Analysis-Pokemon-Per%C3%BA-waiting-for-PokemonGo/m-p/54560",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "AlejandroSnchez",
+            "type": "profile",
+            "name": "AlejandroSnchez"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiODA5YjhhY2YtMTFiYS00NzUwLTk2ODgtZjQ2MTA0MzNhMGJiIiwidCI6ImIxZDg0Y2ZmLTg4ZDktNDdlNC1hNzdjLTQ2MjNhZTE0MzVhZCIsImMiOjR9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiODA5YjhhY2YtMTFiYS00NzUwLTk2ODgtZjQ2MTA0MzNhMGJiIiwidCI6ImIxZDg0Y2ZmLTg4ZDktNDdlNC1hNzdjLTQ2MjNhZTE0MzVhZCIsImMiOjR9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/190/2/Pokemon%20Kaits.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2016-08-01T08:20:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Entertainment"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/190/1/Pokemon%20Kaits.png",
+          "width": 933,
+          "height": 609,
           "isCached": true
         }
       ],
@@ -1138,12 +1319,12 @@
       ]
     },
     {
-      "path": "_samples/powerbi-community-requirements-analysis-example-for-2016-mvp-summit.md",
-      "title": "Requirements Analysis example for 2016 MVP Summit",
-      "excerpt": "This model came from a real world need to analyze a list of requirements received as part of a Request for Proposal. These situations typically",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-requirements-analysis-example-for-2016-mvp-summit/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-requirements-analysis-example-for-2016-mvp-summit/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Requirements-Analysis-example-for-2016-MVP-Summit/m-p/88492",
+      "path": "_samples/powerbi-community-quality-of-life-cost-of-living-and-happiness-around-the-world.md",
+      "title": "Quality of Life, Cost of Living and Happiness around the World",
+      "excerpt": "Hi All, I leveraged the idea and used the link below as a reference to build this model, and I also used the same data sources that were mentioned",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-quality-of-life-cost-of-living-and-happiness-around-the-world/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-quality-of-life-cost-of-living-and-happiness-around-the-world/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Quality-of-Life-Cost-of-Living-and-Happiness-around-the-World/m-p/716949",
       "provider": {
         "name": "PowerBI Community",
         "domain": "powerbi.com",
@@ -1158,38 +1339,42 @@
         "authors": [
           {
             "path": "",
-            "title": "trebgatte",
+            "title": "valdo34",
             "type": "profile",
-            "name": "trebgatte"
+            "name": "valdo34"
           }
         ]
       },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjE0ZTU2MjUtNTBkMC00NTdjLWJiYzAtMGI5N2JjNTczMTJlIiwidCI6IjA5ODQ4YTQ5LTRiMDEtNGFkNS05YzIyLWFlNjdjOWRlODVjNCIsImMiOjZ9\"></iframe>",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNWQxNDZiY2UtNDM2Zi00YWNiLWFlY2QtYjBmOWUwNDk2MzEwIiwidCI6ImUxMzk1OWFkLTYyNzktNDIwYy1hYmEzLWE5ZTgzYzg1YWQyZSIsImMiOjh9\"></iframe>",
       "actions": [
         {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiNjE0ZTU2MjUtNTBkMC00NTdjLWJiYzAtMGI5N2JjNTczMTJlIiwidCI6IjA5ODQ4YTQ5LTRiMDEtNGFkNS05YzIyLWFlNjdjOWRlODVjNCIsImMiOjZ9",
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNWQxNDZiY2UtNDM2Zi00YWNiLWFlY2QtYjBmOWUwNDk2MzEwIiwidCI6ImUxMzk1OWFkLTYyNzktNDIwYy1hYmEzLWE5ZTgzYzg1YWQyZSIsImMiOjh9",
           "type": "preview",
           "title": "Preview Report",
           "attribution": "PowerBI Community"
         },
         {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/429/2/Requirements%20Analysis.pbix",
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2684/2/Quality%20Of%20Life.pbix",
           "type": "download",
           "title": "Download PBIX",
           "attribution": "PowerBI Community"
         }
       ],
-      "publishedDateTime": "2016-11-10T03:03:00-08:00",
+      "publishedDateTime": "2019-06-17T04:37:00-07:00",
       "heat": 50,
       "tags": [
+        "Health",
+        "Education",
+        "Government",
         "Business",
-        "Technology"
+        "Lifestyle",
+        "Economics"
       ],
       "images": [
         {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/429/1/RequirementsAnalysis.jpg",
-          "width": 1629,
-          "height": 936,
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2684/1/Quality%20of%20Life%20and%20Happiness.JPG",
+          "width": 1868,
+          "height": 1045,
           "isCached": true
         }
       ],
@@ -1199,132 +1384,12 @@
       ]
     },
     {
-      "path": "_samples/powerbi-community-river-vs-boca.md",
-      "title": "River Vs Boca",
-      "excerpt": "River Vs Boca since de beginnings to the end of 2018",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-river-vs-boca/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-river-vs-boca/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/River-Vs-Boca/m-p/609606",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Anonymous",
-            "type": "profile",
-            "name": "Anonymous"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNzc0OTM4MmYtYjE4MC00YmI5LTg4MGMtNTI2NTZhNTE2NTdmIiwidCI6ImY3NzY1ZjZjLWM5YzEtNGNlNy05NWM3LTIwMzZkZDg4ZGVlMSIsImMiOjR9\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiNzc0OTM4MmYtYjE4MC00YmI5LTg4MGMtNTI2NTZhNTE2NTdmIiwidCI6ImY3NzY1ZjZjLWM5YzEtNGNlNy05NWM3LTIwMzZkZDg4ZGVlMSIsImMiOjR9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2457/2/Comparativa%20River%20Vs%20Boca.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2019-01-25T04:24:00-08:00",
-      "heat": 50,
-      "tags": [
-        "Sports"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2457/1/images.jpg",
-          "width": 299,
-          "height": 168,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_samples/powerbi-community-road-safety-back-to-school.md",
-      "title": "Road Safety (Back to School)",
-      "excerpt": "Hi All This dashboard is developed by 12 to 15 year old kids whose names are as below: Avantika Nannegari (15 years) Aryamaan Nannegari (12 years)",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-road-safety-back-to-school/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-road-safety-back-to-school/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Road-Safety-Back-to-School/m-p/785683",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "indupriya9",
-            "type": "profile",
-            "name": "indupriya9"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYWM4NGFhYjktY2JlZS00Y2FjLWI5ZjUtZTM4MzY4NzgyNTgxIiwidCI6IjY2NzI4MWJkLTM3MTYtNGNiNS05Yzg2LTYzMjZkOWEzODVlNCJ9\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiYWM4NGFhYjktY2JlZS00Y2FjLWI5ZjUtZTM4MzY4NzgyNTgxIiwidCI6IjY2NzI4MWJkLTM3MTYtNGNiNS05Yzg2LTYzMjZkOWEzODVlNCJ9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2933/2/Road%20safety.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2019-09-05T22:18:00-07:00",
-      "heat": 50,
-      "tags": [
-        "Education"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2933/1/Road%20Safety.PNG",
-          "width": 965,
-          "height": 575,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_samples/powerbi-community-rutas-entrega.md",
-      "title": "Rutas Entrega",
-      "excerpt": "Reporte de Rutas de Entrega",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-rutas-entrega/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-rutas-entrega/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Rutas-Entrega/m-p/431702",
+      "path": "_samples/powerbi-community-reporte-de-consumo-de-gasolina-oil-consume-report.md",
+      "title": "Reporte de Consumo de Gasolina (Oil Consume Report",
+      "excerpt": "Reporte de Consumo de Gasolina por Tarjeta (4)",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-reporte-de-consumo-de-gasolina-oil-consume-report/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-reporte-de-consumo-de-gasolina-oil-consume-report/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Reporte-de-Consumo-de-Gasolina-Oil-Consume-Report/m-p/434805",
       "provider": {
         "name": "PowerBI Community",
         "domain": "powerbi.com",
@@ -1345,31 +1410,31 @@
           }
         ]
       },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjcxOWQzY2EtY2VkMy00NDU4LWFhMDUtMjliMjBlYzEwZGI5IiwidCI6ImYyMmFlZDcyLTc1YmMtNDI2YS1hOGQzLTFiYTgyNmY0ODI4MSIsImMiOjR9\"></iframe>",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiODAyYTJlMTItYTYwYS00NjNiLWFhMmUtMTczYWI0MGVlNjIxIiwidCI6ImYyMmFlZDcyLTc1YmMtNDI2YS1hOGQzLTFiYTgyNmY0ODI4MSIsImMiOjR9\"></iframe>",
       "actions": [
         {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiNjcxOWQzY2EtY2VkMy00NDU4LWFhMDUtMjliMjBlYzEwZGI5IiwidCI6ImYyMmFlZDcyLTc1YmMtNDI2YS1hOGQzLTFiYTgyNmY0ODI4MSIsImMiOjR9",
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiODAyYTJlMTItYTYwYS00NjNiLWFhMmUtMTczYWI0MGVlNjIxIiwidCI6ImYyMmFlZDcyLTc1YmMtNDI2YS1hOGQzLTFiYTgyNmY0ODI4MSIsImMiOjR9",
           "type": "preview",
           "title": "Preview Report",
           "attribution": "PowerBI Community"
         },
         {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1947/2/OPER-RASTREO-GPS-03.pbix",
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1971/2/ADM-EFECTIVALE-CONSUMO%2018.pbix",
           "type": "download",
           "title": "Download PBIX",
           "attribution": "PowerBI Community"
         }
       ],
-      "publishedDateTime": "2018-06-04T04:09:00-07:00",
+      "publishedDateTime": "2018-06-07T01:48:00-07:00",
       "heat": 50,
       "tags": [
         "Business"
       ],
       "images": [
         {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1947/1/Rutas01.png",
-          "width": 1293,
-          "height": 737,
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1971/1/Combustible.png",
+          "width": 1389,
+          "height": 791,
           "isCached": true
         }
       ],
@@ -1379,12 +1444,12 @@
       ]
     },
     {
-      "path": "_samples/powerbi-community-saint-louis-beer-bi.md",
-      "title": "Saint Louis Beer BI",
-      "excerpt": "An overview of the Saint Louis craft beer scene. Open source data obtained courtesy of Beeradvocate .",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-saint-louis-beer-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-saint-louis-beer-bi/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Saint-Louis-Beer-BI/m-p/397557",
+      "path": "_samples/powerbi-community-reporte-ventas-anuales.md",
+      "title": "Reporte Ventas Anuales",
+      "excerpt": "Reporte de Ventas Anuales con Metas Individuales y Organigrama del Área de Ventas en Visio",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-reporte-ventas-anuales/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-reporte-ventas-anuales/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Reporte-Ventas-Anuales/m-p/430587",
       "provider": {
         "name": "PowerBI Community",
         "domain": "powerbi.com",
@@ -1399,99 +1464,37 @@
         "authors": [
           {
             "path": "",
-            "title": "alexmpowers",
+            "title": "gabriva",
             "type": "profile",
-            "name": "alexmpowers"
+            "name": "gabriva"
           }
         ]
       },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOTIyNzVhYzUtMjZkZi00ZjFkLWEyYmItZWMzMzk3ZTcxMzk0IiwidCI6IjAwZmVkODUxLThlYTMtNDAzNi05NmY4LWUwMjRmMDI5OWJkNCIsImMiOjN9\"></iframe>",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiODU4NTlkNTItMTVlZC00NzU4LWJlMjctZWRkMTdhOGZmOWUwIiwidCI6ImYyMmFlZDcyLTc1YmMtNDI2YS1hOGQzLTFiYTgyNmY0ODI4MSIsImMiOjR9\"></iframe>",
       "actions": [
         {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiOTIyNzVhYzUtMjZkZi00ZjFkLWEyYmItZWMzMzk3ZTcxMzk0IiwidCI6IjAwZmVkODUxLThlYTMtNDAzNi05NmY4LWUwMjRmMDI5OWJkNCIsImMiOjN9",
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiODU4NTlkNTItMTVlZC00NzU4LWJlMjctZWRkMTdhOGZmOWUwIiwidCI6ImYyMmFlZDcyLTc1YmMtNDI2YS1hOGQzLTFiYTgyNmY0ODI4MSIsImMiOjR9",
           "type": "preview",
           "title": "Preview Report",
           "attribution": "PowerBI Community"
         },
         {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1794/2/Saint%20Louis%20BI%20Beer%20Report.pbix",
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1940/2/OPER-VENTAS-ANUALES-01.pbix",
           "type": "download",
           "title": "Download PBIX",
           "attribution": "PowerBI Community"
         }
       ],
-      "publishedDateTime": "2018-04-16T11:22:00-07:00",
-      "heat": 50,
-      "tags": [
-        "Entertainment",
-        "Business",
-        "Lifestyle"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1794/1/STLBEERBI.jpg",
-          "width": 1629,
-          "height": 936,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_samples/powerbi-community-sales-analysis-reports-with-bookmarks.md",
-      "title": "Sales Analysis Reports with Bookmarks",
-      "excerpt": "Sales Analysis Reports eyJrIjoiYWFiZmE5NDktYWZiOS00ZGE4LTgwOTQtMzFiMmIyMGRkNTg4IiwidCI6IjJmNjI3NTMxLWQ4MTAtNGQ1Zi1hMzIzLWQ0ZjgwMjRmZjc0ZCIsImMiOjEwfQ",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-sales-analysis-reports-with-bookmarks/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-sales-analysis-reports-with-bookmarks/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Sales-Analysis-Reports-with-Bookmarks/m-p/329557",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "shanu_123",
-            "type": "profile",
-            "name": "shanu_123"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYWFiZmE5NDktYWZiOS00ZGE4LTgwOTQtMzFiMmIyMGRkNTg4IiwidCI6IjJmNjI3NTMxLWQ4MTAtNGQ1Zi1hMzIzLWQ0ZjgwMjRmZjc0ZCIsImMiOjEwfQ\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiYWFiZmE5NDktYWZiOS00ZGE4LTgwOTQtMzFiMmIyMGRkNTg4IiwidCI6IjJmNjI3NTMxLWQ4MTAtNGQ1Zi1hMzIzLWQ0ZjgwMjRmZjc0ZCIsImMiOjEwfQ",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1392/2/sample%20project%20file.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2017-12-26T22:38:00-08:00",
+      "publishedDateTime": "2018-06-01T11:58:00-07:00",
       "heat": 50,
       "tags": [
         "Business"
       ],
       "images": [
         {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1392/1/Store%20Sales%20Analysis.PNG",
-          "width": 1176,
-          "height": 700,
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1940/1/VentasAnuales.png",
+          "width": 1477,
+          "height": 825,
           "isCached": true
         }
       ],

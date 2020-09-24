@@ -4,7 +4,7 @@ excerpt: "Solved: Discovery what is the main gifts offered over yeah for Valenti
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/DataStory-Valentine-s-day-gifts-trend-2010-2016/m-p/127774
 type: download
 publishedDateTime: 2017-02-15T07:17:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZjlhYWE1YWEtODJiNC00NDU3LTgzNmYtOTBiNjFiMzUzZTA4IiwidCI6ImJkNGZjZDM3LWRmZmEtNDk0OC1iMjU4LWQ3ZjlhN2I1Y2IxYyIsImMiOjh9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 812
     isCached: true
 
-secured: "uSFQoiXK4lCG6uunkeDSxvldo2bT5URU86kCKGjkSvVuheGRFppA9fWFYG5YyYZGTBtsHvNsl6h5GFEkUwxUiFkmRCa/EnBLIYQ5bqf5qpGeBht9g1SrxsA9VhPu8ikkgqHclI4L0HwzVy2VYQ9M3TQWqvmo+WBAF34gTBoZ+Qupd1O/xB89uv+p94SJhwfKcI4EzYHQsoQrLNyo2WGn3yEoTbpk5IJswDEzu5DTk7d5xrQJsobK0OjSnK1HSs6AajJbRwWkshEs7XdGK5tJS/Ia6aCZAN5LRN86AFGUXxIhukJDEiXuVpo1ZWfY+wKuWRU4Vkja+ft/tnJLLVye5+lMumKcgsFQn2lmfy0hmSejKsdtS/mD0ONcUYtr3fjz206iQZOIUHEJ7Zgrmqd3P2MP6WUECjVH9kCsgy/thSk=;SdK2l5ile+9codd2uGiLww=="
+secured: "pmUojUnwo+5BrGJB+j+cm3hKdBNGSQVEwyvL1EcNnsRTwlVS1Y7BSCtOLb0h8E2jxyctNECUtZ/jqzI9RLeTzI7JgowbByFrjOnsDftuY+rVTXfQJ26xu9ugmGgvbWiewT+Kzr0Mjti89NdbRpv0sgQVrAWbCRp0DJ3RwVSePG8XwXaqiUyXO+F183ZssnRt6oLTPQ69PcZcLerSC+JIoA8Sdc/uDPVVBzxWsfILYQdcnkbavMTVmtwqVrNABf9fLohQpPZ0y9ksXnUnPEdgPQ3w5oEH58b7QDXli+pvNJJKiECPR3IlfHukU1fA8U+b79SQdXIUMFGMaNFHaCbi/+IjSLvVK583IXzhlu0Rp3VW9YO6RQzdsaWFIZeigMJ6V6wbE8BMA3upuF4UwVANmNBNV++RCOhewt0qkanVJDtqzzR+HjKNIMacp4wSQPPc;IoS+nHAhT6CP1HaPOeO8ew=="
 ---
 

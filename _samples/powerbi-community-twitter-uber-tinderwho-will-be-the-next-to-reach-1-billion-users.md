@@ -4,7 +4,7 @@ excerpt: "Hi, This is my second public dashboard using Power BI. This dashboard 
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Twitter-Uber-Tinder-who-will-be-the-next-to-reach-1-Billion/m-p/211197
 type: download
 publishedDateTime: 2017-07-13T03:20:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNDBmYWIxZjMtOWU0Yy00YThkLWE0MWUtY2M2N2IwM2M4ZDkxIiwidCI6Ijg5NWQ0YTRiLTE1NGYtNDUzNy04NzAyLTc4YWQ0MDE1Y2Y0YSIsImMiOjl9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 679
     isCached: true
 
-secured: "MPWvGotQv0/Z/WpJKFYfh2YHAI6+yI4d4NYpGsA1oXTPeLya2vloQIaNJ1oq9BuXBWuNEP3Q/nbadFQAXPIkr4vG6aR8/hEIbwp19LUJhk+gbSCadpeVS4EbJ2MlQccJ/b/cmGf574Pg1nwfI8y118pGbpGn2KHp4NoeaJ7ubK+WmypnrMk9hKKltFo8ZSjkVWdx2u3Hqehxma/u1ZMRi2XTmxGB1t7wmxjLGkQEumOlYwE4wD4Oi+kVrtWeYU+DuUO/fvSMKoTHY0tO0EYyAuaWkUAjlS2p1vnMG/6LXCOxF5ziLtnzkMbCUFQ1tHwlYCTzz/tuFicbHlm+Gb2HUa+gLQ/+U68ildB99ZzuZ0OfAWnepra/i6CXGwDSwqu3DhPfT6sJyOGd41AEfeEsAOhgWbUOs7Vgmriphvk3px0=;d5E5a+2E7caVSZPDP7L/FA=="
+secured: "tpZ/d6RqxwThkYvWk8zz+K1bI8buBvxCkZ9fGN3bACnORSLdeYG9HEc1zLuHwWbErLBP9BTadkgrMje0B33Qg+Rk+dd/zB+NDbRuJeBT168++TtuJ46JMu7Edj363Bs/eUAmwC8ebAhs1Sx0ZbyprgbfIIVT0DLWZTaN1lOf5qQi5AeCJyPd6ZVfhylptcdkCFvMEhLkKjca0hLeyarzqyyJEGBV57bEjtBIaVMKdVmt/tpQllzi9swV1plJ/+lYMV74QAR3QoIBKWxLgmF1jLxLqWNq81ysrSeFiTiJD1mHS6WZf+26BRIhgWCVU3aBaunk/RhoXODM17Q54Vh1a6oLREauZfvG7n6l4/oZkPqsA0I/XfB+XMgf63gKkAY3gaiphUKowMCWrKnqVTCKVhty6uev4CictKgFkkEH9vupYtY/MroK4ZjhoG2/gmu/;AwE4e++3/ZgWEpvlghEnXQ=="
 ---
 

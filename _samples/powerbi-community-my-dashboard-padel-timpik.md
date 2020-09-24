@@ -4,7 +4,7 @@ excerpt: "This is my Personal Dashboard of Padel with Timpik platform. My first 
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/My-Dashboard-Padel-Timpik/m-p/55629
 type: download
 publishedDateTime: 2016-08-04T03:02:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDhhNGM1MzMtZWFhYy00ZGViLWFiY2ItYWEzZGYzN2M5NjYzIiwidCI6IjQ5MmY4MjJjLTEyMjktNGMyYi04OWE3LTY1YjI2NDZhMzhjZCIsImMiOjh9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 1080
     isCached: true
 
-secured: "xHixnHxTwIVIG3htfHZWer2GkkcBlLnLuRxAfajMVSe5Z7/9wN2nAMOfyOahKT3UT3FDDWSOtV0F9hHHDuzaJmrhvPruqW5hh9v3RLg5yzuRauoGY0sU/fCMfXnaZ1w4V/2LR+pbK6pZnQYjD1aT24AC1MDfM0HrFueh4rdOgt7pRWpQOFm9gKa8pyUzvGX0zNi/VakrmB4G2GFNBz04HWKMInRAbYtjVx2engvjZR4vus04NNMczHNAZeWi09GpNmbjsOYHO5z9wOI3PIGkbPYYj3+APvX2GTzxKGAAShGwn4LN5m8LTx9g9GnuGZvwd7E/oMrGH699jtR6pHF7199FmEXsPSelmYoro2gcfd45m3KzV9TL9CevKSoiK4ov4tYD1i4rd52DfCwN24B3aSaK+8Wx4j0xoTorKrLPWqM=;sIcI2vafJ0IKS7mjqDRXaQ=="
+secured: "SOZaTvc2GyuAbc4uIJAu2bOdD/dx1+A3ZEwN1qW6bdDy6EpJdp6llKuwu1Xi3N2aX9rFrutc2k+Yk6ZJR//A2XKkq8LlUyy4M21D3yuLKTBRA9urtqPRuwHGyDUHhZo6qILIHzkPLrxj117p8Fy0Q3JMamtAqOTXglYhKWlH5J3Kgd2Qs8HMIdfvdLHIlgt9fUON+LVuVc/mqrZlDJ1cmsxJAEfkk+05lR1lqWnW7K45R46H7AogUUCoHxo5kgyy1ldMwJ842rqp5+jusTeQq+swKRakN4bWbKSzkjxzpun44L5/lFvHuBaFsEsxtde90dpOnlfmp9fAWpQ6QxHlqkyi+VjmE3MIfJHxrp7uQpX5fy385+062ygc3Y4PsuimHLyYTmA67k1obS9I9vBKFnj1eoU2sgyqzWsqCh66i8/loqlP7WwPSCpHOilOIaL8;OL84hK+ivQDZ8t9VON+kpg=="
 ---
 

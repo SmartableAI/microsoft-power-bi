@@ -4,186 +4,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_samples/powerbi-community-fifa-world-cup-2018-russia.md",
-      "title": "FIFA World Cup 2018 Russia",
-      "excerpt": "Web Scrapping sur la coupe du Monde. Uniquement dans cette version le Groupe C.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-fifa-world-cup-2018-russia/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-fifa-world-cup-2018-russia/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/FIFA-World-Cup-2018-Russia/m-p/479907",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "ggaudfroy",
-            "type": "profile",
-            "name": "ggaudfroy"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMWM1YTA2N2QtMTM2Ny00OTM2LWEwMWUtY2E3NjAwYjViMTg5IiwidCI6IjhlYmE3MDI4LWE0MzAtNDRlYi05YmIwLWE3MzMyY2U3NGJiNCIsImMiOjh9\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiMWM1YTA2N2QtMTM2Ny00OTM2LWEwMWUtY2E3NjAwYjViMTg5IiwidCI6IjhlYmE3MDI4LWE0MzAtNDRlYi05YmIwLWE3MzMyY2U3NGJiNCIsImMiOjh9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2123/2/Russia%202018.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2018-08-02T22:34:00-07:00",
-      "heat": 50,
-      "tags": [
-        "Sports"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2123/1/Compo_Equipe.PNG",
-          "width": 1820,
-          "height": 1034,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_samples/powerbi-community-finding-a-puppy-using-power-bi.md",
-      "title": "Finding a Puppy using Power BI",
-      "excerpt": "Hi All, We were looking for a puppy recently and when I went onto the UK Kennel Club website I found it a bit bewildering looking at all of the data.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-finding-a-puppy-using-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-finding-a-puppy-using-power-bi/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Finding-a-Puppy-using-Power-BI/m-p/257626",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "RoryBI",
-            "type": "profile",
-            "name": "RoryBI"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiODNiZGExMmMtMGExYi00NTI1LTkwYTUtNDc0ZWQ0ODJjYjM0IiwidCI6IjFkOTEwYzM3LWE0MjktNGYzNS1iYTFiLTM3ZDViMjNmZTRhMSIsImMiOjh9\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiODNiZGExMmMtMGExYi00NTI1LTkwYTUtNDc0ZWQ0ODJjYjM0IiwidCI6IjFkOTEwYzM3LWE0MjktNGYzNS1iYTFiLTM3ZDViMjNmZTRhMSIsImMiOjh9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1161/2/Puppy%20Finder%20with%20Function.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2017-09-22T06:03:00-07:00",
-      "heat": 50,
-      "tags": [
-        "Lifestyle"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1161/1/Capture.PNG",
-          "width": 1908,
-          "height": 1009,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_samples/powerbi-community-follow-the-fifa-world-cup-our-office-team-picks-in-power-bi.md",
-      "title": "Follow the FIFA World Cup & our Office team picks in Power BI🏆⚽🌏",
-      "excerpt": "The world cup is on and for this FIFA world cup 2018 in Russia !!! for fun and a bit of competition prize included I hope...we have picks for teams",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-follow-the-fifa-world-cup-our-office-team-picks-in-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-follow-the-fifa-world-cup-our-office-team-picks-in-power-bi/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Follow-the-FIFA-World-Cup-amp-our-Office-team-picks-in-Power-BI/m-p/442023",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "tmatarise",
-            "type": "profile",
-            "name": "tmatarise"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOTA3MGRkODAtYzNiZC00YzA4LTgzODctYzM5NTQyMmFjNGVhIiwidCI6IjAwZmQyNTZjLTcyMzUtNDhlNC04MTBjLTJiMzQ0NTY4NjBhYiIsImMiOjh9\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiOTA3MGRkODAtYzNiZC00YzA4LTgzODctYzM5NTQyMmFjNGVhIiwidCI6IjAwZmQyNTZjLTcyMzUtNDhlNC04MTBjLTJiMzQ0NTY4NjBhYiIsImMiOjh9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2012/2/FIFA%20World%20Cup%202018%20_Teambase.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2018-06-17T21:47:00-07:00",
-      "heat": 50,
-      "tags": [
-        "Sports"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2012/1/Knockouts.PNG",
-          "width": 1454,
-          "height": 831,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_samples/powerbi-community-food-world-cup.md",
       "title": "Food World Cup",
       "excerpt": "World Wide food rating analysis is done with world wide respondants who als have rated themselves in Food expertise. Data source - Github",
@@ -287,6 +107,66 @@
           "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1557/1/Screenshot_106.png",
           "width": 874,
           "height": 677,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-forecasting-petrol-diesel-prices-in-the-uk.md",
+      "title": "Forecasting Petrol & Diesel Prices in the UK",
+      "excerpt": "Created for #MakeoverMonday 2020 week 17, this dash features the built-in Forecasting in the analytics pane. I am pleased with the way I can play",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-forecasting-petrol-diesel-prices-in-the-uk/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-forecasting-petrol-diesel-prices-in-the-uk/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Forecasting-Petrol-amp-Diesel-Prices-in-the-UK/m-p/1056433",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Regiso",
+            "type": "profile",
+            "name": "Regiso"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNmNhOTc0NGUtMTczZC00OGNiLWE1NmQtNjU5ZTgzNDkyZjQyIiwidCI6ImUxNzc4MGM2LTczMDgtNDc3YS1iNzY3LWZhNTY5ODI0NWUyYSJ9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNmNhOTc0NGUtMTczZC00OGNiLWE1NmQtNjU5ZTgzNDkyZjQyIiwidCI6ImUxNzc4MGM2LTczMDgtNDc3YS1iNzY3LWZhNTY5ODI0NWUyYSJ9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3866/2/mm2020wk17gas.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2020-04-28T22:30:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Economics"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3866/1/pbidashgasmm2020w17.png",
+          "width": 951,
+          "height": 580,
           "isCached": true
         }
       ],
@@ -1498,6 +1378,130 @@
           "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2907/1/prezidenti.JPG",
           "width": 1612,
           "height": 897,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-live-for-speed-a-car-race-by-starschema.md",
+      "title": "Live for speed - A car race by Starschema",
+      "excerpt": "Last week I was asked to visualize the results of our car racing simulator at Starschema, and having the first glimpse of the data, I saw there's not",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-live-for-speed-a-car-race-by-starschema/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-live-for-speed-a-car-race-by-starschema/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Live-for-speed-A-car-race-by-Starschema/m-p/599153",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Judkacag",
+            "type": "profile",
+            "name": "Judkacag"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNTNiNjYxMTYtN2U1Ny00MGU3LTliOGItMTBlNmZjZjIzMDEyIiwidCI6ImU3NjJmZmZmLTlmMjctNGFjNy04MmFiLTBmMTg0ZmIwMjkyMyIsImMiOjh9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNTNiNjYxMTYtN2U1Ny00MGU3LTliOGItMTBlNmZjZjIzMDEyIiwidCI6ImU3NjJmZmZmLTlmMjctNGFjNy04MmFiLTBmMTg0ZmIwMjkyMyIsImMiOjh9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2432/2/live_for_speed_final.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2019-01-10T22:30:00-08:00",
+      "heat": 50,
+      "tags": [
+        "Entertainment",
+        "Technology",
+        "Sports",
+        "Lifestyle"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2432/1/FireShot%20Capture%2023%20-%20Microsoft%20Power%20BI_%20-%20https___app.powerbi.com_view.png",
+          "width": 1588,
+          "height": 1023,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-london-population-trendsmakeover-monday-week-40.md",
+      "title": "London Population Trends(Makeover Monday-Week 40)",
+      "excerpt": "This report helps understand the population trends of London and it's districts through 2011 to 2050. It gives insights on various factors like",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-london-population-trendsmakeover-monday-week-40/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-london-population-trendsmakeover-monday-week-40/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/London-Population-Trends-Makeover-Monday-Week-40/m-p/809688",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "sauravhippargi",
+            "type": "profile",
+            "name": "sauravhippargi"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZjYzYTE0MzItMGQzMi00MTg3LWEyOWQtM2UwNzc3NDNjM2E2IiwidCI6IjgxNzdmMWQzLWU2NTAtNDAxNS1iNzdhLTY4MjUxODQwMzRiNyJ9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiZjYzYTE0MzItMGQzMi00MTg3LWEyOWQtM2UwNzc3NDNjM2E2IiwidCI6IjgxNzdmMWQzLWU2NTAtNDAxNS1iNzdhLTY4MjUxODQwMzRiNyJ9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3048/2/London%20population.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2019-10-03T16:44:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Health",
+        "Lifestyle"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3048/4/Screenshot%20(70).png",
+          "width": 1029,
+          "height": 846,
           "isCached": true
         }
       ],

@@ -4,7 +4,7 @@ excerpt: "I'm just excited to tell the fifa world cup history. Check the statist
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Fifa-World-Cup-History/m-p/439983
 type: download
 publishedDateTime: 2018-06-14T08:11:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZDVlMmQxOWYtZDk0NC00N2MzLWFjMTAtYjcyODBiYmMzNjY1IiwidCI6ImRjZmI2MzJhLWI4OTYtNDI4OC04NDEzLWVjOGQ5NTQxMDZlNiIsImMiOjR9\"></iframe>"
 
@@ -41,6 +41,6 @@ images:
     height: 577
     isCached: true
 
-secured: "7OR/zCKARp3ZvsMMQ2zFAVLRZkertj647hfraOuTIawBs8ZTxdwyBwmnY1ExbV4zBVZKvDluAayfcGv9ULwD/RrjH6iwSrI6I/bF5yEVDkhw7TXMYt4ttYgAeC4UeSttBA1paEenw4S1agYvwJkVhRSKe3z3h5GkYC722T+BrXLfa95TKsW7t1fZIkVvMOLDAFVjbJPnxo0ap59mruJJJxSSgOLHKPfegDDrs5jZzSh1URCmeuTBZR7PLLvENJOffGz7rco6bFTMzHxOAcV5eN7u1XKnEqdtFqKH111gQovDJfwOkf5cmypdRKGd7nLOgFpyS0bixBFSVemACvLVFbAxckgDxkcxcO1hxjcW13Ljv3FBa1dSj/ex+8SWASJRDcWtAHaDcfaR0vkZCIzwEe5yaFyEqsX8vJebkVbDBDA=;Nl46/8mM0I1s+cAwedwt/A=="
+secured: "yVCZNlqVi7Wdi4O0q134ORC5uI73wJdDFU3zJDLyNgbwEQiKOIJ8DE/Mru2brjl9192fQwUn4CXMkEPTXDljwEP0Re/w5X9iiHJ21aSMMckFPBO5c70R0mbfTn+AHuNPFVfgi+10A4oHAp7NGpbNCEAqcGXHQUoQd5uBGS4763NtLfNrq9dkcd8LyxLKnldADmxST+DSqbXCYMZFdhdzV3pcs66SlGM7ynKJCFjIO/DTb/nSUd0mXtu+/P2MIwKRCbiaTrZRDQS7L/WtbxVA9RY7i90qOsf37DN8yrb3R7tTVHfuXgKx02xqsRJAOktE3FxEqGczYIAnmud6OdPZIFBwUkO/FeQ4GkE4JuQKV5TwCMRj2PR5s2OrwimzusLFZCfUNsI01OOiQXTlnMmiEflnS0tn5nRVV4lLEL4Y0xf+kcwXwIyrquOVDhQV63T0;3FSWyGNw4W3/5y/+C5zfYQ=="
 ---
 

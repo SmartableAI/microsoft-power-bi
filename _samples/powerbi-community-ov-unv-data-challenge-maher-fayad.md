@@ -4,7 +4,7 @@ excerpt: "As a data challenge for Online Volunteers , Maher Fayad created a repo
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Maher-Fayad/m-p/1043525
 type: download
 publishedDateTime: 2020-04-23T00:55:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZDMyZjBlYWMtODQwYS00YzRkLTkwMWYtN2YzMmYxMDlmNGYwIiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 1182
     isCached: true
 
-secured: "+dlDjM/F9fGV8zaMJoQIuMd8DYZXfOTtvvAPX9/j4ZOA05JWFp4/ZpKFVZNQuudaVES6QGAZfRxvZfhYI7c0zKQKTXxLPpya216j8cVukKiGoO2G5DOavRrSLdegTRjBxO7h4IljT+cJtNg7KX5PayMqGJlax4SKYjukgabJk0O0I+o98CB2tegB0sH8+MXUZHaKqQKDJWkEF/0gq2cTJ+7TtSUEh1d9EhHSY6iuQ9NCvBIPrLD8vGb1tSdbfby4LHCWsz/v2+S4y5jCkmpPqRya1x3hdCnfts9hApAhQkBu/7o5VJVGIrO0ekAESqw8ZRkrvOTy+c7UOXxmObEv2fc3mjxt2z/PCvGAGDIGc6saLzRZNUzc13fG7jvjPOPvMpMn0LfGqIQRx+nlfW02/A==;VIXAT3WSOrPTmDvIBeWvCA=="
+secured: "1ceQLhRyjVE48KXAgd6A/5tf/PNFw5XZu94zoe2k8I4Q7kgTr/CMjbT+2PgyDMmUfZfC5E4OQ8GT2pBUTKeU88zyWfmJOZqRBT2EaPXjs0Lr/EczVQ8aKqJqW87BnaLTdAG/v3UJnUG5C6ezAqIRLkHQazVQbtudQEMjvTfDc6xF8zpiLqVgQxC3xro3nTcM/UUmJiCZjw/G6LCNBZavXzF8Bz21VAfRs/oAoNoHiTKc0lJavYQmeFHoTo0c7QkVpUI2/UDfV1iMbd8mUHAcTTAtogjk2ea6/K09Q5wN8GM2gNUOq7tkFU+4JIOI0NhS56EvlBHu3jTHqnt0Bq4azg57cJjlnRrxfC0/9Jt3zcAgCVN3vTohOnzHiBhFB8jui1pohKL/sHydsdexupbhG/z5M0m/2iIS+cBRUaXzJfaUlPC5CABCuMdU1jDOuuyp;+V0OVILq9+0jKAmweSe0fw=="
 ---
 

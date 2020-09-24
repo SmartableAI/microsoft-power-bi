@@ -4,370 +4,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_samples/powerbi-community-austria-tourism.md",
-      "title": "Austria Tourism",
-      "excerpt": "Austria boasts one of the highest per capita income from tourism worldwide. The report summarizes the latest statistics published by Statistik",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-austria-tourism/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-austria-tourism/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Austria-Tourism/m-p/277381",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "pawel1",
-            "type": "profile",
-            "name": "pawel1"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNGU0YmEwZTQtY2YwYy00NmY0LTkzZmUtMDk1MTQzOTBkZDg1IiwidCI6ImI3M2IxZDZlLTIxZDUtNGUzOC1iMjM5LTgxMzRkOWQyYmY3OCIsImMiOjh9\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiNGU0YmEwZTQtY2YwYy00NmY0LTkzZmUtMDk1MTQzOTBkZDg1IiwidCI6ImI3M2IxZDZlLTIxZDUtNGUzOC1iMjM5LTgxMzRkOWQyYmY3OCIsImMiOjh9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1197/2/Austria%20Tourism%20Bundeslande.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2017-10-12T10:35:00-07:00",
-      "heat": 50,
-      "tags": [
-        "Economics"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1197/1/Austria%20tourism.JPG",
-          "width": 1120,
-          "height": 656,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_samples/powerbi-community-back-to-school-contest.md",
-      "title": "Back to School Contest!",
-      "excerpt": "Can you predict your shoe size based on your height? This Power BI report utilizes a data set of pre-defined height and shoe sizes to determine if it",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-back-to-school-contest/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-back-to-school-contest/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Back-to-School-Contest/m-p/785840",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "DougPearce",
-            "type": "profile",
-            "name": "DougPearce"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNzYwNjVmMjgtZDRiYi00ZTRiLWFiYzMtNWEzNGU1ODVhZWM4IiwidCI6ImIxMTBlZGRmLTIzYWUtNDU3Yy1hNmYzLTczNGQ1OTJiMjg0NyIsImMiOjF9\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiNzYwNjVmMjgtZDRiYi00ZTRiLWFiYzMtNWEzNGU1ODVhZWM4IiwidCI6ImIxMTBlZGRmLTIzYWUtNDU3Yy1hNmYzLTczNGQ1OTJiMjg0NyIsImMiOjF9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2944/2/Back%20To%20School%202019%20-%20Power%20BI%20Contest.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2019-09-06T01:17:00-07:00",
-      "heat": 50,
-      "tags": [
-        "Education"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2944/1/Back%20To%20School.jpg",
-          "width": 275,
-          "height": 183,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_samples/powerbi-community-barnalytics-jhu-csse-covid-19-dashboard.md",
-      "title": "Barnalytics JHU CSSE CoViD-19 Dashboard",
-      "excerpt": "This report has been developed to help out the community in demonstrating how to connect to the JHU CSSE CoViD-19 dataset stored on Github (",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-barnalytics-jhu-csse-covid-19-dashboard/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-barnalytics-jhu-csse-covid-19-dashboard/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Barnalytics-JHU-CSSE-CoViD-19-Dashboard/m-p/993401",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Barnalytics",
-            "type": "profile",
-            "name": "Barnalytics"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZmE3Njg3YjgtNDkwMy00ZDAxLWJhMDItMzgzZjJlMDgyMGNiIiwidCI6IjdlMzVhYmUwLTZiNWYtNDA2Ni04ZTdjLTg4Y2JiNmQwN2I2YyJ9\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiZmE3Njg3YjgtNDkwMy00ZDAxLWJhMDItMzgzZjJlMDgyMGNiIiwidCI6IjdlMzVhYmUwLTZiNWYtNDA2Ni04ZTdjLTg4Y2JiNmQwN2I2YyJ9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3571/2/Barnalytics%20CoViD-19.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2020-03-25T23:29:00-07:00",
-      "heat": 50,
-      "tags": [
-        "COVID-19",
-        "Health",
-        "Education"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3571/1/Annotation%202020-03-23%20180326.png",
-          "width": 1380,
-          "height": 770,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_samples/powerbi-community-barrier-free-information-for-anyone-bureau-of-social-welfare-and-public-health-.md",
-      "title": "Barrier-free information for anyone (Bureau of Social Welfare and Public Health) だれでもトイレのバリアフリー情報",
-      "excerpt": "The Tokyo Bureau of Social Welfare and Public Health discloses the location of restrooms and other barrier-free conditions as one of the ways to",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-barrier-free-information-for-anyone-bureau-of-social-welfare-and-public-health-/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-barrier-free-information-for-anyone-bureau-of-social-welfare-and-public-health-/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Barrier-free-information-for-anyone-Bureau-of-Social-Welfare-and/m-p/968214",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "ogawa_0409",
-            "type": "profile",
-            "name": "ogawa_0409"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNzYzMzgwNzUtNDVlNi00YmI4LWEyYWEtNDIzMmQyYjQ2OWU2IiwidCI6ImU2YjBhNTdiLWJkYTctNDA5YS1iYjVlLWI4YWYzMTE0Y2JhMCIsImMiOjEwfQ%3D%3D\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiNzYzMzgwNzUtNDVlNi00YmI4LWEyYWEtNDIzMmQyYjQ2OWU2IiwidCI6ImU2YjBhNTdiLWJkYTctNDA5YS1iYjVlLWI4YWYzMTE0Y2JhMCIsImMiOjEwfQ%3D%3D",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3426/3/%E3%81%A0%E3%82%8C%E3%81%A7%E3%82%82%E3%83%88%E3%82%A4%E3%83%AC%E3%81%AE%E3%83%90%E3%83%AA%E3%82%A2%E3%83%95%E3%83%AA%E3%83%BC%E6%83%85%E5%A0%B1.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2020-03-10T16:52:00-07:00",
-      "heat": 50,
-      "tags": [
-        "Government",
-        "Social Media"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3426/1/%E3%81%A0%E3%82%8C%E3%81%A7%E3%82%82%E3%83%88%E3%82%A4%E3%83%AC%E3%81%AE%E3%83%90%E3%83%AA%E3%82%A2%E3%83%95%E3%83%AA%E3%83%BC%E3%83%88%E3%82%A4%E3%83%AC%E6%83%85%E5%A0%B1.png",
-          "width": 1336,
-          "height": 745,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_samples/powerbi-community-baseball-standings-year-to-year.md",
-      "title": "Baseball Standings Year to Year",
-      "excerpt": "Visualizes the change in team standings between 2015 and 2016 for Major League Baseball's American League Central division. This visualization",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-baseball-standings-year-to-year/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-baseball-standings-year-to-year/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Baseball-Standings-Year-to-Year/m-p/170678",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "deldersveld",
-            "type": "profile",
-            "name": "deldersveld"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYjQyZmI3ZWUtZGJmMi00ZWQ5LTkzZjUtMWIwMTBhNzBhNDZkIiwidCI6IjRlZmE3NzhmLTVmNmMtNDAxZS04OGFmLWNmMTliZDA5ZDE0OCIsImMiOjN9\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiYjQyZmI3ZWUtZGJmMi00ZWQ5LTkzZjUtMWIwMTBhNzBhNDZkIiwidCI6IjRlZmE3NzhmLTVmNmMtNDAxZS04OGFmLWNmMTliZDA5ZDE0OCIsImMiOjN9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/838/2/Curve%20-%20MLB%20Standings.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2017-05-05T09:07:00-07:00",
-      "heat": 50,
-      "tags": [
-        "Sports"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/838/1/Baseball%20Standings.PNG",
-          "width": 948,
-          "height": 832,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_samples/powerbi-community-blood-sugar-readings.md",
-      "title": "Blood Sugar Readings",
-      "excerpt": "This is a history of my glucose readings over several months.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-blood-sugar-readings/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-blood-sugar-readings/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Blood-Sugar-Readings/m-p/733457",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "wmjhca",
-            "type": "profile",
-            "name": "wmjhca"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZTRmYWMzZDItYjA4MS00NzliLWIyZTQtNThjODUyYTYxMTkwIiwidCI6ImZmOWUwODE4LWViZDQtNGI4OS1hYzczLWU1NmZhNmYyNTcyNSJ9\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiZTRmYWMzZDItYjA4MS00NzliLWIyZTQtNThjODUyYTYxMTkwIiwidCI6ImZmOWUwODE4LWViZDQtNGI4OS1hYzczLWU1NmZhNmYyNTcyNSJ9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2751/2/Sugar%20Reading%202-BillHipple-PC-3-BillHipple-PC.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2019-07-07T02:20:00-07:00",
-      "heat": 50,
-      "tags": [
-        "Health",
-        "Lifestyle"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2751/1/IMG_0964.jpg",
-          "width": 1224,
-          "height": 1632,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_samples/powerbi-community-buffy-the-vampire-slayer.md",
       "title": "Buffy the Vampire Slayer",
       "excerpt": "21 Years ago, Buffy the Vampire Slayer premiered on a small, teen centred network on US TV. This show would go on for 7 seasons of network TV, a",
@@ -420,6 +56,68 @@
           "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1686/1/Buffy_the_Vampire_Slayer_(logo).jpg",
           "width": 300,
           "height": 186,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-business-analytics-forum-baf-sheffield-july-2017.md",
+      "title": "Business Analytics Forum #BAF Sheffield July 2017",
+      "excerpt": "Here is an analysis of user surveys who attended our Business Analytics Forum in Sheffield in July 2019 The survey data is passed through a sentiment",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-business-analytics-forum-baf-sheffield-july-2017/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-business-analytics-forum-baf-sheffield-july-2017/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Business-Analytics-Forum-BAF-Sheffield-July-2017/m-p/741003",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "S_Harrison_DTB",
+            "type": "profile",
+            "name": "S_Harrison_DTB"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjg0YTAxMWUtNTkwZS00ZjAwLWExN2EtZDcxNTU5ODQ2NDdkIiwidCI6ImU4NDg4MGYxLTU4NTctNDFkMC05NWJkLTNmMWJiMGRiMDQ1NSIsImMiOjh9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNjg0YTAxMWUtNTkwZS00ZjAwLWExN2EtZDcxNTU5ODQ2NDdkIiwidCI6ImU4NDg4MGYxLTU4NTctNDFkMC05NWJkLTNmMWJiMGRiMDQ1NSIsImMiOjh9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2768/2/BAF3%20Forum.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2019-07-15T20:36:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Education",
+        "Business",
+        "Technology"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2768/1/Screenshot%202019-07-16%20at%2011.30.22.png",
+          "width": 2840,
+          "height": 1604,
           "isCached": true
         }
       ],
@@ -671,6 +369,58 @@
       ]
     },
     {
+      "path": "_samples/powerbi-community-chris-gayle-cricket-career-data-visualization.md",
+      "title": "Chris Gayle - Cricket Career Data Visualization",
+      "excerpt": "Chris Gayle - The Legendary Cricketer !! He is the most capped player for the West Indies in international cricket and is the only player to score a",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-chris-gayle-cricket-career-data-visualization/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-chris-gayle-cricket-career-data-visualization/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Chris-Gayle-Cricket-Career-Data-Visualization/m-p/1213625",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "satya_sqlquery",
+            "type": "profile",
+            "name": "satya_sqlquery"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNzQxNzBjYTMtYWNkYy00YjVlLTlkODktN2VlZGI2ZDI2MDlhIiwidCI6IjVhNGYxNmRlLTgwZGEtNDM4Ni1hN2Y3LWZmMGNmM2UyNjEzNCJ9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNzQxNzBjYTMtYWNkYy00YjVlLTlkODktN2VlZGI2ZDI2MDlhIiwidCI6IjVhNGYxNmRlLTgwZGEtNDM4Ni1hN2Y3LWZmMGNmM2UyNjEzNCJ9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/4244/1/Chris%20Gayle%20-%20Hall%20of%20Fame-SQL.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2020-07-09T15:41:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Sports"
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_samples/powerbi-community-climate-news-back-to-school.md",
       "title": "Climate News (Back to School)",
       "excerpt": "Hi All This dashboard is developed by 12 to 13 year old kids whose names are as below: Harshavardhan Tammina (12 years) Lineysha Dutt (12 years)",
@@ -722,67 +472,6 @@
           "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2937/1/climate%20change.PNG",
           "width": 1301,
           "height": 725,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_samples/powerbi-community-commodity-correlation-double-helix.md",
-      "title": "Commodity Correlation \"Double Helix\"",
-      "excerpt": "Introduction Recently, I was paired with Austin-based Energy Consultant and Energy Complex journalist Dallas Salazar as part of the MVP Mentoring",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-commodity-correlation-double-helix/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-commodity-correlation-double-helix/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Commodity-Correlation-quot-Double-Helix-quot/m-p/135256",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Greg_Deckler",
-            "type": "profile",
-            "name": "Greg_Deckler"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjVhY2E1OTUtYTUzMi00MWViLThlNWYtNDA3MTY1ZDMyMTUzIiwidCI6IjRhMDQyNzQzLTM3M2EtNDNkMi04MjdiLTAwM2Y0YzdiYTFlNSIsImMiOjN9\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiNjVhY2E1OTUtYTUzMi00MWViLThlNWYtNDA3MTY1ZDMyMTUzIiwidCI6IjRhMDQyNzQzLTM3M2EtNDNkMi04MjdiLTAwM2Y0YzdiYTFlNSIsImMiOjN9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/686/2/Commodity%20Correlation%20-%20Final.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2017-03-01T04:55:00-08:00",
-      "heat": 50,
-      "tags": [
-        "Business",
-        "Economics"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/686/1/CommodityCorrelation.png",
-          "width": 2317,
-          "height": 1342,
           "isCached": true
         }
       ],
@@ -911,6 +600,67 @@
           "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3527/1/Corona%20Virus.PNG",
           "width": 1757,
           "height": 902,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-cortana-machine-learning-competition-womens-health-risk-assessment-power-bi-companion.md",
+      "title": "Cortana Machine Learning Competition - Womens Health Risk Assessment - Power BI Companion",
+      "excerpt": "Small companion for anyone participating in the Cortana Machine Learning competition - Women's Health Risk Assessment",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-cortana-machine-learning-competition-womens-health-risk-assessment-power-bi-companion/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-cortana-machine-learning-competition-womens-health-risk-assessment-power-bi-companion/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Cortana-Machine-Learning-Competition-Womens-Health-Risk/m-p/61588",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "rquintino",
+            "type": "profile",
+            "name": "rquintino"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMTdiNzNjOTYtZDRiYS00NDRjLWE5ODAtMTdkYjVlYTI3Y2ZlIiwidCI6IjA5ZTI1MWRjLTVlODctNDhiZi1iNGQyLTcxYjAxYWRiOTg0YSIsImMiOjh9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiMTdiNzNjOTYtZDRiYS00NDRjLWE5ODAtMTdkYjVlYTI3Y2ZlIiwidCI6IjA5ZTI1MWRjLTVlODctNDhiZi1iNGQyLTcxYjAxYWRiOTg0YSIsImMiOjh9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/246/5/Cortana%20Competition-Women&#39;s%20Health%20Risk%20Assessment.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2016-08-23T13:10:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Health",
+        "Technology"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/246/4/data%20stories%20thumbnail-2.png",
+          "width": 286,
+          "height": 191,
           "isCached": true
         }
       ],
@@ -1222,6 +972,66 @@
       ]
     },
     {
+      "path": "_samples/powerbi-community-covid-19-for-chile-and-latinamerica.md",
+      "title": "COVID 19 FOR CHILE AND LATINAMERICA",
+      "excerpt": "Hemos desarrollado este reporte consultando las fuentes de GitHub puestas a disposicion por el Ministerio de Ciencias de Chile y el GitHub COVID-19",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-covid-19-for-chile-and-latinamerica/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-covid-19-for-chile-and-latinamerica/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-FOR-CHILE-AND-LATINAMERICA/m-p/1090182",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "waltercalcagno",
+            "type": "profile",
+            "name": "waltercalcagno"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDk1MzE4Y2YtMTZkMC00ZWRmLTkzNGQtMGE2ZWM3NTJmMGI1IiwidCI6IjU0Yzk5Mjg4LTU3MGYtNDM1Ny04ZWM1LTg2YmQxNzNhNDk2MCIsImMiOjR9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiMDk1MzE4Y2YtMTZkMC00ZWRmLTkzNGQtMGE2ZWM3NTJmMGI1IiwidCI6IjU0Yzk5Mjg4LTU3MGYtNDM1Ny04ZWM1LTg2YmQxNzNhNDk2MCIsImMiOjR9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3944/2/COVID%20CL%20-%20LATAM.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2020-05-14T03:30:00-07:00",
+      "heat": 50,
+      "tags": [
+        "COVID-19"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3944/1/COVIDCLLATAM%20P2.png",
+          "width": 1606,
+          "height": 902,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_samples/powerbi-community-covid-19-global-report.md",
       "title": "COVID-19 Global Report",
       "excerpt": "This report uses data from John Hopkins University to analyze COVID-19 Trends. It looks at Confirmed Cases, Recoveries and Deaths in all countries,",
@@ -1334,6 +1144,67 @@
           "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3920/1/My%20Dashboard.png",
           "width": 3188,
           "height": 1563,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-covid-19-in-the-netherlands-visualising-the-rivm-data.md",
+      "title": "Covid-19 in the Netherlands, visualising the RIVM data",
+      "excerpt": "To visualize the official Coronavirus (COVID-19) numbers in the Netherlands, that RIVM (National Institute for Public Health and the Environment)",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-covid-19-in-the-netherlands-visualising-the-rivm-data/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-covid-19-in-the-netherlands-visualising-the-rivm-data/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Covid-19-in-the-Netherlands-visualising-the-RIVM-data/m-p/985506",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "maartenree",
+            "type": "profile",
+            "name": "maartenree"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZGQ0ZTlhYzQtYzRmZi00MTQ5LWIxZWQtZmZlZGZjNjBhZGJkIiwidCI6ImI3OWIyMzE3LTM0ZGQtNDNlNS05MWEyLWNkNjZkM2FlMWYwYiIsImMiOjh9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiZGQ0ZTlhYzQtYzRmZi00MTQ5LWIxZWQtZmZlZGZjNjBhZGJkIiwidCI6ImI3OWIyMzE3LTM0ZGQtNDNlNS05MWEyLWNkNjZkM2FlMWYwYiIsImMiOjh9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3539/2/Coronavirus_Netherlands.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2020-03-21T16:29:00-07:00",
+      "heat": 50,
+      "tags": [
+        "COVID-19",
+        "Health"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3539/1/CorVir1_tn.jpg",
+          "width": 100,
+          "height": 100,
           "isCached": true
         }
       ],
@@ -1518,6 +1389,127 @@
           "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3817/1/Covid%2019%20India.jpg",
           "width": 1920,
           "height": 1080,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-covid-19-italy-report-and-maps.md",
+      "title": "COVID-19 Italy Report and maps",
+      "excerpt": "This report is a reworking and an enrichment of the official italian dashbord at this URL",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-covid-19-italy-report-and-maps/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-covid-19-italy-report-and-maps/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-Italy-Report-and-maps/m-p/1019440",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "marcde",
+            "type": "profile",
+            "name": "marcde"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMmI5ZDNlMDktNjYxZC00NTc0LTkxYzEtZWUxYTk3Yzc4OWNmIiwidCI6ImUyMDNkOTRiLTc0ODUtNGMyZi1hMmIwLWQxYTRjOWMzZjZlNiIsImMiOjh9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiMmI5ZDNlMDktNjYxZC00NTc0LTkxYzEtZWUxYTk3Yzc4OWNmIiwidCI6ImUyMDNkOTRiLTc0ODUtNGMyZi1hMmIwLWQxYTRjOWMzZjZlNiIsImMiOjh9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3733/3/Per%20la%20Community%209.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2020-04-09T20:58:00-07:00",
+      "heat": 50,
+      "tags": [
+        "COVID-19"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3733/1/thumbnail.JPG",
+          "width": 1297,
+          "height": 741,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-covid-19-report-germany-and-worldwide-with-different-data-sources.md",
+      "title": "#COVID-19 Report - Germany and worldwide with different data sources",
+      "excerpt": "Ever wondered how corona data differs among different data sources? Yet another (but our own) customized visualisation of corona infections in Power",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-covid-19-report-germany-and-worldwide-with-different-data-sources/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-covid-19-report-germany-and-worldwide-with-different-data-sources/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-Report-Germany-and-worldwide-with-different-data/m-p/1009298",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "svwilder",
+            "type": "profile",
+            "name": "svwilder"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZDFhODI3YTgtYTg2MC00MDYyLTkwNmItNzYxOTFjZGNiODBkIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiZDFhODI3YTgtYTg2MC00MDYyLTkwNmItNzYxOTFjZGNiODBkIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3686/2/COVID19-GermanyAndWorldwide.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2020-04-05T17:08:00-07:00",
+      "heat": 50,
+      "tags": [
+        "COVID-19",
+        "Health"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3686/1/thumbnail.png",
+          "width": 1593,
+          "height": 896,
           "isCached": true
         }
       ],

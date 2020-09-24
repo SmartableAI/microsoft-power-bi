@@ -4,6 +4,71 @@
   "page": 1,
   "value": [
     {
+      "path": "_samples/powerbi-community-ov-unv-data-challenge-andrew-yap.md",
+      "title": "OV UNV Data Challenge - Andrew Yap",
+      "excerpt": "Every year, roughly 3000 selfless United Nations Volunteers offer their time and expertise to make the world a better place. On behalf of United",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-ov-unv-data-challenge-andrew-yap/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-ov-unv-data-challenge-andrew-yap/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Andrew-Yap/m-p/1157632",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "andrewyap",
+            "type": "profile",
+            "name": "andrewyap"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNzkzMTM5NTQtZGJkOC00NDZmLWI4YTYtZjFjMzA1YmMxNTNkIiwidCI6IjA2ODQ3YTc5LTUwYjUtNDM2MC1iYjhlLTYzNTc1M2Y4MzEyOSIsImMiOjEwfQ%3D%3D\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNzkzMTM5NTQtZGJkOC00NDZmLWI4YTYtZjFjMzA1YmMxNTNkIiwidCI6IjA2ODQ3YTc5LTUwYjUtNDM2MC1iYjhlLTYzNTc1M2Y4MzEyOSIsImMiOjEwfQ%3D%3D",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/4098/4/OV_UNV_Data_Challenge-Andrew_Yap.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2020-06-13T20:19:00-07:00",
+      "heat": 190,
+      "tags": [
+        "Health",
+        "Education",
+        "Government",
+        "Business",
+        "Lifestyle",
+        "Economics"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/4098/3/photo_2020-06-18%2013.59.24.png",
+          "width": 1040,
+          "height": 591,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_samples/powerbi-community-airport-authority-performance-summary.md",
       "title": "Airport Authority Performance Summary",
       "excerpt": "The Airport Authority Performance Dashboard provides a quick snapshot of all relevant data with a user-centric view to offer a detailed analysis. Any",
@@ -46,7 +111,7 @@
         }
       ],
       "publishedDateTime": "2019-02-20T23:25:00-08:00",
-      "heat": 218,
+      "heat": 186,
       "tags": [
         "Business",
         "Technology"
@@ -107,7 +172,7 @@
         }
       ],
       "publishedDateTime": "2019-02-19T15:05:00-08:00",
-      "heat": 194,
+      "heat": 178,
       "tags": [
         "Business",
         "Technology"
@@ -126,12 +191,12 @@
       ]
     },
     {
-      "path": "_samples/powerbi-community-ov-unv-data-challenge-andrew-yap.md",
-      "title": "OV UNV Data Challenge - Andrew Yap",
-      "excerpt": "Every year, roughly 3000 selfless United Nations Volunteers offer their time and expertise to make the world a better place. On behalf of United",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-ov-unv-data-challenge-andrew-yap/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-ov-unv-data-challenge-andrew-yap/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Andrew-Yap/m-p/1157632",
+      "path": "_samples/powerbi-community-web-media-overview-report-dashboard-template.md",
+      "title": "Web Media Overview Report Dashboard Template",
+      "excerpt": "Media Overview Report dashboard template fetches all of your advertising data and then visualizes it in a single view. This Web Multichannel",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-web-media-overview-report-dashboard-template/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-web-media-overview-report-dashboard-template/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Web-Media-Overview-Report-Dashboard-Template/m-p/1382890",
       "provider": {
         "name": "PowerBI Community",
         "domain": "powerbi.com",
@@ -146,44 +211,31 @@
         "authors": [
           {
             "path": "",
-            "title": "andrewyap",
+            "title": "Djordje_M",
             "type": "profile",
-            "name": "andrewyap"
+            "name": "Djordje_M"
           }
         ]
       },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNzkzMTM5NTQtZGJkOC00NDZmLWI4YTYtZjFjMzA1YmMxNTNkIiwidCI6IjA2ODQ3YTc5LTUwYjUtNDM2MC1iYjhlLTYzNTc1M2Y4MzEyOSIsImMiOjEwfQ%3D%3D\"></iframe>",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNWYxOTE3YTEtYTg5Mi00MmUwLWIzNGItZTI4ZTUwZDdlMjJjIiwidCI6IjYyYjBiNjRjLTRiNWItNDU5OC04OGZlLTljYTIxNmM1NjdkMiIsImMiOjh9\"></iframe>",
       "actions": [
         {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiNzkzMTM5NTQtZGJkOC00NDZmLWI4YTYtZjFjMzA1YmMxNTNkIiwidCI6IjA2ODQ3YTc5LTUwYjUtNDM2MC1iYjhlLTYzNTc1M2Y4MzEyOSIsImMiOjEwfQ%3D%3D",
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNWYxOTE3YTEtYTg5Mi00MmUwLWIzNGItZTI4ZTUwZDdlMjJjIiwidCI6IjYyYjBiNjRjLTRiNWItNDU5OC04OGZlLTljYTIxNmM1NjdkMiIsImMiOjh9",
           "type": "preview",
           "title": "Preview Report",
           "attribution": "PowerBI Community"
         },
         {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/4098/4/OV_UNV_Data_Challenge-Andrew_Yap.pbix",
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/4592/1/Media%20Overview%20Report.pbix",
           "type": "download",
           "title": "Download PBIX",
           "attribution": "PowerBI Community"
         }
       ],
-      "publishedDateTime": "2020-06-13T20:19:00-07:00",
+      "publishedDateTime": "2020-09-20T14:34:00-07:00",
       "heat": 123,
       "tags": [
-        "Health",
-        "Education",
-        "Government",
-        "Business",
-        "Lifestyle",
-        "Economics"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/4098/3/photo_2020-06-18%2013.59.24.png",
-          "width": 1040,
-          "height": 591,
-          "isCached": true
-        }
+        "Business"
       ],
       "type": "download",
       "topics": [
@@ -233,7 +285,7 @@
         }
       ],
       "publishedDateTime": "2019-02-24T22:28:00-08:00",
-      "heat": 112,
+      "heat": 120,
       "tags": [
         "Health"
       ],
@@ -242,170 +294,6 @@
           "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2525/1/Cancer%20Analytics.png",
           "width": 1366,
           "height": 768,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_samples/powerbi-community-covid-19-world-wide-spread-analysis.md",
-      "title": "Covid 19 World Wide Spread Analysis",
-      "excerpt": "Global COVID 19 Spread Analysis. Mortality rate analysis. How Covid 19 spread has grown day over day. Data Source:",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-covid-19-world-wide-spread-analysis/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-covid-19-world-wide-spread-analysis/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Covid-19-World-Wide-Spread-Analysis/m-p/1189905",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "amitchandak",
-            "type": "profile",
-            "name": "amitchandak"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMzE1OWU1NWQtNTQ1My00NTBiLWJhMTEtMjQzNWMxZTZhNmQ5IiwidCI6ImVhOGJkMWZkLWFjMzQtNGFlMi1iNDIxLTZjZmEyZmNmZjI0MyJ9\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiMzE1OWU1NWQtNTQ1My00NTBiLWJhMTEtMjQzNWMxZTZhNmQ5IiwidCI6ImVhOGJkMWZkLWFjMzQtNGFlMi1iNDIxLTZjZmEyZmNmZjI0MyJ9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/4182/1/COVID%20Analysis.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2020-06-29T03:41:00-07:00",
-      "heat": 111,
-      "tags": [
-        "COVID-19"
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_samples/powerbi-community-multichannel-attribution.md",
-      "title": "Multichannel Attribution",
-      "excerpt": "Multichannel Attribution dashboard provides simple insights about paid and non-paid media performance. You can see top-level data from all your",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-multichannel-attribution/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-multichannel-attribution/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Multichannel-Attribution/m-p/1178725",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Djordje_M",
-            "type": "profile",
-            "name": "Djordje_M"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYzQ0NDM4MjYtMGM2Yi00MWYwLWFlOTUtMzVkMDZmYjYwNjBlIiwidCI6IjYyYjBiNjRjLTRiNWItNDU5OC04OGZlLTljYTIxNmM1NjdkMiIsImMiOjh9\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiYzQ0NDM4MjYtMGM2Yi00MWYwLWFlOTUtMzVkMDZmYjYwNjBlIiwidCI6IjYyYjBiNjRjLTRiNWItNDU5OC04OGZlLTljYTIxNmM1NjdkMiIsImMiOjh9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/4142/1/Multichannel%20Attribution%20Dashboard.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2020-06-23T18:46:00-07:00",
-      "heat": 110,
-      "tags": [
-        "Business"
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_samples/powerbi-community-estimate-electricity-energy-usage-and-cost-back-to-school-contest.md",
-      "title": "Estimate Electricity Energy Usage and Cost (Back to School Contest)",
-      "excerpt": "This report helps you to estimate the Electrical Energy that you use with your home appliances and the total electricity cost by providing list of",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-estimate-electricity-energy-usage-and-cost-back-to-school-contest/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-estimate-electricity-energy-usage-and-cost-back-to-school-contest/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Estimate-Electricity-Energy-Usage-and-Cost-Back-to-School/m-p/785961",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "ducnguyen221",
-            "type": "profile",
-            "name": "ducnguyen221"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNWI1ZjExZmMtM2E4MC00MGEyLWI3ODktZDcwOTZlMDA2ZTkyIiwidCI6IjI3NjlhOGY3LThmYjktNDliNS1iNDIyLTM5ZTc4ZmQwYjI5YiIsImMiOjEwfQ%3D%3D\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiNWI1ZjExZmMtM2E4MC00MGEyLWI3ODktZDcwOTZlMDA2ZTkyIiwidCI6IjI3NjlhOGY3LThmYjktNDliNS1iNDIyLTM5ZTc4ZmQwYjI5YiIsImMiOjEwfQ%3D%3D",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2948/2/Estimate%20Electricity%20Energy%20Usage%20and%20Cost.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2019-09-06T03:41:00-07:00",
-      "heat": 101,
-      "tags": [
-        "Education"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2948/3/Back%20to%20school.PNG",
-          "width": 1920,
-          "height": 1079,
           "isCached": true
         }
       ],
@@ -457,7 +345,7 @@
         }
       ],
       "publishedDateTime": "2018-08-07T10:27:00-07:00",
-      "heat": 92,
+      "heat": 100,
       "tags": [
         "Technology"
       ],
@@ -475,96 +363,230 @@
       ]
     },
     {
-      "path": "_samples/collections/covid-19-powerbi-sample-reports.md",
-      "title": "COVID-19 Power BI Sample Reports",
-      "excerpt": "A collection of Power BI sample reports related to COVID-19 (Coronavirus)",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/collections/covid-19-powerbi-sample-reports/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/collections/covid-19-powerbi-sample-reports/",
-      "topItems": [
+      "path": "_samples/powerbi-community-power-bi-dashboard-designs-for-non-designers-part-1.md",
+      "title": "Power BI dashboard designs for non-designers - Part 1",
+      "excerpt": "This Neumorphic dashboard is completely designed in Power BI desktop with shapes, buttons and texts (except few icons). Let me know your thoughts",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-power-bi-dashboard-designs-for-non-designers-part-1/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-power-bi-dashboard-designs-for-non-designers-part-1/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Power-BI-dashboard-designs-for-non-designers-Part-1/m-p/1317532",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "zammikahan",
+            "type": "profile",
+            "name": "zammikahan"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZmM3MjU5YTEtODIyOS00OTIwLTg5NDgtN2RiMzI4MmIxZDVhIiwidCI6Ijk3YTkyYjA0LTRjODctNDM0MS05YjA4LWQ4MDUxZWY4ZGNlMiIsImMiOjh9\"></iframe>",
+      "actions": [
         {
-          "path": "",
-          "title": "Barnalytics JHU CSSE CoViD-19 Dashboard",
-          "excerpt": "This report has been developed to help out the community in demonstrating how to connect to the JHU CSSE CoViD-19 dataset stored on Github (",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3571/1/Annotation%202020-03-23%20180326.png",
-              "width": 1380,
-              "height": 770,
-              "isCached": true
-            }
-          ],
-          "type": "download",
-          "topics": [
-            "Power BI"
-          ]
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiZmM3MjU5YTEtODIyOS00OTIwLTg5NDgtN2RiMzI4MmIxZDVhIiwidCI6Ijk3YTkyYjA0LTRjODctNDM0MS05YjA4LWQ4MDUxZWY4ZGNlMiIsImMiOjh9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
         },
         {
-          "path": "",
-          "title": "Comparison of Coronavirus COVID-19 deaths in Italy, Spain, Netherlands",
-          "excerpt": "This report is about the status of #COVID-19 in Italy, Spain and the Netherlands, with a comparison of the curves of the number of deaths. For more",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3666/1/CorVir1_tn.jpg",
-              "width": 100,
-              "height": 100,
-              "isCached": true
-            }
-          ],
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/4488/1/Neumorphic%20Sample.pbix",
           "type": "download",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Corona Breakdown",
-          "excerpt": "Corona Virus Tracker is developed for tracking numbers of the virus spreading around the world. Please have a look &amp; spread awareness.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3527/1/Corona%20Virus.PNG",
-              "width": 1757,
-              "height": 902,
-              "isCached": true
-            }
-          ],
-          "type": "download",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Coronavirus Outbreak",
-          "excerpt": "This dashboard visualizes the Coronavirus outbreak. The data is refreshed hourly Data sources: WHO , CDC , NHC , and Dingxiangyuan .",
-          "heat": 54,
-          "images": [
-            {
-              "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3287/5/Corona%20Dashboard.png",
-              "width": 2904,
-              "height": 1632,
-              "isCached": true
-            }
-          ],
-          "type": "download",
-          "topics": [
-            "Power BI"
-          ]
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
         }
       ],
-      "size": 32,
-      "heat": 75,
+      "publishedDateTime": "2020-08-23T05:27:00-07:00",
+      "heat": 94,
+      "tags": [
+        "Education",
+        "Entertainment",
+        "Business"
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-estimate-electricity-energy-usage-and-cost-back-to-school-contest.md",
+      "title": "Estimate Electricity Energy Usage and Cost (Back to School Contest)",
+      "excerpt": "This report helps you to estimate the Electrical Energy that you use with your home appliances and the total electricity cost by providing list of",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-estimate-electricity-energy-usage-and-cost-back-to-school-contest/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-estimate-electricity-energy-usage-and-cost-back-to-school-contest/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Estimate-Electricity-Energy-Usage-and-Cost-Back-to-School/m-p/785961",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "ducnguyen221",
+            "type": "profile",
+            "name": "ducnguyen221"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNWI1ZjExZmMtM2E4MC00MGEyLWI3ODktZDcwOTZlMDA2ZTkyIiwidCI6IjI3NjlhOGY3LThmYjktNDliNS1iNDIyLTM5ZTc4ZmQwYjI5YiIsImMiOjEwfQ%3D%3D\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNWI1ZjExZmMtM2E4MC00MGEyLWI3ODktZDcwOTZlMDA2ZTkyIiwidCI6IjI3NjlhOGY3LThmYjktNDliNS1iNDIyLTM5ZTc4ZmQwYjI5YiIsImMiOjEwfQ%3D%3D",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2948/2/Estimate%20Electricity%20Energy%20Usage%20and%20Cost.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2019-09-06T03:41:00-07:00",
+      "heat": 84,
+      "tags": [
+        "Education"
+      ],
       "images": [
         {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3571/1/Annotation%202020-03-23%20180326.png",
-          "width": 1380,
-          "height": 770,
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2948/3/Back%20to%20school.PNG",
+          "width": 1920,
+          "height": 1079,
           "isCached": true
         }
       ],
-      "type": "collection",
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-students-affected-by-covid-19-school-closure.md",
+      "title": "Students affected by COVID-19 school closure",
+      "excerpt": "Students affected by COVID-19 school closure Infographics style dashboard. Data source: World bank - 10th September 2020 Update: PBIX file is",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-students-affected-by-covid-19-school-closure/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-students-affected-by-covid-19-school-closure/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Students-affected-by-COVID-19-school-closure/m-p/1366242",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "zammikahan",
+            "type": "profile",
+            "name": "zammikahan"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjczMzhlMmMtYTQ4NC00ZTBiLWI5MzgtMjA4MmE4ZjdkYjZiIiwidCI6Ijk3YTkyYjA0LTRjODctNDM0MS05YjA4LWQ4MDUxZWY4ZGNlMiIsImMiOjh9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNjczMzhlMmMtYTQ4NC00ZTBiLWI5MzgtMjA4MmE4ZjdkYjZiIiwidCI6Ijk3YTkyYjA0LTRjODctNDM0MS05YjA4LWQ4MDUxZWY4ZGNlMiIsImMiOjh9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/4570/2/COVID-School%20Closure.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2020-09-12T00:47:00-07:00",
+      "heat": 74,
+      "tags": [
+        "COVID-19",
+        "Health",
+        "Education"
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-power-bi-gartner-bakeoff-entry-opioid-gallery.md",
+      "title": "Power BI Gartner Bakeoff entry - Opioid Gallery",
+      "excerpt": "This is the report that we presented at the Gartner Data and Analytics Summit in the bakeoff.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-power-bi-gartner-bakeoff-entry-opioid-gallery/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-power-bi-gartner-bakeoff-entry-opioid-gallery/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Power-BI-Gartner-Bakeoff-entry-Opioid-Gallery/m-p/377969",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "WillT",
+            "type": "profile",
+            "name": "WillT"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZTc3ZjNjNDUtM2M4Ni00ZDg2LTgxYTktMDJkMmRiN2VlYjM1IiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiZTc3ZjNjNDUtM2M4Ni00ZDg2LTgxYTktMDJkMmRiN2VlYjM1IiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1702/2/Opioids%20bakeoff.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2018-03-16T04:53:00-07:00",
+      "heat": 71,
+      "tags": [
+        "Health",
+        "Government"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1702/1/screenshot.png",
+          "width": 1920,
+          "height": 1080,
+          "isCached": true
+        }
+      ],
+      "type": "download",
       "topics": [
         "Power BI"
       ]
@@ -684,12 +706,12 @@
       ]
     },
     {
-      "path": "_samples/powerbi-community-power-bi-gartner-bakeoff-entry-opioid-gallery.md",
-      "title": "Power BI Gartner Bakeoff entry - Opioid Gallery",
-      "excerpt": "This is the report that we presented at the Gartner Data and Analytics Summit in the bakeoff.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-power-bi-gartner-bakeoff-entry-opioid-gallery/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-power-bi-gartner-bakeoff-entry-opioid-gallery/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Power-BI-Gartner-Bakeoff-entry-Opioid-Gallery/m-p/377969",
+      "path": "_samples/powerbi-community-london-airbnb-report-august-2020.md",
+      "title": "London Airbnb Report - August 2020",
+      "excerpt": "Hi all, Here I used the open source Airbnb listings for London, UK as a snapshot of August 2020. I have used Shape Map Visualisation to cluster the",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-london-airbnb-report-august-2020/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-london-airbnb-report-august-2020/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/London-Airbnb-Report-August-2020/m-p/1373438",
       "provider": {
         "name": "PowerBI Community",
         "domain": "powerbi.com",
@@ -704,38 +726,93 @@
         "authors": [
           {
             "path": "",
-            "title": "WillT",
+            "title": "RichieWong",
             "type": "profile",
-            "name": "WillT"
+            "name": "RichieWong"
           }
         ]
       },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZTc3ZjNjNDUtM2M4Ni00ZDg2LTgxYTktMDJkMmRiN2VlYjM1IiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9\"></iframe>",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNDJmNjM0ODAtZGExOC00OTk2LWFhNGItMjA1YjMyNzg4ZjJiIiwidCI6IjA3OGU4ZTc5LTE3YTctNGJkOS05MmMyLWRkZDQ1YWU4NmJkZCJ9&amp;pageName=ReportSectiona1d10cfd8e4aa0cde1ec\"></iframe>",
       "actions": [
         {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiZTc3ZjNjNDUtM2M4Ni00ZDg2LTgxYTktMDJkMmRiN2VlYjM1IiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9",
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNDJmNjM0ODAtZGExOC00OTk2LWFhNGItMjA1YjMyNzg4ZjJiIiwidCI6IjA3OGU4ZTc5LTE3YTctNGJkOS05MmMyLWRkZDQ1YWU4NmJkZCJ9&amp;pageName=ReportSectiona1d10cfd8e4aa0cde1ec",
           "type": "preview",
           "title": "Preview Report",
           "attribution": "PowerBI Community"
         },
         {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1702/2/Opioids%20bakeoff.pbix",
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/4580/1/LondonAirbnb.pbix",
           "type": "download",
           "title": "Download PBIX",
           "attribution": "PowerBI Community"
         }
       ],
-      "publishedDateTime": "2018-03-16T04:53:00-07:00",
-      "heat": 68,
+      "publishedDateTime": "2020-09-15T09:57:00-07:00",
+      "heat": 65,
       "tags": [
-        "Health",
-        "Government"
+        "COVID-19",
+        "Business",
+        "Technology",
+        "Lifestyle"
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-analysis-of-leading-economic-indicators-by-decisive-data.md",
+      "title": "Analysis of Leading Economic Indicators by Decisive Data",
+      "excerpt": "The Challenge Every day we are inundated with noise about the health of the economy. Take for instance the following headline, “Consumer Sentiment",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-analysis-of-leading-economic-indicators-by-decisive-data/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-analysis-of-leading-economic-indicators-by-decisive-data/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Analysis-of-Leading-Economic-Indicators-by-Decisive-Data/m-p/218886",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Evan_at_DD",
+            "type": "profile",
+            "name": "Evan_at_DD"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMGIxYjE2NTAtZWQzNC00NDRmLWI1M2QtMTYxOGU0MGRjNGNhIiwidCI6IjdlY2M4YWEwLTgzMGUtNGQ4Ni1hZjc4LTgzYTNkY2MyNjIzOCIsImMiOjZ9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiMGIxYjE2NTAtZWQzNC00NDRmLWI1M2QtMTYxOGU0MGRjNGNhIiwidCI6IjdlY2M4YWEwLTgzMGUtNGQ4Ni1hZjc4LTgzYTNkY2MyNjIzOCIsImMiOjZ9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/977/2/FRED%20Economic%20Scorecard.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2017-07-25T07:00:00-07:00",
+      "heat": 63,
+      "tags": [
+        "Business",
+        "Economics"
       ],
       "images": [
         {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1702/1/screenshot.png",
-          "width": 1920,
-          "height": 1080,
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/977/1/Thumbnail.PNG",
+          "width": 1449,
+          "height": 794,
           "isCached": true
         }
       ],
@@ -745,12 +822,12 @@
       ]
     },
     {
-      "path": "_samples/powerbi-community-food-price-wages-analysis-pakistan.md",
-      "title": "Food Price & Wages Analysis - Pakistan",
-      "excerpt": "This Food Price Analysis Report is based on public data of Pakistan Food Prices. It compares the minimum wages of person with average food prices in",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-food-price-wages-analysis-pakistan/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-food-price-wages-analysis-pakistan/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Food-Price-amp-Wages-Analysis-Pakistan/m-p/1299606",
+      "path": "_samples/powerbi-community-icon-map-custom-visual-examples.md",
+      "title": "Icon Map custom visual examples",
+      "excerpt": "This report contains a number of example maps that can be created using the Icon Map custom visual. These examples have been built using the latest",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-icon-map-custom-visual-examples/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-icon-map-custom-visual-examples/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Icon-Map-custom-visual-examples/m-p/789914",
       "provider": {
         "name": "PowerBI Community",
         "domain": "powerbi.com",
@@ -765,92 +842,39 @@
         "authors": [
           {
             "path": "",
-            "title": "FarhanAhmed",
+            "title": "jamesdales",
             "type": "profile",
-            "name": "FarhanAhmed"
+            "name": "jamesdales"
           }
         ]
       },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDE0ZjMzMGMtYTkwNS00NDk4LTlkNjktZjgzYTFhYmVkMzk1IiwidCI6ImJjZjQ0Yzg2LTViMGItNDE3Yy1iMjJjLTY4NzYxNWYwNDU5MCIsImMiOjl9\"></iframe>",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjJkN2E0MmYtMGJhZi00NDhjLThkZGQtNjE1YmE4YWYxMTU1IiwidCI6IjBjNzk5ZDM4LTQ3NjQtNDJiYy1iNGZmLTIzYmViYTljN2ZlMiIsImMiOjh9\"></iframe>",
       "actions": [
         {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiMDE0ZjMzMGMtYTkwNS00NDk4LTlkNjktZjgzYTFhYmVkMzk1IiwidCI6ImJjZjQ0Yzg2LTViMGItNDE3Yy1iMjJjLTY4NzYxNWYwNDU5MCIsImMiOjl9",
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNjJkN2E0MmYtMGJhZi00NDhjLThkZGQtNjE1YmE4YWYxMTU1IiwidCI6IjBjNzk5ZDM4LTQ3NjQtNDJiYy1iNGZmLTIzYmViYTljN2ZlMiIsImMiOjh9",
           "type": "preview",
           "title": "Preview Report",
           "attribution": "PowerBI Community"
         },
         {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/4472/1/FoodPricesV2.pbix",
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2973/2/Icon%20Map%20V2%20Examples.pbix",
           "type": "download",
           "title": "Download PBIX",
           "attribution": "PowerBI Community"
         }
       ],
-      "publishedDateTime": "2020-08-16T14:36:00-07:00",
-      "heat": 67,
+      "publishedDateTime": "2019-09-11T08:25:00-07:00",
+      "heat": 61,
       "tags": [
         "Government",
-        "Lifestyle",
-        "Economics"
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_samples/powerbi-community-dashboard-de-ingresos.md",
-      "title": "Dashboard de Ingresos",
-      "excerpt": "El presente dashboard de Ingresos se ha realizado para fines educativos con datos ficticios. Puedes ver los tutoriales y descargar los recursos para",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-dashboard-de-ingresos/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-dashboard-de-ingresos/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Dashboard-de-Ingresos/m-p/1276635",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "egpjavier",
-            "type": "profile",
-            "name": "egpjavier"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZDNmMjgzZGMtMDU2ZC00MjcyLTk2MTQtZGQ5NDY2YmY1MjU3IiwidCI6Ijc5NzhlNjM0LTRlMTctNDVkZi1iOWEyLWY3NGRjOGY3YzA5ZCJ9\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiZDNmMjgzZGMtMDU2ZC00MjcyLTk2MTQtZGQ5NDY2YmY1MjU3IiwidCI6Ijc5NzhlNjM0LTRlMTctNDVkZi1iOWEyLWY3NGRjOGY3YzA5ZCJ9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/4431/1/Dashboard%20Superefi.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2020-08-05T17:22:00-07:00",
-      "heat": 62,
-      "tags": [
-        "Education",
-        "Business"
+        "Business",
+        "Technology"
       ],
       "images": [
         {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/4431/2/Fondo.png",
-          "width": 1920,
-          "height": 1080,
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2973/1/icon%20map%20report%20thumbnail.png",
+          "width": 2416,
+          "height": 1377,
           "isCached": true
         }
       ],
@@ -982,6 +1006,153 @@
       ]
     },
     {
+      "path": "_samples/powerbi-community-page-navigation.md",
+      "title": "Page Navigation",
+      "excerpt": "A simple sales dashboard that using Adventure works data. The layout using Page Navigation.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-page-navigation/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-page-navigation/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Page-Navigation/m-p/1366065",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "FarhanAhmed",
+            "type": "profile",
+            "name": "FarhanAhmed"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZWE3NDM3ZWEtYjYzZi00MTJhLTg0ZmItM2VlN2VmYWYyNzNkIiwidCI6ImJjZjQ0Yzg2LTViMGItNDE3Yy1iMjJjLTY4NzYxNWYwNDU5MCIsImMiOjl9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiZWE3NDM3ZWEtYjYzZi00MTJhLTg0ZmItM2VlN2VmYWYyNzNkIiwidCI6ImJjZjQ0Yzg2LTViMGItNDE3Yy1iMjJjLTY4NzYxNWYwNDU5MCIsImMiOjl9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/4567/1/Sales%20Overview.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2020-09-11T21:07:00-07:00",
+      "heat": 60,
+      "tags": [
+        "Technology"
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/collections/covid-19-powerbi-sample-reports.md",
+      "title": "COVID-19 Power BI Sample Reports",
+      "excerpt": "A collection of Power BI sample reports related to COVID-19 (Coronavirus)",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/collections/covid-19-powerbi-sample-reports/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/collections/covid-19-powerbi-sample-reports/",
+      "topItems": [
+        {
+          "path": "",
+          "title": "Barnalytics JHU CSSE CoViD-19 Dashboard",
+          "excerpt": "This report has been developed to help out the community in demonstrating how to connect to the JHU CSSE CoViD-19 dataset stored on Github (",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3571/1/Annotation%202020-03-23%20180326.png",
+              "width": 1380,
+              "height": 770,
+              "isCached": true
+            }
+          ],
+          "type": "download",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Comparison of Coronavirus COVID-19 deaths in Italy, Spain, Netherlands",
+          "excerpt": "This report is about the status of #COVID-19 in Italy, Spain and the Netherlands, with a comparison of the curves of the number of deaths. For more",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3666/1/CorVir1_tn.jpg",
+              "width": 100,
+              "height": 100,
+              "isCached": true
+            }
+          ],
+          "type": "download",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Corona Breakdown",
+          "excerpt": "Corona Virus Tracker is developed for tracking numbers of the virus spreading around the world. Please have a look &amp; spread awareness.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3527/1/Corona%20Virus.PNG",
+              "width": 1757,
+              "height": 902,
+              "isCached": true
+            }
+          ],
+          "type": "download",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Coronavirus Outbreak",
+          "excerpt": "This dashboard visualizes the Coronavirus outbreak. The data is refreshed hourly Data sources: WHO , CDC , NHC , and Dingxiangyuan .",
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3287/5/Corona%20Dashboard.png",
+              "width": 2904,
+              "height": 1632,
+              "isCached": true
+            }
+          ],
+          "type": "download",
+          "topics": [
+            "Power BI"
+          ]
+        }
+      ],
+      "size": 34,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3571/1/Annotation%202020-03-23%20180326.png",
+          "width": 1380,
+          "height": 770,
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_samples/powerbi-community-green-plastic-back-to-school.md",
       "title": "Green Plastic (Back to School)",
       "excerpt": "Could you imagine your life without plastic? The plastic turns our lives easier , more pratical and safety. You production is the basis of fossil",
@@ -1042,12 +1213,12 @@
       ]
     },
     {
-      "path": "_samples/powerbi-community-icon-map-custom-visual-examples.md",
-      "title": "Icon Map custom visual examples",
-      "excerpt": "This report contains a number of example maps that can be created using the Icon Map custom visual. These examples have been built using the latest",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-icon-map-custom-visual-examples/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-icon-map-custom-visual-examples/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Icon-Map-custom-visual-examples/m-p/789914",
+      "path": "_samples/powerbi-community-how-to-build-a-weather-dashboard-with-api-and-parameters.md",
+      "title": "How to: Build a Weather Dashboard with API and Parameters",
+      "excerpt": "Solved: Hi, just created this dashboard connecting local data and 2 API calls for current weather and 5 days forecast. This is my first public",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-how-to-build-a-weather-dashboard-with-api-and-parameters/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-how-to-build-a-weather-dashboard-with-api-and-parameters/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/How-to-Build-a-Weather-Dashboard-with-API-and-Parameters/m-p/115356",
       "provider": {
         "name": "PowerBI Community",
         "domain": "powerbi.com",
@@ -1062,39 +1233,37 @@
         "authors": [
           {
             "path": "",
-            "title": "jamesdales",
+            "title": "cpinho",
             "type": "profile",
-            "name": "jamesdales"
+            "name": "cpinho"
           }
         ]
       },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjJkN2E0MmYtMGJhZi00NDhjLThkZGQtNjE1YmE4YWYxMTU1IiwidCI6IjBjNzk5ZDM4LTQ3NjQtNDJiYy1iNGZmLTIzYmViYTljN2ZlMiIsImMiOjh9\"></iframe>",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMTM1ZTVlNjItNmRiNC00NjQzLTg2NWQtNDM1ZmYwYzM5YTllIiwidCI6ImQ1MWRlNTk2LTQ1YTAtNGFhNS1hMGQ4LTQ3ZDFjOTU4YWEzMiIsImMiOjh9\"></iframe>",
       "actions": [
         {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiNjJkN2E0MmYtMGJhZi00NDhjLThkZGQtNjE1YmE4YWYxMTU1IiwidCI6IjBjNzk5ZDM4LTQ3NjQtNDJiYy1iNGZmLTIzYmViYTljN2ZlMiIsImMiOjh9",
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiMTM1ZTVlNjItNmRiNC00NjQzLTg2NWQtNDM1ZmYwYzM5YTllIiwidCI6ImQ1MWRlNTk2LTQ1YTAtNGFhNS1hMGQ4LTQ3ZDFjOTU4YWEzMiIsImMiOjh9",
           "type": "preview",
           "title": "Preview Report",
           "attribution": "PowerBI Community"
         },
         {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2973/2/Icon%20Map%20V2%20Examples.pbix",
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/805/1/ws.pbix",
           "type": "download",
           "title": "Download PBIX",
           "attribution": "PowerBI Community"
         }
       ],
-      "publishedDateTime": "2019-09-11T08:25:00-07:00",
+      "publishedDateTime": "2017-01-18T00:44:00-08:00",
       "heat": 59,
       "tags": [
-        "Government",
-        "Business",
         "Technology"
       ],
       "images": [
         {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2973/1/icon%20map%20report%20thumbnail.png",
-          "width": 2416,
-          "height": 1377,
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/568/1/dashboard.JPG",
+          "width": 1467,
+          "height": 841,
           "isCached": true
         }
       ],
@@ -1104,12 +1273,65 @@
       ]
     },
     {
-      "path": "_samples/powerbi-community-periodic-table-of-the-elements-back-to-school.md",
-      "title": "Periodic Table of the Elements (Back to School)",
-      "excerpt": "See trends in the periodic table based on the elements' positions. Compare two different properties together in a scatter plot as well. Periodic",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-periodic-table-of-the-elements-back-to-school/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-periodic-table-of-the-elements-back-to-school/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Periodic-Table-of-the-Elements-Back-to-School/m-p/780804",
+      "path": "_samples/powerbi-community-ov-unv-data-challenge-rand-abu-raideh.md",
+      "title": "OV UNV Data Challenge - Rand Abu Raideh",
+      "excerpt": "As a data challenge for Online Volunteers , Rand Abu Raideh created a report to represent the geographical mobilization and demographics of United",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-ov-unv-data-challenge-rand-abu-raideh/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-ov-unv-data-challenge-rand-abu-raideh/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Rand-Abu-Raideh/m-p/1346852",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "luislopezunv",
+            "type": "profile",
+            "name": "luislopezunv"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMTBiY2I4MDUtODEyZC00Mjk1LWJjMmEtODFlZGE4NzI4YjMxIiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9&amp;pageName=ReportSectioncec27ea74889827bcfd4\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiMTBiY2I4MDUtODEyZC00Mjk1LWJjMmEtODFlZGE4NzI4YjMxIiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9&amp;pageName=ReportSectioncec27ea74889827bcfd4",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/4542/1/RandAbuRaidehUNVolunteerReport.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2020-09-03T19:07:00-07:00",
+      "heat": 58,
+      "tags": [
+        "Education",
+        "Government"
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-power-bi-artillery-game.md",
+      "title": "Power BI Artillery Game",
+      "excerpt": "Command Blue tank in its mathematical battle against Red tank. Select the initial velocity and launch angle using Power BI's what-if parameters. When",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-power-bi-artillery-game/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-power-bi-artillery-game/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Power-BI-Artillery-Game/m-p/234618",
       "provider": {
         "name": "PowerBI Community",
         "domain": "powerbi.com",
@@ -1130,31 +1352,31 @@
           }
         ]
       },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYmM0YzYwZmMtYmVmMy00ZTYwLTllMmUtODU1OWU0MWFhMTQyIiwidCI6ImFjYzhhYWE1LWYxOTEtNDgyZi05MjFiLWNmNmMzM2E1ODgzMiIsImMiOjF9\"></iframe>",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNThkYThlZWEtMDM2MC00YmI4LWFkZmItZDk2MmJlMDhjMWUwIiwidCI6ImFjYzhhYWE1LWYxOTEtNDgyZi05MjFiLWNmNmMzM2E1ODgzMiIsImMiOjF9\"></iframe>",
       "actions": [
         {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiYmM0YzYwZmMtYmVmMy00ZTYwLTllMmUtODU1OWU0MWFhMTQyIiwidCI6ImFjYzhhYWE1LWYxOTEtNDgyZi05MjFiLWNmNmMzM2E1ODgzMiIsImMiOjF9",
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNThkYThlZWEtMDM2MC00YmI4LWFkZmItZDk2MmJlMDhjMWUwIiwidCI6ImFjYzhhYWE1LWYxOTEtNDgyZi05MjFiLWNmNmMzM2E1ODgzMiIsImMiOjF9",
           "type": "preview",
           "title": "Preview Report",
           "attribution": "PowerBI Community"
         },
         {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2904/2/Periodic%20Table.pbix",
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1025/2/Power%20BI%20Tank%20Game.pbix",
           "type": "download",
           "title": "Download PBIX",
           "attribution": "PowerBI Community"
         }
       ],
-      "publishedDateTime": "2019-09-01T00:12:00-07:00",
-      "heat": 59,
+      "publishedDateTime": "2017-08-19T06:22:00-07:00",
+      "heat": 58,
       "tags": [
-        "Education"
+        "Entertainment"
       ],
       "images": [
         {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2904/1/Periodic%20Table%20Power%20BI.png",
-          "width": 2510,
-          "height": 1495,
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1025/1/PBIArtillery.PNG",
+          "width": 1540,
+          "height": 890,
           "isCached": true
         }
       ],
@@ -1206,7 +1428,7 @@
         }
       ],
       "publishedDateTime": "2017-06-02T05:02:00-07:00",
-      "heat": 59,
+      "heat": 58,
       "tags": [
         "Technology"
       ],
@@ -1224,133 +1446,12 @@
       ]
     },
     {
-      "path": "_samples/powerbi-community-how-to-build-a-weather-dashboard-with-api-and-parameters.md",
-      "title": "How to: Build a Weather Dashboard with API and Parameters",
-      "excerpt": "Solved: Hi, just created this dashboard connecting local data and 2 API calls for current weather and 5 days forecast. This is my first public",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-how-to-build-a-weather-dashboard-with-api-and-parameters/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-how-to-build-a-weather-dashboard-with-api-and-parameters/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/How-to-Build-a-Weather-Dashboard-with-API-and-Parameters/m-p/115356",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "cpinho",
-            "type": "profile",
-            "name": "cpinho"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMTM1ZTVlNjItNmRiNC00NjQzLTg2NWQtNDM1ZmYwYzM5YTllIiwidCI6ImQ1MWRlNTk2LTQ1YTAtNGFhNS1hMGQ4LTQ3ZDFjOTU4YWEzMiIsImMiOjh9\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiMTM1ZTVlNjItNmRiNC00NjQzLTg2NWQtNDM1ZmYwYzM5YTllIiwidCI6ImQ1MWRlNTk2LTQ1YTAtNGFhNS1hMGQ4LTQ3ZDFjOTU4YWEzMiIsImMiOjh9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/805/1/ws.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2017-01-18T00:44:00-08:00",
-      "heat": 58,
-      "tags": [
-        "Technology"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/568/1/dashboard.JPG",
-          "width": 1467,
-          "height": 841,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_samples/powerbi-community-pokemon-go.md",
-      "title": "Pokémon GO",
-      "excerpt": "Solved: WHAT HAS POKEMON GO TO DO WITH BUSINESS INTELLIGENCE AND POWER BI? NOT MUCH! BUT STILL THE COMBINATION COULD BE VERY INTERESTING. SOME INFO",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-pokemon-go/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-pokemon-go/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Pok%C3%A9mon-GO/m-p/53729",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Jorre94",
-            "type": "profile",
-            "name": "Jorre94"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOTY1MTJiMmMtOTQ3Zi00NmY3LTk0ZTctZWIwYmZkYzk2ZTk5IiwidCI6IjQxMGJiOTRmLTg0ODgtNGIzMy05MDg3LTQzNTU3OTZjNzcyYyIsImMiOjh9\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiOTY1MTJiMmMtOTQ3Zi00NmY3LTk0ZTctZWIwYmZkYzk2ZTk5IiwidCI6IjQxMGJiOTRmLTg0ODgtNGIzMy05MDg3LTQzNTU3OTZjNzcyYyIsImMiOjh9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/178/3/Pok%C3%A9mon%20Go.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2016-07-27T22:29:00-07:00",
-      "heat": 57,
-      "tags": [
-        "Entertainment",
-        "Business"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/178/2/The%20hunt%20for%20insight%20in%20Pok%C3%A9mon%20Go.png",
-          "width": 1422,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_samples/powerbi-community-power-bi-artillery-game.md",
-      "title": "Power BI Artillery Game",
-      "excerpt": "Command Blue tank in its mathematical battle against Red tank. Select the initial velocity and launch angle using Power BI's what-if parameters. When",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-power-bi-artillery-game/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-power-bi-artillery-game/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Power-BI-Artillery-Game/m-p/234618",
+      "path": "_samples/powerbi-community-periodic-table-of-the-elements-back-to-school.md",
+      "title": "Periodic Table of the Elements (Back to School)",
+      "excerpt": "See trends in the periodic table based on the elements' positions. Compare two different properties together in a scatter plot as well. Periodic",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-periodic-table-of-the-elements-back-to-school/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-periodic-table-of-the-elements-back-to-school/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Periodic-Table-of-the-Elements-Back-to-School/m-p/780804",
       "provider": {
         "name": "PowerBI Community",
         "domain": "powerbi.com",
@@ -1371,152 +1472,31 @@
           }
         ]
       },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNThkYThlZWEtMDM2MC00YmI4LWFkZmItZDk2MmJlMDhjMWUwIiwidCI6ImFjYzhhYWE1LWYxOTEtNDgyZi05MjFiLWNmNmMzM2E1ODgzMiIsImMiOjF9\"></iframe>",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYmM0YzYwZmMtYmVmMy00ZTYwLTllMmUtODU1OWU0MWFhMTQyIiwidCI6ImFjYzhhYWE1LWYxOTEtNDgyZi05MjFiLWNmNmMzM2E1ODgzMiIsImMiOjF9\"></iframe>",
       "actions": [
         {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiNThkYThlZWEtMDM2MC00YmI4LWFkZmItZDk2MmJlMDhjMWUwIiwidCI6ImFjYzhhYWE1LWYxOTEtNDgyZi05MjFiLWNmNmMzM2E1ODgzMiIsImMiOjF9",
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiYmM0YzYwZmMtYmVmMy00ZTYwLTllMmUtODU1OWU0MWFhMTQyIiwidCI6ImFjYzhhYWE1LWYxOTEtNDgyZi05MjFiLWNmNmMzM2E1ODgzMiIsImMiOjF9",
           "type": "preview",
           "title": "Preview Report",
           "attribution": "PowerBI Community"
         },
         {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1025/2/Power%20BI%20Tank%20Game.pbix",
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2904/2/Periodic%20Table.pbix",
           "type": "download",
           "title": "Download PBIX",
           "attribution": "PowerBI Community"
         }
       ],
-      "publishedDateTime": "2017-08-19T06:22:00-07:00",
+      "publishedDateTime": "2019-09-01T00:12:00-07:00",
       "heat": 57,
       "tags": [
-        "Entertainment"
+        "Education"
       ],
       "images": [
         {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1025/1/PBIArtillery.PNG",
-          "width": 1540,
-          "height": 890,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_samples/powerbi-community-analysis-of-leading-economic-indicators-by-decisive-data.md",
-      "title": "Analysis of Leading Economic Indicators by Decisive Data",
-      "excerpt": "The Challenge Every day we are inundated with noise about the health of the economy. Take for instance the following headline, “Consumer Sentiment",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-analysis-of-leading-economic-indicators-by-decisive-data/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-analysis-of-leading-economic-indicators-by-decisive-data/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Analysis-of-Leading-Economic-Indicators-by-Decisive-Data/m-p/218886",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Evan_at_DD",
-            "type": "profile",
-            "name": "Evan_at_DD"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMGIxYjE2NTAtZWQzNC00NDRmLWI1M2QtMTYxOGU0MGRjNGNhIiwidCI6IjdlY2M4YWEwLTgzMGUtNGQ4Ni1hZjc4LTgzYTNkY2MyNjIzOCIsImMiOjZ9\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiMGIxYjE2NTAtZWQzNC00NDRmLWI1M2QtMTYxOGU0MGRjNGNhIiwidCI6IjdlY2M4YWEwLTgzMGUtNGQ4Ni1hZjc4LTgzYTNkY2MyNjIzOCIsImMiOjZ9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/977/2/FRED%20Economic%20Scorecard.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2017-07-25T07:00:00-07:00",
-      "heat": 56,
-      "tags": [
-        "Business",
-        "Economics"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/977/1/Thumbnail.PNG",
-          "width": 1449,
-          "height": 794,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_samples/powerbi-community-analyse-how-increase-in-customer-satisfaction-can-maximize-profitability.md",
-      "title": "Analyse How Increase In Customer Satisfaction Can Maximize Profitability",
-      "excerpt": "Customer Satisfaction holds enormous significance to any organization, since it has a direct impact on the Bottom Line, unlike other contributors",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-analyse-how-increase-in-customer-satisfaction-can-maximize-profitability/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-analyse-how-increase-in-customer-satisfaction-can-maximize-profitability/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Analyse-How-Increase-In-Customer-Satisfaction-Can-Maximize/m-p/243229",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "ThirdI",
-            "type": "profile",
-            "name": "ThirdI"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMTJmNjc4NmEtZTk5Ni00Y2Q2LTg0NzEtZWU4YWMzNWFhMDM4IiwidCI6IjRkNDg5YzRmLWMwMDMtNDJjZC1hMTZkLTdlM2QwMjFkODFiZiIsImMiOjN9\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiMTJmNjc4NmEtZTk5Ni00Y2Q2LTg0NzEtZWU4YWMzNWFhMDM4IiwidCI6IjRkNDg5YzRmLWMwMDMtNDJjZC1hMTZkLTdlM2QwMjFkODFiZiIsImMiOjN9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1081/2/Third%20I%20-%20Customer%20Satisfaction%20-%20What%20If%20Analysis.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2017-08-31T01:13:00-07:00",
-      "heat": 55,
-      "tags": [
-        "Business"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1081/3/Third%20I%20-%20Customer%20Satisfaction%20-%20What%20If%20Analysis.PNG",
-          "width": 1055,
-          "height": 613,
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2904/1/Periodic%20Table%20Power%20BI.png",
+          "width": 2510,
+          "height": 1495,
           "isCached": true
         }
       ],

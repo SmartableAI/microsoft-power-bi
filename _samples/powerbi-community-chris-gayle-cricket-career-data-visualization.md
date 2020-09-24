@@ -4,7 +4,7 @@ excerpt: "Chris Gayle - The Legendary Cricketer !! He is the most capped player 
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Chris-Gayle-Cricket-Career-Data-Visualization/m-p/1213625
 type: download
 publishedDateTime: 2020-07-09T22:41:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNzQxNzBjYTMtYWNkYy00YjVlLTlkODktN2VlZGI2ZDI2MDlhIiwidCI6IjVhNGYxNmRlLTgwZGEtNDM4Ni1hN2Y3LWZmMGNmM2UyNjEzNCJ9\"></iframe>"
 
@@ -33,6 +33,6 @@ topics:
 tags:
   - Sports
 
-secured: "tCLm3hE1kG7NxTrqxu77jcxVwXNSBGLo0kvf85X3Whjnr680/5Gh1mEc29npMIGzIYUb/cEpz8xumbELLayGqYyd8GEqQEymrP7Qn5JtOxG0T/r67eyAm+MbIct3NP9/vqRZ7YmqadL+QYUpTs758/63mSHTPFC/qxuCDCdOti8UWRBb8jqyIx+Sf+4FNVu2FIlo35CxUBX0iYhNMJL8yTeaCMmj8Ja89z6TuHqPSbCsUyNGxBVW5zkmj4UqcZXF/8CMuu2L0ofuufRZvzxTenKdM3YbCzu0HvOzG9XxbDArxAztDvXCnnO8O7IcsO3aSPUCVnwrV8h76hNsnZCw0jF1rcaI87aqKlfl1Fd6AlZOhcb95rjtZHVbTWv8v+IkZ8YzfiUsjxG+EmSBE1hciQ==;m21FUyzVJRMVLXwJEtRAhg=="
+secured: "goKcYmmQ5NbGEPDP/kFRIDOXYdNopIe61U2R2BMXmfrvLaLU1QtVRaUtwfVX1iS5nqITmFj64ZQu+I8zve81PEpyJJvq2IXgIjuNvF6eQH/pi0QKSxVBI4fQq3v7nmtbiqg0ahfoyDf23PVl4ilDCT2w5cFz8YosmbF2PHNGHOzRNAhpF3q/X6MiFuleWcxcnocpNDY98bOoa8txRapKtpOYxCVgT8IiPACHJ+9WE0kN5AJVAsxBzjKkAMqJICr1PdgVXxivKMoqIutJvIoxDN4Xbwh5N8+Vgb8peSZEss1VLPFsPq9nHIVaL9WZMvYHuLfuSfU4T7+vdwvCZOYsDa1legHaN9eJLjYHiGESjsP5y6SumUaB+cmodo3egLx1fCMwpTMzvdst3Em9k6sLK06xKN6SiEENkAf0YpQwdbn3PonHZ/LvEJmgCmEpo007;Cenw3nDSL74HydjjR36zEQ=="
 ---
 

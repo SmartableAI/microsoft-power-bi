@@ -4,7 +4,7 @@ excerpt: "More than in recent times human migration is at the forefront of the n
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Missing-Migrants-Tracking-Deaths-Along-Migratory-Routes/m-p/342271
 type: download
 publishedDateTime: 2018-01-21T10:52:00Z
-heat: 53
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZjBkMGRjZjItMGY4Ny00NDdlLWIxMWEtNDc5Y2E5OWNmZGM3IiwidCI6ImExMDU5ZDgxLTk4MDctNGEzMi05YjA5LWQwMmRhNjJjMGIyZCIsImMiOjh9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 331
     isCached: true
 
-secured: "TuVtdsePbi684yx2R5iIEy2E1mM9U2cXqSLruAoG3fSl7CCQ4oHrzZw/qEpuGgb6Lj/EvlevnjjXhH3bI7LcKxKIDZckknlsV6320XG/u0gYgW4sGsa4M7hcWp4flYZ62phahh+wWtXCwC9orE8A7aUygfWxYasZI0M6LrwW9DGfeju/eI7XlLfSfHA41BIgaEuqin/KRKeULe5dGMDPzzEgH5ZrhYweBXDzyS0UIACJrD21Wyn1NTLz7IfFLCwWx9JuwLo3Jt6L3TevW0eHf6PrbUr7g8jFYTY149I6SBYY20AYqquKiYe5EAEck2p7BrbePku177lD8Z7k7evdl9YYdSKhLSiz6Dazdunfdy/xRCG6fzO+GLPT50DyPbG7mXx96wAXDPf9lU6iV4d2d/wuWXBHFQpB1GfmrL6Flzo=;EWItE/2evXpeWKe5vfXrgw=="
+secured: "RcmnF0RuqOxj2h2iAHgRGqQJLMN8kxRyuiJKOiVb6D04t07/54ljJVMk9ujQFccgEJAeVjESYHafviYYKMBSNC/bVvFrrBcsmJxEcpsptrOCcEdw215hhY3uecKtP/aFXtTJ56+JY5SDkEHTedi/NPtKXpTCVFhHc0JkhhlolYxCzCggmsCfyOT0iVHwHu4dDqU+3TIhqJWYqGo7fs9JW4cX7K8xCMbqSbv4Rv+8vB8DN3Ojq5+MfRfILkpW3Hph5zeYr1OcfZK2JZ6GIgs9rcb0O7sbO3o7bjndYpHB7xEpo2k++IzIIDht+Ypuc2yaG0xSbGR8J9WWp2Yz7OkkUbObZbHrMpspi8OszZeaCjDH57gBM6bIvJduvmgU7LaG/e/rNZMavZHp0MLJ5UE/apN52Zl/EDt/jLm+5P/0GxYY0u63PS8Ql7BhszSG4XMd;rZ4Zjahp0s5IVb3A9TyWmQ=="
 ---
 

@@ -4,127 +4,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_samples/powerbi-community-covid-19-italy-report-and-maps.md",
-      "title": "COVID-19 Italy Report and maps",
-      "excerpt": "This report is a reworking and an enrichment of the official italian dashbord at this URL",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-covid-19-italy-report-and-maps/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-covid-19-italy-report-and-maps/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-Italy-Report-and-maps/m-p/1019440",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "marcde",
-            "type": "profile",
-            "name": "marcde"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMmI5ZDNlMDktNjYxZC00NTc0LTkxYzEtZWUxYTk3Yzc4OWNmIiwidCI6ImUyMDNkOTRiLTc0ODUtNGMyZi1hMmIwLWQxYTRjOWMzZjZlNiIsImMiOjh9\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiMmI5ZDNlMDktNjYxZC00NTc0LTkxYzEtZWUxYTk3Yzc4OWNmIiwidCI6ImUyMDNkOTRiLTc0ODUtNGMyZi1hMmIwLWQxYTRjOWMzZjZlNiIsImMiOjh9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3733/3/Per%20la%20Community%209.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2020-04-09T20:58:00-07:00",
-      "heat": 50,
-      "tags": [
-        "COVID-19"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3733/1/thumbnail.JPG",
-          "width": 1297,
-          "height": 741,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_samples/powerbi-community-covid-19-report-germany-and-worldwide-with-different-data-sources.md",
-      "title": "#COVID-19 Report - Germany and worldwide with different data sources",
-      "excerpt": "Ever wondered how corona data differs among different data sources? Yet another (but our own) customized visualisation of corona infections in Power",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-covid-19-report-germany-and-worldwide-with-different-data-sources/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-covid-19-report-germany-and-worldwide-with-different-data-sources/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-Report-Germany-and-worldwide-with-different-data/m-p/1009298",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "svwilder",
-            "type": "profile",
-            "name": "svwilder"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZDFhODI3YTgtYTg2MC00MDYyLTkwNmItNzYxOTFjZGNiODBkIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiZDFhODI3YTgtYTg2MC00MDYyLTkwNmItNzYxOTFjZGNiODBkIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3686/2/COVID19-GermanyAndWorldwide.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2020-04-05T17:08:00-07:00",
-      "heat": 50,
-      "tags": [
-        "COVID-19",
-        "Health"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3686/1/thumbnail.png",
-          "width": 1593,
-          "height": 896,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_samples/powerbi-community-covid-19-the-impact-on-the-way-we-work-in-australia.md",
       "title": "COVID-19: The impact on the way we work in Australia",
       "excerpt": "The sudden onset of the global pandemic accelerates our progression towards ‘the future of work’. The Voop.Global aim is to track the change in our",
@@ -661,67 +540,6 @@
           "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/723/3/PBI_THUMBNAIL.PNG",
           "width": 1340,
           "height": 769,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_samples/powerbi-community-datastory-valentines-day-gifts-trend-2010-2016.md",
-      "title": "DataStory Valentine's day gifts trend (2010-2016)",
-      "excerpt": "Solved: Discovery what is the main gifts offered over yeah for Valentine's Day, from 2010 to 2016. Power BI allows you to understand trends with data",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-datastory-valentines-day-gifts-trend-2010-2016/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-datastory-valentines-day-gifts-trend-2010-2016/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/DataStory-Valentine-s-day-gifts-trend-2010-2016/m-p/127774",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "letitbi",
-            "type": "profile",
-            "name": "letitbi"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZjlhYWE1YWEtODJiNC00NDU3LTgzNmYtOTBiNjFiMzUzZTA4IiwidCI6ImJkNGZjZDM3LWRmZmEtNDk0OC1iMjU4LWQ3ZjlhN2I1Y2IxYyIsImMiOjh9\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiZjlhYWE1YWEtODJiNC00NDU3LTgzNmYtOTBiNjFiMzUzZTA4IiwidCI6ImJkNGZjZDM3LWRmZmEtNDk0OC1iMjU4LWQ3ZjlhN2I1Y2IxYyIsImMiOjh9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/643/2/2017-W7-Valentines%20Day%20Spending.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2017-02-14T23:17:00-08:00",
-      "heat": 50,
-      "tags": [
-        "Lifestyle",
-        "Economics"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/643/1/pbi-valentine-thumbnail.jpg",
-          "width": 1454,
-          "height": 812,
           "isCached": true
         }
       ],
@@ -1333,66 +1151,6 @@
       ]
     },
     {
-      "path": "_samples/powerbi-community-exploring-top-chess-openings-in-power-bi.md",
-      "title": "Exploring Top Chess Openings in Power BI",
-      "excerpt": "Explore a few of the most popular chess openings through Power BI by using the What-If slicer. Simply move the slider from left to right to step",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-exploring-top-chess-openings-in-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-exploring-top-chess-openings-in-power-bi/",
-      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Exploring-Top-Chess-Openings-in-Power-BI/m-p/240955",
-      "provider": {
-        "name": "PowerBI Community",
-        "domain": "powerbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "SamLester",
-            "type": "profile",
-            "name": "SamLester"
-          }
-        ]
-      },
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMmE5NDRkNDQtMTNmMi00NDVhLWI4ODYtZDQxZGQwMDkwNWI3IiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9\"></iframe>",
-      "actions": [
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiMmE5NDRkNDQtMTNmMi00NDVhLWI4ODYtZDQxZGQwMDkwNWI3IiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9",
-          "type": "preview",
-          "title": "Preview Report",
-          "attribution": "PowerBI Community"
-        },
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1066/2/ChessOpenings.pbix",
-          "type": "download",
-          "title": "Download PBIX",
-          "attribution": "PowerBI Community"
-        }
-      ],
-      "publishedDateTime": "2017-08-28T15:48:00-07:00",
-      "heat": 50,
-      "tags": [
-        "Entertainment"
-      ],
-      "images": [
-        {
-          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1066/1/QueensGambit_Screenshot.PNG",
-          "width": 1377,
-          "height": 793,
-          "isCached": true
-        }
-      ],
-      "type": "download",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_samples/powerbi-community-fdis-in-2019.md",
       "title": "FDIs in 2019",
       "excerpt": "This was made for college presentation purpose.",
@@ -1510,6 +1268,248 @@
           "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2620/1/Screenshot_6.png",
           "width": 895,
           "height": 505,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-fifa-world-cup-2018-russia.md",
+      "title": "FIFA World Cup 2018 Russia",
+      "excerpt": "Web Scrapping sur la coupe du Monde. Uniquement dans cette version le Groupe C.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-fifa-world-cup-2018-russia/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-fifa-world-cup-2018-russia/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/FIFA-World-Cup-2018-Russia/m-p/479907",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "ggaudfroy",
+            "type": "profile",
+            "name": "ggaudfroy"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMWM1YTA2N2QtMTM2Ny00OTM2LWEwMWUtY2E3NjAwYjViMTg5IiwidCI6IjhlYmE3MDI4LWE0MzAtNDRlYi05YmIwLWE3MzMyY2U3NGJiNCIsImMiOjh9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiMWM1YTA2N2QtMTM2Ny00OTM2LWEwMWUtY2E3NjAwYjViMTg5IiwidCI6IjhlYmE3MDI4LWE0MzAtNDRlYi05YmIwLWE3MzMyY2U3NGJiNCIsImMiOjh9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2123/2/Russia%202018.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2018-08-02T22:34:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Sports"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2123/1/Compo_Equipe.PNG",
+          "width": 1820,
+          "height": 1034,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-fifa-world-cup-history.md",
+      "title": "Fifa World Cup History",
+      "excerpt": "I'm just excited to tell the fifa world cup history. Check the statistics while you watch the Rusia 2018 cup. This is a report containing the",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-fifa-world-cup-history/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-fifa-world-cup-history/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Fifa-World-Cup-History/m-p/439983",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "ibarrau",
+            "type": "profile",
+            "name": "ibarrau"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZDVlMmQxOWYtZDk0NC00N2MzLWFjMTAtYjcyODBiYmMzNjY1IiwidCI6ImRjZmI2MzJhLWI4OTYtNDI4OC04NDEzLWVjOGQ5NTQxMDZlNiIsImMiOjR9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiZDVlMmQxOWYtZDk0NC00N2MzLWFjMTAtYjcyODBiYmMzNjY1IiwidCI6ImRjZmI2MzJhLWI4OTYtNDI4OC04NDEzLWVjOGQ5NTQxMDZlNiIsImMiOjR9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1999/2/Mudiales.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2018-06-14T01:11:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Entertainment",
+        "Sports",
+        "Social Media"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1999/1/thumb.png",
+          "width": 947,
+          "height": 577,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-finding-a-puppy-using-power-bi.md",
+      "title": "Finding a Puppy using Power BI",
+      "excerpt": "Hi All, We were looking for a puppy recently and when I went onto the UK Kennel Club website I found it a bit bewildering looking at all of the data.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-finding-a-puppy-using-power-bi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-finding-a-puppy-using-power-bi/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Finding-a-Puppy-using-Power-BI/m-p/257626",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "RoryBI",
+            "type": "profile",
+            "name": "RoryBI"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiODNiZGExMmMtMGExYi00NTI1LTkwYTUtNDc0ZWQ0ODJjYjM0IiwidCI6IjFkOTEwYzM3LWE0MjktNGYzNS1iYTFiLTM3ZDViMjNmZTRhMSIsImMiOjh9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiODNiZGExMmMtMGExYi00NTI1LTkwYTUtNDc0ZWQ0ODJjYjM0IiwidCI6IjFkOTEwYzM3LWE0MjktNGYzNS1iYTFiLTM3ZDViMjNmZTRhMSIsImMiOjh9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1161/2/Puppy%20Finder%20with%20Function.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2017-09-22T06:03:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Lifestyle"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1161/1/Capture.PNG",
+          "width": 1908,
+          "height": 1009,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-follow-the-fifa-world-cup-our-office-team-picks-in-power-bi.md",
+      "title": "Follow the FIFA World Cup & our Office team picks in Power BI🏆⚽🌏",
+      "excerpt": "The world cup is on and for this FIFA world cup 2018 in Russia !!! for fun and a bit of competition prize included I hope...we have picks for teams",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/samples/powerbi-community-follow-the-fifa-world-cup-our-office-team-picks-in-power-bi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/sample/powerbi-community-follow-the-fifa-world-cup-our-office-team-picks-in-power-bi/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Follow-the-FIFA-World-Cup-amp-our-Office-team-picks-in-Power-BI/m-p/442023",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "tmatarise",
+            "type": "profile",
+            "name": "tmatarise"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOTA3MGRkODAtYzNiZC00YzA4LTgzODctYzM5NTQyMmFjNGVhIiwidCI6IjAwZmQyNTZjLTcyMzUtNDhlNC04MTBjLTJiMzQ0NTY4NjBhYiIsImMiOjh9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiOTA3MGRkODAtYzNiZC00YzA4LTgzODctYzM5NTQyMmFjNGVhIiwidCI6IjAwZmQyNTZjLTcyMzUtNDhlNC04MTBjLTJiMzQ0NTY4NjBhYiIsImMiOjh9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2012/2/FIFA%20World%20Cup%202018%20_Teambase.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2018-06-17T21:47:00-07:00",
+      "heat": 50,
+      "tags": [
+        "Sports"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2012/1/Knockouts.PNG",
+          "width": 1454,
+          "height": 831,
           "isCached": true
         }
       ],

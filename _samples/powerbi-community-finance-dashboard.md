@@ -4,7 +4,7 @@ excerpt: "CUSTOM VISUALS. VARIANCES. SALES VS PROFIT. TARGET VS. SALES ANALYSIS.
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/FINANCE-DASHBOARD/m-p/829382
 type: download
 publishedDateTime: 2019-10-27T11:34:00Z
-heat: 53
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYmQ1YWY1YjYtNzdlZS00OGZmLWE0OGItOWI0ZWI4MTA1YjU4IiwidCI6ImFhZDM5OWY1LWEyNTQtNDMwYi1iMjI5LWY5OWY4YmE3MTM0NyJ9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 775
     isCached: true
 
-secured: "/2iPsBUM4zP4qQf8P4DApljQysj3dMqlf1V/K1YxREyDjT0/HxhobaTTsxbwh1AodVOUtflXiABcXhwRtCIA0Lv1bGN7zi3I0QEJOvmRAYf0M2SMH86e5aG0cESY6ggSaFjBhu1VOyeSZjNz6DoQ2KVTCIpnQom140RLuZXmnjg86/SfL8dhV/48MTsBW58pVFSG3ActHnDdVpGsp+MFrclBG4NqBvj1JjamnpxsjNP40i2MZPKr1Dn2+7TviUva+BWiCmQlCSGUEkQxchCVddTSpFjXgXYiAwa+PkmPwQ0yY0T6hnQ89E1vpSlRvwZKN81a10cuHTELlxaBskTZ5rhWIYxFhlIwQ2Hr28RRFAQa2C5Wk+wFEnCv7J1ZfeTey+SA3lNZ3oXKn7mgBTA//xcwdiV3gkGK/AREPfGUGh8=;KPGnLsUXF7ez0jdhWflmQA=="
+secured: "XJHrlr6P3grBP/OTgK3uEZONN7tMqLfn+E8BvvB5El+8CkuHqtGGQ3UeOkh8OmVCAlXPVVgqz96AnuM/9oScjC3JDmUP9lWYbrBHOkPBjtzcMrr/YrcleIlm7vbvqEahVWpOaqwWMC/Hlp75ALT3BBhvOEtBScLtqFTunxX+FlbdPQucbgkKDPzekjEV79snvuZO0XdskDcLqYRvNYq7E/PRCRHI1oRUtBFpmcPDYpH7B/NDxZa/pjkiFvw6X3+gfP0gmzum4TT0yCFhBEoT3PvLLLMqO7TvdGLpZVfNWrWh13EOTD04EP7B5vJ3FuhOEdS35ZBEyul4bOBvBaibqWqxx5y8ZXCXulLo1c+GpiLXHku6F5sJYlc0F8CgBEYvJCkXLsCIQ14JpzkL0x+ICH2U7F/V2CxLScoYW/KcGOsFK/FFyy2F88Zz6mrT46DS;dIiOEduBPO6RkNuy3r2VYA=="
 ---
 

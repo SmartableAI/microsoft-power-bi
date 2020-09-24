@@ -4,7 +4,7 @@ excerpt: "I made some simple Power BI templates for Marketing Data Attribution a
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Marketing-Data-Attribution-Key-Influencers/m-p/1235179
 type: download
 publishedDateTime: 2020-07-20T06:12:00Z
-heat: 52
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMjk2ZmM5NjItODU3NS00ZTU0LTlmZWItZDU1YmFkNjJiMmFhIiwidCI6IjYyYjBiNjRjLTRiNWItNDU5OC04OGZlLTljYTIxNmM1NjdkMiIsImMiOjh9&amp;embedImagePlaceholder=true&amp;pageName=ReportSectiona456cdd07d035524421a\"></iframe>"
 
@@ -33,6 +33,6 @@ topics:
 tags:
   - Business
 
-secured: "hcoYiVvD8Ogc5bRPOE4h6mkUpbSALxah61+AItIlQzpD8ORQAJcuIUDY8I+ebK+F94DkzhXjh3PlMUg6AAnHIDs5M+/ucNgrT3oK7l4fNGGIRfstSPU8L/4y6kLjAYjFxI4ilKLDzoAx6xPRrSFjxhZp0HghwjvQEZoplNGkm9Tf7CzONXsGe1lXaCYXkmt+miJgWCEI1sbA7OW4radqKcM4etcXgMjDgPVSLEOKBC1C1YuKc3dlV4JchaUyDnNpPL/vJOik+CBS8i2bZBCrJeahBWaE0Q5mjy/jVDdg56xEaFDuR8ZgnTwH9DM/iZZdMouX4qjVxoIaGjHxu9e3133Nv4s3XXLy3Ios83n5kEc2K2ingJrQSU+dSnVPAnEAB82XA1CUvMxlZVX9063JDg==;EPyqNxN17oVvok8ueSo5HQ=="
+secured: "1ttm/PSOiZTR3sLF2eKpBcwCz0VUZusXiY6yNIHBDqmTEWFGUMFD4mSCpWDI4Wr7yaHLMkeMSM6KemuKWoMEgqNkTj7SsJsNMKqsWKjASBKeNlNOzu666gKmTC/CFVct4aCVLLN535r/uRPJbHSCIs/E2eS6Ke1mv+9mMJK98AfVCDeLn0KHUqDYTujIAJVfYEfvcaJ7TuId568q/QQL1lNREOaDScufpDYdtxPtqAEEhX0OgAkpGRRqFuv7lbzeZrsXKZnItuHinZSPWDFVgVPuFWXny3GFl47gLyfYFoa9SWY6yb6GEbM2oiG3+Lzx1q0m74RSTTEEcIDhaWA9IotDRp3n14V+1XHqZlKStm+CIiwqqk/iGGS13RCxXR9B7d+r3/r9lGUo7XLkzoALoCMsom74ynuhhdEv4ZUx3DoA8UomoiVQB1kU+O0nIq1l;RfV83J9JVs8eSVMcNqn6Rg=="
 ---
 

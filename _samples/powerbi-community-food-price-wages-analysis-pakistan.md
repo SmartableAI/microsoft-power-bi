@@ -4,7 +4,7 @@ excerpt: "This Food Price Analysis Report is based on public data of Pakistan Fo
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Food-Price-amp-Wages-Analysis-Pakistan/m-p/1299606
 type: download
 publishedDateTime: 2020-08-16T21:36:00Z
-heat: 67
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDE0ZjMzMGMtYTkwNS00NDk4LTlkNjktZjgzYTFhYmVkMzk1IiwidCI6ImJjZjQ0Yzg2LTViMGItNDE3Yy1iMjJjLTY4NzYxNWYwNDU5MCIsImMiOjl9\"></iframe>"
 
@@ -35,6 +35,6 @@ tags:
   - Lifestyle
   - Economics
 
-secured: "gTpkBPFDGIGk5kZ5oVYUKEmkz7BSRL/NY0IoAMi/jVMVXs22p+Le/EyryAvnrWHjHBSDkOH51Se4pDdmMHWYiCq46gPT0U9Z0WV/GTXvOksxjWTTuXjHnbb0eJK5H8UjOJei1Esx37Y3fiV+sYsNPRMo4N/6O4g3RhibfkszNQgSicObWnSMAJO9KUh3qJ2UE3J+AzpmRNySDD3YV/vq291imvx8aPzqTJTZoJsDnG0RB+NgsKjod+zSMzA4n+ozUribnz0i9r7xNwUuTvjQVKZX8aHqLF37cUOvA5wSudQUC7G85wPg5+Vu5gPJIeilsOcQbFeJ1qsK0s9Q+sDmYokTl86+BavFf7HWjkDN5ufJ/PtxAYJ8qIaBMCPBKuj0;IXQFPdiUlHACKQ5550++9w=="
+secured: "cDOCHwuIyo8n/51QMhCMEwwSIiHm0EgdjLBCcXf5czPUxln7Rnj0xehrhBlnn6oDIN0GIiGx/WAcQjgcysPnfja6zphx76JRGqPs/7nUjB9U9k8zFzA5l9MVJQOn7Qp/LsRcBJRLHAB86/IlBDrCmJvhEwtjDwavAhaf/Qd1OemrN5MF7hzuqF0nklyng0pqVPwRIRgBNYwIca/biqjbZLDyLfzL0PQr5rAqEBeKWwzWG+Pi7l9E0tzv67mN61aXGdX4S7AeOhbsC9KXmxYcMhI4YX/Yx+MocBWxD5oeAiX+tcgkB1Kn9gS+/+F8+eb2rrfL9/51bnX5e99gTVNZKQrnpH+VO9r6avk+Bff/iTZcDUHxOK/a3etFL2dblWCECVJ3rHzVhWdp+vnpMapDZnD0MX+we4LbrTdXYw1kGfRFkN5vi9zlpa8JSzo78Au8;ixX9eXKOgGQG+NbZb+XulA=="
 ---
 

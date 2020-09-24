@@ -4,7 +4,7 @@ excerpt: "Command Blue tank in its mathematical battle against Red tank. Select 
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Power-BI-Artillery-Game/m-p/234618
 type: download
 publishedDateTime: 2017-08-19T13:22:00Z
-heat: 57
+heat: 58
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNThkYThlZWEtMDM2MC00YmI4LWFkZmItZDk2MmJlMDhjMWUwIiwidCI6ImFjYzhhYWE1LWYxOTEtNDgyZi05MjFiLWNmNmMzM2E1ODgzMiIsImMiOjF9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 890
     isCached: true
 
-secured: "Ohv7FSHsUyxXfnLVPJatMrsa7L59PwzVm0wHy6t6zGq7+bleU6O+tHtCdOl0Ny9hAhgMcyCZDOe5rQA7k+EPjkIRlflL1yfhhr0VVUPgFu9Vwh0MZXwAU/DAKYXNRtZMxRc7NR193zh6PtkvtsaeRdUWi/1cDyBbiPRLtBpZx6QyApROwFCKQwGLBdCVS2MFT1Ik1Cm1ZJ607jfPYtGBW1PcUCDYsEz178U14pXnWEgKwDqHYMm5/cUM2r3BxBFRIIunm5ECNPp2pjMBznEl7sfjXDtbqNlQ4W6sPELsrpnWK45PURi7GJHOd8P0kabAyQYHyLJTeaAugV6/doG+mmbt70QdGX/oDZeW7XJSclLdKg6iH7w+304WvzxWF00FNdHgsws2bPaxpwlZY5lm4qLIiLZXSZTl3Cyhza8pBg4=;YS/xWsUkhPWuQD1wtz1BDQ=="
+secured: "WR8pJZErSItavPD9Sjvj+lfeQbzlHEvzuC5dq1Jthkpg2q3rPBAcLIwGeTFRkY8m3E3lKW37idqQsJ7GwDV9LXAlGDN/NqZmCRy1cNx+94HdX117hg7nlLBokDqao25Xr1R5SeF4gOv+Tf7Ml8pI2BYGCCmIv0k2kTULI4y0gBdzcJpULhbksUmmpHgvPecZYzlBYLcU0Q3t9Ze1B7DTCm1jA2sdBmk4HPkMvlXnvQPhFdNBd3p8MDLaloBMcnoep/sUX/quKNc1yJ74o/3CzkTDu2n6EckfwLoAEF7AA841Hb4RsgFtOI6x84+sKLKhGqnvN37O7idO8qpZ+k4F1dISMeimdBZRCSOqq6BIsrFeF9QIXIvsdDmy1DYAmZy6UbXOUj4CN5dKGEfGJiRaKMmqrwmLLbUZo3pfvF6cyVBwMinAP71G2K/r9KPi7fc/;LGyQR79T34KM2J0tUfX7GQ=="
 ---
 

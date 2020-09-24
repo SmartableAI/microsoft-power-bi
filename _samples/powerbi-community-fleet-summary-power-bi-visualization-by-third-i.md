@@ -4,7 +4,7 @@ excerpt: "Billions of metric tons of greenhouse gases are emitted every year acr
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Fleet-Summary-Power-BI-Visualization-by-Third-I/m-p/672993
 type: download
 publishedDateTime: 2019-04-18T03:19:00Z
-heat: 54
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYWJmMDcxYTctMjk0NS00MzkzLWE5M2MtZjcyMzcwMGUxYjg1IiwidCI6ImExMTdlOGM2LWRhYTMtNDFlMi1iZDJhLTgyYzUwMmZlMzM4NCJ9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 622
     isCached: true
 
-secured: "6oHmQcqpVK8HbcTlapZ2phh6pdmi6DylrTyDhPc8X47bQZA3ufm6HbUzx+azkZUH3+aeahA93mtkL6fS2QU1A9PF/aw407ArHxxFmT6BK0cCHpqdBzztvLT17UDYVDUizenIVXoG7HX1t7FlCO/ZO6UAcnDmmkgsVB96ReNZR/yrWE/dVJn9acZhtL3jfUTmv60vfnybnzE0BT7/bQmuMLDU4dxgdAi21dprXFu7RKEnxdKj8dffCi+TNQkdO13P991TDXdZC+lPLYFb77M70QKwl43jqsSqMSLOqlFXc04PYRj04qvM1xg8raaa0vr2JUF4z+3Afr2ah9iif24lTzLeL2jzWDl7JuJEb0IkXwLRREksEUd9nACOmbkmYD2caIzBddTTKTH8dhhPIHpzddX5pqYe391bkD17mizs93g=;lSfB2zyNi3quKsiB+laGJw=="
+secured: "qQyFPxMEougmDXo4hHPJhRZ05XG3FradHb+CvOhcjbWbz8UbkNO+qr3RTUTfdvNvhZmibKcrLy6/zpHosKPqsdCmL0yRaebyQgwsUk5y4aXoRy+we0x7Rl4sBTMq71nG6e27tfEf0RwL9MpOZ9AlxLWIJRYzTFfkmoxZWJuyqkCOs7+/xs97URXGqYUP6KmDot35Z3pjqRAMN2TtQGnGGwY0l1Y3bz6ZuKo8WmPiLk8CGsXpHn+alSqjR91N0EZHZw/KADwBJG/dCpHKtEksRdICm9c0K99uzRu65jrngIohhNGqFhhj+cWEbdbPzG+XXWB1OsKea89fkA0h6dBErI9eCBWOY4QDCkicCqgeJ3uKU0M7owLalmekkA9HN9g/fXadMbZuENLQS/3Ih++UeYjYmlISnn+DnKhKEtbWEibIGa9Q7gDIed/Ri4KS0znu;Gn/e8IElEVbeL7c09EgVDw=="
 ---
 

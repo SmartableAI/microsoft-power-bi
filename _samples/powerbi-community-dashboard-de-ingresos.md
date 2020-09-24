@@ -4,7 +4,7 @@ excerpt: "El presente dashboard de Ingresos se ha realizado para fines educativo
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Dashboard-de-Ingresos/m-p/1276635
 type: download
 publishedDateTime: 2020-08-06T00:22:00Z
-heat: 62
+heat: 55
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZDNmMjgzZGMtMDU2ZC00MjcyLTk2MTQtZGQ5NDY2YmY1MjU3IiwidCI6Ijc5NzhlNjM0LTRlMTctNDVkZi1iOWEyLWY3NGRjOGY3YzA5ZCJ9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 1080
     isCached: true
 
-secured: "+YWXC0uUi7n55OAHei0G/6K2H8lvVBzp3VGK9nqk3DavhGNkZLh+A5+JYa0gc8IOD3k4WFb99Z9XBZ/vURVfbH9JQSMjx3pUo6nOFaaYw7o/3nhSwemJsH81iTmey3gqmJ8lM45didC+Yb8dcSiojJUvVrElR7Itz3Wf4Yw4AoOWrSXRfiTccSK99IHZx43YOHeosy9Hho5CBwoVsS4bZLxZsIp/j4vDKW6w0vbLhAD46skcxkHOxysDO5kbpDL80Ug9Td3WU/Ppmv6c3eEmCVai4SSkSSaD7eciySD/iT8Zha25jYjhn26/hEF29eFd7FRm2NNyrPvWJMndLBm4oKHbMm3HFHX7sRSg1AcF6+p+rOlsU5Uy8LSUVPGofJLA;CvLyhSwBL8xbRuI1bGXwFQ=="
+secured: "e94lIvJ3bV2nwrcKn6lVvIIux5cedMG+udvrQ4ZlpYOz9pVTFWKl2J+j1h7+QZjEMBCT7M/tgEHjp/Exd1azu82RyY8oN6JM7fqrdlGdnDMnJjzsX7DfxbyaT4cyRwk7dWxWN56OCq0Fuz0SRcMXub/IZUe3waPQwwCfuQuo6WAAkHWQ7OfpwrmkdRI7Q7EDgYIcAFzO1k+n0nbSXK1OGI6RpYX1eKHqpJDJCVBWCpCrlcOBoOXGuAbhaPob/8yy0YELHtmhhuaI43HpEUMjdAU8Zmobg3iioE/sCX5OL7izJqjy9JLYVMBjp9Qk0iDbgUZri7dpwwfJvmRZqgnEnLXbunHQ6UgEhicNM96r8P7wGmrYjd5GdHlr3dfWY5ynLi/4gDsWG7D0InP0lWs1lkOJ3UnG2gngDYrShqUTI+70ozZL3mnRQIWoLxxTj4H+;0dAGjfp9Jsu8wbckSWI4xg=="
 ---
 

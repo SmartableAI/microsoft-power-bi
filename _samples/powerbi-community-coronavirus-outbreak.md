@@ -4,7 +4,7 @@ excerpt: "This dashboard visualizes the Coronavirus outbreak. The data is refres
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Coronavirus-Outbreak/m-p/914037
 type: download
 publishedDateTime: 2020-01-28T11:36:00Z
-heat: 54
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZDFhNDdkYTQtYWYzZi00MTBiLTllZmItODJhZjc1ODI1M2M4IiwidCI6IjUyMzU0N2M3LTlmOTYtNDVhNS05ZjA3LTFkYmQyMmM3ZTNhNiIsImMiOjh9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 1632
     isCached: true
 
-secured: "ewgap14s0JgSAfiKb88lGsw13vdbaINz/tqwJbjaycGFmuC4gic0AqTfDjXnvsDI3KvYArjdjTqRpd9n4V2onp0ruuxNxjDFSpV9al7sLQfsJcAhaxdY6TPHNMxW+6A6whlCOdODAqTW91pL0OV0sACNvg7s2CkxwOTS3fpvvgDnIK/oK9DM/SgN59sS3NBmJM1GbluX5+vohbItcaeHfVpUBpNjwMc4J1fIjFpQXaeCzos7PJRsRjZe2hkfz6rd51iFcPsj6yhC24VHfF0HFiQ7i4Xjumxh+nmx5zmd8/kshmtQHkC0zJRsKLTxdhoZuSf5KK+SlQ1T6bfDVWbAJKs9d+3v7Sv5x0LfQKp9R0FatTLOUReD5hgKwpvFQa8ZlcqjXDstd85tSn4q90a9eY5lxwyIRHhKzL6pI5HoGcI=;L7ZMG5cc6va5LzyhWNAWBQ=="
+secured: "9Afrl8Q9l/bG+hJf5WeDh2xwoRFaDYij0dT98Zj8AnRdO+MTR8lbLUkKprKAvPdk1tppM+3ZuVcF6xaCPFSkpU3wGvzH5Co/6Fwn+iJPAZ+EWTNQUMyag6nlGq74HBIony6+NBZ6Fe0tU287R0zn8TerWxC6H/zTr+a7O9DJhKS3iqeFqkJdBS2Q4ftY/bxtkisU4DJu0w8dTqMAX9mWlLlQoPVhogNc3Qm4z1DweQOsgNeo47swybkLB2gMCqNrpwOr8C+68cqXlJ9v9YKc7OYD9tie8RhPh27lMdCROPiWidRHGWEaFMMF+Ih6KUNuG1bTbXoRfaunrmnHVXx8HnXuFXQ+UyQWidl9VL+Aqiox5t1I8jQwDNZ5JTDNmKKNG2NBza8YrnvfROnr+UjyKI8aUxkS8NJdZFhS4o2R9ZxvEcXLI2wk7i78kLIiSTq0;uNK0kLxEslki/1LX8iMP2A=="
 ---
 

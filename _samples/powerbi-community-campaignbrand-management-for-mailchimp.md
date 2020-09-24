@@ -4,7 +4,7 @@ excerpt: "Solved: This Power BI demonstration is provided as an example of how a
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Campaign-Brand-Management-for-MailChimp/m-p/235868
 type: download
 publishedDateTime: 2017-08-22T00:55:00Z
-heat: 53
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiM2VjOTQzY2UtYmRhZC00ODVjLTlkMDYtZTU3NTBkYWI3ZDc0IiwidCI6IjhmZWYxOTVjLWVmMzQtNDk1MS1hYjVkLTQ0NzYyM2I5Mzc5YiJ9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 768
     isCached: true
 
-secured: "ZOYUeWvh3BD34sRagY/n2XFSYnyTY66WYsgz0WZvA/cjK1gIiFnqWuX5Mq+74wL+Dzk9LIaIXV3hJxA2p8erXHCVg1drPD42BTLSPbDu3eWB8pnoP70bVI3UD9ABmG88Z2BFng1WL1f3MxjrUJjPg1REyxHy3t5JrRqlhsyrKYvteFYznOSn/v6uZcMTeimUYStcTVxEtSPuj+Aj73sWCICUbYvB8PGmlSFH1qyRERG1lTcQb29KZOsHden5S+QXCmJdN7LsJXXT0IBQrxytgwZ9maii74aatyFE7d71pTFYnC1PhvUnLfvKMEqLlt93EuAe9tm7E0q5XSuP2d1AgA4n1QckYxAx3KnshhYij5vkXT0x4CCTvO1iQ5FQl2EXUha1yqoUEw9w9pgPHKxdFmdwzZJbzK6xvF/S0IBg1I4=;l6SckmdaBd8KMMwbVAfRMw=="
+secured: "/wAqwvQnPiJozUareJ7u308xCBeS1u0k0HjMRnn14GmblpVPijDGUtTsPGv1mKayY1wpqgZOn1xP9oKuMUYmcLxrYhgMCP6Vx/1D7kpR045VlTOoEzKSHk3gg/cObwQMf0hAJuF796JtJZXPFAStoIk6crnD7ud3d8Xmq7CgEVXJ87pNPYmgOrwHIfJYgytlYUFwGIJmHK2gkXiAX2mDRuQ2z6rM/vcoHBm33t4naJum56YZk2Vi491ROcSzYw1MAWbgzcx6PhJiLBzt/VPLSXhDWZw8PL2J6AD2nVmgmqMN/BsIb3Uub34oejsRYfJMp4MKD8v0KgJwApWzvRCYpUdj5ZH9r105kVLUB51GPHmHQoH6RVOfKIH6vk7UXiXar7z90P+b/jX7Fbikl1TNnsWLkTpVSVGfKXUMKEbKBtdsTy0RUUUPdbuPfqiy7TSh;vSr1WkxB0fxOhUgjEN9myg=="
 ---
 
