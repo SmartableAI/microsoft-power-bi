@@ -2,6 +2,7 @@
 title: "Power BI Publish to Web can be SCARY!?!"
 excerpt: "Some don't realize that Power BI Publish to Web is not secure. Adam shows you that this is the case. It's a bit scary and there are other options to have secure embedding.  Two Alex's Video - https://www.youtube.com/watch?v=S3tWcCcZilw  Patrick's SharePoint video - https://www.youtube.com/watch?v=Kevw0PFnFD8"
 originalUrl: https://youtube.com/watch?v=gJFKFnOd-hU
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-power-bi-publish-to-web-can-be-scary/
 type: video
 price: Free
 length: PT6M43S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "gftvgUv1qUArr80OVngioDYtVK+YtpDNCOlj628L83u+AXxv5R4V5N9+6V/bvfJAaf75xsDc4r6op3sPaveL3jVs1AdZNQ6IBQG+7mEP9uh1MYjeUBfU6g9ZBYH8+RTz4Ld+vGaWQKq/+BThMvNfCXcONxt2oI42g29+odsI9oJl1A7MrKWKlO/pC+qf6vQUfoa1nlWdBej4uxD9MN2txWc25aIXG2ISPV37kOdoNInokdY5E4MLZ3CcMh2Fl2Ak3XEdtx2LUO9feYOa9TLR3Rttlf6AS6+cBPj0Pr2NioP0Nd5fnCs3e91zBh2afRjA+jRAR7krVeg1PaXieX81XZopukt012sYKD+4My6g3zFBT/vtEQCFQWBZAoZM/UKOA0yHYKlBRWz4ug6kqrUESQ==;9H+wNA0/+CTJYm9dmCdDKw=="
+secured: "khVrnvyJWO81JyS8/YISvUT06hPJ+J9AdqEEzEUWuwodJDSP460y5rxNCiwiN+3dXWb1YrD3vy3gxSIsEz9I/dCunWfCUwK/EvDcPMrc8dAHIGibgZxX+BRdT8okIqRTaiky8uMBMe6UrU6+Ivt3HhUec3UU8iAdek54Eum/CeuDmIvrEosNXKMxzo4Er3IekezoJz63G7iU5FIgIulGn/HptiwLmr/gCB4XhTR471H8NsGjkYufCZjuQerZNu1pC86CcE2uy7qaTFC+S+aOZcoztPi8IwmrQ0R8OCcNXi01XR/fqwn42rkH9CS2cbk+oJXZJ6+tEp7G5ZRwaSwrjydKACaZAaydp0Cmtgah4m9Un7Jo5mgFuKfW6C2DEixZ;JTG21Nnc/EcsQHPzp1hdYQ=="
 ---
 
