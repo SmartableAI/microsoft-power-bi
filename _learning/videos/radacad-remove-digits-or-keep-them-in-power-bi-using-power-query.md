@@ -16,6 +16,7 @@ provider:
 
 topics:
   - Power BI
+  - Power Query
 
 images:
   - url: https://i.ytimg.com/vi/pZVS3O-4Jb4/hqdefault.jpg

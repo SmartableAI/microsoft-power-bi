@@ -16,6 +16,7 @@ provider:
 
 topics:
   - Power BI
+  - DAX
 
 images:
   - url: https://i.ytimg.com/vi/VjTJp2XhN1A/hqdefault.jpg

@@ -20,6 +20,7 @@ provider:
 
 topics:
   - Power BI
+  - Power Query
 
 images:
   - url: https://i.ytimg.com/vi/BC_H6tJsxX0/maxresdefault.jpg

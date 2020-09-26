@@ -16,6 +16,7 @@ provider:
 
 topics:
   - Power BI
+  - Dataflows
 
 images:
   - url: https://i.ytimg.com/vi/M7dkx6uW4u4/maxresdefault.jpg

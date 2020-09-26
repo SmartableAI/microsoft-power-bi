@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT1H15M
 ratings:
-  count: 13067
-  average: 4.693426
+  count: 13069
+  average: 4.6933966
 heat: -2147483598
 
 provider:
@@ -23,6 +23,7 @@ levels:
 
 topics:
   - Power BI
+  - Power BI Desktop
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/get-data-power-bi-desktop-social.png

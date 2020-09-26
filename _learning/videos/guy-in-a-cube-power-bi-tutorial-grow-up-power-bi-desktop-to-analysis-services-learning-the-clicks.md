@@ -20,6 +20,7 @@ provider:
 
 topics:
   - Power BI
+  - Power BI Desktop
 
 images:
   - url: https://i.ytimg.com/vi/0V8Y8g6CS-o/maxresdefault.jpg

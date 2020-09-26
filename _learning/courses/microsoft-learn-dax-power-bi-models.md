@@ -23,6 +23,7 @@ levels:
 
 topics:
   - Power BI
+  - Power BI Desktop
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/dax-power-bi-models-social.png

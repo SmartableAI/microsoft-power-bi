@@ -20,6 +20,7 @@ provider:
 
 topics:
   - Power BI
+  - DAX
 
 images:
   - url: https://i.ytimg.com/vi/Ao4ov36slic/maxresdefault.jpg

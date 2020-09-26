@@ -23,6 +23,8 @@ levels:
 
 topics:
   - Power BI
+  - Power BI Desktop
+  - DAX
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/use-dax-iterator-functions-power-bi-desktop-social.png

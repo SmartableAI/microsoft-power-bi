@@ -21,6 +21,7 @@ provider:
 topics:
   - Power BI
   - DAX
+  - Power BI Desktop
 
 images:
   - url: https://i.ytimg.com/vi/MVuEzcK0Rag/maxresdefault.jpg
