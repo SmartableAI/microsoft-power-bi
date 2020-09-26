@@ -202,31 +202,23 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-incremental-refresh-with-integers-in-power-bi.md",
-      "title": "Incremental Refresh with Integers in Power BI",
-      "excerpt": "How do you use integer date keys with Incremental Refresh in Power BI??? Patrick walks you through how to do it.  Documentation: https://docs.microsoft.com/power-bi/admin/service-premium-incremental-refresh  Download Sample: https://guyinacu.be/increfreshsample  📢 Become a member: https://guyinacu.be/membership",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-incremental-refresh-with-integers-in-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-incremental-refresh-with-integers-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=wjdMARaedcU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wjdMARaedcU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M32S",
+      "path": "_learning/videos/absent-data-channel-create-dynamic-personal-greetings-in-dax.md",
+      "title": "Create Dynamic Personal Greetings in DAX",
+      "excerpt": "Learn how to ultilze variables, the SWITCH Function, and LOOKUPVALUE to create a dynamic personal greeting on each report that could make someone's day",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/absent-data-channel-create-dynamic-personal-greetings-in-dax/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/absent-data-channel-create-dynamic-personal-greetings-in-dax/",
+      "originalUrl": "https://youtube.com/watch?v=ctT0UKMeTbs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ctT0UKMeTbs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M15S",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Absent Data Channel",
+        "domain": "absentdata.com"
       },
-      "publishedDateTime": "2020-07-08T08:00:17-07:00",
-      "heat": 111,
+      "publishedDateTime": "2020-08-02T20:29:49-07:00",
+      "heat": 110,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/wjdMARaedcU/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ctT0UKMeTbs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -235,7 +227,8 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI"
+        "Power BI",
+        "DAX"
       ]
     },
     {
@@ -266,6 +259,35 @@
       "topics": [
         "Power BI",
         "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-life-of-a-power-bi-pro-good-bad-ugly-power-on-show-with-charles-avi-talkpowerbi-live.md",
+      "title": "Life of a Power BI Pro: Good, Bad & Ugly: Power On Show with Charles & Avi 🔴TalkPowerBI LIVE",
+      "excerpt": "So what does the life of a Freelance/Independent Power BI Professional look like? We often get asked this question and today, we are here to share candidly everything you want to know. We'd not hold back and share the good, the bad & the ugly. Join us to learn what our life looks like? Day to day and",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-life-of-a-power-bi-pro-good-bad-ugly-power-on-show-with-charles-avi-talkpowerbi-live/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-life-of-a-power-bi-pro-good-bad-ugly-power-on-show-with-charles-avi-talkpowerbi-live/",
+      "originalUrl": "https://youtube.com/watch?v=j9DrDPMq6eo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/j9DrDPMq6eo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H31M31S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2020-07-17T11:07:21-07:00",
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/j9DrDPMq6eo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     },
     {
@@ -975,118 +997,6 @@
       "publishedDateTime": "2020-09-17T07:52:16-07:00",
       "heat": 75,
       "type": "article",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-power-bi-paginated-reports-in-a-day.md",
-      "title": "Power BI Paginated Reports in a Day",
-      "excerpt": "The Power BI Paginated Reports in a Day online course aims to empower you as a report author with the technical knowledge required to create, publish, and distribute Power BI paginated reports. We recommend you watch the videos in the recorded sequence, starting with video 1 and ending with video 24.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/collections/microsoft-power-bi-paginated-reports-in-a-day/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/collections/microsoft-power-bi-paginated-reports-in-a-day/",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topItems": [
-        {
-          "path": "",
-          "title": "Power BI Paginated Reports in a Day - 01: Welcome and Course Introduction",
-          "excerpt": "In this video, Peter Myers (Microsoft Most Valued Professional - Data Platform, and course developer), Chris Finlan (Principal Program Manager), and special guest Paginated Report Bear (Course Morale Manager) welcome and introduce you to the course, its outline and the course demo scenario.  The Power",
-          "heat": 63,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/DN1t5p9aui0/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "title": "Power BI Paginated Reports in a Day - 01: Welcome and Course Introduction",
-              "isCached": true
-            }
-          ],
-          "type": "video",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Power BI Paginated Reports in a Day - 02: Power BI Reporting - Part 1",
-          "excerpt": "In this video, we introduce Power BI, and contrast Power BI reporting with paginated reporting.  The Power BI Paginated Reports in a Day online course aims to empower you as a report author with the technical knowledge required to create, publish, and distribute Power BI paginated reports. We recommend",
-          "heat": 63,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/s6Amctk3Z_g/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "title": "Power BI Paginated Reports in a Day - 02: Power BI Reporting - Part 1",
-              "isCached": true
-            }
-          ],
-          "type": "video",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Power BI Paginated Reports in a Day - 03: Power BI Reporting - Part 2",
-          "excerpt": "In this video, we demonstrate viewing two reports, one a Power BI report, and the other a paginated report.  The Power BI Paginated Reports in a Day online course aims to empower you as a report author with the technical knowledge required to create, publish, and distribute Power BI paginated reports.",
-          "heat": 68,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/jXTiYJKw1Rs/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "title": "Power BI Paginated Reports in a Day - 03: Power BI Reporting - Part 2",
-              "isCached": true
-            }
-          ],
-          "type": "video",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Power BI Paginated Reports in a Day - 04: Designing Report Layouts - Part 1",
-          "excerpt": "In this video, we introduce Report Builder, and describe a general development methodology.  The Power BI Paginated Reports in a Day online course aims to empower you as a report author with the technical knowledge required to create, publish, and distribute Power BI paginated reports. We recommend you",
-          "heat": 59,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/EjHANN3rGNs/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "title": "Power BI Paginated Reports in a Day - 04: Designing Report Layouts - Part 1",
-              "isCached": true
-            }
-          ],
-          "type": "video",
-          "topics": [
-            "Power BI"
-          ]
-        }
-      ],
-      "size": 24,
-      "heat": 75,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DN1t5p9aui0/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": "Power BI Paginated Reports in a Day - 01: Welcome and Course Introduction",
-          "isCached": true
-        }
-      ],
-      "type": "collection",
       "topics": [
         "Power BI"
       ]
