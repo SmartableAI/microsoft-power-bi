@@ -15,4 +15,9 @@ provider:
 
 topics:
   - Power BI
+
+images:
+  - url: https://pbs.twimg.com/profile_banners/819311260546252800/1596811806/1500x500
+    width: 1280
+    height: 720
 ---

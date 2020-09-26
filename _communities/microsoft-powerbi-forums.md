@@ -15,4 +15,10 @@ provider:
 
 topics:
   - Power BI
+
+images:
+  - url: https://community.powerbi.com/t5/image/serverpage/image-id/356571i2B381C43C85E7997/image-size/large/is-moderation-mode/true?v=1.0&px=999
+    width: 1280
+    height: 720
+  
 ---
