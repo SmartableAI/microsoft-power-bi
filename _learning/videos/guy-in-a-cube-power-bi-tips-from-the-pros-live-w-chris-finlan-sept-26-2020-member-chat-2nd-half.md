@@ -2,6 +2,7 @@
 title: "🔴 Power BI tips from the Pros - LIVE /w Chris Finlan (Sept 26, 2020) (Member Chat 2nd Half)"
 excerpt: "Join us live as we answer your questions about Power BI! With special guest, Chris Finlan! Get your Power BI Premium per User questions and of course anything else Power BI related.  Connect with Chris: Twitter: https://twitter.com/cmfinlan YouTube: https://www.youtube.com/user/cfinlan Blog: https://christopherfinlan.com/"
 originalUrl: https://youtube.com/watch?v=6DOUHWlorCE
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-power-bi-tips-from-the-pros-live-w-chris-finlan-sept-26-2020-member-chat-2nd-half/
 type: video
 price: Free
 length: PT1H12M22S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "oQndvKvooK+cOPO9fDfOdb745IROJNTGkdzT27jrNAwJU6wszZkkIHsEbRRGaRlX5PLHFMo2X5tPPzULUnSxS3fOHR3s081ng1g9TpLYzv6HdOUAp/z4YbMFSzZBkXJVJWJF9deNpJY/vQuNG/5Ec3VnI6mKQbl/u9Xdq4QCmnto7lEyKgWmfzYuUKJ+dQi5PlMI2gzcJ+DtgyiNY2P+zv2JaC96PnJLk8VVtR2LIxFcUWvupRiaAriHpC6Cb/dhfdy7nWZ9EqhcCUJiU5ZY6DjWhsa8M7i+uecBQ31qTU7D6QJkxWjFHQ9u+yoK/mmmGnEzV2lddTnvnLWoHTAWWWMOIWWz/xCCQvVOOB4CIqUMFV6nCDi+tXQgd+V8HK4Gh3nyHQEiy0OrYEvSahTjag==;O7511FW4H5Z+P3U/eKDUow=="
+secured: "po8PKoPsiv6jmIqTWRBQXcy4zMwBEs7u1i1u7PzEQFC4sZAiepyu73AS/XZDM1LUbviTsyRVROSVbkNYGjkx6r6ws4pJ42i45wv4sn/HKCA0wpBGOaakuyfEIUim3t3UE30yFkhdIiJm9Pi7lCMt+QMfVjKcF0nl+JT+rR48Zt+D3aK26nHzFZOhY1/iRKikt9LxPJ+TPOog4wwkfWxY0c7ApHWfYY2acDxVZ3nmulSH/xU8+9xjEQtuMx4LnSOMBeRrvEZ/jirC0JwsjFZSejRtm9F0dtACBZl+aGfWjno8HG9TNieyJAafMa7/UGECcdYQVga8hrhTstix8wOOdLZxfwPgqSFJlXWuFwTDXjDJSmK7rKz659LJCLcAyq9fsubu9fusiASFWWAL9tFE6w==;DjZMi5DFRxDC+V9v4ZwedA=="
 ---
 
