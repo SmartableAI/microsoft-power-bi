@@ -802,7 +802,7 @@
       "originalUrl": "https://youtube.com/watch?v=6dpqPc4Fobs",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6dpqPc4Fobs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "highlight": null,
-      "heat": 137,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -840,7 +840,8 @@
         "news"
       ],
       "topics": [
-        "Power BI"
+        "Power BI",
+        "DAX"
       ]
     },
     {
@@ -903,7 +904,7 @@
       "originalUrl": "https://youtube.com/watch?v=bBv-AUXYDVw",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bBv-AUXYDVw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "highlight": null,
-      "heat": 133,
+      "heat": 150,
       "tags": null,
       "images": [
         {
@@ -941,7 +942,8 @@
         "news"
       ],
       "topics": [
-        "Power BI"
+        "Power BI",
+        "DAX"
       ]
     },
     {
@@ -1144,7 +1146,7 @@
       "originalUrl": "https://youtube.com/watch?v=roHDRafGIXQ",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/roHDRafGIXQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "highlight": null,
-      "heat": 137,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -1182,7 +1184,8 @@
         "news"
       ],
       "topics": [
-        "Power BI"
+        "Power BI",
+        "Power BI Desktop"
       ]
     },
     {
