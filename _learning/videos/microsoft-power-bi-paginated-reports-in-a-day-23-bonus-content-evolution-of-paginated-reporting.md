@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Power BI Paginated Reports in a Day - 23: Bonus Content: Evolution of Paginated Reporting"
 
-secured: "je1zfezGeAsbFokxZU5p8O6HeFoilvecFVeSx86sMS/2mTqf/9Y/ohYXhecFdODA0qYG8m2bIDH+6xy/nV1WQaWeeHH4x3JPPS3lygkrsX8iZgUuQOuXyCYWFcIyKt1fV+WEn/PqMTjAtNaW7QONDfkxE/KfitVv+o8Dioa5K+RDU3Lhr5W/1RNJOZHFsZZe4PwRFer/09gLgP29z6Pye1Ba47UU97vKKtc4cO1KO2oekrLn5BO1tgtPLrD3/SEeb30HVCp9xi/J3RztHGiVYdidNo86+1oTVDdWolQ2SaunvmLTDX6LXbaulrrS3XD/XENY1pfuGz1LXtkd74Ye0JUZSG3Wmov6UyImmr2fneq4/C4+B9/+lU8yp50HDEoGKw08QUZIbmqPYZW4b9v7HtbFl/gr6N919fuWNNRG7Z4=;+uteUcVe5go2inNBmHmRyQ=="
+secured: "9e2N8DbufVZcqFwkUFYnqLSK1elj6MqYOcEiq29jVMPYrGQaonMRkYGhuLd/peAjHUroUQg1qUZkBnbFGjkxYUHO7Q402YlenOLWhkBl+C0vSjOFGDPnpLwoDxwak4kccq0mCaCOCmpB5hby1dCGDZnzOeXKtyaldUZzTjVM/EpbZx1k6MvWr+mXBZryaI4utZVhR1F2HlFWboZHpZqdk0HwTJVy2RjogfBAfOjZvLctv8KS+OjB97cfg5KLh9BsnCA9ETfHM3GuIQvj2JLcaUgbDIIU3nhCY9271AvUFosBQkzEyvjCzFxWoK/fYpd83p92L+gWYSjoOUEdTdOTfER0rF0XEf1yWlVb/tsLIeLgPyZGMz+iyb/SVrNV+5U2Qse8NC/xYGYyM5qPBF9JJP4g3FpiQoGofC6/dx+UFSE=;3146MnZ8chofUYlXspyM4g=="
 ---
 
