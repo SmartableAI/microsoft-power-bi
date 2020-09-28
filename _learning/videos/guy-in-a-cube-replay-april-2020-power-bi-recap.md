@@ -7,6 +7,8 @@ price: Free
 length: PT1H9M55S
 publishedDateTime: 2020-04-25T15:45:31Z
 heat: 50
+removed: true
+published: false
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BQldmEM0gNM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
