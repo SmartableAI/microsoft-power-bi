@@ -4,7 +4,7 @@ excerpt: "I&#8217;m happy to launch my new &#8220;Kasper On BI&#8221; show. At K
 webUrl: https://www.kasperonbi.com/launching-kasper-on-bi-youtube-and-podcast-for-everything-power-bi-and-analytics/
 type: article
 publishedDateTime: 2020-09-21T14:27:33Z
-heat: 130
+heat: 80
 
 provider:
   name: Kasper On BI
