@@ -4,6 +4,39 @@
   "page": 4,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-design-data-model-power-bi.md",
+      "title": "Clean, transform, and load data in Power BI",
+      "excerpt": "Learn how to clean, transform, and load data in Power BI.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-design-data-model-power-bi/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-data-model-power-bi/",
+      "length": "PT2H1M",
+      "ratings": {
+        "count": 85,
+        "average": 4.717647
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 59,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/absent-data-channel-append-and-merge-tables-in-power-bi.md",
       "title": "Append and Merge Tables in Power BI",
       "excerpt": "Learn how to quickly merge and append tables using the query editior in Power BI. Build models with multiple data sources. Contact me on LinkedIn: www.linkedin.com/in/gaelimholland",
@@ -191,8 +224,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-manage-workspaces-power-bi/",
       "length": "PT29M",
       "ratings": {
-        "count": 239,
-        "average": 4.740586
+        "count": 240,
+        "average": 4.741667
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -370,8 +403,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/data-driven-story-power-bi/",
       "length": "PT1H44M",
       "ratings": {
-        "count": 324,
-        "average": 4.6141977
+        "count": 327,
+        "average": 4.617737
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -712,8 +745,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 239,
-            "average": 4.740586
+            "count": 240,
+            "average": 4.741667
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -753,8 +786,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 204,
-            "average": 4.5686274
+            "count": 205,
+            "average": 4.5707316
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -794,8 +827,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 231,
-            "average": 4.683983
+            "count": 232,
+            "average": 4.6853447
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -935,8 +968,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/manage-datasets-power-bi/",
       "length": "PT32M",
       "ratings": {
-        "count": 204,
-        "average": 4.5686274
+        "count": 205,
+        "average": 4.5707316
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -976,8 +1009,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/row-level-security-power-bi/",
       "length": "PT9M",
       "ratings": {
-        "count": 231,
-        "average": 4.683983
+        "count": 232,
+        "average": 4.6853447
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1161,39 +1194,6 @@
       "ratings": {
         "count": 306,
         "average": 4.6568627
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 55,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-work-with-requirements.md",
-      "title": "Work with requirements as a solution architect for Power Platform and Dynamics 365",
-      "excerpt": "It is important to capture the customer’s needs accurately. This module explains how to capture requirements and identify functional and non-functional items.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-work-with-requirements/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/work-with-requirements/",
-      "length": "PT23M",
-      "ratings": {
-        "count": 272,
-        "average": 4.727941
       },
       "provider": {
         "name": "Microsoft Learn",
