@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/visuals-power-bi/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 409,
-        "average": 4.667482
+        "count": 410,
+        "average": 4.6682925
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -111,7 +111,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 56,
+      "heat": 116,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/create-dashboards-power-bi-social.png",
