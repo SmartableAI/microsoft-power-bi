@@ -29,7 +29,7 @@
       "levels": [
         "Advanced"
       ],
-      "heat": 61,
+      "heat": 50,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/becoming-solution-architect-social.png",
@@ -70,7 +70,7 @@
       "levels": [
         "Advanced"
       ],
-      "heat": 58,
+      "heat": 51,
       "type": "course",
       "price": "Free",
       "topics": [
@@ -103,7 +103,7 @@
       "levels": [
         "Advanced"
       ],
-      "heat": 55,
+      "heat": 51,
       "type": "course",
       "price": "Free",
       "topics": [
@@ -136,7 +136,7 @@
       "levels": [
         "Advanced"
       ],
-      "heat": 55,
+      "heat": 51,
       "type": "course",
       "price": "Free",
       "topics": [
@@ -169,7 +169,7 @@
       "levels": [
         "Advanced"
       ],
-      "heat": 57,
+      "heat": 50,
       "type": "course",
       "price": "Free",
       "topics": [

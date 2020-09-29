@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT6M8S
 publishedDateTime: 2018-04-10T16:10:23Z
-heat: 78
+heat: 90
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7iUqMA2Y6xA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "What is Power BI?"
 
-secured: "GP1GVhdBo3PbChMglRcNY3jaC0DPhEtrmhljtFREEddAWv5mCd+b2X/ZpuEhhDryTdpLEn2v1wxXb6T8t/kOEDvD0q25i46JDsOl6hMNlruyvxM/YafHdcOBQ9M3Winu1GG8rVagq/lZebrLSzj+RK/WwpIPukYdnJQfEUQgGcfw3yfd37QIwL/lVb2ZUKh+EDN0EJ83YgURJgeq2RYDVW3dudvJb+sEydhQGryLzpS7K+2D+ZO0tUU9s7/OL9FOU5icB9xhmTApKC75T/HmHO9jMzC2uWw/fPcVG+CWJ9McjXSm4WpocmWs/dImB2q9GpHPbQ5qrTpIUY+fThME2Lna7yftIeBe5WACCcPgqD/dxgHwFpe4bkCnLFsmqaYLdQmJHxDmN5ttLla7M9Sw+qfCmLXH7+nVBaz3m+h645vea7hF0ojJHmqI0u1ngo6L;5QyDhrWlvK5eZ2NDi9hJrA=="
+secured: "iX64y2UnMnl9W8QcsMLzejMk4rAdazps7RiYKnV6oiR+TlU12SXltHTqRiHWrO79Q0s3rwM/YaDvlzjGwMdsm5RuoV5uTx+e0jMSgah4YLfuXprbiyRQywJPhncpM3x0KbdiKy2tIMlQa69t0uXVjST2h8kE61Xp5UZtJ4KYMjMe/L9jcQoTY/ADvKiHUf5GRIqofUi8elqyytDUSkTBpYzPZxP/o9w0UEMSJcFe7EzsPP5q8Px7Bn54Mo6/ytHLXArQueKYJWA0v+eiS1kd/Sh+qJkKOBGGlGEqP9SfLq0q3bzitRQaGXwDr3MuHLkpFXR+/stRoAiLPqoWQb8pRkVOPrDdAbIdn7lWQ+NjnvAefb+0qylum/ejV1ZETse8sko0quRxHc0SqIHcahYHDjCQaQXz/UNuLDf7Jg30IhQGgU9uQCv8avc+scFCpITd;p+aThjuiXQPjuXDivL5zRA=="
 ---
 
