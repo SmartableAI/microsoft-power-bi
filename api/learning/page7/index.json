@@ -711,8 +711,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-paginated-reports-power-bi/",
       "length": "PT60M",
       "ratings": {
-        "count": 313,
-        "average": 4.71246
+        "count": 314,
+        "average": 4.7133756
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -752,8 +752,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/dax-power-bi-add-measures/",
       "length": "PT13M",
       "ratings": {
-        "count": 89,
-        "average": 4.6067414
+        "count": 90,
+        "average": 4.6
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -794,8 +794,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/dax-power-bi-write-formulas/",
       "length": "PT27M",
       "ratings": {
-        "count": 149,
-        "average": 4.6644297
+        "count": 152,
+        "average": 4.6644735
       },
       "provider": {
         "name": "Microsoft Learn",
