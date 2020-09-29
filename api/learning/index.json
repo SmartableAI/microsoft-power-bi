@@ -122,8 +122,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/introduction-power-platform/",
       "length": "PT18M",
       "ratings": {
-        "count": 11917,
-        "average": 4.704204
+        "count": 11926,
+        "average": 4.704176
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -309,14 +309,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-is-your-power-bi-visualization-misleading.md",
-      "title": "Is your Power BI visualization misleading?",
-      "excerpt": "Your Power BI visualization should communicate accurate information. However, you may be misleading your audience. Take care in what you are putting on your reports.  Download Sample: https://guyinacu.be/misleadingvisualsample  📢 Become a member: https://guyinacu.be/membership   *******************",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-is-your-power-bi-visualization-misleading/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-is-your-power-bi-visualization-misleading/",
-      "originalUrl": "https://youtube.com/watch?v=WdGSFwDDJAE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WdGSFwDDJAE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M18S",
+      "path": "_learning/videos/guy-in-a-cube-how-do-you-use-rls-with-power-bi-embedded.md",
+      "title": "How do you use RLS with Power BI Embedded???",
+      "excerpt": "Are you using Power BI Embedded and not sure how to implement Row-Level Security (RLS)? Adam shows you how!  Power BI Embedded Doc: https://docs.microsoft.com/power-bi/developer/embedded/embedded-row-level-security  Power BI Embedded Playground: https://microsoft.github.io/PowerBI-JavaScript/demo/  GitHub",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-how-do-you-use-rls-with-power-bi-embedded/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-how-do-you-use-rls-with-power-bi-embedded/",
+      "originalUrl": "https://youtube.com/watch?v=yNF-_l2f7w0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yNF-_l2f7w0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M50S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -329,11 +329,11 @@
           }
         ]
       },
-      "publishedDateTime": "2020-08-06T08:00:11-07:00",
-      "heat": 111,
+      "publishedDateTime": "2020-07-09T08:00:28-07:00",
+      "heat": 116,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/WdGSFwDDJAE/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/yNF-_l2f7w0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -346,25 +346,33 @@
       ]
     },
     {
-      "path": "_learning/videos/absent-data-channel-split-and-merge-columns-in-power-bi.md",
-      "title": "Split and Merge Columns in Power BI",
-      "excerpt": "In this section we will mege columns and split columns to do a depper level of analysis",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/absent-data-channel-split-and-merge-columns-in-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/absent-data-channel-split-and-merge-columns-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=ZqCybBeLSKI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZqCybBeLSKI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M1S",
+      "path": "_learning/videos/guy-in-a-cube-omg-a-cpu-spike-on-my-power-bi-premium-capacity-what-now.md",
+      "title": "OMG a CPU Spike on my Power BI Premium capacity! What now???",
+      "excerpt": "You notice a CPU spike on your Power BI Premium capacity. OMG what do you do?!? Calm down, we tell you what to consider.  Optimizing Premium capacities: https://docs.microsoft.com/power-bi/admin/service-premium-capacity-optimize  📢 Become a member: https://guyinacu.be/membership   *******************",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-omg-a-cpu-spike-on-my-power-bi-premium-capacity-what-now/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-omg-a-cpu-spike-on-my-power-bi-premium-capacity-what-now/",
+      "originalUrl": "https://youtube.com/watch?v=Im2HTkG-J7M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Im2HTkG-J7M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M59S",
       "provider": {
-        "name": "Absent Data Channel",
-        "domain": "absentdata.com"
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2020-07-26T06:01:35-07:00",
+      "publishedDateTime": "2020-07-07T08:00:06-07:00",
       "heat": 110,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/ZqCybBeLSKI/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
+          "url": "https://i.ytimg.com/vi/Im2HTkG-J7M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
@@ -405,8 +413,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 3210,
-            "average": 4.7542057
+            "count": 3212,
+            "average": 4.753736
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -446,8 +454,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 19382,
-            "average": 4.730781
+            "count": 19386,
+            "average": 4.7307334
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -504,8 +512,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 19382,
-        "average": 4.730781
+        "count": 19386,
+        "average": 4.7307334
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -875,8 +883,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/connect-analyze-dynamics-365-data/",
       "length": "PT57M",
       "ratings": {
-        "count": 1532,
-        "average": 4.6879897
+        "count": 1537,
+        "average": 4.687703
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -939,8 +947,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 19382,
-            "average": 4.730781
+            "count": 19386,
+            "average": 4.7307334
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1114,35 +1122,6 @@
       ]
     },
     {
-      "path": "_learning/videos/learn-power-bi-can-power-bi-transform-your-life-at-40-or-20-or-60-poweron-show-with-charles-avi-talkpowerbi.md",
-      "title": "Can Power BI Transform Your Life at 40? (Or 20 or 60?) #PowerOn Show with Charles & Avi 🔴TalkPowerBI",
-      "excerpt": "Both Charles and I, transformed our lives around 40 years of age. Power BI played a key role and leaving our jobs was a crucial step. But our transformation was a bit deeper than that. We want to share our journey with you, but also ask the important question...is there really a right age to transform",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-can-power-bi-transform-your-life-at-40-or-20-or-60-poweron-show-with-charles-avi-talkpowerbi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-can-power-bi-transform-your-life-at-40-or-20-or-60-poweron-show-with-charles-avi-talkpowerbi/",
-      "originalUrl": "https://youtube.com/watch?v=NM2DCToep4M",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NM2DCToep4M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H6M6S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2020-09-18T10:44:30-07:00",
-      "heat": 85,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/NM2DCToep4M/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/learn-power-bi-connect-power-bi-to-sharepoint-list-sharepoint-folder-sharepoint-excel-file-.md",
       "title": "Connect Power BI to SharePoint List, SharePoint Folder, SharePoint Excel File 🔌",
       "excerpt": "Let me show you how you can connect Power BI to  00:20 SharePoint Folder 05:32 SharePoint Excel File 07:26 SharePoint List   ================================ 👉 FREE Power BI Step-by-Step Tutorial http://web.learnpowerbi.com/tutorial 👉 Download Accompanying PBIX Files for Video at https://web.learnpowerbi.com/download/",
@@ -1201,6 +1180,35 @@
       ]
     },
     {
+      "path": "_learning/videos/learn-power-bi-can-power-bi-transform-your-life-at-40-or-20-or-60-poweron-show-with-charles-avi-talkpowerbi.md",
+      "title": "Can Power BI Transform Your Life at 40? (Or 20 or 60?) #PowerOn Show with Charles & Avi 🔴TalkPowerBI",
+      "excerpt": "Both Charles and I, transformed our lives around 40 years of age. Power BI played a key role and leaving our jobs was a crucial step. But our transformation was a bit deeper than that. We want to share our journey with you, but also ask the important question...is there really a right age to transform",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-can-power-bi-transform-your-life-at-40-or-20-or-60-poweron-show-with-charles-avi-talkpowerbi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-can-power-bi-transform-your-life-at-40-or-20-or-60-poweron-show-with-charles-avi-talkpowerbi/",
+      "originalUrl": "https://youtube.com/watch?v=NM2DCToep4M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NM2DCToep4M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H6M6S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2020-09-18T10:44:30-07:00",
+      "heat": 82,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/NM2DCToep4M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-data-analytics-microsoft.md",
       "title": "Discover data analysis",
       "excerpt": "Would you like to explore the journey of a data analyst and learn how a data analyst tells a story with data? In this module, you will explore the different roles in data and learn the different tasks of a data analyst.",
@@ -1208,8 +1216,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 3210,
-        "average": 4.7542057
+        "count": 3212,
+        "average": 4.753736
       },
       "provider": {
         "name": "Microsoft Learn",

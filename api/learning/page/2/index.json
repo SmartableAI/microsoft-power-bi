@@ -101,149 +101,6 @@
       ]
     },
     {
-      "path": "_learning/collections/absent-data-channel-power-bi-skills-that-everyone-should-learn.md",
-      "title": "Power BI Skills that Everyone Should Learn",
-      "excerpt": "Master quick and easy tips to ensure you become the most efficient data analyst with Power BI",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/collections/absent-data-channel-power-bi-skills-that-everyone-should-learn/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/collections/absent-data-channel-power-bi-skills-that-everyone-should-learn/",
-      "provider": {
-        "name": "Absent Data Channel",
-        "domain": "absentdata.com"
-      },
-      "topItems": [
-        {
-          "path": "_learning/videos/absent-data-channel-conditional-columns-in-power-bi.md",
-          "title": "Conditional Columns in Power BI",
-          "excerpt": "This is part 2 of the series please make sure you watch the first part of this video to see how to load in and model your data you can find it here. https://www.youtube.com/watch?v=ZqCybBeLSKI",
-          "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/absent-data-channel-conditional-columns-in-power-bi/index.json",
-          "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/absent-data-channel-conditional-columns-in-power-bi/",
-          "originalUrl": "https://youtube.com/watch?v=11OuH8TcJLU",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/11OuH8TcJLU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT10M50S",
-          "provider": {
-            "name": "Absent Data Channel",
-            "domain": "absentdata.com"
-          },
-          "publishedDateTime": "2020-07-26T06:01:35-07:00",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/11OuH8TcJLU/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/videos/absent-data-channel-split-and-merge-columns-in-power-bi.md",
-          "title": "Split and Merge Columns in Power BI",
-          "excerpt": "In this section we will mege columns and split columns to do a depper level of analysis",
-          "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/absent-data-channel-split-and-merge-columns-in-power-bi/index.json",
-          "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/absent-data-channel-split-and-merge-columns-in-power-bi/",
-          "originalUrl": "https://youtube.com/watch?v=ZqCybBeLSKI",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZqCybBeLSKI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT3M1S",
-          "provider": {
-            "name": "Absent Data Channel",
-            "domain": "absentdata.com"
-          },
-          "publishedDateTime": "2020-07-26T06:01:35-07:00",
-          "heat": 110,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/ZqCybBeLSKI/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/videos/absent-data-channel-append-and-merge-tables-in-power-bi.md",
-          "title": "Append and Merge Tables in Power BI",
-          "excerpt": "Learn how to quickly merge and append tables using the query editior in Power BI. Build models with multiple data sources. Contact me on LinkedIn: www.linkedin.com/in/gaelimholland",
-          "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/absent-data-channel-append-and-merge-tables-in-power-bi/index.json",
-          "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/absent-data-channel-append-and-merge-tables-in-power-bi/",
-          "originalUrl": "https://youtube.com/watch?v=CW-Er8slv9k",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CW-Er8slv9k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT8M24S",
-          "provider": {
-            "name": "Absent Data Channel",
-            "domain": "absentdata.com"
-          },
-          "publishedDateTime": "2020-07-26T06:01:35-07:00",
-          "heat": 65,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/CW-Er8slv9k/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/videos/absent-data-channel-create-a-power-bi-dashboard-in-10-minutes.md",
-          "title": "Create a Power BI Dashboard in 10 Minutes!",
-          "excerpt": "Enjoy my free full course on Udemy https://www.udemy.com/share/102Qqu/ Learn how to quickly create your first dashboard using Microsoft Power BI fast. This tutorial will teach you how to load, transform and visualize data with ease.  Contact me on LinkedIn: https://www.linkedin.com/in/gaelimholland",
-          "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/absent-data-channel-create-a-power-bi-dashboard-in-10-minutes/index.json",
-          "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/absent-data-channel-create-a-power-bi-dashboard-in-10-minutes/",
-          "originalUrl": "https://youtube.com/watch?v=qSUEqVEhUAc",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qSUEqVEhUAc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT9M24S",
-          "provider": {
-            "name": "Absent Data Channel",
-            "domain": "absentdata.com"
-          },
-          "publishedDateTime": "2020-07-26T06:01:35-07:00",
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/qSUEqVEhUAc/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        }
-      ],
-      "size": 7,
-      "heat": 78,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/11OuH8TcJLU/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-reduce-the-of-measures-with-calculation-groups-in-power-bi.md",
       "title": "REDUCE the # of measures with Calculation Groups In Power BI",
       "excerpt": "Sometimes you end up with a LOT of measures that are related. You can reduce the number of measures with Calculation Groups in Power BI and clean up your field list!  Download Sample: https://guyinacu.be/calcgroupssample  📢 Become a member: https://guyinacu.be/membership   *******************  Want",
@@ -727,8 +584,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 1028,
-            "average": 4.756809
+            "count": 1029,
+            "average": 4.756074
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1110,8 +967,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 416,
-            "average": 4.673077
+            "count": 417,
+            "average": 4.673861
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1151,8 +1008,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 327,
-            "average": 4.617737
+            "count": 328,
+            "average": 4.618902
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1233,8 +1090,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/create-paginated-reports-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 310,
-            "average": 4.712903
+            "count": 311,
+            "average": 4.713826
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1291,8 +1148,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 1028,
-        "average": 4.756809
+        "count": 1029,
+        "average": 4.756074
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2528,6 +2385,47 @@
         }
       ],
       "type": "collection",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-design-model-power-bi.md",
+      "title": "Design a data model in Power BI ",
+      "excerpt": "The process of creating a complicated data model in Power BI is straightforward. If your data is coming in from more than one transactional system, before you know it, you can have dozens of tables that you have to work with. Building a great data model is about simplifying the disarray. A star schema is one way to simplify a data model, and you’ll learn about the terminology and implementation of them in this module. You will also learn about why choosing the correct data granularity is important for performance and usability of your Power BI reports. Finally, you’ll learn about improving performance with your Power BI data models.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-design-model-power-bi/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/design-model-power-bi/",
+      "length": "PT2H8M",
+      "ratings": {
+        "count": 737,
+        "average": 4.750339
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/design-a-data-model-in-power-bi-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
       "topics": [
         "Power BI"
       ]
