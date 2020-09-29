@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 13127,
-        "average": 4.693837
+        "count": 13130,
+        "average": 4.6937547
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +29,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 72,
+      "heat": 74,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/get-data-power-bi-desktop-social.png",
@@ -707,8 +707,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/dax-power-bi-iterator-functions/",
       "length": "PT12M",
       "ratings": {
-        "count": 79,
-        "average": 4.734177
+        "count": 80,
+        "average": 4.7125
       },
       "provider": {
         "name": "Microsoft Learn",
