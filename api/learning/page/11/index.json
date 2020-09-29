@@ -4,44 +4,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_learning/videos/microsoft-power-bi-paginated-reports-in-a-day-23-bonus-content-evolution-of-paginated-reporting.md",
-      "title": "Power BI Paginated Reports in a Day - 23: Bonus Content: Evolution of Paginated Reporting",
-      "excerpt": "In this video, Peter Myers interviews Guilherme Boreki (Principal Software Engineer with the product team) to reveal the evolution of paginated reports.  The Power BI Paginated Reports in a Day online course aims to empower you as a report author with the technical knowledge required to create, publish,",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/microsoft-power-bi-paginated-reports-in-a-day-23-bonus-content-evolution-of-paginated-reporting/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/microsoft-power-bi-paginated-reports-in-a-day-23-bonus-content-evolution-of-paginated-reporting/",
-      "originalUrl": "https://youtube.com/watch?v=pevpai65MvY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pevpai65MvY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M25S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-03-17T22:14:44-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/pevpai65MvY/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": "Power BI Paginated Reports in a Day - 23: Bonus Content: Evolution of Paginated Reporting",
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/microsoft-power-bi-paginated-reports-in-a-day-24-bonus-content-lowering-the-barrier-to-entry.md",
       "title": "Power BI Paginated Reports in a Day - 24: Bonus Content: Lowering the Barrier to Entry",
       "excerpt": "In this video, Matt Goswell (Senior Product Marketing Manager) and Paginated Report Bear discuss lowering the barrier to entry for modern analytics and enterprise reporting.  The Power BI Paginated Reports in a Day online course aims to empower you as a report author with the technical knowledge required",
@@ -641,8 +603,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/continuously-export-data-from-iot-central-power-bi/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 47,
-        "average": 4.617021
+        "count": 48,
+        "average": 4.6041665
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -970,6 +932,36 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/iKZEtEn-Inc/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/absent-data-channel-dax-table-functions-all-filter-values.md",
+      "title": "DAX Table Functions: ALL, FILTER, & VALUES",
+      "excerpt": "Learn how to incorporate DAX Table functions in Power BI with real world scenarios. Also learn how to quickly add these functions in to dynamic calculations in DAX.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/absent-data-channel-dax-table-functions-all-filter-values/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/absent-data-channel-dax-table-functions-all-filter-values/",
+      "originalUrl": "https://youtube.com/watch?v=n-yO6WXE880",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/n-yO6WXE880\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M39S",
+      "provider": {
+        "name": "Absent Data Channel",
+        "domain": "absentdata.com"
+      },
+      "publishedDateTime": "2020-07-25T20:26:24-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/n-yO6WXE880/hqdefault.jpg",
           "width": 480,
           "height": 360,
           "isCached": true
