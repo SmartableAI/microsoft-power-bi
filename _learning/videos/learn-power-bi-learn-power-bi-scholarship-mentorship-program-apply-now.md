@@ -2,6 +2,7 @@
 title: "Learn Power BI Scholarship + Mentorship Program 🎓 【APPLY NOW】"
 excerpt: "👉 Go to this link to apply: https://web.learnpowerbi.com/scholarship/   ⚡Power On!⚡\r -Avi Singh\r http://www.LearnPowerBI.com\r http://www.AviSing.com\r \r #PowerBI #PowerBIPro"
 originalUrl: https://youtube.com/watch?v=PkDwfwRL0LI
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-learn-power-bi-scholarship-mentorship-program-apply-now/
 type: video
 price: Free
 length: PT7M12S
@@ -23,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "A5T+9cferec+dDE9l2aozKa0XprJmxYym/0ZFE9nMR6y737PObobcoztgOXQ/zV6qN97I5ZvKJ5yvRQPEwHcUPOsArUsGSMH06eCIBqg6/q6IB4JpmSXaJfMNTFbf2+S23j3kAYA0eY7wcJm+QrGLt5SjeQK2pD8S+i1AybJTocDvinhfkC62D0IaBc6xasLSBIrEU9UdDNN0BIHUIvsZMf88fHIfXQzlpje7EwCnMJevWTQOgTYSPozDOqzgc33ev2NzbFk9H5P5Kduscwm+HlWOK7lRXcyeJr31PS9iPpUm6WOgK2dRWghBHv0eeLxsOlvqiifOzfghhYqHgChdwPCtcwQqlKZYjlXAjggZUMDfNers6MSQ5fttQsLcSTI;b/cu0DBfP6CDfNcvtRkd+w=="
+secured: "qjHaq9BwsI+MDzAaIezKqfpfobc3CGb+BG9Yi+BbkSi92OYZ64kCDDR1i2OY8YGocIGCStdHOPuAtwOtC34/w5a0woHlNPTtcYO7lFwPBvog1F23EnAV6Xy5z3zchIoL2EVXRO+FN5TE3Df3pnaI+hylXyRw69hCq7x1vaIiSLV+97Jbsan5mQh3YVqsKJxBfLYAx7lHVIBQi2gwXkKqJERUk/rQT0jOWJZFoFi61N8GEVxjNn8gAGr36HkCyGgBqBqkYW4hvIDCRDLZVU+K22loUlvfJE7np3LfM023+Dl9dWpYaZjFSqWaqVZhnXzdWFEdjArEyhZRpXYBtH6UXsNFW5qx22SJW/PaVriEl3ub0j/vdAbExNyuJAbufCsQ;L3yqOEMA1mnrVaN5O4fw+w=="
 ---
 

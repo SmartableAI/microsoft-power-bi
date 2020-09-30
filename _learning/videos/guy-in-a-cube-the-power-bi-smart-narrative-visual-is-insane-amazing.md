@@ -2,6 +2,7 @@
 title: "The Power BI Smart Narrative visual is INSANE AMAZING!"
 excerpt: "The smart narrative visual can help tell the story in your Power BI report. Justyna Lucznik joins us to explore the visual and to illustrate how you can generate text about your data.  Make sure you have the September 2020 version of Power BI Desktop, or later.  Documentation: https://docs.microsoft.com/power-bi/visuals/power-bi-visualization-smart-narrative"
 originalUrl: https://youtube.com/watch?v=7d2qMoTPCIM
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-the-power-bi-smart-narrative-visual-is-insane-amazing/
 type: video
 price: Free
 length: PT8M45S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "S2tPkcQWSlMSTcKvai/0RvOWmU2XyppGR7Fu5IE0f9W6cmtEQvl+S+SgjNuFrFI+bNHGYphl7gE0fCQCEaRC50RArcFmdz4VprBDHaNUXLsKX9F4nYpWBAZ3cyfbLKn5+KK2XL8RaZNRtAMNGknZ9zdWjjx0os3O+objmo8Eo7oELoFP/tPhiDa+fz+j3q000SQR/1k/Gw1Av8hRNKXTCf81twHbXYgXVp+KVeLYKcky3v/pfmHL0x7n0Aub3YFXRntVaxTVemyWupyn/QiZe5kX3MeF2UTj04hAh+M7qCzemcikr+YLlcqJYW5F873uLLkFqviC3NttURCmFWAXxnvO1nrqI4lEPQLJwwQvtpSAjUNZmb+rNZbnERKfx6ZTaUK/tFkL7aLaoTcl1KyDrw==;b0oN6z6oJl3IqCUocjcjcg=="
+secured: "ix3TpaIxInU7J/9q+qjel6FSUarLUamGqTRk3XSWlswgAMWm5uDMJ97sKU9ICD1vGratG3heJdUjevy6vOAauXSkWSJ0YQ31lcVJ+7ZdWUy6SWv7hVKpfSmvwAKQejkrRu5Fe00P4foKvXuXB7ijm8Wvl6wtXO9vqSKB8yW8Xx1hFzRG3oTUfhh48wTTfwRE7rsXwIpELHoozNmAqi76OPzIEa06ym76slF9AweVisZopHQTFz37IqJzUfUsBJajL9awYzrDoLAMqbkEJNa/VyR06O6YSFGmpM25l5Gbj35qv0luyD16lYzG6RDfV4I28Otjfw1SdH7SM4JFSZhxUSn+9HDCTiiKiC7xASFoyE1ZkMZEv7WPySG2r4vw5Zqnfm5zRWKp9uL4iuqnonXrkw==;lX28UKybPg0+1xIhV4NVfw=="
 ---
 
