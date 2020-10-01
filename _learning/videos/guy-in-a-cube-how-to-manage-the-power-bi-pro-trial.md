@@ -2,6 +2,7 @@
 title: "How to MANAGE the Power BI Pro trial"
 excerpt: "Did you know you could manage the Power BI Pro trial for your organization? From directing people to an onboarding portal as well as disabling the Power BI Pro trial all together. Find out how!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills"
 originalUrl: https://youtube.com/watch?v=5z52aYo6rQA
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-how-to-manage-the-power-bi-pro-trial/
 type: video
 price: Free
 length: PT6M50S
@@ -27,6 +28,6 @@ images:
     height: 360
     isCached: true
 
-secured: "8iFaba8TatT43YwWhXJVtUq1Z7h/k83zvOxENKU09NkUlOkRfLfiQJabMOvbjnR1LsqA3iPyUgjJGKFz/XsrrbsFxfmxEwECyEdAnuS+lZN8oFyHQ4Ij/eyxV/1Mm9O2e9FpIehVSPJZzMGFKfY5UBa9MTyKNeyHvVtelvdUTinxeia1JkCp35kL7KpRAS7dMrkHjSPaz40y5EW6wn2u1xsy4B2vTdwQRNIHfvwxOUI4mZqIN5Pk1yWKOC+TauA1dbWEALUXO7/RIJmFibq/HJrV3jBSzCb6ONRnXsLwnsOlUU/SFakOd95lYorT0wGoVfxEPpyQ0tVLcMlav9L5EVLP8XtbNIBsY/7aQDNePIccDJyLyF/KWJO+TOta3kDKfZA0PRCAAI9QLjmGOP/Wgg==;AfUHyWndL7b0haotW/WoIQ=="
+secured: "xiHU3ev89ii5TeevnVjIU7a4ls6/7GHtwzuDM/L8UScIHlNuKAS1/6/SNIBBhfSdPwuHBMpqtLwuKg0uQPdfEJ9L3vhJyXICzYSsPQQQs4AueYH8uRrAh9u0dXKgPf4sxSCzU0E43Iz+KDvj3Eu+P3zjOxebqc/twrPasRYqEf/z1HDdMiJ2DUApS2AXpw24OhvJoS8QPjRgOSvPO8IpknKexd2OXkQG91N19B9SIIQdT0fjX9gIuySrp8mz9zuO77k/kSW7uJNAPyCvtDSu6i0f7kdQKvx3uB2xGuhFGCFSf7pVVgxZOl+xDXm93kxqYVHdOfwuJHG8yyFYSQ6kUsi3h1BbbKK/fDb6/d0jibNf2ozDzdVHUynch7FT0vk9RN/C+d0mrKe5AIf4bnDDDA==;9x5pE2H3miiHH9mKJfYYww=="
 ---
 
