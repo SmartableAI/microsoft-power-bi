@@ -177,8 +177,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/dax-power-bi-models/",
           "length": "PT20M",
           "ratings": {
-            "count": 241,
-            "average": 4.726141
+            "count": 242,
+            "average": 4.7272725
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -847,8 +847,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/optimize-model-power-bi/",
       "length": "PT43M",
       "ratings": {
-        "count": 586,
-        "average": 4.762799
+        "count": 587,
+        "average": 4.7632027
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -935,7 +935,7 @@
             "domain": "absentdata.com"
           },
           "publishedDateTime": "2020-07-25T19:59:10-07:00",
-          "heat": 121,
+          "heat": 61,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/80i8rLQtO3o/hqdefault.jpg",
@@ -1224,8 +1224,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 1257,
-        "average": 4.7398567
+        "count": 1258,
+        "average": 4.739269
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1915,8 +1915,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 764,
-            "average": 4.7552357
+            "count": 765,
+            "average": 4.7555556
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1956,8 +1956,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 599,
-            "average": 4.702838
+            "count": 601,
+            "average": 4.703827
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1998,8 +1998,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 586,
-            "average": 4.762799
+            "count": 587,
+            "average": 4.7632027
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2199,8 +2199,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/build-simple-dashboard/",
       "length": "PT24M",
       "ratings": {
-        "count": 2231,
-        "average": 4.6884804
+        "count": 2232,
+        "average": 4.688172
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2240,8 +2240,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/design-model-power-bi/",
       "length": "PT2H8M",
       "ratings": {
-        "count": 764,
-        "average": 4.7552357
+        "count": 765,
+        "average": 4.7555556
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2271,6 +2271,36 @@
       "price": "Free",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/absent-data-channel-year-over-year-and-month-over-month-calculations-in-power-bi.md",
+      "title": "Year over Year and Month over Month Calculations in Power BI",
+      "excerpt": "Learn how to quickly produce time intelligence calcution in Power BI using these easy to follow DAX equations. Elevate your time series analysis.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/absent-data-channel-year-over-year-and-month-over-month-calculations-in-power-bi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/absent-data-channel-year-over-year-and-month-over-month-calculations-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=80i8rLQtO3o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/80i8rLQtO3o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M50S",
+      "provider": {
+        "name": "Absent Data Channel",
+        "domain": "absentdata.com"
+      },
+      "publishedDateTime": "2020-07-25T19:59:10-07:00",
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/80i8rLQtO3o/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
       ]
     },
     {
@@ -2835,8 +2865,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/visuals-power-bi/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 438,
-        "average": 4.678082
+        "count": 440,
+        "average": 4.6795454
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2866,36 +2896,6 @@
       "price": "Free",
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/enterprise-dna-course-intro-11-ultimate-beginners-guide-to-dax-2020.md",
-      "title": "Course Intro - (1.1)  Ultimate Beginners Guide To DAX 2020",
-      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/enterprise-dna-course-intro-11-ultimate-beginners-guide-to-dax-2020/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/enterprise-dna-course-intro-11-ultimate-beginners-guide-to-dax-2020/",
-      "originalUrl": "https://youtube.com/watch?v=ILVRJQ22cjs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ILVRJQ22cjs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M48S",
-      "provider": {
-        "name": "Enterprise DNA",
-        "domain": "enterprisedna.co"
-      },
-      "publishedDateTime": "2020-05-05T20:00:14-07:00",
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ILVRJQ22cjs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
       ]
     }
   ],
