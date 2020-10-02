@@ -85,8 +85,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/propose-solution/",
       "length": "PT40M",
       "ratings": {
-        "count": 308,
-        "average": 4.655844
+        "count": 309,
+        "average": 4.656958
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -118,8 +118,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/work-with-requirements/",
       "length": "PT23M",
       "ratings": {
-        "count": 273,
-        "average": 4.7289376
+        "count": 274,
+        "average": 4.729927
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -136,7 +136,7 @@
       "levels": [
         "Advanced"
       ],
-      "heat": 110,
+      "heat": 50,
       "type": "course",
       "price": "Free",
       "topics": [
@@ -151,8 +151,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/fit-gap-analysis/",
       "length": "PT35M",
       "ratings": {
-        "count": 339,
-        "average": 4.719764
+        "count": 340,
+        "average": 4.720588
       },
       "provider": {
         "name": "Microsoft Learn",
