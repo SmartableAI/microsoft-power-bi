@@ -25,7 +25,7 @@
         ]
       },
       "publishedDateTime": "2020-09-30T08:00:04-07:00",
-      "heat": 352,
+      "heat": 332,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/7d2qMoTPCIM/maxresdefault.jpg",
@@ -66,35 +66,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/6DOUHWlorCE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-learn-power-bi-scholarship-mentorship-program-apply-now.md",
-      "title": "Learn Power BI Scholarship + Mentorship Program 🎓 【APPLY NOW】",
-      "excerpt": "👉 Go to this link to apply: https://web.learnpowerbi.com/scholarship/   ⚡Power On!⚡\r -Avi Singh\r http://www.LearnPowerBI.com\r http://www.AviSing.com\r \r #PowerBI #PowerBIPro",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-learn-power-bi-scholarship-mentorship-program-apply-now/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-learn-power-bi-scholarship-mentorship-program-apply-now/",
-      "originalUrl": "https://youtube.com/watch?v=PkDwfwRL0LI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PkDwfwRL0LI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M12S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2020-09-30T09:00:12-07:00",
-      "heat": 184,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/PkDwfwRL0LI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -181,6 +152,35 @@
       ]
     },
     {
+      "path": "_learning/videos/learn-power-bi-learn-power-bi-scholarship-mentorship-program-apply-now.md",
+      "title": "Learn Power BI Scholarship + Mentorship Program 🎓 【APPLY NOW】",
+      "excerpt": "👉 Go to this link to apply: https://web.learnpowerbi.com/scholarship/   ⚡Power On!⚡\r -Avi Singh\r http://www.LearnPowerBI.com\r http://www.AviSing.com\r \r #PowerBI #PowerBIPro",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-learn-power-bi-scholarship-mentorship-program-apply-now/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-learn-power-bi-scholarship-mentorship-program-apply-now/",
+      "originalUrl": "https://youtube.com/watch?v=PkDwfwRL0LI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PkDwfwRL0LI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M12S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2020-09-30T09:00:12-07:00",
+      "heat": 163,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/PkDwfwRL0LI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-introduction-power-platform.md",
       "title": "Introduction to Power Platform",
       "excerpt": "Introduction to Power Platform",
@@ -188,8 +188,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/introduction-power-platform/",
       "length": "PT18M",
       "ratings": {
-        "count": 12423,
-        "average": 4.706029
+        "count": 12437,
+        "average": 4.706199
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -206,7 +206,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 155,
+      "heat": 156,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/introduction-power-platform-social.png",
@@ -235,7 +235,7 @@
         "domain": "radacad.com"
       },
       "publishedDateTime": "2020-09-27T15:51:46-07:00",
-      "heat": 135,
+      "heat": 134,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/uZnKuS1uYRo/maxresdefault.jpg",
@@ -305,23 +305,23 @@
       ]
     },
     {
-      "path": "_learning/videos/power-bi-tips-powerbitips-hot-swap-connections-webinar.md",
-      "title": "PowerBI.tips - Hot Swap Connections Webinar",
-      "excerpt": "We are excited to have Steve Campbell walk us through his hot swap connections for Power BI Desktop.   This is an amazing external tool to help you as a developer work with Model and Report files.   Blog Post here: https://powerbi.tips/2020/08/hot-swap-report-connections-external-tools/  Download Business",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/power-bi-tips-powerbitips-hot-swap-connections-webinar/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/power-bi-tips-powerbitips-hot-swap-connections-webinar/",
-      "originalUrl": "https://youtube.com/watch?v=sygIUPMlgi0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sygIUPMlgi0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT53M19S",
+      "path": "_learning/videos/absent-data-channel-append-and-merge-tables-in-power-bi.md",
+      "title": "Append and Merge Tables in Power BI",
+      "excerpt": "Learn how to quickly merge and append tables using the query editior in Power BI. Build models with multiple data sources. Contact me on LinkedIn: www.linkedin.com/in/gaelimholland",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/absent-data-channel-append-and-merge-tables-in-power-bi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/absent-data-channel-append-and-merge-tables-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=CW-Er8slv9k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CW-Er8slv9k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M24S",
       "provider": {
-        "name": "Power BI Tips",
-        "domain": "powerbi.tips"
+        "name": "Absent Data Channel",
+        "domain": "absentdata.com"
       },
-      "publishedDateTime": "2020-08-31T06:33:16-07:00",
-      "heat": 116,
+      "publishedDateTime": "2020-07-26T06:01:35-07:00",
+      "heat": 126,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/sygIUPMlgi0/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/CW-Er8slv9k/hqdefault.jpg",
           "width": 480,
           "height": 360,
           "isCached": true
@@ -334,45 +334,40 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-dax-power-bi-time-intelligence.md",
-      "title": "Use DAX time intelligence functions in Power BI Desktop models",
-      "excerpt": "By the end of this module, you’ll learn the meaning of time intelligence and how to add time intelligence DAX calculations to your model. These calculations will include year-to-date (YTD), year-over-year (YoY) growth, and others.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-dax-power-bi-time-intelligence/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/dax-power-bi-time-intelligence/",
-      "length": "PT19M",
-      "ratings": {
-        "count": 74,
-        "average": 4.6486487
-      },
+      "path": "_learning/videos/sqlbi-computing-a-running-total-in-dax.md",
+      "title": "Computing a running total in DAX",
+      "excerpt": "This video shows how to compute a running total over a dimension, like for example the date. Article and download: https://sql.bi/79926",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/sqlbi-computing-a-running-total-in-dax/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/sqlbi-computing-a-running-total-in-dax/",
+      "originalUrl": "https://youtube.com/watch?v=4gf3eueRD_g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4gf3eueRD_g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M5S",
       "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/sqlbi.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 111,
+      "publishedDateTime": "2020-07-14T02:30:11-07:00",
+      "heat": 114,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/use-dax-time-intelligence-functions-power-bi-desktop-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://i.ytimg.com/vi/4gf3eueRD_g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
-      "type": "course",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power BI",
-        "Power BI Desktop",
         "DAX"
       ]
     },
@@ -407,8 +402,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 3326,
-            "average": 4.7588696
+            "count": 3329,
+            "average": 4.7590866
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -448,8 +443,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 19578,
-            "average": 4.7315865
+            "count": 19581,
+            "average": 4.7316275
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -506,8 +501,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 19578,
-        "average": 4.7315865
+        "count": 19581,
+        "average": 4.7316275
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -600,8 +595,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 19578,
-            "average": 4.7315865
+            "count": 19581,
+            "average": 4.7316275
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -641,8 +636,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 13191,
-            "average": 4.6941853
+            "count": 13193,
+            "average": 4.694232
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -683,8 +678,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 4915,
-            "average": 4.706409
+            "count": 4917,
+            "average": 4.706325
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1045,8 +1040,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 3326,
-        "average": 4.7588696
+        "count": 3329,
+        "average": 4.7590866
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1086,8 +1081,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/connect-analyze-dynamics-365-data/",
       "length": "PT57M",
       "ratings": {
-        "count": 1653,
-        "average": 4.6896553
+        "count": 1655,
+        "average": 4.689426
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1127,8 +1122,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/introduction-power-bi/",
       "length": "PT21M",
       "ratings": {
-        "count": 4037,
-        "average": 4.7243004
+        "count": 4039,
+        "average": 4.723942
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1392,8 +1387,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 13191,
-        "average": 4.6941853
+        "count": 13193,
+        "average": 4.694232
       },
       "provider": {
         "name": "Microsoft Learn",
