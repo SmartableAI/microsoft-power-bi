@@ -2,6 +2,7 @@
 title: "REPLAY Power BI tips from the Pros - LIVE (Oct 3, 2020)"
 excerpt: "Join us live as we answer your questions about Power BI!  💥 30 minutes: Open Q&A (Public) 💥 Then... Members Only Chat (Public can watch & Super Chat for Questions)  📢 RULES FOR Q&A: 📢  👉 Put a \"Q:\" in front of your comment to help us identify questions! 👉 Super chats take priority 👉 Do NOT re-post"
 originalUrl: https://youtube.com/watch?v=4zsL2qOJ7iI
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-replay-power-bi-tips-from-the-pros-live-oct-3-2020/
 type: video
 price: Free
 length: PT1H13M54S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "1uWAsYXFoEvWoPP9GMUf++c0fkDK6MAWgfOu6V2ovhiZGw8hv6FIhd4Gmv943xZhvmX1aiyQ8ZXuKoyA+yW5Sb+GcHEhRgXfDgN0GUlGwMU8Jy8V3vBpiPIIvhkatzQpKzdzHgWlH3PBPHAOaWnjZeM9ytWVuiWR0T/mRk7HVLPfVokh3DqmFAW48o5L2amenndefJsCuCwUCTz8mxD9B7uQ+1CnLG5Rdlj9rkVTXaZgj6Ac8FG5GJwQ9pd4ofNVtbkJVOL1Cbqk1QJRJp3XRoV4TUmtC4aBI6Lmga62JRZCY3cm/0to4d3sXzp3JZFu2pSCMv6pA3Uj4qQ5CylI2l/xHXt2SofQ5r7vEdJVV/o1HIg4ZZIeQ3NrSqn9H5TjvEH2LfCZMnW3fP1CflHEgg==;1OthKN2nMb/EEJ99V1wRGA=="
+secured: "qyoBAwK8bzT3P30KopHeW623a0jsptKWhvRJyleO+ZYEk6nXbAImiEge/WQB2D2fLcEMZXEfgMT6mDdxWwTWN3AoepzjHFXj7cYKE1heQ8mt6UuNJhxZdohGqy8i/qv8gM0+IMFNUyYObiCEL7pCePpMcibq/j3WM8POLFlLQJI7gfkk8sTNikz2QbxXDbTF4cGQzMPvPLUkfblPEDSfL3jkigISRhZhf8CwyHisbEVo3qD4ECI2FzlBkroTUMh7BirNXWnCVDovMk4fKnKiOmPzfq6YeVK4hgaPZlZ40+34F3m0BahoXp5sKAXUmhgJypsdy/EN8zAqCx0iJabhc2zQ4TItJNtRVx+BHtE3H3zgo8NgAjSQ4iaIxNr21wEvNGCR0v/FWkjryQ5qBjK0AQ==;g1cAD4JYfMzfUSvNQpkpLw=="
 ---
 
