@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/becoming-solution-architect/",
       "length": "PT1H43M",
       "ratings": {
-        "count": 626,
-        "average": 4.707668
+        "count": 627,
+        "average": 4.706539
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +29,7 @@
       "levels": [
         "Advanced"
       ],
-      "heat": 50,
+      "heat": 110,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/becoming-solution-architect-social.png",
@@ -151,8 +151,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/fit-gap-analysis/",
       "length": "PT35M",
       "ratings": {
-        "count": 340,
-        "average": 4.720588
+        "count": 341,
+        "average": 4.718475
       },
       "provider": {
         "name": "Microsoft Learn",
