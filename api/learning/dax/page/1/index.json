@@ -297,8 +297,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/dax-power-bi-add-calculated-tables/",
           "length": "PT19M",
           "ratings": {
-            "count": 119,
-            "average": 4.7983193
+            "count": 120,
+            "average": 4.8
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -357,7 +357,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/add-measures-power-bi-desktop-social.png",
