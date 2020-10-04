@@ -310,8 +310,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 6699,
-        "average": 4.666368
+        "count": 6700,
+        "average": 4.666269
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -722,14 +722,6 @@
       },
       "publishedDateTime": "2020-03-27T04:03:55-07:00",
       "heat": 55,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/z3DHsL05wzQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
       "type": "video",
       "price": "Free",
       "topics": [
