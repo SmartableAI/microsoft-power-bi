@@ -532,8 +532,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/build-your-first-power-bi-report/",
       "length": "PT55M",
       "ratings": {
-        "count": 5447,
-        "average": 4.7697816
+        "count": 5448,
+        "average": 4.7696404
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -565,8 +565,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/dax-power-bi-add-calculated-tables/",
       "length": "PT19M",
       "ratings": {
-        "count": 121,
-        "average": 4.801653
+        "count": 122,
+        "average": 4.795082
       },
       "provider": {
         "name": "Microsoft Learn",

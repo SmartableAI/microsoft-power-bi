@@ -196,8 +196,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/introduction-power-platform/",
       "length": "PT18M",
       "ratings": {
-        "count": 12747,
-        "average": 4.707382
+        "count": 12761,
+        "average": 4.70786
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -247,35 +247,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/PkDwfwRL0LI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-polar-and-curve-chart-with-charticulator.md",
-      "title": "Polar and Curve Chart with Charticulator",
-      "excerpt": "In this short video, I have explained how to create a custom curve visual and a polar one using Charticulator. the required data for this video can be find from here: https://bit.ly/343jaw7",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-polar-and-curve-chart-with-charticulator/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-polar-and-curve-chart-with-charticulator/",
-      "originalUrl": "https://youtube.com/watch?v=uZnKuS1uYRo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uZnKuS1uYRo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M25S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-09-27T15:51:46-07:00",
-      "heat": 134,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/uZnKuS1uYRo/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -350,23 +321,23 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-showing-current-time-and-latest-refresh-time-at-local-timezones-in-the-power-bi-report.md",
-      "title": "Showing Current Time and Latest Refresh Time at Local Timezones in the Power BI Report",
-      "excerpt": "I have previously explained a method explaining different ways of getting the local timezone. However, that method was only for a scenario with users all in one timezone. What if your users are in different time zones? what if you want to show them information in the local timezone for each user? In",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-showing-current-time-and-latest-refresh-time-at-local-timezones-in-the-power-bi-report/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-showing-current-time-and-latest-refresh-time-at-local-timezones-in-the-power-bi-report/",
-      "originalUrl": "https://youtube.com/watch?v=oY2ZiZuBGAs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oY2ZiZuBGAs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M19S",
+      "path": "_learning/videos/absent-data-channel-power-bi-course-for-beginners-part-13-customizing-visuals-and-dashboard-structure.md",
+      "title": "Power BI Course for Beginners (Part 13 Customizing Visuals and Dashboard Structure)",
+      "excerpt": "Learn how to quickly customize your visuals for maximum impact and use visual philosophy to improve your insights.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/absent-data-channel-power-bi-course-for-beginners-part-13-customizing-visuals-and-dashboard-structure/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/absent-data-channel-power-bi-course-for-beginners-part-13-customizing-visuals-and-dashboard-structure/",
+      "originalUrl": "https://youtube.com/watch?v=x8e3czhaTU4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/x8e3czhaTU4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M48S",
       "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
+        "name": "Absent Data Channel",
+        "domain": "absentdata.com"
       },
-      "publishedDateTime": "2020-07-13T02:20:08-07:00",
+      "publishedDateTime": "2020-07-31T16:18:43-07:00",
       "heat": 110,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/oY2ZiZuBGAs/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/x8e3czhaTU4/hqdefault.jpg",
           "width": 480,
           "height": 360,
           "isCached": true
@@ -379,41 +350,32 @@
       ]
     },
     {
-      "path": "_learning/videos/sqlbi-mark-as-date-table-in-power-bi.md",
-      "title": "Mark as Date Table in Power BI",
-      "excerpt": "Tabular models (including Power BI) require marking the Date table as a date table to get appropriate results with time intelligence calculations. This video explains why this setting is required. Article and download: https://sql.bi/670749",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/sqlbi-mark-as-date-table-in-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/sqlbi-mark-as-date-table-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=hrhEjg9yYvE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hrhEjg9yYvE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M33S",
+      "path": "_learning/videos/power-bi-tips-powerbitips-pug-external-tools-business-ops.md",
+      "title": "PowerBI.tips - PUG - External Tools & Business Ops",
+      "excerpt": "This month Mike and Seth go through the external tools functionality of Power BI desktop.  Additionally, we are introduced to the Amazing Business Ops tool which helps users add External tools into Power BI desktop.   Download Business Ops: https://powerbi.tips/product/business-ops-beta/",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/power-bi-tips-powerbitips-pug-external-tools-business-ops/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/power-bi-tips-powerbitips-pug-external-tools-business-ops/",
+      "originalUrl": "https://youtube.com/watch?v=QBK-qtSEBiQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QBK-qtSEBiQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT55M14S",
       "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Power BI Tips",
+        "domain": "powerbi.tips"
       },
-      "publishedDateTime": "2020-08-08T01:34:41-07:00",
+      "publishedDateTime": "2020-08-31T06:29:43-07:00",
       "heat": 110,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/hrhEjg9yYvE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://i.ytimg.com/vi/QBK-qtSEBiQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "DAX"
+        "Power BI"
       ]
     },
     {
@@ -665,8 +627,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 3410,
-            "average": 4.761877
+            "count": 3416,
+            "average": 4.7617097
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -706,8 +668,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 19674,
-            "average": 4.7318797
+            "count": 19676,
+            "average": 4.731907
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -764,8 +726,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 19674,
-        "average": 4.7318797
+        "count": 19676,
+        "average": 4.731907
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -842,8 +804,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/connect-analyze-dynamics-365-data/",
       "length": "PT57M",
       "ratings": {
-        "count": 1749,
-        "average": 4.6946826
+        "count": 1754,
+        "average": 4.6944127
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -893,6 +855,35 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/XuLnSYjmsJo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-polar-and-curve-chart-with-charticulator.md",
+      "title": "Polar and Curve Chart with Charticulator",
+      "excerpt": "In this short video, I have explained how to create a custom curve visual and a polar one using Charticulator. the required data for this video can be find from here: https://bit.ly/343jaw7",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-polar-and-curve-chart-with-charticulator/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-polar-and-curve-chart-with-charticulator/",
+      "originalUrl": "https://youtube.com/watch?v=uZnKuS1uYRo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uZnKuS1uYRo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M25S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-09-27T15:51:46-07:00",
+      "heat": 84,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/uZnKuS1uYRo/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -970,8 +961,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 3410,
-        "average": 4.761877
+        "count": 3416,
+        "average": 4.7617097
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1142,8 +1133,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 19674,
-            "average": 4.7318797
+            "count": 19676,
+            "average": 4.731907
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1183,8 +1174,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 13231,
-            "average": 4.694732
+            "count": 13234,
+            "average": 4.6948013
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1225,8 +1216,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 4931,
-            "average": 4.7067533
+            "count": 4934,
+            "average": 4.7069316
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1266,8 +1257,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 3840,
-            "average": 4.748958
+            "count": 3841,
+            "average": 4.749024
           },
           "provider": {
             "name": "Microsoft Learn",
