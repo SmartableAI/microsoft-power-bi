@@ -16,7 +16,7 @@ items:
   - videos/absent-data-channel-how-to-get-round-corners-on-visuals-in-power-bi
   - videos/absent-data-channel-change-the-font-across-all-visuals-in-a-power-bi
   - videos/absent-data-channel-forecasting-in-power-bi
-  - videos/absent-data-channel-power-bi-data-modelling-tutorial-1-star-schema-no-more
+  - videos/absent-data-channel-power-bi-data-modelling-tutorial-1-star-schema
 
 topics:
   - Power BI
