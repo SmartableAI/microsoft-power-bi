@@ -2,6 +2,7 @@
 title: "Power BI Data Modelling Tutorial 1 - Star Schema No More!"
 excerpt: "Learn how to set up your data model in Power BI by following these best practices and essential steps. What kind of schema should you use. Snowflake, Star Schema or Waterfall? Actually Power BI loves them all. However, you should set up the model that is best for your data set and DAX functions. Lear"
 originalUrl: https://youtube.com/watch?v=CwGdp2YgaiI
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/absent-data-channel-power-bi-data-modelling-tutorial-1-star-schema-no-more/
 type: video
 price: Free
 length: PT25M35S
@@ -23,6 +24,6 @@ images:
     height: 360
     isCached: true
 
-secured: "D+E5Ab7nDX9mQo/e/IOu0lvFwS1yg69dnQnD6d5SvbLBul32ZeIqqRK4iraAhdyQxNCzCR9p6e5KtknWs43+dSCRFSBp4pRtCraQQfoSw9fHcVMFp/1ZfBZ8fAZpgW5Qkp9SM61uzLU9ZI/6+qdzAnP/KQrXsPLKHkLXV6LAb0Jc+zneoLEtFg4QJtacLI+wDfa2L5VoAX+AtyY60nVPOkc3+kmq5vZ45nRx77K0otX9tWyOr04RrNTkBnwan1+/n/79yFoZPFdA7PjWdQNDBuexGgR3paD8hjfooyNpgxiFI3RKHhYHKzAC+zrYlSAwHVor9HsYW0LQo/LtSgcOiHkekIDT7ch05kVU+L35KKO8PSwIx6eFinyFnSa7F92MWdeXB/o4ij3KbfXoCmdx9A==;QKKfiTgHYNBI576IpA7aPA=="
+secured: "lwMPJazntAUpkUZVQAcrH4NWpgLfcF03UDiR8qGIK7b+2QvIzHmcemxOR9JdRAyAE5K/XjicmIPazDUIwG1W976UwBuoSTRAWYpvKn6TxvgmXI9mHrTc3xSISeuKJ5Y1fE3YDbXjf/Ra4fcLK5COyrrBx6qfluoUaxa2oAkaOzYnnT8VMefTo+gLl4Abh2B2S6yIMGUIl1vnpiWXSnHiG1mAC/C5wMO8tltpuFnZHXGTChaVpgicK8aR6GKbLitTabU3pXXgwJ3sENOCEONs8VSTTgW335blzBTd8VB3gCemwlAQJ3XwcMUVUgd28hSGZYjyYt38zuIrsq9LV1oHpQlfziPrFfRck6zJFtioUN7ahG43uwfgbZ4RZT/pkgE9;SaRjJgqh+USJSWanFtsWpQ=="
 ---
 
