@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/becoming-solution-architect/",
       "length": "PT1H43M",
       "ratings": {
-        "count": 630,
-        "average": 4.7079363
+        "count": 631,
+        "average": 4.7083993
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -655,14 +655,14 @@
       ]
     },
     {
-      "path": "_learning/videos/absent-data-channel-power-bi-course-for-beginners-part-16-updating-data.md",
-      "title": "Power BI Course For Beginners (Part 16 Updating Data)",
-      "excerpt": "Learn how to append your exisiting data to a new dataset using the Query Editor in Power BI.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/absent-data-channel-power-bi-course-for-beginners-part-16-updating-data/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/absent-data-channel-power-bi-course-for-beginners-part-16-updating-data/",
-      "originalUrl": "https://youtube.com/watch?v=FJFlgIm26og",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FJFlgIm26og\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M25S",
+      "path": "_learning/videos/absent-data-channel-power-bi-course-for-beginners-part-15-drillthrough.md",
+      "title": "Power BI Course for Beginners (Part 15 Drillthrough)",
+      "excerpt": "Learn how to create drillthrough reports with these easy to follow steps.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/absent-data-channel-power-bi-course-for-beginners-part-15-drillthrough/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/absent-data-channel-power-bi-course-for-beginners-part-15-drillthrough/",
+      "originalUrl": "https://youtube.com/watch?v=ZPDpIceAi8M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZPDpIceAi8M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M19S",
       "provider": {
         "name": "Absent Data Channel",
         "domain": "absentdata.com"
@@ -671,7 +671,7 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/FJFlgIm26og/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ZPDpIceAi8M/hqdefault.jpg",
           "width": 480,
           "height": 360,
           "isCached": true
