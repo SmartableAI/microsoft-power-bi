@@ -4,7 +4,7 @@ excerpt: "I&#8217;m always looking for more productive ways to work with Power B
 webUrl: https://exceleratorbi.com.au/fast-track-power-bi-dev-with-sharepoint-files/
 type: article
 publishedDateTime: 2020-09-22T08:18:03Z
-heat: 80
+heat: 50
 
 provider:
   name: Excelerator BI
