@@ -4,7 +4,7 @@ excerpt: "History of Switch Measures Using a switch measure to toggle results is
 webUrl: https://exceleratorbi.com.au/dynamic-formatting-of-switch-measures/
 type: article
 publishedDateTime: 2020-08-25T00:57:11Z
-heat: 110
+heat: 50
 
 provider:
   name: Excelerator BI
