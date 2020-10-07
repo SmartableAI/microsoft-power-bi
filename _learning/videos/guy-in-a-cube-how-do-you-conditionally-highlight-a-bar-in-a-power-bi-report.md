@@ -2,6 +2,7 @@
 title: "How do you conditionally highlight a bar in a Power BI Report?"
 excerpt: "There are different interactions Power BI visuals can have, but how do we conditionally highlight a bar in a Power BI report using a slicer? Patrick shows you some MAGIC to get this to work.  Question from Live Stream: https://youtu.be/hS4hZdNZ8vw?t=1009  Phil Seamark's Blog: https://dax.tips/  Edit"
 originalUrl: https://youtube.com/watch?v=L2GnAfpsO2k
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-how-do-you-conditionally-highlight-a-bar-in-a-power-bi-report/
 type: video
 price: Free
 length: PT7M7S
@@ -27,6 +28,6 @@ images:
     height: 360
     isCached: true
 
-secured: "7NxxD1izL8iT40dgDTkkHCZMWB36xACj3IVXc7EyvRMSbnHhOzY/ZfoARTpZdACDL1Fncnz1OHeSfpb+GLwVqCEDptUK0+lMu1QzBumbNP/Oxg7qkGIvF8DtRD53RTjuVmYrTYp2j5k4+y6wPQBve5GAcy37wADRlFJ4IlkHpWQw6D2hX5wTZmYBvb8XGDQgWI71Q6b13Kp9I4veckJK9QpXfyOUHUe/GaH8TnepL8rUiUgy0faHqjqgKJDYl4SiYIga1b9YTsDvDSStEiSIvBPyP18F7S4qJY6OAavxYEJOOT3Qfo7tc1jmaUHqX2TPZG23aW8TyqSpB2XZbkXzuQRdApSF3h+lzWzAMCu8LIiP6Oeh/IO0QQCf8S5Qoam0eFKcUuK88pcWiLxEVhdvMw==;ODmEJSYeN2f70yqe3a33Gw=="
+secured: "nT6/AxKHVETXinr5FgqxTM72bV/CSlB3trkmZ74OmjHy+d2y3+mafujmT5MNTVI5oF7VDgFDUgRqcPxR0QV2hSK/efpWvL1KZ07CR9nIWDcMIpd/vm4eFaBo8yDg3T3/USKQeoNj1CTiXcIBWwqGIOFH3nsGuhFJw8NW9d4MA9qT/c+EXzH2/HNq4U3KV6JHrZG/WBiwChiQoORPrQ00bM3dCelX8fQSbBpxpxAt91nk13xfHmPcS3Mhvialo0RlM4fm+Wm/Rv6HTbhgdMDi6R7H4aE1bmSDE2+oc4R1GkDhkDqUFdx92MmWXysLJsOLyGMC6yvq8bOYqBuVOcEWOFkgp349kCt/sfUiMeO5I/xq0iAl98MA7qhNQ8qXyJNYEGrisrTS8lIPNHRspNQLFw==;f0+gnDF/ZCPwbt9QVBDZ7w=="
 ---
 
