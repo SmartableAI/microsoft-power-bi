@@ -96,8 +96,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/dax-power-bi-add-calculated-tables/",
       "length": "PT19M",
       "ratings": {
-        "count": 132,
-        "average": 4.780303
+        "count": 133,
+        "average": 4.781955
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -284,7 +284,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 134,
+      "heat": 54,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/use-dax-time-intelligence-functions-power-bi-desktop-social.png",
