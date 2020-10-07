@@ -6,7 +6,9 @@ type: video
 price: Free
 length: PT5M29S
 publishedDateTime: 2016-07-05T18:49:30Z
-heat: 55
+heat: 51
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/67fK0GoVQ80\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
   name: Guy in a Cube
@@ -26,6 +28,6 @@ images:
     isCached: true
     title: "Row-Level Security in Power BI - Revisited"
 
-secured: "j3jyvcWJI0byZ51jXv2BchXL8HJlUpI3GWVw+tRhe2ynYQBehDHj6z1MMkXa7Up6EneNSMtb3NuKqqSo1RJs80rYSneC6jI5as5hqaau+OlRpyM6ViOfz7Y3WD75Qpiq1x04I3aSveI8HxWmdpO4/cp7LdulRL3318DCW/ERu3mhROxHPAkVWHuEoO/Qsb2xq2Mqhh5JDiTm6z6NADogfKwPfL6m3tMknwBf6/pPgTigwfrpONmgtnpYUbue/U6m+IjC2/fus+uqzrsNWuFm+gLr5hYMF9ZCuFko+r3LhcsNFxMWK7KqqX63eYsh+omUAX+G86gzyhLgj98ggC2hURQyr43mC9syMMdYq1pMH/h00hv8XUk/OvR2Efq1lFPju4A0ggRM9VDNG8atM5yjXw==;Vz1+XbKvfBt0qJqadkCQXw=="
+secured: "ul2JajPYnoaAJK1UkZQmd9mF84cUboeAiDq01j88Y/IFJCEk7ZX8Mb169oJJejiyZcvrIg8Hht8qqiAIcsXIxh/MI2rOFnDXUtIV4J7e211XFj4mXGxZMCAGtvj85Frh6JEaypQG6J15JTMTXA1z3sV8YPI4WzB04uSLDufFYhweVl/d56xuCTWolrM4s37sycQVSjztEtaPA0eIha1QFxGYS3BgYXVwBuObfQNxRX48Li8DNlCrL4/C6RQRRG2hUctYUBL2wyBxQaBatfhFukCiP5mtEPqx9TJsv/yMjdmPIF4l0iyc/+0a6G1f+aL6YtVcVce56zNPG0BfVod1EpXU/6rAGr4+39cmzPuuUvZ6MCrhTDsLOQEubNWA5vnKJnhcLTuBbBKUzKzj6P6R+1KOS0dLkWJ49a2fiCSL0uE=;S259WfX8n/6cvGIVYzI1qA=="
 ---
 

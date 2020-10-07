@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT6M5S
 publishedDateTime: 2020-06-23T15:00:01Z
-heat: 61
+heat: 67
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-kaUnBXvvGo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - Power BI
+  - Power BI Desktop
 
 images:
   - url: https://i.ytimg.com/vi/-kaUnBXvvGo/maxresdefault.jpg
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "3cHcsVjCTrkSPB09e9MEK5h400DzaGotu/q0IfPazjLFyoNTfvzqCA+Vhz5Oe2tMkQnwVBaRr9oREL2Ghe6B4ewWt9C4PN3Oh/SqiWCcaMQVitjpAUEm7oOzpJwbLGzagfVirWnZes5CakYxmIc7b0pOYn1c8enakFwvBExrU7y+2ShxCC9G/gAww8VuTXZFQEyanNcTDhQVOUOSWL6get7CwF1gsGIYX79BO9BBgP8/FWGcKbymbMNdhzF+HbfQ4Np6IEx884WL0hguXKkCgdGH4wnp/1l50Fs/KUC8iN7FbyYjMdNr5bg+04rYWsYBVy6bpi8m8xp7ie+VhquDTpTBXb0n7XFYuMt8JTETwUfMIKt8Pfz/TLnLfON/3J4RlQMMO0a29ds0VrJtB/nZ/m61FQGmWTkqUu3wlYb1QgA=;AlRmiCl6KR1xvuORZRyZfw=="
+secured: "umVxuiRBOhS6o25gSGgpsc8SUyVggMENwY4r453fTxeYYqFTxLXe4NtMgBtM+XrJocKP7d5Eok/WHJx5z1zmWKb412dIUtGcSAXXXA7NOMgUs8IGorEplsAGf6bLTkfXSO76QEUgzvcsA0+WCGxlk2ZX9EEodK/JTzrAhYQQXYyt2bem9cgI/hbSLQsHlRMFn1c53z/+N2nvydCaiB/JVhrhZTJKI879RLQ/VxkqMewXbueeVrxm1PC08Aoq6E6IWagblhpMP3Nk26kkANamCNWtemFBkiVceuxCoo+fHY6KoUh3iIKFP2G8Lne6UANCmEbk+5/OqZc/jiUEJPggxrVgVkVBhpEeTV5QWKrppn+VqSdy6OIcBKGxWDpP4oM9+FbETnsZlpml8kagG2oEn3UNEB5bPYn+xMHL2NI880o=;4aYX9+wzHSI/MIrT4Lb+Iw=="
 ---
 

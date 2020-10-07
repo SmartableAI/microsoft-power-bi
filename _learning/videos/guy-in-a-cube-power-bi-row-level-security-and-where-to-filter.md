@@ -1,0 +1,32 @@
+---
+title: "Power BI Row-Level Security And Where To Filter"
+excerpt: "In this video, Patrick looks at Power BI Row-Level Security And where to filter. He found that, after applying dynamic security, customers showed up in a slicer when they should not have. Challenge accepted! He walks through Power BI Desktop to show how he fixed his Row-Level Security problem.  LET'S"
+originalUrl: https://youtube.com/watch?v=9wN33rTaiB4
+type: video
+price: Free
+length: PT9M42S
+publishedDateTime: 2018-07-11T13:18:25Z
+heat: 64
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9wN33rTaiB4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
+provider:
+  name: Guy in a Cube
+  domain: guyinacube.com
+  images:
+    - url: https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg
+      width: 50
+      height: 50
+
+topics:
+  - Power BI
+
+images:
+  - url: https://i.ytimg.com/vi/9wN33rTaiB4/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "WmiBdAXsacIJ1pI6TJME+12liLJiZmt+C8LxXiHYAOUX1SlQ9ZtEcEwaLvCGsB8VSJsC7Klv7jpfMaGGwvDRMregmEa2KdT1wcDRT37W0/6z0NzLQPxf1rVy3NoWF9fdUg2osyJnNrVSEcZTyLXQUprQZtNunOg3ulDBpXyEL0fMXhRD53ogwuUM7vNVME9j1QWFu077o76ZO2dEsA/bsoxwZx7Pl7a4Gui9GHhTv6AbkCVneN56L0QyvPjGV+BCr+CHO9xveF2Hxm1QlTGBteYl/Jwvz6svSmuwVhlvgkQh0jt9vEkeoe3lcusrkNm1ilVmWEVHp9JPbeOOvhfwAjnyb7ZHLeRb/rMaFzJaqmV6424wDcH9EHlLH6RF/2Ud4lXABUb7i+oYNbyRo3lvYw==;k09I1JxR4wAQs5XXCNjJmA=="
+---
+

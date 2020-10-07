@@ -1,0 +1,32 @@
+---
+title: "Easily get an access token for the Power BI Embedded Playground"
+excerpt: "You need an Embed Token for the Power BI Embedded Playground, but you don't want to write code. Adam shows you how to easily get an access token with no code using PowerShell.  Power BI Embedded Playground - https://microsoft.github.io/PowerBI-JavaScript/demo/ Power BI REST API - https://docs.microsoft.com/en-us/rest/api/power-bi/"
+originalUrl: https://youtube.com/watch?v=f7HLyiAk-lQ
+type: video
+price: Free
+length: PT8M22S
+publishedDateTime: 2019-04-03T12:31:41Z
+heat: 54
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/f7HLyiAk-lQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
+provider:
+  name: Guy in a Cube
+  domain: guyinacube.com
+  images:
+    - url: https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg
+      width: 50
+      height: 50
+
+topics:
+  - Power BI
+
+images:
+  - url: https://i.ytimg.com/vi/f7HLyiAk-lQ/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "nzLYRZRYPy2Db48M2ZaiX1qVlNeoEY00KMm/SN3j/eJ3o0ZRgbVfKtiEmgegbJVd+do9HxiLjtpXHiZ26wPa3RIU3BtyeNSFHk+8lq7Y9te+sLBdM6LnLFoTHrmHwm+DXFY+Seq6JT1Z963vD1ehsg21B8w8A9dOiMxBQXF2dy5CHA5L/L9LMjwOIGD6iskdgeUGmXyoRNKpoVk7WGU3iIKZQ9ckeT1VpV1sujGJrTWfX09Lum0kQ0wWcdqcexLzxH65SAzd2Zg68UtY8dsj4yEbeZrnkya/FXVZLyWvFTXhxtO5XOQDTQajteScNUD60fweBQuWowKlBt3ZFVQZQ1sQkKsAcADRQIKqhp1sjhl9eTKnEV8TM5wj7BoN+0mIUHb35CFdy2wqTILvVOOrBA==;noPfj5uT5pMIvdIagQ2dCg=="
+---
+

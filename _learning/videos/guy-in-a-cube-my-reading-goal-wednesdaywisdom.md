@@ -1,0 +1,32 @@
+---
+title: "My reading goal #WednesdayWisdom"
+excerpt: "This is a look at my reading goal. There is a theme from successful business people and entrepreneurs that you need to read. I'm a very slow reader, but I think I found a method to help me in this area. I'm setting a goal for myself.  My reading journey: https://guyinacube.com/reading-journey/  FightMediocrity"
+originalUrl: https://youtube.com/watch?v=SHs52imY2uw
+type: video
+price: Free
+length: PT4M15S
+publishedDateTime: 2016-06-22T13:46:42Z
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SHs52imY2uw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
+provider:
+  name: Guy in a Cube
+  domain: guyinacube.com
+  images:
+    - url: https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg
+      width: 50
+      height: 50
+
+topics:
+  - Power BI
+
+images:
+  - url: https://i.ytimg.com/vi/SHs52imY2uw/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "us6BNxA0g7eEXYo0y3+zLBewuFOnlr4DECBjpym3N6CjrDQCozPzvLyGpbl7nBv2rHviw7KFX2t+P51WO4N/wtUReCcCMc54oxoXBMRIuMdYOlN7hUxifN0AviS5HJclg03oUPg4qC2GfOHgAQRZkodfzfC7IkeFaQytCzEeX2gevY/QTpIczPsDbJpoBNZGX7LVTDZXaVjGyUgvfuvQJ1M1oaxYQlmRaSzjMQ6Q2yEt2c3r84qx6GpRWuWP2Fh5e/7iugRylK76kkwtj/o0OI7FLG5DCuaWLSTtCE5urk7tgH5znNDPQcOdJ6d+5x2m0p5incEdCBWGYx/iem+Z8ui5PThxeHqy1rxdSeuc7rHs4R7t97JcW3tpTY5SUMYmGegpAOpclZqCyF5KePejgg==;5Fp1QzLIzqmkADqjdFc0Dw=="
+---
+

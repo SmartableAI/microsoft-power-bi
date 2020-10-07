@@ -1,0 +1,32 @@
+---
+title: "3 things Power BI admins should be aware of in Office 365"
+excerpt: "If you're a Power BI admin, you should be aware of certain items within the Office 365 Admin Center. These will help you be a better admin!  Sign up to be notified of our upcoming Power BI administration course! https://guyinacu.be/admincoursenotify  *******************  Want to take your Power BI skills"
+originalUrl: https://youtube.com/watch?v=v1WtfxLUsLc
+type: video
+price: Free
+length: PT10M1S
+publishedDateTime: 2020-01-30T14:00:32Z
+heat: 53
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/v1WtfxLUsLc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
+provider:
+  name: Guy in a Cube
+  domain: guyinacube.com
+  images:
+    - url: https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg
+      width: 50
+      height: 50
+
+topics:
+  - Power BI
+
+images:
+  - url: https://i.ytimg.com/vi/v1WtfxLUsLc/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "p2EDS1/0k444SBk/vD4KLSlvTmK1XwJ5CUVOgbXDy5b4FcyMPPZh8a5PUyDbTg3LTcpSwmtlmFgOeBFR/UAGIEjzGGNAgmyLTPhyXTxM04zKuCpTBQsxQF5Rle2tOSLo3piI6BF/7BJ6dUqZleeIf1ze4fDgAfUU1CLu5o5cBmWtsSDimEAEnOApgr5DQQvnQvhTuFsMWG38GqLkUDYyimOQpipTn2Rzq56IpYeP0hMLAC33aNK50TtSWZuyNlkicL9WeKTauGk7Dp2/YPEejaFrJ1DlwoGELHQiTVLWPieXb2r1ERx1/NbC1QtjgeJjlSO1hCHQaMINVL+jwKc3SBL99DKrBARb1xouKx2hQ0S8j7hBbx7uX/fBYp9iF8dmamTDs3EpqYRFDqcnnY5H4g==;BOMNhjBmlWCzRlZ4V6Xz3Q=="
+---
+
