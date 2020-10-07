@@ -1,146 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://powerbi.microsoft.com/en-us/blog/announcing-improved-mdx-query-performance-in-power-bi/</loc>
-    <lastmod>2020-10-07T03:17:35-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://smartable.ai/apps/powerbi/news/2020-09-28-power-bi-announcements-from-microsoft-ignite-roundup-sept-28-2020/</loc>
     <lastmod>2020-09-28T08:00:31-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://powerbi.microsoft.com/en-us/blog/join-us-power-bi-webinar-wednesday-30-september-2020-800-am-900-am-pdt/</loc>
-    <lastmod>2020-09-28T04:15:42-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://powerbi.microsoft.com/en-us/blog/see-all-the-power-bi-updates-at-the-microsoft-business-applications-launch-event/</loc>
-    <lastmod>2020-09-24T03:59:04-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-september-2020-update-is-now-available/</loc>
-    <lastmod>2020-09-24T02:58:18-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://powerbi.microsoft.com/en-us/blog/announcing-the-upcoming-evolution-of-power-bi-premium-to-enterprise-markets-and-beyond/</loc>
-    <lastmod>2020-09-23T04:14:56-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://powerbi.microsoft.com/en-us/blog/answering-your-questions-around-the-new-power-bi-premium-per-user-license/</loc>
-    <lastmod>2020-09-22T23:00:24-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.zdnet.com/index.php/category/2184/index.php/article/microsoft-announces-power-bi-teams-integration-nlp-and-per-user-premium-subscription/</loc>
-    <lastmod>2020-09-22T22:48:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.zdnet.com/article/microsoft-announces-power-bi-teams-integration-nlp-and-per-user-premium-subscription/</loc>
-    <lastmod>2020-09-22T09:33:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.neowin.net/news/power-bi-for-teams-enters-preview-premium-per-user-offering-introduced</loc>
-    <lastmod>2020-09-22T07:59:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://powerbi.microsoft.com/en-us/blog/announcing-new-power-bi-experiences-in-microsoft-teams/</loc>
-    <lastmod>2020-09-22T01:31:25-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://powerbi.microsoft.com/en-us/blog/driving-a-data-culture-in-a-world-of-remote-everything/</loc>
-    <lastmod>2020-09-22T01:30:43-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://powerbi.microsoft.com/en-us/blog/power-bi-september-2020-feature-summary/</loc>
-    <lastmod>2020-09-22T01:30:02-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://powerbi.microsoft.com/en-us/blog/announcing-deployment-pipelines-general-availability-ga/</loc>
-    <lastmod>2020-09-22T01:30:01-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://powerbi.microsoft.com/en-us/blog/smart-narrative-preview/</loc>
-    <lastmod>2020-09-22T01:30:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://powerbi.microsoft.com/en-us/blog/power-bi-app-for-mixed-reality-now-available-for-hololens-2/</loc>
-    <lastmod>2020-09-22T01:25:40-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://powerbi.microsoft.com/en-us/blog/congratulations-to-the-featured-data-stories-gallery-contributors/</loc>
-    <lastmod>2020-09-21T08:23:49-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://powerbi.microsoft.com/en-us/blog/power-bi-at-microsoft-ignite-virtual-conference/</loc>
-    <lastmod>2020-09-21T02:56:33-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.techspot.com/news/86065-become-certified-data-expert-excel-power-bi-training.html</loc>
-    <lastmod>2020-09-18T16:04:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.neowin.net/news/power-bi-new-look-updated-close-to-becoming-default-experience</loc>
-    <lastmod>2020-09-17T16:22:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://powerbi.microsoft.com/en-us/blog/updates-to-the-new-look-experience-and-release-plan/</loc>
-    <lastmod>2020-09-17T06:33:26-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://powerbi.microsoft.com/en-us/blog/gartner-analytics-and-bi-virtual-bake-off-2020-world-population-health-analysis-with-power-bi/</loc>
-    <lastmod>2020-09-14T00:30:16-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://powerbi.microsoft.com/en-us/blog/power-automate-actions-for-exporting-power-bi-and-paginated-reports-now-available/</loc>
-    <lastmod>2020-09-14T00:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://powerbi.microsoft.com/en-us/blog/join-us-power-bi-dev-camp-thursday-september-24-2020/</loc>
-    <lastmod>2020-09-09T23:00:46-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -151,104 +13,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://powerbi.microsoft.com/en-us/blog/power-bi-paginated-reports-august-2020-updates/</loc>
-    <lastmod>2020-09-04T01:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://powerbi.microsoft.com/en-us/blog/improving-power-bi-performance-when-querying-multidimensional-models/</loc>
-    <lastmod>2020-09-02T02:32:43-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://powerbi.microsoft.com/en-us/blog/how-microsoft-is-showing-geographical-availability-of-its-services/</loc>
-    <lastmod>2020-09-02T01:00:46-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://smartable.ai/apps/powerbi/news/2020-08-31-power-bi-in-excel-updates-and-more-roundup-aug-31-2020/</loc>
     <lastmod>2020-08-31T08:00:16-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://powerbi.microsoft.com/en-us/blog/release-update-for-sept-2020-release-of-power-bi-report-server/</loc>
-    <lastmod>2020-08-25T03:34:22-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-august-2020-update-is-now-available/</loc>
-    <lastmod>2020-08-21T03:27:24-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://powerbi.microsoft.com/en-us/blog/automl-now-supports-applying-models-in-pqo-function-browser/</loc>
-    <lastmod>2020-08-20T22:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://powerbi.microsoft.com/en-us/blog/power-bi-data-protection-updates/</loc>
-    <lastmod>2020-08-18T04:55:06-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://powerbi.microsoft.com/en-us/blog/july-2020-community-highlights/</loc>
-    <lastmod>2020-08-18T04:15:23-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.techrepublic.com/resource-library/casestudies/building-a-bank-that-can-surprise-and-delight-with-power-bi/</loc>
-    <lastmod>2020-08-17T09:13:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.neowin.net/news/power-bi-mobile-introduces-improved-navigation-experience-updated-headers-and-more</loc>
-    <lastmod>2020-08-13T12:56:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://powerbi.microsoft.com/en-us/blog/join-us-monthly-power-bi-dev-camp-is-here-starting-august-27-2020/</loc>
-    <lastmod>2020-08-13T11:34:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://powerbi.microsoft.com/en-us/blog/re-imagine-headers-and-navigation-in-the-power-bi-mobile-apps/</loc>
-    <lastmod>2020-08-12T20:27:38-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.neowin.net/news/power-bi-desktop-august-update-released---heres-all-thats-new</loc>
-    <lastmod>2020-08-12T15:26:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-august-2020-feature-summary/</loc>
-    <lastmod>2020-08-12T04:03:24-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://powerbi.microsoft.com/en-us/blog/building-cross-platform-solutions-that-connect-to-power-bi-datasets/</loc>
-    <lastmod>2020-08-11T10:27:11-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://powerbi.microsoft.com/en-us/blog/power-bi-thank-you-for-5-years-t-shirt-give-away-results/</loc>
-    <lastmod>2020-08-11T09:01:15-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -259,20 +25,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://powerbi.microsoft.com/en-us/blog/humana-enhances-its-healthcare-data-usage-with-power-bi-and-azure/</loc>
-    <lastmod>2020-08-10T02:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://smartable.ai/apps/powerbi/news/2020-08-03-power-bi-visuals-dax-studio-and-more-roundup-august-3-2020/</loc>
     <lastmod>2020-08-03T08:00:03-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://powerbi.microsoft.com/en-us/blog/august-2020-community-challenge-can-you-solve-these/</loc>
-    <lastmod>2020-08-03T04:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -283,62 +37,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.neowin.net/news/get-this-complete-big-data--power-bi-bundle-certification-for-only-3999-2</loc>
-    <lastmod>2020-07-26T09:46:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.neowin.net/news/get-this-complete-big-data--power-bi-bundle-certification-for-only-3999</loc>
-    <lastmod>2020-07-25T09:46:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.neowin.net/news/july-update-for-power-bi-on-premises-data-gateway-now-available</loc>
-    <lastmod>2020-07-23T15:50:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.neowin.net/news/microsoft-releases-open-source-power-bi-component-for-react</loc>
-    <lastmod>2020-07-20T11:20:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://smartable.ai/apps/powerbi/news/2020-07-20-power-bi-desktop-update-and-more-roundup-july-20-2020/</loc>
     <lastmod>2020-07-20T08:00:33-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.neowin.net/news/power-bi-desktop-july-update-introduces-gradient-legend-support-qa-enhancements-and-more</loc>
-    <lastmod>2020-07-15T12:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.zdnet.com/article/this-excel-and-power-bi-course-bundle-is-95-off-learn-to-make-data-driven-business-decisions-for-just-25/</loc>
-    <lastmod>2020-07-15T06:56:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://smartable.ai/apps/powerbi/news/2020-07-13-power-bi-roadmap-updates-roundup-july-13-2020/</loc>
     <lastmod>2020-07-13T08:00:15-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.techspot.com/news/85965-master-big-data-microsoft-power-bi-training-bundle.html</loc>
-    <lastmod>2020-07-12T09:17:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.zdnet.com/article/learn-to-make-data-driven-business-decisions-with-this-25-excel-and-power-bi-bundle/</loc>
-    <lastmod>2020-07-10T05:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
