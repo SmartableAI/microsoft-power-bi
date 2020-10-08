@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT6M14S
 publishedDateTime: 2019-05-22T11:52:43Z
-heat: 57
+heat: 62
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8DFih8ccMV0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -22,6 +22,12 @@ topics:
   - Power BI
   - Power BI Desktop
 
-secured: "rOxnghAxm2KpmDzy84sf/EnAGfOsPoEhPg+u+iCn5yfUZgGaNqPB0NlGvhWjSmO+yIBKiOaDV+wArg4lqFCgkS0/4snkA9Z1EBYvbu0fG+nuqmfy801lQ11u0Kk/g82+4xGWIYevoK8Oa3SCdD9/h9xQnLF0EabcB0sf5gxTNFf5TIHh3ik1Ymo/dijesdEt2vJ+fY8PWYy0BgXhbZSAT0lE4bPgy1czt4Wui2LBonROLoVlbYye6ECg2L9+aM5NP4u94zZRAAQZC/xYFB0EZYpmj/3vu+N0C37yYOkNJfFzpl5kkv1XES2bBtYtQP+cM2Edwee+HPBcInGg96h6141uqXyMYHhXV6p+iqJYlmVqkxcb7U3TBDVkeREwxiixG2yR/C2rRJPt399hR5Ci8w==;QQAjz1elI/0sTqM3rIc31A=="
+images:
+  - url: https://i.ytimg.com/vi/8DFih8ccMV0/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "r2F/trO/QmJRsqbsL5s5vXRdZsTeBcKZSIQvNJ4HXmU9Wjb7CrILhEKYmfAwlCnl+pGQ8/Ty0RZDEb2Lu3c0AKn85lwjB1jntQNQlDMvnGnurEg+EqD093Ed/WZM9M2RS4FXXt0iElIf3L6x7YwKYiW/B8vp/7v4fLrFin4oi2kteoDw3hacbg5jeHVz73QpjEMGW/WxnGL+6EabiWF1iUBz+E1+T3XUHOzEBgGOSvzSi+11D3lt/9zaYlaS+7clfeLYb88oYClD7MeOGGMbdQMuN8T9v0qX6/pPUfD4CuTZENn7PRmMET2b1eL8SkDpDDGLpH/YoWkoJPvyfyr+oR87gIjMJeFWnsBdg6pgN/Ho74Gy628CDFTgRtD7HzJuXMcLYzdiZ9M+xDDdR6zEkh1M2IPv5mB7C9EoYupAaGE=;4Z7RVpIrkKAGnDEuPkHGMg=="
 ---
 
