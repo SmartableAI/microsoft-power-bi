@@ -2,6 +2,7 @@
 title: "Visualize Graph Data in Power BI"
 excerpt: "Have you wondered how to visualize graph data? No, not Microsoft Graph. Graph Networks! Adam shows you how you can do this in Power BI Desktop.  Download sample: http://guyinacu.be/graphdatasample  Microsoft Graph API: https://docs.microsoft.com/graph/overview  Graphs and Networks https://www.mathworks.com/help/matlab/graph-and-network-algorithms.html"
 originalUrl: https://youtube.com/watch?v=z14DV4_Liw4
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-visualize-graph-data-in-power-bi/
 type: video
 price: Free
 length: PT6M43S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "FM/p3iSQ4ppZk25k9NPuf28Gyivn8DKoy5PDVNMCtOGo1i9rqhpWaTE7o12KMSgF6FY8YcwbCf1cSAU0p67ZrhdpB7UFt2Zxqwv9xlJpgbXoEqzG3l3ODESQIe+axU2OEOfCu6dk2752eu2Odh2rS8/H0+1Y7j+C29nAHkgUdjV2N7khGCkGiXIyynuKfkjdHLxf6caOl1/c0iqVWmI8KgmFfY22Ou36ZpbQ6V/SNbe63nnaJcSQ1wh8I4KVy4D6rUm+iAm7D5q/P62RliySlaN8VycEDrPZvYg47xcfIxynPg+3SteBa8C8Qx/0tzCEydYUC3rK2qCvW0EhP3uqRDIbWm7tuPV8zqgRZVjDiPsQM1maW5PnzTkEmkUrn41+;8Vdovtd7BF0uAVyKgKAsUA=="
+secured: "OhP88NYw+e4AnWKKaQDiqUwrZLY/lfG5BcfzCA4pBLNy1A/uxm6UNASLIKpDzpRNUrwNcvuS4YgE9fcSR0f35Peo01MlUWcK6Utcc7oMjQPmzlMf3xNAZGo3vdhKhUYE1d5Cf1nilbgIJN54oAUiinisatXETHYEEBb142Q4WZt5M3MxQk18zPBRykSlBOkUWzMPHJQfliE0rD2Kx1Ejp9PmA1VU/y/I+5dbiizTug6ud+b61Vgwzfa4ZOQ0gMTjvduJ4SrcUXG3qKwuS9d70Q8iwy8+zByIOwizLPhQMdBi/NBQ7GtEnUcM9NCiwADqKJG311lNSTDuemX7+49MQLbuF3xkboJxqnPjEDpBfDf4OnPEILCadTYBvEuJx0oT;yjzOFqwg6+/OSbsfz/6EDA=="
 ---
 
