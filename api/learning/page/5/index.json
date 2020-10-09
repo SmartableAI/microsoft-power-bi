@@ -515,7 +515,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 51,
+          "heat": 131,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/becoming-solution-architect-social.png",
@@ -654,8 +654,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 6755,
-        "average": 4.6663213
+        "count": 6756,
+        "average": 4.6662226
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -970,8 +970,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/dax-power-bi-models/",
       "length": "PT20M",
       "ratings": {
-        "count": 284,
-        "average": 4.721831
+        "count": 285,
+        "average": 4.722807
       },
       "provider": {
         "name": "Microsoft Learn",
