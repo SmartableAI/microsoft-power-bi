@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/dax-power-bi-models/",
       "length": "PT20M",
       "ratings": {
-        "count": 285,
-        "average": 4.722807
+        "count": 286,
+        "average": 4.7237763
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -53,8 +53,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/dax-power-bi-write-formulas/",
       "length": "PT27M",
       "ratings": {
-        "count": 196,
-        "average": 4.678571
+        "count": 198,
+        "average": 4.681818
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -96,8 +96,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/dax-power-bi-add-calculated-tables/",
       "length": "PT19M",
       "ratings": {
-        "count": 135,
-        "average": 4.7851853
+        "count": 137,
+        "average": 4.788321
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -138,8 +138,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/dax-power-bi-add-measures/",
       "length": "PT13M",
       "ratings": {
-        "count": 106,
-        "average": 4.6037736
+        "count": 107,
+        "average": 4.6074767
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -180,8 +180,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/dax-power-bi-iterator-functions/",
       "length": "PT12M",
       "ratings": {
-        "count": 96,
-        "average": 4.6875
+        "count": 97,
+        "average": 4.6907215
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -223,8 +223,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/dax-power-bi-modify-filter/",
       "length": "PT21M",
       "ratings": {
-        "count": 90,
-        "average": 4.5666666
+        "count": 91,
+        "average": 4.5604396
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -266,8 +266,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/dax-power-bi-time-intelligence/",
       "length": "PT19M",
       "ratings": {
-        "count": 92,
-        "average": 4.6630435
+        "count": 95,
+        "average": 4.631579
       },
       "provider": {
         "name": "Microsoft Learn",
