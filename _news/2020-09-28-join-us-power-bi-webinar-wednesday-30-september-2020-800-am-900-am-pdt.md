@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/join-us-power-bi-webinar-
 webUrl: "https://powerbi.microsoft.com/en-us/blog/join-us-power-bi-webinar-wednesday-30-september-2020-800-am-900-am-pdt/"
 type: article
 quality: 83
-heat: 83
+heat: 84
 published: true
 
 provider:
