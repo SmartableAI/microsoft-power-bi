@@ -4,7 +4,7 @@ excerpt: "I first wrote this article back in Jan-2019 and have decided to come b
 webUrl: https://exceleratorbi.com.au/copy-measures-between-2-power-bi-files/
 type: article
 publishedDateTime: 2020-08-17T23:35:13Z
-heat: 50
+heat: 130
 
 provider:
   name: Excelerator BI
