@@ -16,6 +16,7 @@ provider:
 
 topics:
   - Power BI
+  - Power BI Desktop
 
 images:
   - url: https://i.ytimg.com/vi/LqJFnXf1rgs/maxresdefault.jpg
@@ -23,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Tcel6gwPxv8Gf3SIq4ALFOoO687r7qR1ffOBXEhOiJb9lNNFPSSS1uXK//mJwOknwkgv00Wxj19beAjU5vQIc1u5P7w6QmVsbClHRlWLqunkFgrpf/K8MgC6PFzCpa80JglKLWZ3MIQ9tq1k0xZaaRzfWx4NrcnZ33mTmBx1/nES2pUCNjQXi0rmPFGspmQzhpOmvi4V7m4rTlVMA/Svv+Vku60J3P9+zyFsXc+6VNdiik0u6tWeH+/kUaL6n33Xe33LzgBat7iqXFo162ORtPWWInYjo+aRMjLg52OnTRx9YOgAScVs6J6Q679Uja8YV4ePuDsx8O/E/B5F5IK6st82RTDSbiNYU1jtGgcp0E4wgLgssWuSaBLBdb8EpcahAfd8OSIWvQWB1CtFT2lWSHHm7KX3TZrXBmdj2i2o2SM=;I3PQ8uMEoULy0x/F3sW8dg=="
+secured: "Ip3GzhSP7x6nezH2CMEHnNYbDWioNthuLheVHraqdc8DzhT4XsWCvip1MurCTwOpBHpBfX79WFBXvfi1abcTHy2rV/Umibdc4nAxloOu4lRhk3cmsMWQJbLgmjeBCD+NiRuCDSf9fTBxfLrZaIqpSZAvcwPwweQR8z57BkqFLRy7vitON4A0hpa805AHMm7JBBgkK1GhpeiaMmheL3ALCjmZjmJvYSroihDhH5PMv1Ux/NdUHr4D1QjyQWEo4O+Xr2UGEcI1CqfV/j0dFHEM8q2VEUDDMVUydWbaRpgUpgAXyJejr91p5LmsV7lfAArxrLgrPkDWmDnyYgtDtpkwUvoMx1Nj7Feh0zl2Wpn3VXfObPrqFay3+Ql9TQiI59cQTCM8l2GTU5N7t2cSdiEkGrsuCAtZzG2A1hub/NR1CNg=;/z2X6s9+wv8Qynq5Ob+Vzg=="
 ---
 

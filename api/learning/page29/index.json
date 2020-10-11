@@ -4,23 +4,31 @@
   "page": 29,
   "value": [
     {
-      "path": "_learning/videos/radacad-create-ribbon-chart-using-charticulator-inside-power-bi.md",
-      "title": "Create Ribbon Chart Using Charticulator inside Power BI",
-      "excerpt": "This short video shows how to create your own Ribbon Chart inside Charticulator and then import it into Power BI desktop to access the data source website see the below link: https://gs.statcounter.com/os-market-share/mobile/worldwide  also, the transformed dataset has been uploaded here: https://radacad-my.sharepoint.com/:x:/p/leila/EWvPqySqTIhNs-fR1bp7JJYB-pQLMtphhuZ_aE5jLcHQ1w?e=135oPD",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-create-ribbon-chart-using-charticulator-inside-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-create-ribbon-chart-using-charticulator-inside-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=u7zukdinxKQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/u7zukdinxKQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M36S",
+      "path": "_learning/videos/guy-in-a-cube-power-bi-sql-server-always-on-availability-groups.md",
+      "title": "Power BI & SQL Server Always On Availability Groups",
+      "excerpt": "In this video, Patrick shows how you can successfully connect to your SQL Server Always On Availability Group (AG) Secondary Read Replica using Power BI Desktop and the On-Premises Data Gateway. Adam jumps in to show you what the connection string looks like when you use this approach.  Configure Read-Only",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-power-bi-sql-server-always-on-availability-groups/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-power-bi-sql-server-always-on-availability-groups/",
+      "originalUrl": "https://youtube.com/watch?v=Q8Fimh4lcUg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Q8Fimh4lcUg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M3S",
       "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2020-09-16T17:42:25-07:00",
+      "publishedDateTime": "2017-09-06T08:41:50-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/u7zukdinxKQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Q8Fimh4lcUg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -33,491 +41,31 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-dax-measure-in-the-axis-of-the-power-bi-report.md",
-      "title": "DAX Measure in the Axis of the Power BI Report",
-      "excerpt": "If you even need to show your DAX measures in a chart without a dimension to slice and dice it, you won’t get a great experience in the visual. In this video, I’ll share a trick that you can use to have a nice visualization like what you see in the above screenshot. Download the file and study more from",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-dax-measure-in-the-axis-of-the-power-bi-report/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-dax-measure-in-the-axis-of-the-power-bi-report/",
-      "originalUrl": "https://youtube.com/watch?v=CRs2CnW7tVU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CRs2CnW7tVU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M35S",
+      "path": "_learning/videos/guy-in-a-cube-power-bi-sudoku-custom-fonts-dax-and-more-june-25-2018.md",
+      "title": "Power BI Sudoku, Custom fonts, DAX and more... (June 25, 2018)",
+      "excerpt": "Fun with DAX – Sudoku (@PhilSeamark) http://radacad.com/fun-with-dax-sudoku  Custom Web Fonts and Icons in Power BI (@dataveld) https://dataveld.com/2018/06/18/custom-web-fonts-and-icons-in-power-bi/  POWER BI REPORT SERVER DEVOPS (Trisha McCormick) https://www.blue-granite.com/blog/power-bi-report-server-devops",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-power-bi-sudoku-custom-fonts-dax-and-more-june-25-2018/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-power-bi-sudoku-custom-fonts-dax-and-more-june-25-2018/",
+      "originalUrl": "https://youtube.com/watch?v=1vVOAmAtUaM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1vVOAmAtUaM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M5S",
       "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2020-08-18T15:30:39-07:00",
+      "publishedDateTime": "2018-06-25T06:44:02-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/CRs2CnW7tVU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-fibonacci-sequence-understanding-the-power-query-recursive-function-for-power-bi.md",
-      "title": "Fibonacci Sequence   Understanding the Power Query Recursive Function for Power BI",
-      "excerpt": "Recursive functions in Power Query are not very popular, but sometimes very helpful when in need. In this post, I'll explain what a recursive function is, how it works, and explain it through a famous recursive example of Fibonacci Sequence. Download the code, and Power BI file from my blog article here:",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-fibonacci-sequence-understanding-the-power-query-recursive-function-for-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-fibonacci-sequence-understanding-the-power-query-recursive-function-for-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=IrmpCyYiYGc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IrmpCyYiYGc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M30S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-04-28T16:42:25-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/IrmpCyYiYGc/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-getting-started-with-power-bi-build-your-first-visualization.md",
-      "title": "Getting started with Power BI   Build your first visualization",
-      "excerpt": "If you want to learn how to build your very first visualization using Power BI Desktop, watch this simple demo and learn how to do it yourself.  To download the data source for this sample, go to my article here: https://radacad.com/power-bi-desktop-the-first-experience   *******************   Want to",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-getting-started-with-power-bi-build-your-first-visualization/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-getting-started-with-power-bi-build-your-first-visualization/",
-      "originalUrl": "https://youtube.com/watch?v=jUXJGWJsipU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jUXJGWJsipU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M48S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-09-21T14:52:28-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jUXJGWJsipU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-how-to-use-all-in-a-dax-expression-in-power-bi.md",
-      "title": "How to Use ALL in a DAX Expression in Power BI",
-      "excerpt": "I have previously explained what the ALL function in Power BI is, and how it helps in working with filters in your report. However, still I get many students confused about how to use this function, which parameter to pass to it. This video is explaining that in detail. Download the Power BI file and",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-how-to-use-all-in-a-dax-expression-in-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-how-to-use-all-in-a-dax-expression-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=VjTJp2XhN1A",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VjTJp2XhN1A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M29S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-05-25T13:03:20-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/VjTJp2XhN1A/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-offset-columns-for-the-date-table-flexibility-in-relative-date-filtering-for-power-bi.md",
-      "title": "Offset Columns for the Date Table   Flexibility in Relative Date Filtering for Power BI",
-      "excerpt": "I have written previously provided an all-in-one script for the date dimension, and also wrote an article about the relative date slicer. However, sometimes you cannot use the relative date slicer (timezone issue can be one example), adding offset columns help to overcome that challenge, and still be",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-offset-columns-for-the-date-table-flexibility-in-relative-date-filtering-for-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-offset-columns-for-the-date-table-flexibility-in-relative-date-filtering-for-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=4-hhO5jXPEk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4-hhO5jXPEk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M55S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-05-07T10:19:32-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/4-hhO5jXPEk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-one-dimension-filters-another-dimension-in-power-bi.md",
-      "title": "One Dimension Filters Another Dimension in Power BI",
-      "excerpt": "I often get this question after I explain about the star-schema. The question is that both my dimensions are filtering my fact table values, but how can I get one dimension filtering another dimension? for example, how can I get only the list of products that have been purchased by this customer? In",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-one-dimension-filters-another-dimension-in-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-one-dimension-filters-another-dimension-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=6Nu-1_a31iU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6Nu-1_a31iU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M21S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-07-20T01:23:17-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6Nu-1_a31iU/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-power-bi-dax-back-to-basics-scalar-vs-tabular-functions.md",
-      "title": "Power BI DAX Back to Basics   Scalar Vs Tabular Functions",
-      "excerpt": "DAX is the analytical language in Power BI. Learning this language, however, comes with some difficulties. Part of that challenge is the way that functions work in DAX. Learning the output of functions is an important element of learning how and where you can use them. In this video, I'll explain two",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-power-bi-dax-back-to-basics-scalar-vs-tabular-functions/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-power-bi-dax-back-to-basics-scalar-vs-tabular-functions/",
-      "originalUrl": "https://youtube.com/watch?v=MI7WIwBFhU0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MI7WIwBFhU0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M26S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-04-15T17:29:54-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/MI7WIwBFhU0/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-power-bi-desktop-download-or-microsoft-store-app-which-one-is-better.md",
-      "title": "Power BI Desktop Download or Microsoft Store App   Which One is better",
-      "excerpt": "If you want to develop Power BI reports, you'll need the Power BI Desktop application. However, Power BI Desktop application comes in two ways; Download it separately and install it on your Windows machine, or Get it from Microsoft Store as an App. The question that I often get is; What is the difference?",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-power-bi-desktop-download-or-microsoft-store-app-which-one-is-better/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-power-bi-desktop-download-or-microsoft-store-app-which-one-is-better/",
-      "originalUrl": "https://youtube.com/watch?v=LqJFnXf1rgs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LqJFnXf1rgs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M53S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-04-06T17:45:20-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/LqJFnXf1rgs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-power-bi-is-too-much-for-one-person-roles-in-the-power-bi-development.md",
-      "title": "Power BI Is Too Much for One Person   Roles in the Power BI Development",
-      "excerpt": "Power BI is a tool that you can get started working with it in a few hours, but to use it in its full potential, these days, you require to have many skills. The variety of solutions and BI implementations is also dictating to have different roles, positions, jobs in the Power BI development market.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-power-bi-is-too-much-for-one-person-roles-in-the-power-bi-development/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-power-bi-is-too-much-for-one-person-roles-in-the-power-bi-development/",
-      "originalUrl": "https://youtube.com/watch?v=I-D7IXGXDXs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/I-D7IXGXDXs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-07-07T23:44:28-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/I-D7IXGXDXs/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-relative-date-slicer-for-your-local-time-zone-in-power-bi.md",
-      "title": "Relative Date Slicer for Your Local Time Zone in Power BI",
-      "excerpt": "If you have used the relative date slicer and you are not living at a timezone close to UTC, then you have seen that the Power BI Date slicer is not much of a use, because you have to still adjust it with your local time zone. I have previously written a couple of articles related to this issue and ways",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-relative-date-slicer-for-your-local-time-zone-in-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-relative-date-slicer-for-your-local-time-zone-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=lcNIRAh2pg8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lcNIRAh2pg8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M42S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-05-10T23:46:20-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/lcNIRAh2pg8/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-remove-digits-or-keep-them-in-power-bi-using-power-query.md",
-      "title": "Remove Digits or Keep them in Power BI Using Power Query",
-      "excerpt": "There are a couple of useful actions that help a lot in cleaning data; removing digits, or keeping digits and removing everything else. In this short video, I’ll explain a simple method to do that using Power Query. Codes are in my blog article here: https://radacad.com/remove-digits-or-keep-them-in-power-bi-using-power-query",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-remove-digits-or-keep-them-in-power-bi-using-power-query/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-remove-digits-or-keep-them-in-power-bi-using-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=pZVS3O-4Jb4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pZVS3O-4Jb4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M59S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-05-13T00:25:47-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/pZVS3O-4Jb4/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-script-for-creating-time-table-in-power-bi-with-hours-minutes-and-seconds-buckets.md",
-      "title": "Script for Creating TIME Table in Power BI with Hours, Minutes and Seconds Buckets",
-      "excerpt": "I have a Power Query script that I usually use in any Power BI solution that needs time-based analysis. However, I never had a chance to publish it here for everyone to use. So here it is. A friend's question about a time table reminded me that it is good to publish this to the public. This is a script",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-script-for-creating-time-table-in-power-bi-with-hours-minutes-and-seconds-buckets/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-script-for-creating-time-table-in-power-bi-with-hours-minutes-and-seconds-buckets/",
-      "originalUrl": "https://youtube.com/watch?v=x0_-hALhS7Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/x0_-hALhS7Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M54S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-04-02T17:00:59-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/x0_-hALhS7Q/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-secure-the-sensitive-data-in-power-bi-data-masking-better-with-row-level-security.md",
-      "title": "Secure the Sensitive Data in Power BI   Data Masking better with Row Level Security",
-      "excerpt": "In my previous article/video, I explained how you can hide sensitive data from the user's view. The method I explained there is a simple method, however, for a specific type of user. If you have users who are using Power BI Desktop to create reports on top of your model, and they are going to create",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-secure-the-sensitive-data-in-power-bi-data-masking-better-with-row-level-security/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-secure-the-sensitive-data-in-power-bi-data-masking-better-with-row-level-security/",
-      "originalUrl": "https://youtube.com/watch?v=ORxgSciSC5M",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ORxgSciSC5M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M48S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-06-10T18:43:05-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ORxgSciSC5M/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-show-the-information-but-not-the-details-power-bi-data-masking.md",
-      "title": "Show the information but not the details   Power BI Data Masking",
-      "excerpt": "I wrote several row-level security articles so far, and a book. I explained how to restrict access to the data using row-level security approaches. However, one of the questions I got recently is this: “I want users to see one another’s sales information, but not to see who others are! How can I do that",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-show-the-information-but-not-the-details-power-bi-data-masking/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-show-the-information-but-not-the-details-power-bi-data-masking/",
-      "originalUrl": "https://youtube.com/watch?v=24BuWbUJPSk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/24BuWbUJPSk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M22S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-06-07T19:56:05-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/24BuWbUJPSk/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-showing-current-time-and-latest-refresh-time-at-local-timezones-in-the-power-bi-report.md",
-      "title": "Showing Current Time and Latest Refresh Time at Local Timezones in the Power BI Report",
-      "excerpt": "I have previously explained a method explaining different ways of getting the local timezone. However, that method was only for a scenario with users all in one timezone. What if your users are in different time zones? what if you want to show them information in the local timezone for each user? In",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-showing-current-time-and-latest-refresh-time-at-local-timezones-in-the-power-bi-report/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-showing-current-time-and-latest-refresh-time-at-local-timezones-in-the-power-bi-report/",
-      "originalUrl": "https://youtube.com/watch?v=oY2ZiZuBGAs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oY2ZiZuBGAs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M19S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-07-13T02:20:08-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/oY2ZiZuBGAs/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-stack-bar-chart-with-images.md",
-      "title": "Stack Bar Chart with Images",
-      "excerpt": "In this short video, I will explain how we can import images from local machines for the Stack Bar chart. This data is about Carbon Dioxide Emission for 2011. You can access data from here https://radacad-my.sharepoint.com/:x:/p/leila/Ee4d5chTImtCh1qPk0FgTYIBa4mn9fDZIHp4w-ITPZW0kA?e=F4t8oN",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-stack-bar-chart-with-images/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-stack-bar-chart-with-images/",
-      "originalUrl": "https://youtube.com/watch?v=NoCxrUEgn1s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NoCxrUEgn1s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M53S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-09-17T16:54:33-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/NoCxrUEgn1s/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-stop-dax-cumulative-total-calculation-in-power-bi.md",
-      "title": "Stop DAX Cumulative Total Calculation in Power BI",
-      "excerpt": "Did it happen to you that you have calculated a cumulative total (such as running total, or year to date, etc) either using the quick measures or by writing the DAX expression yourself, and then realizing that the calculation happens even for the periods without any real data? For example, you want to",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-stop-dax-cumulative-total-calculation-in-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-stop-dax-cumulative-total-calculation-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=N14CNliJqKM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/N14CNliJqKM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M13S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-09-02T15:28:07-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/N14CNliJqKM/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/1vVOAmAtUaM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -531,23 +79,31 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-using-charticulator-for-replanting-tree-over-time-in-different-region-of-new-zealand.md",
-      "title": "Using Charticulator  for Replanting tree over Time in Different Region of New Zealand",
-      "excerpt": "In this chart, I have explained how to create a chart that each point of data shows coordination of the New Zealand Regio and in each data point you can see the amount of replanting for each year, I use Charticulator to draw this chart,  the original dataset is from Stat of New Zealand. But I made some",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-using-charticulator-for-replanting-tree-over-time-in-different-region-of-new-zealand/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-using-charticulator-for-replanting-tree-over-time-in-different-region-of-new-zealand/",
-      "originalUrl": "https://youtube.com/watch?v=3EtF4jtvXvE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3EtF4jtvXvE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M44S",
+      "path": "_learning/videos/guy-in-a-cube-power-bi-tooltips-and-report-performance.md",
+      "title": "Power BI Tooltips and report performance",
+      "excerpt": "Patrick looks at a customer scenario where he found Power BI tooltips causing report performance issues. He shows how to identify and then a possible solution.  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton -- http://twitter.com/patrickdba -- http://www.facebook.com/guyinacube",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-power-bi-tooltips-and-report-performance/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-power-bi-tooltips-and-report-performance/",
+      "originalUrl": "https://youtube.com/watch?v=VlP1_Ic9qaw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VlP1_Ic9qaw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M17S",
       "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2020-09-14T13:36:42-07:00",
+      "publishedDateTime": "2019-02-24T15:27:28-08:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/3EtF4jtvXvE/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/VlP1_Ic9qaw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -560,23 +116,146 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-working-with-records-lists-and-values-in-power-bi-dataflows.md",
-      "title": "Working with Records, Lists, and Values in Power BI Dataflows",
-      "excerpt": "If you have been using dataflows, and you have the return value of a query as something which is not in the form of a table, such as a record, list, or value. then you have seen that the dataflow automatically converts them all to tables. There is an explanation about it, and a method around it. In this",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-working-with-records-lists-and-values-in-power-bi-dataflows/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-working-with-records-lists-and-values-in-power-bi-dataflows/",
-      "originalUrl": "https://youtube.com/watch?v=M7dkx6uW4u4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/M7dkx6uW4u4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M56S",
+      "path": "_learning/videos/guy-in-a-cube-power-bi-tutorial-grow-up-power-bi-desktop-to-analysis-services-learning-the-clicks.md",
+      "title": "Power BI Tutorial - Grow up Power BI Desktop to Analysis Services (Learning the clicks)",
+      "excerpt": "In this Power BI Tutorial, Patrick will show you how you can grow up a Power BI Desktop file (PBIX) to Analysis Services. He's all about learning the clicks! This is a Power BI tutorial worth watching!  You can build your model within Power BI Desktop and then use Azure Analysis Services to migrate to",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-power-bi-tutorial-grow-up-power-bi-desktop-to-analysis-services-learning-the-clicks/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-power-bi-tutorial-grow-up-power-bi-desktop-to-analysis-services-learning-the-clicks/",
+      "originalUrl": "https://youtube.com/watch?v=0V8Y8g6CS-o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0V8Y8g6CS-o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M26S",
       "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2020-05-26T23:20:38-07:00",
+      "publishedDateTime": "2018-04-18T09:32:09-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/M7dkx6uW4u4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/0V8Y8g6CS-o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Power BI Tutorial - Grow up Power BI Desktop to Analysis Services (Learning the clicks)",
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-power-bi-updates-a-birthday-and-more-july-16-2018.md",
+      "title": "Power BI Updates, a birthday and more... (July 16, 2018)",
+      "excerpt": "Center the X-Axis on a Line Chart (@Seth_C_Bauer) https://powerbi.tips/2018/07/center-the-x-axis-on-a-line-chart/  'What If' Analysis Techniques For Power BI (@Enterprise_dna) https://community.powerbi.com/t5/Community-Blog/What-If-Analysis-Techniques-For-Power-BI/ba-p/460414  Happy Birthday Power Query",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-power-bi-updates-a-birthday-and-more-july-16-2018/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-power-bi-updates-a-birthday-and-more-july-16-2018/",
+      "originalUrl": "https://youtube.com/watch?v=vZEO_MNF1Ts",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vZEO_MNF1Ts\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M48S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-07-15T04:26:09-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/vZEO_MNF1Ts/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-power-bi-updates-cds-a-dax-power-query-and-more.md",
+      "title": "Power BI updates, CDS-A, DAX, Power Query and more...",
+      "excerpt": "Tour of the Power BI Solution Advisor (@paul_turley) https://sqlserverbi.blog/2018/03/18/tour-of-the-power-bi-solution-advisor/  Capturing Power BI queries using DAX Studio (@marcorus) https://www.sqlbi.com/articles/capturing-power-bi-queries-using-dax-studio/  Improving The Performance Of Aggregation",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-power-bi-updates-cds-a-dax-power-query-and-more/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-power-bi-updates-cds-a-dax-power-query-and-more/",
+      "originalUrl": "https://youtube.com/watch?v=axYwCP5czRE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/axYwCP5czRE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M28S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-03-22T07:27:05-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/axYwCP5czRE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-power-bi-updates-dataflows-paginated-reports-metrics-app-and-more-november-12-2018.md",
+      "title": "Power BI Updates - Dataflows, Paginated reports, Metrics app and more... (November 12, 2018)",
+      "excerpt": "Power BI Service and Mobile September & October Feature Summary https://powerbi.microsoft.com/en-us/blog/power-bi-service-and-mobile-september-and-october-2018-feature-summary/  Power BI delivers dataflows, enterprise reporting, and major updates to Power BI Desktop https://powerbi.microsoft.com/en-us/blog/power-bi-delivers-dataflows-enterprise-reporting-and-major-updates-to-power-bi-desktop/",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-power-bi-updates-dataflows-paginated-reports-metrics-app-and-more-november-12-2018/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-power-bi-updates-dataflows-paginated-reports-metrics-app-and-more-november-12-2018/",
+      "originalUrl": "https://youtube.com/watch?v=HqftYy4_io0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HqftYy4_io0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M2S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-11-11T11:33:04-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/HqftYy4_io0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -590,31 +269,31 @@
       ]
     },
     {
-      "path": "_learning/videos/sqlbi-analyzing-performance-analyzer-trace-in-dax-studio.md",
-      "title": "Analyzing Performance Analyzer trace in DAX Studio",
-      "excerpt": "Learn how to import Performance Analyzer trace information in DAX Studio and find more insights about report performance. How to learn DAX: https://www.sqlbi.com/guides/dax/ DAX Studio: https://daxstudio.org/",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/sqlbi-analyzing-performance-analyzer-trace-in-dax-studio/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/sqlbi-analyzing-performance-analyzer-trace-in-dax-studio/",
-      "originalUrl": "https://youtube.com/watch?v=rMqZmrOqAAo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rMqZmrOqAAo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M11S",
+      "path": "_learning/videos/guy-in-a-cube-power-bi-updates-dax-dashboards-and-more-may-17-2018.md",
+      "title": "Power BI updates, DAX, Dashboards and more... (May 17, 2018)",
+      "excerpt": "DAX Measure Dependencies in SSAS Tabular and Power BI (@biinsightnz) http://biinsight.com/dax-measure-dependencies-in-ssas-tabular-and-power-bi/  SQL, M or DAX? (@Paul_Turley) https://sqlserverbi.blog/2018/05/12/sql-m-or-dax/  Announcing Dashboard Theming in the Power BI Service https://powerbi.microsoft.com/en-us/blog/announcing-dashboard-theming-in-the-power-bi-service/",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-power-bi-updates-dax-dashboards-and-more-may-17-2018/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-power-bi-updates-dax-dashboards-and-more-may-17-2018/",
+      "originalUrl": "https://youtube.com/watch?v=1pfGMUaazps",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1pfGMUaazps\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M25S",
       "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2020-07-02T03:00:12-07:00",
+      "publishedDateTime": "2018-05-17T07:05:02-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/rMqZmrOqAAo/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/1pfGMUaazps/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -628,31 +307,31 @@
       ]
     },
     {
-      "path": "_learning/videos/sqlbi-disabling-auto-date-time-in-power-bi.md",
-      "title": "Disabling auto date-time in Power BI",
-      "excerpt": "This video shows how to disable the date table automatically created by Power BI. Article and download: https://sql.bi/137706",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/sqlbi-disabling-auto-date-time-in-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/sqlbi-disabling-auto-date-time-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=xu3uDEHtCrg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xu3uDEHtCrg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M51S",
+      "path": "_learning/videos/guy-in-a-cube-power-bi-visuals-dataflows-as-birthday-and-more-november-19-2018.md",
+      "title": "Power BI visuals, Dataflows, AS Birthday and more... (November 19, 2018)",
+      "excerpt": "Power BI Visual Usability Checklist (@mmarie) https://datasavvy.me/2018/11/15/power-bi-visual-usability-checklist/  Get the most out of Power Query in Power BI Dataflows (@diverdown1964) https://whitepages.unlimitedviz.com/2018/11/most-power-query-power-bi-dataflows/  Analysis Services is 20 years old!",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-power-bi-visuals-dataflows-as-birthday-and-more-november-19-2018/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-power-bi-visuals-dataflows-as-birthday-and-more-november-19-2018/",
+      "originalUrl": "https://youtube.com/watch?v=isZQX6MUUto",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/isZQX6MUUto\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M50S",
       "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2020-06-16T08:30:13-07:00",
+      "publishedDateTime": "2018-11-19T04:55:06-08:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/xu3uDEHtCrg/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/isZQX6MUUto/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -662,35 +341,35 @@
       "price": "Free",
       "topics": [
         "Power BI",
-        "DAX"
+        "Dataflows"
       ]
     },
     {
-      "path": "_learning/videos/sqlbi-improving-format-of-dax-code-by-using-dax-studio.md",
-      "title": "Improving format of DAX code by using DAX Studio",
-      "excerpt": "If it is not formatted... it is not DAX! Use DAX Formatter in DAX Studio and improve your formulas in Power BI! How to learn DAX: https://www.sqlbi.com/guides/dax/ DAX Studio: https://daxstudio.org/",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/sqlbi-improving-format-of-dax-code-by-using-dax-studio/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/sqlbi-improving-format-of-dax-code-by-using-dax-studio/",
-      "originalUrl": "https://youtube.com/watch?v=gTN5ai8j3PE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gTN5ai8j3PE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M49S",
+      "path": "_learning/videos/guy-in-a-cube-power-bi-workspaces-august-2018-power-bi-desktop-and-more-august-13-2018.md",
+      "title": "Power BI Workspaces, August 2018 Power BI Desktop and more... (August 13, 2018)",
+      "excerpt": "Understanding Power BI Dual Storage (@tlachev) https://prologika.com/understanding-power-bi-dual-storage/  Convert from Seconds to Minutes with a DAX Measure (@GilbertQue) https://www.fourmoo.com/2018/08/07/convert-from-seconds-to-minutes-with-a-dax-measure/  Choosing font color based on background color",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-power-bi-workspaces-august-2018-power-bi-desktop-and-more-august-13-2018/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-power-bi-workspaces-august-2018-power-bi-desktop-and-more-august-13-2018/",
+      "originalUrl": "https://youtube.com/watch?v=OuKtN3Won9k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OuKtN3Won9k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M6S",
       "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2020-05-28T03:30:13-07:00",
+      "publishedDateTime": "2018-08-13T07:06:08-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/gTN5ai8j3PE/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/OuKtN3Won9k/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -700,112 +379,223 @@
       "price": "Free",
       "topics": [
         "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-improving-the-visualization-of-the-result-in-dax-studio.md",
-      "title": "Improving the visualization of the result in DAX Studio",
-      "excerpt": "You can improve the format string of the result of a query in DAX Studio. How to learn DAX: https://www.sqlbi.com/guides/dax/ DAX Studio: https://daxstudio.org/",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/sqlbi-improving-the-visualization-of-the-result-in-dax-studio/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/sqlbi-improving-the-visualization-of-the-result-in-dax-studio/",
-      "originalUrl": "https://youtube.com/watch?v=23JrbkCZwBI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/23JrbkCZwBI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M12S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-06-04T03:30:13-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/23JrbkCZwBI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-introducing-performance-analyzer-in-power-bi-desktop.md",
-      "title": "Introducing Performance Analyzer in Power BI Desktop",
-      "excerpt": "Performance Analyzer is the first diagnostic tool to find the slower parts of a report. Find the slowest DAX query before starting a deeper investigation using DAX Studio. How to learn DAX: https://www.sqlbi.com/guides/dax/ DAX Studio: https://daxstudio.org/",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/sqlbi-introducing-performance-analyzer-in-power-bi-desktop/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/sqlbi-introducing-performance-analyzer-in-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=1lfeW9283vA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1lfeW9283vA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M4S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-06-25T03:30:12-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/1lfeW9283vA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX",
         "Power BI Desktop"
       ]
     },
     {
-      "path": "_learning/videos/sqlbi-mark-as-date-table-in-power-bi.md",
-      "title": "Mark as Date Table in Power BI",
-      "excerpt": "Tabular models (including Power BI) require marking the Date table as a date table to get appropriate results with time intelligence calculations. This video explains why this setting is required. Article and download: https://sql.bi/670749",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/sqlbi-mark-as-date-table-in-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/sqlbi-mark-as-date-table-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=hrhEjg9yYvE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hrhEjg9yYvE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M33S",
+      "path": "_learning/videos/guy-in-a-cube-power-pivot-tracing.md",
+      "title": "Power Pivot Tracing",
+      "excerpt": "How to enable Power Pivot Add-In tracing within Excel.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-power-pivot-tracing/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-power-pivot-tracing/",
+      "originalUrl": "https://youtube.com/watch?v=DoZxabRTuKc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DoZxabRTuKc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M50S",
       "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2020-08-08T01:34:41-07:00",
+      "publishedDateTime": "2015-01-22T07:09:18-08:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/hrhEjg9yYvE/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/DoZxabRTuKc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-power-query-and-a-new-power-bi-desktop-update.md",
+      "title": "Power Query and a new Power BI Desktop update",
+      "excerpt": "Power Query – Consecutive Days (@PowerPivotPro) https://powerpivotpro.com/2018/01/power-query-consecutive-days/  The Each Keyword in Power Query (@kpuls) https://www.excelguru.ca/blog/2018/01/09/each-keyword-power-query/  Remove repeating characters from a string in Power BI and Power Query (@TheBIccountant)",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-power-query-and-a-new-power-bi-desktop-update/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-power-query-and-a-new-power-bi-desktop-update/",
+      "originalUrl": "https://youtube.com/watch?v=BBjpSfbE9qc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BBjpSfbE9qc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M39S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-01-11T10:28:42-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/BBjpSfbE9qc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-power-query-kpis-and-thumbnails-roundup-42.md",
+      "title": "Power Query, KPIs and thumbnails - Roundup #42",
+      "excerpt": "A post on how to use Power Query to audit file changes. A look at KPIs within Power BI. Keeping up to date with Azure Active Directory Connect. And a post about how to use custom thumbnails for mobile reports in Reporting Services 2016.  Power Query as a File Audit Tool (@ExceleratorBI) http://www.powerpivotpro.com/2016/04/power-query-file-audit-tool/",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-power-query-kpis-and-thumbnails-roundup-42/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-power-query-kpis-and-thumbnails-roundup-42/",
+      "originalUrl": "https://youtube.com/watch?v=Oe2NawL3p_U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Oe2NawL3p_U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M47S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-04-14T07:08:44-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Oe2NawL3p_U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-powerpoint-auditing-onedrive-and-more-roundup-59.md",
+      "title": "PowerPoint, Auditing, OneDrive and more... - Roundup #59",
+      "excerpt": "I was out last week, but am back! This week we had some information on how to use OneDrive for Business with Power BI, using Power BI inside of PowerPoint along with service updates for Power BI including the new Javascript API.  Get Data From OneDrive for Business (@kpuls) http://www.excelguru.ca/blog/2016/09/07/get-data-from-onedrive-for-business/",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-powerpoint-auditing-onedrive-and-more-roundup-59/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-powerpoint-auditing-onedrive-and-more-roundup-59/",
+      "originalUrl": "https://youtube.com/watch?v=Z-dktbXZR2g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Z-dktbXZR2g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M15S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-09-08T11:30:50-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Z-dktbXZR2g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-push-power-bi-apps-to-users-explained.md",
+      "title": "Push Power BI Apps To Users Explained",
+      "excerpt": "In this video, Adam goes inside to look at how you can push Power BI apps to users. The Power BI apps may not show up right away and Adam explains why.  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com -- http://twitter.com/guyinacube -- http://www.facebook.com/guyinacube -- Snapchat - guyinacube",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-push-power-bi-apps-to-users-explained/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-push-power-bi-apps-to-users-explained/",
+      "originalUrl": "https://youtube.com/watch?v=ffaryn1HrrQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ffaryn1HrrQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M22S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-06-19T05:59:56-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ffaryn1HrrQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-query-folding-dax-and-a-special-day-roundup-55.md",
+      "title": "Query Folding, DAX and a special day - Roundup #55",
+      "excerpt": "Chris Webb looks at how to use Value.ResourceExpression() to see how Query Folding is working. Marco Russo looks at how to leverage INTERSECT. We look at a post geared towards consultants and how they can leverage Shared Dashboards in their work. Also, there was a special day last sunday and we recap",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-query-folding-dax-and-a-special-day-roundup-55/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-query-folding-dax-and-a-special-day-roundup-55/",
+      "originalUrl": "https://youtube.com/watch?v=2ki13_w9V8M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2ki13_w9V8M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M50S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-07-28T07:52:47-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/2ki13_w9V8M/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -819,31 +609,31 @@
       ]
     },
     {
-      "path": "_learning/videos/sqlbi-opening-multiple-connections-to-the-same-model-with-dax-studio.md",
-      "title": "Opening multiple connections to the same model with DAX Studio",
-      "excerpt": "DAX Studio can open multiple connections to the same model. CTRL+SHIFT+N is the shortcut, but you can discover and customize other shortcuts in the options. How to learn DAX: https://www.sqlbi.com/guides/dax/ DAX Studio: https://daxstudio.org/",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/sqlbi-opening-multiple-connections-to-the-same-model-with-dax-studio/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/sqlbi-opening-multiple-connections-to-the-same-model-with-dax-studio/",
-      "originalUrl": "https://youtube.com/watch?v=2JXuVLSSsrk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2JXuVLSSsrk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M13S",
+      "path": "_learning/videos/guy-in-a-cube-quickly-review-your-power-bi-data-model-with-vertipaq-analyzer.md",
+      "title": "Quickly review your Power BI Data model with VertiPaq Analyzer",
+      "excerpt": "Patrick shows a quick way to review your Power BI data model with VertiPaq Analyzer directly in DAX Studio.  Guy in a Cube courses: https://guyinacu.be/courses  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton -- http://twitter.com/patrickdba -- http://www.facebook.com/guyinacube",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-quickly-review-your-power-bi-data-model-with-vertipaq-analyzer/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-quickly-review-your-power-bi-data-model-with-vertipaq-analyzer/",
+      "originalUrl": "https://youtube.com/watch?v=1A7gFFvlRFI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1A7gFFvlRFI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M37S",
       "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2020-06-11T03:00:12-07:00",
+      "publishedDateTime": "2019-10-29T04:42:28-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/2JXuVLSSsrk/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/1A7gFFvlRFI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -852,36 +642,35 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "DAX"
+        "Power BI"
       ]
     },
     {
-      "path": "_learning/videos/sqlbi-understanding-performance-analyzer-metrics-in-dax-studio.md",
-      "title": "Understanding Performance Analyzer metrics in DAX Studio",
-      "excerpt": "Performance Analyzer metrics imported in DAX Studio provide many details not available in Power BI Desktop. Learn the meaning of each number and how to use them to find report bottlenecks. How to learn DAX: https://www.sqlbi.com/guides/dax/ DAX Studio: https://daxstudio.org/",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/sqlbi-understanding-performance-analyzer-metrics-in-dax-studio/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/sqlbi-understanding-performance-analyzer-metrics-in-dax-studio/",
-      "originalUrl": "https://youtube.com/watch?v=aYXRx0pZZcs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aYXRx0pZZcs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M59S",
+      "path": "_learning/videos/guy-in-a-cube-r-reporting-services-and-some-notifications-for-power-bi-roundup-49.md",
+      "title": "R, Reporting Services and some notifications for Power BI - Roundup #49",
+      "excerpt": "A little R, some Reporting Services and a little sprinkle of Power BI.  Creating R Code to run on SQL Server 2016 (@DesertIsleSQL) http://www.desertislesql.com/wordpress1/?p=1332  R script as data source in Power BI Desktop (@ankitpatira) http://community.powerbi.com/t5/Community-Blog/R-script-as-data-source-in-Power-BI-Desktop/ba-p/43341",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-r-reporting-services-and-some-notifications-for-power-bi-roundup-49/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-r-reporting-services-and-some-notifications-for-power-bi-roundup-49/",
+      "originalUrl": "https://youtube.com/watch?v=BCbosbFBpfM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BCbosbFBpfM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M22S",
       "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2020-07-09T03:00:10-07:00",
+      "publishedDateTime": "2016-06-16T08:17:08-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/aYXRx0pZZcs/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/BCbosbFBpfM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -890,36 +679,35 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "DAX"
+        "Power BI"
       ]
     },
     {
-      "path": "_learning/videos/sqlbi-using-userelationship-in-dax.md",
-      "title": "Using USERELATIONSHIP in DAX",
-      "excerpt": "This video shows how to use the USERELATIONSHIP function in DAX to change the active relationship in a CALCULATE function. Article and download: https://sql.bi/664175",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/sqlbi-using-userelationship-in-dax/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/sqlbi-using-userelationship-in-dax/",
-      "originalUrl": "https://youtube.com/watch?v=zZLH8Y1tO1g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zZLH8Y1tO1g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M24S",
+      "path": "_learning/videos/guy-in-a-cube-recycletime-in-ssrs.md",
+      "title": "RecycleTime in SSRS",
+      "excerpt": "RecycleTime Configuration setting for Reporting Services.  RSReportServer Configuration File - http://msdn.microsoft.com/en-us/library/ms157273.aspx#bkmk_service  Application Domains for Report Server Applications - http://msdn.microsoft.com/en-us/library/bb934330.aspx",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-recycletime-in-ssrs/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-recycletime-in-ssrs/",
+      "originalUrl": "https://youtube.com/watch?v=OaJt0phtilA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OaJt0phtilA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M21S",
       "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2020-05-22T13:16:53-07:00",
+      "publishedDateTime": "2015-01-12T05:47:31-08:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/zZLH8Y1tO1g/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/OaJt0phtilA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -928,9 +716,416 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "DAX"
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-refresh-r-visuals-real-time-and-some-box-roundup-61.md",
+      "title": "Refresh, R Visuals, real-time and some Box - Roundup #61",
+      "excerpt": "This is the week before the Microsoft Ignite conference. I have some items that span from the cloud to on-premises.  Loading Data From Multiple Excel Workbooks Into Power BI–And Making Sure Data Refresh Works After Publishing (@technitrain) https://blog.crossjoin.co.uk/2016/09/19/loading-data-from-multiple-excel-workbooks-into-power-bi-and-making-sure-data-refresh-works-after-publishing/",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-refresh-r-visuals-real-time-and-some-box-roundup-61/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-refresh-r-visuals-real-time-and-some-box-roundup-61/",
+      "originalUrl": "https://youtube.com/watch?v=zrJh61wE17A",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zrJh61wE17A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M7S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-09-22T11:04:39-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zrJh61wE17A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-relationships-timing-and-something-free-roundup-41.md",
+      "title": "Relationships, Timing and something free - Roundup #41",
+      "excerpt": "In this roundup, Reza Rad talks about relationships with multiple columns, Chris Webb talks about timing execution of M queries, we have some updates for the Power BI service, a look at Power BI embedded within your custom applications and something free for you!  Relationship in Power BI with Multiple",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-relationships-timing-and-something-free-roundup-41/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-relationships-timing-and-something-free-roundup-41/",
+      "originalUrl": "https://youtube.com/watch?v=INlhdwnT9ok",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/INlhdwnT9ok\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M5S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-04-07T08:19:30-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/INlhdwnT9ok/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-reporting-services-error-creating-http-endpoint-access-is-denied.md",
+      "title": "Reporting Services: Error creating HTTP endpoint – Access is Denied",
+      "excerpt": "A look at why you can encounter the HTTP Endpoint Access Denied error.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-reporting-services-error-creating-http-endpoint-access-is-denied/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-reporting-services-error-creating-http-endpoint-access-is-denied/",
+      "originalUrl": "https://youtube.com/watch?v=2EYwqDuUl3k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2EYwqDuUl3k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M25S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2015-03-16T07:41:30-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/2EYwqDuUl3k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-reset-a-streaming-dataset-in-power-bi-minute-monday.md",
+      "title": "Reset a streaming dataset in Power BI (Minute Monday)",
+      "excerpt": "In this Minute Monday, Patrick shows you how to reset data that is within a streaming datset in Power BI. He figured this out when trying to setup a demo with a streaming dataset and then wanting to start over.  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com -- http://twitter.com/guyinacube",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-reset-a-streaming-dataset-in-power-bi-minute-monday/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-reset-a-streaming-dataset-in-power-bi-minute-monday/",
+      "originalUrl": "https://youtube.com/watch?v=sZQAoy_dRCc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sZQAoy_dRCc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M3S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-07-10T06:09:10-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/sZQAoy_dRCc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-rls-updates-for-power-bi-and-kerberos.md",
+      "title": "RLS, Updates for Power BI and Kerberos!!!",
+      "excerpt": "Dynamic Row Level Security with Manager Level Access in Power BI (@Rad_Reza) http://radacad.com/dynamic-row-level-security-with-manager-level-access-in-power-bi  Which M Functions Are Only Available To Custom Data Connectors? (@technitrain) https://blog.crossjoin.co.uk/2017/11/06/which-m-functions-are-only-available-to-custom-data-connectors/",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-rls-updates-for-power-bi-and-kerberos/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-rls-updates-for-power-bi-and-kerberos/",
+      "originalUrl": "https://youtube.com/watch?v=VoWrb7jiVEs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VoWrb7jiVEs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M58S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-11-09T07:41:15-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/VoWrb7jiVEs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-roundup-20-puzzles-drilling-a-new-content-pack-bonus.md",
+      "title": "Roundup #20 (Puzzles, Drilling, a new Content Pack) + Bonus",
+      "excerpt": "Analyze your Planview Enterprise data in Power BI http://blogs.msdn.com/b/powerbi/archive/2015/10/14/analyze-your-planview-enterprise-data-in-power-bi.aspx  Power BI Weekly Service Update http://blogs.msdn.com/b/powerbi/archive/2015/10/13/power-bi-weekly-service-update-1013.aspx  Giving Back: “Steal”",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-roundup-20-puzzles-drilling-a-new-content-pack-bonus/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-roundup-20-puzzles-drilling-a-new-content-pack-bonus/",
+      "originalUrl": "https://youtube.com/watch?v=bm5WrPyEu4I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bm5WrPyEu4I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M49S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2015-10-15T09:11:43-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bm5WrPyEu4I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-roundup-21-custom-visuals-qa-embedding-bttf-edition.md",
+      "title": "Roundup #21 (Custom Visuals, Q&A, Embedding) BTTF Edition",
+      "excerpt": "Visualize your Microsoft Azure Enterprise Data with Power BI http://blogs.msdn.com/b/powerbi/archive/2015/10/21/visualize-your-azure-enterprise-data-with-power-bi.aspx  Power BI Weekly Service Update http://blogs.msdn.com/b/powerbi/archive/2015/10/20/power-bi-weekly-service-update-1020.aspx  Visualize",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-roundup-21-custom-visuals-qa-embedding-bttf-edition/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-roundup-21-custom-visuals-qa-embedding-bttf-edition/",
+      "originalUrl": "https://youtube.com/watch?v=J8PXCfInEbs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/J8PXCfInEbs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M8S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2015-10-22T09:56:23-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/J8PXCfInEbs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-roundup-23-roadmap-pass-individual-power-bi-purchase.md",
+      "title": "Roundup #23 (Roadmap, PASS, Individual Power BI Purchase...)",
+      "excerpt": "Explore your Application Insights data with Power BI http://blogs.msdn.com/b/powerbi/archive/2015/11/04/explore-your-application-insights-data-with-power-bi.aspx  Power BI Weekly Service Update http://blogs.msdn.com/b/powerbi/archive/2015/11/03/power-bi-weekly-service-update-1103.aspx  Power BI User",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-roundup-23-roadmap-pass-individual-power-bi-purchase/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-roundup-23-roadmap-pass-individual-power-bi-purchase/",
+      "originalUrl": "https://youtube.com/watch?v=KH7J6OuM3m0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KH7J6OuM3m0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M46S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2015-11-05T07:23:18-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/KH7J6OuM3m0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-roundup-24-visualizations-relationships-and-more.md",
+      "title": "Roundup #24 (Visualizations, Relationships, and more...)",
+      "excerpt": "Power BI Weekly Service Update http://blogs.msdn.com/b/powerbi/archive/2015/11/11/power-bi-weekly-service-update-1110.aspx  The Word Cloud http://blogs.msdn.com/b/powerbi/archive/2015/11/10/visual-awesomeness-unlocked-the-word-cloud.aspx  The Timeline Slicer http://blogs.msdn.com/b/powerbi/archive/2015/11/03/visual-awesomeness-unlocked-the-timeline-slicer.aspx",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-roundup-24-visualizations-relationships-and-more/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-roundup-24-visualizations-relationships-and-more/",
+      "originalUrl": "https://youtube.com/watch?v=lDGtUyamxfY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lDGtUyamxfY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M52S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2015-11-12T07:05:20-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lDGtUyamxfY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-roundup-25-project-online-intune-and-more.md",
+      "title": "Roundup #25 (Project Online, Intune and more...)",
+      "excerpt": "Explore and Monitor your Project Online data in Power BI http://blogs.msdn.com/b/powerbi/archive/2015/11/18/explore-and-monitor-your-project-online-data-in-power-bi.aspx  Power BI Weekly Service Update http://blogs.msdn.com/b/powerbi/archive/2015/11/17/power-bi-weekly-service-update-1117.aspx  Enterprise",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-roundup-25-project-online-intune-and-more/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-roundup-25-project-online-intune-and-more/",
+      "originalUrl": "https://youtube.com/watch?v=1C1YoXCXcLk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1C1YoXCXcLk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M44S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2015-11-19T07:48:38-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1C1YoXCXcLk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-roundup-26-bing-cortana-data-lake.md",
+      "title": "Roundup #26 (Bing, Cortana, Data Lake...)",
+      "excerpt": "Bing Search Analytics Content Pack http://blogs.msdn.com/b/powerbi/archive/2015/12/02/search-analytics-from-bing-on-your-power-bi-dashboards.aspx  Power BI – Updates from browser to desktop and new automated insights http://blogs.msdn.com/b/powerbi/archive/2015/12/02/power-bi-updates-from-browser-to-desktop-and-new-automated-insights-mf.aspx",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-roundup-26-bing-cortana-data-lake/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-roundup-26-bing-cortana-data-lake/",
+      "originalUrl": "https://youtube.com/watch?v=53-dKzexwMo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/53-dKzexwMo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M40S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2015-12-03T08:05:21-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/53-dKzexwMo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     }
-  ]
+  ],
+  "nextPage": 30
 }

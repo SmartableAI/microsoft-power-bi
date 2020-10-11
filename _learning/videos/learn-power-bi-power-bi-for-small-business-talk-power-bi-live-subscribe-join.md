@@ -1,0 +1,28 @@
+---
+title: "Power BI for Small Business 🔴 Talk Power BI LIVE (Subscribe & Join)"
+excerpt: "✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask any Power BI question. 👉 Follow Heather Rowe at linkedin.com/in/heather-rowe-7b05aa61 💡 Join the Talk Power BI Insider's Club at http://www.TalkPowerBI.com for special privileges and access  Hello, I am Avi Singh,"
+originalUrl: https://youtube.com/watch?v=ltXDsNEb-X0
+type: video
+price: Free
+length: PT3H19M40S
+publishedDateTime: 2018-12-05T11:16:55Z
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ltXDsNEb-X0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
+provider:
+  name: Learn Power BI
+  domain: learnpowerbi.com
+
+topics:
+  - Power BI
+
+images:
+  - url: https://i.ytimg.com/vi/ltXDsNEb-X0/hqdefault.jpg
+    width: 480
+    height: 360
+    isCached: true
+
+secured: "E1oSTDBTd0TNPnmMW1X5Y+Qdnb27zim1EAkGXflHY6M9/ySJJViE23oqKzFPfbRhhiZ9KWDt60ttTxMYEMpao3YAH37GABmbwxoJbaMq89+f7WEP66F+s+duwOWz+bzSyNd++EIRVBbU/qcvacSOQhV6Bv7+7N2GXcVWanru8SqlWFC9eUsZy2WKmFfkiYh6a/m7xy/p700YCAfW63EaNtcqqzWAE12HT1oD5wwAOdoHN2cmXEdEIHWVEdAp445wo4yCfPYyQ/PY9BFN26/bDoH2p8pqLAALO5qKsHbJaDcs5vbi0ldhvW8MnTw6gslqQO/V+WfN6WFAkFg+zvKoJTU/4S1WKIVLGzS0KtYBme8e3W0ELVqEmHrtgrAfzgPz5l8RnGGz6Pi+K+GyKoLzTg==;ulMdzecU6ptSw9qQTlLR2A=="
+---
+

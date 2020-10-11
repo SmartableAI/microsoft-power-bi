@@ -1,0 +1,28 @@
+---
+title: "Power BI Win-Loss Percentage for Dynamics/CRM Funnel (Step-by-Step Example)"
+excerpt: "Your mission today is to help Kevin calculate Win-Loss% using CRM Data and the magic of Power BI. 👉 Download Power BI File in Video at https://web.learnpowerbi.com/download/  Calculate the win or loss percentage and easily track it over time.  ➔ Links mentioned in the Video • Power BI Tutorial for Beginners"
+originalUrl: https://youtube.com/watch?v=xpPnvB7m9DY
+type: video
+price: Free
+length: PT23M25S
+publishedDateTime: 2019-05-15T06:29:50Z
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xpPnvB7m9DY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
+provider:
+  name: Learn Power BI
+  domain: learnpowerbi.com
+
+topics:
+  - Power BI
+
+images:
+  - url: https://i.ytimg.com/vi/xpPnvB7m9DY/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "jkzw4dAUKepmZUW22PBMSTsUW0shivjAmApbSBQ2rC8lo7/5EgC4OCpYdo6NaKLAYBM16EO31vS/bPfKIKmOv5SVntm0+KnuYOCFFRQ5bUQcR7jtNGH0M17SYJcx7GwguC45nlwc0/nJjCewq1SE1mnrXNzMk1QTi0jxjYQfQhqxRp8SgiDhBJ0RDQ7SvoyImJpuTz1UhtUC1F8XE4rFQTJ19IYTY5vBSF6sb4/kJ2u3rXWze2UIdKWy24jhDJolTmN+JP0TmjUKGX2pVYrrIrQJJrLJJxbWIYHXzbwMd3jai7IHriMqiSZEiLozSM/MHZpgLgN73gECEpFcXTWUIMrm92hqY779MDpKaEZiPp78No473T5K68i7V35qPaSov06kTdEUkZM41PcNLvZZPQ==;qGDR3FwlLyLYw6s624L7nQ=="
+---
+

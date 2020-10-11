@@ -25,7 +25,7 @@
         ]
       },
       "publishedDateTime": "2019-09-29T11:31:59-07:00",
-      "heat": 63,
+      "heat": 61,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/lXq9GDfpv0Y/maxresdefault.jpg",
@@ -63,7 +63,7 @@
         ]
       },
       "publishedDateTime": "2020-06-02T08:00:14-07:00",
-      "heat": 58,
+      "heat": 56,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/YWp4FKzIBxM/maxresdefault.jpg",
@@ -139,7 +139,7 @@
         ]
       },
       "publishedDateTime": "2019-09-26T06:07:16-07:00",
-      "heat": 51,
+      "heat": 50,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/P483x2uanks/maxresdefault.jpg",
@@ -334,6 +334,96 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/XDtz9ZJOVJA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Dataflows"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-dataflows-the-integration-solution-for-power-bi.md",
+      "title": "Dataflows The Integration Solution for Power BI",
+      "excerpt": "The webinar delivered to Bulgaria User Group",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-dataflows-the-integration-solution-for-power-bi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-dataflows-the-integration-solution-for-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=1TqfmfSnAqs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1TqfmfSnAqs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT49M52S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2019-05-16T14:17:36-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1TqfmfSnAqs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Dataflows"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-reference-from-another-query-in-dataflow-no-premium-needed-power-platform-dataflows.md",
+      "title": "Reference from Another Query in Dataflow   No Premium Needed   Power Platform Dataflows",
+      "excerpt": "I have previously explained one of the benefits of Power Platform dataflows, which was the ability to refresh the data as many times as you want (on a scheduled basis), and the ability to refresh even with the frequency of a minute. Another useful feature of Power Platform dataflows is the ability to",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-reference-from-another-query-in-dataflow-no-premium-needed-power-platform-dataflows/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-reference-from-another-query-in-dataflow-no-premium-needed-power-platform-dataflows/",
+      "originalUrl": "https://youtube.com/watch?v=tRUWHQBvEfs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tRUWHQBvEfs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M29S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-01-12T19:45:32-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tRUWHQBvEfs/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Dataflows"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-refresh-power-bi-queries-through-power-platform-dataflows-unlimited-times-with-any-frequency.md",
+      "title": "Refresh Power BI Queries Through Power Platform Dataflows   Unlimited Times with Any Frequency",
+      "excerpt": "If you don't have a Power BI Premium capacity license, then you are limited to refresh your dataflows up to eight times a day, with the frequency of 30 minutes. The good news for you is that you have a way to do unlimited refreshes and with whatever frequency you like using Power Platform Dataflows.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-refresh-power-bi-queries-through-power-platform-dataflows-unlimited-times-with-any-frequency/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-refresh-power-bi-queries-through-power-platform-dataflows-unlimited-times-with-any-frequency/",
+      "originalUrl": "https://youtube.com/watch?v=1vqkYcG8s40",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1vqkYcG8s40\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M8S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-01-05T19:09:53-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1vqkYcG8s40/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

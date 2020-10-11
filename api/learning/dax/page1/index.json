@@ -4,6 +4,36 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/videos/power-bi-tips-powerbitips-tutorial-dax-studio-release-2111.md",
+      "title": "PowerBI.Tips - Tutorial - DAX Studio Release 2.11.1",
+      "excerpt": "DAX Studio has just released it's latest version 2.11.1.  With this release comes a number of great improvements.  Come listen to the Creator Darren Gosbell review the latest features of DAX Studio.  New features include:  - Query Builder  - Query Benchmark  - More Quick access buttons  - Exporting button",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/power-bi-tips-powerbitips-tutorial-dax-studio-release-2111/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/power-bi-tips-powerbitips-tutorial-dax-studio-release-2111/",
+      "originalUrl": "https://youtube.com/watch?v=944Bc6QkKk4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/944Bc6QkKk4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT51M32S",
+      "provider": {
+        "name": "Power BI Tips",
+        "domain": "powerbi.tips"
+      },
+      "publishedDateTime": "2020-07-15T07:05:22-07:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/944Bc6QkKk4/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-power-bi-date-table-create-using-dax.md",
       "title": "Power BI date table: create using DAX",
       "excerpt": "In this video, Adam looks at how to create a Power BI date table using DAX. The end result uses a combination of the GENERATE(), ROW() and CALENDARAUTO() DAX functions to create a calculated table resulting in a Power BI date table.  Using GENERATE and ROW instead of ADDCOLUMNS in DAX https://www.sqlbi.com/articles/using-generate-and-row-instead-of-addcolumns-in-dax/",
@@ -25,7 +55,7 @@
         ]
       },
       "publishedDateTime": "2018-02-13T07:18:28-08:00",
-      "heat": 78,
+      "heat": 72,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/gyvhM5eiT0U/maxresdefault.jpg",
@@ -249,6 +279,36 @@
       "topics": [
         "Power BI",
         "Power BI Desktop",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-power-bi-group-by-using-query-editor-dax-and-some-magic.md",
+      "title": "Power BI Group By - Using Query Editor, DAX, and Some Magic!✨",
+      "excerpt": "We’ll show you how you can Group By data in Power BI using 3 easy ways. 👉 Download Power BI File in Video at https://web.learnpowerbi.com/download/ We’d cover the 3 different ways you can use Group By to summarize your data:  • Group By Using Query Editor • Group By Using DAX SUMMARIZECOLUMNS • Group",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-power-bi-group-by-using-query-editor-dax-and-some-magic/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-power-bi-group-by-using-query-editor-dax-and-some-magic/",
+      "originalUrl": "https://youtube.com/watch?v=pSIqhYR2HRU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pSIqhYR2HRU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M40S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2019-04-16T21:50:06-07:00",
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pSIqhYR2HRU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
         "DAX"
       ]
     },
@@ -1073,31 +1133,23 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-dynamic-labels-in-power-bi-using-dax.md",
-      "title": "Dynamic labels in Power BI using DAX",
-      "excerpt": "In this video, Patrick uses a little DAX, and the SelectedValue function, to get you some dynamic labels in your Power BI reports.  For more information about SelectedValue, check out Marco Russo's blog on the function - https://www.sqlbi.com/articles/using-the-selectedvalue-function-in-dax/  LET'S CONNECT!",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-dynamic-labels-in-power-bi-using-dax/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-dynamic-labels-in-power-bi-using-dax/",
-      "originalUrl": "https://youtube.com/watch?v=fSHcLxA9rY4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fSHcLxA9rY4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M1S",
+      "path": "_learning/videos/enterprise-dna-course-intro-11-ultimate-beginners-guide-to-dax-2020.md",
+      "title": "Course Intro - (1.1)  Ultimate Beginners Guide To DAX 2020",
+      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/enterprise-dna-course-intro-11-ultimate-beginners-guide-to-dax-2020/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/enterprise-dna-course-intro-11-ultimate-beginners-guide-to-dax-2020/",
+      "originalUrl": "https://youtube.com/watch?v=ILVRJQ22cjs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ILVRJQ22cjs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M48S",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Enterprise DNA",
+        "domain": "enterprisedna.co"
       },
-      "publishedDateTime": "2017-10-18T06:58:50-07:00",
-      "heat": 61,
+      "publishedDateTime": "2020-05-05T20:00:14-07:00",
+      "heat": 60,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/fSHcLxA9rY4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ILVRJQ22cjs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1132,7 +1184,7 @@
         ]
       },
       "publishedDateTime": "2019-05-12T06:57:50-07:00",
-      "heat": 61,
+      "heat": 60,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/wQ9DohPvx8Q/maxresdefault.jpg",
@@ -1149,23 +1201,31 @@
       ]
     },
     {
-      "path": "_learning/videos/enterprise-dna-course-intro-11-ultimate-beginners-guide-to-dax-2020.md",
-      "title": "Course Intro - (1.1)  Ultimate Beginners Guide To DAX 2020",
-      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/enterprise-dna-course-intro-11-ultimate-beginners-guide-to-dax-2020/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/enterprise-dna-course-intro-11-ultimate-beginners-guide-to-dax-2020/",
-      "originalUrl": "https://youtube.com/watch?v=ILVRJQ22cjs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ILVRJQ22cjs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M48S",
+      "path": "_learning/videos/guy-in-a-cube-dynamic-labels-in-power-bi-using-dax.md",
+      "title": "Dynamic labels in Power BI using DAX",
+      "excerpt": "In this video, Patrick uses a little DAX, and the SelectedValue function, to get you some dynamic labels in your Power BI reports.  For more information about SelectedValue, check out Marco Russo's blog on the function - https://www.sqlbi.com/articles/using-the-selectedvalue-function-in-dax/  LET'S CONNECT!",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-dynamic-labels-in-power-bi-using-dax/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-dynamic-labels-in-power-bi-using-dax/",
+      "originalUrl": "https://youtube.com/watch?v=fSHcLxA9rY4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fSHcLxA9rY4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M1S",
       "provider": {
-        "name": "Enterprise DNA",
-        "domain": "enterprisedna.co"
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2020-05-05T20:00:14-07:00",
-      "heat": 60,
+      "publishedDateTime": "2017-10-18T06:58:50-07:00",
+      "heat": 59,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/ILVRJQ22cjs/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/fSHcLxA9rY4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1269,6 +1329,36 @@
       ]
     },
     {
+      "path": "_learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-dax-measure-132.md",
+      "title": "Power BI Tutorial for Beginners: DAX. Measure (1.3.2)",
+      "excerpt": "★Access the COMPLETE Power BI Tutorial Playlist here (20+ Videos)★ ☞ https://www.youtube.com/watch?v=1bysg... This Power BI Tutorial for Beginners & Excel Users, walks you through Step-by-Step in creating your first Power BI Dashboard (includes Download Files). This is meant as an introduction to Power",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-dax-measure-132/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-dax-measure-132/",
+      "originalUrl": "https://youtube.com/watch?v=rCXgV__3ddw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rCXgV__3ddw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M30S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2017-05-07T07:58:22-07:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rCXgV__3ddw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-debug-dax-using-variables-in-power-bi.md",
       "title": "Debug DAX using Variables in Power BI",
       "excerpt": "In this video, Marco Russo, from SQL BI, joins Patrick to look at how you can debug DAX using variables in Power BI. Marco helps to break down a DAX measure and show how you can see the results as you build it up to find where the problem is.  SQL BI https://sqlbi.com  DAX Formatter https://www.daxformatter.com/",
@@ -1294,6 +1384,36 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/9SV2VnYbgg4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-this-year-vs-last-year-calculation-in-power-bi-using-dax.md",
+      "title": "This year vs  Last year Calculation in Power BI using DAX",
+      "excerpt": "SamePeriodLastYear function in #DAX #PowerBI is one of functions that can be used for calculating this year value vs. last year. Download the dataset for this example from my blog article below: https://radacad.com/dateadd-vs-parallelperiod-vs-sameperiodlastyear-dax-time-intelligence-question  Learn",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-this-year-vs-last-year-calculation-in-power-bi-using-dax/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-this-year-vs-last-year-calculation-in-power-bi-using-dax/",
+      "originalUrl": "https://youtube.com/watch?v=J4h17Kqyj4M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/J4h17Kqyj4M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M53S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2019-10-06T16:37:06-07:00",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/J4h17Kqyj4M/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1411,6 +1531,66 @@
           "url": "https://i.ytimg.com/vi/80i8rLQtO3o/hqdefault.jpg",
           "width": 480,
           "height": 360,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-dax-measures-filter-context-explained-in-simple-terms-using-the-ican-principle.md",
+      "title": "DAX Measures: Filter Context Explained in Simple Terms using the I.C.A.N. Principle",
+      "excerpt": "For Power BI DAX Measures, one of the hardest concepts to grasp is the Filter Context. Or is it? I explain the “Filter Context” using the 4-easy step approach of the I.C.A.N. Principle. ==  I. Incoming Filters ==  C. CALCULATE does it’s Magic! ==  A. Apply relationships (filters flow Across relationships)",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-dax-measures-filter-context-explained-in-simple-terms-using-the-ican-principle/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-dax-measures-filter-context-explained-in-simple-terms-using-the-ican-principle/",
+      "originalUrl": "https://youtube.com/watch?v=SlQJaryCLy4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SlQJaryCLy4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M23S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2017-07-10T03:33:30-07:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/SlQJaryCLy4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-dax-calculated-column-131.md",
+      "title": "Power BI Tutorial for Beginners: DAX. Calculated Column (1.3.1)",
+      "excerpt": "★Access the COMPLETE Power BI Tutorial Playlist here (20+ Videos)★ ☞ https://www.youtube.com/watch?v=1bysg... This Power BI Tutorial for Beginners & Excel Users, walks you through Step-by-Step in creating your first Power BI Dashboard (includes Download Files). This is meant as an introduction to Power",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-dax-calculated-column-131/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-dax-calculated-column-131/",
+      "originalUrl": "https://youtube.com/watch?v=n6GgFAsLXFs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/n6GgFAsLXFs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M31S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2017-05-07T07:57:09-07:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/n6GgFAsLXFs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
@@ -1550,82 +1730,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-combine-power-bi-report-tooltips-using-dax.md",
-      "title": "Combine Power BI Report Tooltips using DAX",
-      "excerpt": "In this video, Patrick shows you how to combine Power BI Report Tooltips using DAX. Just a little bit of DAX! This can be useful when you want to use a single report tooltip for multiple Power BI visuals.  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com -- http://twitter.com/guyinacube -- http://www.facebook.com/guyinacube",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-combine-power-bi-report-tooltips-using-dax/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-combine-power-bi-report-tooltips-using-dax/",
-      "originalUrl": "https://youtube.com/watch?v=uprJM3zbzWs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uprJM3zbzWs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M29S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-05-30T07:09:01-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/uprJM3zbzWs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-setting-default-values-using-coalesce-in-dax.md",
-      "title": "Setting default values using COALESCE in DAX",
-      "excerpt": "Learn how to get default values using the DAX COALESCE function instead of IF statements. A great way to avoid BLANK in Power BI!  Documentation: https://docs.microsoft.com/dax/coalesce-function-dax  SQLBI.com article:  https://sql.bi/659297   📢 Become a member: https://guyinacu.be/membership   *******************",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-setting-default-values-using-coalesce-in-dax/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-setting-default-values-using-coalesce-in-dax/",
-      "originalUrl": "https://youtube.com/watch?v=UQd91dUN4j0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UQd91dUN4j0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M42S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-03-31T05:43:42-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/UQd91dUN4j0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/learn-power-bi-learn-dax-by-studying-common-problems-encountered-by-real-world-users-talk-power-bi-live.md",
       "title": "Learn DAX by Studying Common Problems Encountered by Real-World Users 🔴Talk Power BI LIVE",
       "excerpt": "We will learn the DAX programming language by examining several issues frequently reported by DAX users through PowerBI Desktop frowns.  Why is this interesting?  DAX training has consistently been one of the top asks from Power BI users. In this TalkPowerBI session, Jeffrey Wang is going to show you",
@@ -1643,6 +1747,36 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/WSfc2hY1_dQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-power-bi-the-ultimate-dax-measure-free-download-.md",
+      "title": "Power BI: The Ultimate DAX Measure (Free Download ⬇️)",
+      "excerpt": "It's a bird! It's a plane! It's the Ultimate DAX Measure! It can calculate anything and everything! Watch the video till the end! 👉 Download Power BI File in Video at https://web.learnpowerbi.com/download/  ➔ Links mentioned in the Video • Ultimate Calendar Download -https://www.youtube.com/watch?v=BtYn1hfdSAM&list=PL7GQQXV5Z8eczWqKFMDVoHMjTcpH3tgZm",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-power-bi-the-ultimate-dax-measure-free-download-/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-power-bi-the-ultimate-dax-measure-free-download-/",
+      "originalUrl": "https://youtube.com/watch?v=WV5KxZRIzUE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WV5KxZRIzUE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M39S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2019-02-06T04:02:24-08:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/WV5KxZRIzUE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1675,196 +1809,6 @@
           "url": "https://i.ytimg.com/vi/jpZnCHRauPU/hqdefault.jpg",
           "width": 480,
           "height": 360,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-computing-a-running-total-in-dax.md",
-      "title": "Computing a running total in DAX",
-      "excerpt": "This video shows how to compute a running total over a dimension, like for example the date. Article and download: https://sql.bi/79926",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/sqlbi-computing-a-running-total-in-dax/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/sqlbi-computing-a-running-total-in-dax/",
-      "originalUrl": "https://youtube.com/watch?v=4gf3eueRD_g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4gf3eueRD_g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M5S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-07-14T02:30:11-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/4gf3eueRD_g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-counting-working-days-in-dax.md",
-      "title": "Counting working days in DAX",
-      "excerpt": "This video describes a DAX technique to compute the number of working days between two dates. Article and download: https://sql.bi/80301",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/sqlbi-counting-working-days-in-dax/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/sqlbi-counting-working-days-in-dax/",
-      "originalUrl": "https://youtube.com/watch?v=JgeUhXkxXbU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JgeUhXkxXbU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M38S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-05-05T00:48:27-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/JgeUhXkxXbU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-creating-a-calculated-table-with-dax-studio.md",
-      "title": "Creating a calculated table with DAX Studio",
-      "excerpt": "Use DAX Studio to write and test the expression for a calculated table in Power BI. How to learn DAX: https://www.sqlbi.com/guides/dax/ DAX Studio: https://daxstudio.org/",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/sqlbi-creating-a-calculated-table-with-dax-studio/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/sqlbi-creating-a-calculated-table-with-dax-studio/",
-      "originalUrl": "https://youtube.com/watch?v=yZnl2P9ik9g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yZnl2P9ik9g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M9S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-05-22T13:16:23-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/yZnl2P9ik9g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-creating-a-simple-date-table-in-power-bi.md",
-      "title": "Creating a simple date table in Power BI",
-      "excerpt": "This video shows how to build a basic date table using a calculated table and DAX. Article and download: https://sql.bi/137725",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/sqlbi-creating-a-simple-date-table-in-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/sqlbi-creating-a-simple-date-table-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=-li7sxUxEqA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-li7sxUxEqA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M50S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-06-30T03:00:10-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-li7sxUxEqA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-how-to-debug-a-dax-measure.md",
-      "title": "How to debug a DAX measure",
-      "excerpt": "Use DAX Studio to run and debug a DAX measure: fix a calculation issue in a more productive environment and then copy the right formula back in Power BI. How to learn DAX: https://www.sqlbi.com/guides/dax/ DAX Studio: https://daxstudio.org/ VertiPaq Analyzer: https://www.sqlbi.com/tools/vertipaq-analyzer/",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/sqlbi-how-to-debug-a-dax-measure/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/sqlbi-how-to-debug-a-dax-measure/",
-      "originalUrl": "https://youtube.com/watch?v=fU5EQBJDfOM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fU5EQBJDfOM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M26S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-08-20T03:00:15-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/fU5EQBJDfOM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
           "isCached": true
         }
       ],

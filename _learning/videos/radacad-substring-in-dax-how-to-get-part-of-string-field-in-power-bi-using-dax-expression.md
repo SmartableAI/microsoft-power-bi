@@ -16,6 +16,7 @@ provider:
 
 topics:
   - Power BI
+  - DAX
 
 images:
   - url: https://i.ytimg.com/vi/WEelCk04dYw/hqdefault.jpg
@@ -23,6 +24,6 @@ images:
     height: 360
     isCached: true
 
-secured: "rB8LWd4LkynWzyAD48zEY0mP0BnmvtraQVKRD7nOm+y+LnUThv/tNJqBbfF8/VLAdFTc423QMwAOshy6J28+541EhTJ6UMoOMD4W5o6Q3kzktoLmKnfptkUS/v9bP8fxY2A3oS8ia7p+nx130u3y9doKgGP0OVREYSQrNqgn71bllfsAYB7vD3Z9AlsJGe6tRHErPDNvVNupyFyZAvlSxtmWbvbP68759Gfa2llVaikpUmZDuLR/dAv25lD6IippHruMOExUloYBnqjyoBXJZ4JrTMV+WN+ckTiWH/dWmvDO9C1uXGe72Dh2vLD9ZDd9z6vrj0U1KzwdCQ4JN8V/j2Dl5bxyxj3BDtAsB2q6W5whDyMSv3JOSNNzGZvYgaTo6rSFjNks/EP7grH87LxNlYaOaR2FWdAlAJB5DQb57Zs=;bTaut2weM/lBnl1SHHwX6Q=="
+secured: "WbKPrTT1VD7wS2RfkmhgItaOTKYd0TC7XDQ7XEHBFqAYcRYGQ0f77SbuKyTvWk22h6tYt5oJCe/NrvCAWZE9lQhm6/uJTvOMMFjYNwVPn+1yKootfg2hflVHcZW8C7R3dExHU37f4jPgtbczG/4k9EZgRqk4b+dbRBSVR/5FSb4yfzr0sx9RgrqzkWOHBYbeDxegeiXS5Qc0JUmOEkmAzhg1jTypIcsOn24WUivLUmsKgGFRu7VMDxf+uXm8c5v0IQHv2e53kfnKalqwuYfXEjbcYkoMfqv4EvzT1t57PzoXEvr4y0jgGHBOL9vf4kSKvxWb4Lj/QqfXxVW+5fNifovG1QImlITrKWPCzuWpn0yajk+jXrTxdsfFvq5myl1KZAZSpl1q90jx14C114bQrwPZDJVhxIyn24UO3a1NPCc=;sI+GRjxZfSofUJyGYRp5Dg=="
 ---
 
