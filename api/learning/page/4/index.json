@@ -818,7 +818,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 130,
+          "heat": 50,
           "type": "course",
           "price": "Free",
           "topics": [
@@ -939,8 +939,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 5020,
-            "average": 4.693426
+            "count": 5021,
+            "average": 4.693487
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -981,8 +981,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/analyze-data-power-bi/",
       "length": "PT60M",
       "ratings": {
-        "count": 5020,
-        "average": 4.693426
+        "count": 5021,
+        "average": 4.693487
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1564,8 +1564,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 13372,
-        "average": 4.6951838
+        "count": 13373,
+        "average": 4.6952066
       },
       "provider": {
         "name": "Microsoft Learn",
