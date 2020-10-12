@@ -490,8 +490,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/dax-power-bi-add-calculated-tables/",
           "length": "PT19M",
           "ratings": {
-            "count": 142,
-            "average": 4.7957745
+            "count": 143,
+            "average": 4.79021
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2593,8 +2593,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 1385,
-            "average": 4.7436824
+            "count": 1386,
+            "average": 4.7438674
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2634,8 +2634,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 1231,
-            "average": 4.7530465
+            "count": 1232,
+            "average": 4.753247
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2838,8 +2838,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/create-paginated-reports-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 372,
-            "average": 4.7311826
+            "count": 373,
+            "average": 4.7292223
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3039,8 +3039,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 1231,
-        "average": 4.7530465
+        "count": 1232,
+        "average": 4.753247
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3080,8 +3080,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/introduction-power-bi/",
       "length": "PT21M",
       "ratings": {
-        "count": 4270,
-        "average": 4.726464
+        "count": 4273,
+        "average": 4.726656
       },
       "provider": {
         "name": "Microsoft Learn",

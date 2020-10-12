@@ -666,8 +666,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 287,
-            "average": 4.7421603
+            "count": 288,
+            "average": 4.7430553
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -707,8 +707,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 240,
-            "average": 4.5916667
+            "count": 241,
+            "average": 4.593361
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -806,8 +806,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/build-simple-dashboard/",
       "length": "PT24M",
       "ratings": {
-        "count": 2319,
-        "average": 4.6921086
+        "count": 2320,
+        "average": 4.692241
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -971,8 +971,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/dax-power-bi-modify-filter/",
       "length": "PT21M",
       "ratings": {
-        "count": 93,
-        "average": 4.5591397
+        "count": 96,
+        "average": 4.5625
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1014,8 +1014,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/dax-power-bi-time-intelligence/",
       "length": "PT19M",
       "ratings": {
-        "count": 98,
-        "average": 4.632653
+        "count": 101,
+        "average": 4.633663
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1057,8 +1057,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/manage-datasets-power-bi/",
       "length": "PT32M",
       "ratings": {
-        "count": 240,
-        "average": 4.5916667
+        "count": 241,
+        "average": 4.593361
       },
       "provider": {
         "name": "Microsoft Learn",
