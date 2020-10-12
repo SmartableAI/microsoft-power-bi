@@ -4,7 +4,7 @@ excerpt: "Adds calculated columns to the given table or table expression."
 originalUrl: https://docs.microsoft.com/en-us/dax/addcolumns-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/addcolumns-function-dax
 type: article
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft

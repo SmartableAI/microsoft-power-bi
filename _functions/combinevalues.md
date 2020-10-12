@@ -4,7 +4,7 @@ excerpt: "Joins two or more text strings into one text string. The primary purpo
 originalUrl: https://docs.microsoft.com/en-us/dax/combinevalues-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/combinevalues-function-dax
 type: article
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft

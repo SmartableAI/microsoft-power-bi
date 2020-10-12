@@ -4,7 +4,7 @@ excerpt: "Returns the count of interval boundaries crossed between two dates."
 originalUrl: https://docs.microsoft.com/en-us/dax/datediff-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/datediff-function-dax
 type: article
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft
