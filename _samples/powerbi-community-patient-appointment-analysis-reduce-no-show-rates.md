@@ -4,7 +4,7 @@ excerpt: "An analysis of Emory Healthcare patient data with the goal of reducing
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Patient-Appointment-Analysis-reduce-no-show-rates/m-p/1176592
 type: download
 publishedDateTime: 2020-06-23T06:33:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjJjMDY3ODAtOWY4OC00MTVhLWJkNjYtOTQyMzMwZjI1NTBmIiwidCI6IjBhODcwNzFjLTQ4ZDAtNGViZC1hZDNlLTY1Y2Q0OTA0YTEyZiIsImMiOjZ9\"></iframe>"
 

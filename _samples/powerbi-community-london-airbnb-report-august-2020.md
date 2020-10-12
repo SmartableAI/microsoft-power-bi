@@ -4,7 +4,7 @@ excerpt: "Hi all, Here I used the open source Airbnb listings for London, UK as 
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/London-Airbnb-Report-August-2020/m-p/1373438
 type: download
 publishedDateTime: 2020-09-15T16:57:00Z
-heat: 65
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNDJmNjM0ODAtZGExOC00OTk2LWFhNGItMjA1YjMyNzg4ZjJiIiwidCI6IjA3OGU4ZTc5LTE3YTctNGJkOS05MmMyLWRkZDQ1YWU4NmJkZCJ9&amp;pageName=ReportSectiona1d10cfd8e4aa0cde1ec\"></iframe>"
 

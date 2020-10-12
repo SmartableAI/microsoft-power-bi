@@ -4,7 +4,7 @@ excerpt: "* A report view of Microsoft MVP data from the site : https://mvp.micr
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Microsoft-MVP-Profiles-amp-Activities-2020/m-p/1266944
 type: download
 publishedDateTime: 2020-08-02T08:19:00Z
-heat: 52
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiY2FmZjE1YjYtOGIwOS00OWIyLTgxYTUtZWM4NmE1ZDUwN2QyIiwidCI6ImU1ZDQ0NjI2LThjZTMtNDk3ZC1hZDJhLTZiOTM3NjhmZWIxNyJ9&amp;embedImagePlaceholder=true&amp;pageName=ReportSection\"></iframe>"
 

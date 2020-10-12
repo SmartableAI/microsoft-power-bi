@@ -4,7 +4,7 @@ excerpt: "Data visualization of gender volunteering insights of UN Volunteers."
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Gender-Data-Challenge-Arta-Leli/m-p/1088451
 type: download
 publishedDateTime: 2020-05-13T12:15:00Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMzE1ZjgxYWQtMDYyNi00OWQ0LTk2ZjgtNzIxYjQ2ZTFjNDM2IiwidCI6IjA2ODA0MzE4LTU3YmYtNGY0OC04YmM2LTE2Mzc2NzdlZTc4ZSIsImMiOjl9\"></iframe>"
 

@@ -4,6 +4,7 @@ excerpt: "This is a simple Dashboard with insights in Marketing Data Attribution
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Marketing-Data-Attribution-Insights/m-p/1191286
 type: download
 publishedDateTime: 2020-06-30T00:35:00Z
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOTYxNGZmMGItMjdlYi00ZTFmLTgxYmMtZjhkYjgwYWUxMjI2IiwidCI6IjYyYjBiNjRjLTRiNWItNDU5OC04OGZlLTljYTIxNmM1NjdkMiIsImMiOjh9\"></iframe>"
 

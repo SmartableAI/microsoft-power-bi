@@ -4,7 +4,7 @@ excerpt: "Every year, roughly 3000 selfless United Nations Volunteers offer thei
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Andrew-Yap/m-p/1157632
 type: download
 publishedDateTime: 2020-06-14T03:19:00Z
-heat: 190
+heat: 73
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNzkzMTM5NTQtZGJkOC00NDZmLWI4YTYtZjFjMzA1YmMxNTNkIiwidCI6IjA2ODQ3YTc5LTUwYjUtNDM2MC1iYjhlLTYzNTc1M2Y4MzEyOSIsImMiOjEwfQ%3D%3D\"></iframe>"
 

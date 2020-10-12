@@ -4,7 +4,7 @@ excerpt: "&amp;quot;A healthy diet leads to a healthy mind, and healthy minds le
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Learning-to-Stay-Healthy-Back-To-School/m-p/785922
 type: download
 publishedDateTime: 2019-09-06T09:51:00Z
-heat: 52
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDYyMjc2Y2ItOTU2NS00ZmQ2LTk0NzktNWNhN2JjNmNmYWU5IiwidCI6IjE5NjMzNDc1LThlYzktNDRiYS1iMTViLTRhMDc3YzA4MTJkMSIsImMiOjEwfQ%3D%3D\"></iframe>"
 

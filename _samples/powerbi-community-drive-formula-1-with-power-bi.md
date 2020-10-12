@@ -4,7 +4,7 @@ excerpt: "Formula One (also Formula 1 or F1 and officially the FIA Formula One W
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Drive-Formula-1-with-Power-BI/m-p/349544
 type: download
 publishedDateTime: 2018-01-31T21:37:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNzBiZjUzMzUtMTJkZS00MGE4LWI2MDEtNTFhMTI1N2JjNGU2IiwidCI6IjllOGUzNDEyLTA1YTctNDA3ZS1iOWIyLTlhNzJiY2JmOTA4YSIsImMiOjF9\"></iframe>"
 

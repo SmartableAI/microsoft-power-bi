@@ -4,7 +4,7 @@ excerpt: "Could you imagine your life without plastic? The plastic turns our liv
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Green-Plastic-Back-to-School/m-p/785803
 type: download
 publishedDateTime: 2019-09-06T07:42:00Z
-heat: 59
+heat: 56
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZGMxNTYzODUtNTY1MC00ODQwLWIxMWItNzAwNjVmNzQ4OGI5IiwidCI6IjU2N2NhNTBiLWYxOTgtNGIxMS1iZjc5LWYzNzhlMzM1YzljMCIsImMiOjR9\"></iframe>"
 

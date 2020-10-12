@@ -4,7 +4,7 @@ excerpt: "This Neumorphic dashboard is completely designed in Power BI desktop w
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Power-BI-dashboard-designs-for-non-designers-Part-1/m-p/1317532
 type: download
 publishedDateTime: 2020-08-23T12:27:00Z
-heat: 94
+heat: 56
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZmM3MjU5YTEtODIyOS00OTIwLTg5NDgtN2RiMzI4MmIxZDVhIiwidCI6Ijk3YTkyYjA0LTRjODctNDM0MS05YjA4LWQ4MDUxZWY4ZGNlMiIsImMiOjh9\"></iframe>"
 

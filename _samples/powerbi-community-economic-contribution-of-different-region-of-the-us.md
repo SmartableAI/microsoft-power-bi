@@ -4,6 +4,7 @@ excerpt: "eyJrIjoiZTdmYTkwYTktYTc0My00MjU5LTk5ZmQtYzNlNThiNjNkYjEwIiwidCI6IjgxNz
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Economic-contribution-of-different-region-of-the-US/m-p/1425655
 type: download
 publishedDateTime: 2020-10-10T05:45:00Z
+heat: 131
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZTdmYTkwYTktYTc0My00MjU5LTk5ZmQtYzNlNThiNjNkYjEwIiwidCI6IjgxNzdmMWQzLWU2NTAtNDAxNS1iNzdhLTY4MjUxODQwMzRiNyJ9\"></iframe>"
 

@@ -4,7 +4,7 @@ excerpt: "As a data challenge for Online Volunteers , Franck Joel Tetiogni creat
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Franck-Tetiogni/m-p/1349617
 type: download
 publishedDateTime: 2020-09-06T03:58:00Z
-heat: 56
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMjgzMzYxM2QtMDVmZi00MTZmLThmM2ItOTEwODAzNWQ4M2VkIiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9\"></iframe>"
 

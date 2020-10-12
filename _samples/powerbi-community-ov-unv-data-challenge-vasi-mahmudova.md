@@ -4,7 +4,7 @@ excerpt: "As a data challenge for Online Volunteers , Vasi Mahmudova created a r
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Vasi-Mahmudova/m-p/1349602
 type: download
 publishedDateTime: 2020-09-06T03:35:00Z
-heat: 55
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZTEyMDQwMjYtMjZkOS00MGE2LTlhMTktMWQwYWZkMzUwYWUyIiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9\"></iframe>"
 

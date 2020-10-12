@@ -4,7 +4,7 @@ excerpt: "Sales Analysis Reports eyJrIjoiYWFiZmE5NDktYWZiOS00ZGE4LTgwOTQtMzFiMmI
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Sales-Analysis-Reports-with-Bookmarks/m-p/329557
 type: download
 publishedDateTime: 2017-12-27T06:38:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYWFiZmE5NDktYWZiOS00ZGE4LTgwOTQtMzFiMmIyMGRkNTg4IiwidCI6IjJmNjI3NTMxLWQ4MTAtNGQ1Zi1hMzIzLWQ0ZjgwMjRmZjc0ZCIsImMiOjEwfQ\"></iframe>"
 

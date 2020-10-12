@@ -4,7 +4,7 @@ excerpt: "Hi Folks This is a Practice file for YoY Comparison of YoY Performance
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Year-on-Year-Comparison-of-Entire-busines/m-p/860256
 type: download
 publishedDateTime: 2019-11-28T20:21:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMzc3NTg1MzktNDRhMS00ZDM3LThhYzMtNjRmMzI0YjBjMzMwIiwidCI6ImUzYWQwNzczLTQ5ZTktNDU4OS1hN2RjLTcwMTllNjBjMWVjMyJ9\"></iframe>"
 

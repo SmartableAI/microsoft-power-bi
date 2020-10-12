@@ -4,7 +4,7 @@ excerpt: "El presente dashboard de Ingresos se ha realizado para fines educativo
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Dashboard-de-Ingresos/m-p/1276635
 type: download
 publishedDateTime: 2020-08-06T00:22:00Z
-heat: 55
+heat: 114
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZDNmMjgzZGMtMDU2ZC00MjcyLTk2MTQtZGQ5NDY2YmY1MjU3IiwidCI6Ijc5NzhlNjM0LTRlMTctNDVkZi1iOWEyLWY3NGRjOGY3YzA5ZCJ9\"></iframe>"
 

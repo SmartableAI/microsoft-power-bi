@@ -4,7 +4,7 @@ excerpt: "This report was created with a dataset from #MakeoverMonday to show th
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Best-Practices-for-Designing-a-Roprt/m-p/441350
 type: download
 publishedDateTime: 2018-06-16T14:31:00Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiM2FlYTcyZjUtMTU3Zi00YmVkLWFjMzUtMDU0MWY3NzNkYjI1IiwidCI6IjI1YTcyNjUyLWQ5ZDEtNGZiZC05NTQ0LTBhOGU1Yjc0MmM4MiIsImMiOjR9\"></iframe>"
 

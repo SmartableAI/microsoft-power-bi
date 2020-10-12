@@ -4,7 +4,7 @@ excerpt: "Media Overview Report dashboard template fetches all of your advertisi
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Web-Media-Overview-Report-Dashboard-Template/m-p/1382890
 type: download
 publishedDateTime: 2020-09-20T21:34:00Z
-heat: 123
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNWYxOTE3YTEtYTg5Mi00MmUwLWIzNGItZTI4ZTUwZDdlMjJjIiwidCI6IjYyYjBiNjRjLTRiNWItNDU5OC04OGZlLTljYTIxNmM1NjdkMiIsImMiOjh9\"></iframe>"
 

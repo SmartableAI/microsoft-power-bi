@@ -4,7 +4,7 @@ excerpt: "A simple sales dashboard that using Adventure works data. The layout u
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Page-Navigation/m-p/1366065
 type: download
 publishedDateTime: 2020-09-12T04:07:00Z
-heat: 60
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZWE3NDM3ZWEtYjYzZi00MTJhLTg0ZmItM2VlN2VmYWYyNzNkIiwidCI6ImJjZjQ0Yzg2LTViMGItNDE3Yy1iMjJjLTY4NzYxNWYwNDU5MCIsImMiOjl9\"></iframe>"
 

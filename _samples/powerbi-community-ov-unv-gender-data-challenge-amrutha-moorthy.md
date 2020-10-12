@@ -4,7 +4,7 @@ excerpt: "Data visualization of gender volunteering insights of UN Volunteers."
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Gender-Data-Challenge-Amrutha-Moorthy/m-p/1347752
 type: download
 publishedDateTime: 2020-09-04T06:38:00Z
-heat: 55
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYTlmMTYxNmEtNDU2ZS00MzY5LTk0YmItZGRmYjk3Y2I2MTgxIiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9&amp;pageName=ReportSectionbe45b0498d85005ca741\"></iframe>"
 

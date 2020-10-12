@@ -4,7 +4,7 @@ excerpt: "Dear All, Dear All, This is very good for financial analysis of the di
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/AUTOMATED-FINANCIAL-STATEMENTS-ANALYSIS/m-p/157046
 type: download
 publishedDateTime: 2017-04-11T00:51:00Z
-heat: 52
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYTA2MjA3MTQtNzkzNy00NTI2LWE3ODEtNTAyOWYwOGNjNWJkIiwidCI6ImY5YzUxOTU4LTg5ODQtNDU5My1iNzEyLTM0N2IyZjNhNmNiYiIsImMiOjl9\"></iframe>"
 

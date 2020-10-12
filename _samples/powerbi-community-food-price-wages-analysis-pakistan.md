@@ -4,7 +4,7 @@ excerpt: "This Food Price Analysis Report is based on public data of Pakistan Fo
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Food-Price-amp-Wages-Analysis-Pakistan/m-p/1299606
 type: download
 publishedDateTime: 2020-08-16T21:36:00Z
-heat: 53
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDE0ZjMzMGMtYTkwNS00NDk4LTlkNjktZjgzYTFhYmVkMzk1IiwidCI6ImJjZjQ0Yzg2LTViMGItNDE3Yy1iMjJjLTY4NzYxNWYwNDU5MCIsImMiOjl9\"></iframe>"
 

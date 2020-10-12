@@ -4,7 +4,7 @@ excerpt: "An attempt to use the features of Power BI to explore, analyze and wat
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/FIFA-World-Cup-2018-Explore-Analyze-amp-Watch-in-Power-BI/m-p/460843
 type: download
 publishedDateTime: 2018-07-12T03:35:00Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNzM2MTg0NDEtZTdiYy00MTAwLTk1ZGItMDQ5YjA1MGE2ZTgyIiwidCI6IjE5NjMzNDc1LThlYzktNDRiYS1iMTViLTRhMDc3YzA4MTJkMSIsImMiOjEwfQ%3D%3D\"></iframe>"
 

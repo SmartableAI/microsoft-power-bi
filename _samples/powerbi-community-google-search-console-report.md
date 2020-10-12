@@ -4,6 +4,7 @@ excerpt: "Google Search Console Report template helps you to visualize your Sear
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Google-Search-Console-Report/m-p/1368017
 type: download
 publishedDateTime: 2020-09-14T00:53:00Z
+heat: 57
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZTRmYjFkMjAtMjU3Ny00MGU4LTg2MWYtZmJhZDA4NjQ0NmU4IiwidCI6IjYyYjBiNjRjLTRiNWItNDU5OC04OGZlLTljYTIxNmM1NjdkMiIsImMiOjh9&amp;pageName=ReportSection\"></iframe>"
 

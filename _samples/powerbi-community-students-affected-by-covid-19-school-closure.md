@@ -4,7 +4,7 @@ excerpt: "Students affected by COVID-19 school closure Infographics style dashbo
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Students-affected-by-COVID-19-school-closure/m-p/1366242
 type: download
 publishedDateTime: 2020-09-12T07:47:00Z
-heat: 74
+heat: 56
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjczMzhlMmMtYTQ4NC00ZTBiLWI5MzgtMjA4MmE4ZjdkYjZiIiwidCI6Ijk3YTkyYjA0LTRjODctNDM0MS05YjA4LWQ4MDUxZWY4ZGNlMiIsImMiOjh9\"></iframe>"
 

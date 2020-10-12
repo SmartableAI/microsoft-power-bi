@@ -4,7 +4,7 @@ excerpt: "Hi everyone! I was thinking about how to participate in Back to school
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/DAX-in-Power-BI-Back-to-School/m-p/785063
 type: download
 publishedDateTime: 2019-09-05T15:59:00Z
-heat: 55
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiN2NmNjI5NmEtMGUxZS00ZWRiLTlhZDgtMjU4NmFmNzkxMjI4IiwidCI6ImNhMWQwOGIwLTk1NDMtNGJkOS04NzE4LTQyYmVjZGRjNzc4NiIsImMiOjR9\"></iframe>"
 

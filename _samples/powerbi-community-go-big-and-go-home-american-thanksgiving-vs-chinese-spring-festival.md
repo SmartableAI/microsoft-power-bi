@@ -4,7 +4,7 @@ excerpt: "Explore and compare the difference between consumer activities during 
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Go-BIG-and-go-home-American-Thanksgiving-vs-Chinese-Spring/m-p/732884
 type: download
 publishedDateTime: 2019-07-05T08:12:00Z
-heat: 50
+heat: 69
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNDQwYmQ2NjItOGZiYS00MTNlLTk2NWEtZjk3ZjU1YzBhNTQ3IiwidCI6ImQyOGMxMDVhLWI3N2ItNDA3Yy04YjBjLTFhNmYyZDNhZDg5MCIsImMiOjZ9\"></iframe>"
 

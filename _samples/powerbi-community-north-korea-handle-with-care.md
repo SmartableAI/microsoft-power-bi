@@ -4,7 +4,7 @@ excerpt: "I was interested in this topic after seeing data surrounding North Kor
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/North-Korea-quot-Handle-with-Care-quot/m-p/344991
 type: download
 publishedDateTime: 2018-01-24T20:55:00Z
-heat: 53
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiN2Q4YWMzZTYtOTA0Ni00MjIzLTlhNTgtMjE0OTQwY2U1MjA5IiwidCI6ImFjYzhhYWE1LWYxOTEtNDgyZi05MjFiLWNmNmMzM2E1ODgzMiIsImMiOjF9\"></iframe>"
 

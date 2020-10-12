@@ -4,7 +4,7 @@ excerpt: "A quick two page report using LinkedIn data for creating an interactiv
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Interactive-CV-based-on-LinkedIn/m-p/436914
 type: download
 publishedDateTime: 2018-06-11T04:12:00Z
-heat: 53
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYjAwYmMwYTYtODRmMS00MjA5LThjNzYtOTNmNDczMTBkMDBjIiwidCI6ImZiM2Q5MWE5LWU4NzMtNGJlOC1hYTc1LTcxNDEzY2Y5ZDNjOCIsImMiOjh9\"></iframe>"
 

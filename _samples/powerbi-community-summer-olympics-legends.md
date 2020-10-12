@@ -4,7 +4,7 @@ excerpt: "Hi Power BI community, I've created a report that features three key O
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Summer-Olympics-Legends/m-p/61971
 type: download
 publishedDateTime: 2016-08-24T14:51:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZGY1ZDcxYTItMTA4ZS00ZmNjLWFmZTAtYzMwMGZjZTIwZTFhIiwidCI6ImY2YjZkZDViLWYwMmYtNDQxYS05OWEwLTE2MmFjNTA2MGJkMiIsImMiOjZ9\"></iframe>"
 

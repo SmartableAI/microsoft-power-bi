@@ -4,7 +4,7 @@ excerpt: "Hi All, I leveraged the idea and used the link below as a reference to
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Quality-of-Life-Cost-of-Living-and-Happiness-around-the-World/m-p/716949
 type: download
 publishedDateTime: 2019-06-17T11:37:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNWQxNDZiY2UtNDM2Zi00YWNiLWFlY2QtYjBmOWUwNDk2MzEwIiwidCI6ImUxMzk1OWFkLTYyNzktNDIwYy1hYmEzLWE5ZTgzYzg1YWQyZSIsImMiOjh9\"></iframe>"
 

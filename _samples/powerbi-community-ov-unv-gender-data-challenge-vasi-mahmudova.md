@@ -4,7 +4,7 @@ excerpt: "Data visualization of gender volunteering insights of UN Volunteers."
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Gender-Data-Challenge-Vasi-Mahmudova/m-p/1349614
 type: download
 publishedDateTime: 2020-09-06T03:40:00Z
-heat: 55
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNDI2OGNjMDctZTYxNC00NDA1LWIyOWItZTk5NTdiYzdmNzFkIiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9\"></iframe>"
 

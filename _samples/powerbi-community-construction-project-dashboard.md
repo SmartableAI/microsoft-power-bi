@@ -4,7 +4,7 @@ excerpt: "This interactive report contains the most common activities in the con
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Construction-Project-dashboard/m-p/544131
 type: download
 publishedDateTime: 2018-10-16T23:02:00Z
-heat: 54
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZDYzNmU2YjMtNzI1OC00MTNlLWE5ZDgtZTMwZjg4YzY0ZDg4IiwidCI6IjQxZjZkMDg0LTZiMWUtNGM3YS04NmFjLTA2MmZmMGQ0NWY4NiIsImMiOjh9\"></iframe>"
 

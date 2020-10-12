@@ -4,7 +4,7 @@ excerpt: "Global COVID 19 Spread Analysis. Mortality rate analysis. How Covid 19
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Covid-19-World-Wide-Spread-Analysis/m-p/1189905
 type: download
 publishedDateTime: 2020-06-29T10:41:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMzE1OWU1NWQtNTQ1My00NTBiLWJhMTEtMjQzNWMxZTZhNmQ5IiwidCI6ImVhOGJkMWZkLWFjMzQtNGFlMi1iNDIxLTZjZmEyZmNmZjI0MyJ9\"></iframe>"
 

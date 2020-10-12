@@ -4,7 +4,7 @@ excerpt: "Corona Virus Tracker is developed for tracking numbers of the virus sp
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Corona-Breakdown/m-p/981346
 type: download
 publishedDateTime: 2020-03-19T00:08:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYjI3NjRkYTItMjljMC00MzBhLWE3MzktNzU2ZWE2YWY4ZTg0IiwidCI6Ijk2MWU2Y2Y4LTVkNDYtNGYzOS05NjA5LWMzZGYzOTk4Y2UwZiJ9\"></iframe>"
 

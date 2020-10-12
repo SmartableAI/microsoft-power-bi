@@ -4,7 +4,7 @@ excerpt: "This report shows a completed example of a flexible, dynamic and atten
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Income-Statement-with-Ratio-Analysis/m-p/792479
 type: download
 publishedDateTime: 2019-09-14T16:02:00Z
-heat: 61
+heat: 62
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZTVkNjlkMDItYTk5Yy00M2RiLWJmMjYtM2Y4ZWViNDA0NDYyIiwidCI6IjBjNzk5ZDM4LTQ3NjQtNDJiYy1iNGZmLTIzYmViYTljN2ZlMiIsImMiOjh9\"></iframe>"
 

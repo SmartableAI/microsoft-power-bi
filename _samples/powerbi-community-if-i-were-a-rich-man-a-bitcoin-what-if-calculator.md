@@ -4,7 +4,7 @@ excerpt: "Many people will say that 2017 was the year of the Bitcoin. Whether yo
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/If-I-Were-a-Rich-Man-A-Bitcoin-What-If-Calculator/m-p/332301
 type: download
 publishedDateTime: 2018-01-03T21:52:00Z
-heat: 56
+heat: 58
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYzM4NzdiYzMtOGMwMS00ZTkyLTg0NmQtODNkMTZjZTRlMjFhIiwidCI6IjIyNzNjNDFiLWI4ZDAtNDVhZi1iZWU2LWUwODQ5NmFlNjcxOCIsImMiOjN9\"></iframe>"
 

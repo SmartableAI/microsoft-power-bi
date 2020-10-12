@@ -4,7 +4,7 @@ excerpt: "This Sales Manager Scorecard allows you to stay up-to-date on your com
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Sales-Manager-Scorecard/m-p/53842
 type: download
 publishedDateTime: 2016-07-28T12:35:00Z
-heat: 53
+heat: 55
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNmY4OTZkYTUtYjFjOC00Nzk4LTllMWYtYTE4YjVjNzYwYTgxIiwidCI6ImU0OTdiODdkLTA2MmQtNDAzZS1iNWMxLTNlZGNhN2IzNTUwNyIsImMiOjN9\"></iframe>"
 

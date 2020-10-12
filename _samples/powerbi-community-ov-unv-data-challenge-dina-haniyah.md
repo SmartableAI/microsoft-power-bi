@@ -4,7 +4,7 @@ excerpt: "As a data challenge for Online Volunteers , Dina Haniyah created a rep
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Dina-Haniyah/m-p/1082664
 type: download
 publishedDateTime: 2020-05-10T00:57:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNTdjYzU4YjItYmNmYS00MzIyLWFjZDctNjNlZWQwMzQ2ZDRlIiwidCI6ImI0MThjNGZiLTBiYjQtNDBkMy1iYmIwLWIwMzI1YmQ5ZDA4ZiIsImMiOjEwfQ%3D%3D\"></iframe>"
 

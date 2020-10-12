@@ -4,7 +4,7 @@ excerpt: "Created this fun report using Bookmarking functionality. Reference : h
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Mind-Reading-Card-Trick/m-p/330548
 type: download
 publishedDateTime: 2017-12-29T12:12:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOTQ3MTY2MGItN2I5MS00NmZlLWE2MWYtOTM5MDE3ZGVmZTNjIiwidCI6ImE5ZThjZjE4LWFhMTItNGM2OC1iNzIwLWQ1NGRlMzdiMWQ0MyIsImMiOjEwfQ\"></iframe>"
 

@@ -4,7 +4,7 @@ excerpt: "This report from ShareAdvance's Project Intelligence solution gives pr
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Project-Work-and-Cost-Trend/m-p/64333
 type: download
 publishedDateTime: 2016-08-31T18:05:00Z
-heat: 54
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDcyOWFiODUtNTM5Ny00NGE3LTljMDAtYWRlMTU5YWY1NGU5IiwidCI6IjZkNjM4YjFhLTMyYmYtNGJhMy1iNGI0LWU4NjU1MzcyNmZiMSIsImMiOjZ9\"></iframe>"
 
