@@ -67,19 +67,7 @@ default_event_settings: &default_event_settings
   category: event
   permalink: /api/events/:path/index.json
   deleted: false
-
-
-#----------------------------------------------------------------------------------
-# Sample Settings
-#----------------------------------------------------------------------------------
-
-# Default settings of samples
-default_sample_settings: &default_sample_settings
-  layout: post
-  category: sample
-  permalink: /api/samples/:path/index.json
-  deleted: false
-
+  
 
 #----------------------------------------------------------------------------------
 # Customer Settings
@@ -90,18 +78,6 @@ default_customer_settings: &default_customer_settings
   layout: post
   category: customer
   permalink: /api/customers/:path/index.json
-  deleted: false
-
-
-#----------------------------------------------------------------------------------
-# Community Settings
-#----------------------------------------------------------------------------------
-
-# Default settings of communities
-default_community_settings: &default_community_settings
-  layout: post
-  category: community
-  permalink: /api/communities/:path/index.json
   deleted: false
 
 
@@ -129,8 +105,6 @@ collections:
     output: true
   posts:
     output: true
-  samples:
-    output: true
   people:
     output: true
   events:
@@ -138,8 +112,6 @@ collections:
   functions:
     output: true
   customers:
-    output: true
-  communities:
     output: true
   newsletters:
     output: true
@@ -163,34 +135,6 @@ defaults:
       layout: collection
       category: function
       permalink: /api/functions/collections/:title/index.json
-      type: collection
-      support_paging: false
-  # _samples
-  - scope:
-      path: ""
-      type: samples
-    values:
-      <<: *default_sample_settings
-  - scope:
-      path: "_samples/collections"
-    values:
-      layout: collection
-      category: sample
-      permalink: /api/samples/collections/:title/index.json
-      type: collection
-      support_paging: false
-  # _communities
-  - scope:
-      path: ""
-      type: communities
-    values:
-      <<: *default_community_settings
-  - scope:
-      path: "_communities/collections"
-    values:
-      layout: collection
-      category: community
-      permalink: /api/communities/collections/:title/index.json
       type: collection
       support_paging: false
   # _customers
