@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-improved-mdx-q
 webUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-improved-mdx-query-performance-in-power-bi/"
 type: article
 quality: 87
-heat: 89
+heat: 87
 published: true
 
 provider:
