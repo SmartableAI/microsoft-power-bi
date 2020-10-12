@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT6M31S
 publishedDateTime: 2017-11-15T14:56:43Z
-heat: 56
+heat: 57
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uvYFyNkqWF4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "6ADqM/WKZITyEOduHk8EpaScYBwppgIhpnSroly594Gn3jK70GBBJo1DO+5Cf3moRqCnLEO37UhpSSZOHf7LgeaZIqzSgfVzOo7BQEFmawO4Otq5RK9zsOJvKM/vC+nm/fGrtLTMCSove9Rh/gB3w+fytoxSWunADLPXN7gPdPuQRh9xMQB2UTvNkdQFf3905wuW6VvabA8c/6dfy4xg8Zfs+crlbEQPp58woWzEQ2ofzNgvGCha3EQxhluJDV4vHFpbCkh/ka3CatZybZg+DjcrrEBletqr/6oNJN1zDnz51Bp1ktAR9278I0eipWJaYcwACCK6MRlgyUXkRXjL9WfkOByHrKYdIPPJ0X4eZP2hv4cMhMrmPDNOxobwGsjskXM0VIg68dqMVXYmIhQgwMgHCxNJ8MMQsE5JI3L3Tk4=;chEJXrMmDhdqZ/wT4gQE8w=="
+secured: "Merde+YudGbC+AmiyeZcq+1wDswzr1Tu6CnG2vkBbeRCJPw66qe5BM3eLoaVJaQoynGnQu9VPOu8QoBp55pC2Pi2v+fGM1YTk7fT/uaKuIv6KQXhPFjlLU73W6IhoT/DM86U1gS9aKqgjZd38FIBCH+tWhhki07jtZmxJqUOV0lvRGPhFXBT+hMvxmoKzgSs3p6HtjE6/WYJ/rn2O6YsFCd4ory/7vLB4HaEETCehuL9eSAZXcDpj6cSxSTJ7d3g4H7P/wCUH/+p84YDBSKbLxZP249hDVEbTCQulFfXNADEHDifht6c1iDWbmbiI7UunbJUGGxq5G0u8aFujCmREQrO4lJegf/oHHr45gapLwcHHSrrZdTxxFUKLhAbhTZHOyhOJJLOCM9iIt6HPWeVJAnCkNJzCCKq4VNFrzPmBjQ=;3I09DhYuCdPheFl3uQCy/A=="
 ---
 
