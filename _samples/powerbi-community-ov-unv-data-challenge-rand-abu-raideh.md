@@ -4,7 +4,7 @@ excerpt: "As a data challenge for Online Volunteers , Rand Abu Raideh created a 
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Rand-Abu-Raideh/m-p/1346852
 type: download
 publishedDateTime: 2020-09-04T02:07:00Z
-heat: 112
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMTBiY2I4MDUtODEyZC00Mjk1LWJjMmEtODFlZGE4NzI4YjMxIiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9&amp;pageName=ReportSectioncec27ea74889827bcfd4\"></iframe>"
 
