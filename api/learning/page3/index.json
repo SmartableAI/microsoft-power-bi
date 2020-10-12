@@ -501,7 +501,7 @@
             "domain": "absentdata.com"
           },
           "publishedDateTime": "2020-07-26T06:01:35-07:00",
-          "heat": 56,
+          "heat": 136,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/CW-Er8slv9k/hqdefault.jpg",
@@ -1144,8 +1144,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 6780,
-            "average": 4.6666665
+            "count": 6782,
+            "average": 4.6666174
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1677,8 +1677,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/design-model-power-bi/",
       "length": "PT2H8M",
       "ratings": {
-        "count": 847,
-        "average": 4.7414403
+        "count": 848,
+        "average": 4.7405663
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1718,8 +1718,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 13393,
-        "average": 4.695363
+        "count": 13394,
+        "average": 4.695386
       },
       "provider": {
         "name": "Microsoft Learn",
