@@ -1,0 +1,34 @@
+---
+category: news
+title: "Curbal Tech News: News on custom and certified connectors"
+excerpt: "The Power BI team is keeping busy releasing new features, and Curbal Tech News is always on top of it, broadcasting them to you!  This time, they have announced the General availability of Power BI custom connectors and certified connectors.  They explain the process of getting your connectors certified:"
+publishedDateTime: 2018-11-01T12:04:13Z
+originalUrl: "https://youtube.com/watch?v=JzQibtP_evU"
+type: video
+quality: 124
+heat: 124
+published: true
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JzQibtP_evU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
+provider:
+  name: Curbal
+  domain: curbal.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Power BI
+  - Power BI Desktop
+
+images:
+  - url: "https://i.ytimg.com/vi/JzQibtP_evU/maxresdefault.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "YfYlTOGqmsD60DK9VMo18qXCGZPTB6KJ1kh81UgSbfDpQn6zKWC1NoE+trt4L/yeEWccfv6HesX/HtySRZLLNLX9PpMHeO4Vo2qUhu5C8w3t9yGcFI0n9KQEdULrrr9fCgt9MNXQR8u4HKgxO6Lk1+UrTIAk+CsnC1K/hYM1YiVOYbO//18lBuLdlkU50FAg4chulYEre9lvJdKhT6TtjJOvD0hXL6HF9S56R2aQGhcwxL2IIOuGN4uRnN3RfTRZvYdxVxZUaoGxhGB4NbHGkUmyFS/mqp5eplNhISuxGCImWerOvLmV9+BlwfJxxJCzj0R908FxMEyTx2ZXWw+mQN2DqfAVETkOiOMlylEwSgjP94N+YjePThORGU/12ex/5t7gHseFhKXrPaOg1+3uYw==;wq2gSCY26ByIwz0d9nQ9Xw=="
+---
+

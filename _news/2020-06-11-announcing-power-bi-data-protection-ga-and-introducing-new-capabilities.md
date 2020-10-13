@@ -5,9 +5,11 @@ excerpt: "Last fall we introduced industry-leading Power BI data protection capa
 publishedDateTime: 2020-06-11T09:10:00Z
 originalUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-data-protection-ga-and-introducing-new-capabilities/"
 type: article
-quality: 37
-heat: 37
-published: false
+quality: 139
+heat: 139
+published: true
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/s6DWF2lENs8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
   name: Microsoft
@@ -19,6 +21,7 @@ provider:
 
 topics:
   - Power BI
+  - Power BI Desktop
 
 images:
   - url: "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png"
@@ -27,6 +30,6 @@ images:
     isCached: true
     title: "Announcing Power BI data protection GA and introducing new capabilities"
 
-secured: "aQZ47Xz6nPz4ChSN3l0YKozvChgfz6cAwfuhCpS0/0iRXRRHraWh+FG4wAxfpCWIXVrYiJBmNKcfMzRm1/4/VT8l1tzm3JblktSHT/tN4T3nk+soukOIdldNExXGeRrBBMVjeBYswJCVxcHfeVP4TcjIBbwdecHdrKIfqZT1+D5v4i1sjpfZRRL95QTsAeTeyai0ATOtaKF/bcL3K54GU7zX4JoxohLfWtxT9qBY7GkCza4eJqIvE8bFvmmtJl2/t36W1OipNr9u9nXGnjMYf5Zi+oKr1dOJKBUkU6rMv0qRwFl6adjQobPErt5b1mNyfR4d2rkcpPFmu3rMUAPLdA==;gSnTWqg8yoC1WjyiJUtCmw=="
+secured: "N8JTd0wXnyrQyblOZNzgXJ2McCO/mUKKvDm7600TYHAPsCHugdEULdVgWgLmAMNenqBkzqTE37SIoNqPCnwb8i7HS/1J0L3lwhOkPZUEFkXed4P+FvD6hbp2iUHpfxsGP3o6K/vMT3RULmi98CfpWXwsHfSgwPmTesDtv640zxGmKYl7tyrEw2L0qKP6n/9Pv4KEIbUpQy7342CmfxmjPrkpLZEzLJC+LNVSgGmrWcBw+l5jc2UGiSSBlyjhbImHnun6o686MgjE0ASm2eijQD/TY0DtSokV9n3auSD+v8V4QfZZHstka9GOUju+8rhnWfGPgD7M23fqLEZy0p+JcZAyd0kE+cg1xWgdb7vMPgAnRZbcEMLlRdl1ueDSG5ZsjoA+xiaZfICNYh/szEvF0q15km47jqwpOItOaLOEZlY=;ezrbtdeGYwGmxVviP+Mu/A=="
 ---
 

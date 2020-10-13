@@ -8,16 +8,23 @@ webUrl: "https://www.smartdatacollective.com/how-to-interact-with-power-bi-data-
 ampWebUrl: "https://www.smartdatacollective.com/how-to-interact-with-power-bi-data-in-powerpoint-presentation/amp/"
 cdnAmpWebUrl: "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/how-to-interact-with-power-bi-data-in-powerpoint-presentation/amp/"
 type: article
-quality: 57
-heat: 57
-published: false
+quality: 159
+heat: 159
+published: true
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EB_falKvVc4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
   name: SmartData Collective
   domain: smartdatacollective.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Power BI
+  - Power BI Desktop
 
 images:
   - url: "https://www.smartdatacollective.com/wp-content/uploads/2020/10/power-bi-data.jpg"
@@ -25,6 +32,6 @@ images:
     height: 667
     isCached: true
 
-secured: "uPA7dJfSO9V/NqIv1oY6GkWrejqo4fknZrbkZ5obXCC0HhYiG8I5PCuhaBvjidZIrI4RWcvNr4Edh8J41RUweM9qXlIcncgOQ6ZlRden2X7zpmSjH8agj1X5CSBfpKNV3FAfMDLwWbnjem3kA5AhUVk2Fnoh8VlDkNF6z+FlosmRGZdhWhyfW6gWdJcRiBO6T8I5jAjAxesHNS1yk1UaHGmiWYn/iLnCZRPjkgDv/AX2TdBsmVtSaKfkFQVK6y4Wym+pyT11SDT89Wmfwotl8Us2whPR6/iznpvlOp9h7UWO7fVZX9G4+nwH4CpDljGxihUSHkVX1D43gdjTivgJLa7qmAYPug8ada43bxRW3xk=;EyjT9BcwD9TQIXz/rXlxew=="
+secured: "FwJ+Nfffo6w3Is/0p3tG+oJypIG8tf0x0DNZ33A0nMM5Idd2MEXhQy3O4OLB2ux7fP3bSysttuInSdFxS4UMyczaRPt3yIBm8bMjTUtEcO/lw/iTFeC572vETzQBERenJNYR1ZicDFU+mYM7CJnCFzxRuta/bHXYBKhECBhphKVkDwSMEKeCjjjmEwrXfVy/3BbXbybG+wskGI1fvfQZNyhGGOu5XepLM5Xy5VkbwZV82P1pj6muWcfihG1wdPZfswmFwwadi90PpndKA9dybeo+6DSruylzZ7e4O4AeNIXee8R+Ocp42HbJgP0rZyXOPZuHiP9DrKrbrqDd7m3JCf9P16lKFrMooXbyjcq9mvrDy5OVbZFQUnKYgTu8g9cI9R47sJjisqsI7ZFC7AnYUn9GmhX+nalokxLm0dD5eF0=;PJDMMtLIX/SNMPBKGXlF6w=="
 ---
 

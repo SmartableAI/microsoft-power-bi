@@ -6,9 +6,11 @@ publishedDateTime: 2020-08-13T18:34:00Z
 originalUrl: "https://powerbi.microsoft.com/en-us/blog/join-us-monthly-power-bi-dev-camp-is-here-starting-august-27-2020/"
 webUrl: "https://powerbi.microsoft.com/en-us/blog/join-us-monthly-power-bi-dev-camp-is-here-starting-august-27-2020/"
 type: article
-quality: 87
-heat: 87
+quality: 189
+heat: 189
 published: true
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MA0xmjKmONs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
   name: Microsoft
@@ -20,6 +22,7 @@ provider:
 
 topics:
   - Power BI
+  - Power BI Desktop
 
 images:
   - url: "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png"
@@ -27,6 +30,6 @@ images:
     height: 417
     isCached: true
 
-secured: "YYp29S/Fee5VBH1R2rrjS9cVEOUCOnkz/lCKB5m46DLj3Yaw7bxVqHtNTdMhl9NKhCZ9fvDAOLrtlExo7tD/Eez/ZJxDDXq3fLUuqS60hRV1sWz8cOXWYkRd158MHkCQMbClUg0rfqZI21DQq8bCHMHGVAqEJHl901foctSBi1LuIRvJolwGB1oZ4tKXkd9oe99f5aXlwOfxjaNmhyeaI/500/KC/tFqlCq0cmhVTXAZAUNSVybTlc5cQsk+4PAEp7Ljeun5mFSitxX7XpsjhK8LYw8Cuy8Qp7iEDAdwndeCEDukZkMqGv9InwOpITJ3M16H6WWuBIg8vGbher1Cohep0NGuz1BFJfpTgS6fJD4=;tBAyAH8+x6BKiSGasecMRQ=="
+secured: "djZ8A5bXcJxy8Db1Bpw0LKO6Wx69YZhvF97bOTiku+6gpZm7G52FIth2DiATJlhnk+aIO1cy08fKpVnrND0SMfxza5SgP+9grxU62wHEHlCnsdNtuvO8IHPdEUKDV8XxG1FyCbM9oRwoBFk86V0qcCskHnuAkbTk0+mcZXc6bpOpzHO6bKkwfB7CUK6j5k7S6HNjkUuzOcuPw+iY6VNb1k0FI6/vlBwthMRV5WqSXNJ0g94baNLWjKqkzQVfWvRZlQoBK9n6iqfSDTy09K8rupBNGLLlTaYZyCTy7EKUboOZ3SMelGBlapEFcndLy0F+nNcUpsMX3OolAPfW74I3aFL1x50QhrxffHEZeML2rCImpXyoLcmwQ2+d6+u9UBK9XvhHxsyqp5ywOd3mMie3aKIejjY5zC0e+sCkdHbpf1Qvgm6aOT+zIOBC23aLDGxG;oYuUulUx9f/+1Mh1XtKWkg=="
 ---
 

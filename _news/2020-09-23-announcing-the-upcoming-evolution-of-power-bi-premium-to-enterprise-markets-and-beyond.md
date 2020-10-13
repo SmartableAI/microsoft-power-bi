@@ -6,9 +6,11 @@ publishedDateTime: 2020-09-23T11:14:56Z
 originalUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-the-upcoming-evolution-of-power-bi-premium-to-enterprise-markets-and-beyond/"
 webUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-the-upcoming-evolution-of-power-bi-premium-to-enterprise-markets-and-beyond/"
 type: article
-quality: 79
-heat: 79
+quality: 181
+heat: 181
 published: true
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KSmdEGZT8Tk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
   name: Microsoft
@@ -20,6 +22,7 @@ provider:
 
 topics:
   - Power BI
+  - Power BI Desktop
 
 images:
   - url: "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png"
@@ -27,6 +30,6 @@ images:
     height: 1600
     isCached: true
 
-secured: "0YuWdDz00yMNUsxMujQ/zlU6coSY100+4KM4NavhMjzlIpcLIIGbqj+MyZAllkEPrh9LWXChl8MJcpR9OvYn+5fAHk2GhzHszZAzG898DBBSK0nU4Grr8J6gMZx5cgP8zWBImHWiplzPf7sz1z9VCf+CdZb31wwi1GyDYZJ69vBQrZ3dlX1/KWtAp6mT0iCfPDJao+joM2tf8d0YQetdGjniMfIKtbevoRZ5hmbqMoN0E9+IBxmGywSZqozhSVA1e0GMaYWM3zA1iyIpIEAa1Kj8m5VHTU3K4foIRrbSq8cbZqLZHwoyRs4h+LXQ6xxkZCVUZLEdzvfFI1znkLnP0pGrhgX91y77ElCsvDysJNY=;t63pUa0BRpJ1pXMfHdb8PQ=="
+secured: "qS6zotpfO9eayeisZGMdS4A7gtyDg2JFUM9TuyxuxXe30px1CbLcCK1ehLrtiNys7AgyKwk1EVZtZmcFn4rDfyNQYze+STeT9y+62VBgNXKVoua20PdZocLA0Dw1ZPSjY1qDuwHxmICJIaWCsmJDPRL3g2S+reOd0pXT3SmOf8dxGXwJXdxDUf/n0d4gFHzVmIqd7InPR/E1RewzHldPOnSzkhbX2fah0QG98g2/+O3Aub4dfIbxqdUuGGhr8I9eq8YXAOF1tz26gDbUok+0JPt7EEh/jnVqI2xWVeWgyZeQ6TJuA4V2b8/7k+o71zgHgBuUWsnpInmQrYa1ugv1VAaWW4is4GyyYQ+vuhqCc2cNEzYNz3i2A5KmUhwcSWf+w1gv2ulOOxsJWRBhTvZwSDgz5+XdYsolYEQvznnHrqs=;EEkacwactZlu4zrcJFV8dA=="
 ---
 
