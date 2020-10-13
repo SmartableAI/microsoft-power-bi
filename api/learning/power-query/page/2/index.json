@@ -4,45 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/videos/curbal-managing-changing-column-names-in-power-query-10-magic-mondays.md",
-      "title": "Managing changing column names in Power Query #10: (M)agic (M)ondays",
-      "excerpt": "In today's video, I will show how to manage column headers that changes names so your power bi file does not break when you refresh it.  This tip is from Lars Schreiber and here is the link to his blog post and how to do this in power query: http://power-bi-usergroup.blogspot.se/2015/12/dealing-with-tables-with-changing.html",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-managing-changing-column-names-in-power-query-10-magic-mondays/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-managing-changing-column-names-in-power-query-10-magic-mondays/",
-      "originalUrl": "https://youtube.com/watch?v=yBJr0sAc-m4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yBJr0sAc-m4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M46S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-07-06T11:40:32-07:00",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/yBJr0sAc-m4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
       "path": "_learning/videos/curbal-refer-to-a-value-column-or-row-in-power-query.md",
       "title": "Refer to a value, column or row in Power Query",
       "excerpt": "Have you ever tried to use a specific column, row or value in power query, but didnt now how to do it?  In this video I will show you how to refer to a specific column, row or value using simple commands in power query.   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center",
@@ -73,7 +34,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -112,7 +72,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -143,7 +102,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -182,7 +140,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -221,7 +178,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -261,7 +217,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -300,7 +255,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -339,7 +293,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -378,7 +331,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -417,7 +369,44 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-3-hidden-tricks-in-the-power-query-editor-for-power-bi-and-excel.md",
+      "title": "3 HIDDEN tricks in the Power Query editor for Power BI and Excel",
+      "excerpt": "Showing off 3 HIDDEN tricks in the Power Query editor, in Power BI and Excel, that you may not have known about. Little things that take Power Query to the NEXT LEVEL!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next level? We",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-3-hidden-tricks-in-the-power-query-editor-for-power-bi-and-excel/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-3-hidden-tricks-in-the-power-query-editor-for-power-bi-and-excel/",
+      "originalUrl": "https://youtube.com/watch?v=BC_H6tJsxX0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BC_H6tJsxX0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M36S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-08-11T08:00:02-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/BC_H6tJsxX0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "price": "Free",
       "topics": [
@@ -456,7 +445,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -487,7 +475,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -518,7 +505,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -557,7 +543,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -596,7 +581,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -636,7 +620,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -675,7 +658,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -714,7 +696,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -753,7 +734,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -792,7 +772,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -831,7 +810,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -870,7 +848,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -909,7 +886,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -948,7 +924,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -988,7 +963,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1019,7 +993,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1050,7 +1023,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1081,7 +1053,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1112,7 +1083,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [

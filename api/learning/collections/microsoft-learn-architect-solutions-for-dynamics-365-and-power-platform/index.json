@@ -38,7 +38,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
@@ -72,7 +71,6 @@
         "Advanced"
       ],
       "heat": 51,
-      "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
@@ -106,7 +104,6 @@
         "Advanced"
       ],
       "heat": 51,
-      "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
@@ -140,7 +137,6 @@
         "Advanced"
       ],
       "heat": 50,
-      "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
@@ -173,8 +169,7 @@
       "levels": [
         "Advanced"
       ],
-      "heat": 50,
-      "content": "\r\n",
+      "heat": 130,
       "type": "course",
       "price": "Free",
       "topics": [

@@ -4,6 +4,35 @@
   "page": 53,
   "value": [
     {
+      "path": "_learning/videos/learn-power-bi-power-bi-win-loss-percentage-for-dynamicscrm-funnel-step-by-step-example.md",
+      "title": "Power BI Win-Loss Percentage for Dynamics/CRM Funnel (Step-by-Step Example)",
+      "excerpt": "Your mission today is to help Kevin calculate Win-Loss% using CRM Data and the magic of Power BI. 👉 Download Power BI File in Video at https://web.learnpowerbi.com/download/  Calculate the win or loss percentage and easily track it over time.  ➔ Links mentioned in the Video • Power BI Tutorial for Beginners",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-power-bi-win-loss-percentage-for-dynamicscrm-funnel-step-by-step-example/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-power-bi-win-loss-percentage-for-dynamicscrm-funnel-step-by-step-example/",
+      "originalUrl": "https://youtube.com/watch?v=xpPnvB7m9DY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xpPnvB7m9DY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M25S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2019-05-14T23:29:50-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xpPnvB7m9DY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/learn-power-bi-power-bi-would-take-you-around-the-world-feat-reid-havens.md",
       "title": "Power BI Would Take You Around the World! (feat. Reid Havens)",
       "excerpt": "What happens when your fear does not hold you back? Make sure you watch till the end to find out. 👉 Connect with Reid: http://www.havensconsulting.net/   👉 Join the LearnPowerBI Family: https://web.learnpowerbi.com/waitlist-invite/ =============================================== 👉 FREE Power BI Step-by-Step",
@@ -26,7 +55,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -56,7 +84,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -86,7 +113,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -116,7 +142,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -146,7 +171,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -176,7 +200,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -206,7 +229,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -236,7 +258,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -266,7 +287,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -296,7 +316,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -326,7 +345,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -356,7 +374,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -386,7 +403,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -416,7 +432,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -446,7 +461,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -476,7 +490,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -507,7 +520,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -537,7 +549,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -567,7 +578,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -597,7 +607,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -627,7 +636,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -657,7 +665,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -687,7 +694,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -717,7 +723,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -747,7 +752,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -777,7 +781,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -807,7 +810,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -837,7 +839,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -867,37 +868,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-talk-power-bi-live-subscribe-join-august-3-2018.md",
-      "title": "🔴 Talk Power BI LIVE (Subscribe & Join) August 3, 2018",
-      "excerpt": "✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask any Power BI question. 💡 Join https://www.facebook.com/groups/TalkPowerBI to continue the conversation  Hello, I am Avi Singh, Microsoft MVP and Power BI Pro! I just love talking about Power BI. So much so that I",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-talk-power-bi-live-subscribe-join-august-3-2018/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-talk-power-bi-live-subscribe-join-august-3-2018/",
-      "originalUrl": "https://youtube.com/watch?v=o0ErsI23KJY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/o0ErsI23KJY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H24M35S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2018-08-01T14:44:27-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/o0ErsI23KJY/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [

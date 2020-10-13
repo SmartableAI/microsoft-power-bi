@@ -61,7 +61,6 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
           "type": "course",
           "price": "Free",
           "topics": [
@@ -103,7 +102,6 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
           "type": "course",
           "price": "Free",
           "topics": [
@@ -118,8 +116,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/create-dashboards-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 345,
-            "average": 4.727536
+            "count": 346,
+            "average": 4.7254333
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -145,7 +143,6 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
           "type": "course",
           "price": "Free",
           "topics": [
@@ -187,7 +184,6 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
           "type": "course",
           "price": "Free",
           "topics": [
@@ -205,7 +201,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "collection",
       "price": "Free",
       "topics": [
@@ -262,7 +257,6 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
           "type": "video",
           "price": "Free",
           "topics": [
@@ -300,7 +294,6 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
           "type": "video",
           "price": "Free",
           "topics": [
@@ -338,7 +331,6 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
           "type": "video",
           "price": "Free",
           "topics": [
@@ -376,7 +368,6 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
           "type": "video",
           "price": "Free",
           "topics": [
@@ -394,7 +385,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "collection",
       "topics": [
         "Power BI"
@@ -434,7 +424,6 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
           "type": "video",
           "price": "Free",
           "topics": [
@@ -464,7 +453,6 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
           "type": "video",
           "price": "Free",
           "topics": [
@@ -494,7 +482,6 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
           "type": "video",
           "price": "Free",
           "topics": [
@@ -524,7 +511,6 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
           "type": "video",
           "price": "Free",
           "topics": [
@@ -542,7 +528,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "collection",
       "topics": [
         "Power BI"
@@ -579,7 +564,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -617,7 +601,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -655,7 +638,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -694,7 +676,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -733,7 +714,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -771,7 +751,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -809,7 +788,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -847,7 +825,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -885,7 +862,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -923,7 +899,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -961,7 +936,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -999,7 +973,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1029,7 +1002,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1094,7 +1066,6 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
           "type": "course",
           "price": "Free",
           "topics": [
@@ -1110,8 +1081,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 209,
-            "average": 4.674641
+            "count": 210,
+            "average": 4.6761904
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1137,7 +1108,6 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
           "type": "course",
           "price": "Free",
           "topics": [
@@ -1181,7 +1151,6 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
           "type": "course",
           "price": "Free",
           "topics": [
@@ -1224,7 +1193,6 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
           "type": "course",
           "price": "Free",
           "topics": [
@@ -1243,7 +1211,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "collection",
       "price": "Free",
       "topics": [
@@ -1286,7 +1253,6 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
           "type": "video",
           "price": "Free",
           "topics": [
@@ -1317,7 +1283,6 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
           "type": "video",
           "price": "Free",
           "topics": [
@@ -1348,7 +1313,6 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
           "type": "video",
           "price": "Free",
           "topics": [
@@ -1379,7 +1343,6 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
           "type": "video",
           "price": "Free",
           "topics": [
@@ -1398,7 +1361,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "collection",
       "topics": [
         "Power BI",
@@ -1439,7 +1401,6 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
           "type": "video",
           "price": "Free",
           "topics": [
@@ -1469,7 +1430,6 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
           "type": "video",
           "price": "Free",
           "topics": [
@@ -1500,7 +1460,6 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
           "type": "video",
           "price": "Free",
           "topics": [
@@ -1531,7 +1490,6 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
           "type": "video",
           "price": "Free",
           "topics": [
@@ -1550,7 +1508,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "collection",
       "topics": [
         "Power BI"
@@ -1564,8 +1521,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 1405,
-        "average": 4.745196
+        "count": 1407,
+        "average": 4.745558
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1591,7 +1548,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
@@ -1629,7 +1585,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1668,7 +1623,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1706,7 +1660,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1745,7 +1698,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1784,7 +1736,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1823,7 +1774,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1861,7 +1811,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1900,7 +1849,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1938,7 +1886,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1976,7 +1923,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [

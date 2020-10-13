@@ -4,6 +4,44 @@
   "page": 19,
   "value": [
     {
+      "path": "_learning/videos/microsoft-power-bi-paginated-reports-in-a-day-09-retrieving-report-data-part-2.md",
+      "title": "Power BI Paginated Reports in a Day - 09: Retrieving Report Data - Part 2",
+      "excerpt": "In this video, we introduce paginated report datasets, and describe how you can create query statements with graphical query designers.  The Power BI Paginated Reports in a Day online course aims to empower you as a report author with the technical knowledge required to create, publish, and distribute",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/microsoft-power-bi-paginated-reports-in-a-day-09-retrieving-report-data-part-2/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/microsoft-power-bi-paginated-reports-in-a-day-09-retrieving-report-data-part-2/",
+      "originalUrl": "https://youtube.com/watch?v=1Dzd9wb7XUY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1Dzd9wb7XUY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M18S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-03-17T21:05:57-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1Dzd9wb7XUY/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": "Power BI Paginated Reports in a Day - 09: Retrieving Report Data - Part 2",
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/microsoft-self-study-kit-power-bi-developer-in-a-day.md",
       "title": "Self-study kit | Power BI Developer in a Day",
       "excerpt": "In this video, we introduce the course labs and how you can get set up with the self-study kit. This is video 2 of 20.    The Power BI Developer in a Day online course empowers you as an app developer with the technical knowledge required to embed Power BI content. We recommend you watch the videos in",
@@ -34,7 +72,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -64,7 +101,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -94,7 +130,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -125,7 +160,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -156,7 +190,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -186,7 +219,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -216,7 +248,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -246,7 +277,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -276,7 +306,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -306,7 +335,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -336,7 +364,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -367,7 +394,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -398,7 +424,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -436,54 +461,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
         "Power BI",
         "DAX"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-connect-analyze-dynamics-365-data.md",
-      "title": "Connect and analyze your Dynamics 365 data​",
-      "excerpt": "Connect and analyze your Dynamics 365 Data​",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-connect-analyze-dynamics-365-data/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/connect-analyze-dynamics-365-data/",
-      "length": "PT57M",
-      "ratings": {
-        "count": 2016,
-        "average": 4.7068453
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/connect-and-analyze-your-microsoft-dynamics-365-data-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
       ]
     },
     {
@@ -494,8 +476,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-dashboards-power-bi/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 345,
-        "average": 4.727536
+        "count": 346,
+        "average": 4.7254333
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -521,7 +503,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
@@ -563,7 +544,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
@@ -606,7 +586,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
@@ -623,8 +602,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/dax-power-bi-write-formulas/",
       "length": "PT27M",
       "ratings": {
-        "count": 209,
-        "average": 4.674641
+        "count": 210,
+        "average": 4.6761904
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -650,7 +629,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
@@ -694,7 +672,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
@@ -732,7 +709,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -770,7 +746,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -809,7 +784,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -849,7 +823,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -888,7 +861,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -926,7 +898,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -964,7 +935,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1002,7 +972,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1041,7 +1010,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1080,7 +1048,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [

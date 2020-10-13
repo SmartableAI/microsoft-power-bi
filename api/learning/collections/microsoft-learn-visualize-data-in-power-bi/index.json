@@ -38,7 +38,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
@@ -80,7 +79,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
@@ -95,8 +93,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-dashboards-power-bi/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 345,
-        "average": 4.727536
+        "count": 346,
+        "average": 4.7254333
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -122,7 +120,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
@@ -164,7 +161,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [

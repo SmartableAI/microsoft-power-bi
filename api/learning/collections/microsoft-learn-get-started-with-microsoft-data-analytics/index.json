@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 3801,
-        "average": 4.768219
+        "count": 3804,
+        "average": 4.767876
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -38,7 +38,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
@@ -53,8 +52,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 20132,
-        "average": 4.733956
+        "count": 20137,
+        "average": 4.733873
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -80,7 +79,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [

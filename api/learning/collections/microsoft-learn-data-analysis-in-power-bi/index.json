@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/perform-analytics-power-bi/",
       "length": "PT51M",
       "ratings": {
-        "count": 376,
-        "average": 4.6515956
+        "count": 377,
+        "average": 4.6525197
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -38,7 +38,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
@@ -80,7 +79,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
