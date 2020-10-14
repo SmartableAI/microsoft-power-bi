@@ -30,10 +30,45 @@
           "isCached": false
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "name": "Power BI Exchange by Power BI User Group",
       "type": "forum",
       "members": 76494,
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_communities/reddit-powerbi.md",
+      "excerpt": "Everything you need to know about Power BI: news, resources, and a community of super users ready to answer questions!",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/communities/reddit-powerbi/index.json",
+      "webUrl": "https://www.reddit.com/r/PowerBI/",
+      "originalUrl": "https://www.reddit.com/r/PowerBI/",
+      "provider": {
+        "name": "Reddit",
+        "domain": "reddit.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/reddit.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "heat": 348,
+      "images": [
+        {
+          "url": "https://styles.redditmedia.com/t5_3141e/styles/communityIcon_w16ptnbrtfn41.png?width=256&s=05c2f4937b29a91e50e2efda0699d043ed219198",
+          "width": 256,
+          "height": 256,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "name": "Microsoft Power BI Subreddit",
+      "type": "forum",
+      "members": 30900,
       "topics": [
         "Power BI"
       ]
@@ -65,7 +100,7 @@
           "isCached": false
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "name": "Microsoft PowerBI Facebook Group",
       "type": "forum",
       "members": 30000,
@@ -135,7 +170,7 @@
           "isCached": false
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "name": "Global Power BI User Group in Facebook",
       "type": "forum",
       "members": 18254,
@@ -170,7 +205,7 @@
           "isCached": false
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "name": "Official Microsoft Power BI Forums",
       "type": "forum",
       "members": 15000,
