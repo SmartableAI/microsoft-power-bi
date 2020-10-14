@@ -2,6 +2,7 @@
 title: "5 Steps to Master Power BI: Are You Missing a Step? 🤔"
 excerpt: "How can you master Power BI? Even though there are 1000s of videos and training lessons available for Power BI…why do some people still struggle to master Power BI? To feel confident and comfortable using Power BI? Why do they keep getting stuck? Unable to cross the learning-doing gap?  Imagine if you"
 originalUrl: https://youtube.com/watch?v=wM8x4eA3wdc
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-5-steps-to-master-power-bi-are-you-missing-a-step-/
 type: video
 price: Free
 length: PT12M34S
@@ -23,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "0k1EknIGl3D2U2NGMw4sytiWAXiOTo5H1OE1WKRH9TCWb/aV8jTiq0dCkJBjesrGSqbGq+kfW6FkC/tbkzQ/3QJGl87KTdQA/bg6C6AFtp7d7Zu16JKnp0zACcFYxRrUINc1QawKQz/1naB2M+TjGL8UtRUUuzTXjzIawX/aSzMUcN2lDb1Z+NYsJb5WCMQ3azn7TuNH2ZC3otPiiCZU/Orve7Sd9HtaMmWiaBJuv9RrPAz+clCTTvgGA1iMU1kHGjHbMWHMycoR6112ZNwk9qHrTzByQSzZC70MXIENTR7wxYDTDrIOZomNJSBRgbkmpqmpDRkHW5zz8M76GyVC1Js7sFyyFLV9hAkidk8pAmJ0qy6hK9bTIrQfUokszuLbTmHObndt1fAVEzFnCp00uQ==;F7azw2C5adGx4GjyVwz9XQ=="
+secured: "Y1Iux5aqFIr9NbssuPUS8OmHkLDBz4ojmN/lrn6dcIQN1LgHAOg/6rF10WdbJeHUaAkLzO6m7E2VOdngS3e7Cj9bzdioP+DAkw7vTrgkkuMMn/cgfLD2mg3Q+0DsDxGUK5NRYJe7AFD1O7MgXtAePg9JnoU8OVW/LU6JBXUsPP20eS9uY0sCMCKOwCYPqnTfypIq0WrFI/lyaErxw5cMC/JQiEv6l76+ZeL3pgTuZwkJ/c/BRePR8SAPYxH95rJXizmSxt1XCrjny0s6DcQtURMoLEC2fa0q0DDNPRwplhgWFGFS4LFePKnULDL42voYdYLx90OwIl5x4REFMiolLwsPGGj4/hpprK3bDV+2GWZMV23gpj1iMK6a2iA3xmaE;8DC4k+VgzFW5YIWsqrebdQ=="
 ---
 

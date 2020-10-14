@@ -2,6 +2,7 @@
 title: "LEVEL UP Power BI Conditional Drill with Paginated reports!"
 excerpt: "Take Power BI Conditional Drill to the next level by incorporating Paginated reports with your strategy! Patrick shows a customer scenario that he solved using this approach.  Paginated reports doc: https://docs.microsoft.com/power-bi/paginated-reports/paginated-reports-report-builder-power-bi  Power"
 originalUrl: https://youtube.com/watch?v=43CwBmaym8Q
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-level-up-power-bi-conditional-drill-with-paginated-reports/
 type: video
 price: Free
 length: PT11M28S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Zv7OqExV2mx0+YCXfI1iDaOcrjPYm8s5H5LLjlFM9sI3AWLGxBQoSyJn5U99+I/NKeN0YYolkUCTB14VVUMlawdmYkcJeHRT/HK82Hb6HT0LLG1uWZmdJa02nUlCeKU1vBqc9F1timSswi5lmoRxrZx5NuWyQ74/PSFOGnr289a8Z/D5Rg2SZJc1jUkSTu4R1Gnm0J2XpCWrpTy9OiZLeEkh1QgKNCCHnF0mHw7BEeSL8LVxIICxmCCsXszQnU7QeCBAv1462MryRyhc9drB/YsnFrM4nXYvyxL41H0oXxPyX6d6OYn/0yLm9bWg2MJoVkHWGAcPYYTwcyJoBFJIc3Oxp1UTEMsjbTDgeAeQkxH8WJFeeIZ44wDX24e4NPEqC8W7FDVUDxWKgb14NLjloQ==;TrGkced+2lTGF1dGQpUlew=="
+secured: "3MrZFMPdtoJeZooqf+7weMa3EyQj5JnLSVD/O2O91YIOgNZJy3WQRaG3Sj8T1ELRUfKZIoICJeEnovN/TqPmIdbLt87zG/KAo59nZ5EGJMPmJyfyhS1xldxjS1zBGevIHlEgcL6P5ydYZx7cY4DJA6UQZHOW8wzNdEcJMH6C4XktcBVhDGuw8+XC9tuj4y22mdBSIbb0V/UzfJ0nFdz1zhG2wZJGwpHnfuC4GJnhnMXUtyXFI/pk0aRloICLnpOAIeI90x5aWHfAyiDLV8YFe3pyJ0oWVQx9U55lqkqbLlFTZRo48O2yQlKyYtG5G4ENJ5RTe2y9D3e8j+Tt66yjn64AI9DfnupZLKp8FAPi48bvH7+Mi66ROZ15oJO3xi0s;I9RzZsrI4M0oUU9lbJGvbQ=="
 ---
 
