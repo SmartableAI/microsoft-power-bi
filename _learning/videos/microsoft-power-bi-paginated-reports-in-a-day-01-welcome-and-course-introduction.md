@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Power BI Paginated Reports in a Day - 01: Welcome and Course Introduction"
 
-secured: "AI4KvPMsUnYsRb6QpNw8sbjDD9c6UD6bXDXpPODjTCbFWeB4JLnwF+y1T6Cg3MojueHEJay8uTzwLEpHeVKo2F2h828GjMG2OucARzN+PUic82HFpUVKjK64O/9p4OMLEq2nwcevpNXjbdY2jN4ilfCNEMOeTNMRAoy1eTC8iecywqBHq6ysCt/ZMBZ3G4PZ2j7Pot7NgzrU4YSPs+9twQjCWqFOT9LezcHA9/foxRLzlt9Qd7vXc2MXbYigrxPGJeocAury1LA5ztUx0ZWbZTol2+oaM4g3SOm7qQ/KoNC+vlf3Zkv/vSF+vXZglI6orEG3b+899jt+dBArSqOvw2jHdRKH0rRLukYi7CFwM84kcdTyjRGfFYodSuTlcuLDzmcQl9MqeQcdekfkm3HTxmbaeZ0Dnqaqlyka3MHhBQ0=;kZMkOGTQ7W+2d2+MKJVrRg=="
+secured: "qRkfXg6plTbtbBNoyObCPaUTUE2f31VL+goWnjj4xyiDPPJ1nR8mwg0P7JkU9QVsJTS7JwD/kR9B7rGAfTxHouIYrTnqn2KdzwdyWQ0bH7GS3zhhnBFGRrt5Gz7cALFaPVHz6++m/w81Sm83fRgr69hiXdNkgzp9HBm1mhQXQpE5a/+uJG04hG3f0sDmFjJLJIou8p1ibwwTk+hQeOcf4O9F9+1CdJAJJ9Y/hDB+lr1fB/bLNj0baVazzpW0ZMVqPlGFlJrBL5E8sw90Piib9rcfAnQMa/9MsAFfTboiwM/TILjMEIF3bjNKqbEFF4PS2mQqhtMapXLY1nUHeH0Zg5dg5FPy3hATRZ3+FQdV34YSKKgU+MtY9+rioOhhisrDt51Z4hL/A9+O49yCmUc5LXazPK2EPdCSeUxEyPKP588=;DQMmPOAnDpVZ1mkpmORnrg=="
 ---
 
