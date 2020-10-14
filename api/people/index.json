@@ -39,7 +39,8 @@
           "title": "Avi Singh",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/patrick-leblanc.md",
@@ -55,7 +56,7 @@
       "twitter": {
         "username": "patrickdba",
         "url": "https://twitter.com/patrickdba",
-        "followers": 5630
+        "followers": 5629
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/patrickdleblanc/"
@@ -85,7 +86,8 @@
           "title": "Patrick LeBlanc",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/adam-saxton.md",
@@ -131,7 +133,8 @@
           "title": "Adam Saxton",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/reza-rad.md",
@@ -169,7 +172,8 @@
           "title": "Reza Rad",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/arun-ulag.md",
@@ -215,7 +219,8 @@
           "title": "Arun Ulag",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/seth-bauer.md",
@@ -251,7 +256,8 @@
           "title": "Seth Bauer",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     },
     {
       "path": "_people/mike-carlo.md",
@@ -289,7 +295,8 @@
           "title": "Mike Carlo",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     }
   ]
 }
