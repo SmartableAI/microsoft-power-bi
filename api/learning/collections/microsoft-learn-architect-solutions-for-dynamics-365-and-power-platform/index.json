@@ -52,8 +52,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/discover-customer-needs/",
       "length": "PT36M",
       "ratings": {
-        "count": 434,
-        "average": 4.670507
+        "count": 435,
+        "average": 4.6666665
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -169,7 +169,7 @@
       "levels": [
         "Advanced"
       ],
-      "heat": 130,
+      "heat": 50,
       "type": "course",
       "price": "Free",
       "topics": [
