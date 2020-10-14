@@ -7,7 +7,8 @@ originalUrl: "https://youtube.com/watch?v=LveNuQqV5xk"
 type: video
 quality: 104
 heat: 104
-published: true
+removed: true
+published: false
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LveNuQqV5xk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
