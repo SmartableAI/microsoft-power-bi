@@ -1,14 +1,14 @@
 ---
 title: "Becoming a solution architect for Dynamics 365 and Power Platform"
 excerpt: "Learn how to become a solution architect."
-webUrl: https://docs.microsoft.com/learn/modules/becoming-solution-architect/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/becoming-solution-architect/
 type: course
 price: Free
 length: PT1H43M
 ratings:
   count: 642
   average: 4.7087226
-heat: 51
+heat: 70
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 400
     isCached: true
 
-secured: "kWqP1lIBjnGEV1bc1gxfx6RRrXknGQnr8qb9DJacRvrSB6GBuKW0x18lwFFpyk4IfSyXI1tFRnjH7f0f2vR9awseCueDcz2QsJYJTz8VGyaBGvNwG/xtr72pC1HhhtLNYi74FfP/GSiKaUYCNVpO7CxZEM0vpx+bXFKYuCaxKZ/NulHyRIYvoVmmP2FecZWTRbY4g5jBrxeWoVBiMdwD6N0TiwIXNu1rhAPJJEDdEK3CrIcPIB+ShM7n10iqef2ZTGcLsBr8uSneoprP+tIcnKOQNQwt+odzKu8gIV81jZOldXYJi5Vdk2AolVuz9OWaxQpEaBm+ovqmiofsskcJ2fzwlMZaqy6NyCS96T/oOFhEsMkbeyuW012uufr7WlRu2jdOQ94TCYvprMNxDJ8DVzyMpTrJAg+OGcgpS0acMBU=;jK62PK0IX9KOnvv8VgwQCQ=="
+secured: "J8m0v9Rqm0Ahh/6e5tEEh+SjfRrl2AZhJzB2bACiq2pGBk1EUdBJTCZdaQk+OOGzJJpTAzRF3Vzhv/eM5tTtGS3lSzEgQEtMRldIGd79FtvQWLbPtoD31Te4vcSUqikD5y/QgHPc4IxJh+1wbRJbEg+TY4zIxuouca8pFaiOTTgtwDKfRjIORPEzInJITEFGk2lX9kEozhxZq6snzAXzmyhk/tDDquF+vnL5jVuRrvieTs+UUKLSW7dphaNynnTvQCMQJYzNqIyssghFJdP4pK2KBpBt3j1outVEkSBG0BI1zn2jOLmYx/X0KFgkvXdsKo3izU28k9WoV4jjka+VdqSTEKvMeUa2tu3d6u+ml3VJEoxoApz6G7FU84m524Us/R1YtciaEn9V54cX27R1ug==;wEmDGNKP81JiOP6key/67w=="
 ---
 

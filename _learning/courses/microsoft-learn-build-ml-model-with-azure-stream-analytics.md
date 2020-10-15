@@ -1,14 +1,14 @@
 ---
 title: "Track wild polar bears with AI"
 excerpt: "Detect and track polar bears through photos using AI, then use Power BI to show where polar bears are being spotted."
-webUrl: https://docs.microsoft.com/learn/modules/build-ml-model-with-azure-stream-analytics/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/build-ml-model-with-azure-stream-analytics/
 type: course
 price: Free
 length: PT1H20M
 ratings:
   count: 208
   average: 4.639423
-heat: 50
+heat: 57
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 400
     isCached: true
 
-secured: "2Bq2c0ezg1SNOTWy6AjBh2Kmj6OZ11hauI3Xz07ucjGHC3oZWRp3l6x8HZnEcsxlm0dOmOUjJyj7FsryGuL2HBv5jNSkCnAKLPGKnupsb1UhcHhsxZoCYAXvhlSwEE5yGDJOmr6r1fr6aQDZJj0Bv2LfIz6/2w1DfJGw16RaPViVTFefxw41Rw4++iAayYToQu0nrDg327p12tfMXEQanEjQ2hg1j/84nXJMBQbi1DBtzJW3uXRImyz2JDvb88xkisfPvlJ04qFO+WB0VgnWVBAXIZBhM7drQnVHwKRDz2lx+CYrEcLaxp2vxqdyjXkJPxDREdQcrQ6qjfAhJWF1bGFszcAOTee38j8RfmZHUsmHn2DIjuyWnEyihI6CSp8Bk7ZwQpVYfk7llV+5UHOIXFQOnUM0pzuBBUsxv5X/mDI=;MYyDJl8rD8CkOE5RRC3bZA=="
+secured: "EyI0jzF9Lw87OZuFlSGBkrsDZ6VVI/wzLV8AP1ZuADNyoEcEveKBjP4N6TADeOwV14j/z0r32MR+dJuyzKt2KPWfR5NpA5EUu4dKxFkw8HzZEguiREjJ7Q+1qkrrFtf1BW47Qpw3pAggrdlrKVl2uUNLT0bXUqSuY27k5zT3UpBMmyReVj4YDj2IwiN7UPCDGWkE+0v3RvnvEW4voGHI+KinlrUKUYZDrwogoVgf9yl5fJajfOzaMj3RPsXqDKOeJZhOl+Mi+X0OtD1jeDxcBCp/9zkiIx6Fd7FlbgJL/yiNj8T3Qr4MIFU401jvUTVZM15nYWVXnLCFXLBMmNoFQw9CIRksId4aCqOXcZVzWkK4/ZrILW0GoXWC1EjlQSmV4G0PUHTdUVQzIJ3onauhFw==;hbb7ougaebcQzRuBl/BwdA=="
 ---
 

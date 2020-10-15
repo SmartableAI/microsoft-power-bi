@@ -1,14 +1,14 @@
 ---
 title: "Work with requirements as a solution architect for Power Platform and Dynamics 365"
 excerpt: "It is important to capture the customer’s needs accurately. This module explains how to capture requirements and identify functional and non-functional items."
-webUrl: https://docs.microsoft.com/learn/modules/work-with-requirements/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/work-with-requirements/
 type: course
 price: Free
 length: PT23M
 ratings:
   count: 279
   average: 4.7311826
-heat: 50
+heat: 59
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,6 @@ levels:
 topics:
   - Power BI
 
-secured: "LPuEoGnrhfik5vxtvbAKjlTapKBpulohlj0F5wb4bdsJ1lrVfFlDLrTmVO+SuXBOqQJbhxydu4iq4amtviwLnAwhXXHJMUhTed7FwzWbxwt+jyGMUtfdQ4krnylQ4wrZAqYgmVW4QvPtLjEaFny7GkIk29oE3Bp7jB1kNaNp8yVI+7HRYh1T2JKwkjCXeXnY4AWXsqbbR/IrECnJLV0bJC1mw6rfXy1e00rmbTMGoP16GOsL/CmowbnAKT8A6uwNSnCypcKbmBCMnDDtYzl/ktB4egaNdIHmqVjjkP2Z8tNKJUcB2khkVBsUExSGzF8rLNYDQES3/A/U7ZJSXlFKR0pN4Z5S5YqzYkJNfwzyfCi5luBF+Sreng3c5S4K0nfSy4rBprA88SprfDzbrvvjYl7ohjlepL6QSDbzOCB41UY=;L2EdN5Hm51diSyGaTb33PQ=="
+secured: "WwLrqpQofnmmbZIj7ZrrCYTz2Cpx/cvhTFb8SSFd2xlWgwo6sFencCmVF9DZNrsN+iP5ulT4S2v6xHxN9oeDMZwkwjX49eUmGISahWYbM6Rd7Nl9klIzqupvEzK8GW2hQBdZkPyMHI1eHqhFMgmOPerdNOOVAP9vafr1TzZUlCtPDEanrA6i2B6D/Kud0OGtSzqKsWvYSIx8ReVh/SAn++VRdX7P8YCV0sAa1dAxjuIDNNSq0pDr+CqDrcxGtpFWxlDB16DtXSYpZI1GxhfTfPyue8mJ36aOnj0fkP6uUWZKQX8XEWJPrc0Cirs4cYdNYR6fT8O/qBfXh8zjg0j70VX7jUPOWR5FxjxEeDUJs2z8Ow/8/KKOUlUINS8B8RT3x6xk7fAHNmXX2pTpNqyqrQ==;OTL46uMsRQEv762gZ6nhfg=="
 ---
 

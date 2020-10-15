@@ -1,14 +1,14 @@
 ---
 title: "Create and share your first Power BI report"
 excerpt: "With Power BI, you can create compelling visuals and reports. In this module, you learn how to use Power BI Desktop to connect to data, build visuals, and create a report that you can share with others in your organization. You then learn how to publish the report to the Power BI service, so that others can see your insights and benefit from your work."
-webUrl: https://docs.microsoft.com/learn/modules/build-your-first-power-bi-report/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/build-your-first-power-bi-report/
 type: course
 price: Free
 length: PT55M
 ratings:
   count: 5458
   average: 4.7696958
-heat: 50
+heat: 146
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,6 @@ levels:
 topics:
   - Power BI
 
-secured: "ioLOllVRPOURkcvRS5RsmMAuiPKxXaZSA+biFRUdQe5hA5SUnB4qIH/i8qSShoO3uhxAMEbBdW3l6vDqHEXlfRQ36OUyjx3nQ1rJlo/aZXyDpXkPfGFhFqk1TUFYxux3WXXKUsLvIeKFYXrq6kYKpx5cWliabL6jVp9hAJl8Q7wq3AHftYM4XdTRjRgaXFaPiWjxR/JsuUfP/s5SES24MAW1CB3bOL2W5v/5XWjVWw+yaf6yo32hsackKog5dlY6DsG92OmoPnuokjfxQP5JYCBRuruMy4Xn36Or5gGN07UtLZsCU4Wn9QXbyN07E57erZuX46vda/PJp2/OSerrxAo0LO3GqeNJuSZd5PfeW3dZaA9qeXV2bKViv9AlRQCgzsY+vNN/ck/elsCq4XDxNQ53ic9XTX8IxOY4ewe84xY=;b8MA9/z0D36vtTEj3dRWSQ=="
+secured: "WUyk9Io3+Zr6a69RMY5NQVVjkzRZJMpyKKE/8sEpTOB0WYCPRzKQfHVoN9x9gCsDM8fRKY/o2OKk3mKRko28ty/yv31TPsQd//MihfUmtiSKiTb964/tj/XsLDHfmJN8dN2UooJQHOjP3TWBl3oFqEvH1OQPLJsRMnibng8q06Dw0OOb+GLbweHbA7lE9Zg7T0d56k2jtYBibdoPAYiWIw/KapJU+hUxYbWgtQFdTyRseMsVLJYA3+qa8/yuosLbaFRhodc1ziCuFwsYPohjWM8TzNRmhZH3+Mf/3Er9R/MjHd7gHuEDxt2XvInAM1SSbTl2zyysAbLsNrk2wbd5cec78Z2aFEiAv6f3LReNQ/ubMa9EQZTD/AkrKRJhm05xeX1KnpuHYYbP0BLtxoDaQQ==;VEYUvMF5I/xaScRK55r2hw=="
 ---
 

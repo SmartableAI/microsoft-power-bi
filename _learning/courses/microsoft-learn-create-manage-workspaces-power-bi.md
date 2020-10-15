@@ -1,14 +1,14 @@
 ---
 title: "Create and manage workspaces in Power BI "
-excerpt: "You will learn how to share reports and datasets to your users. Although this can be a simple process, when you think about testing reports before deployment, it can get more complex. For instance, what if you are changing a report that is currently in use? Do you need to let the users test the report before you overwrite it? This module will guide you to creating a deployment strategy that makes sense for you and your organization. Further, if you have ever wondered about where data on a report originated from, then you will want to learn about data lineage in Power BI."
-webUrl: https://docs.microsoft.com/learn/modules/create-manage-workspaces-power-bi/
+excerpt: "This module explains how you can share reports and datasets with your users and how to create a deployment strategy that makes sense for you and your organization. Furthermore, you will learn about data lineage in Microsoft Power BI."
+webUrl: https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/
 type: course
 price: Free
 length: PT29M
 ratings:
   count: 301
   average: 4.730897
-heat: 52
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -26,10 +26,10 @@ topics:
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/create-manage-workspaces-power-bi-social.png
-    width: 640
-    height: 320
+    width: 643
+    height: 321
     isCached: true
 
-secured: "jVLN/aAumF3B2pAMbZy44+aUzYUHCJ2T3cPva4/WlnepHxR3r8KeiugNZ06eYHdda4sHe7nMmt2ERy1tTF6P7NC/KqGtCXwv0pQlK9a2uX2AlhaEcyUlfclpiD8ZtnfuHTdwXVJ00MFuTERf8ZLxFRnYDfl15MtpHIU55E79up4hlP7MH8nc/Sw4yUUdGsacBc+lqtNx8/rVVSqPzidq50/k0vk+yYzc1SvZMsXInNuplYLF35LD6m+fUFht146piKMzFkF83G34rphfUVSmahhkaOoW1Ks9aGt+SSpW8u3uQc1o7CojCgfB58fcu8FHC73n05dlSpKet1VwTpnRvIatiQqzN+O3i8PgpwKZ7gn2Q6isSf7V0N9uxNMzde9VzdKDnrYUwt+K8DGPbd+wO5rGUiY7Jx9ZM5J8OUedJSY=;j4ez4ryRb1s1SqXe99Htwg=="
+secured: "8YKu5kx3I5yJb6DfDkkbOYMMIS5yZ3M52yr0d1er8wB9/ti/xeVf/ifKh+wJGh2j+vMLJZZlifu41UM/P450i1KprilOofKj1AtMU1b+h0vGpg6dUleGeQ8IPg10HJWj+MKdK0o57s1M+tNoKRl98fX3vWm7PtuFT2kwEWYN3sqQCfCkAvkn3F70dIJc8Eb4F7QDJOwdv8//QmaTbxMT358x9YzY2uQX8FEgT7jQIZdbFKi7gf8kg51bmA3NGHPP4iPWsZgGWayXifTwXAY0r2e2rYFdHeGAMdOlN8gSptVbcFAGica8//1dpJ/QDDeyofQEkDmozzz1qn8pWUsST9cCU4e0ze7HfVvYpZPA/hP7FRhL5iBRe7bR6HhEb6uMd5hEqqSssH48zBLl5T5bCg==;r2mccexgWYN0bUHfouzSYg=="
 ---
 

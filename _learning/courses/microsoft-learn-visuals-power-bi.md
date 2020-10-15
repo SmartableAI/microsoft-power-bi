@@ -1,14 +1,14 @@
 ---
 title: "Work with Power BI visuals"
 excerpt: "Learn how to choose from the exceptional visuals that Power BI makes available to you. Formatting visuals will direct the user’s attention to exactly where you want it, while helping to make the visual easier to read and interpret. You will also learn about how to use key performance indicators (KPIs)."
-webUrl: https://docs.microsoft.com/learn/modules/visuals-power-bi/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/
 type: course
 price: Free
 length: PT1H13M
 ratings:
-  count: 514
-  average: 4.673152
-heat: 58
+  count: 515
+  average: 4.6737866
+heat: 146
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 318
     isCached: true
 
-secured: "MiLBUf87QPfGCJ0cQ2bMkBoWnPRSYZG3l4iYaHIz44ivgQpyXdJW1LMDeaxCeIWfl2/dmv8DRMe6DPy0mygzp3fHxUwQ883CNp5Ngx+QE6s/jBiobL01/6SUDCh7kENVNcvSb5fXEdFRMMxLrZHOoUhb6OaIWSsMXlk1naOKS3q75W6KcpXetYOlG4Hs9JEy+Vlr1n0Nbu2ObHuS/+p7mu/CJx+9N6cA4F8+9vrExR/xRVt1y94tYa7jQ7TKEZlWOrH1abJQx7JykbzrsRM+X6c3gBfb9UYKbEvOrN6G9d5CBVe+7obCQ6UurJ8NdToniO2mcE8WZcBDBS6MYcvMNctSaUGA71mSuI4PBrhBD5pxyxUJcJ8ehjk6BXIP/69mMBvC5urvTp5bACmilawn1rmQbZYfZQDHRx4tFcNvS0A=;23GxyjtpF5AdOWA5eONNkQ=="
+secured: "ARpSQhC5Vh1Vgf9bkRRNnupQPYDYEcChKjJjUKT3tlH8JkllOwiIxRgJkabKOU82XVOqZthH4YKaudk+nWMGJvsQiR5H4PS5fjRf3qPCdSBulNsFrtgbL8jbnXYw5/PH7Gj6O2sjpwAGCH68k9P/R+5Ah4rjJcwWLQY95dKFNPeGY+xwn3WEB6ngZ5dPHo2rbtl+LEq8X6P6XU3Bbg3hB+FBf6qIFWB4FCmShaynOD8rbAN8lZnWLD79+T7pCQJdFCg6LD6x355ixZvO/qlbN5qNcPmsQyY1pKsaRJrSJECZdJHHJcPfQIfVK/zTym3QWxljKAMElY+U7Fa1BmYtK8nLvfnwXqwCwtcBXhrNpHj9CDod67aJvxhjkEfVrWv1D/WnR7B274IiAi8q0AdrFw==;vSSwVSHskSCuPEQYu9YHsg=="
 ---
 

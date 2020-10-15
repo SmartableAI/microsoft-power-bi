@@ -1,14 +1,14 @@
 ---
 title: "Add calculated tables and columns to Power BI Desktop models"
 excerpt: "By the end of this module, you'll be able to add calculated tables and calculated columns to your data model. You'll also be able to describe row context, which is used to evaluated calculated column formulas. Because it's possible to add columns to a table using Power Query, you'll also learn when it's best to create calculated columns instead of Power Query computed columns."
-webUrl: https://docs.microsoft.com/learn/modules/dax-power-bi-add-calculated-tables/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-calculated-tables/
 type: course
 price: Free
 length: PT19M
 ratings:
   count: 152
   average: 4.8026314
-heat: 53
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "1a2kvLTPoWWYa/pRKZBbtejo0UqHjCIkFa+nWrMeXU0KDbsKMgxM56Iv/Wnv8v+TkD4ksS12cimHPB9zKEr7j4njuEtCeA3AMaFXOF2XBFrcpaZURK3hZBISz2ox9qxgZhkIFVkesvHDhA4XrbWQXkJyEBlv7ezfB4il/f5faDGZqGIK58XJt62aLtan1lRzZD5a4KZbx4okj9pgu63f4m5OOUZtkf4WO6tebfGZvLALj3D1WodNr1pA3vdELmfZLwqDSStSLy/kW/pvoXuiU6gyjLW0WUBsZL542s2v/g+wC7JSvPCvUT4tyF/i9IJ3divujZfZIdOscaFEdUWW698MI7v7aWw/D47r9VDoyFGRK1QDCKlpJ6goScfuWhc4hF7zNTK6EdzrKeVjFHrmn+5PT+FTcH+6XHPpYqCcO08=;FYS+p6vo0Te5+d9/Z4irmw=="
+secured: "pDFweZEenYrBJbvCe1roBEUaFA4ugGhROUHd8oMBq+d0izGhOcQW1qbZaFkYw0Gknp+rLT0uPC4KHllv50Fx1s753hods4CgLg3bKW+r5sPS4UDIQ/TQ2JzapChXMPg+RS2ZrjQljG1oDd3qwzd9lIZZw8KoJwyTBMP2Meum0ZNNQsZshTY7u60Nbo3DfL7zk7Nhfn+LmhFQ5aiYbtGlRrK/EjEQJ+oDLIbkuMi2ZN7HssLDllnpoM3Wx2S7XhlJS9ivTibNiNp3qaa7UPSSLu3pfaKIlUhi0v8jKykOMDvPh+tg959yb+avk0OnXDS2yfCcQj2xt3075uJ2t6SivP+Jv9SmtALC0LpNfeDshrDpWf0mnlDw0+NQ7PQEjv5cExUVkux5ghq2+QuJREBYRQ==;JTCFqNwf4Qsg57Rewbw6pg=="
 ---
 

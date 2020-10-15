@@ -1,14 +1,14 @@
 ---
 title: "Get data in Power BI"
 excerpt: "You will learn how to retrieve data from a wide variety of data sources, including Microsoft Excel, relational databases, and NoSQL data stores. You will also learn how to improve performance while retrieving data."
-webUrl: https://docs.microsoft.com/learn/modules/get-data/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/get-data/
 type: course
 price: Free
 length: PT1H25M
 ratings:
   count: 1433
   average: 4.7480807
-heat: 65
+heat: 90
 
 provider:
   name: Microsoft Learn
@@ -26,10 +26,10 @@ topics:
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/get-data-social.png
-    width: 640
-    height: 320
+    width: 643
+    height: 321
     isCached: true
 
-secured: "QWDigDLtE4IC8g6lrKe2/tcgdW8Pou/m2QTP4vsFLMCK8B/q+LrVkWVTVCHGwrVfrD7SvPRcLHAiyR0FL5LN7vOF1BTVjuH3K3HnxEyQDRY2cnFJ4LMH1BsvSOYOy2gmrGEJ8EkK0PX0nEC0AO2ZHD3L1CgPoarDybto3yJWFCe3sqY0Ho2aswPveYvzq7s75jhqnGETvwpq702m9xgK/SGfhF027WE7rmtvxY5icNvIzZRpxm1fBRwDgP1MT3ilA2BHVX2CK0kMj/n1pJeKGIZ3eGM+++3I579wVh3ScFYOGVamQLgXhuu4FsZDSLgdfRTfGqSgzeBtr+qiOh5x26HHbnIrN1MqNXyVTdSWqx+NDD0fpaCstCH0r6MW2bth2QNtXDYoFGk39FLjd3yoYe0YhBtZyUBScPBCYWRzY3E=;DTe4A2M/JuXguy57vRudsQ=="
+secured: "f/NVDalYf5/Dr1xzlME9a8S/7w3kniwN6q/xr3Uw9DVHvu87Fh4zfels5/c8JRjWd7entqvkDhN/9xSjYEoy93aCUEt85StwwOB8Q2jQpGNdjVBKrhqYr5uK3Z1S4B3pkE2EUaCMMKWJt63VuCNzxwpQopPeqAubnXJA5N1sy13qFWJG65yyDD2CgfRcZhtwkDKNOXrgw9g96ATz2bmmDCec65UCv1N9y7BQa+SFGxEaXiZEDASOJrPIcj6o6r5k9UUhTzIv1g+BWk3CesEeD985FncZh+xaRQQffAQJdv9KajKD+AFIVg20RP0a2Jkvq+nb1UwukswcdIBsgzksz88j5HUzZO0iz2cS+3L31jK/bjn8AvuLYtG0t9xwzGDJCppJCTaSIoo+G+wXbMFRDQ==;+u8DFLuLEPaeFEphDfrEkg=="
 ---
 

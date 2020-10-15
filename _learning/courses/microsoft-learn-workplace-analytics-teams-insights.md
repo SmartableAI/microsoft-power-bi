@@ -1,7 +1,7 @@
 ---
 title: "Measure Teams collaboration with the Teams insights dashboard in Workplace Analytics"
 excerpt: "Learn how to prepare and generate useful data using the Workplace Analytics Power BI Teams insights dashboard.  Analyze Microsoft Teams adoption trends from the populated reports."
-webUrl: https://docs.microsoft.com/learn/modules/workplace-analytics-teams-insights/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/workplace-analytics-teams-insights/
 type: course
 price: Free
 length: PT28M
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "ETHvvUoNWTk9RP5DJkGRS09cZ/V1tJG4fRWPvjRhyLESauvHzdBMV9x8Km3G7OZjcBYfckTSnK4Jua02MQiTCNPLQasGXbKl/+oDg/zZnm+e0bLliFbXdmbpOAJ/ULum5Q2AvrrAVM4fOeA03qxlMKT7IPllmk7T+Gs6OTp/24eAIKhV1FZFqshkZWYiM5ppofzyBrRG4lwYLYNZTlcvHoz3Z/CgAuHUq6ySHRLjyrTn72vaCXgkf5M+k1uGuBVmTD9+ctaMmR2K+3L42bq6vRCxBJy36a/YOZ3nvjN60MenQm8F/HnoE6Yd59BO5AJYMb8LkHfZF8OdKw6xF4TqxNP35rIkcoQAhrkvsCFgFE7nBBZpU67jrHCK7+bdq4tGHsgGErx9pkHzD5TAoFs7FA==;XWO9qFgOmsgtSv5wJvdhyg=="
+secured: "wMz1CBW2IRycDTyHozRHcWIoNJqDVyHljmq61hzfjkFjzk30Uc8wFo7NmRouf5QGUQeNg11ntsG9EUU74HIPauKPapGudORpBJvbRB+7iErf+WpqjfYAo0Wz4E4Qlb4lfcuSZ1BoGz+4r2UpadWIRVDuVLZu8u0cVL2UZo1oAomcTEomkh1k2g0iUJ2uTqmOglc8ZZZWE+s6B+gLXWfyoeAWRoLIFi4WTlffr4iUq8QFOnfv0TcP2STH1EV7ZpePZHDoNqj/eGyLIVHXzAnXj95GFGbdDnHBL2PtKUzCewWBbJdsa+uQc0Z+OHvDFnaUjkamYX5mAUTNa0WfmSjDJ7mkOPQRpHeq+Tng+LqH2jS2KX3VsXIJpKEjqCnemcGzcESdxu+v00Phjhbbe1otog==;Q7YuhC53QiffNDf2lNeHVg=="
 ---
 

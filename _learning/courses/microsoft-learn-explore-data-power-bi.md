@@ -1,14 +1,14 @@
 ---
 title: "Explore data in Power BI"
 excerpt: "Turn your business intelligence data into data insights by creating and configuring Power BI dashboards."
-webUrl: https://docs.microsoft.com/learn/modules/explore-data-power-bi/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/explore-data-power-bi/
 type: course
 price: Free
 length: PT53M
 ratings:
-  count: 3289
-  average: 4.7120705
-heat: 59
+  count: 3291
+  average: 4.7122455
+heat: 121
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 400
     isCached: true
 
-secured: "UGiErZgvQS7Xgrzr2O+PJt7bNV1mdAqNowPbCczsc1n/o7V/fD8wi9FPqRU6O6fpTrbGG66nP4ku/u8gvrCm/VvpN0QjfGhfXCEh8QCQqdzsRo+M/he0id3rNDPLRhCr1HeTEypGP2NmdQrdsYIlrAuY/FR+tGgu1mOMtAW6FXMEC8QftBEYjHB5PWyhNpGZ5w8ClKd1xKyKd0NRX9LOXHbFQK2U6lp5kH/aHxfEeEsmIyi70aHr3Ob2vwHk7EVGwjZvBK+DsHTComJf5U1RKVUOBwYaP52etDkBU5PjE62Wu2H8FSRK3OqhdDmlgbzgjz0JlnpTOuWBWpzOVwjM8FSvtYJEiPfds+eSnwldGhX78FElUdFMEtM6I9sn+zML/uDE+Qe5338XkAiPEuAMvv/6BR87WgTiWMU7RoZyrnQ=;l4w7GVxTxcI/l9N4pENhPA=="
+secured: "aV0B6CtkHy58hfaUBesWsQXo2+1ScoSiYsl/x4r3n8r4CCLG7CGjpoUG49e+EIQIA1kIKVfsdCsLLHTl69OMwPEBA6cf8b39xFc2A4nAnNPnVDuXynNmV7gTbnynTAmu5b3p5igRPwEbpm1LEYR6OndD4ItX49LLNZZkOMybUXTR3U7Oi8wb+A385b/sM0m73uyFCSDpSYexGQkPLDP6aTaXtrRDl+yXvXmzMV3zXgnsFtEhlfFJQ53e/qGp7MNnvCASS0dKniqAcBtzKjnkzIw5hXU1uz31zxIoNYMIhwYKwE6rM+LM2YUmeYxfpGxsG7sx//KzYEaJt4xfoi0dRZFrpl9I200UWjIQj6NODglK9DkjkyTOXUY9g/RG5WZvgGsnW9svUHzCjc+0droFQg==;iY556lTic8F452zmGvQl/Q=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Write DAX formulas for Power BI Desktop models"
 excerpt: "In this module, you'll learn how to write DAX formulas to create calculated tables, calculated columns, and measures, which are different types of model calculations. Additionally, you'll learn how to write and format DAX formulas, which consist of expressions that use functions, operators, references to model objects, constants, and variables."
-webUrl: https://docs.microsoft.com/learn/modules/dax-power-bi-write-formulas/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-write-formulas/
 type: course
 price: Free
 length: PT27M
 ratings:
   count: 220
   average: 4.690909
-heat: 55
+heat: 57
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 320
     isCached: true
 
-secured: "etQN5hGlJoktx2sm03l20D7X1WTVDXrOlgZoOkHoDrGlU/5SynN5kxK+4EcP4HAPca169/dVTOgAH1M0IOfzI1QIP9SF0HXqXgxULPB8O/LNrgI3FrmmEP+jlpA5klJD3u/ficK/gGEx6WOhtbbdh2RmQ3mugLcGbBtMYULZhaTMXpkXY/Aen2SUiveAYrC7cO5ewNPF2RjAQ0fOmoH6fe29fv5BU9ElIDnmiV3kSLHx/QJ6oRMN7bcnVVL6cBpBGnTN/8lJKfH95s1PNOwDleJFZYZ68X1HerKA8jByxc64oyd4hkez+Eg3NoH2c/Mzp8bApiv96JSdvmJ1xWhPeFr1ThfDyCJiQmXDG7h44QGOfUshrlUzm5DurPKjkKck/Ot1IKgz6Nqnz2KLJGk7ft3gmBuZnasyZHRLKnjCrl0=;F2kI0W35x+1yOSY+MS/JLQ=="
+secured: "6/wwa2Nwl30imFIpVe3/4rzYrteH1Mq3es4pHOSJCjobsUDcNZePUSc0dDImNkTT7vB7NtoWW7k7PmCyZ7y1UVN0KVfaGPZt6pcymq6CQdNSEX5qDZByO2//tyZhrt4ywidK37VtjU6CTK45aM74jjZhbGOTzOWtqNQVTU1xIL9nNCx3gIG0hw9VdmpDZ26XlMtsxARqnMkyIJ/7HcLb1sozaKED15aUsGc3OalI4lPbm9Qkf2psOmgnIz60t1TND6WHCNeGMSYap0v6z8HZZCYM5STVCMcKfYl7XCbGHuNDu8yAb/b6YuJZKR5lKZ4rS027qNzD+wRH905a1l442VnKJMPvhCLA2Ta9xTca0urj8UFPTErh7g8DtWVZ24Hj8MlJIZnRPwFe9Xtj1ExH8A==;IeL+CnGYmRxcKXnZgID+2g=="
 ---
 

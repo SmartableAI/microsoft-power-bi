@@ -1,14 +1,14 @@
 ---
 title: "Introduction to Power Platform"
 excerpt: "Introduction to Power Platform"
-webUrl: https://docs.microsoft.com/learn/modules/introduction-power-platform/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform/
 type: course
 price: Free
-length: PT18M
+length: PT21M
 ratings:
   count: 13653
   average: 4.7118583
-heat: 82
+heat: 200
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 400
     isCached: true
 
-secured: "bz361dE6UYgibsPcPZ1LvrYlw8gLvTUeE2QaCkIjGEJBhr0cHFXyJUejQISjPlmq/+CqVP2xg9YAsRgS3fm2xID/aHPMNDe71PApvSwI5ytRqjLkcmGt/m87a+4cISWylCxvAcoWwGHqSEqyj3lO7sGj/LXPh6UgAYyzZ+lupoOkxsCzV6rf1BP3JGmg1Ia+Vygu1Mu24d/CPhMlVeB/K9a4mnjciiBM34FmxAmWCru8ijFVkSGiF14OafoSQqW+U2OXcExnmOtx/6hoSNbUUC8wBG3Z54YqY2w8rpjIfdKeY9wmXmCTz7vSGO9/O+8F/pYItEjlOI9uyzdrESf9ub18mrWVCREeFf0yTKUzK9h6ABqr/6UG2II5HRYFYFSy8QD1k+vbKCCS/DuqDvHiGKvW5oOCWQAYAaspDnoClelJljB0B8b9c9SydQNpB3sg;bhquDOw6fzsAtT3R12PsWA=="
+secured: "+zEHtbGfBRnrp0OlU95zhCQMJ7J3HU0gZNuNreV1NhUDQy1LqILZocJbzdlDahCF2Wg7mfY8gHnlWlRwihAChkGStsltzg/T/+npKHJh07nUqr4vKajw/VLQF27Q7UO2Vc9Url4Ea74gw+fsOdZ8p3UpcYZ6r/Cp2W21dQY58Y70A8WJ0nMuieUjXajJeoeEBtVF7rdT2FbfvjRzTAJWxj04UyeoFSyUv3edCXV/kZWgS99/FMOx0zikAViHpJP3Ivk0IuoW+qOtXFevvHFIHzeTQEhjWMQZpLeqwooyPczIvJK1FD38fuMc2skU9P+ech8eFGAE9xi2thFgoFFd6wAGi6xQNi0UZTZGr/M4J5I6QRPzZnAee3JJWifQA6BhyWB0uYSHTBZmteEMioqb0A==;V/nsUijZyN2MVCr/uR1Vsg=="
 ---
 

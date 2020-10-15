@@ -1,14 +1,14 @@
 ---
 title: "Introduction to Power BI"
 excerpt: "Introduction to Power BI"
-webUrl: https://docs.microsoft.com/learn/modules/introduction-power-bi/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/
 type: course
 price: Free
-length: PT21M
+length: PT31M
 ratings:
-  count: 4353
-  average: 4.7273145
-heat: 75
+  count: 4356
+  average: 4.727043
+heat: 134
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 400
     isCached: true
 
-secured: "/J8Xf375yFdxauKmf7LEI6OzPdeYcrxH3GCP0lIj8wZZf4/OXtoiaMTGBoO6q9ihQzyB9+zvSIQaRGu9H7Lvf0AjwUwnIWoIqY6F7s11gLF26RP1LvN/MWyuysNTFmlAdTlQtd7AFnpuXhyk8LRxMIJOL2tGd8uSu5BDlg9bGFQftpjuAdmzzJjCksvqJWCEer1oatiCG6ysHrxUNCRwBKx2uESlzrsMnfst+Eb5JAGgmSwLQti2GQ8ULhofk/yUF5MY5DJBpV2ULkPmA083mn5MxBE0SSZtl1wbaOmfIEpPxA1YvGxR6J9F4Htgzs4Gqw+fijBFEgFEvrEvOaSAvbjFe5NP4kg4bb/PBlbgUuIihTqiIWBr2YBaXNkmkArAlVZ+YG+iJ802UcfIs4eSqgWw5zGD8GDnTo8r8LpA4/Y=;KKg6H7wgmauic/KJ/Efbug=="
+secured: "cqq+NAB+YfxzjZ3gl98LxjXjoSXc5S42oRkN6AEPdFixYSXVGwFcIl6sZu8d+u1/xR47V0r0pwgwVvpYvJNykmb6m4hz2Z/R8csNQpfCt0u2gnr9EA/qCiGClVovpk68erNWLvT+Wv9VIVSo4i+c0YI8gVgjSfIHY8GTRAibgV1eKd8tjZmGNdPcv4nv/JgDhd+A/E5HJytY5+LWT3IJ/l7csdk+ljx+VSThhjU7UZhHHn8GDWT2I9c5YasPK8vRRUN7KVBbjpT8C5tnAe4L4I74kbhRqR4Bb04qTz4MUwjZKtiMlu6lRefv5XAzAQIcZrWvSPID5Lrng3rA9jptGUSQrSuhZIa9nsxITmZgNDy281jExXmxnjW/3j7cJtD//nrvmBwynN5Rz2myIKxRcw==;AjGULen0vmGAkiRggrjuzQ=="
 ---
 

@@ -8,7 +8,7 @@
       "title": "Becoming a solution architect for Dynamics 365 and Power Platform",
       "excerpt": "Learn how to become a solution architect.",
       "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-becoming-solution-architect/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/becoming-solution-architect/",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/becoming-solution-architect/",
       "length": "PT1H43M",
       "ratings": {
         "count": 642,
@@ -29,7 +29,7 @@
       "levels": [
         "Advanced"
       ],
-      "heat": 51,
+      "heat": 70,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/becoming-solution-architect-social.png",
@@ -49,7 +49,7 @@
       "title": "Discover customer needs as a Solution Architect for Dynamics 365 and Power Platform",
       "excerpt": "Learn how to ask customers questions about their business processes and feature requirements to create a viable solution.",
       "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-discover-customer-needs/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/discover-customer-needs/",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/discover-customer-needs/",
       "length": "PT36M",
       "ratings": {
         "count": 437,
@@ -70,7 +70,7 @@
       "levels": [
         "Advanced"
       ],
-      "heat": 51,
+      "heat": 64,
       "type": "course",
       "price": "Free",
       "topics": [
@@ -82,7 +82,7 @@
       "title": "Propose a solution as a Solution Architect for Power Platform and Dynamics 365",
       "excerpt": "Learn how to propose a solution.",
       "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-propose-solution/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/propose-solution/",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/propose-solution/",
       "length": "PT40M",
       "ratings": {
         "count": 316,
@@ -103,7 +103,7 @@
       "levels": [
         "Advanced"
       ],
-      "heat": 50,
+      "heat": 60,
       "type": "course",
       "price": "Free",
       "topics": [
@@ -115,7 +115,7 @@
       "title": "Work with requirements as a solution architect for Power Platform and Dynamics 365",
       "excerpt": "It is important to capture the customer’s needs accurately. This module explains how to capture requirements and identify functional and non-functional items.",
       "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-work-with-requirements/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/work-with-requirements/",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-requirements/",
       "length": "PT23M",
       "ratings": {
         "count": 279,
@@ -136,7 +136,7 @@
       "levels": [
         "Advanced"
       ],
-      "heat": 50,
+      "heat": 59,
       "type": "course",
       "price": "Free",
       "topics": [
@@ -148,11 +148,11 @@
       "title": "Perform fit gap analysis",
       "excerpt": "Learn about performing a fit gap analysis as a solution architect for Dynamics 365 and Microsoft Power Platform.",
       "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-fit-gap-analysis/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/fit-gap-analysis/",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fit-gap-analysis/",
       "length": "PT35M",
       "ratings": {
-        "count": 350,
-        "average": 4.717143
+        "count": 352,
+        "average": 4.713068
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -169,7 +169,7 @@
       "levels": [
         "Advanced"
       ],
-      "heat": 51,
+      "heat": 61,
       "type": "course",
       "price": "Free",
       "topics": [

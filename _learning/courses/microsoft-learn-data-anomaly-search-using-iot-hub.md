@@ -1,14 +1,14 @@
 ---
 title: "Identify anomalies by routing data via IoT Hub to a built-in ML model in Azure Stream Analytics"
 excerpt: "Learn about Azure IoT Hub message routing, and Stream Analytics anomaly detection. Start by creating an app that simulates issues with conveyor belt vibration. Then, use the Azure portal to route all the data for archiving in blob storage. Finish by routing the vibration data to anomaly detection, using a built-in ML model."
-webUrl: https://docs.microsoft.com/learn/modules/data-anomaly-detection-using-azure-iot-hub/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/data-anomaly-detection-using-azure-iot-hub/
 type: course
 price: Free
 length: PT1H6M
 ratings:
   count: 205
   average: 4.5804877
-heat: 50
+heat: 57
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 400
     isCached: true
 
-secured: "nIUR+w0U7nrqlZ+REyH986+LXB/srGY0u2A/01dyMvA2m7CGZIJuxXcrk/coF0drLeSnOwMZvrJuhX2NqUm0gtWP0c7/UozJil01vfXfLSsSOXpzEcGbKPRLUWfia8hCMe7f84EGs0/5cUMxDVt+1Me2Gz1ohse5qLHUKHZC5xmR/Ao4tH6LhjfCUeIZpuIr4ImLnzf0g8aW2PROAx1pKOgyfhpcs4nekAwmMqwOn0PpPyRAPCTEQMscid7WgMfcAAd68V/nCqJSMoJCPzkdJLN84i3H6B1RtiJOrr0vrckTIExewiBW17uGFk6eN6QGOoRkcG6EYjzs4levYAL4G8FyTL/HazdzYbTojDF3fzAAPIWuxiglQq5Y022LH0pAL34AzNOHhJdNNvG34UWjvVji0hX0aazNri5jUPwAbIs=;LLGwWjhEV1XktGItzW4znA=="
+secured: "0RG8y1RuqO0gFausxxqz7Wic85ocxmu6SCpIUYv1oNK9O7/yF/wXo67T2h7nIv+etOPS3rQ5S6tSQGenXArE3s5zUCh0CqxLpN333LRKajmBC+hMKZI2bIs3qYswTHlRoD+UkQczbaShrYsDPC8ZB3ySeSyEZJzM8bSbDzPB6qAJ237sOqNo/s7AZyezq7FzclkGw4CsO8Rgoz6leYc6v9PckI3XUE575PKdPO3s7upZgNkR/rVXSpVHaDUXruh+r6wHU73Vp0ATUhHpoSKw+xEnAVlN2zCI5sIVFZVb8eAHtvFghnnnT9/a8bnom5xCfp0Pk05mzNkdrYRovE4XNh9eSKyQkJq/7vgT1zUkwnv0Jx3aU/SrJdJd71qvj97qSl0GwUUg+LF/E4DfxkXDCg==;buFc9sggnjVS0oi79T/3Bw=="
 ---
 

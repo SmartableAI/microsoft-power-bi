@@ -4,7 +4,7 @@ excerpt: "This learning path introduces Data Analysis Expressions (DAX) and prov
 type: collection
 price: Free
 length: PT2H4M
-heat: 64
+heat: 68
 
 provider:
   name: Microsoft Learn
@@ -33,8 +33,8 @@ topics:
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/dax-power-bi-models-social.png
-    width: 640
-    height: 320
+    width: 643
+    height: 321
     isCached: true
 
 secured: "CJ5rsj9RWXeunAT5JzOyaqN+lyuAsoTQeenrpN/IeL/y23G5IsQCFkqmOSHzcNgXOg7Sw2lySOTyv6qozcpy9rG5mQDa3xvZvQKq8GmGirKCLkKWSP1KFjc3HHmHmFY6MvUQSpl4z4FhSD54fWTT9rHU2+QaoeceeHLHtfVAbXfyEQu523a7tXM3sg5Zjaf+F/WJahdPYxQ477+2OjYsdnX8pCybnR2JGRw2+Mih0NzK9Gcv5VUTR1BMDI0tr0sOMw9/Aikg3isQ9H6aWjskFXUCkpS4rLo6L6KOHvO3j6A7/0IJZjcs/DBNwsJzmlN6MCjbh48LQRT5xDyxt9CKYw==;cTDYI/B+DM0cXEuBHzMCCQ=="

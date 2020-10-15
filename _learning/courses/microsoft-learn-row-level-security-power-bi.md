@@ -1,14 +1,14 @@
 ---
 title: "Implement row-level security"
-excerpt: "Row-level security allows you to create a single or set of reports that targets data for a specific user. For instance, you can create a single report where a salesperson can only see their individual sales transactions and not the transactions of someone else. RLS can be implemented using either a static or dynamic method and you will learn both here. You will also see how Power BI simplifies testing RLS in both Power BI Desktop and the Power BI service."
-webUrl: https://docs.microsoft.com/learn/modules/row-level-security-power-bi/
+excerpt: "Row-level security (RLS) allows you to create a single or a set of reports that targets data for a specific user. In this module, you will learn how to implement RLS by using either a static or dynamic method and how Microsoft Power BI simplifies testing RLS in Power BI Desktop and Power BI service."
+webUrl: https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/
 type: course
 price: Free
 length: PT9M
 ratings:
   count: 295
   average: 4.6949153
-heat: 54
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -26,10 +26,10 @@ topics:
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/row-level-security-power-bi-social.png
-    width: 640
-    height: 320
+    width: 643
+    height: 321
     isCached: true
 
-secured: "41tEFRmQel1dw7dCuT1XaihQ4M0uW75ad04n6tXK66tmm7p/FDUciFRKJK6fZsvd/9G6TrCk1nHcJ2gT7AE38LDs1QoEd4ABNHiD4R/ueRqx5rxF12qV2Yi3u1wK4p2boDfAfLowBP1TOVtWSs7hexW2u76vbg6WQdf0AIVNV8vApG3ALfH3pHgmwWFBwHHGkX3Bf8Fv3EBSsTr+2HjXGoDDCxReNs4EoWbeS2vQJ5Wum9ugVNS301aIJ67c85w7tVWxEXVx6IhzkID12zniWqT78wcR8bI67AfnE1CqIszkO4GqFbXcNGz79W1JMk+S0n1dGSadaCSoorgFh9aOpKDpdBKOVnrUAfoSadjP0o37SrOQZUtbaLapzBa/Rs03+T7FT+wm4MjYCh7PGN4KYwZpAF9GW8NGbixCyx07M78=;ei7etVWe2j6ffXE8rrAwZA=="
+secured: "JUIGWYUwCIXW3IZXCgOWToSHr895BW0qF7iaAPY8BqYeVwKmUOUUtdd4zmhN45NqBPtXJ3vEETHgq6CrxSuN7PQbnaSNuCu4Kuwp5iatq88GueGGW7ei2auLDHdtAkALrcLufpUKy6iLven4zl5RmU26nvbOrC8rtdDYR5j7j4iXCMdVpLhMT+Z94BWfdT+R9UmVmhcQ3RYC8lw9YiX3lx3jOZwX7Q2TnQ6rPJ4MKCYOEBK0Zkh5in3FWcb6nNpymkCPGinOatKvOMIs8JABCKPNtKJQExbVE2lTep9Pd+ZTQbh41MWmf045g1YAILgWqdLNSzcoXTL+d3nnw4cXJ1ug1dYstRnrqCAuBr5mwjRehlrzh9PzIk3PygjcRKZo0nSagL9LWudHYQUfr5FZ0Q==;xnLq+adFLXrBPQzOcwCLFQ=="
 ---
 
