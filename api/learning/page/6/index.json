@@ -601,8 +601,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/becoming-solution-architect/",
           "length": "PT1H43M",
           "ratings": {
-            "count": 641,
-            "average": 4.708268
+            "count": 642,
+            "average": 4.7087226
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -708,8 +708,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/work-with-requirements/",
           "length": "PT23M",
           "ratings": {
-            "count": 278,
-            "average": 4.730216
+            "count": 279,
+            "average": 4.7311826
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -758,8 +758,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/analyze-data-power-bi/",
       "length": "PT60M",
       "ratings": {
-        "count": 5056,
-        "average": 4.693829
+        "count": 5061,
+        "average": 4.693934
       },
       "provider": {
         "name": "Microsoft Learn",
