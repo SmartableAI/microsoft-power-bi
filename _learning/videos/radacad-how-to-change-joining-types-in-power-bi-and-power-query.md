@@ -2,6 +2,7 @@
 title: "How to Change Joining Types in Power BI and Power Query"
 excerpt: "If you are combining tables in Power BI or Excel using Power Query, you might wonder how you change the join or merge type. In this video, I talked about it. Read my blog article to learn more about it; https://radacad.com/how-to-change-joining-types-in-power-bi-and-power-query   *******************"
 originalUrl: https://youtube.com/watch?v=bl6AfejSzR8
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/radacad-how-to-change-joining-types-in-power-bi-and-power-query/
 type: video
 price: Free
 length: PT8M1S
@@ -24,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "JwOVWYNlNYellzsOU37BmHu1ZbKTIeHNaPxBz4oB69By+V9m1fD1MemwuMTLFWwPHtbKWCZYu0QOJQ27+A7GLLBGtlFHO/wdezMtSJAucQRl2zjUxuzmwUDsrKDuY0PqEqFI1kwcLzU+3KLAbWuv5YElnEyr0J/c3uYtgk/4rAxUfJDBQOKRZR0MWxB8UefgIZ61tCQ4Mf3OMKGn1fnTssVwAnhG+ZMvt6jTas7LnbEORz93iqQhYZclvPsQO3Y/zwIHFHyO4ypRPeRHkTMZl8ZUL+YPgpmBncPp70D6Vowz4WJlAExoM1gFN+/BdhHnZg8DyMTdEx3uSUp3AbndvuJ3ING1XpTYTAfQ89w/dqErnV2P1RNn/hUY+1q3m9Kpz39y04DE59M2Esy3bjzxSQ==;U7nL6wFycyfRFbX/DGXJbg=="
+secured: "opZI5HPB15Xy7Ud8gMe2Tl/mIWAptTaTFDZibaTD7dn95axlgFeQ4ddmo/p5UFaErUHatxO6MyWX8PHp61H2ae3xMmfQaRro7N+XAegbcox5rD9QBn8vEs2bX2wWGj55/Lr1UKAmT/rKtbuMfvGhK6JPNtSHSXGq4CYrgBJQBcFjSjh/QktR5b+4lXdmziM19lOJvUILMIG+mEr9cXNQQc937rBCo+VKfUhh46xPMaILKVtBhG2rNdqM2WMf3FbQAvFkPzvctDic202qwL5MqSnK8HuBxG3Rjt16IfZxN2GAGR9+Xr1TkLLfxo/VxxOG0KRmfjIwXLwd5cBQEvmqsG0gqCryDgtPV7sys4twOjxa3qHUCyuo1Uh3rgJWci7q;hghvtlMcwXoVypYqBEdCpw=="
 ---
 
