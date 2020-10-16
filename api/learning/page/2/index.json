@@ -29,7 +29,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 122,
+      "heat": 123,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/explore-data-with-power-bi-desktop-social.png",
@@ -260,7 +260,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 107,
+      "heat": 108,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/build-simple-dashboard-social.png",
@@ -714,8 +714,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 1441,
-            "average": 4.7487855
+            "count": 1442,
+            "average": 4.7489595
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -732,7 +732,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 90,
+          "heat": 91,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/get-data-social.png",
@@ -755,8 +755,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 1296,
-            "average": 4.7615743
+            "count": 1298,
+            "average": 4.7619414
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -790,7 +790,7 @@
         }
       ],
       "size": 2,
-      "heat": 90,
+      "heat": 91,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/get-data-social.png",
@@ -813,8 +813,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 1441,
-        "average": 4.7487855
+        "count": 1442,
+        "average": 4.7489595
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -831,7 +831,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 90,
+      "heat": 91,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/get-data-social.png",
@@ -892,8 +892,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 1296,
-        "average": 4.7615743
+        "count": 1298,
+        "average": 4.7619414
       },
       "provider": {
         "name": "Microsoft Learn",
