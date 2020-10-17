@@ -4,6 +4,44 @@
   "page": 41,
   "value": [
     {
+      "path": "_learning/videos/guy-in-a-cube-5-tips-on-how-to-find-a-mentor.md",
+      "title": "5 tips on how to find a mentor",
+      "excerpt": "In this video I look at 5 tips on how to find a mentor. Having a mentor is important. It helps to focus us, challenge us and to grow. So, how do you find a mentor?  https://guyinacube.com/2016/06/how-to-find-a-mentor/  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com -- http://twitter.com/guyinacube",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-5-tips-on-how-to-find-a-mentor/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-5-tips-on-how-to-find-a-mentor/",
+      "originalUrl": "https://youtube.com/watch?v=kl02Llelq8w",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kl02Llelq8w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M14S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-06-29T08:22:36-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/kl02Llelq8w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-6-things-to-get-a-little-more-out-of-your-power-bi-desktop-machine.md",
       "title": "6 things to get a little more out of your Power BI Desktop machine",
       "excerpt": "Machine running slow with Power BI Desktop? One of these 6 things may help you out.  Download PDF: https://guyinacu.be/6perftipspdf  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level? We have training courses available to help",
@@ -34,6 +72,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -72,6 +111,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -109,6 +149,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -146,6 +187,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -184,6 +226,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -222,6 +265,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -259,6 +303,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -296,6 +341,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -333,6 +379,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -370,6 +417,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -407,6 +455,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -444,6 +493,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -481,6 +531,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -518,6 +569,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -555,6 +607,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -592,6 +645,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -629,6 +683,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -666,6 +721,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -703,6 +759,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -740,6 +797,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -777,6 +835,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -814,6 +873,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -851,6 +911,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -888,6 +949,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -925,6 +987,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -962,6 +1025,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -999,6 +1063,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1036,6 +1101,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1073,48 +1139,12 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
         "Power BI",
         "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-catching-up-on-power-bi-updates-tooltips-hololens-and-more.md",
-      "title": "Catching up on Power BI updates (Tooltips, Hololens and more)",
-      "excerpt": "Power BI Service and Mobile February Feature Summary https://powerbi.microsoft.com/en-us/blog/power-bi-service-and-mobile-february-2018-feature-summary/  Announcing Persistent Filters in the Power BI Service https://powerbi.microsoft.com/en-us/blog/announcing-persistent-filters-in-the-service/  Share",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-catching-up-on-power-bi-updates-tooltips-hololens-and-more/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-catching-up-on-power-bi-updates-tooltips-hololens-and-more/",
-      "originalUrl": "https://youtube.com/watch?v=4_Z4-Y9wd4U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4_Z4-Y9wd4U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M35S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-03-15T11:16:47-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/4_Z4-Y9wd4U/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
       ]
     }
   ],

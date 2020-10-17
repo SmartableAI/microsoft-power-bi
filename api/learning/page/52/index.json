@@ -4,6 +4,66 @@
   "page": 52,
   "value": [
     {
+      "path": "_learning/videos/learn-power-bi-life-of-a-power-bi-pro-good-bad-ugly-power-on-show-with-charles-avi-talkpowerbi-live.md",
+      "title": "Life of a Power BI Pro: Good, Bad & Ugly: Power On Show with Charles & Avi 🔴TalkPowerBI LIVE",
+      "excerpt": "So what does the life of a Freelance/Independent Power BI Professional look like? We often get asked this question and today, we are here to share candidly everything you want to know. We'd not hold back and share the good, the bad & the ugly. Join us to learn what our life looks like? Day to day and",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-life-of-a-power-bi-pro-good-bad-ugly-power-on-show-with-charles-avi-talkpowerbi-live/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-life-of-a-power-bi-pro-good-bad-ugly-power-on-show-with-charles-avi-talkpowerbi-live/",
+      "originalUrl": "https://youtube.com/watch?v=j9DrDPMq6eo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/j9DrDPMq6eo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H31M31S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2020-07-17T11:07:21-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/j9DrDPMq6eo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-life-of-power-bithe-tale-of-two-live-calls.md",
+      "title": "Life of Power BI...The Tale of Two Live Calls",
+      "excerpt": "FREE Power BI Step-by-Step Tutorial http://www.learnpowerbi.com/bonus 👉 Download Lesson PBIX Files at http://www.learnpowerbi.com/bonus-download ✅ Subscribe to always get my latest videos: https://goo.gl/P79Hcr 👪 Join our Facebook Group https://www.facebook.com/groups/talkpowerbi ===Most Popular Playlists===",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-life-of-power-bithe-tale-of-two-live-calls/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-life-of-power-bithe-tale-of-two-live-calls/",
+      "originalUrl": "https://youtube.com/watch?v=W71h60elELE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/W71h60elELE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M4S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2017-08-17T14:28:42-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/W71h60elELE/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/learn-power-bi-making-of-a-power-bi-leader-talk-power-bi-live-subscribe-join.md",
       "title": "Making of a Power BI Leader 🔴Talk Power BI LIVE (Subscribe & Join)",
       "excerpt": "Are Power BI Leaders born or can they be made? What's the definition of a Power BI Leader anyway? (It's not a lofty title, that's for sure). What kind of impact a true Power BI Leader can create for their team/organization or their clients? And most importantly, how can you become one?  ✅ Subscribe and",
@@ -26,6 +86,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -55,6 +116,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -84,6 +146,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -113,6 +176,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -142,6 +206,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -171,6 +236,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -200,6 +266,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -229,6 +296,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -258,6 +326,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -287,6 +356,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -316,6 +386,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -345,6 +416,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -374,6 +446,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -403,6 +476,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -432,6 +506,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -461,6 +536,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -490,6 +566,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -519,6 +596,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -548,6 +626,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -577,6 +656,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -606,6 +686,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -635,6 +716,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -664,6 +746,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -693,6 +776,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -722,6 +806,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -751,6 +836,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -780,6 +866,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -809,64 +896,7 @@
           "isCached": true
         }
       ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-model-makeover-send-me-your-ugly-power-bi-models.md",
-      "title": "Power BI Model Makeover: Send Me Your Ugly Power BI Models!",
-      "excerpt": "👉 Submit Your Entry for Model Makeover: https://www.learnpowerbi.com/makeover 👉 Join me for my 5-Day Power BI Challenge https://web.learnpowerbi.com/challenge/ ------------------------------------------------------------------- 👉 FREE Power BI Step-by-Step Tutorial http://www.learnpowerbi.com/bonus",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-power-bi-model-makeover-send-me-your-ugly-power-bi-models/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-power-bi-model-makeover-send-me-your-ugly-power-bi-models/",
-      "originalUrl": "https://youtube.com/watch?v=oW3zZ41FfI4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oW3zZ41FfI4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M33S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2018-07-17T18:11:19-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/oW3zZ41FfI4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-monthly-updates-how-to-stay-on-top.md",
-      "title": "Power BI Monthly Updates - How to Stay on Top",
-      "excerpt": "Overwhelmed by all the updates and all you need to learn? Follow the 80-20 rule and focus on what truly matters. Learn the Core Power BI Concepts in my complete tutorial https://www.youtube.com/watch?v=1bysgMsPwC4&list=PL7GQQXV5Z8ef2SjkDpLnvsz7TAQjlzlpO ----------------------------------------------------------------------",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-power-bi-monthly-updates-how-to-stay-on-top/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-power-bi-monthly-updates-how-to-stay-on-top/",
-      "originalUrl": "https://youtube.com/watch?v=tO106ly0yas",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tO106ly0yas\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M13S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2017-10-18T12:53:41-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/tO106ly0yas/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [

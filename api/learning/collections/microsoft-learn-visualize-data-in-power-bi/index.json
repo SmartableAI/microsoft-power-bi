@@ -38,6 +38,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
@@ -79,6 +80,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
@@ -120,6 +122,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
@@ -134,8 +137,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/",
       "length": "PT60M",
       "ratings": {
-        "count": 386,
-        "average": 4.722798
+        "count": 387,
+        "average": 4.72093
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -161,6 +164,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [

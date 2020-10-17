@@ -2,7 +2,7 @@
 title: "DAX Fridays by Curbal"
 excerpt: "Are you new to DAX or are you having problems with a specific DAX function? In this playlist, I cover a new DAX function every friday, so you and I can learn DAX in depth."
 type: collection
-heat: 67
+heat: 69
 
 provider:
   name: Curbal
@@ -214,6 +214,7 @@ items:
   - videos/curbal-dax-fridays-185-calculating-max-values-by-category
   - videos/curbal-dax-fridays-186-calculate-vs-calculatetable
   - videos/curbal-dax-fridays-battle-187-rankx-vs-topn
+  - videos/curbal-dax-fridays-battle-188-filter-vs-calculatetable-avoid-using-filter-as-a-filter-argument
 
 topics:
   - Power BI

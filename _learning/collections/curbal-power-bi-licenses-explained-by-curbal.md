@@ -2,7 +2,7 @@
 title: "Power BI Licenses explained by Curbal"
 excerpt: "A playlist on all videos on Power BI licenses."
 type: collection
-heat: 63
+heat: 60
 
 provider:
   name: Curbal
