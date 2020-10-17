@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT5M29S
 publishedDateTime: 2016-07-05T18:49:30Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/67fK0GoVQ80\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Row-Level Security in Power BI - Revisited"
 
-secured: "mT+w68VjKpH/Qh8QVrZbEDZXBd/+dNAYRfK1mGQG6p7AUFkECZfapwQSWafuxnhMQFT9oh+jr6JO7wszA8MGhluq7W7ltvURj7Js3uvHR5r3019mkLm9rdXUkjIt+g3Rp5neguk7/djR7pOGvQtiX8snOJakYFKj/WEOUvD37993Q38tjNU2TNhcFT28rVLMcwJMk1ExArVg9auXSX+EhRAZy7MwNnpd9fJbgcOYxm8qrindXynKw5PXYViGg3kjRm29Rtu10ZmDP8u2g1DSOEupR3gvmG0JZxfNhydR/MrKAZTembixav257r6pRdV86cpeRtTQZt0r1suFoLDXm+uUkuVe9b6ak9W7e+AYHu4Xx6LMP0XE1BD819GpxoImmOSkVcRDDS3MO9TF3jJJAnnRbhITGM1MfW8xLzTB+yQ=;bqsDEIhvC1rldMkpREcGnQ=="
+secured: "0eaeZRIil75vlXeuK85PXwIydaOQpKHnYBa6+FJpuW38PQ2+9j/es8RdAej3N7TreCvCNkXKX1nI6W1ibjU8VDgtW9dqejxhZ1zfC8m5EvL3nK6fz1+QMvCKMUjYBy3kdZUNUel+4tBok9xzW05UTAPAiZyHljc/6dgQPbd21D3qX9UgTIEMiSLp6fOLoPVXQZzO8a13JvVznzoZJbvibyHxe6A8ZCgV/CRY/H+TYpZ7b4kGEJb8Mo9vYhplP6xEz0iyMaB6MJHQC4C/TTGYAer0lkUdVeDl7CaAuJcG9x5sFjZ1BYH+4jF5Q+Jfp8xf5MOepx6pV88fEd93GU8i+7IcosEtaTYoMLBTGeIxCM0Z/gtIojzoaEeIFG8E63dKqRhzZCv7YFpYwV0OTfacmZBmbbUZmzZMYDWFMTAsojw=;lPshQcmWrpe2Ns+JhHrwFw=="
 ---
 
