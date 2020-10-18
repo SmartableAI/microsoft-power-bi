@@ -4,7 +4,7 @@ excerpt: "Evaluates an expression in a modified filter context."
 originalUrl: https://docs.microsoft.com/en-us/dax/calculate-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/calculate-function-dax
 type: article
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft

@@ -4,6 +4,202 @@
   "page": 10,
   "value": [
     {
+      "path": "_functions/pathitem.md",
+      "title": "PATHITEM (<path>, <position>[, <type>])",
+      "excerpt": "Returns the item at the specified position from a string resulting from evaluation of a PATH function. Positions are counted from left to right.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/pathitem/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/pathitem-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/pathitem-function-dax",
+      "name": "PATHITEM (<path>, <position>[, <type>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/pathitemreverse.md",
+      "title": "PATHITEMREVERSE (<path>, <position>[, <type>])",
+      "excerpt": "Returns the item at the specified position from a string resulting from evaluation of a PATH function. Positions are counted backwards from right to left.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/pathitemreverse/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/pathitemreverse-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/pathitemreverse-function-dax",
+      "name": "PATHITEMREVERSE (<path>, <position>[, <type>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/pathlength.md",
+      "title": "PATHLENGTH (<path>)",
+      "excerpt": "Returns the number of parents to the specified item in a given PATH result, including self.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/pathlength/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/pathlength-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/pathlength-function-dax",
+      "name": "PATHLENGTH (<path>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/pduration.md",
+      "title": "PDURATION (<rate>, <pv>, <fv>)",
+      "excerpt": "Returns the number of periods required by an investment to reach a specified value.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/pduration/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/pduration-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/pduration-function-dax",
+      "name": "PDURATION (<rate>, <pv>, <fv>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/percentileexc.md",
+      "title": "PERCENTILE.EXC (<column>, <k>)",
+      "excerpt": "Returns the k-th percentile of values in a range, where k is in the range 0..1, exclusive.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/percentileexc/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/percentile-exc-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/percentile-exc-function-dax",
+      "name": "PERCENTILE.EXC (<column>, <k>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/percentileinc.md",
+      "title": "PERCENTILE.INC (<column>, <k>)",
+      "excerpt": "Returns the k-th percentile of values in a range, where k is in the range 0..1, inclusive.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/percentileinc/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/percentile-inc-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/percentile-inc-function-dax",
+      "name": "PERCENTILE.INC (<column>, <k>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/percentilexexc.md",
+      "title": "PERCENTILEX.EXC (<table>, <expression>, k)",
+      "excerpt": "Returns the percentile number of an expression evaluated for each row in a table.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/percentilexexc/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/percentilex-exc-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/percentilex-exc-function-dax",
+      "name": "PERCENTILEX.EXC (<table>, <expression>, k)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
       "path": "_functions/percentilexinc.md",
       "title": "PERCENTILEX.INC (<table>, <expression>;, k)",
       "excerpt": "Returns the percentile number of an expression evaluated for each row in a table.",
@@ -487,202 +683,6 @@
       "webUrl": "https://docs.microsoft.com/en-us/dax/quotient-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/quotient-function-dax",
       "name": "QUOTIENT (<numerator>, <denominator>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/radians.md",
-      "title": "RADIANS (angle)",
-      "excerpt": "Converts degrees to radians.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/radians/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/radians-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/radians-function-dax",
-      "name": "RADIANS (angle)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/rand.md",
-      "title": "RAND ()",
-      "excerpt": "Returns a random number greater than or equal to 0 and less than 1, evenly distributed. The number that is returned changes each time the cell containing this function is recalculated.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/rand/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/rand-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/rand-function-dax",
-      "name": "RAND ()",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/randbetween.md",
-      "title": "RANDBETWEEN (<bottom>,<top>)",
-      "excerpt": "Returns a random number in the range between two numbers you specify.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/randbetween/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/randbetween-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/randbetween-function-dax",
-      "name": "RANDBETWEEN (<bottom>,<top>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/rankeq.md",
-      "title": "RANK.EQ (<value>, <columnName>[, <order>])",
-      "excerpt": "Returns the ranking of a number in a list of numbers.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/rankeq/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/rank-eq-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/rank-eq-function-dax",
-      "name": "RANK.EQ (<value>, <columnName>[, <order>])",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/rankx.md",
-      "title": "RANKX (<table>, <expression>[, <value>[, <order>[, <ties>]]])",
-      "excerpt": "Returns the ranking of a number in a list of numbers for each row in the table argument.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/rankx/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/rankx-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/rankx-function-dax",
-      "name": "RANKX (<table>, <expression>[, <value>[, <order>[, <ties>]]])",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/rate.md",
-      "title": "RATE (<nper>, <pmt>, <pv>[, <fv>[, <type>[, <guess>]]])",
-      "excerpt": "Returns the interest rate per period of an annuity. RATE is calculated by iteration and can have zero or more solutions. If the successive results of RATE do not converge to within 0.0000001 after 20 iterations, an error is returned.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/rate/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/rate-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/rate-function-dax",
-      "name": "RATE (<nper>, <pmt>, <pv>[, <fv>[, <type>[, <guess>]]])",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/received.md",
-      "title": "RECEIVED (<settlement>, <maturity>, <investment>, <discount>[, <basis>])",
-      "excerpt": "Returns the amount received at maturity for a fully invested security.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/received/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/received-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/received-function-dax",
-      "name": "RECEIVED (<settlement>, <maturity>, <investment>, <discount>[, <basis>])",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",

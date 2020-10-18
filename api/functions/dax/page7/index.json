@@ -4,6 +4,174 @@
   "page": 7,
   "value": [
     {
+      "path": "_functions/ln.md",
+      "title": "LN (<number>)",
+      "excerpt": "Returns the natural logarithm of a number. Natural logarithms are based on the constant e (2.71828182845904).",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/ln/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/ln-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/ln-function-dax",
+      "name": "LN (<number>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/log.md",
+      "title": "LOG (<number>,<base>)",
+      "excerpt": "Returns the logarithm of a number to the base you specify.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/log/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/log-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/log-function-dax",
+      "name": "LOG (<number>,<base>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/log10.md",
+      "title": "LOG10 (<number>)",
+      "excerpt": "Returns the base-10 logarithm of a number.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/log10/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/log10-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/log10-function-dax",
+      "name": "LOG10 (<number>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/lookupvalue.md",
+      "title": "LOOKUPVALUE (<result_columnName>,<search_columnName>,<search_value>[, <search2_columnName>, <search2_value>]…[, <alternateResult>])",
+      "excerpt": "Returns the value for the row that meets all criteria specified by search conditions. The function can apply one or more search conditions.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/lookupvalue/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/lookupvalue-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/lookupvalue-function-dax",
+      "name": "LOOKUPVALUE (<result_columnName>,<search_columnName>,<search_value>[, <search2_columnName>, <search2_value>]…[, <alternateResult>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/lower.md",
+      "title": "LOWER (<text>)",
+      "excerpt": "Converts all letters in a text string to lowercase.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/lower/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/lower-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/lower-function-dax",
+      "name": "LOWER (<text>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/max.md",
+      "title": "MAX (<column>)",
+      "excerpt": "Returns the largest value in a column, or between two scalar expressions.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/max/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/max-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/max-function-dax",
+      "name": "MAX (<column>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
       "path": "_functions/maxa.md",
       "title": "MAXA (<column>)",
       "excerpt": "Returns the largest value in a column.",
@@ -536,6 +704,34 @@
       "type": "article"
     },
     {
+      "path": "_functions/nonvisual.md",
+      "title": "NONVISUAL(<expression>)",
+      "excerpt": "Marks a value filter in a SUMMARIZECOLUMNS expression as non-visual. This function can only be used within a SUMMARIZECOLUMNS expression.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/nonvisual/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/nonvisual-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/nonvisual-function-dax",
+      "name": "NONVISUAL(<expression>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
       "path": "_functions/normdist.md",
       "title": "NORM.DIST (X, Mean, Standard_dev, Cumulative)",
       "excerpt": "Returns the normal distribution for the specified mean and standard deviation.",
@@ -627,202 +823,6 @@
       "webUrl": "https://docs.microsoft.com/en-us/dax/norm-s-inv-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/norm-s-inv-dax",
       "name": "NORM.S.INV (Probability)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/not.md",
-      "title": "NOT (<logical>)",
-      "excerpt": "Changes FALSE to TRUE, or TRUE to FALSE.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/not/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/not-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/not-function-dax",
-      "name": "NOT (<logical>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/now.md",
-      "title": "NOW ()",
-      "excerpt": "Returns the current date and time in datetime format.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/now/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/now-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/now-function-dax",
-      "name": "NOW ()",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/nper.md",
-      "title": "NPER (<rate>, <pmt>, <pv>[, <fv>[, <type>]])",
-      "excerpt": "Returns the number of periods for an investment based on periodic, constant payments and a constant interest rate.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/nper/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/nper-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/nper-function-dax",
-      "name": "NPER (<rate>, <pmt>, <pv>[, <fv>[, <type>]])",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/odd.md",
-      "title": "ODD (number)",
-      "excerpt": "Returns number rounded up to the nearest odd integer.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/odd/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/odd-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/odd-function-dax",
-      "name": "ODD (number)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/oddfprice.md",
-      "title": "ODDFPRICE (<settlement>, <maturity>, <issue>, <first_coupon>, <rate>, <yld>, <redemption>, <frequency>[, <basis>])",
-      "excerpt": "Returns the price per \\$100 face value of a security having an odd (short or long) first period.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/oddfprice/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/oddfprice-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/oddfprice-function-dax",
-      "name": "ODDFPRICE (<settlement>, <maturity>, <issue>, <first_coupon>, <rate>, <yld>, <redemption>, <frequency>[, <basis>])",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/oddfyield.md",
-      "title": "ODDFYIELD (<settlement>, <maturity>, <issue>, <first_coupon>, <rate>, <pr>, <redemption>, <frequency>[, <basis>])",
-      "excerpt": "Returns the yield of a security that has an odd (short or long) first period.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/oddfyield/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/oddfyield-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/oddfyield-function-dax",
-      "name": "ODDFYIELD (<settlement>, <maturity>, <issue>, <first_coupon>, <rate>, <pr>, <redemption>, <frequency>[, <basis>])",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/oddlprice.md",
-      "title": "ODDLPRICE (<settlement>, <maturity>, <last_interest>, <rate>, <yld>, <redemption>, <frequency>[, <basis>])",
-      "excerpt": "Returns the price per \\$100 face value of a security having an odd (short or long) last coupon period.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/oddlprice/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/oddlprice-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/oddlprice-function-dax",
-      "name": "ODDLPRICE (<settlement>, <maturity>, <last_interest>, <rate>, <yld>, <redemption>, <frequency>[, <basis>])",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",

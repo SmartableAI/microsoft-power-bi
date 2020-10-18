@@ -4,7 +4,7 @@ excerpt: "Returns a table with a single column named \"Date\" that contains a co
 originalUrl: https://docs.microsoft.com/en-us/dax/calendar-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/calendar-function-dax
 type: article
-heat: 53
+heat: 50
 
 provider:
   name: Microsoft

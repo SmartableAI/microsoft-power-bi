@@ -4,6 +4,202 @@
   "page": 9,
   "value": [
     {
+      "path": "_functions/previousquarter.md",
+      "title": "PREVIOUSQUARTER (<dates>)",
+      "excerpt": "Returns a table that contains a column of all dates from the previous quarter, based on the first date in the dates column, in the current context.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/previousquarter/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/previousquarter-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/previousquarter-function-dax",
+      "name": "PREVIOUSQUARTER (<dates>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/previousyear.md",
+      "title": "PREVIOUSYEAR (<dates>[,<year_end_date>])",
+      "excerpt": "Returns a table that contains a column of all dates from the previous year, given the last date in the dates column, in the current context.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/previousyear/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/previousyear-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/previousyear-function-dax",
+      "name": "PREVIOUSYEAR (<dates>[,<year_end_date>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/price.md",
+      "title": "PRICE (<settlement>, <maturity>, <rate>, <yld>, <redemption>, <frequency>[, <basis>])",
+      "excerpt": "Returns the price per \\$100 face value of a security that pays periodic interest.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/price/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/price-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/price-function-dax",
+      "name": "PRICE (<settlement>, <maturity>, <rate>, <yld>, <redemption>, <frequency>[, <basis>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/pricedisc.md",
+      "title": "PRICEDISC (<settlement>, <maturity>, <discount>, <redemption>[, <basis>])",
+      "excerpt": "Returns the price per \\$100 face value of a discounted security.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/pricedisc/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/pricedisc-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/pricedisc-function-dax",
+      "name": "PRICEDISC (<settlement>, <maturity>, <discount>, <redemption>[, <basis>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/pricemat.md",
+      "title": "PRICEMAT (<settlement>, <maturity>, <issue>, <rate>, <yld>[, <basis>])",
+      "excerpt": "Returns the price per \\$100 face value of a security that pays interest at maturity.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/pricemat/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/pricemat-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/pricemat-function-dax",
+      "name": "PRICEMAT (<settlement>, <maturity>, <issue>, <rate>, <yld>[, <basis>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/product.md",
+      "title": "PRODUCT (<column>)",
+      "excerpt": "Returns the product of the numbers in a column.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/product/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/product-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/product-function-dax",
+      "name": "PRODUCT (<column>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/productx.md",
+      "title": "PRODUCTX (<table>, <expression>)",
+      "excerpt": "Returns the product of an expression evaluated for each row in a table.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/productx/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/productx-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/productx-function-dax",
+      "name": "PRODUCTX (<table>, <expression>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
       "path": "_functions/pv.md",
       "title": "PV (<rate>, <nper>, <pmt>[, <fv>[, <type>]])",
       "excerpt": "Calculates the present value of a loan or an investment, based on a constant interest rate. You can use PV with either periodic, constant payments (such as a mortgage or other loan), and/or a future value that's your investment goal.",
@@ -284,34 +480,6 @@
       "type": "article"
     },
     {
-      "path": "_functions/related.md",
-      "title": "RELATED (<column>)",
-      "excerpt": "Returns a related value from another table.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/related/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/related-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/related-function-dax",
-      "name": "RELATED (<column>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
       "path": "_functions/relatedtable.md",
       "title": "RELATEDTABLE (<tableName>)",
       "excerpt": "Evaluates a table expression in a context modified by the given filters.",
@@ -452,6 +620,118 @@
       "type": "article"
     },
     {
+      "path": "_functions/rollup.md",
+      "title": "ROLLUP ( <groupBy_columnName> [, <groupBy_columnName> [, … ] ] )",
+      "excerpt": "Modifies the behavior of the SUMMARIZE function by adding rollup rows to the result on columns defined by the groupBy_columnName parameter. This function can only be used within a SUMMARIZE expression.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/rollup/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/rollup-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/rollup-function-dax",
+      "name": "ROLLUP ( <groupBy_columnName> [, <groupBy_columnName> [, … ] ] )",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/rollupaddissubtotal.md",
+      "title": "ROLLUPADDISSUBTOTAL ( [<grandtotalFilter>], <groupBy_columnName>, <name> [, [<groupLevelFilter>] [, <groupBy_columnName>, <name> [, [<groupLevelFilter>] [, … ] ] ] ] )",
+      "excerpt": "Modifies the behavior of the SUMMARIZECOLUMNS function by adding rollup/subtotal rows to the result based on the groupBy_columnName columns. This function can only be used within a SUMMARIZECOLUMNS expression.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/rollupaddissubtotal/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/rollupaddissubtotal-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/rollupaddissubtotal-function-dax",
+      "name": "ROLLUPADDISSUBTOTAL ( [<grandtotalFilter>], <groupBy_columnName>, <name> [, [<groupLevelFilter>] [, <groupBy_columnName>, <name> [, [<groupLevelFilter>] [, … ] ] ] ] )",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/rollupgroup.md",
+      "title": "ROLLUPGROUP ( <groupBy_columnName> [, <groupBy_columnName> [, … ] ] )",
+      "excerpt": "Modifies the behavior of the SUMMARIZE and SUMMARIZECOLUMNS functions by adding rollup rows to the result on columns defined by the the groupBy_columnName parameter. This function can only be used within a SUMMARIZE or SUMMARIZECOLUMNS expression.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/rollupgroup/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/rollupgroup-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/rollupgroup-function-dax",
+      "name": "ROLLUPGROUP ( <groupBy_columnName> [, <groupBy_columnName> [, … ] ] )",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/rollupissubtotal.md",
+      "title": "ROLLUPISSUBTOTAL ( [<grandTotalFilter>], <groupBy_columnName>, <isSubtotal_columnName> [, [<groupLevelFilter>] [, <groupBy_columnName>, <isSubtotal_columnName> [, [<groupLevelFilter>] [, … ] ] ] ] )",
+      "excerpt": "Pairs rollup groups with the column added by ROLLUPADDISSUBTOTAL. This function can only be used within an ADDMISSINGITEMS expression.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/rollupissubtotal/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/rollupissubtotal-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/rollupissubtotal-function-dax",
+      "name": "ROLLUPISSUBTOTAL ( [<grandTotalFilter>], <groupBy_columnName>, <isSubtotal_columnName> [, [<groupLevelFilter>] [, <groupBy_columnName>, <isSubtotal_columnName> [, [<groupLevelFilter>] [, … ] ] ] ] )",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
       "path": "_functions/round.md",
       "title": "ROUND (<number>, <num_digits>)",
       "excerpt": "Rounds a number to the specified number of digits.",
@@ -543,286 +823,6 @@
       "webUrl": "https://docs.microsoft.com/en-us/dax/row-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/row-function-dax",
       "name": "ROW (<name>, <expression>[[,<name>, <expression>]…])",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/rri.md",
-      "title": "RRI (<nper>, <pv>, <fv>)",
-      "excerpt": "Returns an equivalent interest rate for the growth of an investment.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/rri/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/rri-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/rri-function-dax",
-      "name": "RRI (<nper>, <pv>, <fv>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/sameperiodlastyear.md",
-      "title": "SAMEPERIODLASTYEAR (<dates>)",
-      "excerpt": "Returns a table that contains a column of dates shifted one year back in time from the dates in the specified dates column, in the current context.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/sameperiodlastyear/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/sameperiodlastyear-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/sameperiodlastyear-function-dax",
-      "name": "SAMEPERIODLASTYEAR (<dates>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/sample.md",
-      "title": "SAMPLE (<n_value>, <table>, <orderBy_expression>, [<order>[, <orderBy_expression>, [<order>]]…])",
-      "excerpt": "Returns a sample of N rows from the specified table.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/sample/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/sample-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/sample-function-dax",
-      "name": "SAMPLE (<n_value>, <table>, <orderBy_expression>, [<order>[, <orderBy_expression>, [<order>]]…])",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/search.md",
-      "title": "SEARCH (<find_text>, <within_text>[, [<start_num>][, <NotFoundValue>]])",
-      "excerpt": "Returns the number of the character at which a specific character or text string is first found, reading left to right. Search is case-insensitive and accent sensitive.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/search/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/search-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/search-function-dax",
-      "name": "SEARCH (<find_text>, <within_text>[, [<start_num>][, <NotFoundValue>]])",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/second.md",
-      "title": "SECOND (<time>)",
-      "excerpt": "Returns the seconds of a time value, as a number from 0 to 59.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/second/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/second-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/second-function-dax",
-      "name": "SECOND (<time>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/selectcolumns.md",
-      "title": "SELECTCOLUMNS (<table>, <name>, <scalar_expression> [, <name>, <scalar_expression>]…)",
-      "excerpt": "Adds calculated columns to the given table or table expression.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/selectcolumns/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/selectcolumns-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/selectcolumns-function-dax",
-      "name": "SELECTCOLUMNS (<table>, <name>, <scalar_expression> [, <name>, <scalar_expression>]…)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/selectedmeasure.md",
-      "title": "SELECTEDMEASURE ()",
-      "excerpt": "Used by expressions for calculation items to reference the measure that is in context.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/selectedmeasure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/selectedmeasure-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/selectedmeasure-function-dax",
-      "name": "SELECTEDMEASURE ()",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/selectedmeasureformatstring.md",
-      "title": "SELECTEDMEASUREFORMATSTRING ()",
-      "excerpt": "Used by expressions for calculation items to retrieve the format string of the measure that is in context.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/selectedmeasureformatstring/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/selectedmeasureformatstring-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/selectedmeasureformatstring-function-dax",
-      "name": "SELECTEDMEASUREFORMATSTRING ()",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/selectedmeasurename.md",
-      "title": "SELECTEDMEASURENAME ()",
-      "excerpt": "Used by expressions for calculation items to determine the measure that is in context by name.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/selectedmeasurename/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/selectedmeasurename-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/selectedmeasurename-function-dax",
-      "name": "SELECTEDMEASURENAME ()",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/selectedvalue.md",
-      "title": "SELECTEDVALUE (<columnName>[, <alternateResult>])",
-      "excerpt": "Returns the value when the context for columnName has been filtered down to one distinct value only. Otherwise returns alternateResult.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/selectedvalue/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/selectedvalue-function",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/selectedvalue-function",
-      "name": "SELECTEDVALUE (<columnName>[, <alternateResult>])",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",

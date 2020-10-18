@@ -116,6 +116,34 @@
       "type": "article"
     },
     {
+      "path": "_functions/containsrow-function.md",
+      "title": "CONTAINSROW(<tableExpr>, <scalarExpr>[, <scalarExpr>, …])",
+      "excerpt": "Returns TRUE if a row of values exists or contained in a table, otherwise returns FALSE.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/containsrow-function/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/containsrow-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/containsrow-function-dax",
+      "name": "CONTAINSROW(<tableExpr>, <scalarExpr>[, <scalarExpr>, …])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
       "path": "_functions/containsrow.md",
       "title": "CONTAINSROW (<tableExpr>, <scalarExpr>[, <scalarExpr>, …])",
       "excerpt": "Returns TRUE if a row of values exists or contained in a table, otherwise returns FALSE.",
@@ -795,34 +823,6 @@
       "webUrl": "https://docs.microsoft.com/en-us/dax/currency-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/currency-function-dax",
       "name": "CURRENCY (<value>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/customdata.md",
-      "title": "CUSTOMDATA ()",
-      "excerpt": "Returns the content of the CustomData property in the connection string.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/customdata/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/customdata-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/customdata-function-dax",
-      "name": "CUSTOMDATA ()",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",

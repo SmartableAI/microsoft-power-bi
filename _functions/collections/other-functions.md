@@ -14,8 +14,6 @@ provider:
 
 items:
   - blank
-  - earlier
-  - earliest
   - error
 
 topics:

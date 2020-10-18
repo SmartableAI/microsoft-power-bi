@@ -4,6 +4,146 @@
   "page": 5,
   "value": [
     {
+      "path": "_functions/endofmonth.md",
+      "title": "ENDOFMONTH (<dates>)",
+      "excerpt": "Returns the last date of the month in the current context for the specified column of dates.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/endofmonth/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/endofmonth-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/endofmonth-function-dax",
+      "name": "ENDOFMONTH (<dates>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/endofquarter.md",
+      "title": "ENDOFQUARTER (<dates>)",
+      "excerpt": "Returns the last date of the quarter in the current context for the specified column of dates.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/endofquarter/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/endofquarter-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/endofquarter-function-dax",
+      "name": "ENDOFQUARTER (<dates>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/endofyear.md",
+      "title": "ENDOFYEAR (<dates> [,<year_end_date>])",
+      "excerpt": "Returns the last date of the year in the current context for the specified column of dates.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/endofyear/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/endofyear-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/endofyear-function-dax",
+      "name": "ENDOFYEAR (<dates> [,<year_end_date>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/eomonth.md",
+      "title": "EOMONTH (<start_date>, <months>)",
+      "excerpt": "Returns the date in datetime format of the last day of the month, before or after a specified number of months. Use EOMONTH to calculate maturity dates or due dates that fall on the last day of the month.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/eomonth/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/eomonth-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/eomonth-function-dax",
+      "name": "EOMONTH (<start_date>, <months>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/error.md",
+      "title": "ERROR (<text>)",
+      "excerpt": "Raises an error with an error message.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/error/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/error-function",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/error-function",
+      "name": "ERROR (<text>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
       "path": "_functions/even.md",
       "title": "EVEN (number)",
       "excerpt": "Returns number rounded up to the nearest even integer. You can use this function for processing items that come in twos. For example, a packing crate accepts rows of one or two items. The crate is full when the number of items, rounded up to the nearest two, matches the crate's capacity.",
@@ -683,146 +823,6 @@
       "webUrl": "https://docs.microsoft.com/en-us/dax/hasonevalue-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/hasonevalue-function-dax",
       "name": "HASONEVALUE (<columnName>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/hour.md",
-      "title": "HOUR (<datetime>)",
-      "excerpt": "Returns the hour as a number from 0 (12:00 A.M.) to 23 (11:00 P.M.).",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/hour/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/hour-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/hour-function-dax",
-      "name": "HOUR (<datetime>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/if.md",
-      "title": "IF (<logical_test>, <value_if_true>[, <value_if_false>])",
-      "excerpt": "Checks a condition, and returns one value when it's TRUE, otherwise it returns a second value.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/if/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/if-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/if-function-dax",
-      "name": "IF (<logical_test>, <value_if_true>[, <value_if_false>])",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/iferror.md",
-      "title": "IFERROR (value, value_if_error)",
-      "excerpt": "Evaluates an expression and returns a specified value if the expression returns an error; otherwise returns the value of the expression itself.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/iferror/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/iferror-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/iferror-function-dax",
-      "name": "IFERROR (value, value_if_error)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/int.md",
-      "title": "INT (<number>)",
-      "excerpt": "Rounds a number down to the nearest integer.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/int/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/int-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/int-function-dax",
-      "name": "INT (<number>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/intersect.md",
-      "title": "INTERSECT (<table_expression1>, <table_expression2>)",
-      "excerpt": "Returns the row intersection of two tables, retaining duplicates.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/intersect/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/intersect-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/intersect-function-dax",
-      "name": "INTERSECT (<table_expression1>, <table_expression2>)",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",

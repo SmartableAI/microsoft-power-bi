@@ -16,7 +16,9 @@ items:
   - addcolumns
   - addmissingitems
   - crossjoin
+  - currentgroup
   - datatable
+  - detailrows
   - distinct-column
   - distinct-table
   - except
@@ -25,14 +27,20 @@ items:
   - generateall
   - generateseries
   - groupby
+  - ignore
   - intersect
   - naturalinnerjoin
   - naturalleftouterjoin
+  - rollup
+  - rollupaddissubtotal
+  - rollupissubtotal
+  - rollupgroup
   - row-function
   - selectcolumns
   - substitutewithindex
   - summarize
   - summarizecolumns
+  - table-constructor
   - topn
   - treatas
   - union

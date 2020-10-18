@@ -30,6 +30,8 @@ items:
   - time
   - timevalue
   - today
+  - utcnow
+  - utctoday
   - weekday
   - weeknum
   - year

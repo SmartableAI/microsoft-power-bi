@@ -4,6 +4,202 @@
   "page": 8,
   "value": [
     {
+      "path": "_functions/not.md",
+      "title": "NOT (<logical>)",
+      "excerpt": "Changes FALSE to TRUE, or TRUE to FALSE.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/not/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/not-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/not-function-dax",
+      "name": "NOT (<logical>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/now.md",
+      "title": "NOW ()",
+      "excerpt": "Returns the current date and time in datetime format.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/now/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/now-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/now-function-dax",
+      "name": "NOW ()",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/nper.md",
+      "title": "NPER (<rate>, <pmt>, <pv>[, <fv>[, <type>]])",
+      "excerpt": "Returns the number of periods for an investment based on periodic, constant payments and a constant interest rate.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/nper/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/nper-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/nper-function-dax",
+      "name": "NPER (<rate>, <pmt>, <pv>[, <fv>[, <type>]])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/odd.md",
+      "title": "ODD (number)",
+      "excerpt": "Returns number rounded up to the nearest odd integer.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/odd/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/odd-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/odd-function-dax",
+      "name": "ODD (number)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/oddfprice.md",
+      "title": "ODDFPRICE (<settlement>, <maturity>, <issue>, <first_coupon>, <rate>, <yld>, <redemption>, <frequency>[, <basis>])",
+      "excerpt": "Returns the price per \\$100 face value of a security having an odd (short or long) first period.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/oddfprice/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/oddfprice-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/oddfprice-function-dax",
+      "name": "ODDFPRICE (<settlement>, <maturity>, <issue>, <first_coupon>, <rate>, <yld>, <redemption>, <frequency>[, <basis>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/oddfyield.md",
+      "title": "ODDFYIELD (<settlement>, <maturity>, <issue>, <first_coupon>, <rate>, <pr>, <redemption>, <frequency>[, <basis>])",
+      "excerpt": "Returns the yield of a security that has an odd (short or long) first period.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/oddfyield/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/oddfyield-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/oddfyield-function-dax",
+      "name": "ODDFYIELD (<settlement>, <maturity>, <issue>, <first_coupon>, <rate>, <pr>, <redemption>, <frequency>[, <basis>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/oddlprice.md",
+      "title": "ODDLPRICE (<settlement>, <maturity>, <last_interest>, <rate>, <yld>, <redemption>, <frequency>[, <basis>])",
+      "excerpt": "Returns the price per \\$100 face value of a security having an odd (short or long) last coupon period.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/oddlprice/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/oddlprice-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/oddlprice-function-dax",
+      "name": "ODDLPRICE (<settlement>, <maturity>, <last_interest>, <rate>, <yld>, <redemption>, <frequency>[, <basis>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
       "path": "_functions/oddlyield.md",
       "title": "ODDLYIELD (<settlement>, <maturity>, <last_interest>, <rate>, <pr>, <redemption>, <frequency>[, <basis>])",
       "excerpt": "Returns the yield of a security that has an odd (short or long) last period.",
@@ -627,202 +823,6 @@
       "webUrl": "https://docs.microsoft.com/en-us/dax/previousmonth-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/previousmonth-function-dax",
       "name": "PREVIOUSMONTH (<dates>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/previousquarter.md",
-      "title": "PREVIOUSQUARTER (<dates>)",
-      "excerpt": "Returns a table that contains a column of all dates from the previous quarter, based on the first date in the dates column, in the current context.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/previousquarter/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/previousquarter-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/previousquarter-function-dax",
-      "name": "PREVIOUSQUARTER (<dates>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/previousyear.md",
-      "title": "PREVIOUSYEAR (<dates>[,<year_end_date>])",
-      "excerpt": "Returns a table that contains a column of all dates from the previous year, given the last date in the dates column, in the current context.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/previousyear/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/previousyear-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/previousyear-function-dax",
-      "name": "PREVIOUSYEAR (<dates>[,<year_end_date>])",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/price.md",
-      "title": "PRICE (<settlement>, <maturity>, <rate>, <yld>, <redemption>, <frequency>[, <basis>])",
-      "excerpt": "Returns the price per \\$100 face value of a security that pays periodic interest.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/price/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/price-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/price-function-dax",
-      "name": "PRICE (<settlement>, <maturity>, <rate>, <yld>, <redemption>, <frequency>[, <basis>])",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/pricedisc.md",
-      "title": "PRICEDISC (<settlement>, <maturity>, <discount>, <redemption>[, <basis>])",
-      "excerpt": "Returns the price per \\$100 face value of a discounted security.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/pricedisc/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/pricedisc-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/pricedisc-function-dax",
-      "name": "PRICEDISC (<settlement>, <maturity>, <discount>, <redemption>[, <basis>])",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/pricemat.md",
-      "title": "PRICEMAT (<settlement>, <maturity>, <issue>, <rate>, <yld>[, <basis>])",
-      "excerpt": "Returns the price per \\$100 face value of a security that pays interest at maturity.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/pricemat/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/pricemat-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/pricemat-function-dax",
-      "name": "PRICEMAT (<settlement>, <maturity>, <issue>, <rate>, <yld>[, <basis>])",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/product.md",
-      "title": "PRODUCT (<column>)",
-      "excerpt": "Returns the product of the numbers in a column.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/product/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/product-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/product-function-dax",
-      "name": "PRODUCT (<column>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/productx.md",
-      "title": "PRODUCTX (<table>, <expression>)",
-      "excerpt": "Returns the product of an expression evaluated for each row in a table.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/productx/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/productx-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/productx-function-dax",
-      "name": "PRODUCTX (<table>, <expression>)",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",

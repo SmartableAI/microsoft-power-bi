@@ -4,7 +4,7 @@ excerpt: "Joins two text strings into one text string."
 originalUrl: https://docs.microsoft.com/en-us/dax/concatenate-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/concatenate-function-dax
 type: article
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft

@@ -4,174 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_functions/allcrossfiltered.md",
-      "title": "ALLCROSSFILTERED (<table>)",
-      "excerpt": "Clear all filters which are applied to a table.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/allcrossfiltered/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/allcrossfiltered-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/allcrossfiltered-function-dax",
-      "name": "ALLCROSSFILTERED (<table>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/allexcept.md",
-      "title": "ALLEXCEPT (<table>,<column>[,<column>[,…]])",
-      "excerpt": "Removes all context filters in the table except filters that have been applied to the specified columns.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/allexcept/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/allexcept-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/allexcept-function-dax",
-      "name": "ALLEXCEPT (<table>,<column>[,<column>[,…]])",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/allnoblankrow.md",
-      "title": "ALLNOBLANKROW ( {<table> | <column>[, <column>[, <column>[,…]]]} )",
-      "excerpt": "From the parent table of a relationship, returns all rows but the blank row, or all distinct values of a column but the blank row, and disregards any context filters that might exist.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/allnoblankrow/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/allnoblankrow-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/allnoblankrow-function-dax",
-      "name": "ALLNOBLANKROW ( {<table> | <column>[, <column>[, <column>[,…]]]} )",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/allselected.md",
-      "title": "ALLSELECTED ( [<tableName> | <columnName>[, <columnName>[, <columnName>[,…]]]] )",
-      "excerpt": "Removes context filters from columns and rows in the current query, while retaining all other context filters or explicit filters.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/allselected/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/allselected-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/allselected-function-dax",
-      "name": "ALLSELECTED ( [<tableName> | <columnName>[, <columnName>[, <columnName>[,…]]]] )",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/amordegrc.md",
-      "title": "AMORDEGRC (<cost>, <date_purchased>, <first_period>, <salvage>, <period>, <rate>[, <basis>])",
-      "excerpt": "Returns the depreciation for each accounting period. This function is provided for the French accounting system. If an asset is purchased in the middle of the accounting period, the prorated depreciation is taken into account. The function is similar to AMORLINC, except that a depreciation coefficient is applied in the calculation depending on the life of the assets.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/amordegrc/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/amordegrc-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/amordegrc-function-dax",
-      "name": "AMORDEGRC (<cost>, <date_purchased>, <first_period>, <salvage>, <period>, <rate>[, <basis>])",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/amorlinc.md",
-      "title": "AMORLINC (<cost>, <date_purchased>, <first_period>, <salvage>, <period>, <rate>[, <basis>])",
-      "excerpt": "Returns the depreciation for each accounting period. This function is provided for the French accounting system. If an asset is purchased in the middle of the accounting period, the prorated depreciation is taken into account.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/amorlinc/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/amorlinc-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/amorlinc-function-dax",
-      "name": "AMORLINC (<cost>, <date_purchased>, <first_period>, <salvage>, <period>, <rate>[, <basis>])",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
       "path": "_functions/and.md",
       "title": "AND (<logical1>,<logical2>)",
       "excerpt": "Checks whether both arguments are TRUE, and returns TRUE if both arguments are TRUE. Otherwise returns false.",
@@ -508,6 +340,34 @@
       "type": "article"
     },
     {
+      "path": "_functions/calculate.md",
+      "title": "CALCULATE (<expression>[, <filter1> [, <filter2> [, …]]])",
+      "excerpt": "Evaluates an expression in a modified filter context.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/calculate/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/calculate-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/calculate-function-dax",
+      "name": "CALCULATE (<expression>[, <filter1> [, <filter2> [, …]]])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
       "path": "_functions/calculatetable.md",
       "title": "CALCULATETABLE (<expression>[, <filter1> [, <filter2> [, …]]])",
       "excerpt": "Evaluates a table expression in a modified filter context.",
@@ -515,6 +375,62 @@
       "webUrl": "https://docs.microsoft.com/en-us/dax/calculatetable-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/calculatetable-function-dax",
       "name": "CALCULATETABLE (<expression>[, <filter1> [, <filter2> [, …]]])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/calendar.md",
+      "title": "CALENDAR (<start_date>, <end_date>)",
+      "excerpt": "Returns a table with a single column named \"Date\" that contains a contiguous set of dates. The range of dates is from the specified start date to the specified end date, inclusive of those two dates.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/calendar/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/calendar-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/calendar-function-dax",
+      "name": "CALENDAR (<start_date>, <end_date>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/calendarauto.md",
+      "title": "CALENDARAUTO ([fiscal_year_end_month])",
+      "excerpt": "Returns a table with a single column named \"Date\" that contains a contiguous set of dates. The range of dates is calculated automatically based on data in the model.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/calendarauto/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/calendarauto-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/calendarauto-function-dax",
+      "name": "CALENDARAUTO ([fiscal_year_end_month])",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -655,6 +571,34 @@
       "webUrl": "https://docs.microsoft.com/en-us/dax/chisq-inv-rt-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/chisq-inv-rt-function-dax",
       "name": "CHISQ.INV.RT (probability,deg_freedom)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/closingbalancemonth.md",
+      "title": "CLOSINGBALANCEMONTH (<expression>,<dates>[,<filter>])",
+      "excerpt": "Evaluates the expression at the last date of the month in the current context.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/closingbalancemonth/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/closingbalancemonth-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/closingbalancemonth-function-dax",
+      "name": "CLOSINGBALANCEMONTH (<expression>,<dates>[,<filter>])",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -823,6 +767,62 @@
       "webUrl": "https://docs.microsoft.com/en-us/dax/combina-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/combina-function-dax",
       "name": "COMBINA (number, number_chosen)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/combinevalues.md",
+      "title": "COMBINEVALUES (<delimiter>, <expression>, <expression>[, <expression>]…)",
+      "excerpt": "Joins two or more text strings into one text string. The primary purpose of this function is to support multi-column relationships in DirectQuery models. See Remarks for details.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/combinevalues/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/combinevalues-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/combinevalues-function-dax",
+      "name": "COMBINEVALUES (<delimiter>, <expression>, <expression>[, <expression>]…)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/concatenate.md",
+      "title": "CONCATENATE (<text1>, <text2>)",
+      "excerpt": "Joins two text strings into one text string.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/concatenate/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/concatenate-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/concatenate-function-dax",
+      "name": "CONCATENATE (<text1>, <text2>)",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",

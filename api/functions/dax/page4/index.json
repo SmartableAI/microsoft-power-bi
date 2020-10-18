@@ -4,6 +4,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_functions/currentgroup.md",
+      "title": "CURRENTGROUP ( )",
+      "excerpt": "Returns a set of rows from the table argument of a GROUPBY expression that belong to the current row of the GROUPBY result.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/currentgroup/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/currentgroup-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/currentgroup-function-dax",
+      "name": "CURRENTGROUP ( )",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/customdata.md",
+      "title": "CUSTOMDATA ()",
+      "excerpt": "Returns the content of the CustomData property in the connection string.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/customdata/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/customdata-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/customdata-function-dax",
+      "name": "CUSTOMDATA ()",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
       "path": "_functions/datatable.md",
       "title": "DATATABLE (ColumnName1, DataType1, ColumnName2, DataType2..., {{Value1, Value2...}, {ValueN, ValueN+1...}...})",
       "excerpt": "Provides a mechanism for declaring an inline set of data values.",
@@ -39,6 +95,62 @@
       "webUrl": "https://docs.microsoft.com/en-us/dax/date-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/date-function-dax",
       "name": "DATE (<year>, <month>, <day>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/dateadd.md",
+      "title": "DATEADD (<dates>,<number_of_intervals>,<interval>)",
+      "excerpt": "Returns a table that contains a column of dates, shifted either forward or backward in time by the specified number of intervals from the dates in the current context.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/dateadd/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/dateadd-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/dateadd-function-dax",
+      "name": "DATEADD (<dates>,<number_of_intervals>,<interval>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/datediff.md",
+      "title": "DATEDIFF (<start_date>, <end_date>, <interval>)",
+      "excerpt": "Returns the count of interval boundaries crossed between two dates.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/datediff/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/datediff-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/datediff-function-dax",
+      "name": "DATEDIFF (<start_date>, <end_date>, <interval>)",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -319,6 +431,34 @@
       "webUrl": "https://docs.microsoft.com/en-us/dax/degrees-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/degrees-function-dax",
       "name": "DEGREES (angle)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/detailrows.md",
+      "title": "DETAILROWS([Measure])",
+      "excerpt": "Evaluates a Detail Rows Expression defined for a measure and returns the data.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/detailrows/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/detailrows-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/detailrows-function-dax",
+      "name": "DETAILROWS([Measure])",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -683,146 +823,6 @@
       "webUrl": "https://docs.microsoft.com/en-us/dax/effect-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/effect-function-dax",
       "name": "EFFECT (<nominal_rate>, <npery>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/endofmonth.md",
-      "title": "ENDOFMONTH (<dates>)",
-      "excerpt": "Returns the last date of the month in the current context for the specified column of dates.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/endofmonth/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/endofmonth-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/endofmonth-function-dax",
-      "name": "ENDOFMONTH (<dates>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/endofquarter.md",
-      "title": "ENDOFQUARTER (<dates>)",
-      "excerpt": "Returns the last date of the quarter in the current context for the specified column of dates.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/endofquarter/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/endofquarter-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/endofquarter-function-dax",
-      "name": "ENDOFQUARTER (<dates>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/endofyear.md",
-      "title": "ENDOFYEAR (<dates> [,<year_end_date>])",
-      "excerpt": "Returns the last date of the year in the current context for the specified column of dates.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/endofyear/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/endofyear-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/endofyear-function-dax",
-      "name": "ENDOFYEAR (<dates> [,<year_end_date>])",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/eomonth.md",
-      "title": "EOMONTH (<start_date>, <months>)",
-      "excerpt": "Returns the date in datetime format of the last day of the month, before or after a specified number of months. Use EOMONTH to calculate maturity dates or due dates that fall on the last day of the month.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/eomonth/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/eomonth-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/eomonth-function-dax",
-      "name": "EOMONTH (<start_date>, <months>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/error.md",
-      "title": "ERROR (<text>)",
-      "excerpt": "Raises an error with an error message.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/error/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/error-function",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/error-function",
-      "name": "ERROR (<text>)",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",

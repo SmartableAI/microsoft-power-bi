@@ -20,6 +20,8 @@ items:
   - allselected
   - calculate
   - calculatetable
+  - earlier
+  - earliest
   - filter
   - keepfilters
   - lookupvalue

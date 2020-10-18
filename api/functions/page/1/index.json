@@ -36,7 +36,7 @@
             "Power BI",
             "DAX"
           ],
-          "heat": 53,
+          "heat": 50,
           "type": "article"
         },
         {
@@ -48,7 +48,7 @@
             "Power BI",
             "DAX"
           ],
-          "heat": 52,
+          "heat": 50,
           "type": "article"
         },
         {
@@ -72,11 +72,11 @@
             "Power BI",
             "DAX"
           ],
-          "heat": 52,
+          "heat": 50,
           "type": "article"
         }
       ],
-      "size": 21,
+      "size": 23,
       "heat": 220,
       "content": "\r\n",
       "type": "collection"
@@ -114,7 +114,7 @@
             "Power BI",
             "DAX"
           ],
-          "heat": 54,
+          "heat": 50,
           "type": "article"
         },
         {
@@ -150,7 +150,7 @@
             "Power BI",
             "DAX"
           ],
-          "heat": 51,
+          "heat": 50,
           "type": "article"
         }
       ],
@@ -192,7 +192,7 @@
             "Power BI",
             "DAX"
           ],
-          "heat": 52,
+          "heat": 50,
           "type": "article"
         },
         {
@@ -204,7 +204,7 @@
             "Power BI",
             "DAX"
           ],
-          "heat": 51,
+          "heat": 50,
           "type": "article"
         },
         {
@@ -294,7 +294,7 @@
             "Power BI",
             "DAX"
           ],
-          "heat": 50,
+          "heat": 51,
           "type": "article"
         },
         {
@@ -310,7 +310,7 @@
           "type": "article"
         }
       ],
-      "size": 12,
+      "size": 14,
       "heat": 190,
       "content": "\r\n",
       "type": "collection"
@@ -431,9 +431,9 @@
         },
         {
           "path": "",
-          "title": "CONTAINSROW (<tableExpr>, <scalarExpr>[, <scalarExpr>, …])",
+          "title": "CONTAINSROW(<tableExpr>, <scalarExpr>[, <scalarExpr>, …])",
           "excerpt": "Returns TRUE if a row of values exists or contained in a table, otherwise returns FALSE.",
-          "name": "CONTAINSROW (<tableExpr>, <scalarExpr>[, <scalarExpr>, …])",
+          "name": "CONTAINSROW(<tableExpr>, <scalarExpr>[, <scalarExpr>, …])",
           "topics": [
             "Power BI",
             "DAX"
@@ -466,7 +466,7 @@
           "type": "article"
         }
       ],
-      "size": 27,
+      "size": 29,
       "heat": 170,
       "content": "\r\n",
       "type": "collection"
@@ -665,30 +665,6 @@
         },
         {
           "path": "",
-          "title": "EARLIER (<column>, <number>)",
-          "excerpt": "Returns the current value of the specified column in an outer evaluation pass of the mentioned column.",
-          "name": "EARLIER (<column>, <number>)",
-          "topics": [
-            "Power BI",
-            "DAX"
-          ],
-          "heat": 50,
-          "type": "article"
-        },
-        {
-          "path": "",
-          "title": "EARLIEST (<column>)",
-          "excerpt": "Returns the current value of the specified column in an outer evaluation pass of the specified column.",
-          "name": "EARLIEST (<column>)",
-          "topics": [
-            "Power BI",
-            "DAX"
-          ],
-          "heat": 50,
-          "type": "article"
-        },
-        {
-          "path": "",
           "title": "ERROR (<text>)",
           "excerpt": "Raises an error with an error message.",
           "name": "ERROR (<text>)",
@@ -700,7 +676,7 @@
           "type": "article"
         }
       ],
-      "size": 4,
+      "size": 2,
       "heat": 140,
       "content": "\r\n",
       "type": "collection"
@@ -828,7 +804,7 @@
             "Power BI",
             "DAX"
           ],
-          "heat": 50,
+          "heat": 51,
           "type": "article"
         },
         {
@@ -972,7 +948,7 @@
             "Power BI",
             "DAX"
           ],
-          "heat": 51,
+          "heat": 50,
           "type": "article"
         },
         {
@@ -1001,9 +977,9 @@
         },
         {
           "path": "",
-          "title": "DATATABLE (ColumnName1, DataType1, ColumnName2, DataType2..., {{Value1, Value2...}, {ValueN, ValueN+1...}...})",
-          "excerpt": "Provides a mechanism for declaring an inline set of data values.",
-          "name": "DATATABLE (ColumnName1, DataType1, ColumnName2, DataType2..., {{Value1, Value2...}, {ValueN, ValueN+1...}...})",
+          "title": "CURRENTGROUP ( )",
+          "excerpt": "Returns a set of rows from the table argument of a GROUPBY expression that belong to the current row of the GROUPBY result.",
+          "name": "CURRENTGROUP ( )",
           "topics": [
             "Power BI",
             "DAX"
@@ -1012,75 +988,19 @@
           "type": "article"
         }
       ],
-      "size": 24,
+      "size": 32,
       "heat": 120,
       "content": "\r\n",
       "type": "collection"
     },
     {
-      "path": "_functions/closingbalancemonth.md",
-      "title": "CLOSINGBALANCEMONTH (<expression>,<dates>[,<filter>])",
-      "excerpt": "Evaluates the expression at the last date of the month in the current context.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/closingbalancemonth/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/closingbalancemonth-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/closingbalancemonth-function-dax",
-      "name": "CLOSINGBALANCEMONTH (<expression>,<dates>[,<filter>])",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 54,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/calendar.md",
-      "title": "CALENDAR (<start_date>, <end_date>)",
-      "excerpt": "Returns a table with a single column named \"Date\" that contains a contiguous set of dates. The range of dates is from the specified start date to the specified end date, inclusive of those two dates.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/calendar/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/calendar-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/calendar-function-dax",
-      "name": "CALENDAR (<start_date>, <end_date>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 53,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/calendarauto.md",
-      "title": "CALENDARAUTO ([fiscal_year_end_month])",
-      "excerpt": "Returns a table with a single column named \"Date\" that contains a contiguous set of dates. The range of dates is calculated automatically based on data in the model.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/calendarauto/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/calendarauto-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/calendarauto-function-dax",
-      "name": "CALENDARAUTO ([fiscal_year_end_month])",
+      "path": "_functions/allselected.md",
+      "title": "ALLSELECTED ( [<tableName> | <columnName>[, <columnName>[, <columnName>[,…]]]] )",
+      "excerpt": "Removes context filters from columns and rows in the current query, while retaining all other context filters or explicit filters.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/allselected/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/allselected-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/allselected-function-dax",
+      "name": "ALLSELECTED ( [<tableName> | <columnName>[, <columnName>[, <columnName>[,…]]]] )",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -1102,13 +1022,13 @@
       "type": "article"
     },
     {
-      "path": "_functions/combinevalues.md",
-      "title": "COMBINEVALUES (<delimiter>, <expression>, <expression>[, <expression>]…)",
-      "excerpt": "Joins two or more text strings into one text string. The primary purpose of this function is to support multi-column relationships in DirectQuery models. See Remarks for details.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/combinevalues/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/combinevalues-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/combinevalues-function-dax",
-      "name": "COMBINEVALUES (<delimiter>, <expression>, <expression>[, <expression>]…)",
+      "path": "_functions/keepfilters.md",
+      "title": "KEEPFILTERS (<expression>)",
+      "excerpt": "Modifies how filters are applied while evaluating a CALCULATE or CALCULATETABLE function.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/keepfilters/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/keepfilters-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/keepfilters-function-dax",
+      "name": "KEEPFILTERS (<expression>)",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -1130,41 +1050,13 @@
       "type": "article"
     },
     {
-      "path": "_functions/datediff.md",
-      "title": "DATEDIFF (<start_date>, <end_date>, <interval>)",
-      "excerpt": "Returns the count of interval boundaries crossed between two dates.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/datediff/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/datediff-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/datediff-function-dax",
-      "name": "DATEDIFF (<start_date>, <end_date>, <interval>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 52,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/addcolumns.md",
-      "title": "ADDCOLUMNS (<table>, <name>, <expression>[, <name>, <expression>]…)",
-      "excerpt": "Adds calculated columns to the given table or table expression.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/addcolumns/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/addcolumns-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/addcolumns-function-dax",
-      "name": "ADDCOLUMNS (<table>, <name>, <expression>[, <name>, <expression>]…)",
+      "path": "_functions/allexcept.md",
+      "title": "ALLEXCEPT (<table>,<column>[,<column>[,…]])",
+      "excerpt": "Removes all context filters in the table except filters that have been applied to the specified columns.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/allexcept/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/allexcept-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/allexcept-function-dax",
+      "name": "ALLEXCEPT (<table>,<column>[,<column>[,…]])",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -1186,69 +1078,13 @@
       "type": "article"
     },
     {
-      "path": "_functions/calculate.md",
-      "title": "CALCULATE (<expression>[, <filter1> [, <filter2> [, …]]])",
-      "excerpt": "Evaluates an expression in a modified filter context.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/calculate/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/calculate-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/calculate-function-dax",
-      "name": "CALCULATE (<expression>[, <filter1> [, <filter2> [, …]]])",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 51,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/concatenate.md",
-      "title": "CONCATENATE (<text1>, <text2>)",
-      "excerpt": "Joins two text strings into one text string.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/concatenate/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/concatenate-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/concatenate-function-dax",
-      "name": "CONCATENATE (<text1>, <text2>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 51,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/dateadd.md",
-      "title": "DATEADD (<dates>,<number_of_intervals>,<interval>)",
-      "excerpt": "Returns a table that contains a column of dates, shifted either forward or backward in time by the specified number of intervals from the dates in the current context.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/dateadd/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/dateadd-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/dateadd-function-dax",
-      "name": "DATEADD (<dates>,<number_of_intervals>,<interval>)",
+      "path": "_functions/related.md",
+      "title": "RELATED (<column>)",
+      "excerpt": "Returns a related value from another table.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/related/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/related-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/related-function-dax",
+      "name": "RELATED (<column>)",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -1333,6 +1169,146 @@
       "webUrl": "https://docs.microsoft.com/en-us/dax/accrintm-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/accrintm-function-dax",
       "name": "ACCRINTM (<issue>, <maturity>, <rate>, <par>[, <basis>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/acos.md",
+      "title": "ACOS (number)",
+      "excerpt": "Returns the arccosine, or inverse cosine, of a number. The arccosine is the angle whose cosine is number. The returned angle is given in radians in the range 0 (zero) to pi.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/acos/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/acos-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/acos-function-dax",
+      "name": "ACOS (number)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/acosh.md",
+      "title": "ACOSH (number)",
+      "excerpt": "Returns the inverse hyperbolic cosine of a number. The number must be greater than or equal to 1. The inverse hyperbolic cosine is the value whose hyperbolic cosine is number, so ACOSH(COSH(number)) equals number.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/acosh/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/acosh-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/acosh-function-dax",
+      "name": "ACOSH (number)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/acot.md",
+      "title": "ACOT (number)",
+      "excerpt": "Returns the principal value of the arccotangent, or inverse cotangent of a number.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/acot/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/acot-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/acot-function-dax",
+      "name": "ACOT (number)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/addcolumns.md",
+      "title": "ADDCOLUMNS (<table>, <name>, <expression>[, <name>, <expression>]…)",
+      "excerpt": "Adds calculated columns to the given table or table expression.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/addcolumns/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/addcolumns-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/addcolumns-function-dax",
+      "name": "ADDCOLUMNS (<table>, <name>, <expression>[, <name>, <expression>]…)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/addmissingitems.md",
+      "title": "ADDMISSINGITEMS (<showAllColumn>[, <showAllColumn>]…, <table>, <groupingColumn>[, <groupingColumn>]…[, filterTable]…)",
+      "excerpt": "Adds combinations of items from multiple columns to a table if they do not already exist. The determination of which item combinations to add is based on referencing source columns which contain all the possible values for the columns.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/addmissingitems/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/addmissingitems-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/addmissingitems-function-dax",
+      "name": "ADDMISSINGITEMS (<showAllColumn>[, <showAllColumn>]…, <table>, <groupingColumn>[, <groupingColumn>]…[, filterTable]…)",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",

@@ -14,7 +14,7 @@ provider:
 
 items:
   - contains
-  - containsrow
+  - containsrow-function
   - containsstring
   - containsstringexact
   - customdata
@@ -33,7 +33,9 @@ items:
   - isodd
   - isonorafter
   - isselectedmeasure
+  - issubtotal
   - istext
+  - nonvisual
   - selectedmeasure
   - selectedmeasureformatstring
   - selectedmeasurename

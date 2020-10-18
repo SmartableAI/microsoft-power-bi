@@ -4,6 +4,118 @@
   "page": 5,
   "value": [
     {
+      "path": "_functions/datesytd.md",
+      "title": "DATESYTD (<dates> [,<year_end_date>])",
+      "excerpt": "Returns a table that contains a column of the dates for the year to date, in the current context.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/datesytd/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/datesytd-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/datesytd-function-dax",
+      "name": "DATESYTD (<dates> [,<year_end_date>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/datevalue.md",
+      "title": "DATEVALUE (date_text)",
+      "excerpt": "Converts a date in text format to a date in datetime format.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/datevalue/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/datevalue-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/datevalue-function-dax",
+      "name": "DATEVALUE (date_text)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/day.md",
+      "title": "DAY (<date>)",
+      "excerpt": "Returns the day of the month, a number from 1 to 31.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/day/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/day-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/day-function-dax",
+      "name": "DAY (<date>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/db.md",
+      "title": "DB (<cost>, <salvage>, <life>, <period>[, <month>])",
+      "excerpt": "Returns the depreciation of an asset for a specified period using the fixed-declining balance method.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/db/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/db-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/db-function-dax",
+      "name": "DB (<cost>, <salvage>, <life>, <period>[, <month>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
       "path": "_functions/ddb.md",
       "title": "DDB (<cost>, <salvage>, <life>, <period>[, <factor>])",
       "excerpt": "Returns the depreciation of an asset for a specified period using the double-declining balance method or some other method you specify.",
@@ -39,6 +151,34 @@
       "webUrl": "https://docs.microsoft.com/en-us/dax/degrees-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/degrees-function-dax",
       "name": "DEGREES (angle)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/detailrows.md",
+      "title": "DETAILROWS([Measure])",
+      "excerpt": "Evaluates a Detail Rows Expression defined for a measure and returns the data.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/detailrows/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/detailrows-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/detailrows-function-dax",
+      "name": "DETAILROWS([Measure])",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -543,146 +683,6 @@
       "webUrl": "https://docs.microsoft.com/en-us/dax/error-function",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/error-function",
       "name": "ERROR (<text>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/even.md",
-      "title": "EVEN (number)",
-      "excerpt": "Returns number rounded up to the nearest even integer. You can use this function for processing items that come in twos. For example, a packing crate accepts rows of one or two items. The crate is full when the number of items, rounded up to the nearest two, matches the crate's capacity.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/even/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/even-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/even-function-dax",
-      "name": "EVEN (number)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/exact.md",
-      "title": "EXACT (<text1>,<text2>)",
-      "excerpt": "Compares two text strings and returns TRUE if they are exactly the same, FALSE otherwise. EXACT is case-sensitive but ignores formatting differences. You can use EXACT to test text being entered into a document.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/exact/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/exact-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/exact-function-dax",
-      "name": "EXACT (<text1>,<text2>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/except.md",
-      "title": "EXCEPT (<table_expression1>, <table_expression2>",
-      "excerpt": "Returns the rows of one table which do not appear in another table.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/except/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/except-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/except-function-dax",
-      "name": "EXCEPT (<table_expression1>, <table_expression2>",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/exp.md",
-      "title": "EXP (<number>)",
-      "excerpt": "Returns e raised to the power of a given number. The constant e equals 2.71828182845904, the base of the natural logarithm.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/exp/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/exp-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/exp-function-dax",
-      "name": "EXP (<number>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/expondist.md",
-      "title": "EXPON.DIST (x,lambda,cumulative)",
-      "excerpt": "Returns the exponential distribution. Use EXPON.DIST to model the time between events, such as how long an automated bank teller takes to deliver cash. For example, you can use EXPON.DIST to determine the probability that the process takes at most 1 minute.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/expondist/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/expon-dist-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/expon-dist-function-dax",
-      "name": "EXPON.DIST (x,lambda,cumulative)",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",

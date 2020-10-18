@@ -4,6 +4,370 @@
   "page": 12,
   "value": [
     {
+      "path": "_functions/userprincipalname.md",
+      "title": "USERPRINCIPALNAME ()",
+      "excerpt": "Returns the user principal name.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/userprincipalname/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/userprincipalname-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/userprincipalname-function-dax",
+      "name": "USERPRINCIPALNAME ()",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/utcnow.md",
+      "title": "UTCNOW()",
+      "excerpt": "Returns the current UTC date and time.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/utcnow/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/utcnow-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/utcnow-function-dax",
+      "name": "UTCNOW()",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/utctoday.md",
+      "title": "UTCTODAY()",
+      "excerpt": "Returns the current UTC date.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/utctoday/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/utctoday-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/utctoday-function-dax",
+      "name": "UTCTODAY()",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/value.md",
+      "title": "VALUE (<text>)",
+      "excerpt": "Converts a text string that represents a number to a number.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/value/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/value-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/value-function-dax",
+      "name": "VALUE (<text>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/values.md",
+      "title": "VALUES (<TableNameOrColumnName>)",
+      "excerpt": "When the input parameter is a column name, returns a one-column table that contains the distinct values from the specified column. Duplicate values are removed and only unique values are returned. A BLANK value can be added. When the input parameter is a table name, returns the rows from the specified table. Duplicate rows are preserved. A BLANK row can be added.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/values/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/values-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/values-function-dax",
+      "name": "VALUES (<TableNameOrColumnName>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/varp.md",
+      "title": "VAR.P (<columnName>)",
+      "excerpt": "Returns the variance of the entire population.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/varp/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/var-p-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/var-p-function-dax",
+      "name": "VAR.P (<columnName>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/vars.md",
+      "title": "VAR.S (<columnName>)",
+      "excerpt": "Returns the variance of a sample population.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/vars/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/var-s-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/var-s-function-dax",
+      "name": "VAR.S (<columnName>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/varxp.md",
+      "title": "VARX.P (<table>, <expression>)",
+      "excerpt": "Returns the variance of the entire population.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/varxp/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/varx-p-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/varx-p-function-dax",
+      "name": "VARX.P (<table>, <expression>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/varxs.md",
+      "title": "VARX.S (<table>, <expression>)",
+      "excerpt": "Returns the variance of a sample population.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/varxs/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/varx-s-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/varx-s-function-dax",
+      "name": "VARX.S (<table>, <expression>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/vdb.md",
+      "title": "VDB (<cost>, <salvage>, <life>, <start_period>, <end_period>[, <factor>[, <no_switch>]])",
+      "excerpt": "Returns the depreciation of an asset for any period you specify, including partial periods, using the double-declining balance method or some other method you specify. VDB stands for variable declining balance.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/vdb/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/vdb-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/vdb-function-dax",
+      "name": "VDB (<cost>, <salvage>, <life>, <start_period>, <end_period>[, <factor>[, <no_switch>]])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/weekday.md",
+      "title": "WEEKDAY (<date>, <return_type>)",
+      "excerpt": "Returns a number from 1 to 7 identifying the day of the week of a date. By default the day ranges from 1 (Sunday) to 7 (Saturday).",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/weekday/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/weekday-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/weekday-function-dax",
+      "name": "WEEKDAY (<date>, <return_type>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/weeknum.md",
+      "title": "WEEKNUM (<date>, <return_type>)",
+      "excerpt": "Returns the week number for the given date and year according to the return_type value. The week number indicates where the week falls numerically within a year.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/weeknum/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/weeknum-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/weeknum-function-dax",
+      "name": "WEEKNUM (<date>, <return_type>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/xirr.md",
+      "title": "XIRR (<table>, <values>, <dates>, [guess])",
+      "excerpt": "Returns the internal rate of return for a schedule of cash flows that is not necessarily periodic.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/xirr/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/xirr-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/xirr-function-dax",
+      "name": "XIRR (<table>, <values>, <dates>, [guess])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
       "path": "_functions/xnpv.md",
       "title": "XNPV (<table>, <values>, <dates>, <rate>)",
       "excerpt": "Returns the present value for a schedule of cash flows that is not necessarily periodic.",
@@ -171,6 +535,5 @@
       "content": "\r\n",
       "type": "article"
     }
-  ],
-  "nextPage": 13
+  ]
 }

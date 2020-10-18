@@ -4,6 +4,174 @@
   "page": 8,
   "value": [
     {
+      "path": "_functions/lastdate.md",
+      "title": "LASTDATE (<dates>)",
+      "excerpt": "Returns the last date in the current context for the specified column of dates.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/lastdate/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/lastdate-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/lastdate-function-dax",
+      "name": "LASTDATE (<dates>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/lastnonblank.md",
+      "title": "LASTNONBLANK (<column>,<expression>)",
+      "excerpt": "Returns the last value in the column, column, filtered by the current context, where the expression is not blank.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/lastnonblank/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/lastnonblank-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/lastnonblank-function-dax",
+      "name": "LASTNONBLANK (<column>,<expression>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/lcm.md",
+      "title": "LCM (number1, [number2], ...)",
+      "excerpt": "Returns the least common multiple of integers. The least common multiple is the smallest positive integer that is a multiple of all integer arguments number1, number2, and so on. Use LCM to add fractions with different denominators.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/lcm/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/lcm-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/lcm-function-dax",
+      "name": "LCM (number1, [number2], ...)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/left.md",
+      "title": "LEFT (<text>, <num_chars>)",
+      "excerpt": "Returns the specified number of characters from the start of a text string.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/left/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/left-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/left-function-dax",
+      "name": "LEFT (<text>, <num_chars>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/len.md",
+      "title": "LEN (<text>)",
+      "excerpt": "Returns the number of characters in a text string.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/len/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/len-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/len-function-dax",
+      "name": "LEN (<text>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/ln.md",
+      "title": "LN (<number>)",
+      "excerpt": "Returns the natural logarithm of a number. Natural logarithms are based on the constant e (2.71828182845904).",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/ln/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/ln-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/ln-function-dax",
+      "name": "LN (<number>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
       "path": "_functions/log.md",
       "title": "LOG (<number>,<base>)",
       "excerpt": "Returns the logarithm of a number to the base you specify.",
@@ -515,174 +683,6 @@
       "webUrl": "https://docs.microsoft.com/en-us/dax/naturalleftouterjoin-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/naturalleftouterjoin-function-dax",
       "name": "NATURALLEFTOUTERJOIN (<leftJoinTable>, <rightJoinTable>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/nextday.md",
-      "title": "NEXTDAY (<dates>)",
-      "excerpt": "Returns a table that contains a column of all dates from the next day, based on the first date specified in the dates column in the current context.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/nextday/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/nextday-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/nextday-function-dax",
-      "name": "NEXTDAY (<dates>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/nextmonth.md",
-      "title": "NEXTMONTH (<dates>)",
-      "excerpt": "Returns a table that contains a column of all dates from the next month, based on the first date in the dates column in the current context.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/nextmonth/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/nextmonth-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/nextmonth-function-dax",
-      "name": "NEXTMONTH (<dates>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/nextquarter.md",
-      "title": "NEXTQUARTER (<dates>)",
-      "excerpt": "Returns a table that contains a column of all dates in the next quarter, based on the first date specified in the dates column, in the current context.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/nextquarter/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/nextquarter-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/nextquarter-function-dax",
-      "name": "NEXTQUARTER (<dates>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/nextyear.md",
-      "title": "NEXTYEAR (<dates>[,<year_end_date>])",
-      "excerpt": "Returns a table that contains a column of all dates in the next year, based on the first date in the dates column, in the current context.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/nextyear/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/nextyear-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/nextyear-function-dax",
-      "name": "NEXTYEAR (<dates>[,<year_end_date>])",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/nominal.md",
-      "title": "NOMINAL (<effect_rate>, <npery>)",
-      "excerpt": "Returns the nominal annual interest rate, given the effective rate and the number of compounding periods per year.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/nominal/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/nominal-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/nominal-function-dax",
-      "name": "NOMINAL (<effect_rate>, <npery>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/normdist.md",
-      "title": "NORM.DIST (X, Mean, Standard_dev, Cumulative)",
-      "excerpt": "Returns the normal distribution for the specified mean and standard deviation.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/normdist/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/norm-dist-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/norm-dist-dax",
-      "name": "NORM.DIST (X, Mean, Standard_dev, Cumulative)",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",

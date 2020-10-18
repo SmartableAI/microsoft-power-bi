@@ -4,6 +4,202 @@
   "page": 9,
   "value": [
     {
+      "path": "_functions/nextday.md",
+      "title": "NEXTDAY (<dates>)",
+      "excerpt": "Returns a table that contains a column of all dates from the next day, based on the first date specified in the dates column in the current context.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/nextday/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/nextday-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/nextday-function-dax",
+      "name": "NEXTDAY (<dates>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/nextmonth.md",
+      "title": "NEXTMONTH (<dates>)",
+      "excerpt": "Returns a table that contains a column of all dates from the next month, based on the first date in the dates column in the current context.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/nextmonth/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/nextmonth-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/nextmonth-function-dax",
+      "name": "NEXTMONTH (<dates>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/nextquarter.md",
+      "title": "NEXTQUARTER (<dates>)",
+      "excerpt": "Returns a table that contains a column of all dates in the next quarter, based on the first date specified in the dates column, in the current context.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/nextquarter/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/nextquarter-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/nextquarter-function-dax",
+      "name": "NEXTQUARTER (<dates>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/nextyear.md",
+      "title": "NEXTYEAR (<dates>[,<year_end_date>])",
+      "excerpt": "Returns a table that contains a column of all dates in the next year, based on the first date in the dates column, in the current context.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/nextyear/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/nextyear-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/nextyear-function-dax",
+      "name": "NEXTYEAR (<dates>[,<year_end_date>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/nominal.md",
+      "title": "NOMINAL (<effect_rate>, <npery>)",
+      "excerpt": "Returns the nominal annual interest rate, given the effective rate and the number of compounding periods per year.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/nominal/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/nominal-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/nominal-function-dax",
+      "name": "NOMINAL (<effect_rate>, <npery>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/nonvisual.md",
+      "title": "NONVISUAL(<expression>)",
+      "excerpt": "Marks a value filter in a SUMMARIZECOLUMNS expression as non-visual. This function can only be used within a SUMMARIZECOLUMNS expression.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/nonvisual/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/nonvisual-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/nonvisual-function-dax",
+      "name": "NONVISUAL(<expression>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/normdist.md",
+      "title": "NORM.DIST (X, Mean, Standard_dev, Cumulative)",
+      "excerpt": "Returns the normal distribution for the specified mean and standard deviation.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/normdist/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/norm-dist-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/norm-dist-dax",
+      "name": "NORM.DIST (X, Mean, Standard_dev, Cumulative)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
       "path": "_functions/norminv.md",
       "title": "NORM.INV (Probability, Mean, Standard_dev)",
       "excerpt": "The inverse of the normal cumulative distribution for the specified mean and standard deviation.",
@@ -487,202 +683,6 @@
       "webUrl": "https://docs.microsoft.com/en-us/dax/pathcontains-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/pathcontains-function-dax",
       "name": "PATHCONTAINS (<path>, <item>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/pathitem.md",
-      "title": "PATHITEM (<path>, <position>[, <type>])",
-      "excerpt": "Returns the item at the specified position from a string resulting from evaluation of a PATH function. Positions are counted from left to right.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/pathitem/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/pathitem-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/pathitem-function-dax",
-      "name": "PATHITEM (<path>, <position>[, <type>])",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/pathitemreverse.md",
-      "title": "PATHITEMREVERSE (<path>, <position>[, <type>])",
-      "excerpt": "Returns the item at the specified position from a string resulting from evaluation of a PATH function. Positions are counted backwards from right to left.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/pathitemreverse/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/pathitemreverse-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/pathitemreverse-function-dax",
-      "name": "PATHITEMREVERSE (<path>, <position>[, <type>])",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/pathlength.md",
-      "title": "PATHLENGTH (<path>)",
-      "excerpt": "Returns the number of parents to the specified item in a given PATH result, including self.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/pathlength/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/pathlength-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/pathlength-function-dax",
-      "name": "PATHLENGTH (<path>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/pduration.md",
-      "title": "PDURATION (<rate>, <pv>, <fv>)",
-      "excerpt": "Returns the number of periods required by an investment to reach a specified value.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/pduration/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/pduration-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/pduration-function-dax",
-      "name": "PDURATION (<rate>, <pv>, <fv>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/percentileexc.md",
-      "title": "PERCENTILE.EXC (<column>, <k>)",
-      "excerpt": "Returns the k-th percentile of values in a range, where k is in the range 0..1, exclusive.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/percentileexc/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/percentile-exc-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/percentile-exc-function-dax",
-      "name": "PERCENTILE.EXC (<column>, <k>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/percentileinc.md",
-      "title": "PERCENTILE.INC (<column>, <k>)",
-      "excerpt": "Returns the k-th percentile of values in a range, where k is in the range 0..1, inclusive.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/percentileinc/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/percentile-inc-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/percentile-inc-function-dax",
-      "name": "PERCENTILE.INC (<column>, <k>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/percentilexexc.md",
-      "title": "PERCENTILEX.EXC (<table>, <expression>, k)",
-      "excerpt": "Returns the percentile number of an expression evaluated for each row in a table.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/percentilexexc/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/percentilex-exc-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/percentilex-exc-function-dax",
-      "name": "PERCENTILEX.EXC (<table>, <expression>, k)",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",

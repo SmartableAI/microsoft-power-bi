@@ -4,90 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_functions/chisqdist.md",
-      "title": "CHISQ.DIST (<x>, <deg_freedom>, <cumulative>)",
-      "excerpt": "Returns the chi-squared distribution.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/chisqdist/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/chisq-dist-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/chisq-dist-function-dax",
-      "name": "CHISQ.DIST (<x>, <deg_freedom>, <cumulative>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/chisqdistrt.md",
-      "title": "CHISQ.DIST.RT (<x>, <deg_freedom>)",
-      "excerpt": "Returns the right-tailed probability of the chi-squared distribution.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/chisqdistrt/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/chisq-dist-rt-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/chisq-dist-rt-function-dax",
-      "name": "CHISQ.DIST.RT (<x>, <deg_freedom>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/chisqinv.md",
-      "title": "CHISQ.INV (probability,deg_freedom)",
-      "excerpt": "Returns the inverse of the left-tailed probability of the chi-squared distribution.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/chisqinv/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/chisq-inv-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/chisq-inv-function-dax",
-      "name": "CHISQ.INV (probability,deg_freedom)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
       "path": "_functions/chisqinvrt.md",
       "title": "CHISQ.INV.RT (probability,deg_freedom)",
       "excerpt": "Returns the inverse of the right-tailed probability of the chi-squared distribution.",
@@ -95,6 +11,34 @@
       "webUrl": "https://docs.microsoft.com/en-us/dax/chisq-inv-rt-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/chisq-inv-rt-function-dax",
       "name": "CHISQ.INV.RT (probability,deg_freedom)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/closingbalancemonth.md",
+      "title": "CLOSINGBALANCEMONTH (<expression>,<dates>[,<filter>])",
+      "excerpt": "Evaluates the expression at the last date of the month in the current context.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/closingbalancemonth/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/closingbalancemonth-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/closingbalancemonth-function-dax",
+      "name": "CLOSINGBALANCEMONTH (<expression>,<dates>[,<filter>])",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -284,6 +228,62 @@
       "type": "article"
     },
     {
+      "path": "_functions/combinevalues.md",
+      "title": "COMBINEVALUES (<delimiter>, <expression>, <expression>[, <expression>]…)",
+      "excerpt": "Joins two or more text strings into one text string. The primary purpose of this function is to support multi-column relationships in DirectQuery models. See Remarks for details.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/combinevalues/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/combinevalues-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/combinevalues-function-dax",
+      "name": "COMBINEVALUES (<delimiter>, <expression>, <expression>[, <expression>]…)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/concatenate.md",
+      "title": "CONCATENATE (<text1>, <text2>)",
+      "excerpt": "Joins two text strings into one text string.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/concatenate/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/concatenate-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/concatenate-function-dax",
+      "name": "CONCATENATE (<text1>, <text2>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
       "path": "_functions/concatenatex.md",
       "title": "CONCATENATEX (<table>, <expression>, [delimiter])",
       "excerpt": "Concatenates the result of an expression evaluated for each row in a table.",
@@ -375,6 +375,34 @@
       "webUrl": "https://docs.microsoft.com/en-us/dax/contains-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/contains-function-dax",
       "name": "CONTAINS (<table>, <columnName>, <value>[, <columnName>, <value>]…)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/containsrow-function.md",
+      "title": "CONTAINSROW(<tableExpr>, <scalarExpr>[, <scalarExpr>, …])",
+      "excerpt": "Returns TRUE if a row of values exists or contained in a table, otherwise returns FALSE.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/containsrow-function/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/containsrow-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/containsrow-function-dax",
+      "name": "CONTAINSROW(<tableExpr>, <scalarExpr>[, <scalarExpr>, …])",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -655,34 +683,6 @@
       "webUrl": "https://docs.microsoft.com/en-us/dax/counta-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/counta-function-dax",
       "name": "COUNTA (<column>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/countax.md",
-      "title": "COUNTAX (<table>,<expression>)",
-      "excerpt": "The COUNTAX function counts nonblank results when evaluating the result of an expression over a table. That is, it works just like the COUNTA function, but is used to iterate through the rows in a table and count rows where the specified expressions results in a non-blank result.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/functions/countax/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/countax-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/countax-function-dax",
-      "name": "COUNTAX (<table>,<expression>)",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",

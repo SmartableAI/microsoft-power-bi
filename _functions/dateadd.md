@@ -4,7 +4,7 @@ excerpt: "Returns a table that contains a column of dates, shifted either forwar
 originalUrl: https://docs.microsoft.com/en-us/dax/dateadd-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/dateadd-function-dax
 type: article
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft
