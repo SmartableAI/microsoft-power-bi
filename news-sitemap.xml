@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://smartable.ai/apps/powerbi/news/2020-10-19-new-gateway-power-bi-data-source-management-and-more-roundup-october-19-2020/</loc>
+    <lastmod>2020-10-19T08:00:07-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://smartable.ai/apps/powerbi/news/2020-09-28-power-bi-announcements-from-microsoft-ignite-roundup-sept-28-2020/</loc>
     <lastmod>2020-09-28T08:00:31-07:00</lastmod>
     <changefreq>hourly</changefreq>
