@@ -73,8 +73,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-models/",
           "length": "PT20M",
           "ratings": {
-            "count": 324,
-            "average": 4.737654
+            "count": 325,
+            "average": 4.7384615
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -305,8 +305,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 13513,
-        "average": 4.6965885
+        "count": 13514,
+        "average": 4.696611
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -543,8 +543,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-models/",
       "length": "PT20M",
       "ratings": {
-        "count": 324,
-        "average": 4.737654
+        "count": 325,
+        "average": 4.7384615
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1304,8 +1304,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-iterator-functions/",
       "length": "PT12M",
       "ratings": {
-        "count": 106,
-        "average": 4.6981134
+        "count": 107,
+        "average": 4.7009344
       },
       "provider": {
         "name": "Microsoft Learn",
