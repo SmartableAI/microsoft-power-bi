@@ -2,6 +2,7 @@
 title: "Evaluation of variables in DAX"
 excerpt: "Variables in DAX are constants, and this could be very confusing! Watch this video to understand how the evaluation of variables works in DAX. How to learn DAX: https://www.sqlbi.com/guides/dax/ The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/"
 originalUrl: https://youtube.com/watch?v=71ERlpfhmwU
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/sqlbi-evaluation-of-variables-in-dax/
 type: video
 price: Free
 length: PT3M26S
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "RPyQ2ORevm6OGmsZu+hjBWDjWYKsg2Fz8C51CZ8JGCOc1P8b5xwWYCljckNhwWFYeIGKeMBDJ6s/e70VHBeGS4t9dimqWWY0QDOSDM+mt6Pcil5GMPjQOQJvaBYjmIiolKvK8OXRD2oucn1APqHIzVS0oV4/fxynHY788EXfMgvU3772OJx5WRGse6uCp7/Vc+oHGK65mcjy+RVWCKnLN+DryNve+KY3NEJJDLY8OhOKAJieoaJLwVE68NvL3KgLzKXXcHlp1hxIteEUpQtaReoK3sNPNa0EMJ9vgcmppwI5oBJdy1B8Amv8dL4tJj4CKK1L8RnDv/EpjN1qkF7nEMVigV1kUm2FU37OKcoWyOyhs0KZK1eM2z+CuovIkhEn+FI7q/P54WM6kCa9jdcIDg==;qakhIm6wmBkViAbgQHksTA=="
+secured: "S4AWfs3y8zleCGmZUzhq/AI18FyDI2VIwoVmrE0YA1BbT+jJx9dup3UiU5QRJE7aHBSIAQ7+6cwUVrXNNOEFQUbYbEdIcTuXDNYlNZgBIKDHZ47v9qNrnXT/qlc5GiimbSh/UKbPwE41jNvRQK9mVl26GWlmESKiqw3Nx3sfzvOZYaaf6DIBgW8s9UIsJS/ekzdI0ICLdQ0KnHJyvPKXIhCBAfn0q8a4int4SvNlMcofPVn0B5CnrvWpNNVhzbUvV0B3aQ0XFuPVtLdaxPuDWI6xekCTPB5lnVSIlthUoHYNgbR/c78nN3C34sGjYTAvXbULJRgwR5G0pkOVZobVgoUV7uWw5IzRn1qvSrN+gHUVsxxiNTne/nKhhXE4eEJC;2ZzcMiDV9GltluIGd+dbxg=="
 ---
 
