@@ -13,6 +13,7 @@ provider:
       height: 50
 
 items:
+  - videos/sqlbi-evaluation-of-variables-in-dax
   - videos/sqlbi-year-to-date-filtering-weekdays-in-dax
   - videos/sqlbi-measures-vs-calculated-columns-in-dax-and-power-bi
   - videos/sqlbi-computing-totals-by-summing-visible-values-in-dax
@@ -30,7 +31,7 @@ topics:
   - DAX
 
 images:
-  - url: https://i.ytimg.com/vi/JS-K2faCiCc/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/71ERlpfhmwU/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true
