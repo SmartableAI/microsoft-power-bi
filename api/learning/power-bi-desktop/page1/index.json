@@ -323,8 +323,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 13551,
-        "average": 4.696775
+        "count": 13555,
+        "average": 4.6968646
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -507,8 +507,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-models/",
           "length": "PT20M",
           "ratings": {
-            "count": 331,
-            "average": 4.743202
+            "count": 332,
+            "average": 4.743976
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -594,8 +594,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-calculated-tables/",
           "length": "PT19M",
           "ratings": {
-            "count": 161,
-            "average": 4.78882
+            "count": 162,
+            "average": 4.7901235
           },
           "provider": {
             "name": "Microsoft Learn",
