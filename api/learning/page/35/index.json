@@ -4,45 +4,6 @@
   "page": 35,
   "value": [
     {
-      "path": "_learning/videos/curbal-dax-fridays-159-geomean-vs-average-vs-median-calculate-compounded-annual-growth-rate.md",
-      "title": "DAX Fridays #159: GEOMEAN vs AVERAGE vs MEDIAN - Calculate compounded annual growth rate",
-      "excerpt": "Let's calculate the compounded annual growth rate from the example we did last week and while we are at it, go through the difference between average, median and geomean.  Vid from last week: https://www.youtube.com/watch?v=jIb--ImdjNg  Here you can download all the pbix files: https://curbal.com/donwload-center",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-dax-fridays-159-geomean-vs-average-vs-median-calculate-compounded-annual-growth-rate/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-159-geomean-vs-average-vs-median-calculate-compounded-annual-growth-rate/",
-      "originalUrl": "https://youtube.com/watch?v=RIPTAGonO3c",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RIPTAGonO3c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M16S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-01-17T05:04:31-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/RIPTAGonO3c/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/curbal-dax-fridays-160-random-sample-using-dax.md",
       "title": "DAX Fridays 160: Random SAMPLE using DAX",
       "excerpt": "Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1\r \r Our PLAYLISTS:\r - Join our DAX Fridays! Series: https://goo.gl/FtUWUX\r - Power BI dashboards",
@@ -1161,6 +1122,45 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/MgR7r_FK1xE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-58-combinevalues.md",
+      "title": "DAX Fridays! #58: COMBINEVALUES",
+      "excerpt": "In today's video I will show you a DAX function that is not available yet....Go figure!  I learn about this measure here: https://xxlbi.com/blog/new-dax-function-combinevalues/  EXCEL SURVEY: https://1drv.ms/xs/s!Ar8CDNp8cGTcgjaHonN82T8I1jQT  PREVIOUS VIDEO: https://www.youtube.com/watch?v=mxDt81H8hDg",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-dax-fridays-58-combinevalues/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-58-combinevalues/",
+      "originalUrl": "https://youtube.com/watch?v=e8lzj9F7aQg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/e8lzj9F7aQg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M54S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-11-09T22:50:36-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/e8lzj9F7aQg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
