@@ -18,7 +18,7 @@ website: https://t.co/F5FuW6Huqh
 twitter:
   username: patrickdba
   url: https://twitter.com/patrickdba
-  followers: 5652
+  followers: 5655
 
 linkedin:
   url: https://www.linkedin.com/in/patrickdleblanc/
