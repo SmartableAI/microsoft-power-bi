@@ -1,15 +1,13 @@
 ---
 title: "Private video"
 excerpt: "This video is private."
-originalUrl: https://youtube.com/watch?v=GsY378jcbqQ
+originalUrl: https://youtube.com/watch?v=6kBI7AHnMd0
 type: video
 price: Free
-publishedDateTime: 2020-10-16T13:43:34Z
+publishedDateTime: 2020-10-21T11:42:41Z
 heat: 130
-removed: true
-published: false
 
-featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GsY378jcbqQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6kBI7AHnMd0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
   name: Curbal
@@ -21,7 +19,8 @@ provider:
 
 topics:
   - Power BI
+  - DAX
 
-secured: "1Qwp7lORV2eReJoWROZd15xX0VYEc4HNvYUkkhl78zcD775wgVxO0oJgc2dX8yIoKdhyzenWS+vCkxkroC04Vvd4dNzg+XMWVcV+w93P1mMUMg0kZeB9uAVbwPOobO3phxHtPRvz809Z8gSLC2BvehDdMDhzXaaOGAqAC244VAEjL+GlxG6TUQwpLdEtadgPyPeyM2RVfhn+fEYZxSCDniKB4iN8aj1/PEMjNVfO4yKH3k4/PnYEh7el7BSplWv17GPTl4rWWYWqViU6z3KASpF8ZNWb6C7uRYEq8p4DWELXHCw4R/J4zW8yEvlTOKCdBgYQqbwVVlYXCir6Ia9NpCmVmY9C38DqAAk1YlDNRfU=;jsSI8hGgWPlcztcbTlCOqA=="
+secured: "/g2tEgB8NywJ6pxdKuSRUKCGhi2w2kejKhTrIkG3Y9G45dDS2eqwkAo1GwjsN+NIArHEd+8lMG7FoBCIitu2u12tQ1BgUgBixVQ/Gs4Iu34inBx7ScwD8y3l5BVueadmu9q/OzsuFtG+KlRwsklrY5OvYof4z3UDuJ38UO2eZIFFNdnznZ4SEQ7LaD9EPcJnPEz6yuMXT7i4heOH69DVnNsC9hCsXIsoF6yEiu26frjgSDTdPGE8nGWR1CPPgbWICuBej+KfzCA4GmXcvnB1r3eGKleNZ5dkZihiqX0bZWqJ4/JT/r4ihwlb3dm2qC8lQilJl+zFDLfeTVNKWHPJ3rf4OywlV2n62900dMP/wGw=;Ax8DKSEjJdNcrsmcsf64Tg=="
 ---
 

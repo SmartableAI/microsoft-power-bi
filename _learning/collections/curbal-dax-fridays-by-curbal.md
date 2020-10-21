@@ -215,6 +215,7 @@ items:
   - videos/curbal-dax-fridays-186-calculate-vs-calculatetable
   - videos/curbal-dax-fridays-battle-187-rankx-vs-topn
   - videos/curbal-dax-fridays-battle-188-filter-vs-calculatetable-avoid-using-filter-as-a-filter-argument
+  - videos/curbal-private-video
 
 topics:
   - Power BI
