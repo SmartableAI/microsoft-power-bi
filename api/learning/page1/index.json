@@ -187,44 +187,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-reduce-the-of-measures-with-calculation-groups-in-power-bi.md",
-      "title": "REDUCE the # of measures with Calculation Groups In Power BI",
-      "excerpt": "Sometimes you end up with a LOT of measures that are related. You can reduce the number of measures with Calculation Groups in Power BI and clean up your field list!  Download Sample: https://guyinacu.be/calcgroupssample  📢 Become a member: https://guyinacu.be/membership   *******************  Want",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-reduce-the-of-measures-with-calculation-groups-in-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-reduce-the-of-measures-with-calculation-groups-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=vlnx7QUVYME",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vlnx7QUVYME\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M24S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-08-05T08:00:14-07:00",
-      "heat": 153,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/vlnx7QUVYME/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/learn-power-bi-the-missing-step-to-master-power-bi-skip-this-at-your-own-risk-.md",
       "title": "The Missing Step to Master Power BI (Skip This At Your Own Risk! ☠️)",
       "excerpt": "How can you master Power BI? Even though there are 1000s of videos and training lessons available for Power BI…you may be still struggling to master Power BI.  It’s possible that you are missing a crucial step in learning Power BI.  In this second part of our video series on “5 Steps to Master Power",
@@ -416,6 +378,82 @@
       ]
     },
     {
+      "path": "_learning/videos/curbal-making-some-things-transparent-in-power-bi.md",
+      "title": "Making (some) things transparent in Power BI",
+      "excerpt": "Did you know that you can set transparency as a \"color\" in Power BI ? In this video I will show you how to do it together with an example of why it is useful.  Enjoy\"  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-making-some-things-transparent-in-power-bi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-making-some-things-transparent-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=FcxrJ10RRIg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FcxrJ10RRIg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M59S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-09-16T02:05:37-07:00",
+      "heat": 131,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/FcxrJ10RRIg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-create-a-link-to-a-power-bi-report-with-external-tools-functionality.md",
+      "title": "Create a link to a Power BI report with External tools functionality",
+      "excerpt": "The external tools functionality in Power BI allows you to launch external applications from Power BI Desktop.  In today's video, I will show you how you can do to launch a Power BI report.  Link to the JSON and pbix file:  Community files - download 62: https://curbal.com/donwload-center\r \r SUBSCRIBE",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-create-a-link-to-a-power-bi-report-with-external-tools-functionality/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-create-a-link-to-a-power-bi-report-with-external-tools-functionality/",
+      "originalUrl": "https://youtube.com/watch?v=PDQG9nacIvk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PDQG9nacIvk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M59S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-09-14T04:51:48-07:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/PDQG9nacIvk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-private-video.md",
       "title": "Private video",
       "excerpt": "This video is private.",
@@ -437,37 +475,6 @@
       },
       "publishedDateTime": "2020-10-21T04:42:41-07:00",
       "heat": 130,
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-dax-measure-in-the-axis-of-the-power-bi-report.md",
-      "title": "DAX Measure in the Axis of the Power BI Report",
-      "excerpt": "If you even need to show your DAX measures in a chart without a dimension to slice and dice it, you won’t get a great experience in the visual. In this video, I’ll share a trick that you can use to have a nice visualization like what you see in the above screenshot. Download the file and study more from",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-dax-measure-in-the-axis-of-the-power-bi-report/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-dax-measure-in-the-axis-of-the-power-bi-report/",
-      "originalUrl": "https://youtube.com/watch?v=CRs2CnW7tVU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CRs2CnW7tVU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M35S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-08-18T15:30:39-07:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/CRs2CnW7tVU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
       "content": "\r\n",
       "type": "video",
       "price": "Free",
@@ -706,6 +713,48 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-introduction-power-platform.md",
+      "title": "Introduction to Power Platform",
+      "excerpt": "Introduction to Power Platform",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-introduction-power-platform/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform/",
+      "length": "PT21M",
+      "ratings": {
+        "count": 13872,
+        "average": 4.712875
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 99,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-power-platform-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-what-is-power-bi.md",
       "title": "What is Power BI?",
       "excerpt": "In this video, Adam looks at what is Power BI. While people may see bits and pieces of Power BI, they may not understand holistically what Power BI is. From Power BI Desktop to the Power BI service and the mobile app, Power BI is a full suite of tools for your visualization and reporting needs.  Power",
@@ -739,48 +788,6 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-introduction-power-platform.md",
-      "title": "Introduction to Power Platform",
-      "excerpt": "Introduction to Power Platform",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-introduction-power-platform/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform/",
-      "length": "PT21M",
-      "ratings": {
-        "count": 13866,
-        "average": 4.712823
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 98,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-power-platform-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
       "price": "Free",
       "topics": [
         "Power BI"
@@ -1086,8 +1093,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 4087,
-            "average": 4.7707367
+            "count": 4090,
+            "average": 4.7709045
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1128,8 +1135,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 20476,
-            "average": 4.735739
+            "count": 20479,
+            "average": 4.735729
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1188,8 +1195,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 4087,
-        "average": 4.7707367
+        "count": 4090,
+        "average": 4.7709045
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1230,8 +1237,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 20476,
-        "average": 4.735739
+        "count": 20479,
+        "average": 4.735729
       },
       "provider": {
         "name": "Microsoft Learn",
