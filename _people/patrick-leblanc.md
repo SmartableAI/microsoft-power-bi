@@ -3,7 +3,7 @@ name: "Patrick LeBlanc"
 bio: "Patrick LeBlanc is a currently a Principal Program Manager at Microsoft and a contributing partner to Guy in a Cube. Along with his 15+ years’ experience in IT he holds a Masters of Science degree from Louisiana State University. He is the author and co-author of five SQL Server books. Prior to joining Microsoft he was awarded Microsoft MVP award for his contributions to the community. Patrick is a regular speaker at many SQL Server Conferences and Community events."
 location: Alpharetta, GA
 type: "profile"
-heat: 65
+heat: 93
 
 affiliation:
   name: Microsoft
@@ -18,7 +18,7 @@ website: https://t.co/F5FuW6Huqh
 twitter:
   username: patrickdba
   url: https://twitter.com/patrickdba
-  followers: 5660
+  followers: 5659
 
 linkedin:
   url: https://www.linkedin.com/in/patrickdleblanc/
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Patrick LeBlanc"
 
-secured: "Xd/spOISZeMtH4pywNuAmCRu++cwY8P5JCShAuIFowQplQxGIRUmkhMoOteUMnzyFLOnwBlu+Yt6ELt5G1iCgPsp4SKRzp76LLTVBTjMJLgjZIasDoHsjS0Ymde4p2AEZcPwfxMSyFBxUHH3L82duxpt3YrO4FtZ6yr97SjzWeTkrPzfIB5eL/6QQ4kM57VIaXc/aeoKs9Zj+xiY1NmLNJd25eHn7Ghb0MEh/i7pK+rSZSWDR+IgfZr/OSvmCdWCm1eeh63Cc5kv1UHOq1wxDyrQNgbVf628br385NOkEVMNUJAg/8Juqr1nRVYqujOGhYG2iIcQwCApS+LEzxIZIgi5y1qfcnuiaxUJDcIacAfNZAqqiXjCuQuKWQu2AG5jJ9ISR/XsBsx8GNe++Zb1LGBdhYSk+N/q0TvOUEEfLBk=;TFA1ZNl8Nue8TK6jRlLF4w=="
+secured: "KPv8hfhX39Z+AZ2fgDmhfMH8izlAzMwDx+7JG17eDsZDxCXk8nCOXeIiSh4SXe2e/eBngtf/9oFfaOr6ugVnyJvl5JhPLakg/lh3cCfhlA6LLyG1vm8hMWD9Tm6mvw0n3rYlDrre4DrLZEIdWZ6EYHH/YWW6fhuQpAkF7YO9E6EgSgbuXxOZnbVZ8h9uCsZpsI/hShhuomiosL5IXBFcR8I7JQiCxPXonNVMdPEGeG5u5lbmLg/JdiMmGfEYUj64PSuHMTCPkVnUtmN8MYhRwkhvJANAOmBKqcsEzhM5lMEJWrX/xyXBOaJiq74Fdu+iqgamvVTARXxUHKTV8CbTYGXOLFtifUGz69yFWGHPj4e8VarGcyGSHuyS59TNTZCqFoLerrKDQhNzPlIfLYdfocr6hRJNSIC+s100XA9QXak=;z/C/jeYxM2BF/jfRYWH5VQ=="
 ---
 
