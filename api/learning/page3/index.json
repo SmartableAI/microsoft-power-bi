@@ -903,7 +903,7 @@
             ]
           },
           "publishedDateTime": "2020-10-20T03:00:24-07:00",
-          "heat": 227,
+          "heat": 229,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/71ERlpfhmwU/maxresdefault.jpg",
@@ -1308,8 +1308,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 1487,
-            "average": 4.747814
+            "count": 1489,
+            "average": 4.7474813
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1350,8 +1350,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 1364,
-            "average": 4.7646627
+            "count": 1368,
+            "average": 4.763889
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1807,8 +1807,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 1364,
-        "average": 4.7646627
+        "count": 1368,
+        "average": 4.763889
       },
       "provider": {
         "name": "Microsoft Learn",
