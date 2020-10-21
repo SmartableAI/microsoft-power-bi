@@ -119,36 +119,6 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-create-map-style-nested-chart.md",
-      "title": "Create Map Style nested Chart",
-      "excerpt": "In this short video, I have shown how to create a map style chart with a bar chart or packed scatter chart  or using images",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-create-map-style-nested-chart/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-create-map-style-nested-chart/",
-      "originalUrl": "https://youtube.com/watch?v=DyVGpdUaELY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DyVGpdUaELY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M13S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-10-07T15:27:04-07:00",
-      "heat": 82,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DyVGpdUaELY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-power-bi-paginated-reports-in-a-day.md",
       "title": "Power BI Paginated Reports in a Day",
       "excerpt": "The Power BI Paginated Reports in a Day online course aims to empower you as a report author with the technical knowledge required to create, publish, and distribute Power BI paginated reports. We recommend you watch the videos in the recorded sequence, starting with video 1 and ending with video 24.",
@@ -487,6 +457,36 @@
       ]
     },
     {
+      "path": "_learning/videos/radacad-create-map-style-nested-chart.md",
+      "title": "Create Map Style nested Chart",
+      "excerpt": "In this short video, I have shown how to create a map style chart with a bar chart or packed scatter chart  or using images",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-create-map-style-nested-chart/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-create-map-style-nested-chart/",
+      "originalUrl": "https://youtube.com/watch?v=DyVGpdUaELY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DyVGpdUaELY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M13S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-10-07T15:27:04-07:00",
+      "heat": 80,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DyVGpdUaELY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-introduction-power-bi.md",
       "title": "Introduction to Power BI",
       "excerpt": "Introduction to Power BI",
@@ -494,8 +494,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/",
       "length": "PT31M",
       "ratings": {
-        "count": 4477,
-        "average": 4.7277193
+        "count": 4479,
+        "average": 4.727841
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -985,8 +985,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 13558,
-        "average": 4.696932
+        "count": 13559,
+        "average": 4.6969543
       },
       "provider": {
         "name": "Microsoft Learn",
