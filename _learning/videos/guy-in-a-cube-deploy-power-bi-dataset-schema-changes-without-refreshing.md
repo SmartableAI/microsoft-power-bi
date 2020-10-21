@@ -2,6 +2,7 @@
 title: "Deploy Power BI dataset schema changes WITHOUT refreshing!"
 excerpt: "Think you need to always refresh your Power BI dataset even why just adding a measure? Patrick shows how you can deploy schema changes without needing to perform the refresh with Power BI Premium and the ALM Toolkit.  ALM Toolkit: http://alm-toolkit.com/  📢 Become a member: https://guyinacu.be/membership"
 originalUrl: https://youtube.com/watch?v=s0j6d3UAw9U
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-deploy-power-bi-dataset-schema-changes-without-refreshing/
 type: video
 price: Free
 length: PT13M9S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "jwspiExsPYWD1VxrrXfuHdrqDJmPXMfwWjXv7YRbHaVepgP/qzPPbgoTCuwwjkStsbjTGqJFRV4WUDjXyD+8soPStYOwRVFe/WXbMU6gmnLfmJJi6EWw/QgIvb8kVXMogENE1T81hkfXaPSPytxTh3M1uqRJai+Qo8UXCCjcPi6Fo1KosebyPt9wuLp6S7zOUQKiqw4fhSkpMfzDTV4Re421ZIEGuILjuF1eCQfBcfUJ4gyI4fRDVec9MxWT/RpC8J/LBCycG58kXaIFCzZfCz3QgKvc0qeZd9oN2ltIWRVAk3QXNQaciCCo35pnnwQK4KcOr5sEeIpE7chTe0Aj1L4ffEcXPiO2ApBpPgSYb6Ar8fT+hgRiegg+iAVNNdK75nGPk9M4TBbiEcg7cspKBA==;oN3Dc8gZSJyga4h7YafzmQ=="
+secured: "cT614kdZ8oORDliIz9JSHfvDeJz3yI/HowkYDFMarq2S+hpGUCmHgjGwnK89b3hAUhQrer6ZcOzQLRLPcHiXFO8gLJZiVknqLXxZ1DvW8Lfec4LceluRRPWrkb58R0xCf7gw6ceOvVpvu7UrwKS/yrI3SGroSnqCJn2uoW0Tp9rFxHwltv8TFdwou8xGPGHhq6g20rr2NGNgKtWJgy6yXyWSRkDzDrFvLu27LcF79iGds9e6YYpCQwhCXxVCfaXa1UiRijlydgRLKrUjzEE8MNu/JYhkphSVudXbRvpnrcHGQnt0+w6ici3yc4gcv/KBocwX1LdPOp9vD4iGNU9fcp1WyRfsTRvp+OdBYFD3OTs4of1ZVgXLBlDqepaq4IJsvVX1dV0mIOkDHZ8Tyht0mQ==;hniLYKl7O0gN0TfEWsoBUQ=="
 ---
 
