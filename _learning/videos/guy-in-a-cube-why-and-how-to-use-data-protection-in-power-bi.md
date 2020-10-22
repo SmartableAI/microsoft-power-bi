@@ -2,6 +2,7 @@
 title: "Why and how to use data protection in Power BI"
 excerpt: "Data protection in Power BI can help you to prevent data leakage and have confidence in your data approach. Adam explores the data protection capabilities within Power BI using security labels and cloud app security.  Data Protection documentation overview https://docs.microsoft.com/power-bi/admin/service-security-data-protection-overview"
 originalUrl: https://youtube.com/watch?v=HyfG-0AHdGs
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-why-and-how-to-use-data-protection-in-power-bi/
 type: video
 price: Free
 length: PT8M11S
@@ -27,6 +28,6 @@ images:
     height: 360
     isCached: true
 
-secured: "NQjqT8TYKYxNcOhDYAn2ZOrcrB5YlbF5e93d4bt3a3bfAtqJ2y+Rs5MB/uG9ePSt0k17032ZDR+YtV3i6cgWp8EydWh51USpOGjgh5Y2bY+q1ImtgqN8+U2+KprpZv/bG0Za8/qXtnkWnsi/3D6e7S0zrbduwJfGWot0f4+TGfPuLC3zWW8Vm/mNXdnk2SLDyT/LmCualFDZ/QHTeV5EUcoRCCFeggwnbWi+gA8cqcnPrfkCxPD/fXraA+qqvWY4fj7GNU0au6MCGYvJbTYUv1VklnzoITAkyfDfLHEVVxwMxrD+CLRnrxWqiz9EbUTCSmKup2ZJRPQZmob6xRHOmicHbXf3+hctYUccfLXol2w3DGUB4pNklz2Z9xz1BQB5zOUDWDxw1VsUaq+zGUFU6g==;0HdEXcySj3J8SY7aW+Bv7g=="
+secured: "+UZCjakR2KZahoWaZfBAl289Oi1oQSb3F3b0m994kR51JN08Ql5ugVaAlIzw2p4ydiOlQqSTbycGpMGfhgPjopm76g0YqQdqHwoVIK5P5bD262f+EPMu0bwm3cCgaBCqiHWsxSfUFTCWanJRlX6tjzlzHJeSRROY8esYt3ZuxOHe1XiDm3WsME3doiwCYJ9UiAvANYbiftxZLyv3hB0OhFz1NGaHd4BqeDuHbSH0GI0v3cBHyZx5WNFfliy6N5zweHsQEwWsDiNGOJ3dET4Yoge+gzAbWbKFaDfswrC2xtYtHmh9fODBVpR5Nb3zAyUyZ/lYHDrZVb3qyyv+FabVumi5zZEgt53njYs7fn45T1cnXSECFoNR1LTfeVQbOlLXzG2PnsWyLi3s/qRv33YPSg==;zl79dkxJsN8ocfTjIgcLVw=="
 ---
 
