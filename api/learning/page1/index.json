@@ -4,6 +4,44 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/videos/guy-in-a-cube-deploy-power-bi-dataset-schema-changes-without-refreshing.md",
+      "title": "Deploy Power BI dataset schema changes WITHOUT refreshing!",
+      "excerpt": "Think you need to always refresh your Power BI dataset even why just adding a measure? Patrick shows how you can deploy schema changes without needing to perform the refresh with Power BI Premium and the ALM Toolkit.  ALM Toolkit: http://alm-toolkit.com/  📢 Become a member: https://guyinacu.be/membership",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-deploy-power-bi-dataset-schema-changes-without-refreshing/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-deploy-power-bi-dataset-schema-changes-without-refreshing/",
+      "originalUrl": "https://youtube.com/watch?v=s0j6d3UAw9U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/s0j6d3UAw9U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M9S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-10-21T08:00:29-07:00",
+      "heat": 291,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/s0j6d3UAw9U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/absent-data-channel-5-dashboard-design-tips-important-concepts-for-data-visualization.md",
       "title": "5 Dashboard Design Tips - Important Concepts for Data Visualization",
       "excerpt": "Please check out Maegan's channel for some awesome videos on design and DIY: https://www.youtube.com/channel/UCx3_7-2gGe7BmDxI6W-Uuiw  Contact me on LinkedIn: https://www.linkedin.com/in/gaelimholland/  We all struggle to beautify our reports and dashboards. However, just like the technical skills needed",
@@ -64,31 +102,23 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-deploy-power-bi-dataset-schema-changes-without-refreshing.md",
-      "title": "Deploy Power BI dataset schema changes WITHOUT refreshing!",
-      "excerpt": "Think you need to always refresh your Power BI dataset even why just adding a measure? Patrick shows how you can deploy schema changes without needing to perform the refresh with Power BI Premium and the ALM Toolkit.  ALM Toolkit: http://alm-toolkit.com/  📢 Become a member: https://guyinacu.be/membership",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-deploy-power-bi-dataset-schema-changes-without-refreshing/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-deploy-power-bi-dataset-schema-changes-without-refreshing/",
-      "originalUrl": "https://youtube.com/watch?v=s0j6d3UAw9U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/s0j6d3UAw9U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M9S",
+      "path": "_learning/videos/learn-power-bi-the-missing-step-to-master-power-bi-skip-this-at-your-own-risk-.md",
+      "title": "The Missing Step to Master Power BI (Skip This At Your Own Risk! ☠️)",
+      "excerpt": "How can you master Power BI? Even though there are 1000s of videos and training lessons available for Power BI…you may be still struggling to master Power BI.  It’s possible that you are missing a crucial step in learning Power BI.  In this second part of our video series on “5 Steps to Master Power",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-the-missing-step-to-master-power-bi-skip-this-at-your-own-risk-/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-the-missing-step-to-master-power-bi-skip-this-at-your-own-risk-/",
+      "originalUrl": "https://youtube.com/watch?v=X0-MKaMxUdM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/X0-MKaMxUdM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2020-10-21T08:00:29-07:00",
-      "heat": 214,
+      "publishedDateTime": "2020-10-21T09:00:06-07:00",
+      "heat": 208,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/s0j6d3UAw9U/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/X0-MKaMxUdM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -217,36 +247,6 @@
       ]
     },
     {
-      "path": "_learning/videos/learn-power-bi-the-missing-step-to-master-power-bi-skip-this-at-your-own-risk-.md",
-      "title": "The Missing Step to Master Power BI (Skip This At Your Own Risk! ☠️)",
-      "excerpt": "How can you master Power BI? Even though there are 1000s of videos and training lessons available for Power BI…you may be still struggling to master Power BI.  It’s possible that you are missing a crucial step in learning Power BI.  In this second part of our video series on “5 Steps to Master Power",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-the-missing-step-to-master-power-bi-skip-this-at-your-own-risk-/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-the-missing-step-to-master-power-bi-skip-this-at-your-own-risk-/",
-      "originalUrl": "https://youtube.com/watch?v=X0-MKaMxUdM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/X0-MKaMxUdM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2020-10-21T09:00:06-07:00",
-      "heat": 149,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/X0-MKaMxUdM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/radacad-how-to-change-joining-types-in-power-bi-and-power-query.md",
       "title": "How to Change Joining Types in Power BI and Power Query",
       "excerpt": "If you are combining tables in Power BI or Excel using Power Query, you might wonder how you change the join or merge type. In this video, I talked about it. Read my blog article to learn more about it; https://radacad.com/how-to-change-joining-types-in-power-bi-and-power-query   *******************",
@@ -260,7 +260,7 @@
         "domain": "radacad.com"
       },
       "publishedDateTime": "2020-10-15T19:03:07-07:00",
-      "heat": 139,
+      "heat": 141,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/bl6AfejSzR8/maxresdefault.jpg",
@@ -275,6 +275,44 @@
       "topics": [
         "Power BI",
         "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-next-level-power-bi-date-picker.md",
+      "title": "NEXT LEVEL Power BI Date Picker!",
+      "excerpt": "Revisiting the Power BI Date Picker. Patrick takes it to the NEXT LEVEL and makes it more efficient!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next level? We have training courses available to help you with your journey.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-next-level-power-bi-date-picker/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-next-level-power-bi-date-picker/",
+      "originalUrl": "https://youtube.com/watch?v=mXi8sMmOOTU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mXi8sMmOOTU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M22S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-09-09T08:00:23-07:00",
+      "heat": 139,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/mXi8sMmOOTU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     },
     {
@@ -308,14 +346,53 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-2-ways-to-create-a-radial-bar-chart-in-power-bi.md",
-      "title": "2 ways to create a radial bar chart in  Power BI",
-      "excerpt": "In this video I am going to show you 2 ways to create a radial bar chart in Power BI. One, we will use the visuals available in Power BI to fake one and the second method we will use charticulator to create our own and make it easier.  Here is the link to the charticulator playlist: https://www.youtube.com/playlist?list=PLjS3oGhMuQ1S7Qf7-mBo_SFQyh6qHou4V",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-2-ways-to-create-a-radial-bar-chart-in-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-2-ways-to-create-a-radial-bar-chart-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=IpFWnaV6hZI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IpFWnaV6hZI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M27S",
+      "path": "_learning/videos/sqlbi-using-concatenatex-in-dax.md",
+      "title": "Using CONCATENATEX in DAX",
+      "excerpt": "This video showcases the use of CONCATENATEX, a handy DAX function to return a list of values in a measure. Article and download: https://sql.bi/206871",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/sqlbi-using-concatenatex-in-dax/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/sqlbi-using-concatenatex-in-dax/",
+      "originalUrl": "https://youtube.com/watch?v=6gCk4UoOw0g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6gCk4UoOw0g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M3S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-08-08T01:34:21-07:00",
+      "heat": 132,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6gCk4UoOw0g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-6-dax-fridays-101-scalar-vs-table-vs-other-functions-explaining-common-dax-errors.md",
+      "title": "#6 DAX Fridays! 101: Scalar vs table vs other functions - Explaining common DAX errors.",
+      "excerpt": "Why do you get errors when you use some DAX functions as a measure or table or calculated column?  In today's video, we will explain the difference between scalar vs table vs other functions and explain the following errors: 1. Error when a table is expected but a value is returned 2. The expression",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-6-dax-fridays-101-scalar-vs-table-vs-other-functions-explaining-common-dax-errors/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-6-dax-fridays-101-scalar-vs-table-vs-other-functions-explaining-common-dax-errors/",
+      "originalUrl": "https://youtube.com/watch?v=oA_GYuoqgsY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oA_GYuoqgsY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M12S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -328,11 +405,11 @@
           }
         ]
       },
-      "publishedDateTime": "2020-09-08T02:42:07-07:00",
-      "heat": 132,
+      "publishedDateTime": "2020-09-08T03:53:17-07:00",
+      "heat": 131,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/IpFWnaV6hZI/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/oA_GYuoqgsY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -342,37 +419,8 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/absent-data-channel-split-and-merge-columns-in-power-bi.md",
-      "title": "Split and Merge Columns in Power BI",
-      "excerpt": "In this section we will mege columns and split columns to do a depper level of analysis",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/absent-data-channel-split-and-merge-columns-in-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/absent-data-channel-split-and-merge-columns-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=ZqCybBeLSKI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZqCybBeLSKI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M1S",
-      "provider": {
-        "name": "Absent Data Channel",
-        "domain": "absentdata.com"
-      },
-      "publishedDateTime": "2020-07-26T06:01:35-07:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ZqCybBeLSKI/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
+        "Power BI",
+        "DAX"
       ]
     },
     {
@@ -403,36 +451,6 @@
       "topics": [
         "Power BI",
         "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/power-bi-tips-powerbitips-tutorial-monkey-tool-introduction-part-1.md",
-      "title": "PowerBI.tips - Tutorial - Monkey Tool Introduction - Part 1",
-      "excerpt": "Ken Puls an amazing MVP from Excel Guru has produced an impressive tool, Monkey Tools.  This tool is an Excel Add-in that aids business users to work quickly building Data Models.  Come join us to learn about how this tool can help you in your daily work flow.  Follow Ken  Blog: https://xlguru.ca/blog",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/power-bi-tips-powerbitips-tutorial-monkey-tool-introduction-part-1/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/power-bi-tips-powerbitips-tutorial-monkey-tool-introduction-part-1/",
-      "originalUrl": "https://youtube.com/watch?v=OM9RkcwYPeo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OM9RkcwYPeo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H2M52S",
-      "provider": {
-        "name": "Power BI Tips",
-        "domain": "powerbi.tips"
-      },
-      "publishedDateTime": "2020-08-07T05:52:04-07:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/OM9RkcwYPeo/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
       ]
     },
     {
@@ -672,8 +690,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform/",
       "length": "PT21M",
       "ratings": {
-        "count": 13917,
-        "average": 4.7130127
+        "count": 13941,
+        "average": 4.7130766
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1037,8 +1055,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 4121,
-            "average": 4.769959
+            "count": 4129,
+            "average": 4.769678
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1079,8 +1097,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 20502,
-            "average": 4.7357817
+            "count": 20518,
+            "average": 4.7356467
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1139,8 +1157,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 4121,
-        "average": 4.769959
+        "count": 4129,
+        "average": 4.769678
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1181,8 +1199,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 20502,
-        "average": 4.7357817
+        "count": 20518,
+        "average": 4.7356467
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1285,8 +1303,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 20502,
-            "average": 4.7357817
+            "count": 20518,
+            "average": 4.7356467
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1327,8 +1345,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 13586,
-            "average": 4.6971884
+            "count": 13588,
+            "average": 4.6972327
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1370,8 +1388,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 5138,
-            "average": 4.7068896
+            "count": 5139,
+            "average": 4.706947
           },
           "provider": {
             "name": "Microsoft Learn",
