@@ -4,6 +4,36 @@
   "page": 24,
   "value": [
     {
+      "path": "_learning/videos/radacad-relative-date-slicer-in-power-bi-simple-yet-powerful.md",
+      "title": "Relative Date Slicer in Power BI   Simple yet Powerful",
+      "excerpt": "If you are using a date slicer in your Power BI report, a relative date slicer is one of the options to consider for sure. This is a very simple type of slicer to use, but very effective in terms of options that it provides for the user to slice and dice the data. Let’s check it out in this short video.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-relative-date-slicer-in-power-bi-simple-yet-powerful/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-relative-date-slicer-in-power-bi-simple-yet-powerful/",
+      "originalUrl": "https://youtube.com/watch?v=pKXIPDhRrbM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pKXIPDhRrbM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M5S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-05-04T10:07:24-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pKXIPDhRrbM/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/radacad-say-no-to-export-data-yes-to-analyze-in-excel-power-bi-and-excel-can-talk.md",
       "title": "Say No to Export Data, Yes to Analyze in Excel   Power BI and Excel Can Talk",
       "excerpt": "Despite the fact that I have explained about the Analyze in Excel feature in Power BI before, still, I hear and see many users are using the Export data option in Power BI much more. In this video, I am explaining what is the difference and why it is better to use Analyze in Excel rather than exporting",
@@ -235,8 +265,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-your-first-power-bi-report/",
       "length": "PT55M",
       "ratings": {
-        "count": 5467,
-        "average": 4.769892
+        "count": 5468,
+        "average": 4.769934
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -269,8 +299,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-modify-filter/",
       "length": "PT21M",
       "ratings": {
-        "count": 111,
-        "average": 4.5945945
+        "count": 112,
+        "average": 4.598214
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -313,8 +343,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/discover-customer-needs/",
       "length": "PT36M",
       "ratings": {
-        "count": 440,
-        "average": 4.6704545
+        "count": 441,
+        "average": 4.6689343
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1104,45 +1134,6 @@
       "topics": [
         "Power BI",
         "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-change-parameters-in-power-bi-service.md",
-      "title": "Change parameters in Power BI service",
-      "excerpt": "In previous videos I have shown you how to create parameters in Power BI Destop. Here are some examples:  https://www.youtube.com/watch?v=0B3kmAsEJHY  I have also shown you how to do it when importing data from services, for example wordpress: https://www.youtube.com/watch?v=b0DUnceb68I  In this video",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-change-parameters-in-power-bi-service/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-change-parameters-in-power-bi-service/",
-      "originalUrl": "https://youtube.com/watch?v=zeeiSFdWCrY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zeeiSFdWCrY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M16S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-07-14T12:19:05-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/zeeiSFdWCrY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Service"
       ]
     }
   ],
