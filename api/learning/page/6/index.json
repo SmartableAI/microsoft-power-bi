@@ -1483,8 +1483,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-simple-dashboard/",
       "length": "PT31M",
       "ratings": {
-        "count": 2385,
-        "average": 4.690566
+        "count": 2386,
+        "average": 4.6898575
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1525,8 +1525,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-power-bi/",
       "length": "PT53M",
       "ratings": {
-        "count": 3349,
-        "average": 4.7139444
+        "count": 3350,
+        "average": 4.71403
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1567,8 +1567,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 3995,
-        "average": 4.7469335
+        "count": 3996,
+        "average": 4.746997
       },
       "provider": {
         "name": "Microsoft Learn",
