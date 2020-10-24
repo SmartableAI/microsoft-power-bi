@@ -2,6 +2,7 @@
 title: "Price Prediction with Python and Power BI"
 excerpt: "Learn how to create a machine learning price prediction using Python machine learning linear regression model and a dataset of 54,000 diamonds. This will be ported over to Power BI for a deeper level of interaction.  You can find the files and dataset here: https://github.com/Gaelim/Diamond-Price-Prediction"
 originalUrl: https://youtube.com/watch?v=IP76UJ4nZ70
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/absent-data-channel-price-prediction-with-python-and-power-bi/
 type: video
 price: Free
 length: PT19M10S
@@ -23,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "dIpMuGF5WIO9kAeebaxs8qxu0FzeTIxAb6CbSpwWdNE+p6zwhcNjz54yTXXZ8abwTnGdqquGlDBCzXfFL0ac4RozWhmVW+pTZ68OdCQR2MSZnTMOJc3JUw0jjVt62HH/rcriNr/6r7kmc6tk61MMBdIQcBG+sPHYfDoJDAixIKqsXZqDmW+WvE7Wv2GjUUGyJ3oZQMB8m+vvYrmzTmgOIdtoVWNXdbO7MKLUEZrclbQb5gxucPZSJRb9KrQCKJXOc3DN3Wqcd8b68ptAOS/ymd5cZX4T9T62yGW9RNuLccFAS+/9Rw6fcUbzFmfSq1C7Pr/9Xxdnv07VlOXDlpvPJaAc/ykdbhO4JEkiUM+a7X0uMPWTuaoqzszj6J6jDWzEEQmN2sFL2TO44TzUkSjo0Q==;cL2d018cbiMRXAwtaRYhLg=="
+secured: "NCY4lE2kR6HoN1U5ursD/DZhYhe0YsRqd1sOeh/chNiwkMbQ+H2NkT1LvqVp3SmZxCFVqZPgBU8bA5HWl5KYxwzhTdbyehLfU1V5Yd3wHhQU9UENYfFtBbdn1eSJ9Sd6Q0HZ+elTPCRsZkFBLRxuxHMVBrj+/ae2q4F00Ed1BPTlwcuh2Vilu5P4xLNqpRLqvxn7p3nmYtRSjGd5ac6O/aN9P5tNOnfJHDOOKPGiGmQPj5pQyQqhYdaSZPnV2UnQI19MkoNEDBATc1JpNbTUuFsdMlQZu94HjTpydaaUj6gjnVH62amkQ2M3LGa6pvTjikBNlMXP/wkMnuhnzhTtBVRMRtZLuhyWAGTA4Q+hOu+91KmmwyFqDfZZt+YsT1/Z;ALH+ZVH/9VULdZduc/Q0xQ=="
 ---
 
