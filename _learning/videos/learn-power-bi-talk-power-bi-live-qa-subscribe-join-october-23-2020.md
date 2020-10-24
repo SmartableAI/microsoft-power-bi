@@ -2,6 +2,7 @@
 title: "🔴Talk Power BI LIVE Q&A (Subscribe & Join) October 23, 2020"
 excerpt: "✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask any Power BI question. 👉 To Learn More & Submit Your Questions Go To https://www.LearnPowerBI.com/talk 👉 Join the LearnPowerBI Family to Dial-In Using the 📞 Phone Line: https://www.LearnPowerBI.com/training  Hello,"
 originalUrl: https://youtube.com/watch?v=QI9dVFlzQgw
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-talk-power-bi-live-qa-subscribe-join-october-23-2020/
 type: video
 price: Free
 length: PT4H34M47S
@@ -23,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "fWnSmUswhH2P69y3cCo4ri5FDPz7H0Y21gRT9DjWZbV8gOzxJnmEzKR4Tfaov4P+VcMAuWsIN+JGVO+hBFOjVXxuS24hdgBHM1cw4FA+Ar/ofspNkEcszeTKQ/RrAosE6SWz1SL/wUozD0+y+z20Ms+7g05BIrcVImkdRaRL1+qqyyw/QruLemheBNq0SB56u3PFSXIi9LONJLKTZLM8VMlOwXzav8aIcNVsQcwhL8QDI0cco6Oa5K6cx6uDPanbc3SCjE0WAC+PI7ow+W542aXM71haSLCWOIuirakYm+zKDxMbdpc8xwTXQ3VoAm726fhkqBzvgJyMRYlthLnSaxcMS21P0qZ893FpjienjYzkAJpGrTTag2WhKjGlV+mMkftz7PVMARFzuoqQQoPVQg==;tUcjMwunx0/EqTup2XAEyQ=="
+secured: "whC/2wipr23uN81Gr2gtR2ikImpXbno+EL3Ht3T0FdapVpX6ZTTb2kBqyzQcD2Ho9uAImyxdLC4Uff9Dm5vFWUjXuCKfA83KVByYuL4/3COpFQJqWwrCOxTPi1HD2DS5i6QA/hIdZb77qHbBec4K4CX78VJsmr0f4mVWNem7hcqrLchr/2Et9Wznabcw016VMOyqTwkjc7OAzpDwwQ+N0IBg900FPyiqEnLkfgHME0/N00vA2z6X3+zMl6ATsdvkT8rxwoUsE6AURGqH0pxWIsOPjkyHwpoBQa9LkxApOaxoQLD0FQcYRCcub8ULtiKWOzm5UBn0J95ePTtDZo1HEd15JPwJoeZSFTRItK8G4bL29Ed6HLoiFhuaGyGlJMwhByzV9yjw5Ek0HBtoNHFpIA==;fW4TT4Wf5BehvZybeGXpJA=="
 ---
 
