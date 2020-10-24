@@ -29,7 +29,7 @@
       "levels": [
         "Advanced"
       ],
-      "heat": 52,
+      "heat": 50,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/becoming-solution-architect-social.png",
@@ -71,7 +71,7 @@
       "levels": [
         "Advanced"
       ],
-      "heat": 51,
+      "heat": 50,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -155,8 +155,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fit-gap-analysis/",
       "length": "PT35M",
       "ratings": {
-        "count": 374,
-        "average": 4.713904
+        "count": 375,
+        "average": 4.714667
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -173,7 +173,7 @@
       "levels": [
         "Advanced"
       ],
-      "heat": 53,
+      "heat": 59,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
