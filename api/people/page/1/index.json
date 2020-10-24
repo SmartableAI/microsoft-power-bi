@@ -223,45 +223,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/avi-singh.md",
-      "title": "Avi Singh",
-      "excerpt": "Power BI has transformed my life, multiplying my impact manifold. Now I am on a mission to spread the word and share the knowledge",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/people/avi-singh/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/people/avi-singh/",
-      "type": "profile",
-      "name": "Avi Singh",
-      "bio": "Power BI has transformed my life, multiplying my impact manifold. Now I am on a mission to spread the word and share the knowledge",
-      "location": "Seattle, WA",
-      "website": "https://www.learnpowerbi.com/",
-      "twitter": {
-        "username": "powerbipro",
-        "url": "https://twitter.com/powerbipro",
-        "followers": 4369
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/avichalsingh/"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "topics": [
-        "Power BI"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/732049231326806017/m4jUj2Lu_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Avi Singh",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_people/seth-bauer.md",
       "title": "Seth Bauer",
       "excerpt": "As a co-owner of PowerBI.Tips I enjoy helping create a platform for new and advanced users alike to learn and expand their skills and get the most out of Power BI.",
@@ -293,6 +254,45 @@
           "width": 400,
           "height": 400,
           "title": "Seth Bauer",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/avi-singh.md",
+      "title": "Avi Singh",
+      "excerpt": "Power BI has transformed my life, multiplying my impact manifold. Now I am on a mission to spread the word and share the knowledge",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/people/avi-singh/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/people/avi-singh/",
+      "type": "profile",
+      "name": "Avi Singh",
+      "bio": "Power BI has transformed my life, multiplying my impact manifold. Now I am on a mission to spread the word and share the knowledge",
+      "location": "Seattle, WA",
+      "website": "https://www.learnpowerbi.com/",
+      "twitter": {
+        "username": "powerbipro",
+        "url": "https://twitter.com/powerbipro",
+        "followers": 4369
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/avichalsingh/"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "topics": [
+        "Power BI"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/732049231326806017/m4jUj2Lu_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Avi Singh",
           "isCached": true
         }
       ],
