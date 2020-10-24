@@ -13,6 +13,7 @@ items:
   - videos/absent-data-channel-sentiment-analysis-in-power-bi
   - videos/absent-data-channel-sales-prediction-model-with-python-and-power-bi
   - videos/absent-data-channel-machine-learning-anomaly-detection-with-python-and-power-bi
+  - videos/absent-data-channel-price-prediction-with-python-and-power-bi
 
 topics:
   - Power BI
