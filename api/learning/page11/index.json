@@ -4,37 +4,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_learning/videos/radacad-customer-retention-in-power-bi-dax-measures.md",
-      "title": "Customer Retention in Power BI   DAX Measures",
-      "excerpt": "Customer retention is one of the most common scenarios of data analysis, which is very useful for business. As a business, you would like to know how many new customers you have in each month, how many returning,  and how many lost customers. Knowing these, would help you to focus on the growth plan,",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-customer-retention-in-power-bi-dax-measures/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-customer-retention-in-power-bi-dax-measures/",
-      "originalUrl": "https://youtube.com/watch?v=kSy-7UHe4HE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kSy-7UHe4HE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M10S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-02-10T00:50:44-08:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/kSy-7UHe4HE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/radacad-how-to-do-power-bi-mapping-with-latitude-and-longitude-only.md",
       "title": "How to Do Power BI Mapping With Latitude and Longitude Only",
       "excerpt": "You can just use latitude and longitude to visualize data on the map. In this video, you will learn how you can do that with the map visual in Power BI. Read more and download the dataset from my blog article link here: https://radacad.com/how-to-do-power-bi-mapping-with-latitude-and-longitude-only",
@@ -293,6 +262,48 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-connect-analyze-dynamics-365-data.md",
+      "title": "Connect and analyze your Dynamics 365 data​",
+      "excerpt": "Connect and analyze your Dynamics 365 Data​",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-connect-analyze-dynamics-365-data/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-analyze-dynamics-365-data/",
+      "length": "PT57M",
+      "ratings": {
+        "count": 2050,
+        "average": 4.7087803
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/connect-and-analyze-your-microsoft-dynamics-365-data-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-create-paginated-reports-power-bi.md",
       "title": "Create paginated reports  ",
       "excerpt": "Paginated reports allow report developers to create Power BI artifacts that have tightly controlled rendering requirements. Paginated reports are ideal for creating sales invoices, receipts, purchase orders, and tabular data. This module will teach you how to create reports, add parameters, and work with tables and charts in paginated reports.",
@@ -342,8 +353,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-write-formulas/",
       "length": "PT27M",
       "ratings": {
-        "count": 246,
-        "average": 4.703252
+        "count": 247,
+        "average": 4.7044535
       },
       "provider": {
         "name": "Microsoft Learn",

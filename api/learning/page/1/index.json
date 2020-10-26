@@ -4,44 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/videos/guy-in-a-cube-stop-publishing-your-power-bi-report-until-you-do-these-5-things.md",
-      "title": "STOP publishing your Power BI report until you do these 5 things!",
-      "excerpt": "Your Power BI report could be slow and not functional. Publishing to Power BI may also show you your ugly baby. Patrick has you covered with 5 things to do before publishing to get that cute baby!  Power BI Tips: External tools https://powerbi.tips/2020/08/hot-swap-report-connections-external-tools/",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-stop-publishing-your-power-bi-report-until-you-do-these-5-things/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-stop-publishing-your-power-bi-report-until-you-do-these-5-things/",
-      "originalUrl": "https://youtube.com/watch?v=rsS7E5tOtDk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rsS7E5tOtDk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M15S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-09-23T08:00:12-07:00",
-      "heat": 181,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/rsS7E5tOtDk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/learn-power-bi-power-bi-tutorial-from-beginner-to-pro-desktop-to-dashboard-in-60-minutes-.md",
       "title": "Power BI Tutorial From Beginner to Pro ⚡ Desktop to Dashboard in 60 Minutes ⏰",
       "excerpt": "This Complete Power BI Tutorial takes you Step-by-Step as you use Power BI Desktop to create a beautiful Power BI Dashboard. 👉 Download Power BI Files in Video at https://web.learnpowerbi.com/download?content=20190501  ✅ Subscribe to always get my latest videos: https://www.youtube.com/powerbipro?sub_confirmation=1",
@@ -316,65 +278,100 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-becoming-solution-architect.md",
-      "title": "Becoming a solution architect for Dynamics 365 and Power Platform",
-      "excerpt": "Learn how to become a solution architect.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-becoming-solution-architect/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/becoming-solution-architect/",
-      "length": "PT1H43M",
-      "ratings": {
-        "count": 653,
-        "average": 4.7105665
-      },
+      "path": "_learning/videos/guy-in-a-cube-dynamic-titles-with-multiple-slicers-or-filters-in-power-bi.md",
+      "title": "Dynamic titles with multiple slicers or filters in Power BI",
+      "excerpt": "We've talked about dynamic titles in Power BI before. But, what if you wanted to combine multiple values into that dynamic title. Patrick shows you how using a little DAX!  Download Sample: https://guyinacu.be/dynamictitlesample  📢 Become a member: https://guyinacu.be/membership \r \r *******************",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-dynamic-titles-with-multiple-slicers-or-filters-in-power-bi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-dynamic-titles-with-multiple-slicers-or-filters-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=XXv13mkjV2Y",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XXv13mkjV2Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M7S",
       "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 133,
+      "publishedDateTime": "2020-08-26T08:00:09-07:00",
+      "heat": 138,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/becoming-solution-architect-social.png",
-          "width": 800,
-          "height": 400,
+          "url": "https://i.ytimg.com/vi/XXv13mkjV2Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power BI"
       ]
     },
     {
-      "path": "_learning/videos/learn-power-bi-talk-power-bi-live-qa-subscribe-join-september-25-2020.md",
-      "title": "🔴Talk Power BI LIVE Q&A (Subscribe & Join) September 25, 2020",
-      "excerpt": "✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask any Power BI question. 👉 To Learn More & Submit Your Questions Go To https://www.LearnPowerBI.com/talk 👉 Join the LearnPowerBI Family to Dial-In Using the 📞 Phone Line: https://www.LearnPowerBI.com/training  Hello,",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-talk-power-bi-live-qa-subscribe-join-september-25-2020/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-talk-power-bi-live-qa-subscribe-join-september-25-2020/",
-      "originalUrl": "https://youtube.com/watch?v=YLXwMhNxXX8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YLXwMhNxXX8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3H16M5S",
+      "path": "_learning/videos/sqlbi-how-to-debug-a-dax-measure.md",
+      "title": "How to debug a DAX measure",
+      "excerpt": "Use DAX Studio to run and debug a DAX measure: fix a calculation issue in a more productive environment and then copy the right formula back in Power BI. How to learn DAX: https://www.sqlbi.com/guides/dax/ DAX Studio: https://daxstudio.org/ VertiPaq Analyzer: https://www.sqlbi.com/tools/vertipaq-analyzer/",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/sqlbi-how-to-debug-a-dax-measure/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/sqlbi-how-to-debug-a-dax-measure/",
+      "originalUrl": "https://youtube.com/watch?v=fU5EQBJDfOM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fU5EQBJDfOM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M26S",
       "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2020-09-25T13:03:33-07:00",
+      "publishedDateTime": "2020-08-20T03:00:15-07:00",
+      "heat": 134,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fU5EQBJDfOM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-create-ribbon-chart-using-charticulator-inside-power-bi.md",
+      "title": "Create Ribbon Chart Using Charticulator inside Power BI",
+      "excerpt": "This short video shows how to create your own Ribbon Chart inside Charticulator and then import it into Power BI desktop to access the data source website see the below link: https://gs.statcounter.com/os-market-share/mobile/worldwide  also, the transformed dataset has been uploaded here: https://radacad-my.sharepoint.com/:x:/p/leila/EWvPqySqTIhNs-fR1bp7JJYB-pQLMtphhuZ_aE5jLcHQ1w?e=135oPD",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-create-ribbon-chart-using-charticulator-inside-power-bi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-create-ribbon-chart-using-charticulator-inside-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=u7zukdinxKQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/u7zukdinxKQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M36S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-09-16T17:42:25-07:00",
       "heat": 131,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/YLXwMhNxXX8/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/u7zukdinxKQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -502,6 +499,44 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-stop-publishing-your-power-bi-report-until-you-do-these-5-things.md",
+      "title": "STOP publishing your Power BI report until you do these 5 things!",
+      "excerpt": "Your Power BI report could be slow and not functional. Publishing to Power BI may also show you your ugly baby. Patrick has you covered with 5 things to do before publishing to get that cute baby!  Power BI Tips: External tools https://powerbi.tips/2020/08/hot-swap-report-connections-external-tools/",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-stop-publishing-your-power-bi-report-until-you-do-these-5-things/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-stop-publishing-your-power-bi-report-until-you-do-these-5-things/",
+      "originalUrl": "https://youtube.com/watch?v=rsS7E5tOtDk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rsS7E5tOtDk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M15S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-09-23T08:00:12-07:00",
+      "heat": 101,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rsS7E5tOtDk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-introduction-power-platform.md",
       "title": "Introduction to Power Platform",
       "excerpt": "Introduction to Power Platform",
@@ -509,8 +544,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform/",
       "length": "PT21M",
       "ratings": {
-        "count": 14094,
-        "average": 4.71385
+        "count": 14095,
+        "average": 4.713799
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -941,7 +976,7 @@
         "domain": "radacad.com"
       },
       "publishedDateTime": "2020-10-15T19:03:07-07:00",
-      "heat": 86,
+      "heat": 87,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/bl6AfejSzR8/maxresdefault.jpg",
@@ -1110,8 +1145,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 20626,
-            "average": 4.736013
+            "count": 20628,
+            "average": 4.736038
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1152,8 +1187,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 13642,
-            "average": 4.697845
+            "count": 13643,
+            "average": 4.697867
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1195,8 +1230,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 5177,
-            "average": 4.7075524
+            "count": 5179,
+            "average": 4.7076654
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1237,8 +1272,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 4010,
-            "average": 4.746883
+            "count": 4012,
+            "average": 4.747009
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1320,8 +1355,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 4231,
-            "average": 4.769558
+            "count": 4233,
+            "average": 4.7696667
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1362,8 +1397,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 20626,
-            "average": 4.736013
+            "count": 20628,
+            "average": 4.736038
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1422,8 +1457,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 4231,
-        "average": 4.769558
+        "count": 4233,
+        "average": 4.7696667
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1446,48 +1481,6 @@
           "url": "https://docs.microsoft.com/learn/achievements/data-analytics-and-microsoft-social.png",
           "width": 640,
           "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-introduction-power-bi.md",
-      "title": "Introduction to Power BI",
-      "excerpt": "Introduction to Power BI",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-introduction-power-bi/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/",
-      "length": "PT31M",
-      "ratings": {
-        "count": 4587,
-        "average": 4.7281446
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 74,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-power-bi-social.png",
-          "width": 800,
-          "height": 400,
           "isCached": true
         }
       ],
