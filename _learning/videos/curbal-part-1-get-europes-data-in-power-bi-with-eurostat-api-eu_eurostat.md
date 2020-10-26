@@ -2,6 +2,7 @@
 title: "Part 1: Get Europe's data in Power BI with Eurostat API - @EU_Eurostat"
 excerpt: "Have you ever wanted to get data about Europe in Power BI to boost your market research? Population in Europe, Age and gender, income levels, employment levels, all this is available for you if you connect to Eurostats API.  In this video I will show you how the API works and in the next we will build"
 originalUrl: https://youtube.com/watch?v=UwXo1OcwbAg
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/curbal-part-1-get-europes-data-in-power-bi-with-eurostat-api-eu_eurostat/
 type: video
 price: Free
 length: PT8M32S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "wYD1SrGiYcOeHSt02eSjuX+jLMbUuSVZ+Y9IIzp58uNetAMwFwLXjy2Vs4ablsDoZuz5Kcx0/SMGzi/IBuuFA94R4IMMoCjls4QxB6BuaP0zqYHm/2eVnGCkwhkmSGKkib3jJV5grvaq/8IjvJhJN+nk2qJyDj412AD6M1Ur+CdK0D2HF830kkC5M0VDMC5WbimT0lzS4CzbwAll+av2KiRZkKjgFV4/sxoFSLKtjRd8QJjoGVxZTDas/7UHYY++0OxD1QtPVGaN6jln5PPqWiQlRjZIeeo11tBSOAIB3XwHKeyMpQhaKXTLcsk8+YospGCAr4gbyHiAF2DZgZHkPrnSIbKgGiFmE/Z5Lxb6dReg9jNtl4lHrXrNqFhG+j6Kc7Lz+elcI3te4bBitB16pQ==;C31Peay98fsp2+KcD2eP4w=="
+secured: "3B4q6zSyujfZN5tI3mQPwxnZhIXVEPR2k7RC48OlZj2m/J0+xIHN6G7IrPwA8V58myZ3VbwEGmdcLY9KN9XEoPa+jNjozcdNRBecQC2GiPZbCSjSwoEHnfaJraLSJlku4Tcfimb173DFFYPcB+Szn5gxIRbD/6y6+e7yFrWdS+3uO9C4JRdSnjnKjSLUnQnVhL3Nh1qMJJp2DbcdhGC/7E9f+PdCiNMPiiuMw7UnxQHVxM88v/x34dws/Ww2fQh8z00WJvBEbSVeMD/sBEW84K2yCqcNghv+6HfOgVq5+C5VC0a2V0fRo1dggI4sy5dFC7HpdDrE0yDUZriYIyuY83EF4nGnJ/Q+Lck4ZvOPPXluRWPxJ5oyb81YiwU0sZAdI0nC9e8nsarvnTQBDFyrKQ==;djLl3xax34yLOoFaa1AixQ=="
 ---
 
