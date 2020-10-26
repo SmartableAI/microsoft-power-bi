@@ -2,6 +2,7 @@
 title: "Private video"
 excerpt: "This video is private."
 originalUrl: https://youtube.com/watch?v=kRpaBKLPjDg
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/curbal-private-video/
 type: video
 price: Free
 publishedDateTime: 2020-10-26T14:23:56Z
@@ -20,6 +21,6 @@ provider:
 topics:
   - Power BI
 
-secured: "oKOC9eDTMx4JuW7J6bn+DMcdQOJv2IMf6Wti/WwQ5Tr+cSEAjUKQAH+VOyLOBD096iaJ0982baNX6vej2He6Hvh6LdxRbL4MlmROCMCyc1JZiQvaSgvhgtH7ALH24awiZ1te9kOj0J1mx+PGipgM3QCtGB2eQpxAgbHElEwaqGCa/vSQNiCL2eYfRti0wuFiw4gZaVqKSWMozFCu5Mph+xI2Q2OGqiU/6axaXkE4LijB8B4ylreimfXxEbynTSxfupLTIzXcjkzWyGUEBdwuurbstQ99BtkhyOiyZDgxs/X3m42UyRWyDiV/J0xsrmrHPg4+dwlM0kjw87e69VSE8/JSXpt+BVz1a+b79bK7w6M=;NSOV+5hw5O7/ls7XEguOAg=="
+secured: "EAImCsQAw1D/ST1aA7ZT00q9B/pPtAwV7bMI829ld57G7ckevv7PEjpMJoQq50epJr1TmBk9+OOXl/h0Fvm/HDXAa30OvPxitJt/oabPGJadlbSFEQ3afbm8YHiBds+R9MCMd6tTnvw5+aYtTrgXM03+6GHS4y6yGEgqOabL45fHUlB+/aQEbZco7nZBp2+x0+k5H5ZyIH3zHsqkgHrchkczbV/6MetEQge9lhkfbNsLxJwNy78DrdnhMDokTh7+VSqbk8BYfuvXAhD6i1FVsvpBMsN0OKFKp+mdwyeZDuGy2B3+vp2AAzQq3fHHhjqogR7Pj+468uJtqt+1CSG4el0sNQbY+bmNYpuRPFT+5ng=;b6NIfypg7HNorqoxtyj0hg=="
 ---
 
