@@ -382,8 +382,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 267,
-            "average": 4.599251
+            "count": 268,
+            "average": 4.600746
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -568,8 +568,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 747,
-        "average": 4.696118
+        "count": 751,
+        "average": 4.696405
       },
       "provider": {
         "name": "Microsoft Learn",
