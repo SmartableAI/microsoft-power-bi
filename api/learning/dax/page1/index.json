@@ -691,6 +691,45 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-power-bi-date-table-create-using-dax.md",
+      "title": "Power BI date table: create using DAX",
+      "excerpt": "In this video, Adam looks at how to create a Power BI date table using DAX. The end result uses a combination of the GENERATE(), ROW() and CALENDARAUTO() DAX functions to create a calculated table resulting in a Power BI date table.  Using GENERATE and ROW instead of ADDCOLUMNS in DAX https://www.sqlbi.com/articles/using-generate-and-row-instead-of-addcolumns-in-dax/",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-power-bi-date-table-create-using-dax/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-power-bi-date-table-create-using-dax/",
+      "originalUrl": "https://youtube.com/watch?v=gyvhM5eiT0U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gyvhM5eiT0U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M44S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-02-13T07:18:28-08:00",
+      "heat": 66,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/gyvhM5eiT0U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/collections/sqlbi-dax-101-by-sqlbi.md",
       "title": "DAX 101 by SQLBI",
       "excerpt": "",
@@ -1289,45 +1328,6 @@
       "topics": [
         "Power BI",
         "Power BI Desktop",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-power-bi-date-table-create-using-dax.md",
-      "title": "Power BI date table: create using DAX",
-      "excerpt": "In this video, Adam looks at how to create a Power BI date table using DAX. The end result uses a combination of the GENERATE(), ROW() and CALENDARAUTO() DAX functions to create a calculated table resulting in a Power BI date table.  Using GENERATE and ROW instead of ADDCOLUMNS in DAX https://www.sqlbi.com/articles/using-generate-and-row-instead-of-addcolumns-in-dax/",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-power-bi-date-table-create-using-dax/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-power-bi-date-table-create-using-dax/",
-      "originalUrl": "https://youtube.com/watch?v=gyvhM5eiT0U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gyvhM5eiT0U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M44S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-02-13T07:18:28-08:00",
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/gyvhM5eiT0U/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
         "DAX"
       ]
     },
@@ -2019,6 +2019,45 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-power-bi-use-dax-to-get-relative-dates.md",
+      "title": "Power BI: Use DAX to get relative dates",
+      "excerpt": "Patrick looks at how you can get relative dates, in Power BI Desktop, without using the relative date slicer or relative date filters. You just need to sprinkle a little DAX into Power BI Desktop to get this going!  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-power-bi-use-dax-to-get-relative-dates/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-power-bi-use-dax-to-get-relative-dates/",
+      "originalUrl": "https://youtube.com/watch?v=wQ9DohPvx8Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wQ9DohPvx8Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M33S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-05-12T06:57:50-07:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wQ9DohPvx8Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/learn-power-bi-learn-dax-by-studying-common-problems-encountered-by-real-world-users-talk-power-bi-live.md",
       "title": "Learn DAX by Studying Common Problems Encountered by Real-World Users 🔴Talk Power BI LIVE",
       "excerpt": "We will learn the DAX programming language by examining several issues frequently reported by DAX users through PowerBI Desktop frowns.  Why is this interesting?  DAX training has consistently been one of the top asks from Power BI users. In this TalkPowerBI session, Jeffrey Wang is going to show you",
@@ -2159,70 +2198,31 @@
       ]
     },
     {
-      "path": "_learning/videos/sqlbi-computing-a-measure-in-dax-studio.md",
-      "title": "Computing a measure in DAX Studio",
-      "excerpt": "You can use DAX Studio to evaluate one or more measures in your data model. This is the first step to write, test, and debug your DAX measures in a productive manner.  How to learn DAX: https://www.sqlbi.com/guides/dax/ DAX Studio: https://daxstudio.org/",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/sqlbi-computing-a-measure-in-dax-studio/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/sqlbi-computing-a-measure-in-dax-studio/",
-      "originalUrl": "https://youtube.com/watch?v=kAniA_N7sB8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kAniA_N7sB8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M59S",
+      "path": "_learning/videos/guy-in-a-cube-debug-dax-using-variables-in-power-bi.md",
+      "title": "Debug DAX using Variables in Power BI",
+      "excerpt": "In this video, Marco Russo, from SQL BI, joins Patrick to look at how you can debug DAX using variables in Power BI. Marco helps to break down a DAX measure and show how you can see the results as you build it up to find where the problem is.  SQL BI https://sqlbi.com  DAX Formatter https://www.daxformatter.com/",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-debug-dax-using-variables-in-power-bi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-debug-dax-using-variables-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=9SV2VnYbgg4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9SV2VnYbgg4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M41S",
       "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2020-04-30T09:01:04-07:00",
+      "publishedDateTime": "2018-05-21T18:51:55-07:00",
       "heat": 55,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/kAniA_N7sB8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-14-summarize.md",
-      "title": "DAX Fridays! #14: SUMMARIZE",
-      "excerpt": "Learn how to use the function SUMMARIZE in DAX/ Powerpivot.  The function SUMMARIZE can return a summary of sales grouped around the calendar year and the product category name, this result table allows you to do analysis over the reseller sales by year and product category.  Source:https://msdn.microsoft.com/en-us/library/gg492171.aspx",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-dax-fridays-14-summarize/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-14-summarize/",
-      "originalUrl": "https://youtube.com/watch?v=-Ola264bKXk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-Ola264bKXk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M45S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-10-31T12:00:10-07:00",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-Ola264bKXk/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/9SV2VnYbgg4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

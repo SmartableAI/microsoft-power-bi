@@ -4,6 +4,742 @@
   "page": 18,
   "value": [
     {
+      "path": "_learning/videos/curbal-dax-fridays-85-difference-between-dates-in-the-same-column.md",
+      "title": "DAX Fridays! #85: Difference between dates in the same column",
+      "excerpt": "Do you know how to calculate the difference between dates when both are in the same column?  One example of when this is needed is when you are working with subscription based services. If you want to calculate how many dates go between users changing subscriptions, this DAX measure will help you.  To",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-dax-fridays-85-difference-between-dates-in-the-same-column/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-85-difference-between-dates-in-the-same-column/",
+      "originalUrl": "https://youtube.com/watch?v=jYvr4histgY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jYvr4histgY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M35S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-06-21T07:01:12-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jYvr4histgY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-87-distinct-vs-distinctcount-vs-values.md",
+      "title": "DAX Fridays! #87: DISTINCT vs DISTINCTCOUNT vs VALUES",
+      "excerpt": "In today's video we are going to cover the DAX function DISTINCT as well as how DISTINCT compares to VALUES and DISTINCTCOUNT.  Link to download: https://curbal.com/blog/glossary/distinct-dax-function  Other functions in this video:  DISTINCTCOUNT: https://www.youtube.com/watch?v=V8wYTjKyvgk VALUES:",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-dax-fridays-87-distinct-vs-distinctcount-vs-values/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-87-distinct-vs-distinctcount-vs-values/",
+      "originalUrl": "https://youtube.com/watch?v=SX6h4zoZ_8I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SX6h4zoZ_8I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M56S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-07-13T04:10:26-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/SX6h4zoZ_8I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-90-understanding-lookupvalues-error.md",
+      "title": "DAX Fridays! #90: Understanding LOOKUPVALUES error",
+      "excerpt": "Have you got the following error when using the DAX function LOOKUPVALUES?  \"A table of multiple values was supplied where a single value was expected\"  in this video, I will show you why that error happens and what you need to do to resolve it and use the function as intended.  You dont know how to",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-dax-fridays-90-understanding-lookupvalues-error/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-90-understanding-lookupvalues-error/",
+      "originalUrl": "https://youtube.com/watch?v=e8OWQ7Xl3m0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/e8OWQ7Xl3m0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M32S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-08-03T03:03:38-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/e8OWQ7Xl3m0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-difference-between-duplicate-and-reference-a-query-in-power-query.md",
+      "title": "Difference between duplicate and reference a query in Power Query",
+      "excerpt": "In this video I am going to show you the difference between duplicate and reference a query in Power Query and what you can use them for.  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-difference-between-duplicate-and-reference-a-query-in-power-query/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-difference-between-duplicate-and-reference-a-query-in-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=i_JHm-b3Jes",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/i_JHm-b3Jes\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M26S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-10-28T06:42:48-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/i_JHm-b3Jes/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-differences-between-power-bi-apps-and-workspaces.md",
+      "title": "Differences between Power BI Apps and Workspaces",
+      "excerpt": "In today's video I am going to show you the difference between Power Bi Apps and workspaces and what do I use them for. I also explain why I think that workspaces are too messy for the business user or data consumer.  Links to resources mentioned in the video: The new App Navigation video: https://www.youtube.com/watch?v=3Bo0HHUcuas",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-differences-between-power-bi-apps-and-workspaces/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-differences-between-power-bi-apps-and-workspaces/",
+      "originalUrl": "https://youtube.com/watch?v=E97H6pwjXzc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/E97H6pwjXzc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M28S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-07-10T03:27:05-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/E97H6pwjXzc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-download-export-power-query-data-to-csv-excel-or-txt-power-bi-tips-tricks-25.md",
+      "title": "Download/ Export Power Query data to csv, excel or txt - Power BI Tips & Tricks #25",
+      "excerpt": "Do you want to export your power query data? In this video I show you how to do it :)  How to install R: https://goo.gl/g4wbEm BI accountant blog: https://goo.gl/lnjjxM Link to Power BI file: https://gofile.me/2kEOD/YPnFQZQ4c  R script: require(gdata) write.table(trim(dataset), file=”C:/writeyourfilepathhere/filename.txt”,",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-download-export-power-query-data-to-csv-excel-or-txt-power-bi-tips-tricks-25/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-download-export-power-query-data-to-csv-excel-or-txt-power-bi-tips-tricks-25/",
+      "originalUrl": "https://youtube.com/watch?v=56FV6x8vYyQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/56FV6x8vYyQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M48S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-10-27T12:46:37-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/56FV6x8vYyQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dynamically-find-header-rows-and-promote-them-in-power-query.md",
+      "title": "Dynamically find header rows and promote them in Power Query",
+      "excerpt": "Dynamically find a column header and promote them in power query is  a very common requirement, specially if you are importing data from excel or pdfs for example.  In today's video, I will show you how to do that with just a few simple steps!  Here you can download all the pbix files: https://curbal.com/donwload-center",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-dynamically-find-header-rows-and-promote-them-in-power-query/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-dynamically-find-header-rows-and-promote-them-in-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=7LJ0EgTc4rU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7LJ0EgTc4rU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M30S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-08-31T04:27:48-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7LJ0EgTc4rU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-embed-power-bi-reports-in-powerpoint-power-bi-tips-tricks-13.md",
+      "title": "Embed Power BI reports in PowerPoint - Power BI Tips & Tricks #13:",
+      "excerpt": "Learn how to embed or insert power BI reports in PowerPoint!   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1  Our PLAYLISTS: - Join",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-embed-power-bi-reports-in-powerpoint-power-bi-tips-tricks-13/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-embed-power-bi-reports-in-powerpoint-power-bi-tips-tricks-13/",
+      "originalUrl": "https://youtube.com/watch?v=63MKbJQOU_Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/63MKbJQOU_Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M12S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-08-30T11:31:03-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/63MKbJQOU_Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-embed-power-bi-with-login-secure-embed-or-public-viewing.md",
+      "title": "Embed Power BI with Login (Secure Embed) or Public viewing",
+      "excerpt": "I am sure you havent missed the new Power BI feature where you can securely embed Power BI reports with no code.  Patrick from @guyinacube shared how to use it on intenal portals, I will show you how to do it on public websites. Here is his video: https://www.youtube.com/watch?v=gcA9Nb1M0EM  The results:",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-embed-power-bi-with-login-secure-embed-or-public-viewing/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-embed-power-bi-with-login-secure-embed-or-public-viewing/",
+      "originalUrl": "https://youtube.com/watch?v=pWOzYUb8uCI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pWOzYUb8uCI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M3S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-02-04T08:16:56-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pWOzYUb8uCI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-export-one-table-of-data-or-the-entire-model-with-dax-studio.md",
+      "title": "Export one table of data or the entire model with DAX Studio",
+      "excerpt": "In today's video I am going to show you how to export data from one table or the entire model using DAX Studio. #curbal #dax #daxstudio  Keynote: 02:00 Download data from one table with DAX Studio 02:40 Download the entire model with DAX Studio  Here you can download all the pbix files: https://curbal.com/donwload-center",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-export-one-table-of-data-or-the-entire-model-with-dax-studio/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-export-one-table-of-data-or-the-entire-model-with-dax-studio/",
+      "originalUrl": "https://youtube.com/watch?v=-Gfgnk6R0Qw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-Gfgnk6R0Qw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M16S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-05-06T05:48:12-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-Gfgnk6R0Qw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-extract-in-power-query-len-left-right-in-excel-6-magic-mondays.md",
+      "title": "Extract in Power Query (LEN, LEFT, RIGHT in excel) - #6 (M)agic (M)ondays",
+      "excerpt": "In today's video we will go through the equivalents of LEN, LEFT; RIGHT in Power Query. You can create very complex transformations using the interface in Power Query.  Keynotes: 02:46 -Text Before delimiter 03:37 - Count lenth of text 04:03 - Extract First character 04:11 - Extract Last Character 04:16",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-extract-in-power-query-len-left-right-in-excel-6-magic-mondays/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-extract-in-power-query-len-left-right-in-excel-6-magic-mondays/",
+      "originalUrl": "https://youtube.com/watch?v=RYsEkzFxWCM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RYsEkzFxWCM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M34S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-06-05T04:31:51-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RYsEkzFxWCM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-fix-errors-when-importing-or-converting-date-columns-in-power-bi-power-bi-tips-tricks-21.md",
+      "title": "Fix errors when importing or converting date columns in Power BI - Power BI Tips & Tricks #21",
+      "excerpt": "Today I will show you how to fix the errors that you get when you try to convert a column to a date in Power BI/ Power Query.  Link to Wikipedia: https://en.wikipedia.org/wiki/Date_format_by_country   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center  SUBSCRIBE",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-fix-errors-when-importing-or-converting-date-columns-in-power-bi-power-bi-tips-tricks-21/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-fix-errors-when-importing-or-converting-date-columns-in-power-bi-power-bi-tips-tricks-21/",
+      "originalUrl": "https://youtube.com/watch?v=6S29m0oR6EI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6S29m0oR6EI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M1S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-12-14T12:46:02-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6S29m0oR6EI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-get-data-from-onedrive-business-and-personal-into-power-bi-desktop.md",
+      "title": "Get data from Onedrive Business and Personal into Power BI Desktop",
+      "excerpt": "In today's video I will show you how to get data from OneDrive Personal and Business in Power BI.    Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-get-data-from-onedrive-business-and-personal-into-power-bi-desktop/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-get-data-from-onedrive-business-and-personal-into-power-bi-desktop/",
+      "originalUrl": "https://youtube.com/watch?v=I0KVU9iRMCA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/I0KVU9iRMCA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M54S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-02-05T00:30:30-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/I0KVU9iRMCA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-get-data-from-zip-files-without-extracting-them-in-power-query.md",
+      "title": "Get data from zip files without extracting them in Power Query",
+      "excerpt": "In today’s video, I will show you how to unzip files in Power BI. You will be able to import multiple zip files in Power Query and unzip them without having to extract them first.  Here is Marks blog, where you can find his function: http://sql10.blogspot.se/2016/06/reading-zip-files-in-powerquery-m.html",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-get-data-from-zip-files-without-extracting-them-in-power-query/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-get-data-from-zip-files-without-extracting-them-in-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=OzQ44gwi5Kw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OzQ44gwi5Kw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M14S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-03-12T08:17:34-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/OzQ44gwi5Kw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-handling-errors-in-power-query-with-try-otherwise-power-bi-tips-tricks-32.md",
+      "title": "Handling errors in Power Query with try otherwise - Power BI Tips & Tricks #32",
+      "excerpt": "Have you ever got errors in Power Query and you dont know how to manage them?  In today's tutorials I will show you how to: Delete errors in Power Query or Expand the list without removing them, allowing you to filter them out.  Link to Power BI file: http://gofile.me/2kEOD/ADBC7nTLX   Looking for a",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-handling-errors-in-power-query-with-try-otherwise-power-bi-tips-tricks-32/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-handling-errors-in-power-query-with-try-otherwise-power-bi-tips-tricks-32/",
+      "originalUrl": "https://youtube.com/watch?v=9-Lag0VOiTs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9-Lag0VOiTs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M35S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-03-05T07:15:29-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9-Lag0VOiTs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-how-to-create-hierarchies-in-power-query.md",
+      "title": "How to create hierarchies in Power Query",
+      "excerpt": "If you want to create hierarchies in Power BI, you need to structure your data in a special way, so they get displayed as hierarchies in Power BI.  In todays video I will show you how to model your data in Power Query, so your hierarchies are displayed correcly.  Link to Advance fill down techniques:",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-how-to-create-hierarchies-in-power-query/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-how-to-create-hierarchies-in-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=MK1jwHz8hoc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MK1jwHz8hoc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M17S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-06-08T04:19:42-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/MK1jwHz8hoc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-how-to-import-csv-files-from-github-in-power-bi-and-avoid-hard-coded-columns.md",
+      "title": "How to import csv files from github in Power BI and avoid hard coded columns",
+      "excerpt": "In this video I will show you how to get csv files from Github into Power BI and how to avoid hard coding columns when importing csv files.  The file is available for download in the download center - Community downloads. Please, use this dataset responsibly!! Here you can download all the pbix files:",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-how-to-import-csv-files-from-github-in-power-bi-and-avoid-hard-coded-columns/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-how-to-import-csv-files-from-github-in-power-bi-and-avoid-hard-coded-columns/",
+      "originalUrl": "https://youtube.com/watch?v=4vfAz7XDuH0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4vfAz7XDuH0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M41S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-03-18T06:11:48-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4vfAz7XDuH0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-intro-to-data-modeling-part2-snowflake-vs-star-vs-galaxy-schemes-in-power-bi.md",
+      "title": "Intro to data modeling (Part2): Snowflake vs star vs galaxy schemes in Power BI",
+      "excerpt": "We are going to continue developing the basic concepts of data modeling in Power BI, this time talking about different data models: snowflake vs star vs galaxy.  Part 1 of data modeling you will find it here: https://www.youtube.com/watch?v=V2mA40Z-R30  Here you can download all the pbix files: https://curbal.com/donwload-center",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-intro-to-data-modeling-part2-snowflake-vs-star-vs-galaxy-schemes-in-power-bi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-intro-to-data-modeling-part2-snowflake-vs-star-vs-galaxy-schemes-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=-vTakVyIDUU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-vTakVyIDUU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M14S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-04-30T07:38:11-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-vTakVyIDUU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-isnumber-istext-isdate-equivalent-in-power-query-or-m.md",
+      "title": "ISNUMBER, ISTEXT, ISDATE equivalent in Power Query or M",
+      "excerpt": "If you need to identify which values in a column are number, text or date, in today's video, I am going to show you 2 ways to do it.  Enjoy!  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-isnumber-istext-isdate-equivalent-in-power-query-or-m/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-isnumber-istext-isdate-equivalent-in-power-query-or-m/",
+      "originalUrl": "https://youtube.com/watch?v=b5FMV9fPCLc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/b5FMV9fPCLc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M51S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-09-07T03:10:58-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/b5FMV9fPCLc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-manage-data-source-credentials-in-power-bi-desktop.md",
       "title": "Manage data source credentials in Power BI Desktop",
       "excerpt": "Learn how to manage your data source credentials in Power BI. I will show you how to:  Secure, hide your API key in the store credentials Delete your data source credentials in Power BI Edit your data source credentials in Power BI    Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center",
@@ -415,625 +1151,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/i3s9isKKdDs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-when-will-dark-mode-be-available-in-power-bi.md",
-      "title": "When will Dark mode be available in Power BI?",
-      "excerpt": "How do I activate Dark mode in Power BI? Short answer, you cant, but it is in the power bi roadmap (https://www.youtube.com/watch?v=UFvQ661kK6M). In this video we will talk about when dark mode is planned, issues when embedding power bi reports where dark mode is available and also discuss some additional",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-when-will-dark-mode-be-available-in-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-when-will-dark-mode-be-available-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=Ozj1INblVGQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ozj1INblVGQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M13S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-04-08T04:36:02-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Ozj1INblVGQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-working-hours-without-holidays-weekends-and-by-country-in-power-query.md",
-      "title": "Working hours without Holidays, weekends and by country in power query",
-      "excerpt": "In today's video we are going to write a function that calculates work hour (seconds) between two datetimes. Working hour by location, holidays will also be included :)  Link to Bills thread: https://social.technet.microsoft.com/Forums/en-US/f3fc729e-a2ec-409a-b20e-b5cf8ff5dc2a/calculate-work-hours-between-two-timedate-stamps?forum=powerquery",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-working-hours-without-holidays-weekends-and-by-country-in-power-query/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-working-hours-without-holidays-weekends-and-by-country-in-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=GLIoDbOiJgw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GLIoDbOiJgw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M2S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-08-21T12:40:25-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GLIoDbOiJgw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/enterprise-dna-context-considerations-113-ultimate-beginners-guide-to-dax-2020.md",
-      "title": "Context Considerations - (1.13) Ultimate Beginners Guide to DAX 2020",
-      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/enterprise-dna-context-considerations-113-ultimate-beginners-guide-to-dax-2020/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/enterprise-dna-context-considerations-113-ultimate-beginners-guide-to-dax-2020/",
-      "originalUrl": "https://youtube.com/watch?v=sz7yW06scgk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sz7yW06scgk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M11S",
-      "provider": {
-        "name": "Enterprise DNA",
-        "domain": "enterprisedna.co"
-      },
-      "publishedDateTime": "2020-05-01T03:48:41-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/sz7yW06scgk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/enterprise-dna-enterprise-dna-membership-122-ultimate-beginners-guide-to-dax-2020.md",
-      "title": "Enterprise DNA Membership - (1.22) Ultimate Beginners Guide to DAX 2020",
-      "excerpt": "DOWNLOAD RESOURCES HERE https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Learn about advanced DAX functions, supporting tables, and customer segmentation.  ***** Learning Power",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/enterprise-dna-enterprise-dna-membership-122-ultimate-beginners-guide-to-dax-2020/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/enterprise-dna-enterprise-dna-membership-122-ultimate-beginners-guide-to-dax-2020/",
-      "originalUrl": "https://youtube.com/watch?v=ghTnqXBFa4Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ghTnqXBFa4Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M1S",
-      "provider": {
-        "name": "Enterprise DNA",
-        "domain": "enterprisedna.co"
-      },
-      "publishedDateTime": "2020-09-17T23:02:31-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ghTnqXBFa4Y/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/enterprise-dna-evaluation-context-18-ultimate-beginners-guide-to-dax-2019.md",
-      "title": "Evaluation Context - (1.8) Ultimate Beginners Guide to DAX 2019",
-      "excerpt": "Learn the importance of evaluation context and follow along to the Beginners' Guide to DAX tutorials by using the demo data available for download. Enjoy!  ***** Video Details ***** 1:10 calculating total quantity sold 2:31 defining filter propagation  3:17 writing advanced DAX formula  ***** Learning",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/enterprise-dna-evaluation-context-18-ultimate-beginners-guide-to-dax-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/enterprise-dna-evaluation-context-18-ultimate-beginners-guide-to-dax-2019/",
-      "originalUrl": "https://youtube.com/watch?v=bfJh_qMz7e4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bfJh_qMz7e4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M22S",
-      "provider": {
-        "name": "Enterprise DNA",
-        "domain": "enterprisedna.co"
-      },
-      "publishedDateTime": "2018-03-05T19:22:17-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/bfJh_qMz7e4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/enterprise-dna-how-the-data-model-and-dax-work-together-19-ultimate-beginners-guide-to-dax-2020.md",
-      "title": "How The Data Model And DAX Work Together - (1.9) Ultimate Beginners Guide to DAX 2020",
-      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/enterprise-dna-how-the-data-model-and-dax-work-together-19-ultimate-beginners-guide-to-dax-2020/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/enterprise-dna-how-the-data-model-and-dax-work-together-19-ultimate-beginners-guide-to-dax-2020/",
-      "originalUrl": "https://youtube.com/watch?v=DtcsX7WuITY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DtcsX7WuITY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M5S",
-      "provider": {
-        "name": "Enterprise DNA",
-        "domain": "enterprisedna.co"
-      },
-      "publishedDateTime": "2020-05-01T03:23:09-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DtcsX7WuITY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/enterprise-dna-how-to-combine-patterns-of-dax-formula-118-ultimate-beginners-guide-to-dax-2020.md",
-      "title": "How To Combine Patterns Of DAX Formula -  (1.18) Ultimate Beginners Guide To DAX 2020",
-      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/enterprise-dna-how-to-combine-patterns-of-dax-formula-118-ultimate-beginners-guide-to-dax-2020/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/enterprise-dna-how-to-combine-patterns-of-dax-formula-118-ultimate-beginners-guide-to-dax-2020/",
-      "originalUrl": "https://youtube.com/watch?v=XhUcOUvVPVI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XhUcOUvVPVI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M9S",
-      "provider": {
-        "name": "Enterprise DNA",
-        "domain": "enterprisedna.co"
-      },
-      "publishedDateTime": "2020-05-06T19:44:05-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/XhUcOUvVPVI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/enterprise-dna-main-difference-between-dax-excel-formulas-18-ultimate-beginners-guide-to-dax-2020.md",
-      "title": "Main Difference Between DAX & Excel Formulas - (1.8) Ultimate Beginners Guide to DAX 2020",
-      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/enterprise-dna-main-difference-between-dax-excel-formulas-18-ultimate-beginners-guide-to-dax-2020/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/enterprise-dna-main-difference-between-dax-excel-formulas-18-ultimate-beginners-guide-to-dax-2020/",
-      "originalUrl": "https://youtube.com/watch?v=YOA9diAflco",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YOA9diAflco\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M30S",
-      "provider": {
-        "name": "Enterprise DNA",
-        "domain": "enterprisedna.co"
-      },
-      "publishedDateTime": "2020-05-01T03:17:22-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YOA9diAflco/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/enterprise-dna-simple-aggregations-15-ultimate-beginners-guide-to-dax-2019.md",
-      "title": "Simple Aggregations - (1.5) Ultimate Beginners Guide to DAX 2019",
-      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/enterprise-dna-simple-aggregations-15-ultimate-beginners-guide-to-dax-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/enterprise-dna-simple-aggregations-15-ultimate-beginners-guide-to-dax-2019/",
-      "originalUrl": "https://youtube.com/watch?v=OA8WrkTIjXE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OA8WrkTIjXE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M4S",
-      "provider": {
-        "name": "Enterprise DNA",
-        "domain": "enterprisedna.co"
-      },
-      "publishedDateTime": "2018-03-05T19:22:17-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/OA8WrkTIjXE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/enterprise-dna-simple-filters-115-ultimate-beginners-guide-to-dax-2020.md",
-      "title": "Simple Filters - (1.15) Ultimate Beginners Guide to DAX 2020",
-      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/enterprise-dna-simple-filters-115-ultimate-beginners-guide-to-dax-2020/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/enterprise-dna-simple-filters-115-ultimate-beginners-guide-to-dax-2020/",
-      "originalUrl": "https://youtube.com/watch?v=ixqou88ncrc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ixqou88ncrc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M9S",
-      "provider": {
-        "name": "Enterprise DNA",
-        "domain": "enterprisedna.co"
-      },
-      "publishedDateTime": "2020-05-01T03:53:01-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ixqou88ncrc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/enterprise-dna-simple-filters-wcalculate-113-ultimate-beginners-guide-to-dax-2019.md",
-      "title": "Simple Filters w/CALCULATE - (1.13) Ultimate Beginners Guide to DAX 2019",
-      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/enterprise-dna-simple-filters-wcalculate-113-ultimate-beginners-guide-to-dax-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/enterprise-dna-simple-filters-wcalculate-113-ultimate-beginners-guide-to-dax-2019/",
-      "originalUrl": "https://youtube.com/watch?v=awpvBSiJhAg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/awpvBSiJhAg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M44S",
-      "provider": {
-        "name": "Enterprise DNA",
-        "domain": "enterprisedna.co"
-      },
-      "publishedDateTime": "2018-03-05T19:22:17-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/awpvBSiJhAg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/enterprise-dna-types-of-time-intelligence-functions-115-ultimate-beginners-guide-to-dax-2019.md",
-      "title": "Types Of Time Intelligence Functions - (1.15) Ultimate Beginners Guide to DAX 2019",
-      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/enterprise-dna-types-of-time-intelligence-functions-115-ultimate-beginners-guide-to-dax-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/enterprise-dna-types-of-time-intelligence-functions-115-ultimate-beginners-guide-to-dax-2019/",
-      "originalUrl": "https://youtube.com/watch?v=kmZlNMA0_SM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kmZlNMA0_SM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M6S",
-      "provider": {
-        "name": "Enterprise DNA",
-        "domain": "enterprisedna.co"
-      },
-      "publishedDateTime": "2018-03-05T19:22:17-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/kmZlNMA0_SM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/enterprise-dna-using-quick-measures-119-ultimate-beginners-guide-to-dax-2020.md",
-      "title": "Using Quick Measures - (1.19) Ultimate Beginners Guide to DAX 2020",
-      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/enterprise-dna-using-quick-measures-119-ultimate-beginners-guide-to-dax-2020/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/enterprise-dna-using-quick-measures-119-ultimate-beginners-guide-to-dax-2020/",
-      "originalUrl": "https://youtube.com/watch?v=dbiy9iDYdAg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dbiy9iDYdAg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M34S",
-      "provider": {
-        "name": "Enterprise DNA",
-        "domain": "enterprisedna.co"
-      },
-      "publishedDateTime": "2020-05-01T04:02:34-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/dbiy9iDYdAg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/enterprise-dna-using-quick-measures-in-power-bi-117-ultimate-beginners-guide-to-dax-2019.md",
-      "title": "Using Quick Measures In Power BI - (1.17) Ultimate Beginners Guide to DAX 2019",
-      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/enterprise-dna-using-quick-measures-in-power-bi-117-ultimate-beginners-guide-to-dax-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/enterprise-dna-using-quick-measures-in-power-bi-117-ultimate-beginners-guide-to-dax-2019/",
-      "originalUrl": "https://youtube.com/watch?v=M6iQ82K9NY0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/M6iQ82K9NY0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M23S",
-      "provider": {
-        "name": "Enterprise DNA",
-        "domain": "enterprisedna.co"
-      },
-      "publishedDateTime": "2018-03-05T19:22:17-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/M6iQ82K9NY0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/enterprise-dna-what-are-table-functions-in-dax-114-ultimate-beginners-guide-to-dax-2019.md",
-      "title": "What Are Table Functions In DAX - (1.14) Ultimate Beginners Guide to DAX 2019",
-      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/enterprise-dna-what-are-table-functions-in-dax-114-ultimate-beginners-guide-to-dax-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/enterprise-dna-what-are-table-functions-in-dax-114-ultimate-beginners-guide-to-dax-2019/",
-      "originalUrl": "https://youtube.com/watch?v=aeycw4IW02E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aeycw4IW02E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M41S",
-      "provider": {
-        "name": "Enterprise DNA",
-        "domain": "enterprisedna.co"
-      },
-      "publishedDateTime": "2018-03-05T19:22:17-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/aeycw4IW02E/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/enterprise-dna-what-is-dax-why-do-you-need-to-learn-it-12-ultimate-beginner-guide-to-dax-2019.md",
-      "title": "What Is DAX? & Why Do You Need To Learn It - (1.2) Ultimate Beginner Guide to DAX 2019",
-      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/enterprise-dna-what-is-dax-why-do-you-need-to-learn-it-12-ultimate-beginner-guide-to-dax-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/enterprise-dna-what-is-dax-why-do-you-need-to-learn-it-12-ultimate-beginner-guide-to-dax-2019/",
-      "originalUrl": "https://youtube.com/watch?v=fZasNZKfqnI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fZasNZKfqnI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M32S",
-      "provider": {
-        "name": "Enterprise DNA",
-        "domain": "enterprisedna.co"
-      },
-      "publishedDateTime": "2018-03-05T19:22:17-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/fZasNZKfqnI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/enterprise-dna-where-to-next-121-ultimate-beginners-guide-to-dax-2020.md",
-      "title": "Where To Next - (1.21) Ultimate Beginners Guide to DAX 2020",
-      "excerpt": "DOWNLOAD RESOURCES HERE https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Learn about advanced DAX functions, supporting tables, and customer segmentation.  ***** Video Details",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/enterprise-dna-where-to-next-121-ultimate-beginners-guide-to-dax-2020/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/enterprise-dna-where-to-next-121-ultimate-beginners-guide-to-dax-2020/",
-      "originalUrl": "https://youtube.com/watch?v=n5ymKk9Rl6I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/n5ymKk9Rl6I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M",
-      "provider": {
-        "name": "Enterprise DNA",
-        "domain": "enterprisedna.co"
-      },
-      "publishedDateTime": "2020-09-17T23:00:53-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/n5ymKk9Rl6I/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-3-hidden-tricks-in-the-power-query-editor-for-power-bi-and-excel.md",
-      "title": "3 HIDDEN tricks in the Power Query editor for Power BI and Excel",
-      "excerpt": "Showing off 3 HIDDEN tricks in the Power Query editor, in Power BI and Excel, that you may not have known about. Little things that take Power Query to the NEXT LEVEL!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next level? We",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-3-hidden-tricks-in-the-power-query-editor-for-power-bi-and-excel/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-3-hidden-tricks-in-the-power-query-editor-for-power-bi-and-excel/",
-      "originalUrl": "https://youtube.com/watch?v=BC_H6tJsxX0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BC_H6tJsxX0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M36S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-08-11T08:00:02-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/BC_H6tJsxX0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-3-steps-to-do-an-it-admin-takeover-for-power-bi-and-office-365.md",
-      "title": "3 steps to do an IT Admin Takeover for Power BI and Office 365",
-      "excerpt": "In this video, I revisit how to perform an IT Admin takeover for your tenant. This could just be a tenant that you did an individual sign up for Power BI with.  I walk through the 3 main steps to perform the takeover. Doing the takeover doesn't cost you anything. For more detail on the cost of Power",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-3-steps-to-do-an-it-admin-takeover-for-power-bi-and-office-365/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-3-steps-to-do-an-it-admin-takeover-for-power-bi-and-office-365/",
-      "originalUrl": "https://youtube.com/watch?v=xt5EsrQBZZk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xt5EsrQBZZk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M58S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-12-20T12:36:08-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/xt5EsrQBZZk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
