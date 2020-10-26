@@ -1,16 +1,13 @@
 ---
 title: "Private video"
 excerpt: "This video is private."
-originalUrl: https://youtube.com/watch?v=6kBI7AHnMd0
-webUrl: https://smartable.ai/apps/powerbi/learning/videos/curbal-private-video/
+originalUrl: https://youtube.com/watch?v=M1SlZ6lD4yo
 type: video
 price: Free
-publishedDateTime: 2020-10-21T11:42:41Z
+publishedDateTime: 2020-10-26T10:24:36Z
 heat: 130
-removed: true
-published: false
 
-featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6kBI7AHnMd0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/M1SlZ6lD4yo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
   name: Curbal
@@ -22,8 +19,7 @@ provider:
 
 topics:
   - Power BI
-  - DAX
 
-secured: "uAezUhoEs3Qpc22FSbuU5rc6y7hRcYMb87KmwR9Tm0wz2mXw6GLTIpN4QyxP8H/TsMUdVdcff1WI415Vn9de5Q3P/cWK+6mghcHuXSmhLIMY7Ra0H7RRbZ334FRY8nFjZON8IkCvbaIeZVxf+TncSguBHqaDD+wZx9jRvDwhnbwDXw71LNXMh7AlsO4IavWzjcUCxAqh6Q3+gVwfqV4jGa5x+PsY+ABwAz2EpsvibkonbZm+pi56GRPk2h0XzZ3jvXrOoBtkGs2Why7m8fsa6q8ImVD08Xcf2rszB7x3o+mgusnyH+xMaHw83h7wc25sqVnBzSB2WdzWNVuN6Rf457e5w/J/1EvsdsbWtrU8UcY=;EQRme4xa8DCaRT8jgd2yvA=="
+secured: "HbNMfeDOmt3LTcBXwh4ax5bQgidIz0NM3yLx+7JaCLq69PCa8gPIA0G6tgB/0ZUkzjedvnWdkSJIk+0dqB2zBUByKa3OX801yMxlZooXqJfi414dzYagVV2LfMnpNHTG1CK2kvkyPU5LBk+0s7Dzu/GnfiVyOVqGS8CWBcsr0XuxyKI0lyi3DDgYH0xm0BdnKnyC+DlTGmiIVtYDxQf7WwhrlZYJf/FitXgOg1Hy+HE/Bm0rUkq4tklrmqnVduWeGzq51DiugB8z5cXehnB/VctjArYVgIe+KDF0kzSVmAm6KydJtRA1HPci9DtC+kdG7rh+sbMDOEMBYK2FkCSFspUtvuTp8abG5Kym4jfthQk=;hebbqySFs/PK7la5GC53UQ=="
 ---
 
