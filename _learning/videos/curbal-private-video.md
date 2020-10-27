@@ -21,6 +21,6 @@ provider:
 topics:
   - Power BI
 
-secured: "EAImCsQAw1D/ST1aA7ZT00q9B/pPtAwV7bMI829ld57G7ckevv7PEjpMJoQq50epJr1TmBk9+OOXl/h0Fvm/HDXAa30OvPxitJt/oabPGJadlbSFEQ3afbm8YHiBds+R9MCMd6tTnvw5+aYtTrgXM03+6GHS4y6yGEgqOabL45fHUlB+/aQEbZco7nZBp2+x0+k5H5ZyIH3zHsqkgHrchkczbV/6MetEQge9lhkfbNsLxJwNy78DrdnhMDokTh7+VSqbk8BYfuvXAhD6i1FVsvpBMsN0OKFKp+mdwyeZDuGy2B3+vp2AAzQq3fHHhjqogR7Pj+468uJtqt+1CSG4el0sNQbY+bmNYpuRPFT+5ng=;b6NIfypg7HNorqoxtyj0hg=="
+secured: "vMsIj/+1n5xQp19EzSb50G5kTn0V89tgE+Lpaf+9I3+lqhZppEVOEWsUveDMNl2RcZoONAv1w0ApsKAgPyxUIw2e80gaK7vEO/EMHCcKwIHT+EaOn+rm4xxrVnZaRXPt0YOJupKH/3hp/hW/Q35a4cs8bN2aBTVKg8qIj+3tXycu9cJhg4Zb3WID9StHirywQuSWFdNy2vYecLE1iiQV9ynjtCJs9DvEDbJInPysScI4hoKdYc/Nz+XQ/BNIUtk1lUsYTcJaV5MENTt2RBTIDsNJbr+CR00JH8i74iKMgUgXiba0VkJyTvOnru9kpeh/heUFjhclUKreB6mgL31Bw6RB99E3qFoeqfq8NSB+XcY=;rVXxqHTatD2Tf5p/b8OFAw=="
 ---
 
