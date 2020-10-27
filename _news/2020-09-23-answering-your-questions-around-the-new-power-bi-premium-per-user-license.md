@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/answering-your-questions-
 webUrl: "https://powerbi.microsoft.com/en-us/blog/answering-your-questions-around-the-new-power-bi-premium-per-user-license/"
 type: article
 quality: 86
-heat: 87
+heat: 86
 published: true
 
 provider:
