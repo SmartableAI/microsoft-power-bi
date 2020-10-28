@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT4M10S
 publishedDateTime: 2016-12-13T20:27:54Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nfkVljh_9O4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "A look at the new Power BI embed sample"
 
-secured: "1SqNOXmoib5vRRpW+zytnXO/5tVH9v3mrCPNc9588X8dvlCF7mm1/QMzZE144NjvYXsKHnfHzL2tGEXTwEE73BjrKJEjC+KYgf+ep+cK2bJVBfDmBw6RiUkpVdnJnY7Xu5n+jqsA8JQyeznn4B+Dk2+A5A+O4qJEssSlpHhoES1AGJBud9UwY6bPoWqMmUhoKzdOR2Td/46j8ohVaJO4XhG8WpUgRfrEfhk+vd9ZlRJkDJq7OjgRrzFecotKKt/XdrB5Loz0Voub0a37jjeu7Eyj0Bf3GjM79+qkZq12M5K3w99bZ9KUDVZon5dkUCOgcOwlzsuUVkKegsJHSYC8dkgp21gxxWDZ9evIyQfgLWLyI5ghqjWxO5J5DmlHJrPEE7Vu2czJlJGE5nDbESCNZpxm5kS5GkfUQpXFg32QNVg=;2/EQM/gpYxKj1lYtAEjMvw=="
+secured: "//GlYBjVXoQ7rI7FqbU+nSoNha6pi2nXm8Fm7SCqH0yvGHorA6HGmt98sQtil2wH287tSVL3Y9Bs/m+/r3ngGHKLtbrsUjZ04nGwEzmzAMpb4kxN6Em0hmyo0VBIZuLxEGSf65gV/ZRlMRdEptWaM3HXeU+Zem/E9/HH3m6WGj9L0aOst/9vl6UHuMQslKXO0QmHFwxLSYC4cO6a3UwfwW/3sUpVg2ffMax+138vfYf9wiwE5ojz0SfJTu0JNwS7toxQ44d0EGXw04QysBHOP1zKoW1xP9eEigka41orBffhBlISk+uF/Pk1hQSNk4Ue1yk3pUClZ/OzhQUWNZY5vv3J3fXVTVj60vOCHaUl2b1ZlehslmZU7eLbUdUoDCCxv0Rrb027zpZiCBJRWVx8jvWATa5ENUYRH+nBfTk30dE=;Pr+vJ4wgFr3lfSX+CEFbPA=="
 ---
 
