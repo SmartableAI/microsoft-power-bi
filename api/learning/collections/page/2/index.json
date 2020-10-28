@@ -525,8 +525,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-requirements/",
           "length": "PT23M",
           "ratings": {
-            "count": 283,
-            "average": 4.7279153
+            "count": 284,
+            "average": 4.7253523
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -600,8 +600,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 431,
-            "average": 4.6566124
+            "count": 433,
+            "average": 4.658199
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -642,8 +642,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 424,
-            "average": 4.6698112
+            "count": 425,
+            "average": 4.670588
           },
           "provider": {
             "name": "Microsoft Learn",
