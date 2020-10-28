@@ -4,6 +4,44 @@
   "page": 4,
   "value": [
     {
+      "path": "_learning/videos/guy-in-a-cube-integrate-power-bi-reports-in-microsoft-teams.md",
+      "title": "Integrate Power BI reports in Microsoft Teams",
+      "excerpt": "You can integrate your Power BI reports into Microsoft Teams. Whether it is from a workspace directly or within a published App. Power BI Paginated reports can be integrated as well.  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-integrate-power-bi-reports-in-microsoft-teams/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-integrate-power-bi-reports-in-microsoft-teams/",
+      "originalUrl": "https://youtube.com/watch?v=YWoRoiMFIxQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YWoRoiMFIxQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M53S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-03-03T06:09:59-08:00",
+      "heat": 67,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/YWoRoiMFIxQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-power-bi-apps-vs-app-workspace-the-new-viewer-role.md",
       "title": "Power BI Apps vs App Workspace (the new Viewer role)",
       "excerpt": "The viewer role for Power BI App Workspaces is now available! Now, let's look at Power BI Apps vs. App Workspaces and have a discussion around which is the better way to go for content distribution in your enterprise.  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton",
@@ -1595,8 +1633,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 256,
-            "average": 4.703125
+            "count": 257,
+            "average": 4.7042804
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2185,48 +2223,6 @@
       ],
       "content": "\r\n",
       "type": "collection",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-design-model-power-bi.md",
-      "title": "Design a data model in Power BI ",
-      "excerpt": "The process of creating a complicated data model in Power BI is straightforward. If your data is coming in from more than one transactional system, before you know it, you can have dozens of tables that you have to work with. Building a great data model is about simplifying the disarray. A star schema is one way to simplify a data model, and you’ll learn about the terminology and implementation of them in this module. You will also learn about why choosing the correct data granularity is important for performance and usability of your Power BI reports. Finally, you’ll learn about improving performance with your Power BI data models.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-design-model-power-bi/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
-      "length": "PT2H8M",
-      "ratings": {
-        "count": 965,
-        "average": 4.737824
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/design-a-data-model-in-power-bi-social.png",
-          "width": 643,
-          "height": 322,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
       "topics": [
         "Power BI"
       ]

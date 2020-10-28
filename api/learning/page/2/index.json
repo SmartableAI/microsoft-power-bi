@@ -4,6 +4,44 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/videos/guy-in-a-cube-data-modeling-best-practices-part-1-in-power-bi-and-analysis-services.md",
+      "title": "Data modeling best practices - Part 1 - in Power BI and Analysis Services",
+      "excerpt": "Patrick looks at a few data modeling best practices in Power BI and Analysis Services. These are things we see customers doing on a regular basis and you should be aware of it.  Guy in a Cube courses: https://guyinacu.be/courses  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-data-modeling-best-practices-part-1-in-power-bi-and-analysis-services/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-data-modeling-best-practices-part-1-in-power-bi-and-analysis-services/",
+      "originalUrl": "https://youtube.com/watch?v=kiVXI7zjSzY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kiVXI7zjSzY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M5S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-08-25T06:14:36-07:00",
+      "heat": 88,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/kiVXI7zjSzY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-power-bi-bookmarks-selections-and-toggles.md",
       "title": "Power BI Bookmarks, Selections and Toggles",
       "excerpt": "In this video, Patrick shows how you can use bookmarks and selections to create interesting reports to show different aspects of your data. He also shows a very cool way to change between those selections that he picked up from one of his customers.  Bookmarks - https://powerbi.microsoft.com/en-us/documentation/powerbi-desktop-bookmarks/",
@@ -654,8 +692,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/",
       "length": "PT31M",
       "ratings": {
-        "count": 4659,
-        "average": 4.7286973
+        "count": 4660,
+        "average": 4.728541
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -757,8 +795,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 1576,
-            "average": 4.7493653
+            "count": 1578,
+            "average": 4.748416
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -799,8 +837,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 1467,
-            "average": 4.7655077
+            "count": 1469,
+            "average": 4.765827
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -859,8 +897,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 1467,
-        "average": 4.7655077
+        "count": 1469,
+        "average": 4.765827
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1283,44 +1321,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/lkHFpmA4SJ4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-reduce-the-of-measures-with-calculation-groups-in-power-bi.md",
-      "title": "REDUCE the # of measures with Calculation Groups In Power BI",
-      "excerpt": "Sometimes you end up with a LOT of measures that are related. You can reduce the number of measures with Calculation Groups in Power BI and clean up your field list!  Download Sample: https://guyinacu.be/calcgroupssample  📢 Become a member: https://guyinacu.be/membership   *******************  Want",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-reduce-the-of-measures-with-calculation-groups-in-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-reduce-the-of-measures-with-calculation-groups-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=vlnx7QUVYME",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vlnx7QUVYME\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M24S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-08-05T08:00:14-07:00",
-      "heat": 72,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/vlnx7QUVYME/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
