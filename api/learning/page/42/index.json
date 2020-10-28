@@ -4,120 +4,6 @@
   "page": 42,
   "value": [
     {
-      "path": "_learning/videos/curbal-two-ways-to-write-natural-language-narratives-in-your-power-bi-reports.md",
-      "title": "Two ways to write natural language narratives in your Power BI reports",
-      "excerpt": "We show you here two ways to build natural language into your Power BI reports: 1. Using Narrative science custom visual: https://powerbi.narrativescience.com/welcome  2. Create the natural language using measures  If you want to use Narrative Science service for Google Analytics, here is the link: https://www.narrativescience.com/quill-engage",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-two-ways-to-write-natural-language-narratives-in-your-power-bi-reports/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-two-ways-to-write-natural-language-narratives-in-your-power-bi-reports/",
-      "originalUrl": "https://youtube.com/watch?v=o_Qh0SccyAc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/o_Qh0SccyAc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M25S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-02-06T02:28:14-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/o_Qh0SccyAc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-understand-how-your-power-bi-queries-are-built-sources-source-types-etc.md",
-      "title": "Understand how your Power BI queries are built (sources, source types, etc)",
-      "excerpt": "In this month’s release, Power BI added a Query Dependencies view in the Query Editor (under the View tab in the ribbon) that allows you to see all queries and your dependencies on other queries or data sources at a glance, as well as an indicator of their Load status.  In this video, we show you what",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-understand-how-your-power-bi-queries-are-built-sources-source-types-etc/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-understand-how-your-power-bi-queries-are-built-sources-source-types-etc/",
-      "originalUrl": "https://youtube.com/watch?v=GkjUK9ajQ1I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GkjUK9ajQ1I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M53S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-10-11T13:18:14-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GkjUK9ajQ1I/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-use-power-bi-without-a-mouse.md",
-      "title": "Use Power BI without a mouse",
-      "excerpt": "In this video I will show you how you can easily click around in Power BI without using a mouse!! Now you can work in your back yard or pool side like a pro!   Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-use-power-bi-without-a-mouse/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-use-power-bi-without-a-mouse/",
-      "originalUrl": "https://youtube.com/watch?v=aRJp7U5ODL0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aRJp7U5ODL0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M18S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-11-04T04:30:07-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/aRJp7U5ODL0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/curbal-use-r-visuals-without-r-knowledge-in-power-bi-power-bi-tips-tricks-18.md",
       "title": "Use R visuals without R knowledge in Power BI - Power BI Tips & Tricks #18",
       "excerpt": "In today's video, I will show you how to use R visuals without knowing anything about R.  How to install R for Power BI: https://www.youtube.com/watch?v=HcTdXgWGdS8 Link to R visuals gallery: https://app.powerbi.com/visuals/   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center",
@@ -1075,6 +961,121 @@
           "width": 1280,
           "height": 720,
           "title": "A look at the new Power BI embed sample",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-a-way-to-get-rid-of-the-pie-chart-in-power-bi-desktop.md",
+      "title": "A way to get rid of the pie chart in Power BI Desktop?!?",
+      "excerpt": "Patrick shows you how to get rid of the pie chart in Power BI Desktop. Finally a way to remove the temptation! The ability to customize the visual pane in Power BI Desktop lets you do it.  Guy in a Cube courses: https://guyinacu.be/courses  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-a-way-to-get-rid-of-the-pie-chart-in-power-bi-desktop/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-a-way-to-get-rid-of-the-pie-chart-in-power-bi-desktop/",
+      "originalUrl": "https://youtube.com/watch?v=RSBxXPZpW2Y",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RSBxXPZpW2Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M56S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-09-29T07:46:36-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RSBxXPZpW2Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-adam-and-patrick-unplugged-may-2017-ep3.md",
+      "title": "Adam and Patrick Unplugged - May 2017 [EP3]",
+      "excerpt": "In this episode of the Adam and Patrick Unplugged Show, we were at SQL Saturday NYC and thought we would bring in a few guests to join us and talk about what they are doing and what they could share with you!   Jonathan Stewart (1:31) Twitter: @SQLLocks Website: https://sqllocks.com  Where you can see",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-adam-and-patrick-unplugged-may-2017-ep3/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-adam-and-patrick-unplugged-may-2017-ep3/",
+      "originalUrl": "https://youtube.com/watch?v=QLxkfFAhzYo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QLxkfFAhzYo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M43S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-05-25T08:09:45-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QLxkfFAhzYo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-adam-patrick-unplugged-april-2017-ep2.md",
+      "title": "Adam & Patrick Unplugged - April 2017 [EP2]",
+      "excerpt": "In this video, Patrick and I talk about what is on our minds. We take a look at some updates in Analysis Services 2017 CTP 2.0. We look at the new navigation experience in Power BI that is coming out in early May. We also talk about some friends, Santa Clause and Power BI reports in Reporting Services.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-adam-patrick-unplugged-april-2017-ep2/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-adam-patrick-unplugged-april-2017-ep2/",
+      "originalUrl": "https://youtube.com/watch?v=cbLCjJK_YSE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cbLCjJK_YSE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M18S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-04-23T12:58:09-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/cbLCjJK_YSE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
