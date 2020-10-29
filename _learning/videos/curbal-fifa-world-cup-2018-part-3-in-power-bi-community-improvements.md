@@ -4,7 +4,7 @@ excerpt: "It is world's cup fever: FIFA world cup 2018 in Russia!!! And we dont 
 originalUrl: https://youtube.com/watch?v=tKsbXRE6mIE
 type: video
 price: Free
-length: PT7M45S
+length: PT7M44S
 publishedDateTime: 2018-06-06T19:25:58Z
 heat: 50
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "gzUG6JEp0M5El/UrBkxPjw90dllVMvXPaekwCHklHpWjyo7Ks28mW7IIWyM6kLfJkqT9G0PMGZ5RAdLiJ1FV+VTTzEFp/TWWqyN+YdVmQ/icw+VWJhO3UWqjxlU8nuSiguQjL8iuZXxuevGGYSHStnhnqyNsVnX+7YVwljOnF+X3S1nhLj0j9FhMxkb8Pv3YWeizekjpfCs2Do3zInIPqtkYIpGaa3zavgXck+5obEguL8IeWvYvhO7EtY9xpG2r70t735QF5Itd096fHPQ0P005I650Bnrz+CU/VyvDC/F+kNEMXJiamjiRuj0a87eEXxXLbAiKvLShb5Y3Nu9dh6fBdu0quWNjYmOrW/fwI7aa0uenWJz30joMmq2vEEQcnpHmNyQWNobHDkb5JmgGdytmLF+LmxOHwj2afJgLrjc=;g4vcrhUMM2bv0HfYrd1N1A=="
+secured: "qjsIhz0Z5yYlxaEvO+jC8IzAtLZ+qWDfeRQ9yBO4q4YtPm0ibiFxvFYuZNvNmBbh38b+oqzDSYZWeRZEMfZwqy9Z43pbRuXzllGnmKd2ZUEyJ9lGIEkp3acKI1qmcE0alwYYuxxZLjp/H7E0BRiI0tfJ/o+sF9ltr9WmwhiaBLV0cy3WwGalUuhIvtiVpxhuJlPeYor0VXNHtPemzdwQjCOuII8yzWLXtTW2qPW7zGApugAXt6g4IBTJKXng/WyhVylcAxCrBoIWEdouK3HFl5r2K9PNE9flC2ZaJVtluMzAbSxtyBnbbFYdTwbz8aO73iJDF7bs2nwXGPPWft8KfSWT3NqDTW7m1Jy8+hOLsxIk5yKGRSt+CdkjjvpiVH+dxKwDYQro/4LFaGsfqGQCgxKiMS9DJuuSy6uQr4C+f1o=;KVJDXYEWRlaxI10cnU1H2Q=="
 ---
 
