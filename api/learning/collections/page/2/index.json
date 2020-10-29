@@ -497,8 +497,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 830,
-            "average": 4.7493978
+            "count": 831,
+            "average": 4.749699
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -515,7 +515,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 137,
+          "heat": 57,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/optimize-model-power-bi-social.png",
@@ -747,8 +747,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 278,
-            "average": 4.6079135
+            "count": 279,
+            "average": 4.609319
           },
           "provider": {
             "name": "Microsoft Learn",
