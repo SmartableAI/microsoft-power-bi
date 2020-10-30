@@ -2,6 +2,7 @@
 title: "DAX Fridays #190: Year Over Year population change in Europe with Eurostat API"
 excerpt: "In todays video we will calculate YOY population in europe and finalize the report we started on this series.   Link to Previous videos: How Eurostat API works: https://www.youtube.com/watch?v=UwXo1OcwbAg  Build a report based on Eurostat data. We will get total population and population growth and map"
 originalUrl: https://youtube.com/watch?v=rIcs4Mz1umQ
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-190-year-over-year-population-change-in-europe-with-eurostat-api/
 type: video
 price: Free
 length: PT17M49S
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "blFhMKmthNFX7Gd1gWx0gKlH/iIibB30B9QOKZEyQBU7gJ8BDGI0BcdTe6ADGyALrCXMDimVVXnEB83BeObgKQQtdbBQIkBIq0/bxYiKlxBFgNYTiPaHabVEdQfiue4fWZuM3dPhC9T6+PizgGQOqD6em8CMxEnWqyiBGuiQLVv2Y3pVQ1zfUpNy+gzku0ccgXV2YVeYbuMQn8F158KencnPysY8EO32S4DmUuTDF1ICvdVF7ivl+AsWVTvyQp22Scdx4IlAe07jzDjOkHbwvUlRRWxhADrwMG9Fz5DkJLxKfMxlJd8nVnjPqbah6kc50Fpfcn81+uG+Qv5A19qRUOhW9++uZ0RL1JhjD9CvftXqEBBdQBW5eUtZkLZGknaamW811k2e8qyqqvrolmUyNg==;KgB/4wi8+InpM8irIW3k4w=="
+secured: "oQvjIQ27MTDgv3ofZLZa9Qk//zcP6aSahXZSv1xsl31svEt95DGmhibNj9BXwPwVnW0bcgIWTDWTFK/JQGBunrPPZy2STJDfIlQK7n+BklI3sTd7zphnEUJSpO/DiQBbYOq49n40Ug/5aqGIVDqA1KWmmnzjgskCQXgjV81dWpRXyUBpBNha7XfGMeCQJBbXDxOMah/02RMVMqx1BWXUfE2k87300L2suy2Bh/ipmA/lFax4RhpOmmfwYRlYgLlN6uFW5+vdLUvFqpzgHCzV1AIFveXoeKVGwzdYiUP5bt4512wcbTgQQtJXwfurG2YCkXHzGit4hAzrlh4ttfDOXSCQxhX8iBQKYoV+vwmQf5c0fVGqwiBoqMjx6NUnCS5ecP/ckey3VCwbFwxPRAEnqw==;dsTKoNIg37xA3zOGqprM1Q=="
 ---
 
