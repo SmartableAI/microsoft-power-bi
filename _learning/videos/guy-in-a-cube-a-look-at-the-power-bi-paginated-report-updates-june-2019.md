@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT10M48S
 publishedDateTime: 2019-06-05T10:32:34Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2G4P6L_A7oo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "PddWSaDLx1o83mMC/l0uzX01HmV5xJCzFACqIiL5sJ90uhDMcV+sG77+pnRGUpIEPPUdTJj5ABEbDhqiV2YDg0Ieru9hxUOudCsFbfy7Pt05K5O9cQoB9LBaKmzt+r+xOCtyIjDrdic2g1o8u0Ss5QERGei4+6/C9TYXrjnAyzuq6TfLE2rce4+MKUly6SJs8mnJSXGINCuJDOIxTfEcWkirLjyVmgbQxfd2nMtKT82uvIPsg6DtN1YglJQHB1lfqvk3WzfyZIICgOiHei1Y+FkBrefkiW3p7NrFKU4YWC/dF35eGPBiF0QfF5DyKiNUORyG0XPZlNIzUGYRjZv6gIH2gEZ+j6yHIw+IUq6mbdJN2Ncx2wfBsIYxBSyUWQYuQeC4RSG2PWUTuyk9pkEjf9jcpfKJtEEHR/2hlBlc92Y=;m+8prklL78lQPoW6XeCLSQ=="
+secured: "pWazie/VrLet9n4jUgNttiHreyqvulOYa892L1vgokcRL6xzB9pjAHKubs0WCBGUVOv9z5fSpUBjyiedpxtdKB7euEwVo55jm9pzSUfRhJGzvVor+zo4fFK3c43wSp+kuFWk0pWu5nY7TIcvd8OV9ERuWf1DQYlIGr4xq1cM/iigxrHjXW+JaImivo1oSRKd93IGmQXHI9jX2fnm7bTk9y2Px2rI7kkELgpeBCUC3TNIJYItUFtkdq4ilEz+skuLpU40RvNhHPHfQEkkqUWrcOnwmiz34n0iQhRsiLC0QKcsAeVmlzvnfei84/poPUFpe/0xFBboYL+3U7fX+MjJuJzXU/+DfWxz8RdHy4GwviJr8cDodQQcgKk0dnK4nUOxrbEcl+yZPJPcljn3ceHmk6V7X9NN0spLWHyzkjgsl+4=;UG6Dx8Ax7MM4Jx/S2Ctq9w=="
 ---
 

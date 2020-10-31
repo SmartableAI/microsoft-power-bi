@@ -216,7 +216,7 @@ items:
   - videos/curbal-dax-fridays-battle-187-rankx-vs-topn
   - videos/curbal-dax-fridays-battle-188-filter-vs-calculatetable-avoid-using-filter-as-a-filter-argument
   - videos/curbal-dax-fridays-189-which-function-is-faster-to-count-rows-count-or-countrows
-  - videos/curbal-dax-fridays-190-year-over-year-population-change-in-europe-with-eurostat-api
+  - videos/curbal-dax-fridays-190-part-3-year-over-year-population-change-in-europe-with-eurostat-api
 
 topics:
   - Power BI
