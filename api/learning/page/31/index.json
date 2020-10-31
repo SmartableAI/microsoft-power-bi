@@ -235,8 +235,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/continuously-export-data-from-iot-central-power-bi/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 54,
-        "average": 4.5185184
+        "count": 55,
+        "average": 4.490909
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -277,8 +277,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-anomaly-detection-using-azure-iot-hub/",
       "length": "PT1H6M",
       "ratings": {
-        "count": 208,
-        "average": 4.581731
+        "count": 210,
+        "average": 4.5761905
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -319,8 +319,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/discover-customer-needs/",
       "length": "PT36M",
       "ratings": {
-        "count": 445,
-        "average": 4.669663
+        "count": 446,
+        "average": 4.6704035
       },
       "provider": {
         "name": "Microsoft Learn",
