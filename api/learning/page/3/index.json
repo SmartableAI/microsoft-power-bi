@@ -4,48 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-get-data.md",
-      "title": "Get data in Power BI",
-      "excerpt": "You will learn how to retrieve data from a wide variety of data sources, including Microsoft Excel, relational databases, and NoSQL data stores. You will also learn how to improve performance while retrieving data.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-get-data/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
-      "length": "PT1H25M",
-      "ratings": {
-        "count": 1620,
-        "average": 4.745679
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/get-data-social.png",
-          "width": 643,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-how-do-you-conditionally-highlight-a-bar-in-a-power-bi-report.md",
       "title": "How do you conditionally highlight a bar in a Power BI Report?",
       "excerpt": "There are different interactions Power BI visuals can have, but how do we conditionally highlight a bar in a Power BI report using a slicer? Patrick shows you some MAGIC to get this to work.  Question from Live Stream: https://youtu.be/hS4hZdNZ8vw?t=1009  Phil Seamark's Blog: https://dax.tips/  Edit",
@@ -746,8 +704,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 1518,
-        "average": 4.7661395
+        "count": 1519,
+        "average": 4.7662935
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3012,8 +2970,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
       "length": "PT60M",
       "ratings": {
-        "count": 5213,
-        "average": 4.6926913
+        "count": 5215,
+        "average": 4.692809
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3046,8 +3004,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-share-power-bi/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 3305,
-        "average": 4.7059
+        "count": 3306,
+        "average": 4.705989
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3244,6 +3202,36 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/zXZAZrUwUe8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-power-bi-vs-tableau-5-factors-to-choose-a-winner.md",
+      "title": "Power BI vs Tableau 🔥 5 Factors to Choose a Winner",
+      "excerpt": "Compare Power BI vs. Tableau on 5 factors ​• Visualization • Data Shaping • Data Modeling • Ecosystem • A Mystery Factor ??? ...Hear me speak at the TDWI Event: **BI Across Borders: Power BI + Tableau Think Tank** Date: Wednesday Jan 24th 2018 6:15pm-8:45pm Venue​​: Piggot Auditorium, Seattle University​",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-power-bi-vs-tableau-5-factors-to-choose-a-winner/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-power-bi-vs-tableau-5-factors-to-choose-a-winner/",
+      "originalUrl": "https://youtube.com/watch?v=FoqSPCtj7zo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FoqSPCtj7zo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M18S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2018-01-09T21:20:01-08:00",
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/FoqSPCtj7zo/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
