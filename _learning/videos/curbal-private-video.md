@@ -6,6 +6,8 @@ type: video
 price: Free
 publishedDateTime: 2020-10-30T13:27:27Z
 heat: 130
+removed: true
+published: false
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zUaVpgAdVGs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
