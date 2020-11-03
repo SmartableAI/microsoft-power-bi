@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT27M54S
 publishedDateTime: 2018-01-22T15:03:09Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OKxqOoy7n4E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "4svkLwKdLDTpq3SbSvLT2u+r6oMJZhC7f1MF7rmnZx9zIt0OgSIg2X8bVQTjLPED9zCVHUUY2mjyGDoZiWmB6cwAND8mmKgVAVUWqZl2rtq2gwOYw8AseIug/qRgBZsfsJsICcxSTJO+BumYw4IN7XK5Nk3RAO1wIWeRddMHgBBWltfj1uorTafLAtdCPY85Zmx0A/QcysXsYtAHXEpODag3GhWewyHthGBY9g6BjPyCo7bHK/V36W6aRnaXpa4+ur8+SBkmSmyj7LcWvHM3E0Z4JP/bbSNW1ANTnys/Kc2+kHC7ypGrIWpPjktKbDsISxfIfveomkiSddiQ8zdouygMtqAPrm4lQpz9O2J0GQHB20BGdnXKcpoVCfn/2YsL7uAh4DOlqiEnGbrAG5Z0DNRQU9pAr3nK6Jo4UddMRiU=;nU3Lm1w2C9FuoAET511HCw=="
+secured: "LawHamLQobNdHPWgf7g4cGurlhi/bg141dylnJkp40FrwL7luNrDlLQMAeJQWROS5DfBARIdV8a1EXkWSMvRYr0gy+dBpoWv2y4FWx+H1d3irPUNs+zciq5w2d06l7dCzk3cf4d4kvwflNiJtWpPmVqSE/CF+AApOz8CZ6IVE+RYYTy82kkO7FoNESRPl0gxtfzS6Bqd+CP9t/Mgmu0Uj1jC3eDDAJJDkltv5oDQH4y+yIH/+xZ2dWMCTJHYwnEvKIb09IxP4fvKS01jtiSPf/q1Rx/C/dDrgT06mc3aWu+mS8jox2X7ap9O7C7OgRZypDIUd61TlzvgWTlzR+eK0YC4rDX0yJ6/BZYAvCvmoouUynwnbvIcWnRyNBHXuwj/a/QIG3xn8ByEW/EQUJ5vrImY2H9UlbUKEXsWC3IUiQM=;hptgkfIpNQ2dmQML62142A=="
 ---
 

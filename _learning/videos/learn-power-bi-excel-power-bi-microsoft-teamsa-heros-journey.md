@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT33M57S
 publishedDateTime: 2018-05-02T15:45:53Z
-heat: 53
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Zxd0FqrZf58\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "1CysbR06mTEiRvqHSPqM6cs+GbEHV/QWq1XV1oAGccZMciKBh3bcvvBi6ncbNc/I1FDlya0EI09sXx9oghhspEdllbgHW0CYv/ltyc4zLz3YtjyrVW+yons1dnnh1NliDyGuomVuQiooo0bEGTJCbqhDK3xYHhJrazydfdHgZ3QzieSjq3oSvCo4TxFE6ren8WcjbVUEubKDUrZ0YIwsVX2aUx6UbH5OBNRBqKoUX5VcDrD9kAFOgtQ7yhryrdqiliLX4gxM26oMUWuK7MQENgcUwSQbg+sWELfzEmeMwL6vb+SKGA3gcDXgcIA6GjsRbx9vXT2fBGcWnuDTdWCB/u+GL7dF0G6PUyZiqRlO5C8fV9DHYoAO5oco5UOTupWsqItrVWEoLa/YWsRW4GLnoMPpOm0vz+MOfYUg+35ymyA=;TgtzfuElSgUfXtCBme62aw=="
+secured: "Frjel+k17acI2HZCdTGYtwoRRMVeP4rNEaUJCwqyFeVMc9hM6tbWtG0CLMKlmhuRV/QQOxA8r7E1kuKlmUbQhbgF83d4+TVAZEsbALVrZ24fyXE3DFZ0h48wm554HIe3+kh+RsyWwEHkomSXFVOx5FW44AEjKi/9C4VkQlqhB3zF2RW1ib+qT87HsKA3XnN5K0ePOfNdA2dxw/xx1+y0uDuPJfFxVhTFfv6zrcxn1ch2blePBPkLbD/hL2kN9AyVDTV/CkHNA4msgciCHj/ugXm+5ped6o4cwNW3wJF/wWkvEeaP/NNP0uIoeFsofFCap6Ba5w9EyhqbvMqpPokAzEeB2IHq01QLKqERSxaAWiYGCS5B80w2m8Z2CWRM9kGaU+uqUkKrVeltSpW9OcUcOahRHjrBNjWvVFP8LQSnDWs=;g5xkRY07cbekDeXqyTqqjg=="
 ---
 
