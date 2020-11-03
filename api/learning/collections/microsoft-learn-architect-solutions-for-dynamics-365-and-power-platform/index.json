@@ -71,7 +71,7 @@
       "levels": [
         "Advanced"
       ],
-      "heat": 51,
+      "heat": 50,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -105,7 +105,7 @@
       "levels": [
         "Advanced"
       ],
-      "heat": 51,
+      "heat": 50,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -155,8 +155,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fit-gap-analysis/",
       "length": "PT35M",
       "ratings": {
-        "count": 384,
-        "average": 4.7135415
+        "count": 385,
+        "average": 4.7116885
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -173,7 +173,7 @@
       "levels": [
         "Advanced"
       ],
-      "heat": 50,
+      "heat": 51,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
