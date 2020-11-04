@@ -29,7 +29,7 @@
       "levels": [
         "Advanced"
       ],
-      "heat": 131,
+      "heat": 51,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/becoming-solution-architect-social.png",
@@ -87,8 +87,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/propose-solution/",
       "length": "PT40M",
       "ratings": {
-        "count": 322,
-        "average": 4.6490684
+        "count": 323,
+        "average": 4.6501546
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -121,8 +121,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-requirements/",
       "length": "PT23M",
       "ratings": {
-        "count": 287,
-        "average": 4.728223
+        "count": 288,
+        "average": 4.7291665
       },
       "provider": {
         "name": "Microsoft Learn",
