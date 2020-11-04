@@ -2,6 +2,7 @@
 title: "Why you should use DAX Studio with Power BI"
 excerpt: "Are you using DAX Studio with Power BI? Patrick shows you why you should consider using it when working with DAX for Power BI!  DAX Studio: https://www.sqlbi.com/tools/dax-studio/  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next"
 originalUrl: https://youtube.com/watch?v=fV2ZK4q3FBQ
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-why-you-should-use-dax-studio-with-power-bi/
 type: video
 price: Free
 length: PT7M7S
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "8/DX/pEnHaydhD4L1gi+ymwV49PhCC4+doLDV0ZE7XYOffPOCasQLnEbJeCyguToVpMOHhmJOhZAlS77YlYXf1gsRDY6Ta4egTwxheY9sa77GKh+HKhWj6/tOKhUIyj155xvEgUiB4YwdxxnjQ186B71CnMGRy3IATezgmjzPKReedCk38GtaRrnazxQ5L14OwdwKp3vf0SHgd/HWouYT24+ONSaf0Efmmjz4CFQIJpxUEVQQCDje4IxJ5fTAKx6oYYjeDnqYdQGPYrdAfmuGCFG/my7Osq2UUN+BcFnacoiaWHW2XzJdFRGzjcRy4joS3GXySNxgGVsLS6YFBNq+a9PXvoA+V9PHKVQWlI0s6oLaSMKzvM1VmSNPukAGXRak7G+3B+4J6HR1yOC3a8SCQ==;hvvW2931EPWEVrE+UyMiCw=="
+secured: "TXbjE1fNe+FGbbbC4Rzizo6yIi4SX7fm5B6vgR2cTjm7WNWWRq4aU/gpmByFxE/Va5jbcx/7whlmkIxIqml2Iuxm4JyYRystEoDFWYqw8Z95LTO/QLBztRUA8MNZrvlcRWVxrkmOv6VfwVkGlXkU+zLGTZew9rDEfc0JoLh8KMfmYZGzuf3PQqJecZBWpBE8z51sU8ukPqRUJUhLQU3gjXnYZ22ArMCyZeEYSvDZjx4iuz8q/zfLw2Qh3+na076mjxJKw9lJbeEBLhaAeLIZiehgLtv3IF+huCQkFDLaydUvsZ9kDXiX+727N3XeSqzxZjrufAHq3Eq/qNeoPDj2VIa2UjuQKwclvzAWbDakBYGLhZFtjpPCJ4HidQTH4NZ4;ce1SaYY0eBtpDaFBrP2qXA=="
 ---
 
