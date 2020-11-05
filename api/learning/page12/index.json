@@ -676,8 +676,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 466,
-            "average": 4.6523604
+            "count": 467,
+            "average": 4.653105
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -736,8 +736,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-analyze-dynamics-365-data/",
       "length": "PT57M",
       "ratings": {
-        "count": 2084,
-        "average": 4.706334
+        "count": 2085,
+        "average": 4.706475
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -778,8 +778,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 807,
-        "average": 4.6889715
+        "count": 808,
+        "average": 4.6893563
       },
       "provider": {
         "name": "Microsoft Learn",
