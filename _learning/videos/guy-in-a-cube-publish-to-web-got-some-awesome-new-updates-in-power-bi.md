@@ -2,6 +2,7 @@
 title: "Publish to Web got some awesome new updates in Power BI!"
 excerpt: "I know, I know! We talk a lot about using caution with Publish to Web in Power BI. But! Publish to Web got some new updates that are pretty nice! Adam walks you through them.  Blog Announcement: https://powerbi.microsoft.com/blog/updates-to-power-bi-publish-to-web-for-better-public-reporting/  Microsoft"
 originalUrl: https://youtube.com/watch?v=v6CasL09qeo
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-publish-to-web-got-some-awesome-new-updates-in-power-bi/
 type: video
 price: Free
 length: PT7M6S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "62kG5+3CBj3Dfiyuhj3KIrP8lpIfuKyR+jjIA/suEtTmc0b6kWVHa3MpRuFg6d6eh9/ljjJINrTrjyM6DiLHygAAltgTH38A4Uh2777WI3BTTHasLOq+5jRPB9hwkhqljUD67DUQhr5jfG6R16iQ83Pn8I26rlX3tQzET18b/coQk02HbJCmK54cV4pw/LjD2thmxD5bZ77mwbqRzaUOg8ovfHmEhHlGOKASV6+VNe6/By/74CInGdsPGi00mTkeQSOAyw6VudBgxAocqYHh1bHVLVHXX4w8j3DTW0k4Nlk0eTVmnqKLpL8r2Gk7t8RxeS7wFXYV+zszs0QCZkdp9sQYi0eg6jW3TBqNnSkq1pULCM91I7JftirgjHqcxmleH74NG9whP1jJeM3nDqQHDg==;fF/3/ay5WuEeQRuWVmCi9w=="
+secured: "whCpjozFp2+kk7k2zp0h47omYONeZ9xpmp8Nf5+1voidX2qM5wF8RfB/Hl0q/zGrELFqM9VU8NcI+4W4Hu6JbXp6nxtCxJAlQbvAobukXIAsORULSOXuRZu7HbNSRZr7Vve++uqiKi2UNJffbjKVIsT7eUBqgZRfBRH3ac0JnYFhr5otUalzo2Jiy1T4mA1rh613nSJBY62u/6bW/gRAnimJDzgepdjLTBmhstWlNPH+ALGkCNOb8qrEgFwobQhQaufjr0lhgDRZ1QlTiRtBLS/3E/OvJO3M4ZmzY4KjNdQ4bq4D/CSazmkkLSlcJQk4Lm8CZGTCe8gqJFIm8XAsvHoQQOct8JnFCrk54L4rMfZKed3BKI+eySomDOeTLc1YxacHeubNE1hPgIFIswGGMg==;rT8JYBRcz1YAlrD+0SZl2A=="
 ---
 
