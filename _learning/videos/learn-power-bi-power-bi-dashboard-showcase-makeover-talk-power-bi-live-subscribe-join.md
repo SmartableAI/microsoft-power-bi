@@ -18,11 +18,11 @@ topics:
   - Power BI
 
 images:
-  - url: https://i.ytimg.com/vi/z3DHsL05wzQ/maxresdefault.jpg
-    width: 1280
-    height: 720
+  - url: https://www.youtube.com/yts/img/marketing/browsers/dinosaur-vflc7WKGL.png
+    width: 1200
+    height: 800
     isCached: true
 
-secured: "RG3Bl0G/0Mi/dbWuPMvFWFocOjlphNdJXPKyhD2Ul7mfh4bt7LTr8b1Kxe5TDbr/seh6t0LFfbFyBvzGcxO5hkk69hGjWg6SDj8vMkKDd9njH5sHt7fO7+AmeTLmxTm7cf1ud35jJrojsmeLQZ5lHILhMnxF02EsxKg6R2l+b0/ECdRaK5W1wDGrJ/lwLaizUZP9d4nFwoC9b1raKAiZq9weMFl+Y2OZFFdWLOCY19XmjJFXLLhlu7Ls8SphQWVtlncpS9FVXpXJi4lQxWYGTQKlzZZnDjv6ZutecwqTK6le1xYiBCHf8aKbDmmdnXEb8sxPTT5naw5qBWcRA8+9vgPlnw3hnGAOPIe4rX6BH6Pm1/e1okJrufOg/8bOxq87qyU+UkVeXl7FGtWCVA4rhw==;xRdCyQvY2J6wbyqKH1JxcQ=="
+secured: "Ggtt/MzNTMBAJzYd1T1x5+IACEOt2S7O9TYicJcsjmXuyP5ZHtsNgTU5FAmr59WuR6/ut++w46di7U/ApQRDfCtoHutmRbTgT7GaSDjCLqvPvxO1eGFSnbQDbYIcsD12AQG7Q419kIB7beIZmkdhDsOktcmLYT/zHbwgnXieSPMfRYAk2Gqg8u1ptBOZpgyyvGRIQfvJIELWA2zjLacmOf4yj4ozP8dgFTXCCe20AZsOaXFgQn66AwFE3j3SSmFNmeCb8LH6Lz+vWvFLxKeCbTe0Dp3w7Poql+WzI5NeQ6C66OeG+pwLDyanVbon7xdDKo/FSfMIi1hIedLNtNKWL1mrelsp9D9oNENktn8DBiqPFixrcoIBcc3L72snSiVVKO2jdXVT7Qo8AknaB8+lUw==;EEPQmoohRRLPLl54FiyFvg=="
 ---
 
