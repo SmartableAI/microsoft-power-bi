@@ -24,6 +24,12 @@ levels:
 topics:
   - Power BI
 
+images:
+  - url: https://docs.microsoft.com/learn/achievements/analyze-explore-data-power-bi-social.png
+    width: 643
+    height: 321
+    isCached: true
+
 secured: "i7KExYjGsOsVKGsdsNZKEiAK9QXzrWndRXFxCNxkMGg8CPKsPrbrIjozcxNsoKLEG4GJIoMcKFBqW/05AHHFKUIV/GZZIA32fQkVMiseGAPT49ZApOMKgSEBgfV11eGANWFsg9yOF8O9dSq0O7mHG70WVDjH3uAVRNtvKRGPn15sq/gYw84uSJ75dwfgt8RDlYuDR5L4lB/16mgJionwKqRSeK2PisfYOSigUiC1vCJR86cJkWSpxwzXc8tsNmB07TQsauE2ZnPpOFzWa+yB8Iefoqd3Smx2TzAwaqefFapc/9rC0GbBc9/Ur3+Gu+YBpaN5JpWgl4MdWFNQBvtw1URtIsg6OpUp9G4XL52mbXr36AMTQPHsyAHE5ML+J7XOGRCP+fJeimW4euQKKpauAlqd95vN5bXnTAEcb22mtWo=;lWBqJ/yIR7BD/09ojycRIQ=="
 ---
 
