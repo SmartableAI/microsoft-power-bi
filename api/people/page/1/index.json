@@ -4,23 +4,23 @@
   "page": 1,
   "value": [
     {
-      "path": "_people/adam-saxton.md",
-      "title": "Adam Saxton",
-      "excerpt": "Principal PM @Microsoft working on #PowerBI, #SSRS and #SSAS. I also go by @GuyInACube",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/people/adam-saxton/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/people/adam-saxton/",
+      "path": "_people/patrick-leblanc.md",
+      "title": "Patrick LeBlanc",
+      "excerpt": "Patrick LeBlanc is a currently a Principal Program Manager at Microsoft and a contributing partner to Guy in a Cube. Along with his 15+ years’ experience in IT he holds a Masters of Science degree from Louisiana State University. He is the author and co-author of five SQL Server books. Prior to joining Microsoft he was awarded Microsoft MVP award for his contributions to the community. Patrick is a regular speaker at many SQL Server Conferences and Community events.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/people/patrick-leblanc/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/people/patrick-leblanc/",
       "type": "profile",
-      "name": "Adam Saxton",
-      "bio": "Principal PM @Microsoft working on #PowerBI, #SSRS and #SSAS. I also go by @GuyInACube",
-      "location": "Conroe, TX",
-      "website": "https://t.co/sfMHqOSfBC",
+      "name": "Patrick LeBlanc",
+      "bio": "Patrick LeBlanc is a currently a Principal Program Manager at Microsoft and a contributing partner to Guy in a Cube. Along with his 15+ years’ experience in IT he holds a Masters of Science degree from Louisiana State University. He is the author and co-author of five SQL Server books. Prior to joining Microsoft he was awarded Microsoft MVP award for his contributions to the community. Patrick is a regular speaker at many SQL Server Conferences and Community events.",
+      "location": "Alpharetta, GA",
+      "website": "https://t.co/F5FuW6Huqh",
       "twitter": {
-        "username": "awsaxton",
-        "url": "https://twitter.com/awsaxton",
-        "followers": 5389
+        "username": "patrickdba",
+        "url": "https://twitter.com/patrickdba",
+        "followers": 5696
       },
       "linkedin": {
-        "url": "https://www.linkedin.com/in/guyinacube/"
+        "url": "https://www.linkedin.com/in/patrickdleblanc/"
       },
       "affiliation": {
         "path": "",
@@ -38,13 +38,13 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 64,
+      "heat": 72,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/793178443865128960/6MtOhub__400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/415691890080894976/g0hNL2mf_400x400.jpeg",
           "width": 400,
           "height": 400,
-          "title": "Adam Saxton",
+          "title": "Patrick LeBlanc",
           "isCached": true
         }
       ],
@@ -90,37 +90,47 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/seth-bauer.md",
-      "title": "Seth Bauer",
-      "excerpt": "As a co-owner of PowerBI.Tips I enjoy helping create a platform for new and advanced users alike to learn and expand their skills and get the most out of Power BI.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/people/seth-bauer/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/people/seth-bauer/",
+      "path": "_people/adam-saxton.md",
+      "title": "Adam Saxton",
+      "excerpt": "Principal PM @Microsoft working on #PowerBI, #SSRS and #SSAS. I also go by @GuyInACube",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/people/adam-saxton/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/people/adam-saxton/",
       "type": "profile",
-      "name": "Seth Bauer",
-      "bio": "As a co-owner of PowerBI.Tips I enjoy helping create a platform for new and advanced users alike to learn and expand their skills and get the most out of Power BI.",
+      "name": "Adam Saxton",
+      "bio": "Principal PM @Microsoft working on #PowerBI, #SSRS and #SSAS. I also go by @GuyInACube",
+      "location": "Conroe, TX",
+      "website": "https://t.co/sfMHqOSfBC",
       "twitter": {
-        "username": "Seth_C_Bauer",
-        "url": "https://twitter.com/Seth_C_Bauer",
-        "followers": 1705
+        "username": "awsaxton",
+        "url": "https://twitter.com/awsaxton",
+        "followers": 5390
       },
       "linkedin": {
-        "url": "https://www.linkedin.com/in/seth-bauer/"
+        "url": "https://www.linkedin.com/in/guyinacube/"
       },
       "affiliation": {
         "path": "",
-        "name": "Power BI Tips",
-        "domain": "powerbi.tips"
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
       "topics": [
         "Power BI"
       ],
-      "heat": 57,
+      "heat": 50,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1176155552587681793/4aUcPKoe_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/793178443865128960/6MtOhub__400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Seth Bauer",
+          "title": "Adam Saxton",
           "isCached": true
         }
       ],
@@ -140,7 +150,7 @@
       "twitter": {
         "username": "arunulag",
         "url": "https://twitter.com/arunulag",
-        "followers": 2458
+        "followers": 2459
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/arunulag/"
@@ -174,6 +184,45 @@
       "content": "\r\n"
     },
     {
+      "path": "_people/reza-rad.md",
+      "title": "Reza Rad",
+      "excerpt": "#Microsoft Regional Director, #MVP #Author #Trainer #Speaker #Coach #Consultant #PowerBI ",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/people/reza-rad/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/people/reza-rad/",
+      "type": "profile",
+      "name": "Reza Rad",
+      "bio": "#Microsoft Regional Director, #MVP #Author #Trainer #Speaker #Coach #Consultant #PowerBI ",
+      "location": "New Zealand",
+      "website": "https://t.co/mnW39vaMYS",
+      "twitter": {
+        "username": "Rad_Reza",
+        "url": "https://twitter.com/Rad_Reza",
+        "followers": 6986
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/rezarad/"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "topics": [
+        "Power BI"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1102766467173408768/F9EbQENa_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Reza Rad",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_people/mike-carlo.md",
       "title": "Mike Carlo",
       "excerpt": "Consultant for Concurrency for all things PowerBI. With over 11 years of data experience I'm making waves by deploying PowerBI into local Milwaukee Companies.",
@@ -200,7 +249,7 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 50,
+      "heat": 31,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1109338504268439552/OY_Va867_400x400.jpg",
@@ -213,86 +262,37 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/reza-rad.md",
-      "title": "Reza Rad",
-      "excerpt": "#Microsoft Regional Director, #MVP #Author #Trainer #Speaker #Coach #Consultant #PowerBI ",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/people/reza-rad/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/people/reza-rad/",
+      "path": "_people/seth-bauer.md",
+      "title": "Seth Bauer",
+      "excerpt": "As a co-owner of PowerBI.Tips I enjoy helping create a platform for new and advanced users alike to learn and expand their skills and get the most out of Power BI.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/people/seth-bauer/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/people/seth-bauer/",
       "type": "profile",
-      "name": "Reza Rad",
-      "bio": "#Microsoft Regional Director, #MVP #Author #Trainer #Speaker #Coach #Consultant #PowerBI ",
-      "location": "New Zealand",
-      "website": "https://t.co/mnW39vaMYS",
+      "name": "Seth Bauer",
+      "bio": "As a co-owner of PowerBI.Tips I enjoy helping create a platform for new and advanced users alike to learn and expand their skills and get the most out of Power BI.",
       "twitter": {
-        "username": "Rad_Reza",
-        "url": "https://twitter.com/Rad_Reza",
-        "followers": 6985
+        "username": "Seth_C_Bauer",
+        "url": "https://twitter.com/Seth_C_Bauer",
+        "followers": 1705
       },
       "linkedin": {
-        "url": "https://www.linkedin.com/in/rezarad/"
+        "url": "https://www.linkedin.com/in/seth-bauer/"
       },
       "affiliation": {
         "path": "",
-        "name": "RADACAD",
-        "domain": "radacad.com"
+        "name": "Power BI Tips",
+        "domain": "powerbi.tips"
       },
       "topics": [
         "Power BI"
       ],
-      "heat": 50,
+      "heat": 31,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1102766467173408768/F9EbQENa_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/1176155552587681793/4aUcPKoe_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Reza Rad",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/patrick-leblanc.md",
-      "title": "Patrick LeBlanc",
-      "excerpt": "Patrick LeBlanc is a currently a Principal Program Manager at Microsoft and a contributing partner to Guy in a Cube. Along with his 15+ years’ experience in IT he holds a Masters of Science degree from Louisiana State University. He is the author and co-author of five SQL Server books. Prior to joining Microsoft he was awarded Microsoft MVP award for his contributions to the community. Patrick is a regular speaker at many SQL Server Conferences and Community events.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/people/patrick-leblanc/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/people/patrick-leblanc/",
-      "type": "profile",
-      "name": "Patrick LeBlanc",
-      "bio": "Patrick LeBlanc is a currently a Principal Program Manager at Microsoft and a contributing partner to Guy in a Cube. Along with his 15+ years’ experience in IT he holds a Masters of Science degree from Louisiana State University. He is the author and co-author of five SQL Server books. Prior to joining Microsoft he was awarded Microsoft MVP award for his contributions to the community. Patrick is a regular speaker at many SQL Server Conferences and Community events.",
-      "location": "Alpharetta, GA",
-      "website": "https://t.co/F5FuW6Huqh",
-      "twitter": {
-        "username": "patrickdba",
-        "url": "https://twitter.com/patrickdba",
-        "followers": 5696
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/patrickdleblanc/"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI"
-      ],
-      "heat": 42,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/415691890080894976/g0hNL2mf_400x400.jpeg",
-          "width": 400,
-          "height": 400,
-          "title": "Patrick LeBlanc",
+          "title": "Seth Bauer",
           "isCached": true
         }
       ],
