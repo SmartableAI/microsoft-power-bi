@@ -9,7 +9,7 @@ ampWebUrl: "https://mashable.com/shopping/oct-29-2021-advanced-data-analysis-bun
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/shopping/oct-29-2021-advanced-data-analysis-bundle.amp"
 type: article
 quality: 97
-heat: 97
+heat: 98
 published: true
 
 provider:
