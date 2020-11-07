@@ -42,6 +42,36 @@
       ]
     },
     {
+      "path": "_learning/videos/learn-power-bi-first-step-to-become-a-power-bi-consultant-define-your-focusnichetalk-power-bi-live.md",
+      "title": "First Step to Become a Power BI Consultant (Define Your Focus/Niche)🔴Talk Power BI LIVE",
+      "excerpt": "👉 Want to become a Power BI Consultant? Visit https://www.LearnPowerBI.com/pro ⭐Our Guests⭐ Ian Bowman: https://www.linkedin.com/in/mianbowman/ Raul Jiminez: https://www.linkedin.com/in/r-jimenez/ Nikolas Németh https://www.linkedin.com/in/nikolasnemeth/  I have been training and coaching my students",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-first-step-to-become-a-power-bi-consultant-define-your-focusnichetalk-power-bi-live/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-first-step-to-become-a-power-bi-consultant-define-your-focusnichetalk-power-bi-live/",
+      "originalUrl": "https://youtube.com/watch?v=NoZTKA7kto8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NoZTKA7kto8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H55S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2020-11-06T10:13:24-08:00",
+      "heat": 242,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/NoZTKA7kto8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-why-you-should-use-dax-studio-with-power-bi.md",
       "title": "Why you should use DAX Studio with Power BI",
       "excerpt": "Are you using DAX Studio with Power BI? Patrick shows you why you should consider using it when working with DAX for Power BI!  DAX Studio: https://www.sqlbi.com/tools/dax-studio/  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next",
@@ -111,66 +141,6 @@
       ]
     },
     {
-      "path": "_learning/videos/learn-power-bi-first-step-to-become-a-power-bi-consultant-define-your-focusnichetalk-power-bi-live.md",
-      "title": "First Step to Become a Power BI Consultant (Define Your Focus/Niche)🔴Talk Power BI LIVE",
-      "excerpt": "👉 Want to become a Power BI Consultant? Visit https://www.LearnPowerBI.com/pro ⭐Our Guests⭐ Ian Bowman: https://www.linkedin.com/in/mianbowman/ Raul Jiminez: https://www.linkedin.com/in/r-jimenez/ Nikolas Németh https://www.linkedin.com/in/nikolasnemeth/  I have been training and coaching my students",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-first-step-to-become-a-power-bi-consultant-define-your-focusnichetalk-power-bi-live/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-first-step-to-become-a-power-bi-consultant-define-your-focusnichetalk-power-bi-live/",
-      "originalUrl": "https://youtube.com/watch?v=NoZTKA7kto8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NoZTKA7kto8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H55S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2020-11-06T10:13:24-08:00",
-      "heat": 212,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/NoZTKA7kto8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-dynamic-row-level-security-in-power-bi-with-not-in-or-not-equal-rule.md",
-      "title": "Dynamic Row Level Security in Power BI with NOT IN or NOT EQUAL Rule",
-      "excerpt": "Sometimes when you apply the dynamic row-level security, you want to have the criteria as NOT EQUAL and NOT IN. This can be a bit tricky in the dynamic implementation of RLS because the relationship behavior is normally the opposite. In this video, I’ll explain how you can do that. Download the file",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-dynamic-row-level-security-in-power-bi-with-not-in-or-not-equal-rule/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-dynamic-row-level-security-in-power-bi-with-not-in-or-not-equal-rule/",
-      "originalUrl": "https://youtube.com/watch?v=Oe_UxtScKms",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Oe_UxtScKms\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M53S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-11-05T14:53:45-08:00",
-      "heat": 161,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Oe_UxtScKms/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-bring-power-bi-to-your-every-day-microsoft-teams-usage.md",
       "title": "Bring Power BI to your every day Microsoft Teams usage",
       "excerpt": "Have you added the Power BI app to Microsoft Teams? Bring Power BI closer to your day to day and have your reports ready when you need them! Adam shows you how.  Announcement Blog: https://powerbi.microsoft.com/en-us/blog/announcing-new-power-bi-experiences-in-microsoft-teams/  📢 Become a member: https://guyinacu.be/membership",
@@ -209,31 +179,23 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-reduce-power-bi-dataset-size-by-60-with-one-checkbox.md",
-      "title": "REDUCE Power BI dataset size by 60% with ONE CHECKBOX???",
-      "excerpt": "What if I told you that you could potentially reduce your Power BI dataset size by up to 60-70% with ONE CHECKBOX??? This was crazy and we show you what is going on! (results will vary)  Download Sample: https://guyinacu.be/onecheckboxsample  DAX Studio: https://www.sqlbi.com/tools/dax-studio/  📢 Become",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-reduce-power-bi-dataset-size-by-60-with-one-checkbox/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-reduce-power-bi-dataset-size-by-60-with-one-checkbox/",
-      "originalUrl": "https://youtube.com/watch?v=RnDdDlozcdo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RnDdDlozcdo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M49S",
+      "path": "_learning/videos/radacad-dynamic-row-level-security-in-power-bi-with-not-in-or-not-equal-rule.md",
+      "title": "Dynamic Row Level Security in Power BI with NOT IN or NOT EQUAL Rule",
+      "excerpt": "Sometimes when you apply the dynamic row-level security, you want to have the criteria as NOT EQUAL and NOT IN. This can be a bit tricky in the dynamic implementation of RLS because the relationship behavior is normally the opposite. In this video, I’ll explain how you can do that. Download the file",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-dynamic-row-level-security-in-power-bi-with-not-in-or-not-equal-rule/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-dynamic-row-level-security-in-power-bi-with-not-in-or-not-equal-rule/",
+      "originalUrl": "https://youtube.com/watch?v=Oe_UxtScKms",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Oe_UxtScKms\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M53S",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "RADACAD",
+        "domain": "radacad.com"
       },
-      "publishedDateTime": "2020-08-27T08:00:19-07:00",
-      "heat": 140,
+      "publishedDateTime": "2020-11-05T14:53:45-08:00",
+      "heat": 143,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/RnDdDlozcdo/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Oe_UxtScKms/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -317,44 +279,32 @@
       ]
     },
     {
-      "path": "_learning/videos/learn-power-bi-power-bi-select-top-row-in-each-category-powerbipuzzle-.md",
-      "title": "Power BI: Select Top Row in Each Category?! #PowerBIPuzzle 🤔",
-      "excerpt": "👉 Download Accompanying PBIX Files for Video at https://web.learnpowerbi.com/download/ 00:00 Outline Problem & Approach 02:26 Solution 1: Thought Process 05:08 Solution 1: Steps 10:50 Solution 2: Thought Process (Use a Tie-Breaker) 12:20 Solution 2: Steps  Let me show you how you can select the “Top",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-power-bi-select-top-row-in-each-category-powerbipuzzle-/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-power-bi-select-top-row-in-each-category-powerbipuzzle-/",
-      "originalUrl": "https://youtube.com/watch?v=WmAHSuasfFw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WmAHSuasfFw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M52S",
+      "path": "_learning/articles/kasper-on-bi-refresh-the-table-fully-after-setting-up-incremental-refresh-with-tmsl.md",
+      "title": "Refresh the table fully after setting up incremental refresh with TMSL",
+      "excerpt": "I have seen this question a few times. When incremental refresh is setup, we cannot refresh the whole model. Some workarounds are deploying the model...The post Refresh the table fully after setting up incremental refresh with TMSL appeared first on Kasper On BI. ",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/articles/kasper-on-bi-refresh-the-table-fully-after-setting-up-incremental-refresh-with-tmsl/index.json",
+      "webUrl": "https://www.kasperonbi.com/refresh-the-table-fully-after-setting-up-incremental-refresh-with-tmsl/",
       "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
+        "name": "Kasper On BI",
+        "domain": "kasperonbi.com"
       },
-      "publishedDateTime": "2020-09-14T09:00:07-07:00",
-      "heat": 131,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WmAHSuasfFw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
+      "publishedDateTime": "2020-09-17T07:52:16-07:00",
+      "heat": 130,
       "content": "\r\n",
-      "type": "video",
-      "price": "Free",
+      "type": "article",
       "topics": [
         "Power BI"
       ]
     },
     {
-      "path": "_learning/videos/curbal-isnumber-istext-isdate-equivalent-in-power-query-or-m.md",
-      "title": "ISNUMBER, ISTEXT, ISDATE equivalent in Power Query or M",
-      "excerpt": "If you need to identify which values in a column are number, text or date, in today's video, I am going to show you 2 ways to do it.  Enjoy!  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-isnumber-istext-isdate-equivalent-in-power-query-or-m/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-isnumber-istext-isdate-equivalent-in-power-query-or-m/",
-      "originalUrl": "https://youtube.com/watch?v=b5FMV9fPCLc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/b5FMV9fPCLc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M51S",
+      "path": "_learning/videos/curbal-my-beginners-dax-mistakes-what-are-yours-.md",
+      "title": "My beginner's DAX mistakes, ......what are yours? 😈",
+      "excerpt": "In todays video, I try to go through my DAX sins (things that you better not do if you want to keep your model \"alive\").  The weather changes for the worst, so I will continue in another video.  But, what are your DAX sins? :)  Here you can download all the pbix files: https://curbal.com/donwload-center",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-my-beginners-dax-mistakes-what-are-yours-/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-my-beginners-dax-mistakes-what-are-yours-/",
+      "originalUrl": "https://youtube.com/watch?v=ukPdxSyyf0M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ukPdxSyyf0M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M8S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -367,11 +317,11 @@
           }
         ]
       },
-      "publishedDateTime": "2020-09-07T03:10:58-07:00",
+      "publishedDateTime": "2020-09-18T04:44:08-07:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/b5FMV9fPCLc/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ukPdxSyyf0M/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -382,7 +332,37 @@
       "price": "Free",
       "topics": [
         "Power BI",
-        "Power Query"
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-create-custom-visual-bullet-chart-with-charticulator-with-two-categories.md",
+      "title": "Create Custom Visual Bullet Chart with Charticulator with two categories",
+      "excerpt": "In this short video, I have explained how to use Charticulator for creating a Bullet chart with two categories.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-create-custom-visual-bullet-chart-with-charticulator-with-two-categories/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-create-custom-visual-bullet-chart-with-charticulator-with-two-categories/",
+      "originalUrl": "https://youtube.com/watch?v=xS6GyVpt7lY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xS6GyVpt7lY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M14S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-09-20T23:07:19-07:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xS6GyVpt7lY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     },
     {
@@ -572,8 +552,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 21237,
-            "average": 4.7370157
+            "count": 21240,
+            "average": 4.7370057
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -632,8 +612,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 21237,
-        "average": 4.7370157
+        "count": 21240,
+        "average": 4.7370057
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -856,7 +836,7 @@
             ]
           },
           "publishedDateTime": "2018-04-10T09:10:23-07:00",
-          "heat": 85,
+          "heat": 77,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/7iUqMA2Y6xA/maxresdefault.jpg",
@@ -934,7 +914,7 @@
             ]
           },
           "publishedDateTime": "2018-03-20T08:10:00-07:00",
-          "heat": 52,
+          "heat": 50,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/QiwxT9ndefY/maxresdefault.jpg",
@@ -973,7 +953,7 @@
             ]
           },
           "publishedDateTime": "2018-10-30T07:35:22-07:00",
-          "heat": 52,
+          "heat": 51,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/WyRO5hTxEUU/maxresdefault.jpg",
@@ -992,7 +972,7 @@
         }
       ],
       "size": 8,
-      "heat": 92,
+      "heat": 91,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/7iUqMA2Y6xA/maxresdefault.jpg",
@@ -1154,8 +1134,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 21237,
-            "average": 4.7370157
+            "count": 21240,
+            "average": 4.7370057
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1281,8 +1261,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 4111,
-            "average": 4.746777
+            "count": 4112,
+            "average": 4.7468386
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1341,8 +1321,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform/",
       "length": "PT21M",
       "ratings": {
-        "count": 14534,
-        "average": 4.7141185
+        "count": 14535,
+        "average": 4.7140694
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1370,45 +1350,6 @@
       ],
       "content": "\r\n",
       "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-what-is-power-bi.md",
-      "title": "What is Power BI?",
-      "excerpt": "In this video, Adam looks at what is Power BI. While people may see bits and pieces of Power BI, they may not understand holistically what Power BI is. From Power BI Desktop to the Power BI service and the mobile app, Power BI is a full suite of tools for your visualization and reporting needs.  Power",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-what-is-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-what-is-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=7iUqMA2Y6xA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7iUqMA2Y6xA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M8S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-04-10T09:10:23-07:00",
-      "heat": 85,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/7iUqMA2Y6xA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "What is Power BI?",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
       "price": "Free",
       "topics": [
         "Power BI"
@@ -1446,36 +1387,6 @@
       ]
     },
     {
-      "path": "_learning/videos/learn-power-bi-replay-celebrating-our-learnpowerbi-scholarship-winners-what-makes-them-different-talk-power-bi.md",
-      "title": "REPLAY: Celebrating Our LearnPowerBI Scholarship Winners & What Makes them Different 🔴Talk Power BI",
-      "excerpt": "00:00 Story of LearnPowerBI Family 00:41 LearnPowerBI Scholarships 03:30 Karl's Story (Philippines) 08:15 Monse's Story (Mexico) 13:42 Olga & Pavel Gutsol (Belarus) a Power BI Love Story? :-) 20:15 Robert's Story (Kenya) 25:45 Samuel's Story (Nigeria) 27:20 The Road Ahead  ✅ Subscribe and click the 🔔",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-replay-celebrating-our-learnpowerbi-scholarship-winners-what-makes-them-different-talk-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-replay-celebrating-our-learnpowerbi-scholarship-winners-what-makes-them-different-talk-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=5mSDNBq8xJE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5mSDNBq8xJE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31M35S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2020-10-30T10:25:46-07:00",
-      "heat": 83,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5mSDNBq8xJE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/radacad-showing-an-alternate-text-when-no-data-available-in-a-power-bi-chart-visuals.md",
       "title": "Showing an alternate text when no data available in a Power BI chart visuals",
       "excerpt": "If you have a visual in the Power BI, that based on some selections of a slicer it might return nothing, depends on the visual, you might get a blank visual or some other types of improper view. In this video, I share a simple trick that you can use to have an alternate message in those scenarios. Read",
@@ -1493,6 +1404,83 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/KxZAEmV-oLE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-190-part-3-year-over-year-population-change-in-europe-with-eurostat-api.md",
+      "title": "DAX Fridays #190 - Part 3: Year Over Year population change in Europe with Eurostat API",
+      "excerpt": "In todays video we will calculate YOY population in europe and finalize the report we started on this series.   Link to Previous videos: How Eurostat API works: https://www.youtube.com/watch?v=UwXo1OcwbAg  Build a report based on Eurostat data. We will get total population and population growth and map",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-dax-fridays-190-part-3-year-over-year-population-change-in-europe-with-eurostat-api/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-190-part-3-year-over-year-population-change-in-europe-with-eurostat-api/",
+      "originalUrl": "https://youtube.com/watch?v=rIcs4Mz1umQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rIcs4Mz1umQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M49S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-10-30T04:24:15-07:00",
+      "heat": 82,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rIcs4Mz1umQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-part-1-get-europes-data-in-power-bi-with-eurostat-api-eu_eurostat.md",
+      "title": "Part 1: Get Europe's data in Power BI with Eurostat API - @EU_Eurostat",
+      "excerpt": "Have you ever wanted to get data about Europe in Power BI to boost your market research? Population in Europe, Age and gender, income levels, employment levels, all this is available for you if you connect to Eurostats API.  In this video I will show you how the API works and in the next we will build",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-part-1-get-europes-data-in-power-bi-with-eurostat-api-eu_eurostat/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-part-1-get-europes-data-in-power-bi-with-eurostat-api-eu_eurostat/",
+      "originalUrl": "https://youtube.com/watch?v=UwXo1OcwbAg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UwXo1OcwbAg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M32S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-10-26T06:21:04-07:00",
+      "heat": 82,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UwXo1OcwbAg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

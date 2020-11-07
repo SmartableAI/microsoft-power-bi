@@ -4,199 +4,6 @@
   "page": 41,
   "value": [
     {
-      "path": "_learning/videos/curbal-when-is-profitable-to-move-to-power-bi-premium.md",
-      "title": "When is profitable to move to Power BI Premium?",
-      "excerpt": "When is profitable to move to Power BI? How many Pro users before I should upgrade?  Lets go through power bi premium pricing to figure out when you should upgrade. #curbal #powerbi #powerbipremium   Here is the link to the premium licenses video: https://www.youtube.com/watch?v=CQczRrUjTCc and a video",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-when-is-profitable-to-move-to-power-bi-premium/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-when-is-profitable-to-move-to-power-bi-premium/",
-      "originalUrl": "https://youtube.com/watch?v=5Uqq8OVnsvQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5Uqq8OVnsvQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M51S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-04-14T01:16:54-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5Uqq8OVnsvQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-why-data-profiling-is-useful-in-power-bi-power-bi-desktop-update-october-2019.md",
-      "title": "Why data profiling is useful in Power BI - Power Bi desktop update October 2019",
-      "excerpt": "In today's video, I will show you how I use data profiling in Power Query before I import the data in Power BI. How are you using data profiling?  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-why-data-profiling-is-useful-in-power-bi-power-bi-desktop-update-october-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-why-data-profiling-is-useful-in-power-bi-power-bi-desktop-update-october-2019/",
-      "originalUrl": "https://youtube.com/watch?v=T8TfJZZwSb8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/T8TfJZZwSb8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M39S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-11-25T06:00:30-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/T8TfJZZwSb8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-why-is-vertipaq-so-fast-part-2-columnar-database.md",
-      "title": "Why is Vertipaq so fast? Part 2: Columnar database",
-      "excerpt": "Why is Vertipaq so fast and what does it mean that it is a columnar database?  In this video, we will go through what it means that Vertipaq is a columnar database and why performance is so good.  In previous video we cover data compression:  When we import data in Power BI, the Vertipaq database will",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-why-is-vertipaq-so-fast-part-2-columnar-database/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-why-is-vertipaq-so-fast-part-2-columnar-database/",
-      "originalUrl": "https://youtube.com/watch?v=A461ktvExH0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/A461ktvExH0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M30S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-05-10T02:10:23-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/A461ktvExH0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-why-is-vertipaq-so-fast-part-3-segment-elimination.md",
-      "title": "Why is Vertipaq so fast? Part 3: Segment Elimination",
-      "excerpt": "Why is Vertipaq so fast? Segmenting the data is one of Vertipaq tricks to manage data at blazing fast speeds. In this video, I will explain what that is.  In previous videos (part 2) we cover what it means that Vertipaq is a columnar database and what that does to improve the performance of your Powerpivot",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-why-is-vertipaq-so-fast-part-3-segment-elimination/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-why-is-vertipaq-so-fast-part-3-segment-elimination/",
-      "originalUrl": "https://youtube.com/watch?v=A67tsJ03Afs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/A67tsJ03Afs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M26S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-05-10T02:10:23-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/A67tsJ03Afs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-working-with-realtime-datasets-in-power-bi-and-get-location-from-flow.md",
-      "title": "Working with realtime datasets in Power BI and get location from Flow",
-      "excerpt": "Let's fix a few things on the ISS realtime dashboard: Show the latest location only, convert latitude and longitude to location,  and answering all the questions you had!  Link to previous video: https://www.youtube.com/watch?v=O6aEzXAFEqw Twitter handle for ISS location: @LocationIss  Here you can download",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-working-with-realtime-datasets-in-power-bi-and-get-location-from-flow/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-working-with-realtime-datasets-in-power-bi-and-get-location-from-flow/",
-      "originalUrl": "https://youtube.com/watch?v=WZvan7YKx-M",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WZvan7YKx-M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M40S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-01-21T05:50:42-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WZvan7YKx-M/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/enterprise-dna-course-intro-11-ultimate-beginners-guide-to-dax-2019.md",
       "title": "Course Intro - (1.1) Ultimate Beginners Guide to DAX 2019",
       "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-power-bi-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide Power BI tutorials by using the demo data available for",
@@ -897,6 +704,45 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-3-ways-to-try-power-bi.md",
+      "title": "3 ways to try Power BI",
+      "excerpt": "Are you wanting to try Power BI, but not sure where to start? I look at some ways you can get up and running with Power BI quickly. This could be for an individual, or for your organization within Office 365.  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com -- http://twitter.com/guyinacube --",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-3-ways-to-try-power-bi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-3-ways-to-try-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=QiwxT9ndefY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QiwxT9ndefY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M7S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-03-20T08:10:00-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QiwxT9ndefY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "3 ways to try Power BI",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-4-steps-to-use-a-custom-directory-with-power-bi-for-developers.md",
       "title": "4 steps to use a custom directory with Power BI for developers",
       "excerpt": "I look at how you can use your Azure Subscription to create a custom directory and then apply a Power BI (free) license to that. This is a great approach, if you are a developer, to setup an application within your directory for testing purposes before you publish to production.  SUBSCRIBE! https://www.youtube.com/channel/UCFp1vaKzpfvoGai0vE5VJ0w?sub_confirmation=1",
@@ -1046,6 +892,161 @@
       "price": "Free",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-6-things-to-get-a-little-more-out-of-your-power-bi-desktop-machine.md",
+      "title": "6 things to get a little more out of your Power BI Desktop machine",
+      "excerpt": "Machine running slow with Power BI Desktop? One of these 6 things may help you out.  Download PDF: https://guyinacu.be/6perftipspdf  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level? We have training courses available to help",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-6-things-to-get-a-little-more-out-of-your-power-bi-desktop-machine/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-6-things-to-get-a-little-more-out-of-your-power-bi-desktop-machine/",
+      "originalUrl": "https://youtube.com/watch?v=uFvf4HaJDMw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uFvf4HaJDMw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M46S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-02-09T17:02:04-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/uFvf4HaJDMw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-a-look-at-the-enterprise-gateway-feat-spud-trooper.md",
+      "title": "A look at the enterprise gateway (feat. Spud Trooper)",
+      "excerpt": "I take a look at the Power BI Gateway - Enterprise (Preview) and help Spud Trooper, and you, understand how it works. I also touch on firewall configuration and where your data is stored.  SUBSCRIBE! https://www.youtube.com/channel/UCFp1vaKzpfvoGai0vE5VJ0w?sub_confirmation=1  LET'S CONNECT!  Blogs --",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-a-look-at-the-enterprise-gateway-feat-spud-trooper/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-a-look-at-the-enterprise-gateway-feat-spud-trooper/",
+      "originalUrl": "https://youtube.com/watch?v=cAtykk4FpWU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cAtykk4FpWU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M37S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2015-12-15T06:43:02-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/cAtykk4FpWU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-a-look-at-the-new-power-bi-embed-sample.md",
+      "title": "A look at the new Power BI embed sample",
+      "excerpt": "This video takes a look at the new Power BI embed Sample that you can use to learn how to use the JavaScript API. With code examples and comments to give you a feel for what you need to do.   Report Embed Sample: https://microsoft.github.io/PowerBI-JavaScript/demo/code-demo/index.html  LET'S CONNECT!",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-a-look-at-the-new-power-bi-embed-sample/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-a-look-at-the-new-power-bi-embed-sample/",
+      "originalUrl": "https://youtube.com/watch?v=nfkVljh_9O4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nfkVljh_9O4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M10S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-12-13T12:27:54-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/nfkVljh_9O4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "A look at the new Power BI embed sample",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-a-way-to-get-rid-of-the-pie-chart-in-power-bi-desktop.md",
+      "title": "A way to get rid of the pie chart in Power BI Desktop?!?",
+      "excerpt": "Patrick shows you how to get rid of the pie chart in Power BI Desktop. Finally a way to remove the temptation! The ability to customize the visual pane in Power BI Desktop lets you do it.  Guy in a Cube courses: https://guyinacu.be/courses  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-a-way-to-get-rid-of-the-pie-chart-in-power-bi-desktop/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-a-way-to-get-rid-of-the-pie-chart-in-power-bi-desktop/",
+      "originalUrl": "https://youtube.com/watch?v=RSBxXPZpW2Y",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RSBxXPZpW2Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M56S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-09-29T07:46:36-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RSBxXPZpW2Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
       ]
     }
   ],
