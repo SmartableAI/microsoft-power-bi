@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/29/microsoft-excel-power-bi-data-typ
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/29/microsoft-excel-power-bi-data-types/amp/"
 type: article
 quality: 97
-heat: 98
+heat: 97
 published: true
 
 provider:
