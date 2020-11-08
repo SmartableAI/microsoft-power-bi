@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT11M4S
 publishedDateTime: 2019-08-11T11:58:15Z
-heat: 53
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cKzdDO2W5-Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "The new Power BI App Workspace experience"
 
-secured: "ryUGadPT5YoBMjjNJxWDt2DZnhCW5mkgWqsBIucXzFyuRzbrtaEIa8sm1K15HRLg/gw7VpafmD1FG6zokMSoBKv3TL8wZRRx4mTJTs1jqVxFcu1BMhttlL33NldV/kobc83LDJiHVpkMPV2+prp8P1ivUWvngLQ7KvEMzdL5iLI0Ah+n64gZo948ADlDjNNjxfdykj9eDoo2TyV2Aj/mbXWmHaKno/nAMr8sbwSIfmE2RZNYFQcYlUUiChmyzXRY3BB8C2nxtx76kPaTusmIQD+2K+vVdX4hhXtY7jRzaiEBbV+cNjFXI6LdBRELHzw1OsHXMIsGE5UWbKLTA/wM8TmeX56ZAO/sgSEHqhL2HGnGSaKRn6b7d5vx3uBbdgaJweUgsWk47NbpwrlCsrHIymrRmNvL8Wy5eZb4I1xgBwI=;TV2n0wS6eaWsktMxDsK+NA=="
+secured: "xAn8BL4wBLLWEHcKHPp1EcvU99bzkwlu4SV0ZGtKEFgjNkYINQcQi/pIkHpNX5jf+5i+G2tJ1ZMl/k02ktK9489VZMlfEeGO42qWto+r+Nqz5AzggEQLqOSqD4nd8HCWtAofozGeUURJlMO274/7tk8QQn2O8XnaLqBOQpvptR4f7zrUIUR3Bj+em31SilTzJ82d4RdEbkgOik+dJH79jpYHvt04p1Ql+tx0WnsxDOM5duVFYs+NukbFRFbv9Z45EZgSbq5XZGXBk9vaXfnCiep821FMBm7rVwk3dU8JunDXxFVaTLsIxl8IBAvOOLMMJXR1KMAOlk0IAjd42WJjtj38zvBvZtcpbvtY3Xpnl3EB0/DwuyotRPnqJohVS0W/0IxAr4h8NmKtLyBG1vHLyhsgJyuZcn0r4vE1MOaXt6w=;jVlNRRBJgsUbe7Yo5vXvVA=="
 ---
 
