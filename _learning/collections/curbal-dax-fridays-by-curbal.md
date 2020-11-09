@@ -98,7 +98,7 @@ items:
   - videos/curbal-dax-fridays-81-calculatetable
   - videos/curbal-dax-fridays-82-how-to-learn-dax-for-beginners
   - videos/curbal-dax-fridays-83-dax-functions-to-create-a-calendar-the-easy-way-
-  - videos/curbal-dax-fridays-84-get-values-from-another-table-with-inactive-relationships
+  - videos/curbal-dax-fridays-84-fifa-wc-part-4-get-values-from-another-table-with-inactive-relationships
   - videos/curbal-dax-fridays-85-difference-between-dates-in-the-same-column
   - videos/curbal-dax-fridays-86-what-is-dax-and-compare-it-to-excel-formulas
   - videos/curbal-dax-fridays-87-distinct-vs-distinctcount-vs-values
@@ -216,7 +216,7 @@ items:
   - videos/curbal-dax-fridays-battle-187-rankx-vs-topn
   - videos/curbal-dax-fridays-battle-188-filter-vs-calculatetable-avoid-using-filter-as-a-filter-argument
   - videos/curbal-dax-fridays-189-which-function-is-faster-to-count-rows-count-or-countrows
-  - videos/curbal-dax-fridays-190-part-3-year-over-year-population-change-in-europe-with-eurostat-api
+  - videos/curbal-dax-fridays-190-eurostat-13-year-over-year-population-change-in-europe-with-eurostat-api
 
 topics:
   - Power BI
