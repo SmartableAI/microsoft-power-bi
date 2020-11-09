@@ -35,14 +35,14 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-isnumber-istext-isdate-equivalent-in-power-query-or-m.md",
-      "title": "ISNUMBER, ISTEXT, ISDATE equivalent in Power Query or M",
-      "excerpt": "If you need to identify which values in a column are number, text or date, in today's video, I am going to show you 2 ways to do it.  Enjoy!  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-isnumber-istext-isdate-equivalent-in-power-query-or-m/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-isnumber-istext-isdate-equivalent-in-power-query-or-m/",
-      "originalUrl": "https://youtube.com/watch?v=b5FMV9fPCLc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/b5FMV9fPCLc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M51S",
+      "path": "_learning/videos/curbal-dynamically-find-header-rows-and-promote-them-in-power-query.md",
+      "title": "Dynamically find header rows and promote them in Power Query",
+      "excerpt": "Dynamically find a column header and promote them in power query is  a very common requirement, specially if you are importing data from excel or pdfs for example.  In today's video, I will show you how to do that with just a few simple steps!  Here you can download all the pbix files: https://curbal.com/donwload-center",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-dynamically-find-header-rows-and-promote-them-in-power-query/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-dynamically-find-header-rows-and-promote-them-in-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=7LJ0EgTc4rU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7LJ0EgTc4rU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M30S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -55,11 +55,11 @@
           }
         ]
       },
-      "publishedDateTime": "2020-09-07T03:10:58-07:00",
+      "publishedDateTime": "2020-08-31T04:27:48-07:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/b5FMV9fPCLc/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/7LJ0EgTc4rU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

@@ -401,8 +401,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 1048,
-            "average": 4.741412
+            "count": 1049,
+            "average": 4.7416587
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -671,7 +671,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 54,
+          "heat": 134,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/row-level-security-power-bi-social.png",

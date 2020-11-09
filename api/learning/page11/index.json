@@ -4,67 +4,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_learning/videos/radacad-directquery-connection-in-power-bi-how-does-it-work-limitations-and-advantages.md",
-      "title": "DirectQuery Connection in Power BI How does it work Limitations and Advantages",
-      "excerpt": "In the last post, you learned about Import Data or Scheduled Refresh as a connection type. In this video, you’ll learn about the second type of connection named; DirectQuery. This type of connection is only supported by a limited number of data sources, and mainly targets systems with a huge amount of",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-directquery-connection-in-power-bi-how-does-it-work-limitations-and-advantages/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-directquery-connection-in-power-bi-how-does-it-work-limitations-and-advantages/",
-      "originalUrl": "https://youtube.com/watch?v=GWAWPCAjkEY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GWAWPCAjkEY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M10S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2019-09-29T15:45:23-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GWAWPCAjkEY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-how-to-create-a-date-or-calendar-table-and-dimension-in-power-bi-using-power-query.md",
-      "title": "How to Create a Date or Calendar Table and Dimension in Power BI using Power Query",
-      "excerpt": "Date dimension or calendar table is one of the most important dimensions in any BI system. In this video, I'm showing you how easy is to create a date dimension using Power Query. The script of this video can be found in my blog article here:  https://radacad.com/create-a-date-dimension-in-power-bi-in-4-steps-step-1-calendar-columns",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-how-to-create-a-date-or-calendar-table-and-dimension-in-power-bi-using-power-query/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-how-to-create-a-date-or-calendar-table-and-dimension-in-power-bi-using-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=Pzn2B4laK9A",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Pzn2B4laK9A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M48S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2019-05-31T13:06:29-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Pzn2B4laK9A/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
       "path": "_learning/videos/radacad-one-slicer-to-filter-other-slicers-based-on-items-that-has-value-only-in-power-bi-without-bi-directi.md",
       "title": "One Slicer to filter other slicers based on Items that has value only in Power BI without BI Directi",
       "excerpt": "In a star schema design, how you can filter one dimension by another dimension. How you can find all the products that this customer purchased or all customers who have purchased this product using two separate slicers. To learn more about star schema: https://radacad.com/power-bi-basics-of-modeling-star-schema-and-how-to-build-it",
@@ -435,7 +374,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 54,
+          "heat": 134,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/row-level-security-power-bi-social.png",
@@ -1238,6 +1177,84 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/n_7Telypk2Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-24-running-cumulative-totals-w-pareto-chart.md",
+      "title": "DAX Fridays! #24: Running/ Cumulative totals (w Pareto chart)",
+      "excerpt": "In this video I will show you how to calculate cumulative totals or running totals with DAX/ powerpivot.  We will calculate running totals with a Date and with another column (not a date).  Link to Matt's Blog post: http://exceleratorbi.com.au/cumulative-running-total-based-on-highest-value/  Link to",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-dax-fridays-24-running-cumulative-totals-w-pareto-chart/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-24-running-cumulative-totals-w-pareto-chart/",
+      "originalUrl": "https://youtube.com/watch?v=d-Jk1j2G3nw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d-Jk1j2G3nw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M44S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-02-02T12:24:11-08:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/d-Jk1j2G3nw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-27-related-vs-relatedtable.md",
+      "title": "DAX Fridays! #27: RELATED vs RELATEDTABLE",
+      "excerpt": "In today's video, we will go through two functions in DAX, related and relatedtable.  We will explain how they both work and when to use one or the other.  Link to Power BI file used in the video: https://curbal.com/blog/glossary/related-dax  EXCEL SURVEY: https://1drv.ms/xs/s!Ar8CDNp8cGTcgjaHonN82T8I1jQT",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-dax-fridays-27-related-vs-relatedtable/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-27-related-vs-relatedtable/",
+      "originalUrl": "https://youtube.com/watch?v=IQ25ATvJBoM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IQ25ATvJBoM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M48S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-02-23T13:58:17-08:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/IQ25ATvJBoM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
