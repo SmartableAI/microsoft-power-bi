@@ -770,9 +770,9 @@
       "heat": 54,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/z3DHsL05wzQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://www.youtube.com/yts/img/marketing/browsers/dinosaur-vflc7WKGL.png",
+          "width": 1200,
+          "height": 800,
           "isCached": true
         }
       ],
@@ -1010,8 +1010,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
       "length": "PT60M",
       "ratings": {
-        "count": 5274,
-        "average": 4.692833
+        "count": 5275,
+        "average": 4.692891
       },
       "provider": {
         "name": "Microsoft Learn",
