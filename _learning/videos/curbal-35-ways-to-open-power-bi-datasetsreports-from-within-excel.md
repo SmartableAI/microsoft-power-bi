@@ -2,6 +2,7 @@
 title: "3.5 ways to open Power BI datasets/reports from within Excel"
 excerpt: "In today's video I will show you 3 and a half ways to open Power BI reports or datasets from within Excel.  Do you know any other way?  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1"
 originalUrl: https://youtube.com/watch?v=08LMRR2OyJY
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/curbal-35-ways-to-open-power-bi-datasetsreports-from-within-excel/
 type: video
 price: Free
 length: PT8M11S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "KWVhVS1C5ZFol/8tvv0s28fzDq/oFEErhTvL5f+zsRmSFVR4DGXHGOzp6S+ANuGkaTrpjXyg4dTBIdat24wl1OVlHVYxZZzza+G4rbSdIIFTQQwP9HdMLpCpCSoFLGw8X9tb8fKuMJAQCoBy/2m9zXp/l/UJJFmWHuf8A7t2ynO40YR7TQp3qZabERMFEIiAG1fowsspmFbMZ6YhywzrsNbnyQltdAnre8xYG4YDuV8bPOT/fcBKDyPXe8vz12i+X4PKF8NlHt8Q6sh94LRAiGXqM9nnAMYPwiZyiBQTng8VnWEhoPiPMrdyHa43WHmSV04m6kcT2umBPUJq8TelJeeDRZdS/bYchHjbQX6H0E8ETp3KydMcAd+cGR6piLyG;53IwC1gJDIQxoosSM9hzFA=="
+secured: "PQJUyHOub0gijdyGInnMZYJMDgmfcm1aP5yN5uGr811YAQhJq7pa0og59LuReYaGrv3t74dV5GwSGUc/z5xC6xmK2YoYFuN7QSu2kbYfOSow8Ikx12Pg+Z923yoGQUojN3psYUJlKDhwDG2YIen7DWoIoNlUQromIrTXp4MMYVAZqd9pIZMv6rfHjHIfEjfEBghy3Um1KVn8JDS/j6Jf34fqZ6BD9yPFXp4F6SOF2J4CHfnCn2dSM1QvdTsP1Q/3eUu83ha1kSvoc6AvDDuU5sCFwWGogZ+sI52CElyGmaTeCZ/UcxGcKn1P88xI+ynXCveXGv7rQZsGc3QY6GinT6Ao7g31FbNCndjFzRpvfLUXFswcokgX1iWES821jKjs;hCjeSKHmHfYh5nKEit+9Mw=="
 ---
 

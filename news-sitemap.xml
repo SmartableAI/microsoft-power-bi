@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://smartable.ai/apps/powerbi/news/2020-11-09-power-bi-updates-dax-puzzles-and-more-roundup-nov-9-2020/</loc>
+    <lastmod>2020-11-09T08:00:43-08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://smartable.ai/apps/powerbi/news/2020-10-21-all-power-bi-desktop-updates-for-october-2020-in-7-minutes/</loc>
     <lastmod>2020-10-21T03:05:09-07:00</lastmod>
     <changefreq>hourly</changefreq>
