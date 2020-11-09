@@ -201,7 +201,7 @@
       "length": "PT60M",
       "ratings": {
         "count": 5283,
-        "average": 4.693356
+        "average": 4.6931667
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -284,8 +284,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 621,
-        "average": 4.6618357
+        "count": 622,
+        "average": 4.659164
       },
       "provider": {
         "name": "Microsoft Learn",
