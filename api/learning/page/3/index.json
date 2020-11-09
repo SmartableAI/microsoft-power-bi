@@ -3165,7 +3165,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 50,
+          "heat": 130,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -3359,8 +3359,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 1693,
-            "average": 4.7466035
+            "count": 1694,
+            "average": 4.746753
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3401,8 +3401,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 1599,
-            "average": 4.7654786
+            "count": 1602,
+            "average": 4.764669
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3461,8 +3461,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 1599,
-        "average": 4.7654786
+        "count": 1602,
+        "average": 4.764669
       },
       "provider": {
         "name": "Microsoft Learn",

@@ -623,9 +623,9 @@
       "heat": 54,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/z3DHsL05wzQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://www.youtube.com/yts/img/marketing/browsers/dinosaur-vflc7WKGL.png",
+          "width": 1200,
+          "height": 800,
           "isCached": true
         }
       ],
@@ -863,8 +863,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
       "length": "PT60M",
       "ratings": {
-        "count": 5280,
-        "average": 4.693182
+        "count": 5281,
+        "average": 4.6932397
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -905,8 +905,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
       "length": "PT51M",
       "ratings": {
-        "count": 491,
-        "average": 4.657841
+        "count": 492,
+        "average": 4.6585364
       },
       "provider": {
         "name": "Microsoft Learn",

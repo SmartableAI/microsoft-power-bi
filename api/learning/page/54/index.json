@@ -4,6 +4,36 @@
   "page": 54,
   "value": [
     {
+      "path": "_learning/videos/learn-power-bi-realpowerbi-get-help-for-your-power-bi-project-talk-power-bi-live-subscribe-join.md",
+      "title": "#RealPowerBI: Get Help for Your Power BI Project 🔴Talk Power BI LIVE (Subscribe & Join)",
+      "excerpt": "You've probably heard of our one-of-a-kind RealPowerBI program. Join our session for a deep-dive into this unique program and get any of your questions answered. Can't wait for the session? Just go to this link to learn more about RealPowerBI: https://www.learnpowerbi.com/realpowerbi ====================",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-realpowerbi-get-help-for-your-power-bi-project-talk-power-bi-live-subscribe-join/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-realpowerbi-get-help-for-your-power-bi-project-talk-power-bi-live-subscribe-join/",
+      "originalUrl": "https://youtube.com/watch?v=Q0q_pIOkTxo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Q0q_pIOkTxo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2H49M19S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2019-06-20T20:35:57-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Q0q_pIOkTxo/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/learn-power-bi-realpowerbi-project-final-presentations-may-3-live.md",
       "title": "#RealPowerBI Project Final Presentations (May 3) 🔴 LIVE",
       "excerpt": "✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask any Power BI question. 💡 Join the Talk Power BI Insider's Club at http://www.TalkPowerBI.com for special privileges and access  Hello, I am Avi Singh, Microsoft MVP and Power BI Pro! I just love talking about Power",
@@ -292,36 +322,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/6WeJwrfwEA4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-talk-power-bi-live-qa-subscribe-join-september-25-2020.md",
-      "title": "🔴Talk Power BI LIVE Q&A (Subscribe & Join) September 25, 2020",
-      "excerpt": "✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask any Power BI question. 👉 To Learn More & Submit Your Questions Go To https://www.LearnPowerBI.com/talk 👉 Join the LearnPowerBI Family to Dial-In Using the 📞 Phone Line: https://www.LearnPowerBI.com/training  Hello,",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-talk-power-bi-live-qa-subscribe-join-september-25-2020/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-talk-power-bi-live-qa-subscribe-join-september-25-2020/",
-      "originalUrl": "https://youtube.com/watch?v=YLXwMhNxXX8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YLXwMhNxXX8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3H16M5S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2020-09-25T13:03:33-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YLXwMhNxXX8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

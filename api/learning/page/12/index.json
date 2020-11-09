@@ -507,8 +507,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-analyze-dynamics-365-data/",
       "length": "PT57M",
       "ratings": {
-        "count": 2091,
-        "average": 4.706361
+        "count": 2093,
+        "average": 4.7061634
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -633,8 +633,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
       "length": "PT1H44M",
       "ratings": {
-        "count": 508,
-        "average": 4.5964565
+        "count": 510,
+        "average": 4.5960784
       },
       "provider": {
         "name": "Microsoft Learn",
