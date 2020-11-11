@@ -2,6 +2,7 @@
 title: "Using IMAGES in Power BI"
 excerpt: "Are you curious about how images can be used in Power BI? Patrick looks at some different ways to incorporate images into your data model and Power BI Report!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next level? We have training"
 originalUrl: https://youtube.com/watch?v=hGKykytzLXs
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-using-images-in-power-bi/
 type: video
 price: Free
 length: PT6M56S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "9OAiTpAEwJoa/S0X2TdXnztn1B+XgeraxDu0zXXc25Lstbr5CE9UFNU3e+GIPcuJkWmMgfbP8eeDcwcLI/OyVVxNSabTBWA1Wo5Y30qguhOLw11T9YiiAvhq/tZIfedYqz89jKR9IE9m+OFtq941lUyB/eDIeoNHzEWnoGCIceeZ+Bu6ArbniZY4QXcCDqUgkGfTbqyWRK1Ebs/q3orN+2vB9WoNxXtPAECHNZDcs3MPOOh02BEsNmZWRmCcKGtznUCyuXLUpex5fSUAh0TPWAHtWrarHOTPc01Afbree2U2TMNhpFupgjHMQA0JD5f4VMJuHcpEKgVHb7WNilSNok5HEnapVOoIUYswyMIn4HW+H/latvL4C8firKpuN0M3k+RAsYMJlb/x7BqiktyNgw==;PHmHdOlqBN3t7w8WiENKPA=="
+secured: "LY/ItRii7j+d4z2XxCrGuiXLA6/yeerNMDo02OcRY2TbAMDle0Zmmwi+m+noWJr/0XGcR/VDh+fWxzmW6QyX8sXuQ9Y/dhP3k3a0bQ24Q2DBPd6t84RhxFJl6Z9vw3XKPFzuIKyIRq8QIO5OoZQdPCOvvtdHyhkqiCZK/sNqGyiNMDptDdpss2gNE64X2MfQWzOghQnOXc3misys0J/5hTGS/Yescc5D3HNNZ+sykUDR0/0GW6U1jHiZIp0YWbE5VeI9qeo9EqC2o4Y9t3oqJcRF1g9BhGeK7j4MLnAFQTBunXIcvsP5mgUj8KgOxW8b6VrPII1HWuzz7vq8u9y/fCTeyO/sfTbo1X6gw7n3X52POYuMXGcghCg5QrxVOU7cPDPPQD3gJzM4d6S5iSM0mA==;5mRsKIGvUjgFNT+jokW0gw=="
 ---
 
