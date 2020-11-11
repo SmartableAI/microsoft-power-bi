@@ -2,6 +2,7 @@
 title: "Churn Classification Model Comparison with Power BI and Python"
 excerpt: "The dashboard was created with Powerbi and Python using three classification algorithms; Random Forest, XGBoost, and Logistic Regression.  The models were used to classify customer churn across a telecommunications company dataset of 7k customers. I wanted to visualize the performance with PowerBI instead"
 originalUrl: https://youtube.com/watch?v=J3cyjmuN9vA
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/absent-data-channel-churn-classification-model-comparison-with-power-bi-and-python/
 type: video
 price: Free
 length: PT17M
@@ -23,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "CpFuK+8FyLCkg0YkDQKqW/GfLEb52keTkYaSs6fjhUEW5jI0s1DlnFkXvdwdNcswRoqHTnhfk3V1q1gfule1bmrXo8A0kP5Q/4bmb7G6yk/qAA46DEROZqPA364uzH1kXA1TpEqMkguslFcOGYjsckVkjmk3QWcu9p/Bnbqlr1iMTE3BaqAzc7V0K81lrftZnOfrrxMQ4pcQc94whCOy5oVW75cZUC6P33hxK64sX+W9OepgIc5374EsChu0W4+fXuv0EmdUNCshxtfJxBmPogAqSAMCHTm5HnijxEZHzblvGlCFNrClpmcMuyei9IVut3IaRd20RcvAtZvrtlIpnpxtIexlQtHCI5FB223rEoIkWy8ON0SH4Y0b1g6yubVJ8cMsYhQquwMj6OayA9R1Lw==;Tczs7cdYxpfEzZy1g4lGDg=="
+secured: "IJI5DUQgXlE9oJP2SQFXDGwHYhsrWC+Fg7EWVUkLsRzGsXSYn2XG3+8QzShXB8+k/dKOu0fSJEZL6w5Pc0OVRUhTDBL9ViUt5u8iQlHYilzXDq22ygHba/00poHXC8SRO35DZwk70CudzngYq+NTTpZU6JOimtXoOOw6Rd/LmBJDfP2AbTBc4uZSr4RTgbyi74+y/fqzwaP05mAElpF9N59MOK1dNdlFjkmGG4unpYJxSkxPhJzJ4NR3dJrOjVUPmOm6+vKgPMxv/CXLUNpgq7V86dR0sKh0iDKuhOrWx22O3qvtyqxUQ0smFXYKwNDEZOhHuW5IGAVbuQ4G5dlhf9TaCas4c8MPQ0mAUMBQcLowOM/ZXPydYl/EiLJlbiaR;aETMe5DtAiT4g2Cb49sQUQ=="
 ---
 
