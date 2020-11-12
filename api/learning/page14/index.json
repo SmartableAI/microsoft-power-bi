@@ -18,6 +18,14 @@
       },
       "publishedDateTime": "2020-03-27T04:03:55-07:00",
       "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/z3DHsL05wzQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "price": "Free",
@@ -936,8 +944,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 497,
-            "average": 4.6519113
+            "count": 498,
+            "average": 4.6465864
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1038,8 +1046,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
       "length": "PT51M",
       "ratings": {
-        "count": 497,
-        "average": 4.6519113
+        "count": 498,
+        "average": 4.6465864
       },
       "provider": {
         "name": "Microsoft Learn",
