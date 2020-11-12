@@ -282,7 +282,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 130,
+          "heat": 50,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -407,8 +407,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 1068,
-            "average": 4.743446
+            "count": 1069,
+            "average": 4.7436857
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -770,8 +770,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 493,
-            "average": 4.663286
+            "count": 495,
+            "average": 4.6646466
           },
           "provider": {
             "name": "Microsoft Learn",
