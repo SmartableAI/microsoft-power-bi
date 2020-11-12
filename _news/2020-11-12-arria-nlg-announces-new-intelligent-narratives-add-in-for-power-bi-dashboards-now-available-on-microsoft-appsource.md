@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Arria NLG announces new \"intelligent narratives\" add-in for Power BI dashboards - now available on Microsoft AppSource"
-excerpt: "Latest add-in provides instant (no-code) natural language narratives to quickly identify, understand, communicate and action key insights based on all of the dashboard's visuals and underlying data."
-publishedDateTime: 2020-11-11T17:01:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_new_jersey/arria-nlg-announces-new-intelligent-narratives-add-in-for-power-bi-dashboards---now/article_f33d7aab-177b-5b0c-a7b9-fde42f223d30.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_new_jersey/arria-nlg-announces-new-intelligent-narratives-add-in-for-power-bi-dashboards---now/article_f33d7aab-177b-5b0c-a7b9-fde42f223d30.html"
+title: "Arria NLG announces new “intelligent narratives” add-in for Power BI dashboards - now available on Microsoft AppSource"
+excerpt: "Arria for Power BI enhances the value of your dashboard with intelligent narrative. Quickly identify, understand, communicate and action key insights with user configurable, out-of-the-box narratives — based on visuals,"
+publishedDateTime: 2020-11-11T18:05:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-37f22e276fcf415b68d5a9b50143d7ad"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-37f22e276fcf415b68d5a9b50143d7ad"
 type: article
 quality: 13
 heat: 13
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Power BI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/cb/fcb6070a-dfd4-59fb-83b1-917e991c94f7/5fac2e84a1fb2.image.jpg"
-    width: 400
-    height: 272
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "5KSLV2XtWuVQLfkAns9c5+n6yLv3Y8ekcdUm5DEdselDogGhBNvILM9pApPbAJ/R5S+rtD1wtPGVrWf49ztoDeEfHNHQEg6Jv80w1caO200YkZifNoO3U3uyHTDCDmVMjJM30LkINuwHC9RBhyGCLCSm18k1+HOBPxIxSFLDK9Q5k291ZtfSlQwClVfrNaove+AnMn9fCpDABQTJdAErf824zM9wh11Md315z0d0jRGR9XkxoxvF0J/3T3tCnvMca8AEY4DPdL43iUYiv/2PTNyW/cHLSwhxQDsrbTmFu1afVlI+pi3sMabNnXkAhPqg2Jr68d+I0ZF6GwWObjz4OjswBoGUJtxV827JR7rRMJw=;2Mjbp5ELV9KTai4md4Nxmw=="
+secured: "Vf03FmPbfTFx0r0ZOxrju7QH6+amPu37++A4hy72EvyitGOtiCJpj+tosakv2bYMdn/R2/WxutndOiGj+f/jrI5Rq4KxnAwm+AzL0L3hhVdPSK/dMzmMdox7Im3OZgVHV/TI6p5/29xNlQLUqf3lYyHHYQ8DmV7LsRes9Qd/3NT4chGc+SkMwbmW6XVyCc65tzhRmkGPgWoQE5empHINdJT/FyxuN0NwEWB7IgFy4GAlqQ1Q7dzo5EzG0F8oonTrPU8kVnBrq55Q6Jq0Rsn5IajtaCqdF5G5hFwtKBvVywq2inuDJLG29kAwrIxgxD/lHv7LLsoTuUw2IZnGgBJWRGZVoEQXcONRwkVCGoyo0xA=;IekicNZNMPNR/zI1epx/1w=="
 ---
 

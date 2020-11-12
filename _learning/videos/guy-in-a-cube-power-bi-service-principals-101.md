@@ -2,6 +2,7 @@
 title: "Power BI Service Principals 101"
 excerpt: "Service principals can be very useful when working with Power BI. From Power BI Embedded, to API and PowerShell. Adam breaks down how to get going with Power BI service principals.  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the"
 originalUrl: https://youtube.com/watch?v=1SO19uik1rw
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-power-bi-service-principals-101/
 type: video
 price: Free
 length: PT9M23S
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "3JCy4CCH2JyIsEA1BQLhKYFORKd/fjHLw83p5orlf2fn+qgUiyBncrEpYpVEk1ZizYnr4xchTl3ePT1SQHU7qUkUDowbxiJ+7fozqr0+HEIyma5Lg91A+nnTvPwkGiikMLwC/4rbx7dlzlmMwN3Z+22jaaxRgFd/Z+v4nrdF/GoZ6r6D9xwtbWG4XdCTqh2Xa2FN5uu5pTixPikqK+o7ZvneeDQmC//RP5wgHcUvvsYOaerHil2ezM+hOQ2BArn5RJNa+aG/CnNsejErmjAuVCUEV76XeanUjiPphCnbjMcn6cuHsUEhO1jwecpa63QKTS/QrtICnGdKM/edi71aVxm+cugGFBCaD41IsPbw+QKTI1NQMslZeS+udUauicCMda+YRSrl4zh3nMHeyUMSpg==;rAQO19E6umLjxv1jYJZ0Cg=="
+secured: "yvHo+ru2urQrDP6KPuu/gnK/1Y/BZPGczIHe78xOmHcy6Y5pvcSPtj9Mo8a2zUOSmYKkL0y0PtKU6PgDRe/StuPQoIrbaQ+Y/vGO+98SuYGmFnnkpy7xLIb3Ad8RcYIFkbqIYHTWJ1MQ7x7ooWcK6SVT1NyRUp5cAr6203q15BuDy/pNRhbsXkWOIs2rRN889qIxwCMBcz5R540HBH3JZNddxAwfLfT0dBV3LZKznwUCga3xqrewveU0qwGy5wxszIeHcxeGIzCxq2nB4NMsvLSvmW5FEqLDNQfTK11k2S+dFz8N3e2rzOKzSJB+BGuyhubFg4OrG6UbGHsaPsG5CBa/aQ8KRVhAA04Bt17IO0w93TYtDXPzOaMBTqAp2bTfA2kd5larBHMDgr5kvu+3Zw==;Ko0ShH182m3jfhNNaZAZhQ=="
 ---
 
