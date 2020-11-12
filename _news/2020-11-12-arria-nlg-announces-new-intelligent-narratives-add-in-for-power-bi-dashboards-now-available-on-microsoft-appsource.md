@@ -2,9 +2,9 @@
 category: news
 title: "Arria NLG announces new \"intelligent narratives\" add-in for Power BI dashboards - now available on Microsoft AppSource"
 excerpt: "Arria NLG today announced a powerful new version of Arria for Power BI, an add-in that brings natural language generation (NLG)"
-publishedDateTime: 2020-11-11T17:01:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/arria-nlg-announces-new-intelligent-narratives-add-in-for-power-bi-dashboards--now-available-on-microsoft-appsource-301171174.html"
-webUrl: "https://www.prnewswire.com/news-releases/arria-nlg-announces-new-intelligent-narratives-add-in-for-power-bi-dashboards--now-available-on-microsoft-appsource-301171174.html"
+publishedDateTime: 2020-11-12T03:59:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/arria-nlg-announces-new-intelligent-narratives-add-in-for-power-bi-dashboards-now-available-on-microsoft-appsource-836038278.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/arria-nlg-announces-new-intelligent-narratives-add-in-for-power-bi-dashboards-now-available-on-microsoft-appsource-836038278.html"
 type: article
 quality: 13
 heat: 13
@@ -23,6 +23,6 @@ images:
     height: 616
     isCached: true
 
-secured: "NSnaK79icMD6NJcmjSOnkqw1LNGx00TmnclJMOJDrhk63RDguLM9057RaSnhvzeBcgAQokzM8RfW6yY00TITUZ3WKtEOVwqSgUXexgcaIO1R/MpYgJaQHkHE1hzweIRn+qn3rjHAakfQmE6ySvcg8HsAwJGoLYNtAW9gu+KiDZnLSIPj7fUPhue06S/HHdRWPhCTM2tnL0Q8Mp1GWZKjU2cTytNm3ydrccfWwFcMMe/usbUVUHsbO8bscI5BGvij6un1ycAud/aouFD1Fej1oAGL2lvdRJ+84hw5DNaCQ/6YkGqxVwuWRwpUYfkszhjeXPlYzIZqmaMk312eWEPgYnRIhASEkG57CWJZhdasppk=;J580Cs/KsIg9bz7NNMmOyQ=="
+secured: "CgGPm80oo+7VWplELrsT3Ce6CKJo646DdCBVo026gqHpXIHy7FgKrma+k6/L9W2xE49Pj8UR3Y1Q3x8gq724jPFbeu4qfOwHYpLe1HL6dAehmNa3ORzpY4gzITIZAccTtLdLJTfFHGDS4vUUb076Po77nA4cP5Yv/PrGJXRNW8XZ1Gpou0KuReR1a55nEIxVbklp0iElLo9hVuDcFH1f1jJscNXnw1CB0gpi4aMOQb8pUtvjxXdm3GuenRnh0/IwjZI4sFO3MOe5vPtmi3/rHAVLw07NGkrS9grLBG6TUQAHyk333r37prBrp6jO068AF1ahPK8aCnM+KlPig2pFOslOPsW79RK93tAPINawvWg=;E5GK0G+0GBxbaNWpNk6cOQ=="
 ---
 
