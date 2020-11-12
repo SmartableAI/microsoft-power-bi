@@ -2,9 +2,9 @@
 category: news
 title: "Arria NLG announces new \"intelligent narratives\" add-in for Power BI dashboards - now available on Microsoft AppSource"
 excerpt: "Arria NLG today announced a powerful new version of Arria for Power BI, an add-in that brings natural language generation (NLG)"
-publishedDateTime: 2020-11-12T00:29:00Z
-originalUrl: "https://www.prnewswire.com/il/news-releases/arria-nlg-announces-new-intelligent-narratives-add-in-for-power-bi-dashboards-now-available-on-microsoft-appsource-836038278.html"
-webUrl: "https://www.prnewswire.com/il/news-releases/arria-nlg-announces-new-intelligent-narratives-add-in-for-power-bi-dashboards-now-available-on-microsoft-appsource-836038278.html"
+publishedDateTime: 2020-11-11T22:01:00Z
+originalUrl: "https://www.prnewswire.com/ae/news-releases/arria-nlg-announces-new-intelligent-narratives-add-in-for-power-bi-dashboards--now-available-on-microsoft-appsource-301171174.html"
+webUrl: "https://www.prnewswire.com/ae/news-releases/arria-nlg-announces-new-intelligent-narratives-add-in-for-power-bi-dashboards--now-available-on-microsoft-appsource-301171174.html"
 type: article
 quality: 13
 heat: 13
@@ -23,6 +23,6 @@ images:
     height: 616
     isCached: true
 
-secured: "HUgBX7XCkYujOx3veoCoOLThgW19+0WefcdW/5PloIAIqfXYUlfLsD3ynIjXVpPphE5G4V+2aOyWMmy5FNW8b/zQfACdAQyJ8zF4t5NGP3tddY5FMEGZeUE7+x1KVrvt3brzfruFMM4eWoioTO8D6X/5LUg9w9swgzbRV94BOkOrzDaA9MjBd4OxVQdC7Bc0qU+2tc4b4XDy1PuWwmVPtqgDDyBDSfE4U2LkwHbgeN2viyem23enM5VJEh2QJ21j0XDOmIi8nqLZu1mCNrlwYRVZbgEeWGChxCynM5zj+1Cp1TwBfiSd1cNJfxgk1FJ+sP+arxnhSI2egTHzYxpJlsQKSn03wX6TxfyKWWRlO6U=;JbTQH3nUGlazNATYVkxn+A=="
+secured: "/RT4hdDArqaIsFUa1vlr6OtghCnKqEHp5mKu97UenLNouOXk3Dduzj/GpQ98EIHmunLdCj8EEJc9z4lr97E4SXY6qonnxPAf38ia+zcPQO2GFjlHmonDMzN2qjkYkur9VaQAvRF2IekIFoi4b0c0j0H9pW5JHVQ3DM+zbKBvnwEwpFxp3bL/R69Rx1vZ15pFt6R2x0pcLZF94iyqNCylmm2RsAuGQ8JUWZ9D6SH1dyBG2Cb09QnM1myHZw5DFckLkd+FgXcn0z5OAbQKZjQQx5nSGq6PuGw0fPvWiLD+i/NkYVupTpOoykl6BP8CuNxHuRnk06YbwQCSYVqpAAtxqbJXz/m6wdwowjCqi/HLd7g=;nsQFSuWt9iiXiTCbKQ8cYQ=="
 ---
 
