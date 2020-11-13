@@ -3,8 +3,8 @@ category: news
 title: "Arria NLG announces new “intelligent narratives” add-in for Power BI dashboards - now available on Microsoft AppSource"
 excerpt: "Arria for Power BI enhances the value of your dashboard with intelligent narrative. Quickly identify, understand, communicate and action key insights with user configurable, out-of-the-box narratives — based on visuals,"
 publishedDateTime: 2020-11-11T18:05:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-37f22e276fcf415b68d5a9b50143d7ad"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-37f22e276fcf415b68d5a9b50143d7ad"
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-37f22e276fcf415b68d5a9b50143d7ad/gallery/13666180e9ff88177f64337cfce3e8f1"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-37f22e276fcf415b68d5a9b50143d7ad/gallery/13666180e9ff88177f64337cfce3e8f1"
 type: article
 quality: 13
 heat: 13
@@ -23,6 +23,6 @@ images:
     height: 450
     isCached: true
 
-secured: "p2hRmXiAyhtGfbUjAyXLd9Q7vC+4GLqsYVI4J6H/FRE4HmfCYgTDGVizwQbJ+5o0rmmvzz78cdpFS9WEdMtLVWKhPGmegRYhiCCE2pF3NDOb6WPVlpePhI1qE5aV1u6IxLXnPQsWY3UDZOzBAG8KNJlMtMZrXzUOVAUXSNic66Vm74qdwUN2E9SUihJvtzvpqlkpkyrGfVOMnqB6mK2uiV37adfN0oxFwxbeg5f1pRzXvHXxtY2uMslWRIoswBrQ8Megh0XajCI+vblBKSlQj8n/GrCyY7aNBnA9A6t5XliRqzGCT+rxtdCdlq0IOvfed/Zbg3MCMvebJpGtjalyYj9bIdVf1EkywEqffIBlir0=;jSk0kYLJEa6GxlEZJaNEdg=="
+secured: "WZQ55JlJrebL13IZwka9dfbeTZN4b6tZnXUdgeMdt5ofAa80Xfm5WnS9SJRiTPYtmHi1g5FwtagWo10lTxh31CNY/aUk1kQ3XOI1+w5BLJPnuKlWxzsPAprVM73eD+m5SH2u5+ifTtio6LV4FOZElb321hsFYu6kE7w/UFj92HvA/p4xupQmE04a2G1CiGYIaXq7Bja7xTirP6Y6WAr3Su/7JqkwOO7VWrGzp/yQLslKyZo0WbQfnRKlVUyg6osCfSbG75++x3RlBwVHnJqjPZPyJfNcwMmWBl2EiVwHYXVQglox+WN7OsNQILkjG54UTj83pHhvYWmgPgPosGxWyh9f5TP0ELyOVejWcJQinAE=;cvDVN8GVD1jobAhRI7PpOQ=="
 ---
 
