@@ -563,8 +563,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 925,
-            "average": 4.747027
+            "count": 926,
+            "average": 4.7473
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -581,7 +581,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 138,
+          "heat": 58,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/optimize-model-power-bi-social.png",
@@ -623,8 +623,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-analyze-dynamics-365-data/",
       "length": "PT57M",
       "ratings": {
-        "count": 2111,
-        "average": 4.7048793
+        "count": 2112,
+        "average": 4.704072
       },
       "provider": {
         "name": "Microsoft Learn",

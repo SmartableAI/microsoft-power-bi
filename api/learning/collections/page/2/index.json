@@ -225,8 +225,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/becoming-solution-architect/",
           "length": "PT1H43M",
           "ratings": {
-            "count": 670,
-            "average": 4.716418
+            "count": 672,
+            "average": 4.717262
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -495,8 +495,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 925,
-            "average": 4.747027
+            "count": 926,
+            "average": 4.7473
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -513,7 +513,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 138,
+          "heat": 58,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/optimize-model-power-bi-social.png",
@@ -898,8 +898,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 312,
-            "average": 4.6217947
+            "count": 313,
+            "average": 4.623003
           },
           "provider": {
             "name": "Microsoft Learn",
