@@ -2,6 +2,7 @@
 title: "Real Power BI Project Presentations (Nov 13) 🔴Talk Power BI LIVE (Subscribe & Join)"
 excerpt: "Want to see how real consultants work on real Power BI projects? Join us LIVE and watch the project presentations by Power BI Professionals in our Pro+ program.  👉 Want to become a successful Power BI Consultant? Check out our Pro+ Program at https://www.LearnPowerBI.com/pro 👉 For more info on RealPowerBI"
 originalUrl: https://youtube.com/watch?v=UixCCggPUIA
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-real-power-bi-project-presentations-nov-13-talk-power-bi-live-subscribe-join/
 type: video
 price: Free
 length: PT1H20M56S
@@ -23,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "drGrCZ1S/89Bo5NoAhTAS5CNQ8Y6FBpA+04LURtB2j/lRmNWb8tPb9HQBaYbP8QgvY7rSgB+jKPcYUbp1GT+dzNxI5rGu6KrmayX4hkvpMMCyLHtNcySK6kUHgfLdbnELdAih6F5YGL17Mdk5Mdonrii0IYy5bWZ4d0sRtlWajSq/9R/gPk2LrTNyewMkn21i4pMQQhJ1e1ssMENkz1R4+FU1SbriQBNwuY3cF/L29YSd+GLFhjwEhqsqBSCQzDlUair3BoWjjrMJ6M0ydk2vyCFU5rvzzZV3NwCg2LXIuGjPTPY+XsQI++OEjKqRRpnoUwMKwhCC2iSrqi29bfoTrrDIYISdPg+pLFwT954+wS4oZNm5xkr63QW9vzw2UZEp5IoB/PpiwiBKAS3kkcsMg==;ouhwcQHfUCFQ6+splBR+4A=="
+secured: "aarmC3QvsxO/hkilk9L0Y9WPDmwVIwZrCa++H3d6gBVII0pM9ebFe7MEjzgcGfSyg2zTJlCAbMtiXhUyojYnxIjIMziDMFme3M6tduuU3s6caKjZ1/h1M6zhuylbbFw5PY0WkUPwM5dznY37sHQl/6vvyxgfO8Ckwj9Km/F94rCCkVW+65PxN3FqG6tOwzFGfe+CXmy4sbDb1sQvFkOHOChD7UFfw4+h9mdeyFvdMbU6hpmn3HNFOBWISRfl8EIZC6BpaFShlB7+0/q98bSflGi+In26FMk/EAy4UclfpDSvnYNEgo5dAjl0P/bTwSIchEOrrFWuSQhrrD1a9mGRqXT/rsaMLjAm2uvH+fUMpY3lCG0EDi9S/YW1NhLApNX678cjAa9v80NKBms0WsFgrQ==;bk9MUI/vpO8DCAovofpUaQ=="
 ---
 
