@@ -10,7 +10,6 @@ cdnAmpWebUrl: "https://www-wallstreet--online-de.cdn.ampproject.org/c/s/www.wall
 type: article
 quality: 33
 heat: 33
-published: false
 
 provider:
   name: wallstreet online
@@ -25,6 +24,6 @@ images:
     height: 272
     isCached: true
 
-secured: "CeAJ7g5j0XN/bLjLN0uO+jSBXO4Y/lM1A+mLSjrSOZdUnflwXd32SyIi897AmQBBJbztLAjFjwxB22Rr/7ICMMj7kKaa7YfW9AiHWE6tyBgW084BiwbSICNAj0llPK5iTmXxZwBeuy+FC6h1C8Gx4bVRl3h1S1YqlTaY4Z+DEurRQI1tSIJ9G7RQTcgTj8bK4ln/SF1RapU1YgNs5H1W4mG/wJpgtHtsTIs7ZMHVuISshxa1GPzUaz8QXAswe2FcAgdg4UqfMebsKl4eV/kUdGswhaMyMFKxMltym7IJ53sJC3zaXGTpL6GjGETMGvz/Fdl30u3rrIGbzXnOyYpeRXO1myB82cDlBO9xa84NViE=;gZ1/IvFaNjXyARwVgl30UA=="
+secured: "WxWkz5LramxjSSka692WuovFlsOCDlB7BY7gH+EQaiQIxHEONoVCQRpiwWmeYuHimbdeVah7yF6Bxd9fBM7LLeE2u1i6X1gsgi/hAFDoCLkvumLLgcrQVi+2J8DlrkWq+0+sx5oGJV5IBhboZwcS15UmppDstsh6PHHMKpZxTSLKoO2ynQEagGHyOFB4QABFz5VAAq9Eqmv9faS9LlOerXkDFtt64aCExID3cWaVD/ROps1Pkaf92Rr2DMLzV0TjBn+PniaTINlkdb6Z8iRg3tMJ2ygVvOddGymteSprEwW5hwwm/6aa04wRjPTecQhGLLKXuTy6y5isC8w7pUUM3x9VUCFAFegGXD3KJbAHKks=;NNlh4SjZUjQ05sFBL1lTJg=="
 ---
 
