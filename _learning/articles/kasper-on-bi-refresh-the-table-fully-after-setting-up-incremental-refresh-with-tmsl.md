@@ -4,7 +4,7 @@ excerpt: "I have seen this question a few times. When incremental refresh is set
 webUrl: https://www.kasperonbi.com/refresh-the-table-fully-after-setting-up-incremental-refresh-with-tmsl/
 type: article
 publishedDateTime: 2020-09-17T14:52:16Z
-heat: 130
+heat: 50
 
 provider:
   name: Kasper On BI
