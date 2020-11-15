@@ -876,8 +876,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 388,
-            "average": 4.7448454
+            "count": 389,
+            "average": 4.7455015
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -918,8 +918,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 315,
-            "average": 4.6253967
+            "count": 316,
+            "average": 4.626582
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -960,8 +960,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 396,
-            "average": 4.7222223
+            "count": 397,
+            "average": 4.722922
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1062,8 +1062,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
       "length": "PT29M",
       "ratings": {
-        "count": 388,
-        "average": 4.7448454
+        "count": 389,
+        "average": 4.7455015
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1104,8 +1104,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 851,
-        "average": 4.695652
+        "count": 852,
+        "average": 4.696009
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1147,8 +1147,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-calculated-tables/",
       "length": "PT19M",
       "ratings": {
-        "count": 212,
-        "average": 4.773585
+        "count": 215,
+        "average": 4.772093
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1190,8 +1190,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-iterator-functions/",
       "length": "PT12M",
       "ratings": {
-        "count": 144,
-        "average": 4.6944447
+        "count": 145,
+        "average": 4.696552
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1234,8 +1234,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-power-bi/",
       "length": "PT53M",
       "ratings": {
-        "count": 3491,
-        "average": 4.7129765
+        "count": 3492,
+        "average": 4.7130585
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1276,8 +1276,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
       "length": "PT32M",
       "ratings": {
-        "count": 315,
-        "average": 4.6253967
+        "count": 316,
+        "average": 4.626582
       },
       "provider": {
         "name": "Microsoft Learn",
