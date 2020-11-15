@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT11M6S
 publishedDateTime: 2018-01-10T17:41:50Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/U1dC-iKgKys\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Download and Deploy a K12 Power BI Solution for schools"
 
-secured: "IXhAscM4whOaj/8KYvlJAvwo074UwfNsTc57iOk1Vk/ua6b1FOEHmbORTeMpK/Sf0U0y7JOGzLlqwHSGDaHUS4oVflo4JOXZtb+CtKqXRsBPCkPugGrPDoeiIkjAmuaHbhJMMCFGSL+bX5yGxp68lP2+3VMm/yuTdDo6cxwicDkgzLh88yeYu8ohBtEeWnMV9yA6MwASP3/wmm3LTSznEUypp2To67M96Cj5ZSv9BSKkFpRMyHf89719h5A1cF6Sj2+PR55r85jVTU+wUBJMMZz4l65i6nPuNUvwl3+6UeAN8satKMtg2mntzg2xt24ZKdulVekkrI6tueiSr24VF84Ifj5tGkWfH5Eo14noAkrOJCcw7ih6L/SZgHK8OmdVW0oYPrQmOIyAMm9v8LzGZsIWHePjwYX1yFLdp6Gs5Xo=;6en65lJjIsL8b3N9LssMQQ=="
+secured: "rhcsZpkLxDe4O7r2A7UB1C27a3/khS6c91zquz2VnpVha0f3EyFtwosLZnn/GSkJOR4PDYSmrEszWW7MdUjaEEyufJRAMieup5bvWP7YZvJLrJbdRGYezl+WFBSMUv2ZzUyC95XGRZRybSurxW3cuO3XvYT9P6pHc4Q17RGx/6N5Hgqb0P3tk/0gaJqCiA2nYxEcnxKxZ8Y1KGhTvRvbXWTPlW7/M9G1suSmJXH5l0nHksgvHk3jABe75lvxgnOd3BuT93FzPC8TRdFfdKUFr7pattMsPwWW18a6vmsluyFRgoBEl3KBXGt4jYONAw8DVxnpk21kTn/pxB4e/f2IVs0Us7jLsAzP1Z620hZdaqHb+wiffhqjbwWHeP3bFh6oIEkFEiMztZlGGWSbJ43tFddvmPWj2igy/Wu4RBL4rt4=;WQSmZXkFZVeDAsoAtYSvkg=="
 ---
 
