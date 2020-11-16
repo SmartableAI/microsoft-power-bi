@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-premium-per-user
 webUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-premium-per-user-public-preview-now-available/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:
