@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT8M45S
 publishedDateTime: 2016-10-31T19:00:10Z
-heat: 54
+heat: 55
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-Ola264bKXk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "RbRWzvRILlePGr3F0yXALYhf8sVe8dU2Vt228Yqm7/98Lkf+eMtZQV67F6lOYQeMlMrias1Bl0X2EMovmZOWuYgMklzNmA/haHzuwKMnUphNj61762kkQ4CpqfySKvRDFGOk+vKorCFEKaN3ABXn247BobbVUuBEmhGjCZ5PgOI6uQNQxvaO6BFAWqkbJjxUwj75Jw/xy2hOXC+/CvYWzJG249cfyiOZGcIJMjrjqKEql+4O7W1QpeZHzeM2232fcHR9qLwz4Y98meCvdE6tTUaxaP6naMxq67ks0JRlF2pXcM8JQEgIppV85lRPT5V2Yf5FXxrwpg2+/V5Z4caXN4FIbw28PayiCA1ebROhGbmiMKVumi/kBJZYc37RrYSlvLWI+81LyLu1zSqZ4YWtee/aF7iqtTBORr3/7m4CAOQ=;54D6TvghV5RX6c+zr2BRvQ=="
+secured: "dJe483YlI+Saal+Kzzw6KkPkBtkXc9utmWK48eoKmkvh+bq3UdhJrpIqfNAghJ2FognTPPVCnF7ClGAOpwfkr4knsmBY25iGksorEMMQKj8r0kuZdv9T7hSZwKKNp2FTwz81LiEFAieMd4Ca8e9VEgRI1w7RYikjT0Xq30B+RTdOtpnZmysTR7xwZ64UBmH2jk9Qlc/2V0dwgXW1l58z2BaIovgL/DOxwZeqNXokEDhbqu9D8EogASUX7pizrb7YItBxs8ow6j5ZDsKgDBIoE0FScjE1teZ0I8N9bvTbSrOXPnKwqw2MRlFWdef9WPFBDzQ5hCDJ8Aussy9QNxtRLQdJoHFbKZeKIlYqjPRkMz5O/7ShkkSzS8DS8gC0sVLbO6Lv4YaAJjUwh+F0VojXss35+W4CArHuOaIDVHHaaV4=;TtDEw2dvGbF6Jke6IyLYfw=="
 ---
 
