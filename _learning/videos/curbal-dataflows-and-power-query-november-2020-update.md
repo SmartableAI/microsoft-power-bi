@@ -2,6 +2,7 @@
 title: "Dataflows and power query - November 2020 update"
 excerpt: "Have you seen the new and upcoming features released on November 2020 for Dataflows and Power Query? In today's video, I will go through them so you stay up to date:  00:00 Intro 00:24 New Diagram view 01:36 New schema view 02:16 Add column from example  02:20 Add web from example 03:13 Fuzzy grouping"
 originalUrl: https://youtube.com/watch?v=ss75hzPSY20
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/curbal-dataflows-and-power-query-november-2020-update/
 type: video
 price: Free
 length: PT8M18S
@@ -29,6 +30,6 @@ images:
     height: 720
     isCached: true
 
-secured: "LeIGYpJbw0eWGgtBb4VqD/T81OyyTZeqMO5Y1wp+gJ5X3ITCnPE21Csj1JOZBKnePllhBt8lZm+L6iBXOx/fHynB0BnToFgZhYMXrcJmeEAdwuqYuNNJ8MByxNw2UCDMv6+CRUijqWAMaDevmBiPDm1il2n3Q5tHMBk0IC7p37omcTi3XL+xFv1N0+lR2ONVke7zeLyRMhOg3IKLuBJV/qUCyXeUvf5DOGK8xKzJ6pFX4LX+fwqWJ4LoE74mDx9VgKz9AnBGQkS7iwKFpoglKjSwZEEHU4Ip6CtxItOAwcOGM5Bafqh6tyKB7SJ/7Mlc8Q+xcTuFcnxoQLPqhZ99SfUsQvmp0b5VJfcZbthxgKBHxsl6VzFBF0g2PGOL+rXc;LValopTfZgnTOg6WBgFCGQ=="
+secured: "bL5XnMj0HHe1QbpbevQfoiJ8UA0Ou8QgUeoEcBni6neHlzH0zk5gAUpZKV0I5ECUgZjma+lkcsnBjana3BwjYA/edX37jrDBLIX25tNoQwEuRoO3V/lcFXKWQa4BMDCSZbQuoUxur44wjrM6bcFU921ql/pcErMpv1ElE5iwnt0XBH3alww7BrgvoKKXwdrqYuw2hL/BR4IHbN8ywRuFBo+oWttAffwS2xsyRnDhDvnyUk521BP5Xu5v/ZxgXDY+wgTiFkFhgmr+Pd4cfqHAbnW9WxAI5PXyjWIOWB+gJGkMKOkY9iy2o8F+bdNseotbuNEZKnPNPx3gJJKVHD+pFj9/IEpXPovK6DGRL1giniBi9SdskQvwoyzwrqAiumMh;ioakTuC4YaHhcN/thhHGeA=="
 ---
 
