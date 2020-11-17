@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT8M51S
 publishedDateTime: 2020-03-29T20:58:11Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IWJn2jVyb2o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "wsvdavtLVjAS9cxhrnaS4oA7hd25z/QsXeocBPx67kbcnu46sblKbSmwWoIfgRyMnEhs+UjXqj1vinrzFcb+lj5VslWhY4CeDPPCW0es2c1wzQn8mQ1teACj0iW971tOIX1VEIDYt4p6582ktKoRhviWtmasnRV5suazUm9NtD7eVVGvqcF/Zl1SBu+M56QpSIIdNQPB0+8XAd36Qpij/KQauzU7nLBlfP87IwiFCwq02PZZ+V2m8ZSQ8DAjAvinzWqUQsouD7dMH81NdlKGOw8CnkuoGIQkyKNvMZqvS7CgQDpDvhI5p3P5AHFq9zUR0S3dQytMqmUeVjs7AHVtsM4Htfl/SUbpiy7jzZwk/pINHBcFOTafo6As2gvMpXk09fmsafP/XzJJh4B0FYzeGhRXAtGuW200/BhNozQqMHM=;99j2hRfSky5uhXqsTe7EGA=="
+secured: "spm4vkQh920Da3jFaBq/ObRad+dr+VOm4XjoI1oe86PGClF6v4bT0QLtwkIFYcvsKz4dTGA/RbcVgQNL1dONajpFEGOxZR3MrFST9JZZzovc5LRNksEq+ZBP0AnAwhNYMyvKpOpVRFgdw9QU5sDRZoUJ4teM9iN8lQwDuTVJLal6vWP86BoSQyl2RTE46pjOAIs1WSBnWyCeFzpHff5qrIQAJkNACdURc+WnN4g8M+Fn+T84kt71Rqzp8xLj6sGOo+rI95Hmhf/R1/z9L0+nciSZkLAe7HMOvqa4YN406Vmlzy/O50c78HUC0ZWgwR9rRRM+bkFVMNZNqhCKwR+vGTpnPvuURMHJM1nTMRHK9gob/ifFfigvBYIc+RyaeX4H8eoaJ/ePnsY5Tq6Br55KTLVZv/c8kawB5y8eSCV2e5w=;U93EsP6x3tTH7XJyX2yZZw=="
 ---
 
