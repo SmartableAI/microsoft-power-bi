@@ -2,6 +2,7 @@
 title: "Time series Anomaly Detection in Power BI (Part One)"
 excerpt: "In this short video, an overview of what is Anomaly detection works in a Line chart will be presented. to access  the data follow the below link https://bit.ly/32RBYP4"
 originalUrl: https://youtube.com/watch?v=Dstbrawsunk
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/radacad-time-series-anomaly-detection-in-power-bi-part-one/
 type: video
 price: Free
 length: PT10M21S
@@ -23,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "yodZHF9Stz7y0XbCTVbKb4LqJO0uJrocDm87xzzRq0KZNle5EWOBX+9OgAvT+ji52t4+oagO9jSd12yb3/sbNP9jajYyiULJTzcQ7z3F/+Wkg6kg5VFMkB5ehLrz4DccPC57yHqf5kh/H4lYgLVyYuru8rvYofQku07TwLuweXNHhcNE03KqDKJkH2vwNPsHPT//EJDoFHkf3ZQp8A5SpXHAtOQENCRbLc4XdRmuPetsdUgBZkbRAxPCVV0pzuh4GvC+sv6TT6Y8HJp8nsYUNW1DEMh/rd47VPA3fWRXNS0DowWdtBNVDSGvXuSpagDDAOe+4/gV6K2FbGVPaAl/YMwQ3IFLsbsgBbHYJq6MkyGfXrcKTEMjTVKgBnHUwNxCYAyIep2kdzYAS5Vr6yBLmw==;+72FHqr5F1X16Cw386vdHQ=="
+secured: "1xkf9T3pXJz17NllBqh2Z24bTBLJqoXJbnZJiu3ckfrnWodjs/mncr6VYKs7wjxKUJk3Nl2PaDD5HvEdSV0MgGR7aiV4ak3ORhFt21g6HTcHkPu4wDsRtXfoKF7H0MBQGhDOY5kpCVaSB7vEXAq09tz/ykWX2ONyIbkA8xhJ7anJZalRHqDr78zB8sw8JpWV74O8DWIoOqzLFr7pCYi4fmlROSU9/fCWTsHWtKu6nUHg96SlQokImkVIXKn0W/nHdVXYahz5fiIEtRdbIjkx5q5ZnDywa7vcLj+358DDbDP3dqDUdBCgfMW0A6XJcE/C+3Fwz82DRXxojLeUUPHTTYdd07ecFlkmnAoQRt8jPfCBD+thwFYsmMvcRfzFrfkH;SnwJyl2rR+oI9QGVxXTGaQ=="
 ---
 

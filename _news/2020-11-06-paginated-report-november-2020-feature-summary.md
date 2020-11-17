@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/paginated-report-november
 webUrl: "https://powerbi.microsoft.com/en-us/blog/paginated-report-november-2020-feature-summary/"
 type: article
 quality: 72
-heat: 73
+heat: 72
 published: true
 
 provider:
