@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT9M56S
 publishedDateTime: 2019-10-14T12:29:00Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LdlbddP9C_U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "3TWiuD1Ul/OQ3mSMFhjxTpknhH0LqhdX0H/UwRDW+mpssixscuAlWiKXu3QLb05j/gO6W2eMh6NwoObxe5f2eoSdy/esicri6OEBojcTdIydrvjtrrWsiO4I8CgKbTsSlqVZtfWqoPGOfgSDvJxnpD4D9RgGPne7RwfI8id6LU3dhJG10Ffb4Moe3wwB/b8fOKk9txCO1TivG41yel/cJz0Y1JdIWZ98TtbvAD1Eci6iQIgCsQv9mU0yjMHSHKyt5CW/l6P2KqnThU2Gx/X8GO0kWo8h8Dgq2xZVzzBdBBx6pP0/5imYH7CxyDCkgdGM799X8CPxM9xttjjFm/rb1PwW6L0zJX8d9ATr147HFuF8lBhcf59E9dJCSBBLB0AEXGFrpFleGgnbdBCmG3ItzD+i/fzKMfnOUdA+Igsmlb8=;vmLs/JYz0j/oRz7psjt3tg=="
+secured: "lvEykTYoYQcKmhnQxywaUrmhppzrC05ld8FDetYpKsLgLAbfy/PS4/j/cSzKgN0Q4to2Pkaeu6+sJEA3rtXZERN0cl+FyjzcBrAruypM3BgRz0i+8R5NVxmlp6gus5yNiXhXyceVFO32gwjTtiWtPFemSy9FU0XQVe9vvYJ+/zkOSmHTOypMprEdARirJSAySKZuxJ4fKRtQ09W0OfucJF/RYAjSQ/3bC+BBZ4hOhnnx21ccxAwVhxkkM5UGZzAZ13msTYxwUcTdEzBjVLCog/Oq3mFCfM9nOXcnI5sYRIdhmhEwZCcanZDAJ8zC4tt/17ihTd8PbHvxUsIMZVmSOX6N2tDCkxjXxL1lombv9tzCXR27m9jlKCzBuAb+fc65bS9VD4CXLMIyJ3n1Mvb+Gs7oMBuS/9q1TIFGKUXqOhY=;on0BweoQ3N+TLE/RFORb6Q=="
 ---
 
