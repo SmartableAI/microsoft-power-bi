@@ -2,6 +2,7 @@
 title: "Using Images from a Database in Power BI"
 excerpt: "We've looked at images from sources like OneDrive and the web with your Power BI reports. What about from a database? Is that possible? Patrick takes a look at how you can do it.  SQLJason Blog:  http://sqljason.com/2018/01/embedding-images-in-power-bi-using-base64.html  Gerhard's Blog: https://blog.gbrueckl.at/2018/01/storing-images-powerbi-analysis-services-data-models/"
 originalUrl: https://youtube.com/watch?v=Q82yzcfkqAc
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-using-images-from-a-database-in-power-bi/
 type: video
 price: Free
 length: PT9M19S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "ji3ddloRKcORVeN62CaL1V9bEie/zFALT+r4Q2PvmF6/jqzOyPuXDO5e3SApxj2KrqxDTyQo9EZZZ9SbYKrGrxclJtZvdxUFUMPOEhv04xhIX9mJO1iZbo1FzQOlsARe0g53AWDa6gtB45GARN7ztnqW4HJ/ugQYlwWB7SOBh3QD4qpOiIbUdI/tRnP7HmOg2FIjLGtWOITy33TJxgC/TpymQ5oxbyzTBuBuz+HJij7NvbmploRuuPemy7391ISFyomaLr2MTYr2RjItuopI28ZsvK4LrSIPGc09LSwre5vfmAkS32nd9Ba0gCk+JEjNYIYA+xVLelWyo3jkMbYbeWVh0gqtkC0PJzVmfiXLIXUWdj8M/BVZyg3n8o5PhMYYISpzS2uC8GAAMWHUCtDDng==;AOuBWrX2MqiGeG22wQ5Z1Q=="
+secured: "j5s7r04bKPIySUpI0iF/xmHdhtGOaf710RoOU/WnS1a9VOJJjXsKVhWCEA6qscHV+cCeW9R5mDdhVWpET6UqYEdekm+bv01DoQOKIpMlAGFj+Nll8I0GSAAP6JBXNxXGUtKJkBOfmM3Q1+pNzv9jcTHpolQpY53lT+r3JvDCE4KPaJRvqQLBXn9aoS7z8ubRcGwqs6KA3nm4y9A/tcNKyEVOPdaoTrR/KrVM6Ax0cmxU+7/2y2cFAOGjuqUJPUxAGAM9DoOPDsgE8yb7nLl0wSd4Xt99S0s5/Y3w4dBMjBx4D+3DP6zxMOPai41txnQhoxbqoO5wL2WpUeQ7FgqydMRE2J+6ml5FPbuwz2rzF608hVsatP5aIl8FUOLDUpTcpo0FTxVWSPbFXYp4QrhjXg==;jcUCslHB5eBTVALFrtWWGw=="
 ---
 
