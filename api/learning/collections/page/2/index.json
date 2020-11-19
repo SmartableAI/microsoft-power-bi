@@ -381,7 +381,7 @@
             ]
           },
           "publishedDateTime": "2020-04-14T01:16:54-07:00",
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/CQczRrUjTCc/maxresdefault.jpg",
@@ -495,7 +495,7 @@
             ]
           },
           "publishedDateTime": "2020-04-14T01:18:24-07:00",
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/K1h3lY5y5to/maxresdefault.jpg",
@@ -1040,8 +1040,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 1122,
-            "average": 4.744207
+            "count": 1123,
+            "average": 4.7444344
           },
           "provider": {
             "name": "Microsoft Learn",
