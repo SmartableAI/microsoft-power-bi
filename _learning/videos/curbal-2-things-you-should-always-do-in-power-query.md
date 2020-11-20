@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT4M22S
 publishedDateTime: 2020-09-30T09:50:46Z
-heat: 53
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2lYl5iuDg5k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "/bUQL5DAw95qKYJyl9jWYeberqIeRX/SgZzITLGkYWm/b1vOE/JMW622gAC0s3eqK0VzHtlUmNNRndAIfRFifTFZVMF+dNa5ozOZc2qJaokgsPcvL3jj9ZqyJhKH04diHsr+DDq3RE0y0fyb+cQukOlim1iBF+I0Nas7/xEmYtM0xL45vC41Ub+tOMza6GyQP569i/5LoNeQtlVuUeZDHtml4U/h0PNYHGE59qZ48v+kNnheEOy8Tv4P9VGH6CvItYsU1zY18zuMQcS/IVqC6yt5ypSa/GzlkjNcsY8/ad2LfC+BQE9tdgPOHZX5LAUdBuRim5U/Kk7cpmqKFUxMtNzwEudfKysmVaFw50h3k8iSf1YVdM79WbrkNRDVYwKEZPHhsCijLdqYU8QOtJ5labG+aTkBv/PbaIAta4NnVeI=;Csv2VqhaSyMqOQXdOuoDnA=="
+secured: "0ALDI+7d1hYLIgUaWxnEA8w9fP1PmcHBeYl8M777ot0rws/NrEuYoxct4brlLfIw0TpW+FDOtsBMvMu9AeprzrUlENSPNHy0omuTITxb4RztSFupZpakTLeeu5mm336sThkjK4SmQKU7p9DzLgh8skKzUVvKGs5AfHzr0H4JE21IX9y2peQeF0sCT0m0ohihUNasLDfClqtSvq4W7cuPhvvGSKlUMz7kTKXtZ0DvTAZDo2pNA/YSGcrX97htW1YaJ6znBK00ZUaNT1wX7sq0J2vkWTShMpS+4A7XcpZV8l2oaFHuSyGY08NeXvCaKbCM+/rtoET6JJBANt8ZHcFcK/UlGE6sIS1NYoeNeKjasE6mrrEq6GjDS1waA74oJMA90qomGBGZHHScZPuETkrhezYA52EHn7UsmEo/AJi2NTY=;3ReS2F4SuHfySljl6GmBgw=="
 ---
 
