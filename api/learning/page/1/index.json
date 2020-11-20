@@ -25,7 +25,7 @@
         ]
       },
       "publishedDateTime": "2020-11-18T08:00:04-08:00",
-      "heat": 285,
+      "heat": 284,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Q82yzcfkqAc/maxresdefault.jpg",
@@ -133,7 +133,7 @@
         ]
       },
       "publishedDateTime": "2020-11-19T08:00:12-08:00",
-      "heat": 212,
+      "heat": 211,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/TXfSeSNGkuU/maxresdefault.jpg",
@@ -201,7 +201,7 @@
         ]
       },
       "publishedDateTime": "2020-11-16T03:24:58-08:00",
-      "heat": 169,
+      "heat": 166,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/ss75hzPSY20/maxresdefault.jpg",
@@ -217,6 +217,36 @@
         "Power BI",
         "Power Query",
         "Dataflows"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-time-series-anomaly-detection-in-power-bi-part-one.md",
+      "title": "Time series Anomaly Detection in Power BI (Part One)",
+      "excerpt": "In this short video, an overview of what is Anomaly detection works in a Line chart will be presented. to access  the data follow the below link https://bit.ly/32RBYP4",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-time-series-anomaly-detection-in-power-bi-part-one/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-time-series-anomaly-detection-in-power-bi-part-one/",
+      "originalUrl": "https://youtube.com/watch?v=Dstbrawsunk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Dstbrawsunk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M21S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-11-16T13:26:43-08:00",
+      "heat": 141,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Dstbrawsunk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     },
     {
@@ -237,74 +267,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/UixCCggPUIA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-time-series-anomaly-detection-in-power-bi-part-one.md",
-      "title": "Time series Anomaly Detection in Power BI (Part One)",
-      "excerpt": "In this short video, an overview of what is Anomaly detection works in a Line chart will be presented. to access  the data follow the below link https://bit.ly/32RBYP4",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-time-series-anomaly-detection-in-power-bi-part-one/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-time-series-anomaly-detection-in-power-bi-part-one/",
-      "originalUrl": "https://youtube.com/watch?v=Dstbrawsunk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Dstbrawsunk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M21S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-11-16T13:26:43-08:00",
-      "heat": 138,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Dstbrawsunk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-visualize-graph-data-in-power-bi.md",
-      "title": "Visualize Graph Data in Power BI",
-      "excerpt": "Have you wondered how to visualize graph data? No, not Microsoft Graph. Graph Networks! Adam shows you how you can do this in Power BI Desktop.  Download sample: http://guyinacu.be/graphdatasample  Microsoft Graph API: https://docs.microsoft.com/graph/overview  Graphs and Networks https://www.mathworks.com/help/matlab/graph-and-network-algorithms.html",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-visualize-graph-data-in-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-visualize-graph-data-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=z14DV4_Liw4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/z14DV4_Liw4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M43S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-10-08T08:00:14-07:00",
-      "heat": 133,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/z14DV4_Liw4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -374,15 +336,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-dax-power-bi-modify-filter.md",
-      "title": "Modify DAX filter context in Power BI Desktop models",
-      "excerpt": "By the end of this module, you’ll be able to describe filter context, which is used to evaluate measure formulas. You’ll then learn why some calculations need to modify filter context and that it can be achieved by using the CALCULATE function. Additionally, you’ll learn how to configure the CALCULATE function with filters and filter modifiers.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-dax-power-bi-modify-filter/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-modify-filter/",
-      "length": "PT21M",
+      "path": "_learning/courses/microsoft-learn-discover-customer-needs.md",
+      "title": "Discover customer needs as a Solution Architect for Dynamics 365 and Power Platform",
+      "excerpt": "Learn how to ask customers questions about their business processes and feature requirements to create a viable solution.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-discover-customer-needs/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/discover-customer-needs/",
+      "length": "PT36M",
       "ratings": {
-        "count": 142,
-        "average": 4.6408453
+        "count": 457,
+        "average": 4.676149
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -397,46 +359,67 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Advanced"
       ],
       "heat": 130,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/modify-dax-filter-context-power-bi-desktop-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/enterprise-dna-where-to-next-121-ultimate-beginners-guide-to-dax-2020.md",
+      "title": "Where To Next - (1.21) Ultimate Beginners Guide to DAX 2020",
+      "excerpt": "DOWNLOAD RESOURCES HERE https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Learn about advanced DAX functions, supporting tables, and customer segmentation.  ***** Video Details",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/enterprise-dna-where-to-next-121-ultimate-beginners-guide-to-dax-2020/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/enterprise-dna-where-to-next-121-ultimate-beginners-guide-to-dax-2020/",
+      "originalUrl": "https://youtube.com/watch?v=n5ymKk9Rl6I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/n5ymKk9Rl6I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M",
+      "provider": {
+        "name": "Enterprise DNA",
+        "domain": "enterprisedna.co"
+      },
+      "publishedDateTime": "2020-09-17T23:00:53-07:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/n5ymKk9Rl6I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
         "Power BI",
-        "Power BI Desktop",
         "DAX"
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-smart-narrative-visual-as-a-tooltip-in-power-bi.md",
-      "title": "Smart Narrative Visual as a Tooltip in Power BI",
-      "excerpt": "During this session, we will learn how we can use Smart Narrator visual to create interactive, eye-catching, and customizable tooltip. Smart Narrative visual provides us the flexibility to create interactive narrator for our Power BI visualization. During this session, we will use this capability to",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/dhruvin-shah-smart-narrative-visual-as-a-tooltip-in-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/dhruvin-shah-smart-narrative-visual-as-a-tooltip-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=UlnQXbXdPww",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UlnQXbXdPww\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M51S",
+      "path": "_learning/videos/power-bi-tips-powerbitips-pug-external-tools-business-ops.md",
+      "title": "PowerBI.tips - PUG - External Tools & Business Ops",
+      "excerpt": "This month Mike and Seth go through the external tools functionality of Power BI desktop.  Additionally, we are introduced to the Amazing Business Ops tool which helps users add External tools into Power BI desktop.   Download Business Ops: https://powerbi.tips/product/business-ops-beta/",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/power-bi-tips-powerbitips-pug-external-tools-business-ops/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/power-bi-tips-powerbitips-pug-external-tools-business-ops/",
+      "originalUrl": "https://youtube.com/watch?v=QBK-qtSEBiQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QBK-qtSEBiQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT55M14S",
       "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
+        "name": "Power BI Tips",
+        "domain": "powerbi.tips"
       },
-      "publishedDateTime": "2020-10-15T20:25:17-07:00",
+      "publishedDateTime": "2020-08-31T06:29:43-07:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/UlnQXbXdPww/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://i.ytimg.com/vi/QBK-qtSEBiQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],
@@ -707,8 +690,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 5354,
-            "average": 4.7700787
+            "count": 5360,
+            "average": 4.770149
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -749,8 +732,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 21837,
-            "average": 4.738334
+            "count": 21841,
+            "average": 4.7382445
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -809,8 +792,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 5354,
-        "average": 4.7700787
+        "count": 5360,
+        "average": 4.770149
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -851,8 +834,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 21837,
-        "average": 4.738334
+        "count": 21841,
+        "average": 4.7382445
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1303,8 +1286,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 21837,
-            "average": 4.738334
+            "count": 21841,
+            "average": 4.7382445
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1345,8 +1328,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 14121,
-            "average": 4.698534
+            "count": 14122,
+            "average": 4.6984844
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1490,8 +1473,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/",
       "length": "PT31M",
       "ratings": {
-        "count": 5193,
-        "average": 4.7302136
+        "count": 5199,
+        "average": 4.730525
       },
       "provider": {
         "name": "Microsoft Learn",

@@ -1296,44 +1296,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-working-with-time-periods-in-power-bi.md",
-      "title": "Working with Time Periods in Power BI",
-      "excerpt": "How do you work with time periods in Power BI like last month? Patrick digs in to show how you can accomplish this with a little DAX.  Fourmoo Blog: https://www.fourmoo.com/2016/09/07/create-dynamic-periods-for-fiscal-or-calendar-dates-in-power-bi/  Phil Seamark Blog: https://dax.tips/2019/10/09/row-based-time-intelligence/",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-working-with-time-periods-in-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-working-with-time-periods-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=8Mvr_AIw2DU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8Mvr_AIw2DU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M52S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-09-16T08:00:03-07:00",
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8Mvr_AIw2DU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/microsoft-power-bi-paginated-reports-in-a-day-04-designing-report-layouts-part-1.md",
       "title": "Power BI Paginated Reports in a Day - 04: Designing Report Layouts - Part 1",
       "excerpt": "In this video, we introduce Report Builder, and describe a general development methodology.  The Power BI Paginated Reports in a Day online course aims to empower you as a report author with the technical knowledge required to create, publish, and distribute Power BI paginated reports. We recommend you",
@@ -2090,8 +2052,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 7175,
-            "average": 4.6667595
+            "count": 7176,
+            "average": 4.666806
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2207,8 +2169,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-models/",
           "length": "PT20M",
           "ratings": {
-            "count": 457,
-            "average": 4.7461705
+            "count": 458,
+            "average": 4.746725
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2250,8 +2212,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 307,
-            "average": 4.700326
+            "count": 308,
+            "average": 4.694805
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2894,6 +2856,154 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/yKvMrQlUrCU/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/collections/power-bi-tips-tabular-editor-tutorials.md",
+      "title": "Tabular Editor Tutorials",
+      "excerpt": "Tabular Editor is an incredible Tool that enables users to manipulate a Tabular Model at lighting speeds.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/collections/power-bi-tips-tabular-editor-tutorials/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/collections/power-bi-tips-tabular-editor-tutorials/",
+      "provider": {
+        "name": "Power BI Tips",
+        "domain": "powerbi.tips"
+      },
+      "topItems": [
+        {
+          "path": "_learning/videos/power-bi-tips-powerbitips-tutorial-intro-to-tabular-editor.md",
+          "title": "PowerBI.Tips - Tutorial - Intro to Tabular Editor",
+          "excerpt": "Tabular Editor is an incredible Tool that enables users to manipulate a Tabular Model at lighting speeds.  Daniel Otykier is the creator of Tabular Editor.  This video will explain the basic functionalities of the program.    Watch the full Series: https://www.youtube.com/playlist?list=PLn1m_aBmgsbGvz4SsmO_fkeThjDUSWFkf",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/power-bi-tips-powerbitips-tutorial-intro-to-tabular-editor/index.json",
+          "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/power-bi-tips-powerbitips-tutorial-intro-to-tabular-editor/",
+          "originalUrl": "https://youtube.com/watch?v=c-jZMzsvKnM",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/c-jZMzsvKnM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT1H3M33S",
+          "provider": {
+            "name": "Power BI Tips",
+            "domain": "powerbi.tips"
+          },
+          "publishedDateTime": "2020-04-02T06:37:24-07:00",
+          "heat": 57,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/c-jZMzsvKnM/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/videos/power-bi-tips-powerbitips-tutorial-using-scripts-in-tabular-editor.md",
+          "title": "PowerBI.Tips - Tutorial - Using Scripts in Tabular Editor",
+          "excerpt": "Tabular Editor is an incredible Tool that enables users to manipulate a Tabular Model at lighting speeds.  Daniel Otykier is the creator of Tabular Editor.  In this video Daniel will explain how to effectively use scripting to automate repetitive tasks.    Scripting is by far the most powerful part of",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/power-bi-tips-powerbitips-tutorial-using-scripts-in-tabular-editor/index.json",
+          "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/power-bi-tips-powerbitips-tutorial-using-scripts-in-tabular-editor/",
+          "originalUrl": "https://youtube.com/watch?v=EHs5r3XCkO8",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EHs5r3XCkO8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT1H9M31S",
+          "provider": {
+            "name": "Power BI Tips",
+            "domain": "powerbi.tips"
+          },
+          "publishedDateTime": "2020-04-02T09:04:55-07:00",
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/EHs5r3XCkO8/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/videos/power-bi-tips-powerbitips-tutorial-best-practice-analyzer-in-tabular-editor.md",
+          "title": "PowerBI.Tips - Tutorial - Best Practice Analyzer in Tabular Editor",
+          "excerpt": "Tabular Editor is an incredible Tool that enables users to manipulate a Tabular Model at lighting speeds.  Daniel Otykier is the creator of Tabular Editor.  In this video Daniel teaches us how to use the Best Practice Analyzer.    The Best Practice Analyzer can review your model for code errors, or common",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/power-bi-tips-powerbitips-tutorial-best-practice-analyzer-in-tabular-editor/index.json",
+          "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/power-bi-tips-powerbitips-tutorial-best-practice-analyzer-in-tabular-editor/",
+          "originalUrl": "https://youtube.com/watch?v=5WnN0NG2nBk",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5WnN0NG2nBk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT1H5M42S",
+          "provider": {
+            "name": "Power BI Tips",
+            "domain": "powerbi.tips"
+          },
+          "publishedDateTime": "2020-04-03T08:59:09-07:00",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/5WnN0NG2nBk/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/videos/power-bi-tips-powerbitips-tutorial-using-devops-in-tabular-editor.md",
+          "title": "PowerBI.Tips - Tutorial - Using DevOps in Tabular Editor",
+          "excerpt": "Tabular Editor is an incredible Tool that enables users to manipulate a Tabular Model at lighting speeds.  Daniel Otykier is the creator of Tabular Editor.  In this video Daniel teaches us how to use Azure DevOps with Tabular Models.  This session is definately worth your time if you work in managing",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/power-bi-tips-powerbitips-tutorial-using-devops-in-tabular-editor/index.json",
+          "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/power-bi-tips-powerbitips-tutorial-using-devops-in-tabular-editor/",
+          "originalUrl": "https://youtube.com/watch?v=fzZgXe3MjhI",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fzZgXe3MjhI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT1H24M5S",
+          "provider": {
+            "name": "Power BI Tips",
+            "domain": "powerbi.tips"
+          },
+          "publishedDateTime": "2020-04-07T09:01:43-07:00",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/fzZgXe3MjhI/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        }
+      ],
+      "size": 4,
+      "heat": 63,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/c-jZMzsvKnM/hqdefault.jpg",
           "width": 480,
           "height": 360,
           "isCached": true
