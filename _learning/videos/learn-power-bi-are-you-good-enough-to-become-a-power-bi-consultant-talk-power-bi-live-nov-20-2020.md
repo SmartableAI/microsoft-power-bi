@@ -2,6 +2,7 @@
 title: "Are You Good Enough to Become a Power BI Consultant? 🔴Talk Power BI LIVE Nov 20, 2020"
 excerpt: "➔Are you good enough to become a Power BI Consultant? ➔Do you have what it takes? ➔Would you sink or swim? ➔Would your clients be happy or you would disappoint them? Join the Discussion on the Power On Show with Charles and Avi. ================ ✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss"
 originalUrl: https://youtube.com/watch?v=bfzOE9pRUE0
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-are-you-good-enough-to-become-a-power-bi-consultant-talk-power-bi-live-nov-20-2020/
 type: video
 price: Free
 length: PT1H11M51S
@@ -23,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "+KE5O0kYFUU3Z0jhAr63tnE2CQutosAvXsJlvlIHBdKibJi5r6DPlCXHrmZ9kW/fTtckuXcBg5QBOL0/PUbcFgY0JGypLzsCLGcR+S4RP5dUsRVbBZy4XA25asSdeVziWl+MeWKGc1M6i68G6gQcFEpynQsfDbWocueUwTQva0clDbQVEYpbXnGjoGH1BfPUksNSBAgxpEPOmWYvVLdqy2M0BLqKhydB8CLTvvV9XLl0t5z9YeOlv+MEcEnXpHwF6Ji2urpZMLPqEE67UWgKUU+mY+bKDbYsiJwk4AnWx2KjEswtzaU4fgLf5lGHNbm7fddZYqRAr/OMEXmvpnSU2cYACBjpE1fanKYPWfML1w+YJTt4uyCa4S4wJcHrQhkJEL6ZU77S0QWzvyrNbp095w==;w7iSIX1Nt69eLgxxJ6F1nQ=="
+secured: "xliUm6WDKBo5ppa/VtB6MJmOsNrmcf660nK2BSuUKdmPaGEQjEXtJ/sH+ajfrLUur1HdwSyaxerifakk0XM+9AKXY3y+ixykTBSno9r7odYIDs7hC/fmut5yUYHd5L4JM3sdE84niSrHjSkJI8QFbWGrLF6lsgyuLypD8Ibr/EilgxwbTWxG/xKj1NmRAPSmZ52aB2M+kTtaaBoF0PNbu1U5V2NLfqn+jQZYgg+RPEJTKXPk6ez7+ZGxEVhjiXSwMUJBBaog4+oY4Bp7BHDicLDaKho7JIbkxIWTCaRJYhneBn7cothOoWKq+FCL1vHD7aJTNtDg/29g/My4CfWoOFTwBBtgaJwMeEFPCNqGGrisWQOyf6upaAD4BNUxFhRV;DXCDXb86Y/2J5RXeA1f+XA=="
 ---
 
