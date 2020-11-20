@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Arria NLG announces new \"intelligent narratives\" add-in for Power BI dashboards - now available on Microsoft AppSource"
-excerpt: "Latest add-in provides instant (no-code) natural language narratives to quickly identify, understand, communicate and action key insights based on all of the dashboard's visuals and underlying data."
-publishedDateTime: 2020-11-11T18:36:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/arria-nlg-announces-new-intelligent-narratives-add-in-for-power-bi-dashboards-now-available-on-microsoft-appsource-836038278.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/arria-nlg-announces-new-intelligent-narratives-add-in-for-power-bi-dashboards-now-available-on-microsoft-appsource-836038278.html"
+title: "Arria NLG announces new “intelligent narratives” add-in for Power BI dashboards – now available on Microsoft AppSource"
+excerpt: "Arria NLG today announced a powerful new version of Arria for Power BI, an add-in that brings natural language generation (NLG) intelligent narratives to any user of Microsoft Power BI. Up until now, Power BI dashboard creators have had to deal with a ..."
+publishedDateTime: 2020-11-12T05:05:00Z
+originalUrl: "https://www.thaipr.net/it/1033177"
+webUrl: "https://www.thaipr.net/it/1033177"
 type: article
-quality: 13
-heat: 13
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: thaipr.net
+  domain: thaipr.net
 
 topics:
   - Power BI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1332356/PBI_Laptop.jpg?p=facebook"
-    width: 1176
-    height: 616
-    isCached: true
-
-secured: "EkPyMnwPmoQjRO+JbD+e0tiqjD5t8lOHF6pL2I/SADoOHW3NYxv/AZOzFC0tDeUZrd+UUCqg/dIj+c3sxsXjCbC3edt+15OmCFW9A8KtZ402///btGpC7L4SzAE+o4SBKbocC34ix8jKTYIbNEwbJYf12j152OUwZGZ5HiQiFduTZXDv1CQ2aMIBErSKhpa8coQB7b10HNF1pcFEGzBNw7QS2FPuALbLZJiv14mP4AUiMSTRvil52uJLbFwkICF3ooygaiuqsCWa1VRfxpxPf+e/CZtnQgxaPOaBiQb0tYuQa++2bSerIFUKOWWQup5Xgj8KLANgR51u5uadK9cdQGgihPbAGGjR24VPMtTd858=;uu/5Zlgq1gnsRfz2xBfBhw=="
+secured: "L4Ogs3KWjnognD6DpwHClF5QxldT4CGSlePHN13gNu2/8aMlAhnaHm77NY37sG5sEClWMGpCjOqy4t/tKcautKHyyFq9wngfw4d9PZmOskXYPJpPnh2tsS1jRRdXoDzLdeMKaX1SZbORXeHJakDD0A+HVG6Np9Y3W7NiMBbHtn5KkMcRvrAKBMqpXvMcRWPe5em5eTqkydEy/uicz9INbyn4WsX28MZsr6ocqdOcQza70qg8PNfdRsc7rRgkVbwakPPwO1r1AyiU3wGvB9HDBhsvxutrbLNWHj5qFuBGx7pe0TG+k6zvgcckl+3najdZEBIePcFdhFYRk56NzqYsmG5q1X0K2t1DK3QIYsnGztw=;sJ7lpSVV2qOM7HbjxGacTw=="
 ---
 
