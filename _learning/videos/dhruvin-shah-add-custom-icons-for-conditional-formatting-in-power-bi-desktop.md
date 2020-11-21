@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT5M52S
 publishedDateTime: 2020-03-25T11:50:52Z
-heat: 53
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KYjgid0Abj8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "4prMH6bcEVqCgCAJ4ZyaqU50Qp2upec3J5/p8PtmTuTFcmP0Klxo8+6Ur/D+QHh2wq8n5wgqj2ZhbInel/Mjj8FzyDi2p3Z2MJBEJcUJWYXn2pzuj2VisRQ/wqPTWS+2pZqLSthPItDSI2KoP8xFWrAfuAwiCof3DILVoMru1qbtAq4wXaIlrA4LSKLDiXI1FHq/VtR3lJQjdudNDtirlxdyNf0V9dCI8X6L8hhLTqsCMrqbNPU0+k9A5wZIM56ldkGQOAD7qZybzvL86O6I75W7DgoirQi7p5LnuIAo+6nNliu4XwCb/aSk0ZfZ6bCCXRkXYPnD+DNCBY+XknasOG4eVlCBhofaL4zzr884YMlOFNi67RdAHOMYayIYJSkcuOqpxmvM/f10ujWdJkp5eDLPpv1DgV+AO2RxBNybyoU=;Bp9wYbMkfNz5ENNUApqpyQ=="
+secured: "05qgap4ZBs9EMxxmO+rqytsex+vvLeQWM3l4fnHbptO3OiVs293L9n1wB+3IzrL1SHpUDH508r2BSL6i8h1Pi9odfO9/Q5hqSJIKcWLutHwn53g0Iy1rUTnoYpFxN4rlxZsEECJbJVJLQDNYNIOOjBnACoTIQuymNETLEGOTWjDUyoS1eHcfx7zaUkkCIkVi6tynu5Fh9y59I9F1DBz+Thf/nuot4pGQUb3Zdo88e4QNNPLtuJbn5yVSpuRi5Y9enTRkHq+QPZxxw/fzSb2VHbSmGtSckRDj39PBh1kq2IzMd5hnGX2JldubfksGpzNuKM1nRfgtJEnZ5ox2CWUvbqN2WjbpNjJY4jYom6HH8kGeKTzxxsWnX0+Pq1WzMhHU9q7zQCdeB4/ZUq2Oul3B62QGqF2K1lSxGVy0syAL5iE=;j+yW/Ftr3pq3U9HkS8OkRA=="
 ---
 

@@ -745,7 +745,7 @@
             "domain": "youtube.com"
           },
           "publishedDateTime": "2020-03-02T21:25:42-08:00",
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/67-jriuocxc/maxresdefault.jpg",
@@ -941,8 +941,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/discover-customer-needs/",
           "length": "PT36M",
           "ratings": {
-            "count": 457,
-            "average": 4.676149
+            "count": 458,
+            "average": 4.676856
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1027,7 +1027,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 50,
+          "heat": 130,
           "content": "\r\n",
           "type": "course",
           "price": "Free",

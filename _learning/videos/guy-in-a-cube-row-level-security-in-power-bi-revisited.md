@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Row-Level Security in Power BI - Revisited"
 
-secured: "a3NRlKlRxc33z28n/evUkKwFhweLNptLbnehTOk8H9PFKejV0t9/ysNCavGTFCZg5XmnxRxqC9skWElpleEV8YlGEY8yMf/Xmd0jBPqLqy9dvL6ETmjYQOYYTb4fiWPNI8MOGg45wu2+YQ2uTWMURkG+QZ+z/z9XZUraQfojXbVbr4VgnUnZuOg1exmQA4MYQNdqZDDdo92AsQlUnw+IarqsxVHsR2FaPJUIcOJe2YPQen89HG0fAiPfCvBd84dG8lCaCNwmhu3y5j1FiWpI1czf/zEXA7OfKTIVc7jedtwnhSZzkXwJzBpFO8FZBYQDJtk6Q1dFOvnAEj4uoPZdNvXUjk8eEsM08QZWvJ/hVp0q2ec1JSrb0d0rRVN6ck6tDYgV5ihVck2YpLKZLmEaU/cNbShnCXt4vGzlimSxt9w=;o/PTb57IvMluKlPHX/hWTA=="
+secured: "T9h16wRL1wdGMFLJVvJf709J7JL8lSZTEe/IsCgx521AI+dQt/o9zIt2IX2C2fj/FkMqPbdKNaXTCX7dNQW7o9RKgWXeR96gUpHl9lsi4O+umSSNmlKs4+sMeCt33XXqVl+1EjApDNa/poHwTkv0M3xBrSIG49nNN048Fo9DR2ZU3nYU/4KEa+itgBb/5sliosnMlik8VFjjV65RewC62WqxUsiWLa1RHaDEtLwWnFkfPjZ1UeRQTY+UxSwc6jJU7U3/HCzF6rnyE8xhRSPrUF6Yn5xBRfni+1ss3QfG3BeJ7VGnB79NV/9WgkimkU1pY+G9M8sz/yhcYcTaswD5SmB/ZLhdrODGgrlifqTuLVlGsT6rZqmSoHsw/UcukryWmXQgw6wYFtaL/zV2F+Tz1nUq7JbGu7Di4+C2zwYzysI=;VYsJGh+FkrOyBiu5Ou85gg=="
 ---
 
