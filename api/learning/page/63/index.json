@@ -4,36 +4,6 @@
   "page": 63,
   "value": [
     {
-      "path": "_learning/videos/learn-power-bi-your-chance-to-participate-in-a-real-power-bi-project.md",
-      "title": "Your Chance to Participate in a Real Power BI Project!",
-      "excerpt": "👉 Business Users 🏢 : Submit Your Project for #RealPowerBI: https://www.learnpowerbi.com/realpowerbi  👉 Learn Power BI Students (Pro Level): Apply to Work on a #RealPowerBI Project: https://www.learnpowerbi.com/real-for-pro-students  👉 Enroll in the Learn Power BI Program: https://web.learnpowerbi.com/waitlist-invite/",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-your-chance-to-participate-in-a-real-power-bi-project/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-your-chance-to-participate-in-a-real-power-bi-project/",
-      "originalUrl": "https://youtube.com/watch?v=QhWLghZ3X84",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QhWLghZ3X84\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M20S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2019-02-13T08:57:14-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/QhWLghZ3X84/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/microsoft-module-3-acquiring-access-power-bi-developer-in-a-day.md",
       "title": "Module 3: Acquiring access | Power BI Developer in a Day",
       "excerpt": "In this video, you’ll learn about token types and theory to acquire access and embed tokens. This is video 8 of 20.    The Power BI Developer in a Day online course empowers you as an app developer with the technical knowledge required to embed Power BI content. We recommend you watch the videos in the",
@@ -943,6 +913,36 @@
           "url": "https://i.ytimg.com/vi/r0nS3gf9hx8/hqdefault.jpg",
           "width": 480,
           "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-charticulator-bullet-chart-for-one-category.md",
+      "title": "Charticulator Bullet Chart for One Category",
+      "excerpt": "In this video, I have showb how to use Charticulator for creating a Bullet Chart with one Category,",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-charticulator-bullet-chart-for-one-category/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-charticulator-bullet-chart-for-one-category/",
+      "originalUrl": "https://youtube.com/watch?v=dYfrWAcFMUo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dYfrWAcFMUo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M29S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-09-23T17:10:15-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dYfrWAcFMUo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
