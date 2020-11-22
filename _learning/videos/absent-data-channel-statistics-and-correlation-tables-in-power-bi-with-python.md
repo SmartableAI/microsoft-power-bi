@@ -2,6 +2,7 @@
 title: "Statistics and Correlation Tables in Power BI with Python"
 excerpt: "Learn how to build summary statistics tables that have min, max, quartiles, standard deviation and mode and counts in one tables. Also build correlation tables with the help of Python all in Power BI. This only takes a few lines of code.   If you create summary tables in similar to what is produced in"
 originalUrl: https://youtube.com/watch?v=FhpJLLfrx4c
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/absent-data-channel-statistics-and-correlation-tables-in-power-bi-with-python/
 type: video
 price: Free
 length: PT11M25S
@@ -23,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "n3DXdAs+yQ2eSrvAN12MWY0lY3XByXsKgbz5cS52rtrlq0ElMCJYeSL5Hm1t9GR2KkKZUkooj2mVmCNIUujGYosaC1Z9FCRsbyqdGzmTyeA/NLmXRjUhXTUp5FsqLDZTqHLiPPGf3YTPStPnK/wvN+T9evcO8O2MZZN0B3S0K3lEuYAtd9iZw0uCyHT5JhVPlsNL9wZxpOXJ1+hY7UQKvk+O9L8lAovqWnCNd/eMLKCTEiH60pqcZWugO9oAdnvbxD1+mhALgF5pomFlohuvt8w7/ohdGBRbDuouIVz3VAeeHXo3Y8B8vBNg5JmzhuGXclMXTB4KhY9sZGwN65Lu2RdTYRwOjasibGtXypEKckSSc+GhroxUzhYjY5PDsD41Z4JCAR6kxKoD2T/BWMAKPg==;62BJWxVOdcFmRc8A1uLRZg=="
+secured: "cgHB/K00/+/uNNLWGqwmSlcqzWT4fEm2lgXhvTVN0N37O70Ze5AilyvVJQB+OV/73K3/UNv1Ojplcihq+ew4ZTZBLCmqCo1fSpw/uc9t5301r0q311Phn+hx6q5GDPJ6PIT9cDzTUGfZ1jaBKuWRyYu3x3w/QV4bcApRPWWlJuBE11tL8/QDyN3CwyiAqckg0dHeTUCS2cHZZkjelgnIGLpcpqploFmiGR8GZBqxlpPobiKj7GZYPPuohSXZhV5a//l1Tb2pD8lIgWGtbEckHqN+g7QjuJ2JsPXcKYUXzoHw9ejt0JTpjwQ4pBVuHEYNUFk4QhrW7DffkWbmEWl5xPVd07c9zwZ7XrOX5I23grXz9ETrgug0U6SsdTQvkLZ5;EXRJHxT9kkOOGU19o3RWxA=="
 ---
 
