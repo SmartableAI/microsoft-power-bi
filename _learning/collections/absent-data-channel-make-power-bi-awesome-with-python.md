@@ -15,6 +15,7 @@ items:
   - videos/absent-data-channel-machine-learning-anomaly-detection-with-python-and-power-bi
   - videos/absent-data-channel-price-prediction-with-python-and-power-bi
   - videos/absent-data-channel-churn-classification-model-comparison-with-power-bi-and-python
+  - videos/absent-data-channel-statistics-and-correlation-tables-in-power-bi-with-python
 
 topics:
   - Power BI
