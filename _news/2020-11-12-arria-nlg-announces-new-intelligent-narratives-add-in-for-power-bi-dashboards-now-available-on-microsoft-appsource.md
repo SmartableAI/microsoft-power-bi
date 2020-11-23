@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Arria NLG announces new \"intelligent narratives\" add-in for Power BI dashboards - now available on Microsoft AppSource"
-excerpt: "MORRISTOWN, N.J., Nov. 11, 2020 /PRNewswire/ -- Arria NLG today announced a powerful new version of Arria for Power BI, an add-in that brings natural language generation (NLG) intelligent ..."
+excerpt: "MORRISTOWN, N.J., Nov. 11, 2020 /CNW/ -- Arria NLG today announced a powerful new version of Arria for Power BI, an add-in that brings natural language generation (NLG) intelligent narratives to ..."
 publishedDateTime: 2020-11-11T18:07:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/arria-nlg-announces-new-intelligent-narratives-add-in-for-power-bi-dashboards-now-available-on-microsoft-appsource-1029793229"
-webUrl: "https://markets.businessinsider.com/news/stocks/arria-nlg-announces-new-intelligent-narratives-add-in-for-power-bi-dashboards-now-available-on-microsoft-appsource-1029793229"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/arria-nlg-announces-new-intelligent-narratives-add-in-for-power-bi-dashboards-now-available-on-microsoft-appsource-1029793229"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/arria-nlg-announces-new-intelligent-narratives-add-in-for-power-bi-dashboards-now-available-on-microsoft-appsource-1029793229"
+originalUrl: "https://markets.businessinsider.com/news/stocks/arria-nlg-announces-new-intelligent-narratives-add-in-for-power-bi-dashboards-now-available-on-microsoft-appsource-1029793234"
+webUrl: "https://markets.businessinsider.com/news/stocks/arria-nlg-announces-new-intelligent-narratives-add-in-for-power-bi-dashboards-now-available-on-microsoft-appsource-1029793234"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/arria-nlg-announces-new-intelligent-narratives-add-in-for-power-bi-dashboards-now-available-on-microsoft-appsource-1029793234"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/arria-nlg-announces-new-intelligent-narratives-add-in-for-power-bi-dashboards-now-available-on-microsoft-appsource-1029793234"
 type: article
 quality: 53
 heat: 53
@@ -23,6 +23,6 @@ provider:
 topics:
   - Power BI
 
-secured: "mfMoNn9+8ICjAFoIWqlb4DYUrD5UacOYH/a3qKe1b3dfD3bI1GeCWMVuRQ1dxvSkUMFtYlVOhujAT7c9ohF/LW0LgMGpDxt1AvA+a3RXsQvCLvaky32CafQDBzM4akI1qP0EOh7N8Zw4bgZCrI97i1Y5yAmNveRx18e6ksRuh0EAn/ROtx8mVCUUoDJ+5ei8HsBU76C9zvYZgAm0Vwa5I8Od/05RUuvY3TVz7m0vGfKZAnWoyAJ8l11eDtYx0oeuRnYkcsH8o1kGdofRIyQImH99qlmhUigC61S9/hWpz9cGyi9Oq1RVs0iGlbqjbJ2wtVHnEtA79zOO5Gx/qGH9dYSehHdOzwVEiDeG6s6yM9w=;qMWF8DqlXFkfEjnH2g9zlQ=="
+secured: "YXgpWPEYzrJsljCzrU+EgzpI5VAmyjAkUBeKvUwS41M0ubmTqoErFlzVwCj21cBcgNPE2K0oznflLkblqCRrkMQYxu/0KyifJrKkmNl2NexB8IANeOaxZ+dAxapbE+LLrj/+a6K4uu/Iut/M30QnZzYMDLeCtYut/GMooFlVd8Lr4yqRzgKjW2+RVi43hV2wrODRH4hmVN+TaF2u1zWBxSS6/q77NUxmR/qjiJXoIVe6sShK/vAozj4KIWC7GauZmeNzk6/Kx3uOtbk4zP9Q6rOr+jz9/ENtK5+xzsWDRJaFcmYGCFCFTR1BJnTX6gNwu8qYn1h9YWlnSeKQ7dwGZF4JcPvAJUYJN7Y7BjijdnE=;O7lkLnZRpzWDU0J4kJ7sPQ=="
 ---
 
