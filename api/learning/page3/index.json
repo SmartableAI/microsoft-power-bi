@@ -466,7 +466,7 @@
             ]
           },
           "publishedDateTime": "2020-03-04T08:00:04-08:00",
-          "heat": 55,
+          "heat": 56,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/EhGF372t0sU/maxresdefault.jpg",
@@ -1155,8 +1155,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 14193,
-        "average": 4.6985135
+        "count": 14195,
+        "average": 4.698556
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2389,8 +2389,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 1854,
-            "average": 4.749191
+            "count": 1857,
+            "average": 4.749596
           },
           "provider": {
             "name": "Microsoft Learn",
