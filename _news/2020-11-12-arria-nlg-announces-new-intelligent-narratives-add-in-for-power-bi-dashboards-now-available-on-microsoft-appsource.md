@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Arria NLG announces new “intelligent narratives” add-in for Power BI dashboards – now available on Microsoft AppSource"
-excerpt: "Arria NLG today announced a powerful new version of Arria for Power BI, an add-in that brings natural language generation (NLG) intelligent narratives to any user of Microsoft Power BI. Up until now, Power BI dashboard creators have had to deal with a ..."
-publishedDateTime: 2020-11-12T05:05:00Z
-originalUrl: "https://www.thaipr.net/it/1033177"
-webUrl: "https://www.thaipr.net/it/1033177"
+title: "Arria NLG announces new \"intelligent narratives\" add-in for Power BI dashboards - now available on Microsoft AppSource"
+excerpt: "Latest add-in provides instant (no-code) natural language narratives to quickly identify, understand, communicate and action key insights based on all of the dashboard's visuals and underlying data."
+publishedDateTime: 2020-11-11T18:36:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/arria-nlg-announces-new-intelligent-narratives-add-in-for-power-bi-dashboards-now-available-on-microsoft-appsource-836038278.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/arria-nlg-announces-new-intelligent-narratives-add-in-for-power-bi-dashboards-now-available-on-microsoft-appsource-836038278.html"
 type: article
-quality: 0
-heat: 0
+quality: 13
+heat: 13
 published: false
 
 provider:
-  name: thaipr.net
-  domain: thaipr.net
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Power BI
 
-secured: "0G78IF/Wa8KGkcUBDV2xv5GzeITPwmt1CnXIXWxP8KjZW1Vf1ILa+tArtlhJAAFbXQrzMBdSnHdYohpdzUYacvHHnKuf7bS/4nsdRzk490hhFpzbjT1u1Vnpw4YlRyGZ+VSAE7atsWZnWmL7t4mDlyVzWvZJDMsjdwjGoCEim1dzY+fbJidfXf9hdtZ6QV1/03vrKboRbyc95sjCrJKzzn1sOcv2kNBZ8LSWYC2hz/uYOTqsuFSKnT+vkhM5skUTDvcfE4+b+deUcwAcnAHV3JlYwk6mtYR3tpmiIcXPfqVt3EeDkzKJwwuOpITEY3xESs82Qwzye+8nuvnitliHXaaCoCrDiYjfmj23znbjfvE=;RPZ+GViXQEcqG8s8P9uXCQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/1332356/PBI_Laptop.jpg?p=facebook"
+    width: 1176
+    height: 616
+    isCached: true
+
+secured: "gni+0ZVdErifxdYD0QGUgL0bRi0Fk/U7nxFQ6i8IRJH3OTAlvtPZToAdytXZz3j7Ksd+xpzYaxRSFqJXnfcILapF46o43zU7wJHuh9rK+O6mEecke+5mbvIehzPPo0KCrxTw7KCIf1ZhgYFZQZpo/x3UlZatV2npCVRx8vJb9WxCpu9HbrdT96NdgNGBmEyZjMx41rrcb6SH+cQL0SMfgbhp2lU33VoB7W+5krfdYoUpVDWQJaqfwTH2k02x5zJ18p9nMyfaTLapdxd6wwKUGtHjFKwj5wVaDpAaTr7sZI+fK5ufidlLCdXnQq48Ugks1sWaqVnGmQUzS9aXAUkxTXz4A94H8WkSRmDorMBTbGQ=;5rVLMEIHykrAgu2vfMgjwA=="
 ---
 
