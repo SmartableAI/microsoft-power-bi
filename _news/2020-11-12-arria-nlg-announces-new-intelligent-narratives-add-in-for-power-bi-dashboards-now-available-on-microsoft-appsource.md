@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Arria NLG announces new \"intelligent narratives\" add-in for Power BI dashboards - now available on Microsoft AppSource"
-excerpt: "MORRISTOWN, N.J., Nov. 11, 2020 /PRNewswire/ -- Arria NLG today announced a powerful new version of Arria for Power BI, an add-in that brings natural language generation (NLG) intelligent ..."
-publishedDateTime: 2020-11-11T18:07:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/arria-nlg-announces-new-intelligent-narratives-add-in-for-power-bi-dashboards-now-available-on-microsoft-appsource-1029793229"
-webUrl: "https://markets.businessinsider.com/news/stocks/arria-nlg-announces-new-intelligent-narratives-add-in-for-power-bi-dashboards-now-available-on-microsoft-appsource-1029793229"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/arria-nlg-announces-new-intelligent-narratives-add-in-for-power-bi-dashboards-now-available-on-microsoft-appsource-1029793229"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/arria-nlg-announces-new-intelligent-narratives-add-in-for-power-bi-dashboards-now-available-on-microsoft-appsource-1029793229"
+title: "Arria NLG announces new “intelligent narratives” add-in for Power BI dashboards – now available on Microsoft AppSource"
+excerpt: "Arria NLG today announced a powerful new version of Arria for Power BI, an add-in that brings natural language generation (NLG) intelligent narratives to any user of Microsoft Power BI. Up until now, Power BI dashboard creators have had to deal with a ..."
+publishedDateTime: 2020-11-12T05:05:00Z
+originalUrl: "https://www.thaipr.net/it/1033177"
+webUrl: "https://www.thaipr.net/it/1033177"
 type: article
-quality: 53
-heat: 53
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: thaipr.net
+  domain: thaipr.net
 
 topics:
   - Power BI
 
-secured: "HFVsUhIiPhOtgz+LD7ddibOoi26Zm3sFVOB7b1WZV73pzVBlZGnNik3UT4Zq9CfLgi4ZJbiuVIVP2F+Xw+rTnwpJq0OApqOpGjyFDg/TV1ftzXa9F20lzbJbrYoIdjUwXgK+udysGvxVLUeJ9Mz17fnI92cgN4wiGy5J9aibVva2wW+4rzc7/Zl7cGtVAcQc0IAzilTPxIpdkRbVL7rF8+FK9E885bE5J/YD7bel5pdR6tBVap8NxA4WejuAEzsr9d6uNi5JKjMRoi9hhfnfx0OVSrYjt2DnvKfDUxi12Zq5fbosGjSGeQeA7MnDgsTrZdON61iBrm0962CRmEQ4XtD4woDWhxAJDMjo4/RlsJg=;90HWbLqGoQPl4paU9wFfvg=="
+secured: "Bv3wevp0Ho14tXeaecZbHziJOTJ7XQaBXyaUZfEVqQHC/ni+l5oiYA9AGS+r4NCBMMro5SdwjytWIz+eOh2sG07Ab5cuqAwGXs/WO+T5B3FjnbF+0TYYffLOUKnMm5LhCL4pgXVgPMEeyeStNawDFiepqILKc0jUKO+PJTprTFYISh4D0H3wCgL1qUViidoTmk5h1Bg3JmdUmhS/HNe63lRsfCQIRJxgBH7ryYWxF3a7bT5DrfLHkhp5ewSDIw0PEeLta1+qIpcqO+t8bylM2TMNq2HOoo6/fxq4MQMovZR/RUGqFPYACWjqKh2lGQhAZh1Ksw5q7WX7AVnnKJyGhQLkXrqyv8TlBOw2wE//fyM=;emNyv+YRizDtGOsseosabw=="
 ---
 
