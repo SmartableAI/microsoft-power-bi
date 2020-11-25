@@ -8,6 +8,7 @@ webUrl: "https://www.thaipr.net/it/1033177"
 type: article
 quality: 0
 heat: 0
+published: false
 
 provider:
   name: thaipr.net
