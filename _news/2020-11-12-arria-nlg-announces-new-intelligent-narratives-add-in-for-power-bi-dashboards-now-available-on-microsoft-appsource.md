@@ -8,7 +8,6 @@ webUrl: "https://www.thaipr.net/it/1033177"
 type: article
 quality: 0
 heat: 0
-published: false
 
 provider:
   name: thaipr.net
@@ -17,6 +16,6 @@ provider:
 topics:
   - Power BI
 
-secured: "w9PkSdeRHK1L11u3eyhJzgJFPjslC+cb7Z1TT78Cw2Pz8jAYfK5u/Mffm84OopoLllhXNSQGqDbgEdrdZ0OhVZF91lmJ5ehQUBNTybCbIlgh+3dficslZYUk49ePy8DJ52X/aIAqjAYcvedKmVbXuhWOxIkDMXVkn0IJukS/eKK1w/Le8aJYTaKRAvKkiKPncYFqi7HJX6qk62OhhzU4j3EkY2E5ib1ETsgpDYa6685M3G5bQE1ggwBF2WrK25b5OkOs3/h/6BE/ycemSOC2gRe4Jaolvvev8tF/zXaNIc5E9AXes4HzfSkNBG5+tTaykn2JFYMy4Nh9PObfGBmkW0fDfObnKkZhW6GA7DelIak=;ch+i9MXbIOyHoXdSN1PhlA=="
+secured: "VZJYO83QrSTg5BHfrpzARa4/SApS5sKuSruI6YtmiPoC8vHg1amjlR0l67hz8C7OCk3DWWSSeYLoywurxZeCb305D/hlvykpMo00jGQL+o4C45VfL2LwYV+FwrwK0iWBEJVBSVsyOUB/iFbntF2yLpOKmUuK0UugfGKy4M026Xagvek7Jee42WO59wOR7Q9L6p92h7lSUYS3JTOIuir0HYVO+Ndlk2xpUr4kSDMly1A/1MmOYK4fxDU8FMOir+/ESNn5dikR6KoZzFiyfnxPzuqjUJIfhkOgq/LHFQWopj+rpWItupLmcaaatiJeCpe6ZM5hJogaOK5qQWxx2t6uV3nGRBF3Ah4VEbmfihLNncM=;YdYPhqrsiZlIg9hjQHeCqQ=="
 ---
 
