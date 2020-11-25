@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT4M31S
 publishedDateTime: 2017-05-07T14:57:09Z
-heat: 54
+heat: 57
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/n6GgFAsLXFs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "8tyVj7GbpQ3RChb6FtwA1OY7s70yt0sLpPSvHQDxCURY6dM2NFQKoXzIcuYXztFSw4JydQciQgdONWrO28lsILbptzLZ1H26JfMeK7p7sf4mAPHHZ9uBdTTffR0xY1TjcYAhNAqy3IA4P79+3ytsst0GdYvLD3ocMPM4b367yW0WlRjm1Hz8DB9k35ULLpy+ufBiayuMsL66vgX4ncENNe2yyEBDNydRPMeOcijTEw2h7cMwDPzRsQPhMKYGZ3uQOffI3BKDFacHGdPES404taPhSQcYBPQyYB/ya6Rf06MeNloUZUpDSkbvjo2vfJ+CXQAJJiN9qmbSxmaVhkEHVVw0joRqDRu/drd7f5hjmC67CKB2dVk9LagpshJX3/9g8mRZfABMtQybwMmBgaWg0G+M1UYm9W2oFvBp32p1YtE=;66PLrMFvJCkYstizwgtCCg=="
+secured: "56EAqU28Yw9MG48dapvQCVkNFuMOFLuqQoq/RDs+exa8+v3T0CnK9Jy67RalCrf5GFxpZzF7keciLCGFnKmlyQNtFj1mgKYEf2gjJQrOIxfwYbwZZ/QRuBpF+0Ym7XBJEREAQHqjoMjUZaFOYIFTnBk55l5wpC/G/Mo173MX1HzWSj9dv014qeVkMMIEO5j8f05XkKSfjIG5aI3WGyTKs83pTZNiWGqYFf6lznRMIdZEC9chdH0Rd0Ji5VeS0A7Tmr1TjRjyf3R8low4Kny0seiIzWnM+7Zn4s+fpxRFZDYVjp5a2/PQb4HteMTueb92WpThUz/gRLsy3IlGPtjKGP3LctjZ8eZvgknaKcv4RN01D2mIlsZBAU805d5v/Fz9boKUriyXh0B4hUD+94YXQ2nrtEd2MA4yFBUVsaSobFI=;uqFvosSSYoZES8ozb+25nA=="
 ---
 
