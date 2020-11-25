@@ -2,6 +2,7 @@
 title: "Power BI Case: Too many rows from a DAX Statement"
 excerpt: "Too many rows? How is that possible? Patrick looks at a case where a customer hit an error of too many rows coming back from a DAX statement in Power BI.   📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next level? We have training"
 originalUrl: https://youtube.com/watch?v=3vcKgN8HxjY
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-power-bi-case-too-many-rows-from-a-dax-statement/
 type: video
 price: Free
 length: PT6M40S
@@ -28,6 +29,6 @@ images:
     height: 360
     isCached: true
 
-secured: "UtLk2WTgc4IWS85nYg7qd3Ds5gj1py/tnLyHViyCwOx4LqcMFI/035lLrx5C6+dYdpqxlphGLYOpV2tpKGvOLObU32T2QN2B4Gk+vzb+q6n6zStsR4W22UsE6MIk0jDr0p/VIBpp6YDH4oGowvgyqiZwPX6SxG5c8sg0auJPNxV4OH3OHXGSyLHgqDXB4G57N2IgrPOxfBJ6slKmKS/AeuuSFaRgj1JI9u6Qw7GFvOeIk/AeZsB0Exj39HwJxZdirfsyGla75SQuqaW61M0Rn1S4UGjA/398PPwpaH+OsKWZ1Z5Wg0OfIFyZQV+jXRCIx+f1NMbQ4b5RDS66sLK1nsXA0x88wnaMETdA623j6/xIBhPDoELMxFOvHeH91a16+ntSf+0xET4VlFi/6JKb8w==;cdMpU3l/TU0ICiw44WRMug=="
+secured: "JZ5dpq1pb7dcWwcWx84m2i0tGrPZFLrCqE6iK6Vw+l74fZJsXe0E2yFX70vbVFJEcGvR8l+IiO7Jh+dBNuT5U+unefboTZn804rR0J4KEXrXoZOmFvAZ8G02e/c39EPPBlHAE5aKYG7Hiq4ETC/3DAUwJO+R8jNqFGunuIjBDr7w0PHo+3kCZyMQ0U0JmPeFmGLJbe9VAmFghnVWjcstLm97m/RL5pHpOU1bcSn87emRjyHtDIOWBwgthb1cKojddtGsgf8e6OIhVvLXpz5l3bZoYnTkKdClnuAKzkfnekhEV4bugqPhF9xjqhujwALwktBNSDspg/0g2OJfAuIazTndo/QTl/XmFkB0gyNLERXG+C76+HPBwj7nBN5UcaWzq2GIfsJrPWiyAk5MrbhdnA==;1JqJGoFS5hMfZgonokO7lg=="
 ---
 
