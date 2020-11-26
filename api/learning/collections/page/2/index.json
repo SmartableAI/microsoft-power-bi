@@ -879,7 +879,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 130,
+          "heat": 50,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -936,8 +936,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 7223,
-            "average": 4.667728
+            "count": 7226,
+            "average": 4.667866
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -970,8 +970,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 5425,
-            "average": 4.692719
+            "count": 5427,
+            "average": 4.692648
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1138,8 +1138,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 1020,
-            "average": 4.75
+            "count": 1021,
+            "average": 4.750245
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1430,8 +1430,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 432,
-            "average": 4.7314816
+            "count": 433,
+            "average": 4.7321014
           },
           "provider": {
             "name": "Microsoft Learn",

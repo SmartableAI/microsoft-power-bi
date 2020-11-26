@@ -694,8 +694,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-share-power-bi/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 3504,
-        "average": 4.707477
+        "count": 3505,
+        "average": 4.7075605
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -736,8 +736,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 4270,
-        "average": 4.7468386
+        "count": 4272,
+        "average": 4.746957
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2442,7 +2442,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 130,
+          "heat": 50,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -2499,8 +2499,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 7223,
-            "average": 4.667728
+            "count": 7226,
+            "average": 4.667866
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2533,8 +2533,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 5425,
-            "average": 4.692719
+            "count": 5427,
+            "average": 4.692648
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2593,8 +2593,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-power-bi/",
       "length": "PT53M",
       "ratings": {
-        "count": 3573,
-        "average": 4.714246
+        "count": 3574,
+        "average": 4.714326
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2635,8 +2635,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 7223,
-        "average": 4.667728
+        "count": 7226,
+        "average": 4.667866
       },
       "provider": {
         "name": "Microsoft Learn",
