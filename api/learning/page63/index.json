@@ -4,6 +4,36 @@
   "page": 63,
   "value": [
     {
+      "path": "_learning/videos/learn-power-bi-tips-tricks-of-a-large-scale-power-bi-implementation-with-nicky-van-vroenhoven-talkpowerbi-live.md",
+      "title": "Tips & Tricks of a Large Scale Power BI Implementation with Nicky van Vroenhoven 🔴TalkPowerBI LIVE",
+      "excerpt": "A Bonus Wednesday episode of TalkPowerBI with a Special Guest - Nicky van Vroenhoven, a Power BI Expert, Blogger, Speaker and Co-Founder of Power BI Days (Netherlands). Nicky would be sharing his journey about challenges and accomplishments of a Large Scale Power BI Implementation with 750+ Users.  Back",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-tips-tricks-of-a-large-scale-power-bi-implementation-with-nicky-van-vroenhoven-talkpowerbi-live/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-tips-tricks-of-a-large-scale-power-bi-implementation-with-nicky-van-vroenhoven-talkpowerbi-live/",
+      "originalUrl": "https://youtube.com/watch?v=lOloQ1Me2Kw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lOloQ1Me2Kw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H16M25S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2020-07-01T13:58:20-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lOloQ1Me2Kw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/learn-power-bi-traditional-bi-vs-agile-power-bi-talk-power-bi-live-subscribe-join.md",
       "title": "Traditional BI vs. Agile Power BI 🔴 Talk Power BI LIVE (Subscribe & Join)",
       "excerpt": "✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask any Power BI question. 💡 Join https://www.facebook.com/groups/TalkPowerBI to continue the conversation  Hello, I am Avi Singh, Microsoft MVP and Power BI Pro! I just love talking about Power BI. So much so that I",
@@ -26,7 +56,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -56,7 +86,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -86,7 +116,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -116,7 +146,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -146,7 +176,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -176,7 +206,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -206,7 +236,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -236,7 +266,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -266,7 +296,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -296,7 +326,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -334,7 +364,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -372,7 +402,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -410,7 +440,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -448,7 +478,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -486,7 +516,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -524,7 +554,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -562,7 +592,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -600,7 +630,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -638,7 +668,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -668,7 +698,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -698,7 +728,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -728,37 +758,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/power-bi-tips-powerbitips-pug-external-tools-business-ops.md",
-      "title": "PowerBI.tips - PUG - External Tools & Business Ops",
-      "excerpt": "This month Mike and Seth go through the external tools functionality of Power BI desktop.  Additionally, we are introduced to the Amazing Business Ops tool which helps users add External tools into Power BI desktop.   Download Business Ops: https://powerbi.tips/product/business-ops-beta/",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/power-bi-tips-powerbitips-pug-external-tools-business-ops/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/power-bi-tips-powerbitips-pug-external-tools-business-ops/",
-      "originalUrl": "https://youtube.com/watch?v=QBK-qtSEBiQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QBK-qtSEBiQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT55M14S",
-      "provider": {
-        "name": "Power BI Tips",
-        "domain": "powerbi.tips"
-      },
-      "publishedDateTime": "2020-08-31T06:29:43-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/QBK-qtSEBiQ/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -788,7 +788,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -819,7 +819,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -849,7 +849,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -879,7 +879,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -909,7 +909,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -940,7 +940,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -970,7 +970,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [

@@ -4,6 +4,45 @@
   "page": 48,
   "value": [
     {
+      "path": "_learning/videos/guy-in-a-cube-6-things-to-get-a-little-more-out-of-your-power-bi-desktop-machine.md",
+      "title": "6 things to get a little more out of your Power BI Desktop machine",
+      "excerpt": "Machine running slow with Power BI Desktop? One of these 6 things may help you out.  Download PDF: https://guyinacu.be/6perftipspdf  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level? We have training courses available to help",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-6-things-to-get-a-little-more-out-of-your-power-bi-desktop-machine/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-6-things-to-get-a-little-more-out-of-your-power-bi-desktop-machine/",
+      "originalUrl": "https://youtube.com/watch?v=uFvf4HaJDMw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uFvf4HaJDMw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M46S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-02-09T17:02:04-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/uFvf4HaJDMw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-6-ways-to-go-bananas-with-column-from-examples-in-power-bi.md",
       "title": "6 ways to go bananas with Column from Examples in Power BI",
       "excerpt": "Patrick is going bananas with these different ways that Column from Examples can help you shape your data without writing code in Power BI. This feature really helps you to be efficient!  Download the sample: https://guyinacu.be/columnfromexamplessample  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube",
@@ -34,7 +73,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -72,7 +111,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -111,7 +150,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -149,7 +188,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -188,7 +227,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -227,7 +266,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -265,7 +304,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -303,7 +342,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -341,7 +380,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -379,7 +418,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -417,7 +456,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -455,7 +494,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -493,7 +532,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -531,7 +570,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -569,7 +608,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -607,7 +646,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -645,7 +684,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -683,7 +722,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -721,7 +760,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -759,7 +798,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -797,7 +836,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -835,7 +874,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -873,7 +912,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -911,7 +950,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -949,7 +988,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -987,7 +1026,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1025,7 +1064,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1064,7 +1103,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1102,45 +1141,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-cold-open-business-intelligence-edition-bi-power-hour-2018.md",
-      "title": "Cold Open: Business Intelligence Edition (BI Power Hour 2018)",
-      "excerpt": "The Cold Open as presented at the BI Power Hour 2018 at the PASS Summit. This was the intro to the BI Power Hour session. Fun fact, the Cold Open originally wasn't going to be in the Power Hour and came together 2 days before PASS Summit 2018. That's how the BI Power Hour rolls.  Special thanks to Matthew",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-cold-open-business-intelligence-edition-bi-power-hour-2018/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-cold-open-business-intelligence-edition-bi-power-hour-2018/",
-      "originalUrl": "https://youtube.com/watch?v=eda5i-jEdlU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eda5i-jEdlU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M15S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-12-05T04:21:48-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/eda5i-jEdlU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
