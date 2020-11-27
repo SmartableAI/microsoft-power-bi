@@ -118,8 +118,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-dashboards-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 500,
-            "average": 4.664
+            "count": 501,
+            "average": 4.6646705
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1694,7 +1694,7 @@
             ]
           },
           "publishedDateTime": "2020-09-03T03:00:12-07:00",
-          "heat": 59,
+          "heat": 139,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/ePPi1LLX0sA/maxresdefault.jpg",
@@ -1818,8 +1818,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 5499,
-        "average": 4.704128
+        "count": 5501,
+        "average": 4.7042356
       },
       "provider": {
         "name": "Microsoft Learn",
