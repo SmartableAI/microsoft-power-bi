@@ -23,6 +23,6 @@ provider:
 topics:
   - Power BI
 
-secured: "3qBfcfmZuaweAhjf2Z+IHZysE4o4pFK8Hew/nrZCbAmp+Rl/t+MxQwC0h2a09YmTBV0TdmKhfOD68I6vR5NDY+PjVCU0CT+HAzC+W+HRWeRpxcKgbEVrIKsBiC3nrrGn6Vwlj9ckc3s6jigLupPFHp6zxZgHZ9XFwyZLdbEgIVwS/QcJkxeXlS9dCR8NgoY+NPL+Jou0Ivp8mZTWzWnqQBqBjRU9u+y5P4WZ53mRL6fLTrKgDp6mV/4GxVnafRxIkdM/+Xx6t4dD4z8yeec+RhHPRdz+nT8CUygwMEnM0huV4dUuRP1W4gQG2wdBBx1emgXCb1zkZpHOJIwVNfEHyr9kLj+4kiRbeykamwfR1x8=;wGQ6eXvDzmMvgup/Tjf21g=="
+secured: "8Mb/+1VYQ2atldAvdC3mukYhFXhyok/8NB+XEOrwNX0gfNOOoop3RxkAt44/7bBW1RVTMguqczfpXcDSb81JpRzGlXxmrZl6XeQ18PanUf4yrXedTFSrI+nwzT3jV5UKlHvq+cesk+WiTxKV1DDolDtn1ai4X1V5cKjxzK1BGX1uSmfYHVPh3F8WtSUvdGTtRzzdsq/0MD+JpZwAT7KZRNj1cXB6Zqdsydlo0/JJW2N2JzYKx9Cu/Cacot8Bk7RBbceKih80M9SqHbFqEbyFIkYO1+FrXGh68Dk67bQZntyQXznbQ0k1xK0mq/HQBIt26PX+a3nzk4K9r+/hSTBabzT5+6ZVFwdaS99Vchd6Nuk=;UIa7gpwUolp4obgEsXoHaw=="
 ---
 
