@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT8M
 publishedDateTime: 2017-08-31T09:39:10Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qJYRKNPPnHc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "DVgRE6ACY7B4DAn4Rze+zuoV8zMlZIb4iz/7B8EwCCEMlaZayZhKAkmCSPoOD31KEaWU9V+DiI2Ib3dmNYFrET1zdkmSCGmAnYKoFdJJ6Bc2gkTWOff/oYBRLJEwTrcATT8bdPCzemkQKEkjrxTV4LUw02+aWG7yH3Otu2YA2D1B0a/oNfzQ6bxbFUkpjWO4QLuuMrwMKbP5xpnIEFqFxhYrt16NllCYu+MmMy4535S7rQdwpIWdn9RCMArUycMlo8n1yrPFjMJcX6itgJrfbmiTIh8IYGqatfjJcUIzvx+x2TTi5SvKPfY3ZgROK0ETVdi+MI+jruS+FVy0qABVYUIdRBYTj2fU96qBDUm03kA67FuJGrbxuDYyrOT7CZX5JO+IRC6SkSgcAFLP1xqpfRkJdGCkeaB19B4odMSOCtM=;jyJc3pbHhI4qE49wykzk8A=="
+secured: "hRkPYvw8ArNii8eteVPNV+Xf/Bnwe+tmLvx+7VXfembmCfZmKFELmeuxiz6mE3OGzo7Ztc6dJygWKgwti5s8Zt9o689sIvrAdJXOg8aJkFZQ5A69k/pysJKiAgfxpWpptgYUKMRwjYqnGQ4RGRVEFB0uFMIuKzI0d4WwVxTxs+If/uOmvCLzIV0spcUJkd0RI+Q0NiYnzdTk1JXzRwZ9g+KuTQ3XzFrxLV35HSr/0ZhNjWysODhKFz/mYZoCjpjVOI7/jM9CR2+LQHWccabuzN1tV4BQeru95lisZ5l3bQ6STu99NCNiuwUPzSGEWv21IfnmCU0yS8uW10Np34y8LWaSFNLm05CPOu+T//ItIv4vPfMhE6vca6XVvgmUPLXkcYHkUkLQ7O16HRBay67buuBdIgyjqg8/BtubFO+YbfQ=;lpHQnRufBBBnmMBtbsRmtw=="
 ---
 
