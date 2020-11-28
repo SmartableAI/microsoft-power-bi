@@ -147,8 +147,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/",
       "length": "PT31M",
       "ratings": {
-        "count": 5360,
-        "average": 4.7333956
+        "count": 5361,
+        "average": 4.733445
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1162,7 +1162,7 @@
             ]
           },
           "publishedDateTime": "2020-09-03T03:00:12-07:00",
-          "heat": 56,
+          "heat": 136,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/ePPi1LLX0sA/maxresdefault.jpg",
