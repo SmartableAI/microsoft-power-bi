@@ -945,7 +945,7 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-systems-of-insights-for-enterprise-scale-with-power-bi-azure/",
           "length": "PT30M",
           "ratings": {
-            "count": 1,
+            "count": 2,
             "average": 5.0
           },
           "provider": {
@@ -1112,8 +1112,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 1901,
-            "average": 4.7511835
+            "count": 1902,
+            "average": 4.7513146
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1154,8 +1154,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 1862,
-            "average": 4.772825
+            "count": 1863,
+            "average": 4.77241
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1447,8 +1447,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 557,
-            "average": 4.660682
+            "count": 558,
+            "average": 4.66129
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1683,8 +1683,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 434,
-            "average": 4.7419353
+            "count": 435,
+            "average": 4.74023
           },
           "provider": {
             "name": "Microsoft Learn",
