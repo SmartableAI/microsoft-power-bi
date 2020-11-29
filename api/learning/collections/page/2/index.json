@@ -903,7 +903,7 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deliver-decision-making-insights-with-power-bi/",
           "length": "PT27M",
           "ratings": {
-            "count": 2,
+            "count": 3,
             "average": 4.0
           },
           "provider": {
@@ -945,8 +945,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-systems-of-insights-for-enterprise-scale-with-power-bi-azure/",
           "length": "PT30M",
           "ratings": {
-            "count": 2,
-            "average": 5.0
+            "count": 3,
+            "average": 4.6666665
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1112,8 +1112,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 1911,
-            "average": 4.751439
+            "count": 1912,
+            "average": 4.7515693
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1154,8 +1154,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 1877,
-            "average": 4.773575
+            "count": 1878,
+            "average": 4.7736955
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1279,8 +1279,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 927,
-            "average": 4.6893206
+            "count": 928,
+            "average": 4.6896553
           },
           "provider": {
             "name": "Microsoft Learn",
