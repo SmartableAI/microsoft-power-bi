@@ -14,7 +14,7 @@
         "domain": "exceleratorbi.com.au"
       },
       "publishedDateTime": "2020-11-23T11:55:01-08:00",
-      "heat": 131,
+      "heat": 130,
       "images": [
         {
           "url": "https://exceleratorbi.com.au/wp-content/uploads/2020/11/onedrive-personal-to-pbi.png",
@@ -293,8 +293,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 14302,
-        "average": 4.6988535
+        "count": 14303,
+        "average": 4.6988745
       },
       "provider": {
         "name": "Microsoft Learn",
