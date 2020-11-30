@@ -2,6 +2,7 @@
 title: "Two ways to reorder Power Query columns without breaking your queries"
 excerpt: "In today's video, I am going to show you two ways to reorder power query columns without breaking your queries!   Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1"
 originalUrl: https://youtube.com/watch?v=4qqXho7ndgU
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/curbal-two-ways-to-reorder-power-query-columns-without-breaking-your-queries/
 type: video
 price: Free
 length: PT5M12S
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "OJxl5iDaSUcScX+uuva2C7XLT+PUk/WVrjFrpGDyRwHXI8aqMG7wILn9A+SHa/exCVeSxevfcJeIOnYQGgvKOu8okHZsxGU5oTVpX6AClr5+3F2Sftc7n2CTle51zo4XDI31Ar1YfBwpizEh1gnoPmQJQLx0zd7BhUv7DQ/SGIem7k8++Btbm85dpU7jCC0BkVYqWtpz1+LwanEt6KWoWGEOYLVMJfz1a/7mHFLPaSVjPAR1O5yOR7dLo2GNhGUJ/DcN/4um0/VjwC1symy9mAOxud72yXv8aAp3gE/M4cd70jlF0+MzdnZUZKyFoeUMy4y3KFtEfZTNVzSTixEDj36kqNnyI7ld7NAoB0aQSKGJgjccHrxQI2/jRw/cJyxmB6lvmFTjsMY2R48XICp1Sw==;YCNu5mtkPO3fbl09FNhUoA=="
+secured: "Lg3s71CsGRoF4hvtEoe0jDIG2s+w6cNlhMe0LNvtflyMHhbYFZaZOxuhzpCyR/W1IzAj7VtT7m3x5VHmM1XLMSzjOU/PpaUyvIfpKnu358U/hBLcpUXvBQAi/iuKC5tdnqLj0kbmNfAY1rQmYQ5UlZ/ULHuTBIXI/Y0zzdCm4Ho4oHvlKV6jfFsiKlOOvpUtNe4uK8QgT6Kwo5OPiCRNOTONCT4wKuWffgH58o1RKGkzVoh+oRw7/8IkgehoiI7CPKAZcDx4t7nsJe4aBlMx7RTUEMYNV4OTrQP8cBIkLZywXZ/vpRV78ObmApAqxzBHmp7zL+RYp3emFFE5nDceRgvX/Dd4FtOFl5Svaj81vamIHJV8uFkNO8fgVM6xB941;LZ12ih86vGtgPu5rYETXew=="
 ---
 
