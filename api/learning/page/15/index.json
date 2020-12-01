@@ -323,8 +323,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-analyze-dynamics-365-data/",
       "length": "PT57M",
       "ratings": {
-        "count": 2162,
-        "average": 4.7039776
+        "count": 2163,
+        "average": 4.7041144
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -407,8 +407,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-calculated-tables/",
       "length": "PT19M",
       "ratings": {
-        "count": 238,
-        "average": 4.7731094
+        "count": 239,
+        "average": 4.7740583
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -493,8 +493,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-write-formulas/",
       "length": "PT27M",
       "ratings": {
-        "count": 331,
-        "average": 4.7009063
+        "count": 332,
+        "average": 4.701807
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -537,8 +537,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 724,
-        "average": 4.6436462
+        "count": 725,
+        "average": 4.644138
       },
       "provider": {
         "name": "Microsoft Learn",
