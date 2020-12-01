@@ -1847,8 +1847,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 1063,
-            "average": 4.74318
+            "count": 1066,
+            "average": 4.743902
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1930,8 +1930,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analytics-excel/",
           "length": "PT2H6M",
           "ratings": {
-            "count": 0,
-            "average": 0.0
+            "count": 1,
+            "average": 5.0
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2234,8 +2234,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
       "length": "PT43M",
       "ratings": {
-        "count": 1063,
-        "average": 4.74318
+        "count": 1066,
+        "average": 4.743902
       },
       "provider": {
         "name": "Microsoft Learn",
