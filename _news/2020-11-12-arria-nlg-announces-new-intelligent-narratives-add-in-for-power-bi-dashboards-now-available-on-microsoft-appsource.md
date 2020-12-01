@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Arria NLG announces new \"intelligent narratives\" add-in for Power BI dashboards - now available on Microsoft AppSource"
-excerpt: "MORRISTOWN, N.J., Nov. 11, 2020 /PRNewswire/ -- Arria NLG today announced a powerful new version of Arria for Power BI, an add-in that brings natural language generation (NLG) intelligent ..."
-publishedDateTime: 2020-11-11T18:07:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/arria-nlg-announces-new-intelligent-narratives-add-in-for-power-bi-dashboards-now-available-on-microsoft-appsource-1029793229"
-webUrl: "https://markets.businessinsider.com/news/stocks/arria-nlg-announces-new-intelligent-narratives-add-in-for-power-bi-dashboards-now-available-on-microsoft-appsource-1029793229"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/arria-nlg-announces-new-intelligent-narratives-add-in-for-power-bi-dashboards-now-available-on-microsoft-appsource-1029793229"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/arria-nlg-announces-new-intelligent-narratives-add-in-for-power-bi-dashboards-now-available-on-microsoft-appsource-1029793229"
+excerpt: "Latest add-in provides instant (no-code) natural language narratives to quickly identify, understand, communicate and action key insights based on all of the dashboard's visuals and underlying data."
+publishedDateTime: 2020-11-11T18:36:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/arria-nlg-announces-new-intelligent-narratives-add-in-for-power-bi-dashboards-now-available-on-microsoft-appsource-836038278.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/arria-nlg-announces-new-intelligent-narratives-add-in-for-power-bi-dashboards-now-available-on-microsoft-appsource-836038278.html"
 type: article
-quality: 53
-heat: 53
+quality: 13
+heat: 13
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Power BI
 
-secured: "EjtzUe2rVCQMsqXQkAbkjfCsq3ibFoqsBOxgOqgyzMt6xsGi1H/68TK7mBqroOLik19mHE3fburQDEEH5Z5hbhTtUTdiY/o+2WqdlEhxsDbhAcdW0gctzTjMjdEwK/id/42OxDrY6JZlUAOa06t2DDKUgrkvGq7ZsqctI22/5qL0gEKtOgom1lLUKnLoXDa5k4BVoGvp4OBx4u4pRA/f9U6jQbBl2H7zKTiSSDi3YSVfZUIMfDECSqr3JPwQu1sHxw6yJ22hRZ9hd6paj+EAamfsGZS5xH4K2bK0x3mj+SR8zzKj/S3Hq99W70vLwkJ/xurTYo4+Lq6JZGwHVKDHxsOHEIpCEElF9pRqliTyHEE=;Fazml9sK3aPtIIk9IVGjdQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/1332356/PBI_Laptop.jpg?p=facebook"
+    width: 1176
+    height: 616
+    isCached: true
+
+secured: "XGPPJ3dIxdvRI3uK56LQpLxrjUtE2BPU5QU6B5ZDL0yygdwZxvDN/VsgMd8Lz96Xarbis+iu+sCnc4I92YaemIUxXfRyESc+Q6m4sRXfGKaLPwdOeeMsnswDF4wl/SEIyU1Nxm2o5f0SIDoaW/cIvpXtw0z0hog3GTW5Aqshktvc6US5GLz2KWlvddf1gnEc89OcU4kr/TRZgY6CLY6O5qQR2jR4TntQ0a44yulrQ0z1RrcfOwT5SK5ujRDhPWCHlKcRjI61s4WuI7jWA9sOXfZWSbU6rhbmgmw0RXMTzQmf2iukUvCGbrHB7H+Tr/gXvSnxFuG+GepjOBaQuGld7tQNqmb99UtWLiUdFbx76Mo=;dNLUROlBS2agpwRdF5L5rQ=="
 ---
 
