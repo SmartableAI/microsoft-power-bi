@@ -2,6 +2,7 @@
 title: "Aggregation to speed up the performance of a Power BI report even if all IMPORTED"
 excerpt: "One of the questions I normally get after presenting about aggregations in Power BI is that, does the aggregation works only for Composite mode and in scenarios to speed up the DirectQuery? or does it work in import mode as well? This video is about this question and shows how you can speed up your model"
 originalUrl: https://youtube.com/watch?v=EukzA4vbl2w
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/radacad-aggregation-to-speed-up-the-performance-of-a-power-bi-report-even-if-all-imported/
 type: video
 price: Free
 length: PT9M42S
@@ -23,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Ad47bgY8y6NytIsE44RJQGWfuej6Wz0T6PwQZrJeoffjvMhsk+avZ0udCcC9nu/TbSTzKAOYz79zSUYgo1ereQQGNis83MIEqKz3pr9sH0rhLHI1Q4/64Rm/3MdIAzgESXTFKrcRxyFQ6E96T5x2axceaBIq1flyMuOFPgt7z1WlFDSa4C3Cdpkcwol0wFY8wis4Yd6tfTQ/t2ha0OgB8VkiKRHLuQ2BVJTVk4h1+fajK0dpbFfRfuDyjDavMGlywTKuNz6kOgr21eS8EGHJVESx1bXmd7pM/VY75fDScwu6PEZlG7wPpfaVA0QmnSY3aGwqO03NkViBJTCSgpoJ37ojy8W8Ppmr7VWadUCZgrNWVw3gROV9iHDw0i/4+6E+XVKWN85L8Ip2ypqFT0JEOw==;XGs/NYtDrn5KqWIbWSd2rg=="
+secured: "wCQUMwLPAnbBmWTfn2vJUQW7aGt8rJqMJwCnwEJL53MjCze3azeAv1dKiohGfrbRrpRntJa09E3UYvBeVA9nuAeLGRDGvOJrl3+I1hv5zjY+BRdGhD5NdAHhI2HZ2kGRXTxMYPA2bnCdwOx8nXtroQr1Mdcr0Iqi5ShALVkk0cn2rZnzMEklGv2Rz2vyFTh9rLLMXGWDyTsr3dZHKjdazvoIhS3EHSZmPqFRo9Y6iS0Npd4xzsaSPYwSo8ek6C75MP0DL7K/IZiN6G5njpWZSmvZeVJI8zLUicmMjPOlYSEsc0oFCap0AN9W8utZgoBBpcylBCskd02v+Kd9/l0SDMlt5/j9b32HqkjSaOTDV7Jv2kQF7m7ZvwBa6s1lh/bZ;/Y4dLCzvvxY28ZNarNR0DQ=="
 ---
 
