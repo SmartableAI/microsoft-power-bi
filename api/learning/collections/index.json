@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 5810,
-            "average": 4.7741823
+            "count": 5811,
+            "average": 4.7742214
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 22348,
-            "average": 4.739619
+            "count": 22359,
+            "average": 4.739747
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -352,8 +352,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 22348,
-            "average": 4.739619
+            "count": 22359,
+            "average": 4.739747
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -394,8 +394,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 14338,
-            "average": 4.699121
+            "count": 14339,
+            "average": 4.699142
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1635,8 +1635,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 1946,
-            "average": 4.7517986
+            "count": 1950,
+            "average": 4.751795
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1677,8 +1677,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 1906,
-            "average": 4.7759705
+            "count": 1907,
+            "average": 4.776088
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2896,8 +2896,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 721,
-            "average": 4.6435504
+            "count": 723,
+            "average": 4.6431537
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2938,8 +2938,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 592,
-            "average": 4.5996623
+            "count": 593,
+            "average": 4.598651
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2980,8 +2980,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-dashboards-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 517,
-            "average": 4.6731143
+            "count": 518,
+            "average": 4.6718144
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3022,8 +3022,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 576,
-            "average": 4.6927085
+            "count": 579,
+            "average": 4.6925735
           },
           "provider": {
             "name": "Microsoft Learn",
