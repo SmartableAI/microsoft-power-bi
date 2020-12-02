@@ -4,7 +4,7 @@ excerpt: "Until recently, I had not spent a lot of time building Power BI Report
 webUrl: https://exceleratorbi.com.au/power-bi-and-sharepoint-terrible-together/
 type: article
 publishedDateTime: 2020-09-14T22:23:23Z
-heat: 50
+heat: 130
 
 provider:
   name: Excelerator BI
