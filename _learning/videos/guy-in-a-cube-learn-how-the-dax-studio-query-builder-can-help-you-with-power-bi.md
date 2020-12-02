@@ -2,6 +2,7 @@
 title: "Learn how the DAX Studio query builder can help you with Power BI"
 excerpt: "You may be able to write a DAX expression, but what about an actual DAX query? DAX queries can help you validate data and fine tune your DAX expressions used for Power BI. Patrick shows you how!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI"
 originalUrl: https://youtube.com/watch?v=y3JOhZMiJ0c
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-learn-how-the-dax-studio-query-builder-can-help-you-with-power-bi/
 type: video
 price: Free
 length: PT6M57S
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "eW0yMM0nv1OY0emmViICsj6ZWDRwzXgzNZz19lIklpJTOYqc4ggVOw8QhFZYCTgKIv7VGxaXpqHMjVNNa8bofBZG9ocYZYtF0dvrLs2z3vZ6BHtF2Q/mkux3D9Q6td7R80ZCagUYu+1HgVV5MtecPh6vpAtToF1FnV0h9l4C0yHa1NP9HvVe8tqd9YLMaWfrOGyy/2v+1AoTyuS1FBjzjPkLDmyN/EA3KC/RK29bgDtiqN+wcGHc7kmEsknEJ9qGQVu0L2yrTDpVvSaEKOBJyFhpydenmQAbQ9ArsXRhI7wRwakSqF1b2KquDqgEDI/0dJj6IiyqsbLbBNA5kmCZ0Hn7TkV0GvQsf/o2MsEXncnLgFkRSSppvP8fKQXBe9WiuxkTH0j5Q3Uhc25iVOpHmQ==;FkVUc0/HcdSNXq7WFopCmQ=="
+secured: "hoo9AifxSENyTZJwR808M6228edO+ujYv22WhoDcPHscFurr/L1a3mDqs8z/0lr5/wyRUO4mh38bYZYc16Ir6CwSw+AomvYfcRaXw9IcFe54JfQ+atyUQGuQE0Aaw0Cga0T5mwvrpKQbrXm8+8fpqr+JuUGH0T+SMFOGLQtmuDKJUlzVm5jQFnjvvbQZfIB3bGRqAnHojApZSdYiKzoGM89MMsM1R1ZHR+8g/PRggIopptQBKHiZ25o2UKgYb6vYHBRbQ1szFLpwYsM8y7yzjVswHmBc8HYBVm4+Jp/IVTJ8YO/3/dcdOEv1GAvcJApI8DvkOFXEHxrDeQbxMLcLQsyMLMxBp9zL+4S9ALRuUVEny3W1rhMWrmlkxqwEJNjLTiUg4D9Y1WkVhOEKoccLGw==;DhW1dwZlL2vIdpTuizwPpQ=="
 ---
 
