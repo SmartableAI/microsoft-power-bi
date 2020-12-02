@@ -2,6 +2,7 @@
 title: "Add measures in bulk to your Power BI file without external tools"
 excerpt: "In todays video I am going to show you how to add measures in bulk to Power BI without using external tools. Why you may ask?  Well, it is very common that users can not install third party software on their computers or you might not want to learn a new tool.   Enjoy!  Here you can download all the"
 originalUrl: https://youtube.com/watch?v=3TdSp-lCGNk
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/curbal-add-measures-in-bulk-to-your-power-bi-file-without-external-tools/
 type: video
 price: Free
 length: PT7M16S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Ses2lQh9LUMd5b+7W5ZHXRe4hbIWCmTCIEhkm82N0ErPk1ZDzbn8mPM5L3LSEdI5Zr4SZueRH5L5m1RVVnMfIaEeZWRCIwbhTFW3nE1aejqt6s4xuN7c/DofEgNrZdltzCPRyxALJlCnyaP5GerNabzXw09g66cwwN5lh+/wUjdiKDSfJIvjByPVzCYxY/dPQipDi4DHZWlalf1dv6rI/jciFN4f1odaroof4QPPXeWrC5j7L4cxs7aQ4YbM8/lyTRJihzNYx0c7HyUSum33oUOofrFO4MFwlKZL0YNEqolncfjAeMHcc67oWWKv/xX2G8rMm9lVmRxkqDc1/BDYLBHCMXSuJOR4H9znSHdDHxHsHdAmCOM4RpnGnVO4yIeei68apT0z4+Z9Dnok9TUqOQ==;T9mye+xe/OlD/K7SwH6acA=="
+secured: "r+ZDiLqJYZvbllAaj7ckezJG79hfGfpVAjkNpHsrGrFdXx/EDZgHdSpnBRU2lW55G5ZRgzixn3hA42j9LVjVm1hRcC5K5XPERWshs93+hBH/bakimYIesZsehyw34SR8v6X+Jz5srAo5YAwGTrch4Y62MHkUz0Cv6mmRhmaVeBvaC6vhy+5YOIjkWW3Z79PA+A7NJ97DMj7/Ctgemsb8ctUOGH/38CN9AV9Bd416AjEGzp+51AKtcbWO598S9vTrCFW5Gfxu6U62YJQ6Dj+pCvsudL9lVPcU5wvZZWtPs7YbZEGXqqTwxjvCGdiYc+US0ra5FSR2X2mGHO9+AylIzxopKAzf+ltU4d4QD4JjG0qpVFiBTqX65lQizNrZrTA+;rrlD2GrnLC12t9W21JN7GA=="
 ---
 
