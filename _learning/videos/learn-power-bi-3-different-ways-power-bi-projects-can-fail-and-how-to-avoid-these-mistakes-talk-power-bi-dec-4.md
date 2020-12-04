@@ -2,6 +2,7 @@
 title: "3 Different Ways Power BI Projects Can FAIL! (and How to Avoid these Mistakes) 🔴Talk Power BI Dec 4"
 excerpt: "Power BI Projects may not always be successful. But Failure can be a great teacher! Let's learn from three different stories of Power BI Project \"Failure\" and learn how you can avoid the same mistakes. ★CONNECT WITH OUR SPEAKERS★ ➔ Avi Singh: https://www.linkedin.com/in/powerbipro ➔ Ian Bowman: https://www.linkedin.com/in/mianbowman/"
 originalUrl: https://youtube.com/watch?v=5C-xYkZ0Xuc
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-3-different-ways-power-bi-projects-can-fail-and-how-to-avoid-these-mistakes-talk-power-bi-dec-4/
 type: video
 price: Free
 length: PT1H9M36S
@@ -23,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "isHIBCYzcDEYbr3S3HP3q1Np2LlHVPN9WfRLBxPtVzYq4xn6GvNdzCSymgTMsyI0f9OL0HA8km+4BikgLvO/e0oAcK6ECetYfqU79+QndsOKk5WZJvqolz7NV7Ujq9POR2/fi5hFnq0QoXuY4QdM4VuiuAM5Rcw9BfHDlmJy1nUffECbZmtvy3Gk+CXXEqC5Og3Tq11pd1uYgkoljcMTPFupkZb0/6klW+0nKKm7idS3r/Gq2v1Uk1dS/E4T5krXtXIoupt6VL0XFBUso/HZHSVa5+hbFTcmoX6D+r9pgHFORHFDYo9UN2xv9aca++SFTlHuFKxZmnDpdC5J8zZNoM0/IZYaq2IW+C0u6MEt0v8kJBjSozY4EsQo+7gvVVyWBZ4XAdwQPmlsPw/ykDUVPg==;7bs0DXfaMMXJ6rPD0zi5nA=="
+secured: "xPIOGl/31j3tQFihaNWtijMRWqUcoRWRY/Qbq4EXUgaTU9+QZ8ERtb1gGyGx6vS+oCWnlfY8PFGrbloeJS0ZAUe5JJbM2cXAPFlVqKZ65FCzNbl6Nm09zpg+esAx7EnKlgyYMCGIIESc5EHetP3iVgGcsMbUccvMxT53ezpdy6TbV1w2SKmY3o0RTu5BH2Sa9mP3s12YWiLjpLewthKxGcKq6VPJ+72nN0QV2YqAYwn/rGv57ZmcealPsf2RaF/jIZ62PqcVnq6HTcoGmy2yG1u2yUKVCmEcVOapEpSgasSEWz3FfFC6WF4Xv5GNhZ0pGtTYY5e9HHhIfPUJo/O196HOBG4nOSFS5XWpEZHLl5QITU1Swo3Uis5I8JVeF8CK;BkGgLMWH2D761+IqaoA9oQ=="
 ---
 
