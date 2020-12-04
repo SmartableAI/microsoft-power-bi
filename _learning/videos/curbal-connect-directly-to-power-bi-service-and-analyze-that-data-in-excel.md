@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT7M5S
 publishedDateTime: 2019-05-15T15:47:43Z
-heat: 53
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3edQe2tSq7g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "abtGBLouZI7bI+NzoycEPogLfifjuJLcPLNcV6zRsI1Ah3FC3a/bUbvIsqAl3GDj1avhzCbTa5teOAFL4p2L7o1MoQkwY99EIocKKmfGSKIBm5oVBgOl1UnZEbCrNCndn80D//6utuPdEhspuE9CUJ4lGX8+M+11eih15k3qKyZpyDweMQbyL5WAVdYI96UU+mDW9Cty5sftnQiqxd7ZJOY3fdtXnI8OlY0UZZlRH6ZHJIGe7JT76fMnOymPdI2ULwXBt5i+Y6NSJttPzhbfPtzyFNc/itCLGxEZHk+oaXtGhEtmlL8F40MBm40RnQ6kgeRD2cgRLIXLnrlIGH7+fOawaAJf2Sa/8gRlXvwgbaPW+SbOlimYhA/59KRt4V5THcCcFkMCsaokSgWAnRbvdJm/GaHBon3qJuczXBmLMYc=;kO91c1zIg1sdsV7Vz6jfxQ=="
+secured: "zURitaMomz+QA/HiGES5bkfX+tHo4cEdEvkW1kKbdzek7GagkcXB8fU03mKLnXWB3+oX2bwknj/5Mq4ayFf7GNj2tIOjOwnr9vqrKL+sKQeH7HiyddSmwb+/UfELvccCp+FnLuQzsNJGRaUzEtnOKnx46GMn1FvH8i8keGW+3gg9c45M82S6UBRz1FE0HszajqZC0uO/vprow671vEI7Z/VoI0Fi8TEO7xxzR7sjvIkHNsMyhLSZYc1Et11WkchMiw3VVZ8B//aFsmWh8x/vpxU7eZBL6VVGV0U+De2C1m6v3wiTnPl6H6/EqQY4Cjbmsq9iNQJKFt2tdwqbaF7JsddPceEYXQBRfkLhAlpJ3LS6bctpklQLYR9XEY7zOkhYzw3J7gCxBcgShuTNJnvhYPwPx8FdLr8ujJ/THi3UJsM=;5r3f07JtE+vRwXJlzFlRAA=="
 ---
 
