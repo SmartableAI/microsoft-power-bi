@@ -2591,8 +2591,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/propose-solution/",
           "length": "PT40M",
           "ratings": {
-            "count": 330,
-            "average": 4.6575756
+            "count": 331,
+            "average": 4.6586103
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2625,8 +2625,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-requirements/",
           "length": "PT23M",
           "ratings": {
-            "count": 301,
-            "average": 4.740864
+            "count": 302,
+            "average": 4.7417216
           },
           "provider": {
             "name": "Microsoft Learn",
