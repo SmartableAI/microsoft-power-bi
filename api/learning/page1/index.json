@@ -317,45 +317,6 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-dax-fridays-190-part-3-year-over-year-population-change-in-europe-with-eurostat-api.md",
-      "title": "DAX Fridays #190 - Part 3: Year Over Year population change in Europe with Eurostat API",
-      "excerpt": "In todays video we will calculate YOY population in europe and finalize the report we started on this series.   Link to Previous videos: How Eurostat API works: https://www.youtube.com/watch?v=UwXo1OcwbAg  Build a report based on Eurostat data. We will get total population and population growth and map",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-dax-fridays-190-part-3-year-over-year-population-change-in-europe-with-eurostat-api/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-190-part-3-year-over-year-population-change-in-europe-with-eurostat-api/",
-      "originalUrl": "https://youtube.com/watch?v=rIcs4Mz1umQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rIcs4Mz1umQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M49S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-10-30T04:24:15-07:00",
-      "heat": 133,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/rIcs4Mz1umQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/dhruvin-shah-load-microsoft-dataverse-for-teams-table-data-in-power-bi-desktop.md",
       "title": "Load Microsoft Dataverse for Teams table data in Power BI Desktop",
       "excerpt": "Microsoft Dataverse for teams provides us the flexibility to prepare relational database tables. Now, let’s say we want to prepare further reporting based on Dataverse for Teams data. So, how can we do that? How can we load Microsoft Dataverse for Teams table data to Power BI Desktop? You will get to",
@@ -387,45 +348,14 @@
       ]
     },
     {
-      "path": "_learning/videos/enterprise-dna-where-to-next-121-ultimate-beginners-guide-to-dax-2020.md",
-      "title": "Where To Next - (1.21) Ultimate Beginners Guide to DAX 2020",
-      "excerpt": "DOWNLOAD RESOURCES HERE https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Learn about advanced DAX functions, supporting tables, and customer segmentation.  ***** Video Details",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/enterprise-dna-where-to-next-121-ultimate-beginners-guide-to-dax-2020/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/enterprise-dna-where-to-next-121-ultimate-beginners-guide-to-dax-2020/",
-      "originalUrl": "https://youtube.com/watch?v=n5ymKk9Rl6I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/n5ymKk9Rl6I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M",
-      "provider": {
-        "name": "Enterprise DNA",
-        "domain": "enterprisedna.co"
-      },
-      "publishedDateTime": "2020-09-17T23:00:53-07:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/n5ymKk9Rl6I/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-power-bi-publish-to-web-can-be-scary.md",
-      "title": "Power BI Publish to Web can be SCARY!?!",
-      "excerpt": "Some don't realize that Power BI Publish to Web is not secure. Adam shows you that this is the case. It's a bit scary and there are other options to have secure embedding.  Two Alex's Video - https://www.youtube.com/watch?v=S3tWcCcZilw  Patrick's SharePoint video - https://www.youtube.com/watch?v=Kevw0PFnFD8",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-power-bi-publish-to-web-can-be-scary/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-power-bi-publish-to-web-can-be-scary/",
-      "originalUrl": "https://youtube.com/watch?v=gJFKFnOd-hU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gJFKFnOd-hU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M43S",
+      "path": "_learning/videos/guy-in-a-cube-how-to-manage-the-power-bi-pro-trial.md",
+      "title": "How to MANAGE the Power BI Pro trial",
+      "excerpt": "Did you know you could manage the Power BI Pro trial for your organization? From directing people to an onboarding portal as well as disabling the Power BI Pro trial all together. Find out how!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-how-to-manage-the-power-bi-pro-trial/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-how-to-manage-the-power-bi-pro-trial/",
+      "originalUrl": "https://youtube.com/watch?v=5z52aYo6rQA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5z52aYo6rQA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M50S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -438,11 +368,71 @@
           }
         ]
       },
-      "publishedDateTime": "2020-09-24T08:00:09-07:00",
+      "publishedDateTime": "2020-10-01T08:00:02-07:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/gJFKFnOd-hU/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/5z52aYo6rQA/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-can-power-bi-transform-your-life-at-40-or-20-or-60-poweron-show-with-charles-avi-talkpowerbi.md",
+      "title": "Can Power BI Transform Your Life at 40? (Or 20 or 60?) #PowerOn Show with Charles & Avi 🔴TalkPowerBI",
+      "excerpt": "Both Charles and I, transformed our lives around 40 years of age. Power BI played a key role and leaving our jobs was a crucial step. But our transformation was a bit deeper than that. We want to share our journey with you, but also ask the important question...is there really a right age to transform",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-can-power-bi-transform-your-life-at-40-or-20-or-60-poweron-show-with-charles-avi-talkpowerbi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-can-power-bi-transform-your-life-at-40-or-20-or-60-poweron-show-with-charles-avi-talkpowerbi/",
+      "originalUrl": "https://youtube.com/watch?v=NM2DCToep4M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NM2DCToep4M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H6M6S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2020-09-18T10:44:30-07:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/NM2DCToep4M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-using-charticulator-for-replanting-tree-over-time-in-different-region-of-new-zealand.md",
+      "title": "Using Charticulator  for Replanting tree over Time in Different Region of New Zealand",
+      "excerpt": "In this chart, I have explained how to create a chart that each point of data shows coordination of the New Zealand Regio and in each data point you can see the amount of replanting for each year, I use Charticulator to draw this chart,  the original dataset is from Stat of New Zealand. But I made some",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-using-charticulator-for-replanting-tree-over-time-in-different-region-of-new-zealand/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-using-charticulator-for-replanting-tree-over-time-in-different-region-of-new-zealand/",
+      "originalUrl": "https://youtube.com/watch?v=3EtF4jtvXvE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3EtF4jtvXvE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M44S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-09-14T13:36:42-07:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3EtF4jtvXvE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -687,7 +677,7 @@
             ]
           },
           "publishedDateTime": "2018-04-10T09:10:23-07:00",
-          "heat": 72,
+          "heat": 77,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/7iUqMA2Y6xA/maxresdefault.jpg",
@@ -1214,8 +1204,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 22608,
-            "average": 4.7402687
+            "count": 22610,
+            "average": 4.740292
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1274,8 +1264,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 22608,
-        "average": 4.7402687
+        "count": 22610,
+        "average": 4.740292
       },
       "provider": {
         "name": "Microsoft Learn",
