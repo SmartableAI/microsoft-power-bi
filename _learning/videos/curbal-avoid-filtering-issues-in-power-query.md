@@ -2,6 +2,7 @@
 title: "Avoid filtering issues in Power Query"
 excerpt: "Sometimes when you are filtering columns,  Power Query will create a filtering query that was probably not what you expected and it will either break your queries, or it will filter out values you want.  Let me show you!  Here you can download all the pbix files: https://curbal.com/donwload-center"
 originalUrl: https://youtube.com/watch?v=dbTvOk1IyNU
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/curbal-avoid-filtering-issues-in-power-query/
 type: video
 price: Free
 length: PT3M30S
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "n3LB8WvFOp4gig4CinEZ4Yyd4TiV8PdpEhZ2Gvo18aXDsxKRe2SzeRsXTA2isA0oFMjFXSR5LBA65qwxZS3HehEFb6QSx4urcZbgsGYkDFTDXSX6CXJZz/VYMeCcKlueMtvP0j9rrHxER7cUoaeqCVkvUFNXxbX+tmFAJswW+3evN3nxkjWE5X7tpegqc9YBU7AiXfNEJ8y9b04Ae6v2TWM3gCstXE7FQh/qyWhLi+f+w0h6hUvmrtSWArIzH81MHKGXfZR7PLf8++pOdvZQ+Leuxiv7vsv0EaxM+F/9Onu26ERS5ZQ50G6aYoyo4jpMWQ7a9EA1IL6MY/i2QXfjyY6PTIADA3+ztHkCtLdxqN/UYGJ58FKUod7J2BsikiB9guwZfCeJEDwLdhFZp6YyCw==;ZcE36eHnAVylpvvNv0GlfQ=="
+secured: "of9WZnqLElSXw+O9VO18wVcgvk7ZKQ0Ax7qe8IsAIktpkuoGOIME2jFxu/M0Cw/SpFf4kPOdLv8by/yHPc+UNZDI4sPcI1n6Wul7QCBkzItq51MIp3mewfqkL2AJG1AM7HxRxqLOY5zHaMzYIb/3y1ooc8tVaw/33CWBdAJ2v0loOMe4mKySv4Egv/C3FqQ2FB+T2PyCyQfGx/4oZtyUyUOdYZVDoRktKPg7sCs1OHT++lIiN0IK4igvmYXb9EP+cjWrcle2ddEc+N2BavwhYsEzBj4+7yLORRDhqgoaNiqZJXeGKNutwmfmMBd5ZBBpS6Hjqc3ct/nYYXnf5VtkTXdFui/80208nq7XunqZ46m6e7xs+ydOVJqje+ePBtM1I9rsOXyHK4LsiU9nuydxKA==;cm7+EQBUkcm8lFj9iIdvOg=="
 ---
 
