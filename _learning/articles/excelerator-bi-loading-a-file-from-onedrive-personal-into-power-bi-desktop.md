@@ -4,7 +4,7 @@ excerpt: "I am sure you know, there are quite a few companies that provide onlin
 webUrl: https://exceleratorbi.com.au/loading-a-file-from-onedrive-personal-into-power-bi-desktop/
 type: article
 publishedDateTime: 2020-11-23T19:55:01Z
-heat: 80
+heat: 50
 
 provider:
   name: Excelerator BI
