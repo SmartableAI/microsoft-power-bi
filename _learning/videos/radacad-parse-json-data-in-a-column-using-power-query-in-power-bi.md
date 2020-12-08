@@ -2,6 +2,7 @@
 title: "Parse JSON data in a column using Power Query in Power BI"
 excerpt: "In this short video, I have explained how to pars a column that has JSON data."
 originalUrl: https://youtube.com/watch?v=MJsZaWO9Uho
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/radacad-parse-json-data-in-a-column-using-power-query-in-power-bi/
 type: video
 price: Free
 length: PT4M5S
@@ -24,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "jq+YOn35DjbJUe3rYsOe/uozgFibJRItFxN9rpRpMTib5DdqtNVYi5COptejjmAy0sODrbGg7OIhLlijfT0C8UFGxcKekmCZwIAKQI25xA6/hAhh02Nqv0iS2fyFLyn9ZmqlXOSmI+USFnvC0NVIddfHMtYa1km7k7XI7wrOrq2e8sA9SkPIZ6TJACdxiNfnoCnStKguGnzr15/fPQdmKGna+QRYfgsuYHJsWDRILoyInRZdsozRccW8okFBOaeoKxwpKb6QuRN59vkalBJk44uQrt0gAGeVyO5dUmI8LLkbzg7uKaa9/rIf5WWKwhzJE8/dlpgJr/aAYtTvBEKciVZgCVKwIqeJO1Hm8dBbd54ckwHoItVMJ+roBSkiDxOeMHCzVsnkC7q6GKWNUGTZyA==;LhtvSpn/7bBj332HnSRSmw=="
+secured: "w2+McEfVBSCzKKJYEmQawSXCPUpFmSo8XtlM8zxz02ezKhq+ylC1oOGnHbg6AGgjKrZoJiPmQs54u4b9AZYG1JZWV5zFhx9FP7tyRiUbTKyBTQNPH1nzIlDLPfLAzu+U+EYY70zAg9dlPH/G6vBceo0W/yeXSSuYp0hahUIVT4ekz7ZggqxnypujLtINnWHIfHvIWM4HGrzTaTEMRQ4DZ466W05SKWFWeQrBIVXAPPKUyJfW1xeG97QmdWhXbvoYImMnpGWCwGSg71UAtfW8wP5adaLQbMX4j+FNOtM35csHsYmn1tB2wBFkBN4PaLSNfB2wnMdA+S+CUl+6MOw+hYIoKloSkREJcPAYEIDYUeB3hwqb1WrjNqReGeBNkiqH;1LdEk+tWyIfc01Vks5K+Rw=="
 ---
 
