@@ -17,7 +17,7 @@
         "domain": "youtube.com"
       },
       "publishedDateTime": "2020-12-01T21:00:59-08:00",
-      "heat": 131,
+      "heat": 81,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/AJokCht9IeI/maxresdefault.jpg",
@@ -546,8 +546,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-measures/",
           "length": "PT13M",
           "ratings": {
-            "count": 202,
-            "average": 4.7029705
+            "count": 203,
+            "average": 4.7044334
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -609,8 +609,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 14479,
-        "average": 4.699772
+        "count": 14481,
+        "average": 4.6998134
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -666,7 +666,7 @@
         ]
       },
       "publishedDateTime": "2018-04-25T08:52:10-07:00",
-      "heat": 63,
+      "heat": 64,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/0m-PCX1uCG4/maxresdefault.jpg",

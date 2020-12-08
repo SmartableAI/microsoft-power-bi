@@ -73,6 +73,44 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-power-bi-tips-from-the-pros-live-oct-3-2020-member-chat-2nd-half.md",
+      "title": "🔴 Power BI tips from the Pros - LIVE (Oct 3, 2020) (Member Chat 2nd Half)",
+      "excerpt": "Join us live as we answer your questions about Power BI!  💥 30 minutes: Open Q&A (Public) 💥 Then... Members Only Chat (Public can watch & Super Chat for Questions)  📢 RULES FOR Q&A: 📢  👉 Put a \"Q:\" in front of your comment to help us identify questions! 👉 Super chats take priority 👉 Do NOT re-post",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-power-bi-tips-from-the-pros-live-oct-3-2020-member-chat-2nd-half/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-power-bi-tips-from-the-pros-live-oct-3-2020-member-chat-2nd-half/",
+      "originalUrl": "https://youtube.com/watch?v=4zsL2qOJ7iI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4zsL2qOJ7iI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H13M54S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-10-03T08:41:13-07:00",
+      "heat": 196,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4zsL2qOJ7iI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-introducing-power-bi-premium-per-user-preview.md",
       "title": "Introducing Power BI Premium Per User (Preview)",
       "excerpt": "Are you curious what Power BI Premium Per User is all about? Adam walks you through how to get it and what it means from a user experience. Take advantage of Power BI Premium features without the Premium capacity price!  Announcement Blog: https://powerbi.microsoft.com/en-us/blog/power-bi-premium-per-user-public-preview-now-available/",
@@ -310,31 +348,23 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-dax-fridays-190-part-3-year-over-year-population-change-in-europe-with-eurostat-api.md",
-      "title": "DAX Fridays #190 - Part 3: Year Over Year population change in Europe with Eurostat API",
-      "excerpt": "In todays video we will calculate YOY population in europe and finalize the report we started on this series.   Link to Previous videos: How Eurostat API works: https://www.youtube.com/watch?v=UwXo1OcwbAg  Build a report based on Eurostat data. We will get total population and population growth and map",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-dax-fridays-190-part-3-year-over-year-population-change-in-europe-with-eurostat-api/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-190-part-3-year-over-year-population-change-in-europe-with-eurostat-api/",
-      "originalUrl": "https://youtube.com/watch?v=rIcs4Mz1umQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rIcs4Mz1umQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M49S",
+      "path": "_learning/videos/absent-data-channel-price-prediction-with-python-and-power-bi.md",
+      "title": "Price Prediction with Python and Power BI",
+      "excerpt": "Learn how to create a machine learning price prediction using Python machine learning linear regression model and a dataset of 54,000 diamonds. This will be ported over to Power BI for a deeper level of interaction.  You can find the files and dataset here: https://github.com/Gaelim/Diamond-Price-Prediction",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/absent-data-channel-price-prediction-with-python-and-power-bi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/absent-data-channel-price-prediction-with-python-and-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=IP76UJ4nZ70",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IP76UJ4nZ70\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M10S",
       "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Absent Data Channel",
+        "domain": "absentdata.com"
       },
-      "publishedDateTime": "2020-10-30T04:24:15-07:00",
+      "publishedDateTime": "2020-10-24T12:32:46-07:00",
       "heat": 133,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/rIcs4Mz1umQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/IP76UJ4nZ70/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -344,98 +374,27 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "DAX"
+        "Power BI"
       ]
     },
     {
-      "path": "_learning/videos/curbal-2-things-you-should-always-do-in-power-query.md",
-      "title": "2 things you should always do in Power Query",
-      "excerpt": "Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1\r \r Our PLAYLISTS:\r - Join our DAX Fridays! Series: https://goo.gl/FtUWUX\r - Power BI dashboards",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-2-things-you-should-always-do-in-power-query/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-2-things-you-should-always-do-in-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=2lYl5iuDg5k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2lYl5iuDg5k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M22S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-09-30T02:50:46-07:00",
-      "heat": 132,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2lYl5iuDg5k/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-load-microsoft-dataverse-for-teams-table-data-in-power-bi-desktop.md",
-      "title": "Load Microsoft Dataverse for Teams table data in Power BI Desktop",
-      "excerpt": "Microsoft Dataverse for teams provides us the flexibility to prepare relational database tables. Now, let’s say we want to prepare further reporting based on Dataverse for Teams data. So, how can we do that? How can we load Microsoft Dataverse for Teams table data to Power BI Desktop? You will get to",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/dhruvin-shah-load-microsoft-dataverse-for-teams-table-data-in-power-bi-desktop/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/dhruvin-shah-load-microsoft-dataverse-for-teams-table-data-in-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=AJokCht9IeI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AJokCht9IeI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M28S",
+      "path": "_learning/videos/dhruvin-shah-smart-narrative-visual-as-a-tooltip-in-power-bi.md",
+      "title": "Smart Narrative Visual as a Tooltip in Power BI",
+      "excerpt": "During this session, we will learn how we can use Smart Narrator visual to create interactive, eye-catching, and customizable tooltip. Smart Narrative visual provides us the flexibility to create interactive narrator for our Power BI visualization. During this session, we will use this capability to",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/dhruvin-shah-smart-narrative-visual-as-a-tooltip-in-power-bi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/dhruvin-shah-smart-narrative-visual-as-a-tooltip-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=UlnQXbXdPww",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UlnQXbXdPww\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M51S",
       "provider": {
         "name": "Dhruvin Shah",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2020-12-01T21:00:59-08:00",
-      "heat": 131,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/AJokCht9IeI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-using-charticulator-for-replanting-tree-over-time-in-different-region-of-new-zealand.md",
-      "title": "Using Charticulator  for Replanting tree over Time in Different Region of New Zealand",
-      "excerpt": "In this chart, I have explained how to create a chart that each point of data shows coordination of the New Zealand Regio and in each data point you can see the amount of replanting for each year, I use Charticulator to draw this chart,  the original dataset is from Stat of New Zealand. But I made some",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-using-charticulator-for-replanting-tree-over-time-in-different-region-of-new-zealand/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-using-charticulator-for-replanting-tree-over-time-in-different-region-of-new-zealand/",
-      "originalUrl": "https://youtube.com/watch?v=3EtF4jtvXvE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3EtF4jtvXvE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M44S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-09-14T13:36:42-07:00",
+      "publishedDateTime": "2020-10-15T20:25:17-07:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/3EtF4jtvXvE/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/UlnQXbXdPww/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -474,44 +433,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/6DOUHWlorCE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-power-bi-tips-from-the-pros-live-oct-3-2020-member-chat-2nd-half.md",
-      "title": "🔴 Power BI tips from the Pros - LIVE (Oct 3, 2020) (Member Chat 2nd Half)",
-      "excerpt": "Join us live as we answer your questions about Power BI!  💥 30 minutes: Open Q&A (Public) 💥 Then... Members Only Chat (Public can watch & Super Chat for Questions)  📢 RULES FOR Q&A: 📢  👉 Put a \"Q:\" in front of your comment to help us identify questions! 👉 Super chats take priority 👉 Do NOT re-post",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-power-bi-tips-from-the-pros-live-oct-3-2020-member-chat-2nd-half/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-power-bi-tips-from-the-pros-live-oct-3-2020-member-chat-2nd-half/",
-      "originalUrl": "https://youtube.com/watch?v=4zsL2qOJ7iI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4zsL2qOJ7iI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H13M54S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-10-03T08:41:13-07:00",
-      "heat": 116,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/4zsL2qOJ7iI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -679,6 +600,45 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-what-is-power-bi.md",
+      "title": "What is Power BI?",
+      "excerpt": "In this video, Adam looks at what is Power BI. While people may see bits and pieces of Power BI, they may not understand holistically what Power BI is. From Power BI Desktop to the Power BI service and the mobile app, Power BI is a full suite of tools for your visualization and reporting needs.  Power",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-what-is-power-bi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-what-is-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=7iUqMA2Y6xA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7iUqMA2Y6xA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M8S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-04-10T09:10:23-07:00",
+      "heat": 92,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7iUqMA2Y6xA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "What is Power BI?",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/collections/guy-in-a-cube-getting-started-with-power-bi.md",
       "title": "Getting Started with Power BI",
       "excerpt": "These videos will help you with getting started with Power BI. From Power BI Desktop to the Power BI service and items in between, this is a great way to get started.",
@@ -719,7 +679,7 @@
             ]
           },
           "publishedDateTime": "2018-04-10T09:10:23-07:00",
-          "heat": 90,
+          "heat": 92,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/7iUqMA2Y6xA/maxresdefault.jpg",
@@ -797,7 +757,7 @@
             ]
           },
           "publishedDateTime": "2018-03-20T08:10:00-07:00",
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/QiwxT9ndefY/maxresdefault.jpg",
@@ -911,45 +871,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-what-is-power-bi.md",
-      "title": "What is Power BI?",
-      "excerpt": "In this video, Adam looks at what is Power BI. While people may see bits and pieces of Power BI, they may not understand holistically what Power BI is. From Power BI Desktop to the Power BI service and the mobile app, Power BI is a full suite of tools for your visualization and reporting needs.  Power",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-what-is-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-what-is-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=7iUqMA2Y6xA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7iUqMA2Y6xA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M8S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-04-10T09:10:23-07:00",
-      "heat": 90,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/7iUqMA2Y6xA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "What is Power BI?",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-power-bi-case-too-many-rows-from-a-dax-statement.md",
       "title": "Power BI Case: Too many rows from a DAX Statement",
       "excerpt": "Too many rows? How is that possible? Patrick looks at a case where a customer hit an error of too many rows coming back from a DAX statement in Power BI.   📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next level? We have training",
@@ -1019,8 +940,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 6126,
-            "average": 4.7726088
+            "count": 6128,
+            "average": 4.7725196
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1061,8 +982,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 22697,
-            "average": 4.7406707
+            "count": 22702,
+            "average": 4.7406836
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1121,8 +1042,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 22697,
-        "average": 4.7406707
+        "count": 22702,
+        "average": 4.7406836
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1163,8 +1084,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 6126,
-        "average": 4.7726088
+        "count": 6128,
+        "average": 4.7725196
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1322,6 +1243,67 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/hlX0PAsG5XU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-load-microsoft-dataverse-for-teams-table-data-in-power-bi-desktop.md",
+      "title": "Load Microsoft Dataverse for Teams table data in Power BI Desktop",
+      "excerpt": "Microsoft Dataverse for teams provides us the flexibility to prepare relational database tables. Now, let’s say we want to prepare further reporting based on Dataverse for Teams data. So, how can we do that? How can we load Microsoft Dataverse for Teams table data to Power BI Desktop? You will get to",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/dhruvin-shah-load-microsoft-dataverse-for-teams-table-data-in-power-bi-desktop/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/dhruvin-shah-load-microsoft-dataverse-for-teams-table-data-in-power-bi-desktop/",
+      "originalUrl": "https://youtube.com/watch?v=AJokCht9IeI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AJokCht9IeI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M28S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-12-01T21:00:59-08:00",
+      "heat": 81,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/AJokCht9IeI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-new-field-icons-in-power-bi.md",
+      "title": "New Field Icons in Power BI",
+      "excerpt": "We can see different icons for our Power BI Fields. Had we ever tried to understand what's the meaning of each icon? Here's an answer. During this video, we will see new Field icons introduced in Power BI Desktop. Microsoft rolled out these new icons with the November 2020 Power BI Desktop update. Here,",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/dhruvin-shah-new-field-icons-in-power-bi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/dhruvin-shah-new-field-icons-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=YJZOHHfJYKw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YJZOHHfJYKw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M46S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-11-25T19:02:32-08:00",
+      "heat": 81,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/YJZOHHfJYKw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

@@ -4,36 +4,6 @@
   "page": 29,
   "value": [
     {
-      "path": "_learning/videos/dhruvin-shah-anomaly-detection-in-power-bi.md",
-      "title": "Anomaly Detection in Power BI",
-      "excerpt": "During this video, we will be talking about one of the interesting features of Power BI which is Anomaly Detection. We will be talking everything about Anomaly Detection in Power BI in detail with the help of an example. Anomaly detection helps us to enhance our line charts by automatically detecting",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/dhruvin-shah-anomaly-detection-in-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/dhruvin-shah-anomaly-detection-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=MD5eQBbRASw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MD5eQBbRASw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M43S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-11-18T10:49:51-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/MD5eQBbRASw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/dhruvin-shah-automate-installation-of-power-bi-gateway-using-powershell.md",
       "title": "Automate Installation of Power BI Gateway Using PowerShell",
       "excerpt": "In this session, we will install the Power BI Gateway Using PowerShell. Here we will talk about how we can automate Gateway installation using PowerShell.  The Process is very simple and easy. • First, we need to install Windows PowerShell 7.0  • After that, we need to download and Install the Gateway",
@@ -900,6 +870,37 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/sz7yW06scgk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/enterprise-dna-filter-context-19-ultimate-beginners-guide-to-dax-2019.md",
+      "title": "Filter Context - (1.9) Ultimate Beginners Guide to DAX 2019",
+      "excerpt": "Follow along to the beginners guide DAX tutorials by using the demo data available for download. Enjoy!  ***** Video Details ***** 1:15 understanding filter context  2:41 using aggregation  3:31 associating filter context with aggregation  ***** Learning Power BI? ***** FREE COURSE - Ultimate Beginners",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/enterprise-dna-filter-context-19-ultimate-beginners-guide-to-dax-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/enterprise-dna-filter-context-19-ultimate-beginners-guide-to-dax-2019/",
+      "originalUrl": "https://youtube.com/watch?v=v7IbV_XVKXI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/v7IbV_XVKXI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M28S",
+      "provider": {
+        "name": "Enterprise DNA",
+        "domain": "enterprisedna.co"
+      },
+      "publishedDateTime": "2018-03-05T19:22:17-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/v7IbV_XVKXI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
