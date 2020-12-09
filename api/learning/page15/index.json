@@ -965,8 +965,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-analyze-dynamics-365-data/",
       "length": "PT57M",
       "ratings": {
-        "count": 2186,
-        "average": 4.7031107
+        "count": 2187,
+        "average": 4.702332
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1007,8 +1007,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
       "length": "PT9M",
       "ratings": {
-        "count": 480,
-        "average": 4.741667
+        "count": 481,
+        "average": 4.7422037
       },
       "provider": {
         "name": "Microsoft Learn",
