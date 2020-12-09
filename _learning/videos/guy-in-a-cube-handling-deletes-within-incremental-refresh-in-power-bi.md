@@ -2,6 +2,7 @@
 title: "Handling deletes within Incremental Refresh in Power BI"
 excerpt: "Are you using Incremental Refresh in Power BI? Are you stuck with how to handle deletes? Patrick has a great technique you can use to not only handle deletes, but also more easily handle updates with your partitions.  Download sample: https://guyinacu.be/handledeletessample  📢 Become a member: https://guyinacu.be/membership"
 originalUrl: https://youtube.com/watch?v=nKVrl0ec6uE
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-handling-deletes-within-incremental-refresh-in-power-bi/
 type: video
 price: Free
 length: PT7M26S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "mABSHFcE9bywXbmD26N7j9i3ZyAZo7Gh12s78Esz6AQZTz7ECHsnNv/9y8+/Avbm5MHIxyRtTdvM9/dYbdqkpJnY112mYKTgnB0tDMPPhPUad+AdtkXAWo8uVcRMpyDVVhepDC61ito8NJMhUItPnC3PlH/+qzUVSSXecUcUAvP+nzTqmE288KAqmloB6BDmxxjgoweYa2hQf64Itt6AljqKMi46mwdizsqhDTx4mSdDpYZLzU2yee9Ky7BXM98xW6IUjNgqU8W/y6niKmnjpl15DPVbZoDluHKFZdW+n3C/8zh725p9sBcuEA6IVdf/Bzoug5t54P9zx4uzIDPomQA9X4eheN80n3srQFYnq7zoo19sputC3sD15PywJcb2bqL0HrkWmEpO4F/jaakfMw==;IiHgZfQPGgUCOsinyuKQAA=="
+secured: "NHtu/5QOz5EuCkPhvr3iPMPsKUs4l87LxsAx/lXlnK/CSOF87oGJPPceziQsZNToglVNIP+M76IjIFRBYJAHtp50BMP/nhx68hc7WTBsW+WLCZsT8n/60x6x0dZQSeXJXh4JkAkjM+NJR6nwuAMlGhbk58VjikzUjTawa5fDB05eNUduT4zSxf7W1d9GJlMjljnO6lPsp0lfdy49ujgvHVWyOyuqIL4p/fndwy8zX7M6LATWi3o7Z9D6rI4JAj4cGoaX7CrQr5zdOIOowRm9toURq6dkvgRZY++euhYr1y3ARp85LXiRoPdawWYcMVYJnzM9yqe2ONomkscZB90tOuCBNAQlHDLb60E3HvbIF5A7OwB4JzdAb3PGJgS0N4L6h+efaPBipWtspkP7r9lSeQ==;YggB9vSgLtkvzNJPLHl3DQ=="
 ---
 
