@@ -180,6 +180,44 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-why-is-my-power-bi-refresh-so-slow-3-bottlenecks-for-refresh-performance.md",
+      "title": "Why is my Power BI refresh so SLOW?!? 3 Bottlenecks for refresh performance",
+      "excerpt": "It's really frustrating when your Power BI refresh takes too long or times out! Adam breaks down 3 bottlenecks that can slow down your Power BI refresh to help you optimize the performance.  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-why-is-my-power-bi-refresh-so-slow-3-bottlenecks-for-refresh-performance/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-why-is-my-power-bi-refresh-so-slow-3-bottlenecks-for-refresh-performance/",
+      "originalUrl": "https://youtube.com/watch?v=nP-8_st1wWk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nP-8_st1wWk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M9S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-09-17T08:00:24-07:00",
+      "heat": 137,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/nP-8_st1wWk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/radacad-pars-a-json-data-in-a-column-inside-power-query.md",
       "title": "Pars a JSON Data in a Column inside  Power Query",
       "excerpt": "In this short video, I have explained how to pars a column that has JSON data.",
@@ -271,54 +309,31 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-how-to-change-joining-types-in-power-bi-and-power-query.md",
-      "title": "How to Change Joining Types in Power BI and Power Query",
-      "excerpt": "If you are combining tables in Power BI or Excel using Power Query, you might wonder how you change the join or merge type. In this video, I talked about it. Read my blog article to learn more about it; https://radacad.com/how-to-change-joining-types-in-power-bi-and-power-query   *******************",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-how-to-change-joining-types-in-power-bi-and-power-query/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-how-to-change-joining-types-in-power-bi-and-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=bl6AfejSzR8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bl6AfejSzR8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M1S",
+      "path": "_learning/videos/curbal-eurostat-11-get-europes-data-in-power-bi-with-eurostat-api-eu_eurostat.md",
+      "title": "[Eurostat 1/1] Get Europe's data in Power BI with Eurostat API - @EU_Eurostat",
+      "excerpt": "Have you ever wanted to get data about Europe in Power BI to boost your market research? Population in Europe, Age and gender, income levels, employment levels, all this is available for you if you connect to Eurostats API.  In this video I will show you how the API works and in the next we will build",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-eurostat-11-get-europes-data-in-power-bi-with-eurostat-api-eu_eurostat/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-eurostat-11-get-europes-data-in-power-bi-with-eurostat-api-eu_eurostat/",
+      "originalUrl": "https://youtube.com/watch?v=UwXo1OcwbAg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UwXo1OcwbAg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M32S",
       "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2020-10-15T19:03:07-07:00",
+      "publishedDateTime": "2020-10-26T06:21:04-07:00",
       "heat": 131,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/bl6AfejSzR8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-smart-narrative-visual-as-a-tooltip-in-power-bi.md",
-      "title": "Smart Narrative Visual as a Tooltip in Power BI",
-      "excerpt": "During this session, we will learn how we can use Smart Narrator visual to create interactive, eye-catching, and customizable tooltip. Smart Narrative visual provides us the flexibility to create interactive narrator for our Power BI visualization. During this session, we will use this capability to",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/dhruvin-shah-smart-narrative-visual-as-a-tooltip-in-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/dhruvin-shah-smart-narrative-visual-as-a-tooltip-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=UlnQXbXdPww",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UlnQXbXdPww\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M51S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-10-15T20:25:17-07:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/UlnQXbXdPww/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/UwXo1OcwbAg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -332,23 +347,31 @@
       ]
     },
     {
-      "path": "_learning/videos/learn-power-bi-the-missing-step-to-master-power-bi-skip-this-at-your-own-risk-.md",
-      "title": "The Missing Step to Master Power BI (Skip This At Your Own Risk! ☠️)",
-      "excerpt": "How can you master Power BI? Even though there are 1000s of videos and training lessons available for Power BI…you may be still struggling to master Power BI.  It’s possible that you are missing a crucial step in learning Power BI.  In this second part of our video series on “5 Steps to Master Power",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-the-missing-step-to-master-power-bi-skip-this-at-your-own-risk-/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-the-missing-step-to-master-power-bi-skip-this-at-your-own-risk-/",
-      "originalUrl": "https://youtube.com/watch?v=X0-MKaMxUdM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/X0-MKaMxUdM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M",
+      "path": "_learning/videos/guy-in-a-cube-ignite-2020-social-hour-with-bifocal.md",
+      "title": "Ignite 2020 Social Hour with BIFocal",
+      "excerpt": "Join us live as we recap Power BI and Power Platform announcements made at Microsoft Ignite 2020. With special guest, Jason Himmelstein and John White from The BIFocal Show podcast!  Microsoft Ignite 2020: https://myignite.microsoft.com/home  Connect with Jason and John: Twitter: https://twitter.com/jasehimm",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-ignite-2020-social-hour-with-bifocal/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-ignite-2020-social-hour-with-bifocal/",
+      "originalUrl": "https://youtube.com/watch?v=mhr8hfifkgg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mhr8hfifkgg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H11M49S",
       "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2020-10-21T09:00:06-07:00",
+      "publishedDateTime": "2020-09-23T15:51:11-07:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/X0-MKaMxUdM/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/mhr8hfifkgg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -930,8 +953,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 6184,
-            "average": 4.772154
+            "count": 6186,
+            "average": 4.772228
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -972,8 +995,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 22767,
-            "average": 4.740809
+            "count": 22771,
+            "average": 4.7408547
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1032,8 +1055,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 22767,
-        "average": 4.740809
+        "count": 22771,
+        "average": 4.7408547
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1113,8 +1136,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 6184,
-        "average": 4.772154
+        "count": 6186,
+        "average": 4.772228
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1178,8 +1201,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 22767,
-            "average": 4.740809
+            "count": 22771,
+            "average": 4.7408547
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1220,8 +1243,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 14511,
-            "average": 4.699814
+            "count": 14516,
+            "average": 4.699711
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1263,8 +1286,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 5635,
-            "average": 4.7043476
+            "count": 5637,
+            "average": 4.703743
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1305,8 +1328,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 4371,
-            "average": 4.747884
+            "count": 4372,
+            "average": 4.7479415
           },
           "provider": {
             "name": "Microsoft Learn",
