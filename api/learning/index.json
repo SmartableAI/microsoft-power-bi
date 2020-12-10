@@ -180,6 +180,44 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-the-power-bi-smart-narrative-visual-is-insane-amazing.md",
+      "title": "The Power BI Smart Narrative visual is INSANE AMAZING!",
+      "excerpt": "The smart narrative visual can help tell the story in your Power BI report. Justyna Lucznik joins us to explore the visual and to illustrate how you can generate text about your data.  Make sure you have the September 2020 version of Power BI Desktop, or later.  Documentation: https://docs.microsoft.com/power-bi/visuals/power-bi-visualization-smart-narrative",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-the-power-bi-smart-narrative-visual-is-insane-amazing/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-the-power-bi-smart-narrative-visual-is-insane-amazing/",
+      "originalUrl": "https://youtube.com/watch?v=7d2qMoTPCIM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7d2qMoTPCIM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M45S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-09-30T08:00:04-07:00",
+      "heat": 138,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7d2qMoTPCIM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/learn-power-bi-3-different-ways-power-bi-projects-can-fail-and-how-to-avoid-these-mistakes-talk-power-bi-dec-4.md",
       "title": "3 Different Ways Power BI Projects Can FAIL! (and How to Avoid these Mistakes) 🔴Talk Power BI Dec 4",
       "excerpt": "Power BI Projects may not always be successful. But Failure can be a great teacher! Let's learn from three different stories of Power BI Project \"Failure\" and learn how you can avoid the same mistakes. ★CONNECT WITH OUR SPEAKERS★ ➔ Avi Singh: https://www.linkedin.com/in/powerbipro ➔ Ian Bowman: https://www.linkedin.com/in/mianbowman/",
@@ -271,14 +309,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-publish-to-web-got-some-awesome-new-updates-in-power-bi.md",
-      "title": "Publish to Web got some awesome new updates in Power BI!",
-      "excerpt": "I know, I know! We talk a lot about using caution with Publish to Web in Power BI. But! Publish to Web got some new updates that are pretty nice! Adam walks you through them.  Blog Announcement: https://powerbi.microsoft.com/blog/updates-to-power-bi-publish-to-web-for-better-public-reporting/  Microsoft",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-publish-to-web-got-some-awesome-new-updates-in-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-publish-to-web-got-some-awesome-new-updates-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=v6CasL09qeo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/v6CasL09qeo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M6S",
+      "path": "_learning/videos/guy-in-a-cube-enable-power-bi-in-microsoft-teams-for-everyone.md",
+      "title": "Enable Power BI in Microsoft Teams for EVERYONE!",
+      "excerpt": "Did you know you can enable the Power BI app, in Microsoft Teams, for everyone? Adam walks through how this can be done with just a few clicks.  App policy documentation: https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies  📢 Become a member: https://guyinacu.be/membership \r \r *******************",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-enable-power-bi-in-microsoft-teams-for-everyone/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-enable-power-bi-in-microsoft-teams-for-everyone/",
+      "originalUrl": "https://youtube.com/watch?v=7n4yhBw6JZI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7n4yhBw6JZI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M48S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -291,11 +329,11 @@
           }
         ]
       },
-      "publishedDateTime": "2020-11-05T08:00:21-08:00",
-      "heat": 131,
+      "publishedDateTime": "2020-10-29T08:00:04-07:00",
+      "heat": 133,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/v6CasL09qeo/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/7n4yhBw6JZI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -347,23 +385,31 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-create-map-style-nested-chart.md",
-      "title": "Create Map Style nested Chart",
-      "excerpt": "In this short video, I have shown how to create a map style chart with a bar chart or packed scatter chart  or using images",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-create-map-style-nested-chart/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-create-map-style-nested-chart/",
-      "originalUrl": "https://youtube.com/watch?v=DyVGpdUaELY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DyVGpdUaELY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M13S",
+      "path": "_learning/videos/guy-in-a-cube-ignite-2020-social-hour-with-bifocal.md",
+      "title": "Ignite 2020 Social Hour with BIFocal",
+      "excerpt": "Join us live as we recap Power BI and Power Platform announcements made at Microsoft Ignite 2020. With special guest, Jason Himmelstein and John White from The BIFocal Show podcast!  Microsoft Ignite 2020: https://myignite.microsoft.com/home  Connect with Jason and John: Twitter: https://twitter.com/jasehimm",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-ignite-2020-social-hour-with-bifocal/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-ignite-2020-social-hour-with-bifocal/",
+      "originalUrl": "https://youtube.com/watch?v=mhr8hfifkgg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mhr8hfifkgg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H11M49S",
       "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2020-10-07T15:27:04-07:00",
+      "publishedDateTime": "2020-09-23T15:51:11-07:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/DyVGpdUaELY/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/mhr8hfifkgg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -374,37 +420,6 @@
       "price": "Free",
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-left-outer-join-what-it-is-and-how-to-use-it-in-power-bi-and-power-query.md",
-      "title": "Left Outer Join   What it is and how to use it in Power BI and Power Query",
-      "excerpt": "Merging two tables is one of the fundamental operations in any BI or database system. In this video, you will learn what is LEFT JOIN and how you can apply it using Power Query and Power BI. To learn more about it, read my blog here: https://radacad.com/choose-the-right-merge-join-type-in-power-bi  *******************",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-left-outer-join-what-it-is-and-how-to-use-it-in-power-bi-and-power-query/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-left-outer-join-what-it-is-and-how-to-use-it-in-power-bi-and-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=NXaK6aCouoY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NXaK6aCouoY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M33S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-11-03T14:25:55-08:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/NXaK6aCouoY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
       ]
     },
     {
@@ -1019,8 +1034,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 22754,
-            "average": 4.740705
+            "count": 22756,
+            "average": 4.7406836
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1079,8 +1094,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 22754,
-        "average": 4.740705
+        "count": 22756,
+        "average": 4.7406836
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1255,8 +1270,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 22754,
-            "average": 4.740705
+            "count": 22756,
+            "average": 4.7406836
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1297,8 +1312,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 14506,
-            "average": 4.6997795
+            "count": 14508,
+            "average": 4.699752
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1340,8 +1355,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 5631,
-            "average": 4.704138
+            "count": 5633,
+            "average": 4.7042427
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1382,8 +1397,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 4368,
-            "average": 4.7479396
+            "count": 4370,
+            "average": 4.747826
           },
           "provider": {
             "name": "Microsoft Learn",
