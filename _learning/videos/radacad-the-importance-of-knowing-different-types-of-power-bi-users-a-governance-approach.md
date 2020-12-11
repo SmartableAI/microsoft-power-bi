@@ -2,6 +2,7 @@
 title: "The importance of knowing different types of Power BI users; a governance approach"
 excerpt: "Power BI users are not all in the same category. If you treat everyone the same, then you wouldn't have a successful Power BI adoption. You would likely spend too much on the training and gain much less of adoption. In this video, I'll explain what are the different types of users and what are proper"
 originalUrl: https://youtube.com/watch?v=3jxfg9kiz-w
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/radacad-the-importance-of-knowing-different-types-of-power-bi-users-a-governance-approach/
 type: video
 price: Free
 length: PT10M29S
@@ -23,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "MToGH0km97HHfCYbtEJ3PODi+e0Hj6HHwEAWwWEt0NFAXO3ELE+DtSxd7HWrojuWHAg61QB4TVqh1La7hKMuQ2Iy59qP+oPTZaueIhUT1zircIpD1/vmPiggg+u289dp+5ZVX+Q7oXhBlzHqO42WsJUpaPtpvA9WW7zZ3zKPDdAxuv29V9GvZw1WHDsFC8GOVHCF+pOmoHbs4fQuxOcjshDO5hvHFvo56ogO8E8VaI4Jm8+44fydN+yudfS7CkjgqkJ5+Y6cU8TRx0279QCeRMsznPpUtQX4//BWp8q6/NIZkQoAetc0wRkAnEAifjZjKHtOpdvjAQPu70cOnmsk+3KHTFs+0hruwgGjyIRvU4LojCurGtTFp0lXqFJ/UJibUjukb/8I/1Xd6i8uRyGMaQ==;VDhWlorkbt3Ix/szTHwbbQ=="
+secured: "+Z6DyULo1d23zoiRK1Bt4d8nGCPXVKdlKgKwrIOwqleXZyyGS/+IzYyHPSs8NFA9fHs+bVASjNmhVVhnEsZXhtYhFzHOVEMZ2Uhpye7sgTOChIKHZpE0WfhusqYwLXE481ERbGAgw2/pYJln0TVDs2QfRh0A9DLtiyI5Ho3b4vc2Lq1FUEYQKORdK7/k4Ew44Jqkh4RBETsGYrdW3lCVFr3u5Fil11oEayJSEBd3CcTdDw9f5eBwg3qVq1a6ArM1Kb6XQpaqyTtbGNLeWfhb/SqewE+2zusSHORf9GwJ6IleWu+4fVGZVKYPqm0PsuiLY7JWrP/0AMZL9mvhSXya/WT7kxPJNz/1jdinD5/XS0ekt9zcBZBJT3HKMsTS8b+2;Nw+sQ0jkrPgOGkZuDcg5BA=="
 ---
 
