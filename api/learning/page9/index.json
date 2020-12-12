@@ -1067,8 +1067,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 614,
-            "average": 4.6726384
+            "count": 615,
+            "average": 4.6731706
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1234,8 +1234,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 498,
-            "average": 4.751004
+            "count": 499,
+            "average": 4.749499
           },
           "provider": {
             "name": "Microsoft Learn",
