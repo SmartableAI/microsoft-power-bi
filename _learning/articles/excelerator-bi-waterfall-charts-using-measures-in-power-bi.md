@@ -4,7 +4,7 @@ excerpt: "Waterfall charts provide a great way for users to visualise how pieces
 webUrl: https://exceleratorbi.com.au/waterfall-charts-using-measures-power-bi/
 type: article
 publishedDateTime: 2020-09-30T22:28:28Z
-heat: 50
+heat: 130
 
 provider:
   name: Excelerator BI
