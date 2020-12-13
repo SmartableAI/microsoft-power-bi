@@ -42,8 +42,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 14558,
-        "average": 4.7000275
+        "count": 14559,
+        "average": 4.6999793
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -887,8 +887,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-time-intelligence/",
       "length": "PT19M",
       "ratings": {
-        "count": 198,
-        "average": 4.712121
+        "count": 199,
+        "average": 4.7135677
       },
       "provider": {
         "name": "Microsoft Learn",
