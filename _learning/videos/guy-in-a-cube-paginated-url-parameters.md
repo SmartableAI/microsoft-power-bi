@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT17M57S
 publishedDateTime: 2019-09-16T02:11:58Z
-heat: 53
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KYfhclGrI48\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "CM+q7+x7Llc+j3hvXXH1u9PiIR/IyZuGv94z2heTpdBKF3JRjva8cDG/u2NjN5qH6VENo7K7UzKtSJ9zrtffiZVgdRaLABIE6RpuNHQ4pxL1dNf6MxJ07t9eIlHQiokA5uoGA7uIvZqtcwRatH2osDH+J2mj7S188X/MFLpJmZhqwqDks5izEM3Lph70KArY8cVre/nRzRDHXmGMzD+PkV4Zy+zDMr5ZaFYen1NJIxaUsXeRE5oK7Xg+4WrfFNXM/N5alWIkRDzEbXUuO/bdwxuqYrV+o9Enb1dB5O77XcZ0zIMSPTDW997Me4VbqimRmTZRIDrLkR75lZbgQIfvRe6RsBE5NpP5ez+xBR4Kgj3LUwJ/3jeIRCVkSsg7TxAttUElNHGKWxfCtlhhCpQrCdTcUP2dTkoLCx5AsMTe/bE=;QlXF/ifKzDNxg5WRcBqoZA=="
+secured: "Sexia+63fv25c5aCnY5wTEeYDCnHxf/l0hapjD4u3By40c3E7fe1A8laxUWtbNgqsvZEXbt8BYT7XGQrEIpaCflzZcofmRvlecomVTk23740cRNnnaPxAy0sVP+I39PBiHHaEJiXRqsHcqcdwVkvF1hxnKgVYC/hzbgTg2I31wjsxcngF0bTu2UlYzg/qpKPLmT116xaimWiLOO0O/8olV0YU3156aBiSkRy6UBgh2RaUJyW7wGHG3SC4uPWRgxMuTTaEgggn55JvBZZNc/rp181zN6EwgdkhIL5KJzLX+j8DPrecoAOTqI2YJzM2UJO9U7Xj5AbEoTwsaASOdqSQwzxock3l3uBnJ+w0OOQiSMX/++fM9gymxRcxx27Pf7Y5SkC3LfTBt6QwlkJ5V4O26dI7t1xkLFzDkW+qTMtk9Y=;TFFuOYqrNsYQ87WqdmLbaA=="
 ---
 
