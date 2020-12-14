@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT8M31S
 publishedDateTime: 2020-01-03T07:52:57Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uxMlV9KKf6E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "ZVg24s7AbJdp5QgkL8vLQt0GJ5q7x4enzUGpSoemPUiaqwz2m3KvZu6IyCPqOAuROqzU7zJp421CzVaEpb8hj50omb4Py3lNNIzc7ZsU9qSPTxt6lnrc+F8w+ZsoXcDow3RqYiownhFafvDpBDpQBRoyiR0PYo8TKWqdvRjVxx/o+klGvSUIxlmLbWyJFNNzQF5vulFt/16C+hvOK+4VrGejs8nk9CDMcvaLjT6hIO0133aYTVsDjSEQoItzlvIkj+UV995JeO5brO+3HukDzOkGxLVCCNST8oadmgrpW+Ua5JbnXzGgRsv/z2KGM/tvwKyWerR7RgHyvR2VvqimMcrd9TTAXd6NZ4Q8yK9B74j7agbZM6R/WSE3Vu96a/nLtDe9BwbT63VQotO3ukpyO+u6vtHKGT4/dW1gcuK5sAU=;olPiBS5Vd49Ljy5tQvnmuA=="
+secured: "2uSF//niYONNkayakKIGdl/HswudIgz/egc1zsoGeEHEq2xXnplf5T/HBUU4GBiQuNivN20qMLgHyttpggdT5D7mhmJDaKKVi4AVg/KDECaYRF1jQC+w9k65Jau1YyzBYgw+PBZvraRoGSyhUeMsAudxlNBDQs4M4KvO/H8C88sh+9E3JWJQ/9zoTEOtgKA0q0HybJkajAFpTwgW9EPeKrFmkT9iYpYQQtyDj7nrXrosYt+soByAF6C34zaIfCmLZvSJNxoMoYGfuJ5JtDkGn0apuQy6nXTuOxiRjQZEpQqU+VLyLlipYBdErucWjd77b5bpczy+ckbNvtaNA08DE5Wsc1qUCccrNLZ2mP5er5fxfb1j1YFnYVorhPZd2MN2XtTL0iYulm7JFTvTJBNEYvB4//ul1dSCgLe2/cjS6yg=;77IZPsyh2EYD6rWQCdARPQ=="
 ---
 

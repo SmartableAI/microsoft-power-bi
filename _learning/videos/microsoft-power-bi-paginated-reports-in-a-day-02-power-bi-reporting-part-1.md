@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT6M22S
 publishedDateTime: 2020-03-18T03:00:21Z
-heat: 53
+heat: 57
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/s6Amctk3Z_g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Power BI Paginated Reports in a Day - 02: Power BI Reporting - Part 1"
 
-secured: "TOJObMEinn2hk44Vr2mBUnVxTU4axgvquPucN4InlMkcABQjcWO3H8+DkNXMFRGVoZfLyz6kdUG8bTkNXyCFupjtHm3SDVmCIanBjxZQNzHGrY0CtPFeY/XakiEBw913IJb1uuF3sDBeskNOB+b1BzuuxppIPue7ntyUconort32C0P/G1h/V+lYX5ZzlUVjSNxP1TLhiOLbQlVM3cDUHA+fyJng6HMDQh53kwZda0rTfWaTq8BYsFscrc4S0x/cM8eitQ8cFc7YAb7zHdpgf2FXafRjEBuzIBnYuJIQy3wLl3jciP9KMOCk/nCNV1v9rdIIYjcEzk6uhKob6VkL0WPa9+EbHYfR9FmkIw9W3ygX0eLmqjUND29ee6c7OW586aOGyr29Z+md+NCIIpVfh/XM48tBrtQwfhADnwVGXzM=;WWhE9HadtDMSdedhaWHVKQ=="
+secured: "fZHxKAKftmLSVWf/n7jN2bia4+ytNhMgKnXd5r44u+cGgWOyrIe8hzP8c0Xoue14gjlqyvCooUSfjqGAfC0iwvgFQa1UQh5esijGquuKkHIqYJV3jSI2nOvIWWr8uEq9Ni4Js8UZHHA/gd6HlubsSZCXmWtrhE43V7r07VCAWQasddSW17BtXVclcCDYUWU3FTgTu9c2jVfbx7Ug7yLJcox4KaC56+W24xb0Mc6FqwMirR2ZExUJf0bVS4kKw7rzqCWsSnFQcdEk2h8ylhYDhQVWQBNC9sB4yfNhGOtN8a/P1nORfnlE4q/XRjzPT9HE9Ukeyq5+JwDCf0zJ/K/qeWn1FzZnaGy05SKtKaCXCbTJJPs0+rIGyVyCwnbdNSwyazw3MZeqI/TGriJupRleomKD5UmEW0XYWdstP0+ELsk=;Z1Qgi/fH6dYcv2lZ/Y4OZw=="
 ---
 
