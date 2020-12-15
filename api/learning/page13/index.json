@@ -512,8 +512,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 616,
-            "average": 4.6525974
+            "count": 617,
+            "average": 4.6531606
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -774,8 +774,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 1011,
-        "average": 4.6973295
+        "count": 1012,
+        "average": 4.6976285
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -861,8 +861,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
       "length": "PT32M",
       "ratings": {
-        "count": 393,
-        "average": 4.6412215
+        "count": 394,
+        "average": 4.642132
       },
       "provider": {
         "name": "Microsoft Learn",
