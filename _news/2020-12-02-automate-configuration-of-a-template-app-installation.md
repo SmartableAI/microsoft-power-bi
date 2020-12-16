@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/automate-configuration-of
 webUrl: "https://powerbi.microsoft.com/en-us/blog/automate-configuration-of-a-template-app-installation/"
 type: article
 quality: 72
-heat: 73
+heat: 72
 published: true
 
 provider:
