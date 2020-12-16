@@ -1,0 +1,1402 @@
+---
+title: "Power BI Smartable (2020-12-16)"
+excerpt: "Announcing Microsoft Information Protection Sensitivity Labels in Power BI Desktop (Public Preview) / Introducing Power BI Premium Gen2 / Change field types in one step in Power Query"
+publishedDateTime: 2020-12-16T13:07:51Z
+webUrl: "https://smartable.ai/apps/powerbi/newsletter/power-bi-smartable-2020-12-16/"
+type: article
+
+topics:
+  - Power BI
+
+---
+<html>
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="x-apple-disable-message-reformatting">
+  <meta name="format-detection" content="telephone=no,address=no,email=no,date=no,url=no">
+  <title>Power BI Smartable (2020-12-16)</title>
+  <meta name="description" content="Announcing Microsoft Information Protection Sensitivity Labels in Power BI Desktop (Public Preview) / Introducing Power BI Premium Gen2 / Change field types in one step in Power Query">
+  <!--[if mso]>
+    <style>
+        * {
+            font-family: sans-serif !important;
+        }
+    </style>
+  <![endif]-->
+  <!--[if !mso]><!-->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i&amp;display=swap" rel="stylesheet"
+    type="text/css">
+  <!--<![endif]-->
+  <style>
+    html,
+    body {
+      margin: 0 auto !important;
+      padding: 0 !important;
+      height: 100% !important;
+      width: 100% !important;
+    }
+
+    * {
+      -ms-text-size-adjust: 100%;
+      -webkit-text-size-adjust: 100%;
+    }
+
+    div[style*="margin: 16px 0"] {
+      margin: 0 !important;
+    }
+
+    table,
+    td {
+      mso-table-lspace: 0pt !important;
+      mso-table-rspace: 0pt !important;
+    }
+
+    table {
+      border-spacing: 0 !important;
+      border-collapse: collapse !important;
+      table-layout: fixed !important;
+      margin: 0 auto !important;
+    }
+
+    img {
+      -ms-interpolation-mode: bicubic;
+    }
+
+    a[x-apple-data-detectors] {
+      border-bottom: 0 !important;
+      cursor: default !important;
+      color: inherit !important;
+      text-decoration: none !important;
+      font-size: inherit !important;
+      font-family: inherit !important;
+      font-weight: inherit !important;
+      line-height: inherit !important;
+    }
+
+    .im {
+      color: #180b01 !important;
+    }
+
+    @media only screen and (min-device-width: 320px) and (max-device-width: 374px) {
+      u~div .newsletter-content {
+        min-width: 320px !important;
+      }
+    }
+
+    @media only screen and (min-device-width: 375px) and (max-device-width: 413px) {
+      u~div .newsletter-content {
+        min-width: 375px !important;
+      }
+    }
+
+    @media only screen and (min-device-width: 414px) {
+      u~div .newsletter-content {
+        min-width: 414px !important;
+      }
+    }
+  </style>
+
+  <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:AllowPNG/>
+            <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+    </xml>
+  <![endif]-->
+
+  <style>
+    @media screen and (max-width: 680px) {
+      a {
+        color: {link_color} !important;
+        text-decoration: none !important;
+      }
+
+      .logo {
+        max-width: 80% !important;
+        height: auto !important;
+        max-height: 43px !important;
+      }
+
+      .story-title p {
+        margin: 0 !important;
+      }
+
+      .sm-px-none {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+      }
+
+      .sm-p {
+        padding: 20px !important;
+      }
+
+      .sm-pt {
+        padding-top: 20px !important;
+      }
+
+      .sm-px10 {
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+      }
+
+      .markets {
+        width: 100%;
+        border: 0;
+      }
+
+      .markets td {
+        border-bottom: 1px solid #e6d1c6;
+        padding: 10px 0;
+      }
+
+      .text-left {
+        text-align: left !important;
+      }
+
+      .copyright-area p,
+      .date-area p {
+        text-align: center !important;
+      }
+    }
+  </style>
+  <style>
+    @media only screen and (min-width: 681px) {
+      .template-button {
+        background-color: #F2C811 !important;
+        border-radius: 5px !important;
+        font-weight: 700 !important;
+        text-transform: uppercase !important;
+        letter-spacing: 1px !important;
+        padding: 12px 10px !important;
+        color: #fff !important;
+        Margin-left: 0px !important;
+        font-size: 12px !important;
+        line-height: 12px !important;
+        text-decoration: none !important;
+      }
+
+      a {
+        color: {link_color} !important;
+        text-decoration: none !important;
+      }
+
+      .copyright-area p,
+      .date-area p {
+        text-align: left !important;
+      }
+
+      .text-left {
+        text-align: left !important;
+      }
+
+      .story-body p {
+        margin-top: 0 !important;
+      }
+
+      .story-title p {
+        margin: 0 !important;
+      }
+
+      .area-share,
+      .area-content,
+      .ad-image,
+      .social-area,
+      .copyright-area,
+      .date-area,
+      .hidden-area,
+      .network-area {
+        display: table-cell;
+        vertical-align: top;
+      }
+
+      .area-share {
+        width: 55px;
+      }
+
+      .area-content {
+        width: 585px;
+      }
+
+      .network-area {
+        width: 310px;
+      }
+
+      .hidden-area,
+      .date-area {
+        width: 165px;
+      }
+
+      .copyright-area,
+      .social-area {
+        width: 320px;
+      }
+
+      .template-button {
+        color: #FFF !important;
+      }
+
+      .markets {
+        width: 100%;
+        border: 0;
+      }
+
+      .markets td {
+        border-bottom: 1px solid #e6d1c6;
+        padding: 10px 0;
+      }
+    }
+  </style>
+</head>
+
+<body style="margin: 0; padding: 0 !important; mso-line-height-rule: exactly; line-height: .8;" id="body">
+  <center style="width: 100%;">
+    <!--[if mso]>
+    <table role="presentation" border="0" cellpadding="0" cellspacing="0" style="width:100%;">
+    <tr>
+    <td>
+    <![endif]-->
+
+    <!--Header-->
+    <table role="presentation" cellspacing="0" cellpadding="0" border="0"
+      style="background-color: #0A0300; width: 100%;">
+      <tr>
+        <td align="ccenter">
+          <div style="font-size: 0; max-width: 640px; margin: 0 auto; line-height: 2;" class="newsletter-content">
+          <!--[if mso]>
+          <table role="presentation" border="0" cellspacing="0" cellpadding="0" style="width: 640px; margin: 0 auto;" align="center">
+          <tr>
+          <td align="center" style="vertical-align: middle; width: 165px; height: 50px; margin: 0 auto;">
+          <![endif]-->
+            <div class="hidden-area"></div>
+          <!--[if mso]>
+          </td>
+          <td align="center" style="vertical-align: middle; width: 310px; height: 50px; margin: 0 auto;">
+          <![endif]-->
+            <div class="network-area">
+              <table role="presentation" cellspacing="0" cellpadding="0" border="0" style="width: 100%; height: 50px;">
+                <tr>
+                  <td>
+                    <p
+                      style="color: #F2C811; text-align: center; text-transform: uppercase; font-size: 12px; letter-spacing: 1px; font-family: Open Sans, Segoe UI, sans-serif;">
+                      Part of Smartable Network</p>
+                  </td>
+                </tr>
+              </table>
+            </div>
+
+            <!--[if mso]>
+                </td>
+                <td align="right" style="vertical-align: middle; width: 165px; height: 50px; margin: right;">
+                <![endif]-->
+
+            <div class="date-area">
+              <table role="presentation" cellspacing="0" cellpadding="0" border="0" style="width: 100%; height: 50px;">
+                <tr>
+                  <td>
+                    <p
+                      style="font-size: 12px; text-align: center; color: #FFFFFF; text-transform: uppercase; letter-spacing: 1px; font-family: Open Sans, Segoe UI, sans-serif;">
+                      <a href="https://smartable.ai/apps/powerbi/newsletter/power-bi-smartable-2020-12-16/" style="text-decoration: none; color: #FFFFFF !important;">2020-12-16</a>
+                    </p>
+                  </td>
+                </tr>
+              </table>
+            </div>
+
+            <!--[if mso]>
+                </td>
+                </tr>
+                </table>
+                <![endif]-->
+          </div>
+        </td>
+      </tr>
+    </table>
+    <!--End of Header-->
+    <!--Content-->
+    <div class="newsletter-content" style="max-width: 680px; margin: 0 auto;">
+      <!--[if mso]>
+            <table role="presentation" cellspacing="0" cellpadding="0" border="0" style="width: 680px; margin: 0 auto;" align="center">
+            <tr>
+            <td>
+            <![endif]-->
+      <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+        <tr>
+          <td style="padding:70px 0 20px;" align="center">
+            <h1 style="text-align:center; margin: 0;">
+              <span style="vertical-align: middle; font-family: Open Sans, Segoe UI, Tahoma, sans-serif; font-size: 28px">Power BI Smartable<br />
+                <a href="https://smartable.ai/apps/powerbi/" style="text-decoration: none;vertical-align: middle; display: table-cell;">
+                  <img alt="Logo" src="https://smartable.azureedge.net/powerbi/sites/12/2020/08/logo-rounded-corners.png" border="0" height="43" style="width: auto;" class="logo">
+                </a>
+              </span>
+            </h1>
+          </td>
+        </tr>
+      </table>
+      <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="max-width: 680px;">
+        <tr>
+    <td style="font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:20px; text-align: center; padding: 30px;">
+        <strong>News of the week</strong>
+    </td>
+</tr><tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #F2C811; width: 35px;">
+                                <a href="https://powerbi.microsoft.com/en-us/blog/announcing-microsoft-information-protection-sensitivity-labels-in-power-bi-desktop-public-preview/"><img alt="" src="https://smartable.azureedge.net/media/2020/08/1-black.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=Announcing+Microsoft+Information+Protection+Sensitivity+Labels+in+Power+BI+Desktop+(Public+Preview) https%3a%2f%2fpowerbi.microsoft.com%2fen-us%2fblog%2fannouncing-microsoft-information-protection-sensitivity-labels-in-power-bi-desktop-public-preview%2f">
+                                    <img alt="" src="https://smartable.azureedge.net/media/2020/08/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fpowerbi.microsoft.com%2fen-us%2fblog%2fannouncing-microsoft-information-protection-sensitivity-labels-in-power-bi-desktop-public-preview%2f">
+                                    <img alt="" src="https://smartable.azureedge.net/media/2020/08/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://powerbi.microsoft.com/en-us/blog/announcing-microsoft-information-protection-sensitivity-labels-in-power-bi-desktop-public-preview/">
+                                    <img alt="" src="https://smartable.azureedge.net/media/2020/08/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                <!--[if gte MSO 9]>
+  <table width="640">
+     <tr>
+        <td>
+<![endif]-->
+  <table width="100%" style="max-width:640px;">
+    <tr>
+      <td>
+        <a href="https://powerbi.microsoft.com/en-us/blog/announcing-microsoft-information-protection-sensitivity-labels-in-power-bi-desktop-public-preview/"><img src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" width="96%" /></a>
+      </td>
+    </tr>
+  </table>
+<!--[if gte MSO 9]>
+      </td>
+    </tr>
+  </table>
+<![endif]-->
+                                <p><strong>Announcing Microsoft Information Protection Sensitivity Labels in Power BI Desktop (Public Preview)</strong> We are excited to extend Power BI’s sensitivity label capabilities by bringing Microsoft Information Protection sensitivity labels into Power BI Desktop, allowing creators to apply sensitivity labels just as they start building their datasets and reports in Power BI Desktop.</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://powerbi.microsoft.com/en-us/blog/announcing-microsoft-information-protection-sensitivity-labels-in-power-bi-desktop-public-preview/"
+                                    style="color: #BF9C0F; text-decoration: none;">↪ Microsoft
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://smartable.azureedge.net/media/2020/08/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+<tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #F2C811; width: 35px;">
+                                <a href="https://www.neowin.net/news/power-bi-gets-new-admin-apis-and-service-principal-authentication"><img alt="" src="https://smartable.azureedge.net/media/2020/08/2-black.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=Power+BI+gets+new+Admin+APIs+and+Service+Principal+authentication https%3a%2f%2fwww.neowin.net%2fnews%2fpower-bi-gets-new-admin-apis-and-service-principal-authentication">
+                                    <img alt="" src="https://smartable.azureedge.net/media/2020/08/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.neowin.net%2fnews%2fpower-bi-gets-new-admin-apis-and-service-principal-authentication">
+                                    <img alt="" src="https://smartable.azureedge.net/media/2020/08/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://www.neowin.net/news/power-bi-gets-new-admin-apis-and-service-principal-authentication">
+                                    <img alt="" src="https://smartable.azureedge.net/media/2020/08/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                <!--[if gte MSO 9]>
+  <table width="640">
+     <tr>
+        <td>
+<![endif]-->
+  <table width="100%" style="max-width:640px;">
+    <tr>
+      <td>
+        <a href="https://www.neowin.net/news/power-bi-gets-new-admin-apis-and-service-principal-authentication"><img src="https://cdn.neow.in/news/images/uploaded/2019/11/1574779296_powerbi2_story.jpg" width="96%" /></a>
+      </td>
+    </tr>
+  </table>
+<!--[if gte MSO 9]>
+      </td>
+    </tr>
+  </table>
+<![endif]-->
+                                <p><strong>Power BI gets new Admin APIs and Service Principal authentication</strong> The new Admin APIs for Microsoft&#39;s data visualization platform will aim to improve the efficiency and performance of the Power BI scan, in order to help support a higher frequency of data assets.</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://www.neowin.net/news/power-bi-gets-new-admin-apis-and-service-principal-authentication"
+                                    style="color: #BF9C0F; text-decoration: none;">↪ Neowin
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://smartable.azureedge.net/media/2020/08/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+
+<tr>
+    <td style="font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:20px; text-align: center; padding: 30px;">
+        <strong>Learning of the week</strong>
+    </td>
+</tr><tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #F2C811; width: 35px;">
+                                <a href="https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-introducing-power-bi-premium-gen2/"><img alt="" src="https://smartable.azureedge.net/media/2020/08/1-black.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=Introducing+Power+BI+Premium+Gen2 https%3a%2f%2fsmartable.ai%2fapps%2fpowerbi%2flearning%2fvideos%2fguy-in-a-cube-introducing-power-bi-premium-gen2%2f">
+                                    <img alt="" src="https://smartable.azureedge.net/media/2020/08/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fsmartable.ai%2fapps%2fpowerbi%2flearning%2fvideos%2fguy-in-a-cube-introducing-power-bi-premium-gen2%2f">
+                                    <img alt="" src="https://smartable.azureedge.net/media/2020/08/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-introducing-power-bi-premium-gen2/">
+                                    <img alt="" src="https://smartable.azureedge.net/media/2020/08/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                <!--[if gte MSO 9]>
+  <table width="640">
+     <tr>
+        <td>
+<![endif]-->
+  <table width="100%" style="max-width:640px;">
+    <tr>
+      <td>
+        <a href="https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-introducing-power-bi-premium-gen2/"><img src="https://i.ytimg.com/vi/j17y_BPlhvU/maxresdefault.jpg" width="96%" /></a>
+      </td>
+    </tr>
+  </table>
+<!--[if gte MSO 9]>
+      </td>
+    </tr>
+  </table>
+<![endif]-->
+                                <p><strong>Introducing Power BI Premium Gen2</strong> At Microsoft Ignite, we found out about Power BI Premium Gen2. It&#39;s now available for you to use and WOW! It has changed the game! Adam walks you through what the changes are to help you level up.  Docs: https://docs.microsoft.com/power-bi/admin/service-premium-what-is#power-bi-premium-generation-2-preview</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-introducing-power-bi-premium-gen2/"
+                                    style="color: #BF9C0F; text-decoration: none;">↪ Guy in a Cube
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://smartable.azureedge.net/media/2020/08/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+<tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #F2C811; width: 35px;">
+                                <a href="https://smartable.ai/apps/powerbi/learning/videos/curbal-change-field-types-in-one-step-in-power-query/"><img alt="" src="https://smartable.azureedge.net/media/2020/08/2-black.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=Change+field+types+in+one+step+in+Power+Query https%3a%2f%2fsmartable.ai%2fapps%2fpowerbi%2flearning%2fvideos%2fcurbal-change-field-types-in-one-step-in-power-query%2f">
+                                    <img alt="" src="https://smartable.azureedge.net/media/2020/08/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fsmartable.ai%2fapps%2fpowerbi%2flearning%2fvideos%2fcurbal-change-field-types-in-one-step-in-power-query%2f">
+                                    <img alt="" src="https://smartable.azureedge.net/media/2020/08/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://smartable.ai/apps/powerbi/learning/videos/curbal-change-field-types-in-one-step-in-power-query/">
+                                    <img alt="" src="https://smartable.azureedge.net/media/2020/08/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                <!--[if gte MSO 9]>
+  <table width="640">
+     <tr>
+        <td>
+<![endif]-->
+  <table width="100%" style="max-width:640px;">
+    <tr>
+      <td>
+        <a href="https://smartable.ai/apps/powerbi/learning/videos/curbal-change-field-types-in-one-step-in-power-query/"><img src="https://i.ytimg.com/vi/OBzMBWkHYUU/maxresdefault.jpg" width="96%" /></a>
+      </td>
+    </tr>
+  </table>
+<!--[if gte MSO 9]>
+      </td>
+    </tr>
+  </table>
+<![endif]-->
+                                <p><strong>Change field types in one step in Power Query</strong> If you want to reduce the number of steps and change field type in one, you will notice that the user interface will always separate them when specifying the regional settings.  In today&#39;s video , I will show you how you can modify the power query code to change field types in one step, but also show</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://smartable.ai/apps/powerbi/learning/videos/curbal-change-field-types-in-one-step-in-power-query/"
+                                    style="color: #BF9C0F; text-decoration: none;">↪ Curbal
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://smartable.azureedge.net/media/2020/08/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+<tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #F2C811; width: 35px;">
+                                <a href="https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-replay-special-end-of-year-stream-w-will-thompson-dec-12-2020-charity-stream/"><img alt="" src="https://smartable.azureedge.net/media/2020/08/3-black.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=REPLAY+Special+end+of+year+stream+w%2f+Will+Thompson+(Dec+12%2c+2020)+*Charity+Stream* https%3a%2f%2fsmartable.ai%2fapps%2fpowerbi%2flearning%2fvideos%2fguy-in-a-cube-replay-special-end-of-year-stream-w-will-thompson-dec-12-2020-charity-stream%2f">
+                                    <img alt="" src="https://smartable.azureedge.net/media/2020/08/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fsmartable.ai%2fapps%2fpowerbi%2flearning%2fvideos%2fguy-in-a-cube-replay-special-end-of-year-stream-w-will-thompson-dec-12-2020-charity-stream%2f">
+                                    <img alt="" src="https://smartable.azureedge.net/media/2020/08/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-replay-special-end-of-year-stream-w-will-thompson-dec-12-2020-charity-stream/">
+                                    <img alt="" src="https://smartable.azureedge.net/media/2020/08/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                <!--[if gte MSO 9]>
+  <table width="640">
+     <tr>
+        <td>
+<![endif]-->
+  <table width="100%" style="max-width:640px;">
+    <tr>
+      <td>
+        <a href="https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-replay-special-end-of-year-stream-w-will-thompson-dec-12-2020-charity-stream/"><img src="https://i.ytimg.com/vi/hLQ5St1g4S4/maxresdefault.jpg" width="96%" /></a>
+      </td>
+    </tr>
+  </table>
+<!--[if gte MSO 9]>
+      </td>
+    </tr>
+  </table>
+<![endif]-->
+                                <p><strong>REPLAY Special end of year stream w/ Will Thompson (Dec 12, 2020) *Charity Stream*</strong> Join us live as we answer your questions about Power BI!   Every time the answer is &quot;It depends&quot;, Will will donate $25 to charity! You can take part as well by donating through the live stream. Guy in a Cube is supporting the World Central Kitchen to help feed those affected by Hurricane Iota and COVID-19.</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-replay-special-end-of-year-stream-w-will-thompson-dec-12-2020-charity-stream/"
+                                    style="color: #BF9C0F; text-decoration: none;">↪ Guy in a Cube
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://smartable.azureedge.net/media/2020/08/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+
+<tr>
+    <td style="font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:20px; text-align: center; padding: 30px;">
+        <strong>DAX functions of the week</strong>
+    </td>
+</tr><tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #F2C811; width: 35px;">
+                                <a href="https://docs.microsoft.com/en-us/dax/norm-s-dist-dax"><img alt="" src="https://smartable.azureedge.net/media/2020/08/1-black.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=NORM.S.DIST+(Z%2c+Cumulative) https%3a%2f%2fdocs.microsoft.com%2fen-us%2fdax%2fnorm-s-dist-dax">
+                                    <img alt="" src="https://smartable.azureedge.net/media/2020/08/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fdocs.microsoft.com%2fen-us%2fdax%2fnorm-s-dist-dax">
+                                    <img alt="" src="https://smartable.azureedge.net/media/2020/08/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://docs.microsoft.com/en-us/dax/norm-s-dist-dax">
+                                    <img alt="" src="https://smartable.azureedge.net/media/2020/08/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                
+                                <p><strong>NORM.S.DIST (Z, Cumulative)</strong> Returns the standard normal distribution (has a mean of zero and a standard deviation of one).</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://docs.microsoft.com/en-us/dax/norm-s-dist-dax"
+                                    style="color: #BF9C0F; text-decoration: none;">↪ Microsoft
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://smartable.azureedge.net/media/2020/08/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+<tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #F2C811; width: 35px;">
+                                <a href="https://smartable.ai/apps/powerbi/function/relationship-functions/"><img alt="" src="https://smartable.azureedge.net/media/2020/08/2-black.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=Relationship+functions https%3a%2f%2fsmartable.ai%2fapps%2fpowerbi%2ffunction%2frelationship-functions%2f">
+                                    <img alt="" src="https://smartable.azureedge.net/media/2020/08/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fsmartable.ai%2fapps%2fpowerbi%2ffunction%2frelationship-functions%2f">
+                                    <img alt="" src="https://smartable.azureedge.net/media/2020/08/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://smartable.ai/apps/powerbi/function/relationship-functions/">
+                                    <img alt="" src="https://smartable.azureedge.net/media/2020/08/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                
+                                <p><strong>Relationship functions</strong> Functions in this category are for managing and utilizing relationships between tables.</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://smartable.ai/apps/powerbi/function/relationship-functions/"
+                                    style="color: #BF9C0F; text-decoration: none;">↪ Microsoft
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://smartable.azureedge.net/media/2020/08/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+
+<tr>
+    <td style="font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:20px; text-align: center; padding: 30px;">
+        <strong>Samples of the week</strong>
+    </td>
+</tr><tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #F2C811; width: 35px;">
+                                <a href="https://smartable.ai/apps/powerbi/sample/powerbi-community-anxiety-depression-what-covid-19-lockdown-means-for-indias-mental-health/"><img alt="" src="https://smartable.azureedge.net/media/2020/08/1-black.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=Anxiety%2c+Depression%3a+What+COVID-19+Lockdown+Means+for+India%27s+Mental+Health https%3a%2f%2fsmartable.ai%2fapps%2fpowerbi%2fsample%2fpowerbi-community-anxiety-depression-what-covid-19-lockdown-means-for-indias-mental-health%2f">
+                                    <img alt="" src="https://smartable.azureedge.net/media/2020/08/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fsmartable.ai%2fapps%2fpowerbi%2fsample%2fpowerbi-community-anxiety-depression-what-covid-19-lockdown-means-for-indias-mental-health%2f">
+                                    <img alt="" src="https://smartable.azureedge.net/media/2020/08/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://smartable.ai/apps/powerbi/sample/powerbi-community-anxiety-depression-what-covid-19-lockdown-means-for-indias-mental-health/">
+                                    <img alt="" src="https://smartable.azureedge.net/media/2020/08/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                <!--[if gte MSO 9]>
+  <table width="640">
+     <tr>
+        <td>
+<![endif]-->
+  <table width="100%" style="max-width:640px;">
+    <tr>
+      <td>
+        <a href="https://smartable.ai/apps/powerbi/sample/powerbi-community-anxiety-depression-what-covid-19-lockdown-means-for-indias-mental-health/"><img src="https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3977/3/thumbnail.jpg" width="96%" /></a>
+      </td>
+    </tr>
+  </table>
+<!--[if gte MSO 9]>
+      </td>
+    </tr>
+  </table>
+<![endif]-->
+                                <p><strong>Anxiety, Depression: What COVID-19 Lockdown Means for India&#39;s Mental Health</strong> Questions about survival, humanity and the future, the changes and the chaos that it is bringing in the lives of Indians.</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://smartable.ai/apps/powerbi/sample/powerbi-community-anxiety-depression-what-covid-19-lockdown-means-for-indias-mental-health/"
+                                    style="color: #BF9C0F; text-decoration: none;">↪ Open Sample
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://smartable.azureedge.net/media/2020/08/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+<tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #F2C811; width: 35px;">
+                                <a href="https://smartable.ai/apps/powerbi/sample/powerbi-community-cortana-machine-learning-competition-womens-health-risk-assessment-power-bi-companion/"><img alt="" src="https://smartable.azureedge.net/media/2020/08/2-black.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=Cortana+Machine+Learning+Competition+-+Womens+Health+Risk+Assessment+-+Power+BI+Companion https%3a%2f%2fsmartable.ai%2fapps%2fpowerbi%2fsample%2fpowerbi-community-cortana-machine-learning-competition-womens-health-risk-assessment-power-bi-companion%2f">
+                                    <img alt="" src="https://smartable.azureedge.net/media/2020/08/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fsmartable.ai%2fapps%2fpowerbi%2fsample%2fpowerbi-community-cortana-machine-learning-competition-womens-health-risk-assessment-power-bi-companion%2f">
+                                    <img alt="" src="https://smartable.azureedge.net/media/2020/08/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://smartable.ai/apps/powerbi/sample/powerbi-community-cortana-machine-learning-competition-womens-health-risk-assessment-power-bi-companion/">
+                                    <img alt="" src="https://smartable.azureedge.net/media/2020/08/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                <!--[if gte MSO 9]>
+  <table width="640">
+     <tr>
+        <td>
+<![endif]-->
+  <table width="100%" style="max-width:640px;">
+    <tr>
+      <td>
+        <a href="https://smartable.ai/apps/powerbi/sample/powerbi-community-cortana-machine-learning-competition-womens-health-risk-assessment-power-bi-companion/"><img src="https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/246/4/data%20stories%20thumbnail-2.png" width="96%" /></a>
+      </td>
+    </tr>
+  </table>
+<!--[if gte MSO 9]>
+      </td>
+    </tr>
+  </table>
+<![endif]-->
+                                <p><strong>Cortana Machine Learning Competition - Womens Health Risk Assessment - Power BI Companion</strong> Small companion for anyone participating in the Cortana Machine Learning competition - Women&#39;s Health Risk Assessment</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://smartable.ai/apps/powerbi/sample/powerbi-community-cortana-machine-learning-competition-womens-health-risk-assessment-power-bi-companion/"
+                                    style="color: #BF9C0F; text-decoration: none;">↪ Open Sample
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://smartable.azureedge.net/media/2020/08/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+
+<tr>
+    <td style="font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:20px; text-align: center; padding: 30px;">
+        <strong>Influencers of the week</strong>
+    </td>
+</tr><tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #F2C811; width: 35px;">
+                                <a href="https://smartable.ai/apps/powerbi/people/seth-bauer/"><img alt="" src="https://smartable.azureedge.net/media/2020/08/1-black.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=Seth+Bauer https%3a%2f%2fsmartable.ai%2fapps%2fpowerbi%2fpeople%2fseth-bauer%2f">
+                                    <img alt="" src="https://smartable.azureedge.net/media/2020/08/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fsmartable.ai%2fapps%2fpowerbi%2fpeople%2fseth-bauer%2f">
+                                    <img alt="" src="https://smartable.azureedge.net/media/2020/08/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://smartable.ai/apps/powerbi/people/seth-bauer/">
+                                    <img alt="" src="https://smartable.azureedge.net/media/2020/08/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                
+                                <p><strong>Seth Bauer</strong> As a co-owner of PowerBI.Tips I enjoy helping create a platform for new and advanced users alike to learn and expand their skills and get the most out of Power BI.</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://smartable.ai/apps/powerbi/people/seth-bauer/"
+                                    style="color: #BF9C0F; text-decoration: none;">↪ View Profile
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://smartable.azureedge.net/media/2020/08/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+<tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #F2C811; width: 35px;">
+                                <a href="https://smartable.ai/apps/powerbi/people/reza-rad/"><img alt="" src="https://smartable.azureedge.net/media/2020/08/2-black.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=Reza+Rad https%3a%2f%2fsmartable.ai%2fapps%2fpowerbi%2fpeople%2freza-rad%2f">
+                                    <img alt="" src="https://smartable.azureedge.net/media/2020/08/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fsmartable.ai%2fapps%2fpowerbi%2fpeople%2freza-rad%2f">
+                                    <img alt="" src="https://smartable.azureedge.net/media/2020/08/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://smartable.ai/apps/powerbi/people/reza-rad/">
+                                    <img alt="" src="https://smartable.azureedge.net/media/2020/08/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                
+                                <p><strong>Reza Rad</strong> #Microsoft Regional Director, #MVP #Author #Trainer #Speaker #Coach #Consultant #PowerBI </p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://smartable.ai/apps/powerbi/people/reza-rad/"
+                                    style="color: #BF9C0F; text-decoration: none;">↪ View Profile
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://smartable.azureedge.net/media/2020/08/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+
+
+      </table>
+      <!--[if mso]>
+    </td>
+    </tr>
+    </table>
+    <![endif]-->
+    </div>
+    <!--End of Content-->
+    <!--Footer-->
+    <table role="presentation" cellspacing="0" cellpadding="0" border="0"
+      style="width: 100%;">
+      <tr>
+        <td style="padding: 10px;">
+          <div style="font-size: 0; max-width: 640px; margin: 0 auto;" class="newsletter-content">
+            <!--[if mso]>
+          <table role="presentation" border="0" cellspacing="0" cellpadding="0" align="center" style="width: 640px; margin: 0 auto;">
+          <tr>
+          <td align="left" style="vertical-align: middle; width: 140px;">
+          <![endif]-->
+
+            <div class="social-area">
+              <table role="presentation" cellspacing="0" cellpadding="0" border="0" align="center">
+                <tr>
+                  <td>
+                    <a clicktracking="off" href="https://twitter.com/SmartableAI"
+                      style="box-sizing: content-box; display: inline-block; width: 35px; height: 35px; border: 1px solid #200a00; Margin: 10px 16px 10px 0; text-align: center; border-radius: 50%;">
+                      <img alt="Twitter" src="https://smartable.azureedge.net/media/2020/08/twitter-black.png" border="0" height="35" width="35">
+                    </a>
+                  </td>
+                </tr>
+              </table>
+            </div>
+
+            <!--[if mso]>
+          </td>
+          <td align="left" style="vertical-align: middle; width: 500px;">
+          <![endif]-->
+
+            <div class="copyright-area">
+              <table role="presentation" cellspacing="0" cellpadding="0" border="0" style="width: 100%;">
+                <tr>
+                  <td>
+                    <p style="margin: 0; font-size: 12px; font-family: Open Sans, Segoe UI, sans-serif; line-height: 28px"
+                      class="sm-pt">
+                      <a href="mailto:contact@smartable.ai" style="text-decoration: none;">contact@smartable.ai</a><br />
+                      Copyright (c) 2020 Smartable AI, All rights reserved.
+                    </p>
+                  </td>
+                </tr>
+              </table>
+            </div>
+
+            <!--[if mso]>
+          </td>
+          </tr>
+          </table>
+          <![endif]-->
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 20px;">
+          <div style="max-width: 640px; margin: 0 auto;" class="newsletter-content">
+            <!--[if mso]>
+          <table role="presentation" border="0" cellspacing="0" cellpadding="0" style="width: 640px; margin: 0 auto" align="center">
+          <tr>
+          <td align="left" style="vertical-align: middle;">
+          <![endif]-->
+
+            <table role="presentation" cellspacing="0" cellpadding="0" border="0" style="width: 100%;">
+              <tr>
+                <td>
+                  <p
+                    style="text-align: center; text-decoration: none; font-size: 12px; font-family: Open Sans, Segoe UI, sans-serif; line-height: 24px">
+                    {can-spam}
+                  </p>
+                </td>
+              </tr>
+            </table>
+
+            <!--[if mso]>
+          </td>
+          </tr>
+          </table>
+          <![endif]-->
+          </div>
+        </td>
+      </tr>
+    </table>
+    <!--End of Footer-->
+    <!--[if mso]>
+  </td>
+  </tr>
+  </table>
+  <![endif]-->
+  </center>
+</body>
+
+</html>
+
