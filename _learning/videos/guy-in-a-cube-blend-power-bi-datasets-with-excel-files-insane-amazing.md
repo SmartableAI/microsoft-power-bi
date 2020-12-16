@@ -2,6 +2,7 @@
 title: "Blend Power BI datasets with Excel files? INSANE AMAZING!"
 excerpt: "The moment you've been waiting for! What Marco Russo calls the holy grail of BI. Tessa Hurr walks us through the new DirectQuery over Power BI datasets feature in the December 2020 release.  Connect with Tessa on Twitter: https://twitter.com/tessahurr  📢 Become a member: https://guyinacu.be/membership"
 originalUrl: https://youtube.com/watch?v=ZSyYegfA6PQ
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-blend-power-bi-datasets-with-excel-files-insane-amazing/
 type: video
 price: Free
 length: PT12M49S
@@ -27,6 +28,6 @@ images:
     height: 360
     isCached: true
 
-secured: "vk23v8MpFhU0a0PR22d9V1MyHYLpx4f/K3Fn7cjiWX6C3nN4hrWWVPBz20Wxz4U7Sa0+iNd2He/RX/txilLp3evbrbxQtATDLu1qmiNTcsPdUVF7cCDNjPLxTzQZbPBp8sLps1t+6Pi3p/mSxQO1x114h3PettX1rPtUE2OMNXt3ENZ1kv15OxK2Sn+yoCEWEB/ExmGlTTMtEjNROkfPnITyEdeuMT5CkHhlTk406esq5BBOMnVdLR4Zpx+qG2mjYLCyO6WingMUU5RTBxHSfBBqGPdTlu81oaMOKj6yeR8IwfSjE5B6dSzfOeRYIR8fcB3KkKIDKdmF2vBkbGq3nOGXOl5aEasuAHv7jmKhgnSh5tnwqlp30s6iQpCL+gMqclpWqCaSIYWkOV09pddXMw==;0oe/JSLg2pAPQH66B3Mr4Q=="
+secured: "wVmF0mfp1luRKTSGkPMSwILepcuOskIN/w33s2x/3ptitlSGSd5kBGSuI+rrOMwyDxT/iYnxJb1ClqQhpd9N89+83HxjKOZUWjQc6Js9aeJKSGR/RkNqEBA4x11knPeqpYcavplM0RVRW/2LzciwXTDrLqeUZ1ygYzyDmTt8IyfiNjY9VRzW8eclhNVXEnJMdIrUQ111k3gkE65JFC3tjpnsLBr6x/XLKcG9x2NwOrZjFsHkNlPc9lF7ISyLcTJnZ0uMNZr1uTeyoffn71Ptpp771I8EBbQUfqQ3EQtyBFf1vZAX5C1z3Cep1n/tF2eAI5II2xX/Hj7EOOkNEsXgSu1SEcrG8Z3Z3aZGmtezf0hYZVPuoPLqdwDi/fCDmLgJmEDEqRgweCNNqLC4O7lOsA==;AtCavUaOElJaqsJjeUwzPw=="
 ---
 
