@@ -4,235 +4,6 @@
   "page": 58,
   "value": [
     {
-      "path": "_learning/videos/guy-in-a-cube-understanding-the-shadow-tenant-in-office-365.md",
-      "title": "Understanding the Shadow Tenant in Office 365",
-      "excerpt": "I describe what a Shadow Tenant is and how it is created.  This is from the perspective of Power BI.  What is a Tenant - https://youtu.be/yVYSx1odYSY?list=PLv2BtOtLblH3SXM6Q44DCjykqp9xPozNH  SUBSCRIBE! https://www.youtube.com/channel/UCFp1vaKzpfvoGai0vE5VJ0w?sub_confirmation=1  LET'S CONNECT!  Blogs",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-understanding-the-shadow-tenant-in-office-365/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-understanding-the-shadow-tenant-in-office-365/",
-      "originalUrl": "https://youtube.com/watch?v=y4Bu8QP2QhE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/y4Bu8QP2QhE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M20S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-03-01T11:26:45-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/y4Bu8QP2QhE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-upcoming-edx-course-on-analysis-services-tabular-w-peter-myers-dat225x.md",
-      "title": "Upcoming EdX course on Analysis Services Tabular w/ Peter Myers (DAT225X)",
-      "excerpt": "I met up with Peter Myers to talk about an upcoming EdX course for Analysis Services Tabular. He wrote and primarily presented the course which is free to you. You also have the option to upgrade to get a certificate of completion if you wish.  The course will be released on March 14, 2017 and is DAT225X.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-upcoming-edx-course-on-analysis-services-tabular-w-peter-myers-dat225x/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-upcoming-edx-course-on-analysis-services-tabular-w-peter-myers-dat225x/",
-      "originalUrl": "https://youtube.com/watch?v=TkvT-om-bHM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TkvT-om-bHM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M59S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-03-10T09:29:57-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/TkvT-om-bHM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-updates-for-power-bi-comparing-rows-and-finding-calculations-in-profiler.md",
-      "title": "Updates for Power BI, Comparing rows and finding calculations in Profiler",
-      "excerpt": "Use Power Query to Compare Database Records (@ExceleratorBI) http://exceleratorbi.com.au/use-power-query-compare-database-records/  Finding Out Which MDX Calculations Are Being Evaluated By Your Query In Analysis Services Multidimensional (@technitrain) https://blog.crossjoin.co.uk/2017/02/05/finding-out-which-mdx-calculations-are-being-evaluated-by-your-query-in-analysis-services-multidimensional-part-2/",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-updates-for-power-bi-comparing-rows-and-finding-calculations-in-profiler/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-updates-for-power-bi-comparing-rows-and-finding-calculations-in-profiler/",
-      "originalUrl": "https://youtube.com/watch?v=oJ3vim4mKbM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oJ3vim4mKbM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M2S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-02-09T09:48:04-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/oJ3vim4mKbM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-updates-for-power-bi-desktop-and-service-and-more-roundup-56.md",
-      "title": "Updates for Power BI Desktop and service and more... - Roundup #56",
-      "excerpt": "Roundups are back! We had a new update for Power BI Desktop and updates for the Power BI Service. Also we look at real time datasets and sentiment analysis.  Sentiment Analysis in Power BI (@gilra) http://community.powerbi.com/t5/Community-Blog/Sentiment-Analysis-in-Power-BI/ba-p/55898  http://datachant.com/2016/08/09/sentiment-analysis-power-bi-part-2/",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-updates-for-power-bi-desktop-and-service-and-more-roundup-56/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-updates-for-power-bi-desktop-and-service-and-more-roundup-56/",
-      "originalUrl": "https://youtube.com/watch?v=7nBu_7QYo-g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7nBu_7QYo-g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M41S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-08-11T08:41:58-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/7nBu_7QYo-g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-use-the-power-bi-rebind-api-to-move-from-cached-to-azure-as.md",
-      "title": "Use the Power BI Rebind API to move from cached to Azure AS",
-      "excerpt": "The Power BI Rebind API allows you to change the dataset of a report. Patrick shows how you can use the Power BI Rebind API to move from a cached dataset to a live connection on Azure Analysis Services.  PowerShell examples - https://github.com/Azure-Samples/powerbi-powershell  LET'S CONNECT!  Guy in",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-use-the-power-bi-rebind-api-to-move-from-cached-to-azure-as/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-use-the-power-bi-rebind-api-to-move-from-cached-to-azure-as/",
-      "originalUrl": "https://youtube.com/watch?v=wjOLp4E5K4Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wjOLp4E5K4Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M55S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-03-21T06:53:06-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/wjOLp4E5K4Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-using-azure-sql-database-failover-with-power-bi.md",
-      "title": "Using Azure SQL Database Failover with Power BI",
-      "excerpt": "In this video, Patrick shows you how you can easily use Azure SQL Database Failover Groups with Power BI to ensure you have access to your data. Connecting to an Azure SQL Database Failover Group from Power BI is easier than connecting to a secondary replica of an Always On Availability Group.  LET'S",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-using-azure-sql-database-failover-with-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-using-azure-sql-database-failover-with-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=GBKVGWpvH6s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GBKVGWpvH6s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M41S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-01-23T15:38:14-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GBKVGWpvH6s/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-using-power-bi-audit-log-and-powershell-to-assign-power-bi-pro-licenses.md",
       "title": "Using Power BI Audit Log and PowerShell to assign Power BI Pro licenses",
       "excerpt": "Auditing with Power BI has been available for a few months within the US and more recently within all regions except Europe and Australia as a preview. This provides auditing on certain events to understand what your organization is doing with the service.   The new activity that has been added is when",
@@ -1034,6 +805,187 @@
           "url": "https://i.ytimg.com/vi/WRCApBLFHxI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-can-power-bi-transform-your-life-at-40-or-20-or-60-poweron-show-with-charles-avi-talkpowerbi.md",
+      "title": "Can Power BI Transform Your Life at 40? (Or 20 or 60?) #PowerOn Show with Charles & Avi 🔴TalkPowerBI",
+      "excerpt": "Both Charles and I, transformed our lives around 40 years of age. Power BI played a key role and leaving our jobs was a crucial step. But our transformation was a bit deeper than that. We want to share our journey with you, but also ask the important question...is there really a right age to transform",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-can-power-bi-transform-your-life-at-40-or-20-or-60-poweron-show-with-charles-avi-talkpowerbi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-can-power-bi-transform-your-life-at-40-or-20-or-60-poweron-show-with-charles-avi-talkpowerbi/",
+      "originalUrl": "https://youtube.com/watch?v=NM2DCToep4M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NM2DCToep4M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H6M6S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2020-09-18T10:44:30-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/NM2DCToep4M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-comparing-salesytd-across-multiple-years-question-by-david-briggs.md",
+      "title": "Comparing SalesYTD across Multiple Years (Question by David Briggs)",
+      "excerpt": "In this episode, I answer a quick question by David Briggs regarding comparing SalesYTD across Multiple Years.  (I recorded this one on the road - in Minneapolis visiting my sister - so there's some background noise) Original Question: \"Good Evening.  Is there a DAX statement that would allow the graphing",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-comparing-salesytd-across-multiple-years-question-by-david-briggs/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-comparing-salesytd-across-multiple-years-question-by-david-briggs/",
+      "originalUrl": "https://youtube.com/watch?v=skAcy00pP0c",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/skAcy00pP0c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M30S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2017-08-31T06:58:56-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/skAcy00pP0c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-data-to-drive-impact-using-power-bi-with-noah-baskett.md",
+      "title": "Data to Drive Impact using Power BI / with Noah Baskett",
+      "excerpt": "Combine your dreams & passion with what you do.  👉Connect with Noah (Website): https://www.wisebi.co/  👉Connect with Noah (LinkedIn): https://www.linkedin.com/in/noahbaskett/  Join the Learn Power BI Family 👉https://web.learnpowerbi.com/waitlist-invite/  ================================ 👉 FREE Power",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-data-to-drive-impact-using-power-bi-with-noah-baskett/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-data-to-drive-impact-using-power-bi-with-noah-baskett/",
+      "originalUrl": "https://youtube.com/watch?v=qRsIIh997kw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qRsIIh997kw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M39S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2019-07-12T05:53:05-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qRsIIh997kw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-dax-many-to-many-relationships-talk-power-bi-live-subscribe-join-sept-14-2018.md",
+      "title": "DAX Many to Many Relationships 🔴Talk Power BI LIVE (Subscribe & Join) Sept 14, 2018",
+      "excerpt": "✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask any Power BI question. 💡 Join https://www.facebook.com/groups/TalkP... to continue the conversation  Hello, I am Avi Singh, Microsoft MVP and Power BI Pro! I just love talking about Power BI. So much so that I have",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-dax-many-to-many-relationships-talk-power-bi-live-subscribe-join-sept-14-2018/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-dax-many-to-many-relationships-talk-power-bi-live-subscribe-join-sept-14-2018/",
+      "originalUrl": "https://youtube.com/watch?v=5cmfW4tiUO8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5cmfW4tiUO8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H24M9S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2018-09-07T13:00:12-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5cmfW4tiUO8/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-day-1-recap-power-bi-5-day-challenge-cooking-in-the-kicthen.md",
+      "title": "Day 1 Recap: Power BI 5-Day Challenge / Cooking in the Kicthen",
+      "excerpt": "Join me in a 5-Day Challenge to build your first (or next) Power BI Dashboard. Accept the challenge at 👉 http://www.learnpowerbi.com/challenge  ⚡Power On!⚡ -Avi Singh / Powerbipro / Microsoft MVP",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-day-1-recap-power-bi-5-day-challenge-cooking-in-the-kicthen/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-day-1-recap-power-bi-5-day-challenge-cooking-in-the-kicthen/",
+      "originalUrl": "https://youtube.com/watch?v=gAbsDByNdwo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gAbsDByNdwo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M2S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2018-03-25T18:07:33-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/gAbsDByNdwo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-day-1build-your-firstnext-power-bi-dashboard-live-mar-23.md",
+      "title": "Day 1:Build Your First/Next Power BI Dashboard (LIVE🔴), Mar 23",
+      "excerpt": "Join me in a 5-Day Challenge to build your first (or next) Power BI Dashboard. Accept the challenge at 👉 http://www.learnpowerbi.com/challenge Day 1 Topics: 00:00:00 Avi: Do Your Cooking in the Kitchen 00:28:30 James: Speaking of QE, whats the deal with \"Transform Files\" and \"Sample Queries\"... 00:35:36",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-day-1build-your-firstnext-power-bi-dashboard-live-mar-23/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-day-1build-your-firstnext-power-bi-dashboard-live-mar-23/",
+      "originalUrl": "https://youtube.com/watch?v=ITrlCO8lLBE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ITrlCO8lLBE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2H40M25S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2018-03-09T14:37:05-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ITrlCO8lLBE/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],
