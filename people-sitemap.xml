@@ -19,6 +19,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://smartable.ai/apps/powerbi/people/avi-singh/</loc>
+    <lastmod>2020-12-14T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://smartable.ai/apps/powerbi/people/seth-bauer/</loc>
     <lastmod>2020-12-14T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -26,12 +32,6 @@
   </url>
   <url>
     <loc>https://smartable.ai/apps/powerbi/people/mike-carlo/</loc>
-    <lastmod>2020-12-14T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/powerbi/people/avi-singh/</loc>
     <lastmod>2020-12-14T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
