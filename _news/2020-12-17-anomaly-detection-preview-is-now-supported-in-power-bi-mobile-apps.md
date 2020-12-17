@@ -6,9 +6,11 @@ publishedDateTime: 2020-12-17T00:49:34Z
 originalUrl: "https://powerbi.microsoft.com/en-us/blog/anomaly-detection-preview-is-now-supported-in-power-bi-mobile-apps/"
 webUrl: "https://powerbi.microsoft.com/en-us/blog/anomaly-detection-preview-is-now-supported-in-power-bi-mobile-apps/"
 type: article
-quality: 87
-heat: 87
+quality: 189
+heat: 189
 published: true
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JC8xM74Bhlo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
   name: Microsoft
@@ -20,6 +22,7 @@ provider:
 
 topics:
   - Power BI
+  - Power BI Desktop
 
 images:
   - url: "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png"
@@ -27,6 +30,6 @@ images:
     height: 630
     isCached: true
 
-secured: "0vbKFY0ABA4PCYCdFTCUyGrDOyM0wxHNMnw20rfo5YdEN9Ny3tB1+YsqRPOQG25grqbH2YUgEKxKMu9oh+xSWI+MTnEDQN9Y7mMK80JfeMJvpuHlgC3NY6S/PQnu24yrO76Vii7Gr3hON9LMGkCbJSXqfNZf5b4daLMiVglgtApHHXD/JWWOHdjiIpd+0S266SD37Ac/VXOKEvYFE4oh62VDGzOP27q8AsuWH4zoOJFoZqCbMPuBEI8hdjGb5kKDebgiMYiCM123z5HmAVz/P6ffwJVFLcTmNZ1resNo8qPtWocWVXnyg/Rj7IQoBAWVsg6E6b5mUgAeNOd8CTj3YGLW07gpmRR4qtk0tUZMpDM=;2Xf7LpqPOzlXvtjWQ6QFAg=="
+secured: "ab7OzQ46zN7bu+EtjPajTPCTgq0niEP1wvib9CqWbXHIB96YIQmFUkOPg+ubkc7DgzFaSBJwp0RoyQHXx7GI67OaM9qG67dGC1TIEeDsZXmwc5IAWXtUXbBpD5CncHc8+yD3yqukP2FFoGqokz6pElRdiIHugBC0/qpE/xW1F2dyAihjb98zB24Y3AsIUDhM0cuQklA1z1LDZpTn49dVE1CDK5tMrHAeMJXln+84GrpIvMD0HDqRnfHrNZ4knVjTKSX3ICKW82LNW5mYIc3ibcFGwuJg+J2gJh1idZAKYCRAECY/oWeCbDerfWfg+ek1D7T4uG6fr+WUXQ3eTujpAFpgJbCCZaA132NQhztuIDP0hfgdjuaMuSOwRJ8h+ZBpJL3xx5ZZf4nUJFnOFXuLcbOrAWFQD/3U6BdW5pjk068=;AnkI5y0BFVsi3vV+ETVXyA=="
 ---
 
