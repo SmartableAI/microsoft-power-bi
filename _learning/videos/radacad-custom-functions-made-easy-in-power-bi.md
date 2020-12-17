@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT16M44S
 publishedDateTime: 2019-05-22T23:20:00Z
-heat: 54
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fGKGDVEtcOU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 360
     isCached: true
 
-secured: "TOHP15JUsioET3l3feCR1GRL9WE7zBEv41m8FN4/+Ih8xSLABqricEqiUQg6mcCvhbp2LLcI20LTsjBJtd2Q/KIUVjTiEqYunP8PsNMyagDkORveBoZ6XhbVADpTqJMScXIwRLNw5poab1PjcdD2t07huCd7K1duWaa4wxrHKYpx8EvzUbdxEu1cWn5W5oFTpKyTvPfbTGI9Bg6CzdUbW0tXG4yhRcvAz0dYRKa0efueNoCfX4Bf2zAACqLXqA3PSazeoBFgki9f+EZ+hPQgSjNo5RMn2zralnoE7NILv004OuCP7AWqjFT4GgeVYiKOK+jpYbCAKlj7N445FS7Udhc+V5HN6Ttxo8dQqh/k8mYNVhaOkFdZAGcxFSbLLcXlphNVSuCwDHgR8X3VqPs38mc+rf9aLKP3u3t20T0BPBM=;cuNMTkV+zigD1kEKutJ0eA=="
+secured: "zLxk6x3kdWtWs+gUNlVqGOGE0U51REXQD5Nga+9NzHwe02iuFFDnvQGDBkidCDI/DeBoyr/VMrO3ie9YOFKbIu9J5IGAQvbh8hh+zbpkOYZCEsuTOq4JQCrkDopfturuEMOpAdSuhHPNfPkjuVemC1lt9AfCcfffR2D+Oy9UmHm937semK4sIgVG1ArWPakW1pSbuFLzo50hWOS/F9htX0LXmT3DTR5gginZjPATuGJI+0frhXZYK6+yqJ+vduoVzbOvNhhfV04f9rMKMo4EaPUQkzHGkvpMGnhWfyTp85AIn+kSYr8ul57N4bWoZNBptGMczHtwul7pMX4wCBY/oAuAi+I+kvH2dRydwtxSumF7ssZvsF8NJaiEgLgNe5LymAHV8JKK7EXBkfEZ8IgMjICAL53+P7B1VOZ1/hc5Agg=;hxdVAEKnVgveRyRN+gIlXg=="
 ---
 
