@@ -4,7 +4,7 @@ excerpt: "I have written a few articles that are related to this topic (articles
 webUrl: https://exceleratorbi.com.au/building-a-matrix-with-asymmetrical-columns-and-rows-in-power-bi/
 type: article
 publishedDateTime: 2020-10-26T19:55:50Z
-heat: 50
+heat: 130
 
 provider:
   name: Excelerator BI
