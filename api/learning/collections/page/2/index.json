@@ -1267,7 +1267,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -1752,8 +1752,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 1154,
-            "average": 4.7487
+            "count": 1155,
+            "average": 4.748052
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1877,8 +1877,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 625,
-            "average": 4.6704
+            "count": 626,
+            "average": 4.6709266
           },
           "provider": {
             "name": "Microsoft Learn",
