@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "The new Power BI App Workspace experience"
 
-secured: "0aOKQ403aAISgIzeRRNOSbCtL4m8qC64oWKXvL7I29QGA5B4vgnoWs95L3JKzSG+sQREhmnxcxn9/vqiKPvEM0nA/VJsmLT86wia4itxk2XX2dAiKZHvi82CIkD2+s5ipZErcdzqe2XFT1K3zk5S8/3/nl/19DXc+mFB+OQswgeKcmEAwRhXExin2zi4+9/CYL8BdklBMINlh+KkThEoM3h20rGYV1LlGrYgo7n6DTjZsJ7ZxxQ4FYYgutAgcKZKu3nTQCOTuuGd+aI/x9ZuZgAVXmVwIvV64D08/1KVwuechmBZG7AsvL0gPa16JnfTxLWlbl6o/wRCzhNxt/9bzpLxb4PPiC14rMRkbmdiK6rX6bmEpAgtilqHdQVYWaqMcQvwyxZjqEQCuH2qAd6PvjhJeIqs6Nuf0b6QFFXSFqQ=;xTG/U3rmnUa1jl/ycMX1Ww=="
+secured: "HomPoRKIKbJ0xHzWo5AhMALe5UPYoenOPhwgYXAaDXmD+gD2de5HflIT8XOhwQIVzAwD2Vu3EQZgu5xccXSHOzJDrO57AjnJJ/Li0ub3SnO6qEtL0f3BmtQbh/6xe8JTbH+kjBuPSE1QPKpQNEgEngFlT9u8ciMSMYcs7j+2Fm5V81fy/r7Z8GWinP8CL4lQ6p9cukZl4vcYcJ60ZN/t3y+3TPXw1u0HdrjpxqPr/XlSSSizp+GMqJTUD3n2iUSHtNRuZqz1oviKkZugaTQ8nmcQ7IdwbsF+b3fX+SE/yW1A0k5HguJD5w4Kx4CtHvkmix/s+rhrzZAJ14n1mUf/pqDjusSxnaomnsa1FovxXi85kYvWcM+BVkD+0p5nmJNl59YyWXVdLxN+N+evwe8pJIt8PSi3mZNGQy0H7SmYuL8=;c24tO7n7dMS6EH4c567n1Q=="
 ---
 
