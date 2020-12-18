@@ -2,7 +2,7 @@
 title: "DAX 101 by SQLBI"
 excerpt: ""
 type: collection
-heat: 63
+heat: 69
 
 provider:
   name: SQLBI
@@ -13,6 +13,7 @@ provider:
       height: 50
 
 items:
+  - videos/sqlbi-previous-year-up-to-a-certain-date
   - videos/sqlbi-evaluation-of-variables-in-dax
   - videos/sqlbi-year-to-date-filtering-weekdays-in-dax
   - videos/sqlbi-measures-vs-calculated-columns-in-dax-and-power-bi
@@ -31,7 +32,7 @@ topics:
   - DAX
 
 images:
-  - url: https://i.ytimg.com/vi/71ERlpfhmwU/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/bAOs5LTP0I0/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true
