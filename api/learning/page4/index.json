@@ -1310,8 +1310,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/becoming-solution-architect/",
           "length": "PT1H43M",
           "ratings": {
-            "count": 703,
-            "average": 4.7197723
+            "count": 704,
+            "average": 4.7201705
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2099,8 +2099,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 2144,
-        "average": 4.774254
+        "count": 2146,
+        "average": 4.774464
       },
       "provider": {
         "name": "Microsoft Learn",
