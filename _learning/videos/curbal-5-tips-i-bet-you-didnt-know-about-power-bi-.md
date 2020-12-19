@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT5M7S
 publishedDateTime: 2018-05-23T10:26:42Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wxEo_hO3iIM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "VolW1PPbZ2+pPlSHZ/NHw6v6JEdLBDJajj+U5WIwW5M3m9ZPYwiobdEq42HHMqa869hfg8SlHZy2myxoUI9zNvkyVjQ11eTuWHOqGl9YUDXYPwW5ePTcLYbjM1zp/0kOpO+4c2UMIOd6ERxLnF0gwXj4AeJQPp80UXw2ukhBUFETSxzbPLxIKn+vwxOo9Yfjtt6hrsxh1p7D1X9zjbBYXC0A+NrNnmEZdmt5rmvLtgw3yqTeBSa2pcpnjniEkVPJOz1SoKrWGytjBVFFOcxZYtZp5EecLmHuabhRGqSqNYnvILNWvCJAHeU+RLQdJLiIKQEjmM4/zRQhFsfy7eK1rASCTFFL20OfzDKhzMFtXEXYp4bUXylCfmD3CCFv80H5QVS3mrwly5plQIlm2FPdWOYhYcXnyl/jgZPq3xLsKjg=;p/kW2wGHWtBT6lTfMNqR5A=="
+secured: "j/TY/RafcIRmSeeCRoGMerCHvDLOoGQyA7RlIBzaKTUxRM9Iif3SneVvgIhdVxY6sct6MKYK1SCLY/+/55aV7LZGWqWBe4M6ve7Jf3SUFs4DwxoMkMylcwH9lqURNSVoTQKIndMNi8VtWWaWLTPvgqZzMhmtLSR/cXqE/g4wUh2FAuO3pM18JspZt0PHlyZeQwe2ATyl3zjCPIfVXk7wnnk1wU27hgbhpwU1mgZQs5aTzDqaN7wrkdQH2kfFDF+ZxVA5vkNQym/VcHWqG8lazcvzU6Snw2JG+TJR8jFuvsLU24hkXw8bvEa3v5eZXJSnWFBgCYMbglmBc318kc1NF9M2I0RU/f20dJDTwHylpz2V9WfS0p0uDqs5zGF2sEUBdRt9V6AfLHqofRHqLk2xeDVPhhhhh+pmsVC/MMoh7FI=;ZmU/lGNNEB0rAcMeyLrH2w=="
 ---
 
