@@ -308,6 +308,36 @@
       ]
     },
     {
+      "path": "_learning/videos/radacad-dynamically-change-the-format-of-values-in-power-bi.md",
+      "title": "Dynamically change the format of values in Power BI",
+      "excerpt": "Can you change the format of a measure or a value in Power BI dynamically? Is it possible to set a value to be a percentage sometimes, and sometimes to be a currency? can you change the currency format? The answer to all these questions is yes. In this short video, I am going to show you how you can",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-dynamically-change-the-format-of-values-in-power-bi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-dynamically-change-the-format-of-values-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=LBBvO2ZXq9g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LBBvO2ZXq9g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M1S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-10-06T16:50:55-07:00",
+      "heat": 131,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/LBBvO2ZXq9g/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/articles/excelerator-bi-the-most-important-update-to-power-bi-desktop-ever.md",
       "title": "The Most Important Update to Power BI Desktop, Ever!",
       "excerpt": "The December 2020 version of Power BI desktop has just been released, and it is undoubtably the most important release since the first version way back in 2015. The super feature that has been released is an update to composite models using direct query of online datasets. The implications of [...]Read",
@@ -335,23 +365,23 @@
       ]
     },
     {
-      "path": "_learning/videos/learn-power-bi-learn-power-bi-scholarship-mentorship-program-apply-now.md",
-      "title": "Learn Power BI Scholarship + Mentorship Program 🎓 【APPLY NOW】",
-      "excerpt": "👉 Go to this link to apply: https://web.learnpowerbi.com/scholarship/   ⚡Power On!⚡\r -Avi Singh\r http://www.LearnPowerBI.com\r http://www.AviSing.com\r \r #PowerBI #PowerBIPro",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-learn-power-bi-scholarship-mentorship-program-apply-now/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-learn-power-bi-scholarship-mentorship-program-apply-now/",
-      "originalUrl": "https://youtube.com/watch?v=PkDwfwRL0LI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PkDwfwRL0LI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M12S",
+      "path": "_learning/videos/dhruvin-shah-search-for-a-worksapce-during-publish-new-feature-september-2020.md",
+      "title": "Search for a Worksapce during publish - New Feature September 2020",
+      "excerpt": "During this video we will demonstrate one feature which is - \"Search\" workspace name during publishing the report to Power BI Workspace. This cool feature has been launched during September 2020 update of Power BI Desktop.  Sometimes we have access on more than 100 Workspace and during the publish time",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/dhruvin-shah-search-for-a-worksapce-during-publish-new-feature-september-2020/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/dhruvin-shah-search-for-a-worksapce-during-publish-new-feature-september-2020/",
+      "originalUrl": "https://youtube.com/watch?v=glc6rLfQ7JU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/glc6rLfQ7JU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M2S",
       "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
       },
-      "publishedDateTime": "2020-09-30T09:00:12-07:00",
+      "publishedDateTime": "2020-09-26T04:25:28-07:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/PkDwfwRL0LI/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/glc6rLfQ7JU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -365,23 +395,23 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-charticulator-bullet-chart-for-one-category.md",
-      "title": "Charticulator Bullet Chart for One Category",
-      "excerpt": "In this video, I have showb how to use Charticulator for creating a Bullet Chart with one Category,",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-charticulator-bullet-chart-for-one-category/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-charticulator-bullet-chart-for-one-category/",
-      "originalUrl": "https://youtube.com/watch?v=dYfrWAcFMUo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dYfrWAcFMUo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M29S",
+      "path": "_learning/videos/radacad-polar-and-curve-chart-with-charticulator.md",
+      "title": "Polar and Curve Chart with Charticulator",
+      "excerpt": "In this short video, I have explained how to create a custom curve visual and a polar one using Charticulator. the required data for this video can be find from here: https://bit.ly/343jaw7",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-polar-and-curve-chart-with-charticulator/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-polar-and-curve-chart-with-charticulator/",
+      "originalUrl": "https://youtube.com/watch?v=uZnKuS1uYRo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uZnKuS1uYRo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M25S",
       "provider": {
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2020-09-23T17:10:15-07:00",
+      "publishedDateTime": "2020-09-27T15:51:46-07:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/dYfrWAcFMUo/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/uZnKuS1uYRo/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -392,37 +422,6 @@
       "price": "Free",
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-left-outer-join-what-it-is-and-how-to-use-it-in-power-bi-and-power-query.md",
-      "title": "Left Outer Join   What it is and how to use it in Power BI and Power Query",
-      "excerpt": "Merging two tables is one of the fundamental operations in any BI or database system. In this video, you will learn what is LEFT JOIN and how you can apply it using Power Query and Power BI. To learn more about it, read my blog here: https://radacad.com/choose-the-right-merge-join-type-in-power-bi  *******************",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-left-outer-join-what-it-is-and-how-to-use-it-in-power-bi-and-power-query/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-left-outer-join-what-it-is-and-how-to-use-it-in-power-bi-and-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=NXaK6aCouoY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NXaK6aCouoY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M33S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-11-03T14:25:55-08:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/NXaK6aCouoY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
       ]
     },
     {
@@ -802,8 +801,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 6591,
-            "average": 4.774541
+            "count": 6594,
+            "average": 4.7746434
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -844,8 +843,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 23185,
-            "average": 4.741859
+            "count": 23187,
+            "average": 4.7418814
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -904,8 +903,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 23185,
-        "average": 4.741859
+        "count": 23187,
+        "average": 4.7418814
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1016,8 +1015,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 6591,
-        "average": 4.774541
+        "count": 6594,
+        "average": 4.7746434
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1081,8 +1080,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 23185,
-            "average": 4.741859
+            "count": 23187,
+            "average": 4.7418814
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1123,8 +1122,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 14689,
-            "average": 4.70032
+            "count": 14691,
+            "average": 4.700361
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1166,8 +1165,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 5709,
-            "average": 4.704151
+            "count": 5710,
+            "average": 4.704203
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1208,8 +1207,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 4428,
-            "average": 4.7504516
+            "count": 4429,
+            "average": 4.750508
           },
           "provider": {
             "name": "Microsoft Learn",
