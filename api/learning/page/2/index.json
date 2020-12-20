@@ -72,8 +72,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 14686,
-        "average": 4.7002587
+        "count": 14689,
+        "average": 4.70032
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -676,7 +676,7 @@
             ]
           },
           "publishedDateTime": "2020-12-18T03:00:19-08:00",
-          "heat": 235,
+          "heat": 236,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/bAOs5LTP0I0/maxresdefault.jpg",
@@ -1158,8 +1158,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/",
       "length": "PT31M",
       "ratings": {
-        "count": 5726,
-        "average": 4.735243
+        "count": 5728,
+        "average": 4.7353354
       },
       "provider": {
         "name": "Microsoft Learn",
