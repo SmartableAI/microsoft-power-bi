@@ -4,7 +4,7 @@ excerpt: "In today's video I will go through the ins and outs of the new drillth
 originalUrl: https://youtube.com/watch?v=72beG_VHufU
 type: video
 price: Free
-length: PT11M18S
+length: PT13M7S
 publishedDateTime: 2017-10-04T18:14:55Z
 heat: 50
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "dUytMyxtQgDjlWvyhyLDeqdLWOvOglANJwbm5zvzbxMEYY/BF1QH2JMF69Lur6UKNhiK7HG4/yym4IuIi7HVfrQ5mNT7I6EFWCbTIpwuTh8+DdmvEXFBgEm5WaU7EfuMJ+y6pvlG9edir2U2c7/LVvJws0w8dljxJYv8q7EkOtmFPh6WbOOovpD4nVQG9uHTLPlklvuGtgg/7JPPNmP9JShgkr5YPXP4CWxXBWXAsfjs+nMbDM8kQVitdTa3aGueRoPGNtgcSFUBMIvt1n+1TxlMlZfiUy/6dkMtgT+xjSe53pvw9PH38vzvRVNoFVhH+KvE5jpmMIT0QiPnRbKhorDuHkyJVidMNMHxbElRH6pGCtHs4cK1b+aEzJ4cVQniU0Vp87wCayZ21bVm7tcRORwX5JBQYOT1Ia9gaWFl8mA=;jXf84bJoglxgmwouphDKbQ=="
+secured: "Z5rEaQv8cN3R3vMa37ru/kwxNZutRCsW07kmu7AFuuJFEdzeL9NkhT+kWjhnAoO6Y60+eYx0pwzkBOkPCYTAVjx2hyl4nYlyX6GZCTqLxg0GlD6yhLl9FKIZuNEkGguNaXkMf7NAOHerUzkskjoY9ZbvGJ6Ra/veu8yamb+pnNtbzXw/j/k65HUcY32P2k3n7UrNiu8dTGglfG5UaAUlv8I0l908SucBufRtql9Zgdd+R9oK0bX1mpeY4ZdzE8U2uwcMV/kSPre/I5bNKxW1Ugxnhv14eUPVzd/c2z6DwYjRgsHUlh8Bi8NJ6WlJyPQTFNihPVqFx9bk/ZKHduEXZlN+DfKCj5dMtqovhrQAJKY1Tv/Y/7J+EAiNCvxKMoNMW9X/c4cIWxhjpFTLreVAUjt/9brX9KmjSpk6azUnp2g=;brCHQqmAuu2gDvBw46NcWA=="
 ---
 

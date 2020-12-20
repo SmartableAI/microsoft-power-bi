@@ -4,7 +4,7 @@ excerpt: "This is the beginning of a series about how I make my YouTube videos. 
 originalUrl: https://youtube.com/watch?v=IeJgjrmtReU
 type: video
 price: Free
-length: PT7M2S
+length: PT7M1S
 publishedDateTime: 2017-06-02T14:25:49Z
 heat: 50
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "rMSk0/jqZPQ+mJF/7klMW8nnzhwgTOEgIpki9pgewCTP1N+ymYyL7pPEOidDjWN+Qc4z+kmtESshFISLflV2zeLDlQfn58D5GYtL+BPcRl1PKEsvoq58uqPXxBtiGbbftv8jAKSSiC3wfUC8XqzH2Jh+Wz1ktkxFDGpg5m7cbzB806b4AxTt/2w6tJrGPcWUoiJfmZEVNeEIc4QJ7E7b//RAM73t9oVw+9XTDk8cqs8HT4Bop5V/mZApUTDoYOrFgOiwlww2lejC7NMPW1CWUy/8hNZDllmardbhTtyGcfGJqg0j+Zeok7w+BRe0gFoDgCYIRx2DebCHG6DUtshChPzpqDIjHhs8gpDOsRSvFOEVMWAYNmUSgCaMzMG+ESuj+ZzJl/BBmpozJuvYhDPVP0sqqm2/K3pA8IEPCCiagsI=;vsP9qWiipju1mBwxbZ/vvA=="
+secured: "WRM1x5OD7K9kvpB3Nnww2Ka7MPOm6HsVNG2OOjr1e4A3Zx3gzyPnqq9tqhwpRu6yskXH3tI69yNXf8U0Tl7h68MSLg/KDQKuIPvtkxtxloSGLkBdtchIy1OGULkxfJQ3EB0HcZ4018t1hABRGN6zwm4nWUWD6ntqcON5CkwVUwTgNCtKaDBixaq1c0RyaKeiV3PbwwLGArpz3D9MCwZ3AOrdNZBi5cxAVrmp2OfChuiB30d4BJawjXbx3sjWqKPGyRXojbl+hVGs/7SThHKdAmOGumFLDeXun2yJskVSxv2TMt/vZtLfiVuII85Pr1uR5XEgcAyKewiE09gZyymT5Ydqpn+jirNGJVu3JOlUUtQ5ZjpUf8En2q8p1SeHsKjx7hDhuOn4qqawtNuiJtnA3pfe+nF2nrk35dNktupzfIk=;aScqV10H2ANaG7tJkmF8MA=="
 ---
 
