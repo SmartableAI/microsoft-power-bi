@@ -2,6 +2,7 @@
 title: "Subscribe to Power BI reports in PDF or PPT format"
 excerpt: "Do you want to subscribe with Power BI reports in PDF or PPT format? In this video I will show you how you can do that, the licenses required for the admin and the report subscribers and the limitations you need to be aware of.   Enjoy!  Here you can download all the pbix files: https://curbal.com/donwload-center"
 originalUrl: https://youtube.com/watch?v=oWL-2SXe-E0
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/curbal-subscribe-to-power-bi-reports-in-pdf-or-ppt-format/
 type: video
 price: Free
 length: PT4M43S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Jm6Ipe7XPBBYnaxZjMkfY5u9iv4zHUYCzC3ky9LUWDsXhgWfByjLVJNWF5cUGERxWMfYGZ3fal09wY8Ll8b93GYywZmwuaajUj3112/Akci49t5OaY9DqTHot5Q4yB1u4rmKSZKKIIp/D2KG06oczQSZ9wnUU0N70hg/Nx33c304Jp4y8KVZw3CJjMRfbyjJltuV6AuAH43MTQ2SFPdisLinWVn6Ba7R914U9q5RLmy26R3fa4X6Wu9vOlKt7YH35mxvEupGxQtmNS6YQ547+X1HEAEuo4vG7uY/DB8BToN6l4TPpINt/xs5KMO3CSB7bwumCR3RtYho60enLbkhI4cI+1zznG1jgFZOK3020qD+r4RSyTaRN0bhKWrrvMMqtVfAtkZBWr0QurOLoxrR9w==;vCEknlB0hb2Qj9z10ymQyg=="
+secured: "cR2yoMNI/iq1OTYybXyMUStznJ4MJJ3LBwLHYahQ2T72WR0dFr8cgkVVGwEJ5rOsc71yZKdz23CNmGtzzb2XPStAKeXWqbV1FM8VgvEJMBp7deKdqajZ0V+Sb1wkNGhjzTDcojXuZ8Bl4p/9dWdtbjNq7xCL95/c3qX+g69njw+EkSb54IGusxCE4cmhEJwgC22KewNRF1FLFLoOI5vm8xvR/H2MD9WbivVwZgYRiBiHWt6rjzKur8KJiIxqOMLRzISTGF9ibt7mzrc2SSwINcdfZyqU4N9S4476YQcCFFIEkHhrtkTg0rxCyUQck1quEtQTwmEvHRaFOepAGLQ8KJubJEUGnVpBYQMcAWOkEN3SLFqTOAG5yYO2CnFWUba+;wyIp9U2sVEDc1PR3qkgJ1A=="
 ---
 
