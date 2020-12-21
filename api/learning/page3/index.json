@@ -2822,7 +2822,7 @@
             "domain": "youtube.com"
           },
           "publishedDateTime": "2020-10-19T04:22:47-07:00",
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/db-VftNq_58/maxresdefault.jpg",
@@ -4205,8 +4205,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 5730,
-        "average": 4.704712
+        "count": 5731,
+        "average": 4.7047634
       },
       "provider": {
         "name": "Microsoft Learn",
