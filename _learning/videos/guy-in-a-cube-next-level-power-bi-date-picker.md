@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT5M22S
 publishedDateTime: 2020-09-09T15:00:23Z
-heat: 52
+heat: 56
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mXi8sMmOOTU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "xqdaBHb6WmaHjlZnp1O7nMafC9jmJC0LbdJxsVBtebpu+JMRp1/Pj7vf4qONkvCseXmQzmKrchgrlQ/1nXsm3ec1dda+o+oN/6HELhyTZrTrqqVyL3tC//o6R6cQKH/6cWEQuJBoZrwPgEHbPwdHnrPP9y24uZnWW4ZsgyNfHiT+wNE/Sw7BPWMPqfJc040+n/Nb17EXn8Lbwak0PJWKjB4ys/73YNhgLN9i278oPKDJB7P7PiaQfjTwhoJU1AgyoxdidA5CyRQwedDamtXj3eBHUulZY4lvehXqX5tMpMCQFyJogbAEt/IvqqCD6GbczBPlt7D3QsOYWY63YOFAykhXthWKViCVrZH4ImIqzmPcwpfAtJZ1S+CF2CV+yKW0MYz20tk60i63cul7BvvsedMScxTaayZHhT90rMxg5Sc=;VMu0h6iQ8syu0vm17JFd3w=="
+secured: "DbzqTM8k9goE3YUcIQQEOAqKMV8ja0rekDPS69/nyc/sgylM74otR5LIS6CsftoZgT7JAf/VnG7qU9ul5ua5/g6/1oQB/EWy9yPTpZbklpceZGYoZCi7cn4E/cth/yBNk8BKTgAEBuxITDPpIhYOODyeFdH6MpIwXVywTsYqy6+p7fOkfFis4BO8pAw42PyG7lOc1Y2461KfJ0slCwjZsAK/Zuy3MK5M6CHey6egT5Z5FD3hpF6vlMc/8p6xyZ11I2Fq+jRsjv1x296O5ZDijCNeuuSoF3fCyWoZDiyFUaHEwoyab4mFozHVjqimdscu+sw5HKjWR6yuhfLVBqdKS7ed9XPYqzxqIQHZAPkhlF0LHHFJvTSUgAYfUPn2Soxhwxc9rbNn1BkYWlXrRWGqe9DjyJjUhiAFh7DBVYUlC80=;UneUsqlmfIItb4h7X1KIFw=="
 ---
 
