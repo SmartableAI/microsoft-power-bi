@@ -6,9 +6,9 @@ publishedDateTime: 2020-12-16T14:04:00Z
 originalUrl: "https://www.bloomberg.com/press-releases/2020-12-16/mariadb-direct-query-adapter-now-available-and-certified-in-microsoft-power-bi"
 webUrl: "https://www.bloomberg.com/press-releases/2020-12-16/mariadb-direct-query-adapter-now-available-and-certified-in-microsoft-power-bi"
 type: article
-quality: 53
-heat: 53
-published: false
+quality: 73
+heat: 73
+published: true
 
 provider:
   name: Bloomberg
@@ -21,6 +21,12 @@ provider:
 topics:
   - Power BI
 
-secured: "Xss81wzWSAC2dzPzijFXS2VmOD1P1cgykb37FUhNVDZS2BHTQYJBh3TefpBYe41tsxjU5sSOc7KIbkcFhY0v1+PnXRL71ZeuqBFYlcBS+r1Tii0oCx/IG9MdWpSOqewkbqRcCjBjwjWUeM3ADVwSjP6kMSqrhDI7aFgeC8F+OwQHjoEcrQ1KP81wHj+3yK7cxE7nhj5+aNzUK7oWukLLX2ntOdLHzrY/a4/D5dqdKOP1MXXQ2T7R2xWudgnedRlEl8+8GCviXZNZ+CXCC0HaycoY/pnginyU2E8JxmBBaoGBpGuaiAYh4ZscH+IBSCKEL4Hm0RaJVEcM7lx0fruiR4GagF2HV+quGPnE2sX1i6w=;9Ma/+dT0g2dzoujbvIkkXg=="
+images:
+  - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "mHiYkODO1rbN7wRA3L+fRzyUU4qnfRo9NCVf8fCvnFlVH3xttRsszQjKeUpqxdd06UPorzVx8Wx4raalJRAK8UWCpmRk+twvgcdIEjW9M2X/7MUjV02f+6UL+RVlbo0UmYbfxjZlFTJFMBoBRr31tPRK6idf8U4V/LpTehbC2tSkjxDz2NiTokgAgyNDFGt2vhO/RcGB7iAsSSGEK4x1w2jcuRlhpDyiCpziBlK0dR/CHpeW9rXQ2xNhDixQAo0WdrPmrcIYL/BP2RMDDgvZgwKOgFHYcDcwje/UTEJmKh6dbtUtTnj+C99NXWhILegrKvQ/a5f8g46256sybkRZtxYDBbAfEmkKoeYf8tjBef8=;Cbyh/pcEvdonytEWUOTC+w=="
 ---
 
