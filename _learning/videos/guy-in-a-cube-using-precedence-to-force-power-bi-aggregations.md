@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Using Precedence to force Power BI Aggregations"
 
-secured: "ClrpqhslnP+/zGg8DzC28cqhJ2Oh0JY7tm4e7h3q5EaYMyDNpI3dPcmsDaxyysp4/UD0/G+mkkhujvPIYjb//lRU6M+dwH+YwGNHoC6pBv6KwrRcL4ExhubyKsJ+QBsuo0qKeq/BLS3rfYyl9fm3uqhNhC0SrrbZxn8On0/yiM/Hwj+9DkK3i/QwG+3WH43N7T68MA/4dC1MKoZyeL3mihiy4CdyCoG530U6gsnasrYrEiK+oSKoVgX60BNB770Qg7SLlD4ualy0aIsgIT4m/GBcvPhwCJG+LuN3Zy2m+b2u49nVPa8RQ1Qp8WC4mHciC0ZKSoFkYmU1vrjTjtNoMk/rWOLOzNRizZUQDgSp+InxBYtwWHRuWKbhyAsbIDM3o7qRDoWt+l9/8ilcxPr5bvPyerxHsIHRMU5M0sCMN18=;F2H1pc06bDLFT/rx/7C3rA=="
+secured: "uf0gSz69vK+XoJ6Z3ebMEZ3Dm0iEmAGeRgPaZVMFnwvyPuJS0UOTOFOuGpgsdboVk/m2DdCxoNxD9gOQktvOzA8JBwKAIreyu93MflZhEuSONsRhpheyJRtaRJJpTe+MkRdcLh4ybHNlGBUI5oZkfw5ocThhDxomCxJKwmm9h5yV9/3U1pzI/Ql/ktkHHw2bPJCal43ZOkq9/xY1mR8BpHXYNxPFe6iyjZiL6SpJq2+0WNaLQXnVbHKQsfoTMYece5hDnNgUjWvotn+o38oEXP2aTWImk3Tg9FbC8/7v5SR+SYP5tr7HEAgGiQHXXIytKs27pShKbFLspTyiX1hE1cUveMZlkZI2FipvXdsFaCK/vX8A9cEZev460UvepO9CxHV8iL1mPgO1SN4ZSqf0Ajh1wG2vGAN0EGLlwm42orE=;G86o39/dPRacENzIaZlu2Q=="
 ---
 

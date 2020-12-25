@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT12M31S
 publishedDateTime: 2018-05-15T13:19:05Z
-heat: 59
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CajQjq70Kpg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "WH07tqs35oeBDksdoahDa5//E0d1/cSNZEgvAhjKCtExkfQBges/OzrC6aG+oKwbI8/grN/hK3mt8QQxyLUbGAijjyjg2GZwCBYPHTSM3BrWvufYM5qT8QlFgmImbOO1j2Wu8d0cRp2rWh16TTzF332iPj7nJAXmQgTcdGi2iK936PHcROmUk18abDmALy1I0sQdJ6mS3SPBYHPSJqQTuF3GjMy1fNlEx2TXxBafboxRAx49GDHXFbNqaZF2L6ehR4hLSzvuqsvfTtn85GYqm/YhZX2+/MCHKoK/WudHYJ/zaWzgYYJ+T8QkcLbrUh1Q6h5LLWQSIg0xyaa58tCDp76IIcDAp/f2XVAlIfAhzbaiYK992mbv+HQ9bsPlpUIj/6L6hAlSybUtz7j4NqHqcRONqAqVxl2iQwMF8ofSRsA=;y0Bbuodqxco8RtzyeZcCqQ=="
+secured: "lMmMeXTbMBEyAntei352+ddrh1hUIdSGXvhIH+NfjAD38HKpGRqcydra/CTAE0TyQ/YfirT1vDJOnVXAkZ0D+5Fui6f5KhoPP3q7YDJgyeUEeWoRNlAUHJ9kJJFv3+RT6MLJjZQ4xjhW/q27/EfdGoUcmjQr+5xVsp/YpK2OVsMSRrUAkD6ug+7HyT+wxVeW8y0MaZAGnnm0rP7etM/UeHoXLC+A8143t/f/E6La6AO5nULriRd/fhnRfuFYz/nfsWoK8hQEGEyWnuRb8get6O7GFFtuAMTicH4DM8pnVgRZr37QIX3JoGGjXzRm+8/TYkhhjpUsVr2UrPNhURfEMv1HY+rSumc1QOwvdfSiUQTIWTroe+wZ2jiuj3DsCU8a6AbOvRT71KQpXTmhWu57JyG3gpLssfK2Sa9l5FLbWP0=;EMqV+5AjbgoTLvhlIh+Psw=="
 ---
 
