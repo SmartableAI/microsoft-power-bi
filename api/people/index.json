@@ -4,45 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_people/mike-carlo.md",
-      "title": "Mike Carlo",
-      "excerpt": "Consultant for Concurrency for all things PowerBI. With over 11 years of data experience I'm making waves by deploying PowerBI into local Milwaukee Companies.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/people/mike-carlo/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/people/mike-carlo/",
-      "type": "profile",
-      "name": "Mike Carlo",
-      "bio": "Consultant for Concurrency for all things PowerBI. With over 11 years of data experience I'm making waves by deploying PowerBI into local Milwaukee Companies.",
-      "location": "United States",
-      "website": "https://t.co/Z3zO6dilSk",
-      "twitter": {
-        "username": "Mike_R_Carlo",
-        "url": "https://twitter.com/Mike_R_Carlo",
-        "followers": 1969
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/michaelcarlo/"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Power BI Tips",
-        "domain": "powerbi.tips"
-      },
-      "topics": [
-        "Power BI"
-      ],
-      "heat": 87,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1109338504268439552/OY_Va867_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Mike Carlo",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_people/avi-singh.md",
       "title": "Avi Singh",
       "excerpt": "Power BI has transformed my life, multiplying my impact manifold. Now I am on a mission to spread the word and share the knowledge",
@@ -56,7 +17,7 @@
       "twitter": {
         "username": "powerbipro",
         "url": "https://twitter.com/powerbipro",
-        "followers": 4475
+        "followers": 4476
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/avichalsingh/"
@@ -76,53 +37,6 @@
           "width": 400,
           "height": 400,
           "title": "Avi Singh",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/adam-saxton.md",
-      "title": "Adam Saxton",
-      "excerpt": "Principal PM @Microsoft working on #PowerBI, #SSRS and #SSAS. I also go by @GuyInACube",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/people/adam-saxton/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/people/adam-saxton/",
-      "type": "profile",
-      "name": "Adam Saxton",
-      "bio": "Principal PM @Microsoft working on #PowerBI, #SSRS and #SSAS. I also go by @GuyInACube",
-      "location": "Conroe, TX",
-      "website": "https://t.co/sfMHqOSfBC",
-      "twitter": {
-        "username": "awsaxton",
-        "url": "https://twitter.com/awsaxton",
-        "followers": 5540
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/guyinacube/"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI"
-      ],
-      "heat": 77,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/793178443865128960/6MtOhub__400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Adam Saxton",
           "isCached": true
         }
       ],
@@ -189,7 +103,7 @@
       "twitter": {
         "username": "Rad_Reza",
         "url": "https://twitter.com/Rad_Reza",
-        "followers": 7061
+        "followers": 7062
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/rezarad/"
@@ -249,7 +163,7 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 64,
+      "heat": 57,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/415691890080894976/g0hNL2mf_400x400.jpeg",
@@ -273,7 +187,7 @@
       "twitter": {
         "username": "Seth_C_Bauer",
         "url": "https://twitter.com/Seth_C_Bauer",
-        "followers": 1746
+        "followers": 1747
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/seth-bauer/"
@@ -286,13 +200,99 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 57,
+      "heat": 50,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1176155552587681793/4aUcPKoe_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Seth Bauer",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/adam-saxton.md",
+      "title": "Adam Saxton",
+      "excerpt": "Principal PM @Microsoft working on #PowerBI, #SSRS and #SSAS. I also go by @GuyInACube",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/people/adam-saxton/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/people/adam-saxton/",
+      "type": "profile",
+      "name": "Adam Saxton",
+      "bio": "Principal PM @Microsoft working on #PowerBI, #SSRS and #SSAS. I also go by @GuyInACube",
+      "location": "Conroe, TX",
+      "website": "https://t.co/sfMHqOSfBC",
+      "twitter": {
+        "username": "awsaxton",
+        "url": "https://twitter.com/awsaxton",
+        "followers": 5541
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/guyinacube/"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI"
+      ],
+      "heat": 42,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/793178443865128960/6MtOhub__400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Adam Saxton",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/mike-carlo.md",
+      "title": "Mike Carlo",
+      "excerpt": "Consultant for Concurrency for all things PowerBI. With over 11 years of data experience I'm making waves by deploying PowerBI into local Milwaukee Companies.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/people/mike-carlo/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/people/mike-carlo/",
+      "type": "profile",
+      "name": "Mike Carlo",
+      "bio": "Consultant for Concurrency for all things PowerBI. With over 11 years of data experience I'm making waves by deploying PowerBI into local Milwaukee Companies.",
+      "location": "United States",
+      "website": "https://t.co/Z3zO6dilSk",
+      "twitter": {
+        "username": "Mike_R_Carlo",
+        "url": "https://twitter.com/Mike_R_Carlo",
+        "followers": 1969
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/michaelcarlo/"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Power BI Tips",
+        "domain": "powerbi.tips"
+      },
+      "topics": [
+        "Power BI"
+      ],
+      "heat": 42,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1109338504268439552/OY_Va867_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Mike Carlo",
           "isCached": true
         }
       ],
