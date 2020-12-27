@@ -417,8 +417,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 699,
-            "average": 4.602289
+            "count": 700,
+            "average": 4.602857
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1356,8 +1356,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 14789,
-        "average": 4.7011967
+        "count": 14790,
+        "average": 4.701217
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1399,8 +1399,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/",
       "length": "PT31M",
       "ratings": {
-        "count": 5854,
-        "average": 4.7348824
+        "count": 5856,
+        "average": 4.734802
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2187,8 +2187,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 2223,
-            "average": 4.7552857
+            "count": 2225,
+            "average": 4.7555056
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2229,8 +2229,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 2273,
-            "average": 4.776507
+            "count": 2276,
+            "average": 4.7768016
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2781,8 +2781,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 2223,
-        "average": 4.7552857
+        "count": 2225,
+        "average": 4.7555056
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3951,7 +3951,7 @@
             "domain": "youtube.com"
           },
           "publishedDateTime": "2020-10-19T04:22:47-07:00",
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/db-VftNq_58/maxresdefault.jpg",
