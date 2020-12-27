@@ -197,7 +197,7 @@
             ]
           },
           "publishedDateTime": "2016-02-24T15:04:39-08:00",
-          "heat": 52,
+          "heat": 50,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/sbPS3ZKIt7g/maxresdefault.jpg",
@@ -275,7 +275,7 @@
             ]
           },
           "publishedDateTime": "2017-07-05T08:24:12-07:00",
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/e8SXO4SaszY/maxresdefault.jpg",
@@ -2085,8 +2085,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 2261,
-        "average": 4.775763
+        "count": 2262,
+        "average": 4.775862
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2683,8 +2683,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 1394,
-            "average": 4.756815
+            "count": 1395,
+            "average": 4.7569895
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2768,8 +2768,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 1228,
-            "average": 4.7491856
+            "count": 1229,
+            "average": 4.7493896
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2828,8 +2828,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
       "length": "PT2H8M",
       "ratings": {
-        "count": 1394,
-        "average": 4.756815
+        "count": 1395,
+        "average": 4.7569895
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2904,8 +2904,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
       "length": "PT43M",
       "ratings": {
-        "count": 1228,
-        "average": 4.7491856
+        "count": 1229,
+        "average": 4.7493896
       },
       "provider": {
         "name": "Microsoft Learn",

@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Tooltips, tooltips, tooltips in Power BI"
 
-secured: "o18Ny6BKXI/p1MAD+HWk0QlfTy+aFvJwqfkQb/PsTwDf/IUkGdqAPU7g5ptbM/z5T4i2afvDPBx1uIw3AQSXdlNIGEt//xW9d0NTZUckXltu7CTWmWMrRUPdUsK5DCUS/1zYu3/LXsziieeypCbDJshooOiNN1f2U8xtueYwGmr4hK4whF/VYkgizcUq0C699BFJ5hoK7VcEMAIdM1NVhLGB8yZPJVTm6tAGKNVC8mOfUX0v0lBwTatRZK+Z4g2jTZ5q7oDwgoWqOdaX8JUuN5/sYrH8PWUo0ObeosOiZ/ZMSHvh+3y4P34ef1eZNixHxxXAG1cSKcu8PtpkhiUx/O/jA6fykpNZ2SKvNY7w5JWcK3FeMHZria1tOM9yvdcWhWnbAa4sxyq8iP/ifzI36IsnGMvzCFJneT1icnMlp5E=;nGM9ETzGbfcZ4II0w/tczw=="
+secured: "ToF82scyNVDuCwduZKAS2SW2e/y1w3nZhI06474X1MMcRAbUey2GApV//DNz8zo9QNIw/gjunEZVEI4TEGgSdbSdLxgffp6x58ik2aSBS+W2vhkLAP4UfQJ2RcCfseYDiErDHpuvPVw6AEAZF7lxuK+Y2litdC109UF5dbLNX9JFlBUf94jJZ0FCgSGIy+1Hl1T7DOUm1AnHItUqrDLuLkk9MyX1fBzTmtDrRiix5fnveSVh2TfW/s8JwDRWSqyPGlObukmIi2BoIysCa9t+NyD7toagqhHolkHOfcUrfHsF6Jy/y98d/3MlLQxeWWaY9iNUlHpbXzu0l1S9JskK9vG9X8os0AoR8xtvb+rHjAMKKPt4q9pQghGcymGP+pPCQ5ZaCZhKoN89rH+wP1NGBQ/2GwTAuvFY+AcsPJgQXfs=;cmC76+70NyY83N/Jhv4szg=="
 ---
 
