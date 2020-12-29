@@ -4,7 +4,7 @@ excerpt: "A Solution Architect is responsible for the successful design, impleme
 type: collection
 price: Free
 length: PT3H57M
-heat: 60
+heat: 156
 
 provider:
   name: Microsoft Learn
