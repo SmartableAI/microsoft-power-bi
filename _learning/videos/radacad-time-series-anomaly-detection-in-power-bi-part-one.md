@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT10M21S
 publishedDateTime: 2020-11-16T21:26:43Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Dstbrawsunk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "G73FfrnWJcHL4nRqV2zTl6ZENO0QDhxzEIBssss+csS0cBqR4+cvUVz9CB515DPegIRq+gCp22FPC1y2MNUxiLdE5s9niFxqh/28TUtnJgZphKlX7PvOnEmvCZMM4CIFTI8Xo7JcKeEgBcyiGJunlrjka25FiVKH4kKhGdWksMZMuc5p+iPPlp0ntYPIgav1lS9ZZkZguwNS5YhdtJF6siaJQ7N72w83NEGCssLhPrvikHCkCThF/J4mj6j8QVmDi7NK88OQa2yGe/BdV+jfF1v1p3h7b+pvyqu/1grDxWoK6EvB+/XSmz05Z/qgqymhsGAuI0mjI+y1itYOKC1YS3OzhdXxeTh17Hne0KMsLRcOHwPTX5Xy2fNrAvEOtFMxhF/VbFBUPfh0WBa26zAanDFcruQIF/gLDkCXTx7c95M=;bGlTGZY2mz0vIQQUFgzn5g=="
+secured: "j+0bhWXVESHsfAfjoHN3mX/PgewhrWHOdpImAOuT4tjLZD2010TZZceKzMRBSfIHVFrcH9fAEz+uywGKVFGoEFW4QAzQ3X1xPaFWqdZJS5U9sslWHQfuNlqxz0NKY36rDAMz7UOcL6oTFJ5Ete18Ta4Xhbc3Mlj3qtslKPSpLjHdwzBWMQtRrOAZOl1uR/eam1ISbAVy9neZagpBmLpJlTcy0+TXIWwft4NrCtClb7fZrDMaHCNAo9JepAjUT1QkHNlr1UE96M1z35wYqwv+fuhCO+4ARP7ngyQLZIRF5hnSkuw42SrtrXBMOWqRqtsSikx0DFMKxCEj9vR34qjclGcuGrLjPYIiEtvU2PXFh2NwY7Y1DM46qyn9npp+ZTdqtAaihnviMzvYSUx7btNBimOED+ue/bB3q6/Cxt1xcm4=;EgHvIfT1L8mlAGhjx3yh/g=="
 ---
 
