@@ -2,6 +2,7 @@
 title: "DirectQuery for Power BI dataset   How does it work"
 excerpt: "In my previous article and video, I explained why DirectQuery for a Power BI dataset is an important feature. In this blog and video, I explain how this feature works step by step. Read more by studying my blog article here: https://radacad.com/directquery-for-power-bi-dataset-how-does-it-work  *******************"
 originalUrl: https://youtube.com/watch?v=WowP5vOgeqI
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/radacad-directquery-for-power-bi-dataset-how-does-it-work/
 type: video
 price: Free
 length: PT14M1S
@@ -23,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "hfX6GRIARiyeZmoIm93ddz6xLawHCfYJ5tQIz0bBUVcTWJ6Ix3m5PlEFXQPaA6cZojinu9owiWJFQvjQsV0NpOdBSBPMO1bW+HkPI0H1KqcN7Vb+MuZ4jRsIHrB0gvm4AFxzognwMWwNa8wu1/VduKleLgdYsYqlp/F/XY5rwv16us89fwkCLwNh8x8dQdGuctoDXQWrlyiaCEUVbX7TIKZWg004rAccETe5+f0/UKP/f+l2cTz4/CWpJ5CbMFGmUtASt76WdwKmvxgTqdb4E/678UJvoEYxFhqnq4BxalcZvTelZ9+AiJ47wM2+e/Rn0i275XwBpm4/ZPHRTj8F2zyzR28jkC6kZ51nw/LuPA6n9rSZce39rKAxSwlLvhz9;1qB3He9RM5QWJds60Ti98g=="
+secured: "4KVPDuLn+uMAacRDjMuQ+LrTKeic8fwyBA/MjZsy9+MlUhLl1FKfQg1ztaF2S46bRweXchu27nWqmSLIaGg2kI5MGjYDaMkXf0iMR+AObSmksAIPzo+w9BuDJxFRcZNrhvgZz57UKx8WLgCxhm2T1jKDkGnM7iQgM0aiAOqTguVf1EBv3aVfdnQeQ2Bu1U9JAD7KKkW3NmWNFXlXESWAunif59Cjd42W5oiB0APYZkkBwmtAewZoljOE79V1H3gy744pG1Fr5tvyMxavmJ0XNjwru9KYXHzOuZ2nSHnQUFyVLpVK8xadZ8yWfnHqD/ORt9NQ3xcjfdxa/GcW728HrdncpBiGIDTPgWas74z2KV+DuNmRs+qwaiF1WeDP9FBh;mvfxh/VdE0nURkW//2j3vw=="
 ---
 
