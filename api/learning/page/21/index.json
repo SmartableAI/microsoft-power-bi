@@ -4,6 +4,276 @@
   "page": 21,
   "value": [
     {
+      "path": "_learning/videos/curbal-create-an-excel-based-budget-app-with-powerapps-and-use-it-in-power-bi.md",
+      "title": "Create an excel based budget app with PowerApps and use it in Power BI",
+      "excerpt": "In today's video I will walk though how to create your first powerapp using excel and onedrive as a source.  The app will be a budget file app that we will them import into Power BI for further analysis, both the data and the appö  The possibilities are endeless!! Enjoy!    Looking for a download file?",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-create-an-excel-based-budget-app-with-powerapps-and-use-it-in-power-bi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-create-an-excel-based-budget-app-with-powerapps-and-use-it-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=L_akITl4OVw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/L_akITl4OVw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M24S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-01-28T09:33:12-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/L_akITl4OVw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-create-and-run-your-first-python-script.md",
+      "title": "Create and run your first python script",
+      "excerpt": "In today's video I will show you how to run create and run your first python script, a fun python script, to be more precise!  Hope you enjoy it and looking forward to see you own creations!  If you haven't work with Python before, I recommend you to check this two videos first: Install python and more:",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-create-and-run-your-first-python-script/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-create-and-run-your-first-python-script/",
+      "originalUrl": "https://youtube.com/watch?v=CS0fCETOhMs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CS0fCETOhMs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M12S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-12-06T02:36:25-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/CS0fCETOhMs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-create-custom-connectors-in-power-bi.md",
+      "title": "Create custom connectors in Power Bi",
+      "excerpt": "In today's video, I will show you how to create a custom connector in Power BI.  Link to Github site:  https://github.com/Microsoft/DataConnectors    Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-create-custom-connectors-in-power-bi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-create-custom-connectors-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=eul2fBbtmEs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eul2fBbtmEs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M57S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-08-28T13:40:40-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/eul2fBbtmEs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-create-hierarchies-in-power-query.md",
+      "title": "Create Hierarchies in Power Query",
+      "excerpt": "In today's video I will show you how to create hierarchies in Power Query. I showed you in a previous video how to create hierarchies using DAX: https://www.youtube.com/watch?v=EzfLJFEKV8I but this time we will use Power Query.  Link to PowerBI file: http://gofile.me/2kEOD/kr5z9Do2H   Looking for a download",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-create-hierarchies-in-power-query/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-create-hierarchies-in-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=oEOaqyaZTZw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oEOaqyaZTZw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M3S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-03-28T13:21:52-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/oEOaqyaZTZw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-css-not-found-on-new-power-bi-web-connector-download-28.md",
+      "title": "CSS not found on new Power BI web connector?  😬- Download 28",
+      "excerpt": "No CSS selector was found for the sample values you provided.  Are you having issues with the new connector? No problem, In this video I will show you how to help Power Query scrape websites that you couldnt do before.  Link to pbix file:  Go to our Download Center/ community downloads and get file #28:",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-css-not-found-on-new-power-bi-web-connector-download-28/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-css-not-found-on-new-power-bi-web-connector-download-28/",
+      "originalUrl": "https://youtube.com/watch?v=v896D-1rxO4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/v896D-1rxO4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M58S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-05-21T03:12:44-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/v896D-1rxO4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-d52-easy-and-fast-infographics-in-power-bi-.md",
+      "title": "#D52 Easy and fast infographics in Power BI 📈",
+      "excerpt": "In a previous video I showed you how to create infographics using the infographic designer, in today's video I am going to show you how to do it without using the custom visual. #powerbi #curbal #infographics  Sources mentioned in the video: Infographic designer tutorial: https://www.youtube.com/watch?v=XwOIIuRg-EI",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-d52-easy-and-fast-infographics-in-power-bi-/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-d52-easy-and-fast-infographics-in-power-bi-/",
+      "originalUrl": "https://youtube.com/watch?v=3671_O2iOu0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3671_O2iOu0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M57S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-08-20T03:16:46-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3671_O2iOu0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dataflows-and-power-query-november-2020-update.md",
+      "title": "Dataflows and power query - November 2020 update",
+      "excerpt": "Have you seen the new and upcoming features released on November 2020 for Dataflows and Power Query? In today's video, I will go through them so you stay up to date:  00:00 Intro 00:24 New Diagram view 01:36 New schema view 02:16 Add column from example  02:20 Add web from example 03:13 Fuzzy grouping",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-dataflows-and-power-query-november-2020-update/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-dataflows-and-power-query-november-2020-update/",
+      "originalUrl": "https://youtube.com/watch?v=ss75hzPSY20",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ss75hzPSY20\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M18S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-11-16T03:24:58-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ss75hzPSY20/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query",
+        "Dataflows"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-dax-fridays-11-using-variables-in-dax.md",
       "title": "DAX Fridays! #11: Using variables in DAX",
       "excerpt": "Variables are an extremely useful feature in DAX, but perhaps not a well known one. Variables, 1. Make your formulas more readable 2. You can reuse them through your report 3. Can also be tables 4. Are more efficient  Download our Growth dashboard if you want to see the example live:http://curbal.com/blog/the-ultimate-dashboard-to-track-your-website-growth-with-google-analytics-and-power-bi-supercharged-excel",
@@ -82,14 +352,14 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-dax-fridays-115-value-weekno-year-previous-week-dashboard-on-fiscal-calendar.md",
-      "title": "DAX Fridays! #115:  VALUE, WEEKNO, YEAR - Previous week dashboard on fiscal calendar",
-      "excerpt": "In today's video we will be covering VALUE, YEAR and WEEKNO, to create a dashboard that shows data from the previous week.   It is easier than you think, but if your weeks don't start on Sunday and you have a week number column that you need to sort using a fiscal calendar, then it gets a bit trickier",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-dax-fridays-115-value-weekno-year-previous-week-dashboard-on-fiscal-calendar/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-115-value-weekno-year-previous-week-dashboard-on-fiscal-calendar/",
-      "originalUrl": "https://youtube.com/watch?v=2ya3pdgemP4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2ya3pdgemP4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M28S",
+      "path": "_learning/videos/curbal-dax-fridays-113-unpivot-tables-with-dax.md",
+      "title": "DAX Fridays! #113: Unpivot tables with DAX",
+      "excerpt": "Let me start by saying: \"you shouldn't do it in DAX\", but if you still have to do it, in this video I will show you how to unpivot tables with DAX.  I will then unpivot them using Power Query so you can see the difference, and how Power Query can be faster and more efficient for cleaning data.  Have",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-dax-fridays-113-unpivot-tables-with-dax/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-113-unpivot-tables-with-dax/",
+      "originalUrl": "https://youtube.com/watch?v=9Xv8COs59tc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9Xv8COs59tc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M38S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -102,11 +372,11 @@
           }
         ]
       },
-      "publishedDateTime": "2019-02-15T04:55:45-08:00",
+      "publishedDateTime": "2019-01-31T08:21:49-08:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/2ya3pdgemP4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/9Xv8COs59tc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -121,14 +391,14 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-dax-fridays-122-dax-variables-deep-dive.md",
-      "title": "DAX Fridays! #122: DAX Variables deep dive",
-      "excerpt": "Lets do a deep dive into variables shall we? In this video, I am going to cover the following: 1. Naming variables, dos and donts 2. The syntax for calling variables 3. Can a variable refer to a measure? 4. Can a measure refer to an external variable? 5. Can a variable refer to a variable? 6. Can a variable",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-dax-fridays-122-dax-variables-deep-dive/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-122-dax-variables-deep-dive/",
-      "originalUrl": "https://youtube.com/watch?v=z6VFrGWzDQ8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/z6VFrGWzDQ8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M2S",
+      "path": "_learning/videos/curbal-dax-fridays-119-containsstring-containsstringexact.md",
+      "title": "DAX Fridays! #119: CONTAINSSTRING, CONTAINSSTRINGEXACT",
+      "excerpt": "In today's video we will cover two new DAX functions released on the Power BI Desktop Update March 2019. The functions are CONTAINSSTRING and CONTAINSSTRINGEXACT. Enjoy! #curbal #daxfridays #powerbi #dax  Get Northwind Dataset: https://www.youtube.com/watch?v=k3NMIlLffrU  Link to DAX Fridays survey:",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-dax-fridays-119-containsstring-containsstringexact/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-119-containsstring-containsstringexact/",
+      "originalUrl": "https://youtube.com/watch?v=3N0udB2GDE8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3N0udB2GDE8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M8S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -141,11 +411,50 @@
           }
         ]
       },
-      "publishedDateTime": "2019-04-11T07:15:41-07:00",
+      "publishedDateTime": "2019-03-15T05:58:59-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/z6VFrGWzDQ8/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/3N0udB2GDE8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-121-why-you-should-avoid-bi-directional-relationships.md",
+      "title": "DAX Fridays! #121: Why you should avoid bi-directional relationships",
+      "excerpt": "In this video, I am going to show you a trick on how to avoid bidirectional relationships in your model, even when you are a beginner.   Link to many-to many video: https://www.youtube.com/watch?v=NdrrjkvH2zo Link to how to avoid birectional relationships: https://www.youtube.com/watch?v=VDTSZJRw6r0",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-dax-fridays-121-why-you-should-avoid-bi-directional-relationships/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-121-why-you-should-avoid-bi-directional-relationships/",
+      "originalUrl": "https://youtube.com/watch?v=IlxqDCIuarU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IlxqDCIuarU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M59S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-04-03T06:40:26-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/IlxqDCIuarU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -238,45 +547,6 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-dax-fridays-131-create-a-custom-relative-date-filter-in-power-bi.md",
-      "title": "DAX Fridays! #131: Create a custom relative date filter in Power BI",
-      "excerpt": "When the custom date filter in Power BI doesn't do what you need, how you create your own? What if you need to do it by week? Lets find out in today's #daxfridays video. #powerbi #dax #curbal #daxfridays   Get Northwind Dataset: https://www.youtube.com/watch?v=k3NMIlLffrU  Link to DAX Fridays survey:",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-dax-fridays-131-create-a-custom-relative-date-filter-in-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-131-create-a-custom-relative-date-filter-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=gGNxKluPFNw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gGNxKluPFNw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M40S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-07-05T02:31:44-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/gGNxKluPFNw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/curbal-dax-fridays-133-percentileexc-and-percentileinc.md",
       "title": "DAX Fridays! #133: PERCENTILE.EXC and PERCENTILE.INC",
       "excerpt": "In today's video I will explain  how to calculate quartiles in power bi and why they are useful. Happy summer! #curbal #powerbi #dax #daxfridays  Get Northwind Dataset: https://www.youtube.com/watch?v=k3NMIlLffrU  Link to DAX Fridays survey: http://bit.ly/2MMM4KK    Here you can download all the pbix",
@@ -316,14 +586,14 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-dax-fridays-144-rollup-rollupgroup-issubtotal.md",
-      "title": "DAX Fridays! #144: ROLLUP, ROLLUPGROUP, ISSUBTOTAL",
-      "excerpt": "You asked me to review the DAX functions you can use together with SUMMARIZE and we do just that in this video. We will cover ROLLUP, ROLLUPGROUP and ISSUBTOTALS. Happy Friday!  Get Northwind Dataset: https://www.youtube.com/watch?v=k3NMIlLffrU  Link to DAX Fridays survey: http://bit.ly/2MMM4KK   Here",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-dax-fridays-144-rollup-rollupgroup-issubtotal/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-144-rollup-rollupgroup-issubtotal/",
-      "originalUrl": "https://youtube.com/watch?v=V0lLgLVL1xg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/V0lLgLVL1xg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M22S",
+      "path": "_learning/videos/curbal-dax-fridays-136-correlation-in-power-bi.md",
+      "title": "DAX Fridays! #136: Correlation in Power BI",
+      "excerpt": "In today's video I will show you what correlation is and how to calculate it in power bi, as well as show you the correlation custom visual. #powerbi #curbal #dax #daxfridays  Get Northwind Dataset: https://www.youtube.com/watch?v=k3NMIlLffrU  Link to DAX Fridays survey: http://bit.ly/2MMM4KK    Here",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-dax-fridays-136-correlation-in-power-bi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-136-correlation-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=xtRXakHARZg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xtRXakHARZg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -336,50 +606,11 @@
           }
         ]
       },
-      "publishedDateTime": "2019-10-01T09:05:03-07:00",
+      "publishedDateTime": "2019-07-11T04:26:05-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/V0lLgLVL1xg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-146-ignore-rollupgroup-rollupaddissubtotals.md",
-      "title": "DAX Fridays! #146: IGNORE, ROLLUPGROUP, ROLLUPADDISSUBTOTALS",
-      "excerpt": "Link to resources mentioned in the video: Summarize : https://www.youtube.com/watch?v=-Ola264bKXk Addcolumns+summarize : https://www.youtube.com/watch?v=hoIsIsa6b4M Summarize + rollupgroup: https://www.youtube.com/watch?v=V0lLgLVL1xg Summarizecolumns:  https://www.youtube.com/watch?v=IdMsKbHfyn4  Get",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-dax-fridays-146-ignore-rollupgroup-rollupaddissubtotals/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-146-ignore-rollupgroup-rollupaddissubtotals/",
-      "originalUrl": "https://youtube.com/watch?v=ao1o3LeFMPQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ao1o3LeFMPQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M33S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-10-03T06:07:31-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ao1o3LeFMPQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/xtRXakHARZg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -433,84 +664,6 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-dax-fridays-15-switch.md",
-      "title": "DAX Fridays! #15: SWITCH",
-      "excerpt": "Learn how to use the function SWITCH in DAX/ Powerpivot. Switch is the equivalent of IF but it has easier syntax and therefore it is easier to read.  PREVIOUS VIDEO: https://www.youtube.com/watch?v=-Ola264bKXk NEXT VIDEO: -  Looking for the download file? Go to our Download Center: https://curbal.com/donwload-center",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-dax-fridays-15-switch/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-15-switch/",
-      "originalUrl": "https://youtube.com/watch?v=-ykkaAtlCMc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-ykkaAtlCMc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M27S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-11-10T13:09:09-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-ykkaAtlCMc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-152-all-vs-allexcept.md",
-      "title": "DAX Fridays! #152:  ALL vs ALLEXCEPT",
-      "excerpt": "In todays video we will go through the differences between all and allexcept dax functions.  Get Northwind Dataset: https://www.youtube.com/watch?v=k3NMIlLffrU  Link to DAX Fridays survey: http://bit.ly/2MMM4KK   Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-dax-fridays-152-all-vs-allexcept/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-152-all-vs-allexcept/",
-      "originalUrl": "https://youtube.com/watch?v=1-x8gnMNj-w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1-x8gnMNj-w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M3S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-11-15T06:44:08-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/1-x8gnMNj-w/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/curbal-dax-fridays-154-dynamic-currency-conversion-with-dax.md",
       "title": "DAX Fridays #154: Dynamic currency conversion with DAX",
       "excerpt": "In today's video I will show you an elegant and simple way to do currency conversion dynamically in power bi with dax.  Get the file from Kasper's blog post: https://www.kasperonbi.com/currency-conversion-in-dax-for-power-bi-and-ssas/  Do calculated columns in power query: https://www.youtube.com/watch?v=oqcWZXx70qs",
@@ -536,45 +689,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Q4hF4CwJsFE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-158-productx-growth-rate-calculations.md",
-      "title": "DAX Fridays 158: PRODUCTX - Growth rate calculations",
-      "excerpt": "Did you made a good investment last year? Do you know how to calculate that using DAX? In this video I will show you how to calculate compound growth or investment grown using PRODUCTX.   Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-dax-fridays-158-productx-growth-rate-calculations/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-158-productx-growth-rate-calculations/",
-      "originalUrl": "https://youtube.com/watch?v=jIb--ImdjNg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jIb--ImdjNg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M19S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-01-10T04:56:26-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jIb--ImdjNg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -628,84 +742,6 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-dax-fridays-165-create-an-index-based-on-two-or-more-columns-using-dax.md",
-      "title": "DAX Fridays! #165: Create an index based on two or more columns using DAX",
-      "excerpt": "DAX Fridays! #: Creaye an index based on multiple columns using DAX  Do you need to create an index based on multiple columns using DAX? Here is a detailed guide on how to do it. At the end of the video I will disclose the solution for the quiz I gave you two weeks ago.    Links you might need:  Earlier",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-dax-fridays-165-create-an-index-based-on-two-or-more-columns-using-dax/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-165-create-an-index-based-on-two-or-more-columns-using-dax/",
-      "originalUrl": "https://youtube.com/watch?v=qUmTxQHr6nY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qUmTxQHr6nY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M13S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-04-24T04:44:00-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/qUmTxQHr6nY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-17-datediff.md",
-      "title": "DAX Fridays! #17: DATEDIFF",
-      "excerpt": "In today's video, I will show you how to calculate the difference between two dates using DATEDIFF. I also show you how to overcome the issue when the start date is larger than the end date.  PREVIOUS VIDEO: https://www.youtube.com/watch?v=-ykkaAtlCMc NEXT VIDEO: -  Link to demo file: http://gofile.me/2kEOD/G4FzzQLvV",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-dax-fridays-17-datediff/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-17-datediff/",
-      "originalUrl": "https://youtube.com/watch?v=zMWk2gI_C8s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zMWk2gI_C8s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M8S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-12-14T14:13:20-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/zMWk2gI_C8s/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/curbal-dax-fridays-172-left-right-len-search-split-text-by-character-in-dax.md",
       "title": "DAX Fridays! #172: LEFT, RIGHT, LEN, SEARCH - Split text by character in DAX",
       "excerpt": "In today's video, I will show you how to split text by a character using DAX and why this search error happens and how to solve it: The search Text provided to function 'SEARCH' could not be found in the given text.  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE",
@@ -745,14 +781,14 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-dax-fridays-173-8-best-practices-for-time-intelligence-in-power-bi.md",
-      "title": "DAX Fridays! #173: 8 Best practices for Time Intelligence  in Power BI",
-      "excerpt": "Follow this rules to get your time intelligence functions working in Power BI.  Disable auto date/Time: https://www.youtube.com/watch?v=d4yAzhIQqNk  Avoid bi-directional relationships in calendars: https://www.youtube.com/watch?v=IlxqDCIuarU  Here you can download all the pbix files: https://curbal.com/donwload-center",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-dax-fridays-173-8-best-practices-for-time-intelligence-in-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-173-8-best-practices-for-time-intelligence-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=mAZR5Hf0NYQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mAZR5Hf0NYQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M8S",
+      "path": "_learning/videos/curbal-dax-fridays-182-virtual-relationships-with-contains-dax-function.md",
+      "title": "DAX Fridays! #182: Virtual relationships with CONTAINS DAX function",
+      "excerpt": "Contains is more powerful that it looks and in this video I will show you how you can use it to create virtual relationships and joins.  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-dax-fridays-182-virtual-relationships-with-contains-dax-function/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-182-virtual-relationships-with-contains-dax-function/",
+      "originalUrl": "https://youtube.com/watch?v=2ZdgRRAdt-I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2ZdgRRAdt-I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M27S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -765,11 +801,11 @@
           }
         ]
       },
-      "publishedDateTime": "2020-05-22T01:56:40-07:00",
+      "publishedDateTime": "2020-07-07T04:09:34-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/mAZR5Hf0NYQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/2ZdgRRAdt-I/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -784,14 +820,14 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-dax-fridays-179-use-a-slicer-to-highlight-values-instead-of-filter-them-in-power-bi-.md",
-      "title": "DAX Fridays! #179: Use a slicer to highlight values instead of filter them in Power BI 😎",
-      "excerpt": "Did you know that you can use a slicer in Power BI to highlight values instead of filtering them?  Let me show you the technique here, but if you are up for it, give it a go before and let us know what you came up to!  Pass multiple values from a slicer: https://www.youtube.com/watch?v=_k_Qxb6pyCc  iscrossfilter",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-dax-fridays-179-use-a-slicer-to-highlight-values-instead-of-filter-them-in-power-bi-/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-179-use-a-slicer-to-highlight-values-instead-of-filter-them-in-power-bi-/",
-      "originalUrl": "https://youtube.com/watch?v=DLq5i1mlFqg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DLq5i1mlFqg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M15S",
+      "path": "_learning/videos/curbal-dax-fridays-183-how-to-deal-with-multiple-dates-in-power-bi.md",
+      "title": "DAX Fridays! #183: How to deal with multiple dates in Power BI",
+      "excerpt": "So you have order date, shipped date, required date....and only one calendar. How do you manage that in power bi and DAX?  This scenario is often called role playing dimensions and in this video I will show you two ways to solve it. :) Happy Friday!!  Links to videos mentioned: Introduction to data modeling:",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-dax-fridays-183-how-to-deal-with-multiple-dates-in-power-bi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-183-how-to-deal-with-multiple-dates-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=aVcHCfOAtZA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aVcHCfOAtZA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M41S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -804,11 +840,50 @@
           }
         ]
       },
-      "publishedDateTime": "2020-07-07T03:27:13-07:00",
+      "publishedDateTime": "2020-08-21T02:44:21-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/DLq5i1mlFqg/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/aVcHCfOAtZA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-185-calculating-max-values-by-category.md",
+      "title": "DAX Fridays! #185: Calculating max values by category",
+      "excerpt": "In todays video we will calculate the Max value by category using allselect function. This video is part of the Fire series below:  This week we are going to visualize the amazon fires data.  Part1 : First we will clean and model the data using Power Query.  (this video) https://www.youtube.com/watch?v=V1kAFbyE7sw",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-dax-fridays-185-calculating-max-values-by-category/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-185-calculating-max-values-by-category/",
+      "originalUrl": "https://youtube.com/watch?v=8KaMj2DFpWg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8KaMj2DFpWg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M43S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-09-22T02:53:44-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8KaMj2DFpWg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -862,84 +937,6 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-dax-fridays-189-which-function-is-faster-to-count-rows-count-or-countrows.md",
-      "title": "DAX Fridays #189: Which function is faster to count rows: COUNT OR COUNTROWS?",
-      "excerpt": "Which DAX function will count the rows of a table faster: COUNT or COUNTROWS?  Lets find out shall we?  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-dax-fridays-189-which-function-is-faster-to-count-rows-count-or-countrows/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-189-which-function-is-faster-to-count-rows-count-or-countrows/",
-      "originalUrl": "https://youtube.com/watch?v=6kBI7AHnMd0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6kBI7AHnMd0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M4S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-10-21T04:42:41-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6kBI7AHnMd0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-19-divide.md",
-      "title": "DAX fridays! #19: DIVIDE",
-      "excerpt": "Let's go through DIVIDE() function available in DAX!  The DIVIDE function performs divisions and returns alternate result or BLANK() on division by 0.It is faster than the simple division operator.  NEXT VIDEO: - PREVIOUS VIDEO: https://www.youtube.com/watch?v=SsZseKOgrWQ   Looking for a download file?",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-dax-fridays-19-divide/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-19-divide/",
-      "originalUrl": "https://youtube.com/watch?v=yBdJq9Zs1Fw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yBdJq9Zs1Fw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M3S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-09-26T13:02:01-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/yBdJq9Zs1Fw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/curbal-dax-fridays-191-create-a-last-invoice-calculation-the-process-calculation-and-troubleshooting.md",
       "title": "DAX Fridays #191: Create a last invoice calculation: the process, calculation and troubleshooting",
       "excerpt": "So, how do you need to think when creating a DAX measures? Do you create the measure in one step? Do you break it down in small steps? How do you troubleshoot it?  In today's video I am going to show you the steps you need to take to create a DAX measure and troubleshoot it. The measure is : last invoice",
@@ -965,45 +962,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/ReWb2nfsarc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-22-allselected.md",
-      "title": "DAX Fridays! #22: ALLSELECTED",
-      "excerpt": "In this video we will go through how to to use ALLSELECTED function in DAX.  Link to pbix file:https://curbal.com/blog/glossary/allselected-dax  PREVIOUS VIDEO: NEXT VIDEO:   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-dax-fridays-22-allselected/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-22-allselected/",
-      "originalUrl": "https://youtube.com/watch?v=n_7Telypk2Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/n_7Telypk2Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M6S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-01-19T14:29:59-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/n_7Telypk2Q/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1057,84 +1015,6 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-dax-fridays-29-hasonevalue.md",
-      "title": "DAX Fridays! #29: HASONEVALUE",
-      "excerpt": "Have you ever got this error message?: A table of multiple values was supplied where a single value was expected ?  If you have, make sure to check out this video to understand how to solve it.  HASONEVALUE is a DAX function that will check if the table returned has one value or not. If it has, it will",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-dax-fridays-29-hasonevalue/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-29-hasonevalue/",
-      "originalUrl": "https://youtube.com/watch?v=WF7KzR5bP9I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WF7KzR5bP9I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M8S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-03-05T05:39:01-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WF7KzR5bP9I/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-30-search-vs-find.md",
-      "title": "DAX Fridays! #30: SEARCH vs FIND",
-      "excerpt": "In today's DAX Fridays! tutorial we are going to go though examples on how to use two DAX functions: SEARCH and FIND  SEARCH and FIND DAX functions are used to find the number of characters at which a specific word is found in a column.  Link to Power BI file used in the video: https://curbal.com/blog/glossary/search-dax",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-dax-fridays-30-search-vs-find/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-30-search-vs-find/",
-      "originalUrl": "https://youtube.com/watch?v=vbQbQBX2T8A",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vbQbQBX2T8A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M22S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-03-15T12:31:43-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/vbQbQBX2T8A/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/curbal-dax-fridays-32-format.md",
       "title": "DAX Fridays! #32: FORMAT",
       "excerpt": "In today's video we will go through FORMAT function in DAX. We will learn how to use pre-formated functions and custom functions to format numbers and dates using DAX.  Link to download the file: https://curbal.com/blog/glossary/FORMAT-dax   EXCEL SURVEY: https://1drv.ms/xs/s!Ar8CDNp8cGTcgjaHonN82T8I1jQT",
@@ -1160,6 +1040,123 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Aeoaf1KCx90/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-35-values.md",
+      "title": "DAX Fridays! #35: VALUES",
+      "excerpt": "In today's DAX Fridays! video we will go through the DAX function VALUES. VALES will return a unique value when a table of multiple values is the result of your calculation.  Link to rio tutorial where you will find also the link to the pbix file:https://www.youtube.com/watch?v=RKG9OLIL-Yo  EXCEL SURVEY:",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-dax-fridays-35-values/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-35-values/",
+      "originalUrl": "https://youtube.com/watch?v=ZkieFAgH39Y",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZkieFAgH39Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M24S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-04-27T12:10:19-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZkieFAgH39Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-39-in-containsrow.md",
+      "title": "DAX Fridays! #39 - IN, CONTAINSROW",
+      "excerpt": "In todays video we will go through the IN and CONTAINSROW functions in DAX .  EXCEL SURVEY: https://1drv.ms/xs/s!Ar8CDNp8cGTcgjaHonN82T8I1jQT  PREVIOUS VIDEO: https://www.youtube.com/watch?v=Y4hlt5VkdmU NEXT VIDEO: https://youtu.be/kc7APFVM1PY   Looking for a download file? Go to our Download Center:",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-dax-fridays-39-in-containsrow/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-39-in-containsrow/",
+      "originalUrl": "https://youtube.com/watch?v=rwSSMaBwBGQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rwSSMaBwBGQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M34S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-05-24T04:56:13-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rwSSMaBwBGQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-42-substitute-multiple-values.md",
+      "title": "DAX Fridays! #42: SUBSTITUTE (multiple values)",
+      "excerpt": "In today's video, we will learn how to use the DAX function SUBSTITUTE.  Substitute changes text for another text. We will do two examples, how to substitute one value for another and how to substitute multiple values.   Northwind dataset: https://www.youtube.com/watch?v=k3NMIlLffrU  EXCEL SURVEY: https://1drv.ms/xs/s!Ar8CDNp8cGTcgjaHonN82T8I1jQT",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-dax-fridays-42-substitute-multiple-values/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-42-substitute-multiple-values/",
+      "originalUrl": "https://youtube.com/watch?v=PoaQDakVI04",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PoaQDakVI04\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M31S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-06-16T01:29:24-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/PoaQDakVI04/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
