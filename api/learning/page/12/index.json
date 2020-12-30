@@ -265,8 +265,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 521,
-            "average": 4.7504797
+            "count": 522,
+            "average": 4.750958
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -349,8 +349,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 564,
-            "average": 4.762411
+            "count": 565,
+            "average": 4.761062
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -409,8 +409,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-ml-model-with-azure-stream-analytics/",
       "length": "PT1H20M",
       "ratings": {
-        "count": 251,
-        "average": 4.63745
+        "count": 252,
+        "average": 4.638889
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -451,8 +451,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
       "length": "PT29M",
       "ratings": {
-        "count": 521,
-        "average": 4.7504797
+        "count": 522,
+        "average": 4.750958
       },
       "provider": {
         "name": "Microsoft Learn",
