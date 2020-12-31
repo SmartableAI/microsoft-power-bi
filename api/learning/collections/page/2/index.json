@@ -1922,8 +1922,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 1270,
-            "average": 4.749606
+            "count": 1272,
+            "average": 4.75
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2065,7 +2065,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 132,
+          "heat": 52,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/manage-datasets-in-power-bi-social.png",
@@ -2089,8 +2089,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 568,
-            "average": 4.762324
+            "count": 569,
+            "average": 4.7627416
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2125,7 +2125,7 @@
         }
       ],
       "size": 3,
-      "heat": 54,
+      "heat": 53,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/create-manage-workspaces-power-bi-social.png",
