@@ -121,8 +121,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-requirements/",
       "length": "PT23M",
       "ratings": {
-        "count": 312,
-        "average": 4.7371793
+        "count": 313,
+        "average": 4.738019
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -155,8 +155,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fit-gap-analysis/",
       "length": "PT35M",
       "ratings": {
-        "count": 429,
-        "average": 4.729604
+        "count": 430,
+        "average": 4.7302327
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -173,7 +173,7 @@
       "levels": [
         "Advanced"
       ],
-      "heat": 51,
+      "heat": 52,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
