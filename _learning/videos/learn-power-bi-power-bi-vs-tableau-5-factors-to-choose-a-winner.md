@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT8M18S
 publishedDateTime: 2018-01-10T05:20:01Z
-heat: 59
+heat: 58
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FoqSPCtj7zo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "VK5wPR9x55EQpcrraihpmi8QHT07hM1SEiglMcXnIRF8kQZyf46qPC9UscJ3FAn49s9RHU6TCqJTR+E+o6SRnafWoVnD9TkI2Lau0smL3V+KH61mPX49+Da4CPUZLb37b7/A6hsCsZD0mfr6+LdAdRikL6MJG0b4sA4JMk7vul136u6Nw/UDNu3ebhYn9ud1sxpsmhzSRALSGzo98qMS6OJI51gtCmdjUEI7j8yMChi26n9rUdiFzc1nsbN55/VSV9nrYxAhzCkFvYe+YjL4X33eZ+Ury9MUKxj+OrLUtMGsmmDXOQU4hnHiwBmUPdL2OLmtuIz2M5zlyhFDMGAcgwN51j5Z3jRGjkDpeukO8TGDbTpHkuYLm1j8bUCX+u2u7m5v8EH+9tiB2uXur94Ap6x/kHY6PMxAtZdeym7lJJgb9gHp2xuN8Pq5X0WFT3P7;u3aWdeRHKa3g38boD/UnGA=="
+secured: "zI6CB+kc3oSBcAue1giv86132E2nE+Gqa/0OdGN4hF7CGFgRnl2QGVjG/AZDL6OJHlfRnlNHWqjXgIYuI7VOKO+2RC+DlFwQeY6z5SGPgL5wQrRTks8Osyryv94AB+NfGhfVUDY7xs1VPS8p6u3lM/uuiADTt9YfHOgRuJHW6TIILNXgqrJb2el66e/NuIx1Ubf06rAdz7/UfnqhCInJKbSY244mSKbLz5YCV37fSx3FJTbgiViaGERUYYuUlxEXwkZA0B93VmSsJnJui6HpUgmRiCzMMhYnXkUcBJEDeHkmWjrzDvTPOPBVSN2v6ByncpFBd82E+zmoeevFgId2Bb4L6EPRj0NIrr/7iPfpmOomB/XWOdDJLuXlamoZeKUOyiWNgcSSTyEKG9+urxDtfnV/OnQsJ+GIx9hqiEy/wJjzfy0iHZLjc+SPHSx9tBnB;rDloEqd9D7BcQCcDLrp5ig=="
 ---
 
