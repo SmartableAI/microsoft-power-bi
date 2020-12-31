@@ -4,14 +4,14 @@
   "page": 56,
   "value": [
     {
-      "path": "_learning/videos/guy-in-a-cube-row-level-security-in-power-bi-revisited.md",
-      "title": "Row-Level Security in Power BI - Revisited",
-      "excerpt": "We had some recent changes to Row-level security in Power BI. Row-level security (RLS) was moved to be configured in Power BI Desktop with the June 2016 release.  I walk through how you could can configure this now in Power BI Desktop. I also talk about some of the limitations.  LET'S CONNECT!  Guy in",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-row-level-security-in-power-bi-revisited/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-row-level-security-in-power-bi-revisited/",
-      "originalUrl": "https://youtube.com/watch?v=67fK0GoVQ80",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/67fK0GoVQ80\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M29S",
+      "path": "_learning/videos/guy-in-a-cube-setting-default-values-using-coalesce-in-dax.md",
+      "title": "Setting default values using COALESCE in DAX",
+      "excerpt": "Learn how to get default values using the DAX COALESCE function instead of IF statements. A great way to avoid BLANK in Power BI!  Documentation: https://docs.microsoft.com/dax/coalesce-function-dax  SQLBI.com article:  https://sql.bi/659297   📢 Become a member: https://guyinacu.be/membership   *******************",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-setting-default-values-using-coalesce-in-dax/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-setting-default-values-using-coalesce-in-dax/",
+      "originalUrl": "https://youtube.com/watch?v=UQd91dUN4j0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UQd91dUN4j0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M42S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -24,50 +24,11 @@
           }
         ]
       },
-      "publishedDateTime": "2016-07-05T11:49:30-07:00",
+      "publishedDateTime": "2020-03-31T05:43:42-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/67fK0GoVQ80/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Row-Level Security in Power BI - Revisited",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-sandboxing-penguins-and-gateways-roundup-37.md",
-      "title": "Sandboxing, penguins and gateways - Roundup #37",
-      "excerpt": "There is a sandboxing update for custom visuals within Power BI. RC0 landed for SQL Server 2016. I mention the updates for Reporting Services and Analysis Services. Also, Microsoft announced that Linux will be supported for SQL 2016 Database Engine. I highlight a community blog post looking at creating",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-sandboxing-penguins-and-gateways-roundup-37/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-sandboxing-penguins-and-gateways-roundup-37/",
-      "originalUrl": "https://youtube.com/watch?v=Y3U3dUagL2U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Y3U3dUagL2U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M9S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-03-10T07:49:01-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Y3U3dUagL2U/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/UQd91dUN4j0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -77,7 +38,8 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI"
+        "Power BI",
+        "DAX"
       ]
     },
     {
@@ -462,6 +424,83 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-stop-refreshing-a-single-table-at-a-time-power-bi-desktop.md",
+      "title": "STOP refreshing a single table at a time! (Power BI Desktop)",
+      "excerpt": "Stop refreshing one table at a time! Also, don't wait for the entire data model to finish refreshing. Refresh multiple tables within Power BI Desktop.  Gilbert Q's Blog: https://www.fourmoo.com/2020/04/22/how-to-refresh-selected-not-all-tables-in-power-bi-desktop/  📢 Become a member: https://guyinacu.be/membership",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-stop-refreshing-a-single-table-at-a-time-power-bi-desktop/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-stop-refreshing-a-single-table-at-a-time-power-bi-desktop/",
+      "originalUrl": "https://youtube.com/watch?v=cnpndrrrD8I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cnpndrrrD8I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M39S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-04-28T08:00:32-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/cnpndrrrD8I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-technique-to-improve-power-bi-report-perf-by-reducing-visuals.md",
+      "title": "Technique to improve Power BI report perf by reducing visuals",
+      "excerpt": "Having a lot of visuals in your Power BI Report can slow things down. Here's a technique you could employ to reduce visuals and improve performance.  Download Sample: https://guyinacu.be/matrixkpisample  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-technique-to-improve-power-bi-report-perf-by-reducing-visuals/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-technique-to-improve-power-bi-report-perf-by-reducing-visuals/",
+      "originalUrl": "https://youtube.com/watch?v=kkIXtvU1AiM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kkIXtvU1AiM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M14S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-05-14T08:00:30-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/kkIXtvU1AiM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-the-case-of-the-scribble-line-chart-in-power-bi.md",
       "title": "The Case of the Scribble Line Chart in Power BI",
       "excerpt": "In this video, Adam looks at a funky line chart and how it got to be that way. This is a live tile within a Power BI Dashboard based on a streaming dataset. Microsoft Flow is pushing data from Twitter into the Power BI Streaming Dataset.  Brian Gregor brought this to Adam's attention and helped setup",
@@ -538,6 +577,45 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-the-new-power-bi-app-workspace-experience.md",
+      "title": "The new Power BI App Workspace experience",
+      "excerpt": "The new Power BI App Workspace experience GA'd in April of 2019. Adam takes you through what the new Power BI App Workspace is all about and what is coming down the road.  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton -- http://twitter.com/patrickdba",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-the-new-power-bi-app-workspace-experience/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-the-new-power-bi-app-workspace-experience/",
+      "originalUrl": "https://youtube.com/watch?v=cKzdDO2W5-Y",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cKzdDO2W5-Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M4S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-08-11T04:58:15-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/cKzdDO2W5-Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "The new Power BI App Workspace experience",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-tips-gateway-embedding-and-analysis-services-roundup-57.md",
       "title": "Tips, Gateway, Embedding and Analysis Services - Roundup #57",
       "excerpt": "There were a bunch of items I found this week. From tips for beginners, to some gateway updates and items for Analysis Services. I have a few bonus links down below that weren't included in the video.  Top 10 Tips for Getting Started with Power BI (@ExceleratorBI) http://exceleratorbi.com.au/top-10-tips-getting-started-power-bi/",
@@ -573,45 +651,6 @@
       "price": "Free",
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-trace-excel-power-pivot-using-dax-studio.md",
-      "title": "Trace Excel Power Pivot using DAX Studio",
-      "excerpt": "DAX Studio is an awesome tool! You can even use it to trace Power Pivot within Excel. Patrick shows you how!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next level? We have training courses available to help you with your journey.\r",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-trace-excel-power-pivot-using-dax-studio/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-trace-excel-power-pivot-using-dax-studio/",
-      "originalUrl": "https://youtube.com/watch?v=Ao4ov36slic",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ao4ov36slic\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M9S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-08-19T08:00:02-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Ao4ov36slic/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
       ]
     },
     {
@@ -1098,44 +1137,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/RqWyA9mD-Yk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-using-onedrive-for-business-with-power-bi.md",
-      "title": "Using OneDrive for Business with Power BI",
-      "excerpt": "Sharon asked a question about how to get started with OneDrive for Business and then use that with Power BI. I look at how you can get up and running, and then look at how you can connect to documents within OneDrive from Power BI.  This also touches on your Organizational account and how that relates",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-using-onedrive-for-business-with-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-using-onedrive-for-business-with-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=lARLYEf4xe0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lARLYEf4xe0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M8S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-01-19T08:28:29-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/lARLYEf4xe0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
