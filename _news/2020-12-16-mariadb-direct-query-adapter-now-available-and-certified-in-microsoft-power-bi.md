@@ -1,32 +1,28 @@
 ---
 category: news
 title: "MariaDB Direct Query Adapter Now Available and Certified in Microsoft Power BI"
-excerpt: "Before it's here, it's on the Bloomberg Terminal."
-publishedDateTime: 2020-12-16T14:04:00Z
-originalUrl: "https://www.bloomberg.com/press-releases/2020-12-16/mariadb-direct-query-adapter-now-available-and-certified-in-microsoft-power-bi"
-webUrl: "https://www.bloomberg.com/press-releases/2020-12-16/mariadb-direct-query-adapter-now-available-and-certified-in-microsoft-power-bi"
+excerpt: "MariaDB ® Corporation today announced the certification and immediate availability of the MariaDB Direct Query Adapter in Microsoft Power BI. MariaDB and Microsoft worked together on the ..."
+publishedDateTime: 2020-12-16T14:51:00Z
+originalUrl: "https://www.oaoa.com/news/business/mariadb-direct-query-adapter-now-available-and-certified-in-microsoft-power-bi/article_34e90cba-84ee-5981-8b54-e1eaa3e31bfd.html"
+webUrl: "https://www.oaoa.com/news/business/mariadb-direct-query-adapter-now-available-and-certified-in-microsoft-power-bi/article_34e90cba-84ee-5981-8b54-e1eaa3e31bfd.html"
 type: article
-quality: 73
-heat: 73
-published: true
+quality: 33
+heat: 33
+published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
   - Power BI
 
 images:
-  - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-    width: 1200
-    height: 630
+  - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
+    width: 576
+    height: 288
     isCached: true
 
-secured: "crar+Qo2TUzlavpCQxhLIBaek7gvXbhQt5ahAxE8rwLdlfNW0WEubh9yQdrxq9wdq/6JvEFdgRzmBzSnIpRC8yTl56aZQfA//jNTb0mIkkEQhSUpQrYcpTTT8sMk8eSrwnVLax9XxHygSVJn3uEt1A8gAByEHUucDKlYHqBgEfDenOJSRqV6uLiiOihwKHXoGgPiAH5IxSe9RsvTRxyFaXqWhfS/ZYgRoFXhJ6YRvK0oNxAXsajvk7+el8K18EtMQyFSbXQ/rmE7JxnQH6h5JVX2WxgUrDlYKda9lNXv3vFvRtVUjcghYi5uOFKAE7RcclkKPUfXyA/FfsJE5LFIJVc6Gim/FDEwcW3L/Y1+Dck=;ViXCWHDh14Vr2GeQkO5Oqw=="
+secured: "6xrqYsmY+Wv9zexO66HvMSpmGW+Ekq3Jahz1JfPqSHzDrfdbtQqOpNgUSPXpbGi1Q1AhN29DGQc2/2GcjrOOuiU15y/xtcGmB9BCYd1u//I9HXqNw88/Ar6Vb0qUo8xQsiTgaB2Kb2gk4BecVksf+OQDnt3FuKWcCh+ngwE3l4Muo45lbqefvwBoT8ivglpeLCJ8duOjmHTDq+tMhbtLRh1lFKNbDpctXPS9yWpZFYeaFORWzBzFEiKgRKwfgeIgGu2RLBRmdCKLNyMlZTcsugl2zXoqyPB7JbouV1mmTP1VU4cML49zwSBE88Z/2V7IBQmE/lD7xsZYLgApw75ZZCfLZV0VX6Viw3pb7NkzjYs=;UM6O8Bn/jC06Z7CLpnMVHA=="
 ---
 
