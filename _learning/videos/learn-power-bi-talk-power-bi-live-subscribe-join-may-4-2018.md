@@ -4,7 +4,7 @@ excerpt: "Support the stream: https://streamlabs.com/powerbipro ✅ Subscribe an
 originalUrl: https://youtube.com/watch?v=9-e5mUUIJug
 type: video
 price: Free
-length: PT2H7M27S
+length: PT2H7M31S
 publishedDateTime: 2018-04-05T15:52:18Z
 heat: 50
 
@@ -23,6 +23,6 @@ images:
     height: 360
     isCached: true
 
-secured: "1eACLlLFpc79kj7KW6RhZUXpM/NGqqb2XkAUKtqRNBf7EuJdunBZkPb+yo620YW/IWqvH80Nj40LiR0AJ6m3CMMoTVDUdmrfmJh4hOO1+qBKlUsIeyjq6cjF+wbRQUqyort/r7D9X9gunpR6+lMeGL7EgB9aG8Lx1yOP2mjL6DVg0FSzQKeJhifqsZGr8pYU+vqlvQzyXtdL7nPQnn0ne7dUKjEgI5caBAH0K+43FAq+kFzSmqwmOeN9bt8uEZ+Wh4s4T9myJ/6VXXhRJfJvjyqLPTF+NASqX2Hi1aTluE39x+AxCmPfeM8mgYRvdCeQWX6c/x3BF8Lyy9VQs5i6cQoK3ggum4x4DS31Daxg1JgfP0kNhVmP5KGWLWowAdg0/oIONjXN4hMr7hHXBKGnUTYgc8auLVRqSkovJn075kI=;B2e1EDx1Lq7n8x8i3/8OSw=="
+secured: "AAk0pBMoNV8jbNAnKe73Uny/w7jZDEM1AMjYQPtIq386PmyTkxUJhSp8xwFXdqR4dqeix4GyzNt0TNti09udYFJv8r2aNq532UvmqWxwkhQMHONxjejHQcKXvfy3oW0f4T1nZzIE/bC9Jj6ALzsydwxoC9gRihUi+L7RJ9tHNslyM0XHv5qIiNmHZzDN+T4HgUblnkgRavq0AiTWv7/HqU43py7DXVAFIbF0YpJlkgrh9ex8MNj/9P5we4tQh8C7XLt5h+BimK+X9kf0A6Rj05e/tEgp/qoELgjWjAUlX+tAYWzo9xlqtZ3pgwuUYx130hB2jdf9htV8SgkdK1RF0CeGgHmOJMBLWZzf3ovD+H9jz7wZaamQXZjQFRRwLmTE6rpDq9p++elXbc1SZfcI2yMuP4viLGke6WVkf0+kW5A=;3+jVC91Ew+YnWA8Vayu0Vg=="
 ---
 
