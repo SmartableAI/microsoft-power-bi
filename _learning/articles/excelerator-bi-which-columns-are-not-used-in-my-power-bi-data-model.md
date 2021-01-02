@@ -4,7 +4,7 @@ excerpt: "Level: Intermediate. One of the commercial services I offer is to comp
 webUrl: https://exceleratorbi.com.au/which-columns-are-not-used-power-bi-data-model/
 type: article
 publishedDateTime: 2020-11-16T23:06:50Z
-heat: 50
+heat: 130
 
 provider:
   name: Excelerator BI

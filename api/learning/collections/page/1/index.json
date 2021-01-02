@@ -227,8 +227,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 7202,
-            "average": 4.7797832
+            "count": 7206,
+            "average": 4.7796283
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -269,8 +269,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 23823,
-            "average": 4.744197
+            "count": 23828,
+            "average": 4.7442503
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -352,8 +352,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 23823,
-            "average": 4.744197
+            "count": 23828,
+            "average": 4.7442503
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -394,8 +394,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 14896,
-            "average": 4.7021346
+            "count": 14898,
+            "average": 4.7021747
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -437,8 +437,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 5837,
-            "average": 4.706527
+            "count": 5838,
+            "average": 4.706578
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1183,8 +1183,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 731,
-            "average": 4.593707
+            "count": 733,
+            "average": 4.5948157
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1691,8 +1691,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 2295,
-            "average": 4.754684
+            "count": 2296,
+            "average": 4.754791
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1733,8 +1733,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 2387,
-            "average": 4.7771263
+            "count": 2389,
+            "average": 4.776057
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2162,8 +2162,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-models/",
           "length": "PT20M",
           "ratings": {
-            "count": 604,
-            "average": 4.7549667
+            "count": 605,
+            "average": 4.755372
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2249,8 +2249,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-calculated-tables/",
           "length": "PT19M",
           "ratings": {
-            "count": 284,
-            "average": 4.7640843
+            "count": 285,
+            "average": 4.764912
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2292,8 +2292,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-measures/",
           "length": "PT13M",
           "ratings": {
-            "count": 230,
-            "average": 4.7130437
+            "count": 232,
+            "average": 4.715517
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4878,7 +4878,7 @@
             ]
           },
           "publishedDateTime": "2016-02-24T15:04:39-08:00",
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/sbPS3ZKIt7g/maxresdefault.jpg",
