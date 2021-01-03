@@ -164,8 +164,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-measures/",
           "length": "PT13M",
           "ratings": {
-            "count": 233,
-            "average": 4.716738
+            "count": 234,
+            "average": 4.717949
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1301,8 +1301,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-iterator-functions/",
       "length": "PT12M",
       "ratings": {
-        "count": 197,
-        "average": 4.7360406
+        "count": 198,
+        "average": 4.737374
       },
       "provider": {
         "name": "Microsoft Learn",
