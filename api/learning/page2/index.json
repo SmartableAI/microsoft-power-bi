@@ -53,8 +53,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform/",
       "length": "PT21M",
       "ratings": {
-        "count": 15821,
-        "average": 4.7173376
+        "count": 15823,
+        "average": 4.7173734
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -392,8 +392,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 406,
-            "average": 4.679803
+            "count": 410,
+            "average": 4.6804876
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -436,8 +436,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-calculated-tables/",
           "length": "PT19M",
           "ratings": {
-            "count": 287,
-            "average": 4.7665505
+            "count": 288,
+            "average": 4.767361
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4006,8 +4006,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/becoming-solution-architect/",
           "length": "PT1H43M",
           "ratings": {
-            "count": 710,
-            "average": 4.7211266
+            "count": 711,
+            "average": 4.721519
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4048,8 +4048,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/discover-customer-needs/",
           "length": "PT36M",
           "ratings": {
-            "count": 473,
-            "average": 4.6765327
+            "count": 474,
+            "average": 4.6751056
           },
           "provider": {
             "name": "Microsoft Learn",
