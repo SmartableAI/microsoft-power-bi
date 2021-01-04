@@ -29,7 +29,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 81,
+      "heat": 77,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/data-analytics-and-microsoft-social.png",
@@ -53,8 +53,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 23867,
-        "average": 4.7442913
+        "count": 23868,
+        "average": 4.744302
       },
       "provider": {
         "name": "Microsoft Learn",
