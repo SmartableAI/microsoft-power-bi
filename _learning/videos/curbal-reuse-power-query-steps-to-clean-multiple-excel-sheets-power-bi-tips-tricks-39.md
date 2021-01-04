@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT26M36S
 publishedDateTime: 2017-04-05T19:20:14Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rohXtAlIgqY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "zjbRfZGAuCdRlO7DWjLJ0qzT9Tt3Ob8WJOWMvAtv79+iSZKPPfRjs//r55q/u2VALRRmb0TjOZa/OhePPpeBz1mAwvNrxCGmeMN8HMmgmv75GwgXFssxkffde2T4BhaPY/i7ISSedRkIqGvcYelz6yTmzV2ApXnfuL3DYtKMV3DDYM1dRaLGH+udFlQjTXlkeNVTna4E4cTPj2pY1bCfiMzIw9Im7eLcpdx3HYFBJnXfx0EI+SJQytt7nFLcmSgRbCYrX+0Mutdk00PJE0o/PeJTzAVAQRUcmlC2QVsIVFAGQqLTZEHWW4VnbUBrOF+4e/UPyd8dZCauzZ0SylGBzZUDwoiGdNAhaZJKQrfjcJOZRAkXAUAlYXzvfWjSq3S7L/7WzMTjiVaj9atm7oZK17m+VIrlLJVt/DNNuzr/dpQ=;1SPdnQo/hTOKsPgXX4kJFw=="
+secured: "dDhQxuecHGv/+NlV/GOvy+IcoxOEnLoyELeXHMRGC+00ABHDLN19k8dseQMHcwVCeqvPePmDQ/k3ngbGvb39mA6OtWyiUpWIvNJuvun6bEAIUjGZQYpoYKD12nbTTRCXMO3UP4KdPkSP2+wd53Ks5co4Jxzq4Tp4XGOxkglxEu8mIO15YfTVmfTNj/sDxh4htTxPFDWBhNbyEHN8GI85OOAMMksahvGOqF3S/CAcny4M0owjxZoVVNQAAR2aLOsWcPc53OnFfCall+ZYggkYVofx4nMA4PITWfSeFXVvPdJpjUbZ3/TrxiJpAI1q4UTjSE2EmIa2LRJ1Mtx1eMnQVfyMRPrIRjiDuIuQDPY3ieLKdM76gTagdveSMdIGXF4fa3mUOYTDitLgkjgnc+WQ81b46+HuWLA2tQhtFw4gpog=;IF+26uB/ChDX+GiQ9Vsg4A=="
 ---
 
