@@ -2,6 +2,7 @@
 title: "Deep dive on M intellisense - *unedited version*"
 excerpt: "Feeling confused on how M intellisense work and how it can help you write M code faster? In this tutorial, I go through how M intellisense works, the good, the great and the \"needs improvement\". I have not edited out my mistakes so you get a true sense on how it can be to work with M intellisense. I"
 originalUrl: https://youtube.com/watch?v=wU3vafg0kPU
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/curbal-deep-dive-on-m-intellisense-unedited-version/
 type: video
 price: Free
 length: PT19M6S
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "gp/RgzzX/Fb+M89WH6MmshsxGjpxfXkUSjXYBJq89cHouGl0YoJ3LlJMyCgnV9Y5yhD1bJj3Ok4hoUKZ2wP0WOYep8VzMqQFOOQBMK/i8cu3XdAChyOvnCVgpxRYAZU1B/w3fpt6dMNVauTyXmQVgbJqBaZcveg/4qBCHoKL7zaGriOoqv6A5vMlt7oSC8FsgJktPtaZS6ePuPk8+FSxCuy4IytoF84Uwj4NhJgToPllhsBQ/XlHEVHPyRcan7L7aq6311Hc7+1CffI7ZOwGZcoL3wlklUESjzIpHDxYv6OxVNePRjQ24dCzkyA1i7pUwNcvZ44wEgfvHb5DtrFa1zXpBOY4J0c8orwlTFLDpI2sJsELaqBqOnFQP1k6ZOFNzrsl8jK+nFyHd1fvESdvJQ==;zDcXwuoXOYGsnhudC2mYgg=="
+secured: "vHrsSaUIPIRhWVpT9WLs6vSpo1r199Jas/0tTQMiJZU9F4JoTKZQtFGP8BSrNc0hy99Yn6y0iYBkKQm4dlz2af0TZ8tTTt43iJfYlLkXMZasWbHUivzhvdLxG64gh0tW9j/qd03gm/N7glb82h1p+U20VnHrw3aVYTFGa/GLmSMyGKK4iSjIogeZuHL/Wetze82mrd1i6nalrGwg2wW/Su5aiDmTX0hHOPg2Fi+HNBRImDJ88mxpCawN6tQuAPqbF3tPrLyLip0VrzB3+ShjUarvLpXU0iwjkUKeEauTTPvzus6iHb/+hJ4JzVelNn9J9156wbDMhGKFMS+Kw+e6jn7/ElX6lpK4Bl9nUr5O7ic6cxpW2FVjtyrAUaSwOlsoMy6AzJVbTFCbYxcOkrcU1Q==;m468inzP3qV7ONWCkAG3dg=="
 ---
 
