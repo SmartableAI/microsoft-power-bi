@@ -2,6 +2,7 @@
 title: "Power BI User Access Levels   Build and Edit are different"
 excerpt: "Often I have seen Power BI users have access to the areas that they shouldn’t. In Power BI, you can share a report with a user just for view only, or give them access to view and built, or to Edit. These are all different levels of access. Build access is the one that is often is confused with Edit."
 originalUrl: https://youtube.com/watch?v=ZsZkYOAcABI
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/radacad-power-bi-user-access-levels-build-and-edit-are-different/
 type: video
 price: Free
 length: PT9M19S
@@ -23,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "J8Ks3uL7JKhBgG9n4UPYMRA3hoKTwKz79FtZYzgOiWf/ZoHx2liD1dV6YHB8Bubvnr5Tqm21xHig07fCD/36bZF0C1iI2lKBNeCmyGaZVLUhdBUhD2a7lQ7QiRF/T78u+KCQzGWzFWnTQg1BjIBxOUtcEzSNVnWKeufLJ5kVuo6R5gTG4veAUy2jxQ2ogHLsGtSXYVr1J8nIcTtXPZyObi3iaoOdtEFtbXvjpCqcb04eBJCp5ycze43owxeLHaKtp1wkGVB6jRJuAVkaSrka5bWHsXyQksoi/f6Qevd38VPaLbi5EaYfxcRKm84oZJ0q2yXBbHqQ5OFUZ5gZa7zbXcgxQPq3mXELwlgKPMEdLtQrp3xII1v7xvlkIW4Tpo8XK6k0yBck/wF0Ehpx0d8Kdg==;UkTUAatu3y4jKF6n2YJ0Uw=="
+secured: "eFrqXF7aNIjRKqH1dZ3GUTbxFHefqq5Fu5lPqe5yOXH/IBYGWSsZkmEGxlhrgbMOxMBzIwwMzqyd/M+ysjZOC/fh66eRKlguEKcL/5EVDiGstNk50s91y0TRNTZGXw2bxvgQ12JW94rnssscHasixdPiWFvW6IdTUFUpj8Zoa96Yi6tJyZTi3fwbpH/BE9yHG3+L+ZDywUAFQEJn+r01MxNO39k89bECfTJMoBHiwdrMnVwz+6vKtDDtKWJCDMXS1zdPHmm7aCGhnnTHnZDyh/SrXGSFr08+jjTA65OD5AxzUIlGW6NUzWUAFoHm1ECumkumj++sYoolH39EaZEMJe/RtnHIwtaz3mFBzO9HK5KLyr9qMMMKpbFCjmTJnAko;0MBF4oSfCWlpS/fJcvC1Lg=="
 ---
 
