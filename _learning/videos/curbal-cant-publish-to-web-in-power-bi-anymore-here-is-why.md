@@ -2,6 +2,7 @@
 title: "Can't Publish to Web in Power BI anymore? Here is why..."
 excerpt: "If you suddenly try to share a Power BI report using Publish to web functionality, you might see that you are not able to do so anymore. Check the video to find out what to do.  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel"
 originalUrl: https://youtube.com/watch?v=kbE9HScsUOc
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/curbal-cant-publish-to-web-in-power-bi-anymore-here-is-why/
 type: video
 price: Free
 length: PT5M33S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "tib3XVoiYlXJmRekwiA11g/p1dXds65f1AiSiCSuhD8PbVAprXGzvh7ph8SVSRtYrK6vyRfTRN8R5aFfpK1SuNffQq9tEaR9eeJoQ8Ctzos7/kNOujDCMFGNlyVb40VtSedRqPUi+ljfulsC7azsLaER/jRGC50L6boez+yzSchiafZHJoSk1RcXRX3pFNJaZXKLUVJcf/oYGVVwa+SRwb56AiuOvXW2vx2w23UW5W7cv/M/J6zkmfbiok84QYUcsf/aIKAsfbc6NZRT91jOHx4iE92YJxlTCwbQkNbSpw4uVR3tS9l/kfjrkci9LEILwZsajXbFHVy5QUEaNobU8gnkKEi53YfgStMZr2lb4L2GzCAPbcMqzbJDKn5ZOeI/E06GOSgJKXReRaggRcqSiw==;M+8l/w2LarNsQYdmlwcBiA=="
+secured: "hdYqurtrF3z2kJJEiatYIFw8K8v09wd5dkveVIe9V9tzw9utiHc2UVKa/wisKyncEu/TgVhXlCRV6IaJzyH7t8pyxOPrInShCED5gcigqSl8xJVAnzJGaAmHUpGixoETzGLQRJWUdEcTowPhvPCk1bLKmf1X6ymIbqQ7jK2q6JxWz9U5ft+Fkqr5WzMOghxDzxMmoC6/gNTF8wjj0Am1M934fpvOOT2hYpZuWQKL9vygAzG4csfzXfI7xpn5IvXilHDRy42g2uHOJIBe4LyvrSVXTF7iLFfSTeSRcT2E7nvEgzjQDR5y5fr/iKEUvHyjypL0jlmTMZ2SqYkIoCXoeiFMN3wJqHKI3bDs0hf4VJnxgATX36+/yXXEX69PWf7L27L9rB4aAa0vT8otwLF19A==;TwXuz4A0BLJXr0Asgxgvww=="
 ---
 
