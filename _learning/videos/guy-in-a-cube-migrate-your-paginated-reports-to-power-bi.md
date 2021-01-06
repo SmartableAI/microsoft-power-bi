@@ -2,6 +2,7 @@
 title: "Migrate your Paginated reports to Power BI"
 excerpt: "Are your paginated reports still on-premises with either Power BI Report Server or SQL Server Reporting Services? Want to move them to Power BI? Patrick shows you how you can do that using the RDLMigration tool!  Documentation: https://docs.microsoft.com/power-bi/guidance/migrate-ssrs-reports-to-power-bi"
 originalUrl: https://youtube.com/watch?v=_VaBzheAgxY
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-migrate-your-paginated-reports-to-power-bi/
 type: video
 price: Free
 length: PT7M38S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "p1TPkJj0prL4MNqTOawkEwM3rismPH6Q65GytPKrb+VQVNYUjgx4wiX6c9oXx3qno9Yk16Fuxif/Z5iI1gDkkorfaHscc+RgIj/zwwrnXo1hnquC3nYZ4nCPSItucl1dgZIPc/z27XH8X6/dY4+bsLH+7ult3j0A+XvbBi2q7qI1YPNINbp+TX8RwbaoRTlguJ535sMcfVKMBp802mkxap2iypyyUNQJiBrKfZdpXtKcHi20EUR4PeaZtlL8WuqurpyTBgZ2js7eIRODR+ka3GtB9uKeIWX2Y+UjmzkNE9+fA38NKNIBwbvZK37jAR/y6I5x9xi7LuTsQmZJhiVICobVvgr1bf6T9RIx0x64SVHTswM10dLXq7xDtog/xVOjRA41qt2NPT2PgFPSzX4SXg==;eW3H4132SPqBS3PqeSZXHA=="
+secured: "lW8lb1GiEnoKkHWSNh4jaNdmTV6av/foXDeQb1sY9X4Vfkl2s2DAbU1+nlQlWv6p4OTy8rtc8ywo3pmCiYxz2BrnSeBWmcoVNp5VwvY333Wcr68JoM3mXCYUQ6ZXwjxQywr33OaAmPhDPYiYHRDX1NVxxrtUkyXSlDofcODIQjChKoyiH1mm8Ls9eSspV36tznpqlLg/w+Gnw8qI+JPEd0GKMraeK7UoGMD/MA7+a69Pm4lQpkmTsu4jSUfCjgncntTj+Jl+rhIJsmW5ppYWCdsuVkzoMQw42FENAtd7Sr/JtIfpTasmws9gXZIZZq3Fqm4ayHWCaq35b3KgatGbUh+XxIPl8vXea7lZtk5xJCzZK+LevOngyf/tZuaPXNr9QChocpz1Tzz8OLe5X73nkQ==;EijnVVe0lD4m0D23BMDEIQ=="
 ---
 
