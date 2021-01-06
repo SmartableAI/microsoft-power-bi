@@ -2057,7 +2057,7 @@
             "domain": "youtube.com"
           },
           "publishedDateTime": "2020-10-26T20:53:28-07:00",
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/qZYyGG2L8gI/maxresdefault.jpg",
@@ -2123,8 +2123,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 897,
-            "average": 4.637681
+            "count": 898,
+            "average": 4.636971
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2165,8 +2165,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 745,
-            "average": 4.591946
+            "count": 746,
+            "average": 4.5924935
           },
           "provider": {
             "name": "Microsoft Learn",
