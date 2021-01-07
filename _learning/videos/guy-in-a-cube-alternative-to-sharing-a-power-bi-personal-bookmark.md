@@ -2,6 +2,7 @@
 title: "Alternative to sharing a Power BI Personal Bookmark"
 excerpt: "Have you tried to share a personal bookmark in Power BI but it won't work? Adam shows you a simple trick to share report context with others in your organization.   📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next level? We have"
 originalUrl: https://youtube.com/watch?v=-c1-VQ6RsrA
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-alternative-to-sharing-a-power-bi-personal-bookmark/
 type: video
 price: Free
 length: PT4M35S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "EHzSNLhhJjzxLw8TEFQUl6O2TEqEUMkRLD/pYCIP0O2jr2O8/+V7tc/Y+DRQneoj6vknQCpE/u5venaN7sMrq3QSnhXiU2hr5cNxuU2MjgEaP1AyoErD98T3F1LkQqagZ/dK6lu32tg5n/zyNd/dik1VRDLeUGGRD2imNEpt0yZQcPgTA3L8tJnr0ZNP0TQ5PF7SDZFdykSReMv982y0dDUlNJiga5xkEoqOFvG9R06dIod1fVWQU67aRNBs9N4noZ5zFNvwyswU7slEJYQp1NQ4eSvJhN40hdTnxc8Is2EanpEpncfW+cMbkQwMEDdxsWR6OB0BLvxs+y1wjqpPX6O18VvU3/dSx/bMjr9uh2RYCD9+ymlJwGVeHgRROWkQ3/nBB4a2kmeKm5pGsNV7Jg==;TGmZpbGN8ydFNEaaP0ugAw=="
+secured: "KfJXHGo0cGRQf6s2O13idjNy9HVHdug0J3NnjujFNOK/XBKwQJFlwt07BHwZmbtV8sUkcBEIPKyXZ4/oEEzdbJ6P/Xs5osIv3k8T5KWzN5YStrAk+vUZ4zlynn5v2kiUiTyOENvX0E7qz5snxkpxvLsW0l2GK+ckRVDCU4ZcrtNSCftGITdQaTPO7ypABJWWtfZPm+NFVY7vydUme4ue4d7kqS541tTbN+AQONf3pGUiZOmCS9o1ZArZS5tAHDXgXECo63cI1l8vm7W6dZPk3Ktu2Gj+gDNYnMgYU/8SqfLrmNd5DXCAzcamJVl4aZAE2zRrbC2i0tETKDk+kw7JNDL7k6x8SADetnFN67rgI9Im61FQ/m9m7g4fz6xMR+xR4DITUHnBP1jH0t5UXDpP/w==;5XKoWwanosiuFVJrYbFVtA=="
 ---
 
