@@ -2,6 +2,7 @@
 title: "Streamline Power BI Refresh   Refresh dataset after a successful refresh of dataflow"
 excerpt: "Do you have a Power BI dataset that gets data from a dataflow? have you ever thought; “can I get the dataset refreshed only after the refresh of dataflow completed and was successful?” The answer to this question is yes, you can. One of the recent updates from the data integration team of Power BI made"
 originalUrl: https://youtube.com/watch?v=WkJn1aatBp4
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/radacad-streamline-power-bi-refresh-refresh-dataset-after-a-successful-refresh-of-dataflow/
 type: video
 price: Free
 length: PT5M39S
@@ -23,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "PyoHnS5rAJgPyw0KTPVMT5JJujm/GlDI+2GIho9ImKhud/6DH96GzGeQvWNhP+JU01dZihcm4QubiEoWctl5Ybq9UHE077AU5OoEk5nT7UVS50KhS4gDeTmH8ODy8SwojkZbl/7gb43LK+NfwG4jb8XGU+8BqP5hqEEwGJ4C8IY95Nd3W2yrSXQRuKir8RN8JTe/2JZ1JBfG805c5HlylSn9otj8wt682CASTYx7pL8PoTFhzpyhtA7eOPC2NQ5Q8uHafoo1IGvo+Io8hufMy2oeAZ+NO6Gzf+es2Y4RIzaI36iTZWW8lZzXZCENqPpIy+cfEunsI73epIGvX/oqLkZ0v9ccIAumi/X7CAbik7w1snSsErPZ1oXj9zya8Hm4w4hKkFaFPYs/IF+fETnDcw==;bw48LfJdodbraLueatHE+Q=="
+secured: "QhEHjmstlCUj7qqf5kxLuSxgBcXviO3n2p/BCyH5qEBUb6A9jfefZj3LKSD/scciHGpqEGOVnH2bRDPrQqvxiZZs8KYGZDSNL1tr3/+Z/Xt62Nlp7Aaxgly2OnMNW2roAzZTCAFey4QV0/WsYHu3W2zrsVmxm0ouvV5l78GnXzOjBxJKO7Zc0qQw9gjNHieisnfwwTpjR9p91WFeD7o75oLXZ/CM5pAzj+88ylIalDyOlEA95aHNSkCztZFIjNUSLV9PUn/UwGnFBwr/vBSwUxCohRKtNZVwHpdEDULK6aCmATGVEtXD1Vqj6VXEJUbB5BjEJfYRwlRnvsc1QvQgeGyoCj7EAZ0wazymnLoZLb2CDxvEujSuAJzxhAECB0wj;PHVKgXoWt0GxM0uLgwbidw=="
 ---
 
