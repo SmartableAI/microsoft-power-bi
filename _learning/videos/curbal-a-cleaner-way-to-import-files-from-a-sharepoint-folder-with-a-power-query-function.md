@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT8M14S
 publishedDateTime: 2020-02-17T11:17:30Z
-heat: 63
+heat: 58
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3GIz50pftZ0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "t7ivkCr9YGd85FpdDGFdBqjBUhDT7FExLR9TNMZIehnj2Y/60PL5WiWNvLm8FpbA+cdW47EgXuKMXtBGGaVx7iyjtVWLpKliGmgbbYsJf4R7/5tOxld3dbfEQREZNYC/BfkyyU9YG7E253rf1BetY2lerkT/8C2wKXzhnRUdPk0RUNtUXUd8EKROQv8jbF2SIvZ22Wh8MhvdYXZrMpCOzNZcVtND2h+L35bXLCskhC3d8P3bff4RSywW0kt05/cn4aFwB8uCem4dTVGt86ZdUMRypoz2n2qr4K1DXkZN03bo7Px279XHFPbpUCTGJO/aczVzAAwFt+2wEIJFzjpwLfpo7y5hz5F+IqcQuiQ2IK/OrRTnMiaUQzgkQQMhe8hmGh0iAl16X5seZz44gdtN/EK9K64hBm6qFeYvCjpWE5I=;O1u1e1Spx4tI+SUTvkiqyg=="
+secured: "FpvLp3xY7zjanPbBv74tLi5pKsoB9HSMiNt52RgD/vPsSFXlIZUNMNjmq+uLAXJE0b3w9KC+Me3AJs99wkcHvnZinERZfQ971kX8wHGR6j1p0A60XBMuz3yfz1sXlBEgL6sn8Zd3OQ0It/emLMWPfK6NjAQ8XmWHocZfxEqwNWsR06l5YAQn4OcSvocMpc+OMv2h/FFDU40ffDHwMPYWJ2idYO5vLutwJ5dUosuf1mNMLuWJTx2eP0hOolP5ORNo8dBzUVOqqlH5DfjV1IGwe23Sa+ccZZSvy17HxLnEovlWRST6+pTaZR5ASdPoLM3wTdpRBZwiDixpkIByYw16bCKRafosM5Nx9+4peCDtM822GPA0Q3blBe1B6lP9mNaekqPaevyNlAz/dltCkKUj8A4WQcCWiGhYBs8qf/u4/j4=;nyhAaTea5MH49X6A3GT7Xw=="
 ---
 
