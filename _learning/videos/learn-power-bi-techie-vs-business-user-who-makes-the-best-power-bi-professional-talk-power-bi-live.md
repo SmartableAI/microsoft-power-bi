@@ -2,6 +2,7 @@
 title: "🔴 Techie vs. Business User: Who Makes the Best Power BI Professional? ⚔️  Talk Power BI LIVE"
 excerpt: "✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask any Power BI question. 👉 To Learn More & Submit Your Questions Go To https://www.LearnPowerBI.com/talk 👉 Join the LearnPowerBI Family to Dial-In Using the 📞 Phone Line: https://www.LearnPowerBI.com/training  Hello,"
 originalUrl: https://youtube.com/watch?v=1ibEjkyRsu4
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-techie-vs-business-user-who-makes-the-best-power-bi-professional-talk-power-bi-live/
 type: video
 price: Free
 length: PT1H14M35S
@@ -23,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "ui8oUJp4sVmEsUcIGf4HWChUFvw6DnaBjF0AFy8zNZI1bukqRu4tCXT7epW8lNUGP/UX2/b8UTeQC7ijdfJ79ybX/j7CbLzWca7lOS1UCny69+765gavMBnOWDYfHke9wYXcxINQGzNU4Zc5RyoexBBrPFJcTqlk85142jBBRZhwoBxbRavbn2LBIsNkPuotk15REPpeV3x8uSex2o/ed+vm2MJwN2jSZNLG8NP7JKEDl7EoelktgiU5w9BKoB0NrVpY2J0O64P14zTal8H6jYFNUj3CCMp3Yw3J8Gm3INn3p9aUSmJRbWpCZ3YuVB1A5ztnn93Ws9Br6G34uDytmjya7I+6CZSgsR7WF7ZsXn/0OipGGZiOjvl5zIYzYCCHRczdaprUvasfY3+Jw65ZMQ==;NyKQ7tM/pqBaR9vnThc7ow=="
+secured: "BWPsiPR5c6KFQGOWNbYrcVhpRqOXpvpn2xv1J6ZK5DYuu8GWyWb3IUaETcoWW9cWpOhK2bs3Q2AF3+6ofaiO4/iZ/AckY+MWJ2JGkH6VO60AQnes3+Sc8CI6GndSeB5UvXc+QDbvYHYZinazCEidVPjjE+0b7WUhPdsDwxFXm8yaeXPcyU2zwF16fH3I8xTrk4sOaly+IXxApJd2RCqlSFL2POM/xUwQxR5oSS78+vU3e/JMMh8SJXPG8Wmya3KCypuOmAEzRZFkdANfjEhZgAeRfh18POK+bYKXY3I97GLwJgIfnyGpM9gQtb0mHwr/Kh/OcXAE+va5/tKbGYmcAllcvGQQUaKRzZmjyMA1iIGaz4jDzeBEMW3pgOER4IDp0H9ZmN4OiZ3GOZZllXQEcg==;k3i22DqKelcBQ12lWVIJXg=="
 ---
 
