@@ -817,8 +817,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-your-first-power-bi-report/",
       "length": "PT55M",
       "ratings": {
-        "count": 5568,
-        "average": 4.769217
+        "count": 5569,
+        "average": 4.7692585
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -894,8 +894,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-time-intelligence/",
       "length": "PT19M",
       "ratings": {
-        "count": 243,
-        "average": 4.72428
+        "count": 245,
+        "average": 4.7265306
       },
       "provider": {
         "name": "Microsoft Learn",
