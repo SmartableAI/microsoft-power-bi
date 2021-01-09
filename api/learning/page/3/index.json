@@ -877,8 +877,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 2386,
-        "average": 4.7544007
+        "count": 2388,
+        "average": 4.7541876
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2163,7 +2163,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 52,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/add-measures-power-bi-desktop-social.png",

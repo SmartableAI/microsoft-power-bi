@@ -1689,7 +1689,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 62,
+          "heat": 57,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/design-a-data-model-in-power-bi-social.png",
@@ -1774,7 +1774,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 58,
+          "heat": 62,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/optimize-model-power-bi-social.png",
@@ -1792,7 +1792,7 @@
         }
       ],
       "size": 3,
-      "heat": 58,
+      "heat": 57,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/design-a-data-model-in-power-bi-social.png",
@@ -1899,7 +1899,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 54,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/manage-datasets-in-power-bi-social.png",
