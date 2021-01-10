@@ -894,8 +894,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
       "length": "PT29M",
       "ratings": {
-        "count": 555,
-        "average": 4.7423425
+        "count": 557,
+        "average": 4.7432675
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -978,8 +978,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-iterator-functions/",
       "length": "PT12M",
       "ratings": {
-        "count": 207,
-        "average": 4.7439613
+        "count": 209,
+        "average": 4.7464113
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1022,8 +1022,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-time-intelligence/",
       "length": "PT19M",
       "ratings": {
-        "count": 245,
-        "average": 4.7265306
+        "count": 246,
+        "average": 4.727642
       },
       "provider": {
         "name": "Microsoft Learn",
