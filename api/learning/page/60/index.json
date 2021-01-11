@@ -4,6 +4,36 @@
   "page": 60,
   "value": [
     {
+      "path": "_learning/videos/learn-power-bi-how-a-power-bi-entrepreneur-is-out-to-save-the-world-talk-power-bi-live-subscribe-join.md",
+      "title": "How a Power BI Entrepreneur is Out to Save the World 🔴Talk Power BI LIVE (Subscribe & Join)",
+      "excerpt": "Meet Austin Senseman, a Power BI Entrepreneur. Austin founded https://www.conserv.io/ with a mission to bring the strength of Power BI to help preserve the world's art collections. Austin shares his tips on any business can leverage Power BI to stand out in the market and win more customers.  ✅ Subscribe",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-how-a-power-bi-entrepreneur-is-out-to-save-the-world-talk-power-bi-live-subscribe-join/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-how-a-power-bi-entrepreneur-is-out-to-save-the-world-talk-power-bi-live-subscribe-join/",
+      "originalUrl": "https://youtube.com/watch?v=HkiPDw2hln8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HkiPDw2hln8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3H41M37S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2019-09-13T04:43:08-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/HkiPDw2hln8/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/learn-power-bi-how-a-power-bi-side-project-can-lead-to-big-success-feat-barry-kresch.md",
       "title": "How a Power BI Side-Project Can Lead to Big Success! Feat. Barry Kresch",
       "excerpt": "When you love Power BI you use it at work and at play.  👉 Connect with Barry: https://www.linkedin.com/in/barrykresch/. 👉 Join the LearnPowerBI Family: https://web.learnpowerbi.com/waitlist-invite/ ================================================ 👉 FREE Power BI Step-by-Step Tutorial http://web.learnpowerbi.com/tutorial",
@@ -301,37 +331,6 @@
       "price": "Free",
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-how-to-cross-join-in-power-bi-using-power-query-the-smart-and-the-dumb-way.md",
-      "title": "How to Cross Join ❌ in Power BI Using Power Query: The Smart and the Dumb Way!",
-      "excerpt": "How can you create a Cross Join in Power BI using Power Query? Watch the video to learn: 1. What is a Cross Join? 2. When to Use a Cross Join? 3. The Dumb Way to Cross Join (Yes, I was doing it for years) 4. The Smart Way to Cross Join  Links Mentioned in the Video: 👉 Power BI: The Ultimate Calendar",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-how-to-cross-join-in-power-bi-using-power-query-the-smart-and-the-dumb-way/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-how-to-cross-join-in-power-bi-using-power-query-the-smart-and-the-dumb-way/",
-      "originalUrl": "https://youtube.com/watch?v=Zp_TC-UMpy8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Zp_TC-UMpy8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M43S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2020-10-28T09:00:14-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Zp_TC-UMpy8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
       ]
     },
     {
