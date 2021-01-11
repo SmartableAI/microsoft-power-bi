@@ -2,6 +2,7 @@
 title: "What should be your Salary in 2021 if you work with Power BI"
 excerpt: "The Power BI 2021 Salary survey was popular enough to get some interesting results. In this post, I am sharing the result of that survey (which is filled by the public) as a Power BI report. The report gives you an overall idea of how much the minimum, maximum, and average salary should be based on geo-location"
 originalUrl: https://youtube.com/watch?v=xQ_rZxAROjk
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/radacad-what-should-be-your-salary-in-2021-if-you-work-with-power-bi/
 type: video
 price: Free
 length: PT5M53S
@@ -23,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "MZLgb4QWbzbsHj2ZLcQDsmbySqBUaESNYDPtFs6ix4EBepPmJJ6eBqLZHiFLYJlRqNRbWsFitzOSTS9wfm8W4NIaPA54QmZ4oO14uG2+SlOwjXIRyLPWuzcIVcOGyUjVfsE0RY7wpxgy/w6ZFszUhMR1ce4qYzqNgZt6QQK9Pqk2I6qoPTBu/bUJnqnu+oblTch705DYWd7fyFiU8+rJVFiYyTLkXZS9IbjfoC1rygher5uo79qlGc62M+WXOz3JvFBZjHB+11+bUrlWQ97rKDxWkrPtw/IwbULYa/K1IO2MGvJVkqaVWgeOLcb72kxBKpeQVX82bgIjOwIQX7KYGe7oNK73Q8DWSHaSS+ykaOqbQMRi5xvtvE4BIho0QN2XdLEPxLeQUueYL/qsSzcVxA==;OS5aWo3vBLb2ThHEAujtrg=="
+secured: "XVu/rNaW04r662K6pu86lnijKwssSy4lZqF9VXfmPl5IbDL1/cfSqlelH3RFx2MyRjfl4wpUrDK2Fyj9Osk2Pba5kGVecscp4e0ed7ZGmSAjsTa02+uCDDh57F8GOzb/eLwgGK12NQXKcTkYpOAwRe4gTvBicjG7sx9nunRehm84mYVxn4HfhTFfvvjLTuREQ25SYbH1NHLcRnyLRavvU9QuFpyAuyUoKLnmjRsllmpRxhrxxBSxWFjmdx3g0dnM9FRQkWdXdeYxsbp/Mc7e4ApEJcaY03k3HjVfsiOpCwtgj3b/0724rELgrCOvh+tRE1/NTWsVIzu3FqFME20Q4Y6gOlBPKJdXlyKzjFy3BcNLSXdMveQbOcfoEhhREgDl;ZQ4AHTGIzR9nxMA+2y7FZA=="
 ---
 
