@@ -2,6 +2,7 @@
 title: "Frequently Bought Together Items with Python and Power BI"
 excerpt: "Frequently bought together items is a widely used recommendation engine that shows the users what items were bought with a particular purchased item.  The recommendation is usually the top most purchased together permutation.  This is often seen at the time of purchase to encourage a user to increase"
 originalUrl: https://youtube.com/watch?v=iDV0Zh6HDGc
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/absent-data-channel-frequently-bought-together-items-with-python-and-power-bi/
 type: video
 price: Free
 length: PT11M18S
@@ -23,6 +24,6 @@ images:
     height: 360
     isCached: true
 
-secured: "HiHGVaXuEFc2gRdq9mlDyzSCOXgaD4qlWtqhD9LFvAYRXqi/1huiQbWTRs3fqwCOswPAdIpPqgqwj/Q3o6UQLoDet7yQogQm7QM84Wl7HW8OOvPWQEbj2I8WGipU9Pzy2EFI3APipQ+ONrS33xmcVSlhyC81/OW14dLOGbuSzxxtJHjQ3r+xiQO4WMo3vV8gDnKgntMI4D2S4f6wl/ZWozPUPdvh6fVbtOWVur3nLS1XIZCP7tkbiYTbThkTnErh5FVYykrLsE55mt5+noY/OxE4tFqGVOX1rnTQR0BefktDaMN0F/UX2H/Wp1EA96Efxds7o/Ltr0jWyP/7qZ/wTqAeAD3kDvgObPOmpFKLu6WF35B4qqZPAwc7lXR07HbVJtGXxGyBKVc2A5yoEPvyFQ==;h78LSjn64/4AM1kG4oC6ug=="
+secured: "TWuy7ykyatedP5t5eNx81PMqhBt4Z7FzymQeAI4oxOPfrsDQSN5TzbzzzjdlhRKu/i5ZGkv1tsCkCawQMJ3ClR/A4YhG1qocHeQVkPEkSk8zzEYarxjXJ3AdJteVlX2+H/gjZ1AmAO0dLpdXjFnYM4O8L6d//9eBn9ri63PAx0HYDqYlEIuWTHe1bbAsBh4nt/iyj1JJp4iHX+ygkpqh8iQMv8zIDXLF22rL2/P7Cye/sSYq5pzuV5MCew1apahV7TekWHq0QOkL0+ZR2BswTfMEyrjomhHCsmZzrhI0ta+puniyXoA+u+sQTHG7ST69wo1z14c9pY1/jDPJNq0Pgry9s+vHXSLa/QlG7DsTpgvk1rgTF/BKMsQSU2/5FBXv;muzhBcxUOmXauKcbi8f+hQ=="
 ---
 
