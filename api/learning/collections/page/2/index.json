@@ -687,7 +687,7 @@
             "domain": "youtube.com"
           },
           "publishedDateTime": "2020-10-19T04:22:47-07:00",
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/db-VftNq_58/maxresdefault.jpg",
@@ -899,8 +899,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/becoming-solution-architect/",
           "length": "PT1H43M",
           "ratings": {
-            "count": 713,
-            "average": 4.7223
+            "count": 714,
+            "average": 4.722689
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -941,8 +941,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/discover-customer-needs/",
           "length": "PT36M",
           "ratings": {
-            "count": 478,
-            "average": 4.6778245
+            "count": 480,
+            "average": 4.679167
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -975,8 +975,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/propose-solution/",
           "length": "PT40M",
           "ratings": {
-            "count": 341,
-            "average": 4.6627564
+            "count": 342,
+            "average": 4.6637425
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1009,8 +1009,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-requirements/",
           "length": "PT23M",
           "ratings": {
-            "count": 315,
-            "average": 4.736508
+            "count": 316,
+            "average": 4.737342
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1745,8 +1745,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 5803,
-            "average": 4.6949854
+            "count": 5804,
+            "average": 4.695038
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1828,8 +1828,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 1536,
-            "average": 4.7552085
+            "count": 1538,
+            "average": 4.7548766
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1870,8 +1870,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 1177,
-            "average": 4.6830926
+            "count": 1178,
+            "average": 4.6833615
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1913,8 +1913,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 1382,
-            "average": 4.743126
+            "count": 1384,
+            "average": 4.743497
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2080,8 +2080,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 616,
-            "average": 4.7581167
+            "count": 617,
+            "average": 4.7585087
           },
           "provider": {
             "name": "Microsoft Learn",
