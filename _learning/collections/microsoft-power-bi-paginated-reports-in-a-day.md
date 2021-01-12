@@ -37,6 +37,7 @@ items:
   - videos/microsoft-power-bi-paginated-reports-in-a-day-22-bonus-content-review
   - videos/microsoft-power-bi-paginated-reports-in-a-day-23-bonus-content-evolution-of-paginated-reporting
   - videos/microsoft-power-bi-paginated-reports-in-a-day-24-bonus-content-lowering-the-barrier-to-entry
+  - videos/microsoft-paginated-reports-in-a-day-25-december-2020-update
 
 topics:
   - Power BI
