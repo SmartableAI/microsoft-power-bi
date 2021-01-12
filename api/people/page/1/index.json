@@ -17,7 +17,7 @@
       "twitter": {
         "username": "arunulag",
         "url": "https://twitter.com/arunulag",
-        "followers": 2735
+        "followers": 2734
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/arunulag/"
@@ -51,6 +51,43 @@
       "content": "\r\n"
     },
     {
+      "path": "_people/seth-bauer.md",
+      "title": "Seth Bauer",
+      "excerpt": "As a co-owner of PowerBI.Tips I enjoy helping create a platform for new and advanced users alike to learn and expand their skills and get the most out of Power BI.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/people/seth-bauer/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/people/seth-bauer/",
+      "type": "profile",
+      "name": "Seth Bauer",
+      "bio": "As a co-owner of PowerBI.Tips I enjoy helping create a platform for new and advanced users alike to learn and expand their skills and get the most out of Power BI.",
+      "twitter": {
+        "username": "Seth_C_Bauer",
+        "url": "https://twitter.com/Seth_C_Bauer",
+        "followers": 1748
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/seth-bauer/"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Power BI Tips",
+        "domain": "powerbi.tips"
+      },
+      "topics": [
+        "Power BI"
+      ],
+      "heat": 42,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1176155552587681793/4aUcPKoe_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Seth Bauer",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_people/mike-carlo.md",
       "title": "Mike Carlo",
       "excerpt": "Consultant for Concurrency for all things PowerBI. With over 11 years of data experience I'm making waves by deploying PowerBI into local Milwaukee Companies.",
@@ -77,7 +114,7 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 41,
+      "heat": 32,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1109338504268439552/OY_Va867_400x400.jpg",
@@ -103,7 +140,7 @@
       "twitter": {
         "username": "powerbipro",
         "url": "https://twitter.com/powerbipro",
-        "followers": 4482
+        "followers": 4481
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/avichalsingh/"
@@ -142,7 +179,7 @@
       "twitter": {
         "username": "Rad_Reza",
         "url": "https://twitter.com/Rad_Reza",
-        "followers": 7084
+        "followers": 7083
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/rezarad/"
@@ -162,43 +199,6 @@
           "width": 400,
           "height": 400,
           "title": "Reza Rad",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/seth-bauer.md",
-      "title": "Seth Bauer",
-      "excerpt": "As a co-owner of PowerBI.Tips I enjoy helping create a platform for new and advanced users alike to learn and expand their skills and get the most out of Power BI.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/people/seth-bauer/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/people/seth-bauer/",
-      "type": "profile",
-      "name": "Seth Bauer",
-      "bio": "As a co-owner of PowerBI.Tips I enjoy helping create a platform for new and advanced users alike to learn and expand their skills and get the most out of Power BI.",
-      "twitter": {
-        "username": "Seth_C_Bauer",
-        "url": "https://twitter.com/Seth_C_Bauer",
-        "followers": 1747
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/seth-bauer/"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Power BI Tips",
-        "domain": "powerbi.tips"
-      },
-      "topics": [
-        "Power BI"
-      ],
-      "heat": 3,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1176155552587681793/4aUcPKoe_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Seth Bauer",
           "isCached": true
         }
       ],
@@ -265,7 +265,7 @@
       "twitter": {
         "username": "patrickdba",
         "url": "https://twitter.com/patrickdba",
-        "followers": 5823
+        "followers": 5822
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/patrickdleblanc/"
