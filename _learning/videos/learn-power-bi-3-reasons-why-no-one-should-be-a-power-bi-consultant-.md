@@ -2,6 +2,7 @@
 title: "3 Reasons Why *NO ONE* Should be a Power BI Consultant ☠️⚠️🚧🛑"
 excerpt: "Want to learn the 5-Steps to become a successful Power BI Consultant? 👉 Sign Up for our Free Webinar on Thu Jan 21: https://web.learnpowerbi.com/consultant/  If you are thinking about creating a side-income or full-time income as a \"Power BI Consultant\"…then you must first watch this video. I share"
 originalUrl: https://youtube.com/watch?v=LdZXrVe9g14
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-3-reasons-why-no-one-should-be-a-power-bi-consultant-/
 type: video
 price: Free
 length: PT8M32S
@@ -23,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "QpR58LKDkamLKS5uUf2IJqX51ENS3J3DsYtgRdZ23s6MaNJDYY6JSyimO8hGCA8+TeXKYbFQQ/0pKFmnRcj8/TC1cKJhRkLjH0lGOvc9OrqorlQ8nEOyFI9AId+b91u9Xg4ffkZyGMpx21w2ysnC2pmVzDoniNlxmb7qotlmxrn4WSiuoLiF9AhWpNt1pfaso5U0/viYQw1QiBh/pmxfechwMjpXzVNvxbw+EwV7G+pQk8h904nDHt9UmQEl5u37v0/Jyni1oZqH2ldF4HpgpwvrbKKI/LXfETo7EM0xok8sLEoWB8WQ8vaP0NOx565yW/B0XyyzSzdKNpWmBjRsjmhZZA03LeTXwrwX7gnQCyKzToTRcRl5O9ZcH9djxGFgpvPCmTDFpY3aTQwho18+wg==;lPLqMydBox1uYL0V6zaHyQ=="
+secured: "ZMFkammXpz+qJ8VPwSqi1gN9IljOYj1U+8HFzdJo2H9/kL6eTvlwdrmwxOjxk8FCRw1S41da5onc1747dwy2Gm623w3ej2DGYbQJ+pf2eurLXHXptQu5TZ7EfKXp+AoceCUckp1umAv7h+qs83i6fJrodIy1bb6S2aom9zza2s6SeFfbbjJ5YXycsO1ij2vP7K5J6VolNifWVwUI3UhWI00JFApYYHB/cueA2GxWRwK4qPwqbrtIdwcl65tLl1QzfWEVuabq5rWhepJd0t29v/GED9XiYRwfRG8Rs3rzy3eKc7t14FPRA3hnD0H7lxBl5sXbw6ArgRjB1/7gt19ca1KA7p6fFp7B40eOmjHnVFDVF995fgwfSp1MnVPG38Dw1x9MmI5j7BnPXDWa1av+oA==;RxVs6EBpv0c46Jme1+bqsA=="
 ---
 
