@@ -2,6 +2,7 @@
 title: "Power BI Helper Version 12 Jan 2021 Feature Summary"
 excerpt: "Happy New Year. We wish this be a year full of happiness and joy for all of you. We are glad to let you know that version 12 of Power BI Helper is now available to download with the below new features;  Detecting the storage mode of tables (DirectQuery, Dual, Import) Detecting the connection mode of"
 originalUrl: https://youtube.com/watch?v=2WEg64f94Rw
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/radacad-power-bi-helper-version-12-jan-2021-feature-summary/
 type: video
 price: Free
 length: PT5M13S
@@ -23,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "tikMWCUJ+fcyk3HIEytYz9PdkTjYv+6fhHctEUh9xdqa2mKmRCoYhjxvxR6sTZYU/opa8ZP2vob7PHaRcex3FdSLdmW0qRCQAN6YZNYRifa5Dt5eCv7oRJdN4WsE2R4sl/MefOr1p4Wi+oCodcxxxplyLV2/DFWa1duCQ20ePGKMcEmNvZ3ULkxiDKBKPVHUA5+VcG/1F/tK9oCntUsIBMl4QoI9aCcX47n4i6AHojY5U5ugPAj75Zeo6eiysxt8/qe9/dnEIh8Wgxxdamch7bmPDGUcouM3Qpj8ZqHozVOeH68aGaL5poXh/DuuenJob8l4F4MFt7aHMKr25scW37aNXcz8EAdtOQYclAPvTnNScfOUdm45fa+2g6F8ERQrKff7kQ3cP4wG40CZf2ddBg==;cvtK2IdWiNTTAjwu4UPdpA=="
+secured: "sJcj7XtNUdZtUaW16//TeWzg9s6yzisL7W9qR2u68+HWDgbJkoAUJQNagDaB+hFOg70FWczrYOuFcz6uc7scWl3RkwN1OWB+Og4XQ1PUVDUV+OlRggQgRWlNMr+eGHvU47TdQxLKw7qTf03B9aBjMtCJVqh7D6O0NHZtxaBEiLhHWWxXp52BMAsnT+kb21XcR+LGiGlwylMtqbldbzaC7fqdntdLOf+AfESFmUeOnhOV33kYL1uBKcjsm956KGNcVnVdLj1OgGOZsYfX1U5Bz2qimcN5TUyMpjUTx/OPw2gSNwOjgsd1aF5e//PmNQQBl0yAU/J7AVEpmXxz/DFs7aT61nR+wm2Ivaq2gHG8vUQRlcguoeurVm+lfc8VT27Z;sqtKDzsjMU5dqHFBmBQ1ag=="
 ---
 
