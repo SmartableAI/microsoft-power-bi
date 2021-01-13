@@ -2,6 +2,7 @@
 title: "Power BI Paginated Reports in a Day - 25: December 2020 Update"
 excerpt: "In this video, Peter Myers (Microsoft Most Valued Professional - Data Platform, and course developer) and Chris Finlan (Principal Program Manager) describe and demonstrate new capabilities and features added to #Microsoft #PowerBI paginated reports since the online course was recorded.    For more information"
 originalUrl: https://youtube.com/watch?v=-7M4muS_3BI
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/microsoft-power-bi-paginated-reports-in-a-day-25-december-2020-update/
 type: video
 price: Free
 length: PT19M44S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "1xWYp9XXknZotIwF0snHSD0/qZxyVTtgRoL+Q2nNhC77ilvAjXsI37M9ynBRW2v59+O3HRurWW7tKm88ajL14UI+bWzFVXZB02GHyYtbI7F/fd8GsqZpiQ2RwBzNB0oe3JnUTMfjqMUpb33EKGJGPahmtjjBV9DGM0t0LQinMZiYzCvTEOJKHJaWSJ7MbcQt3gC9DwcGRL9nJoYRRYb2o5aC8xfdL817hwfgS7m78vatx+mbTYIsWda0LoHSEkNLK8uwHwRBsXbrtVVboP/QTbBBQQ1gzbFUF2iTW3IvgkGPw1CPKe6YroECHDox3fH6qWRgExTEleZ5wWhqMEWCyXze2Yo8yjhnYFBDFiC5JfbAUde5e0U+bft20STdAmnOQENJsLqY895ZiNsWhdu/dQ==;HQ5+ahf71WVjZaYkivn/pw=="
+secured: "CDn+OB2Mvc2ISz9VkYJIeAF99uUsxQzPDNaI8x4quQWMxwQsfj7JUsA9+tNpwIm7EbpAAZQXqqKPIaFRzXcvkSEoXRAX3VvOrm4ee1Dr7uw01xoioKmA9CcUInl3AWVgiMoluOWENjTYFp8TlcPsFsowtAwx0cqEjf0OZOhmYq+dfRIrFsMI+R9EZS+9VKwWOqsdWGokMtKZUkRNEBrXInocb6QXf68/Br+pDiOqnMMnwNPlZmK1yfGHZJcZFR6r1Dfsg0RblC3/tDSngKpeC2zNmcnuWiJvjdnbGD51iTEgMnrWCSH2PxEVE8nX4ZbtdP9u6ATUc1hnlIU0+GJTHEIH7/eccnWfLKwqTBfZFuX/p0Ve0VWHBqMKP//yIJW1/AB5/uYOKPu++QqDe0PFmw==;bde4uLOewDc5Ig6oc4vItA=="
 ---
 
