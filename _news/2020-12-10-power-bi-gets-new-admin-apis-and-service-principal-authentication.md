@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/power-bi-gets-new-admin-apis-and-service-
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/power-bi-gets-new-admin-apis-and-service-principal-authentication/"
 type: article
 quality: 97
-heat: 97
+heat: 98
 published: true
 
 provider:

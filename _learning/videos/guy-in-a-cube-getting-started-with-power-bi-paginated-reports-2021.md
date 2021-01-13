@@ -2,6 +2,7 @@
 title: "Getting started with Power BI Paginated Reports (2021)"
 excerpt: "Not sure what Power BI Paginated Reports are or how to use them? Patrick walks you through and points you to some great resources to get up and running quickly.  Power BI Paginated Reports require either Power BI Premium Per User or Power BI Premium capacity.  Paginated Report In a Day: https://docs.microsoft.com/power-bi/learning-catalog/paginated-reports-online-course"
 originalUrl: https://youtube.com/watch?v=XSIbRNXGgPQ
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-getting-started-with-power-bi-paginated-reports-2021/
 type: video
 price: Free
 length: PT10M10S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "92maCOkJu/mylFP3hEXQuPbbAwe7gOZn8WZxWWTBnb5NTL/ti5GV07SsU1HcQ/LGkRizwZlMJdYPbjLQYW2lFc9OmBNkrTgCkOGqgjIMkFrrMOUHSav5D8PZbSNglw7pf/pOsKSqC72YhCGZzFpyrT2M/QgQUYLFPz+Ubetc4aCzKgzAD90YkzxRl90+/lYdiov+Jpfd/KkZPCx+hMMty7C9LBDKEUv53fBl5IqoeoFUtBBlzIapQPMHwop0egQKeSyu1m3djupiWovOwFMUC78zl0jrxuezzbZRE7KfVdLtv0E/BgmmT8fOYqYrYUGu0VlcptH18QHlkgqY7fmTqgPAluRCRYK+SecUyp7c8WEP+O6rXb7L1F7bDpZ5BWZNDKkTtu9fuMigQ0jlm6g29g==;kOVHLCzPaTiO6X559PbRYQ=="
+secured: "kAylloXNU1rHj62hTJ+/ZJtwFOOqkPjE6LbBZFwCAoxiCJHFme7QLL6oOumXwJCRElT9K2g7CS2+U7+N6Q5YTNzWs+VINiyH708XAVFtUWHtt+iC0ZwTfcjJ0ivhOG9g4MJ8S4dIRjPriW+HdeaVtjIkfHNj+RJ5/UQM0Hq4wOUAzYCN50IpgJdMV/CK2wxQZnjPQsPYbCMUXAfK+QBv6jM+8/pYChBJnvsj8hl1VbNTca+jdPaXw4p+uYusBpcxxMeuPuKk90CvLJ2VE//H0AztVQJTj3cr7mdXB15/g7HQqLkELOJik/xiSJLLB56aW/KD2wIktKkTSoehd9SzAoBE1EA8OgIruVBvrASCgxYq3DbyNSjSEjYo9f+4MbaPG5ofxyXsTbaWiKdOgODo3A==;IjYmYcnnYVBogj5g2x8zdQ=="
 ---
 
