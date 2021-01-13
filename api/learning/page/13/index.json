@@ -234,8 +234,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 619,
-            "average": 4.7592893
+            "count": 620,
+            "average": 4.7596774
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -455,8 +455,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-write-formulas/",
       "length": "PT27M",
       "ratings": {
-        "count": 435,
-        "average": 4.6873565
+        "count": 436,
+        "average": 4.688073
       },
       "provider": {
         "name": "Microsoft Learn",

@@ -1489,8 +1489,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 1387,
-            "average": 4.743331
+            "count": 1388,
+            "average": 4.743516
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2032,8 +2032,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 739,
-            "average": 4.6630583
+            "count": 740,
+            "average": 4.6635137
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2199,8 +2199,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 619,
-            "average": 4.7592893
+            "count": 620,
+            "average": 4.7596774
           },
           "provider": {
             "name": "Microsoft Learn",
