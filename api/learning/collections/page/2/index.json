@@ -1440,8 +1440,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 1556,
-            "average": 4.7544985
+            "count": 1558,
+            "average": 4.75353
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1710,7 +1710,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -2068,8 +2068,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 746,
-            "average": 4.663539
+            "count": 747,
+            "average": 4.663989
           },
           "provider": {
             "name": "Microsoft Learn",
