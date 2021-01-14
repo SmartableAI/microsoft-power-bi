@@ -2,7 +2,7 @@
 title: "Get started with Power BI Paginated Reports"
 excerpt: "Patrick walks you through how to create your first Paginated Report for Power BI, Power BI Report Server or SQL Server Reporting Services."
 type: collection
-heat: 64
+heat: 68
 
 provider:
   name: Guy in a Cube
@@ -13,6 +13,7 @@ provider:
       height: 50
 
 items:
+  - videos/guy-in-a-cube-getting-started-with-power-bi-paginated-reports-2021
   - videos/guy-in-a-cube-power-bi-paginated-reports-data-source-dataset-and-parameters
   - videos/guy-in-a-cube-power-bi-paginated-reports-visualizing-data
   - videos/guy-in-a-cube-how-to-create-sparklines-indicators-and-conditional-formatting-in-power-bi-paginated-reports
@@ -22,11 +23,10 @@ topics:
   - Power BI
 
 images:
-  - url: https://i.ytimg.com/vi/TEIdI5bFCSU/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/XSIbRNXGgPQ/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true
-    title: "Power BI Paginated Reports: Data source, Dataset and parameters"
 
 secured: "BbZWRijKq7Ur1183+s/93heD1jLe3c4+aAi47FfTcZhOvjP2b7giGbraq5wgtElwcDIDhtSzqTTxD8spGBMR0YHASemkseq/KafeNW+ypBCjCFVVLVuHjo5sfkVAQDQIJ0nxNbACAtM1pVog0q/R6JmjxPu0ZW2mSdmily3K8A61jzElZLLMkrNjHdbtmmSyHGLekqRWNwJUQhQclZaN6DnY4t7hG7bFoK/HdSfo6n4LeQH8NBJemOkT1n5+P2quSpg4uxufhT64/WF+pkMwtPUpjoAHgr309wr5pCiq0L8UryWTvvYxJQoX/mEn+m+PmT9WPA+Nua+Jjsto7lYMMQ==;HsMKz3lH8sojXnx7PAT5DA=="
 ---

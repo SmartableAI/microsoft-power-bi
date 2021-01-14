@@ -13,7 +13,7 @@ provider:
       height: 50
 
 items:
-  - videos/guy-in-a-cube-what-is-power-bi
+  - videos/guy-in-a-cube-what-is-power-bi-2021
   - videos/guy-in-a-cube-5-ways-to-get-power-bi-support-pbifamily
   - videos/guy-in-a-cube-3-ways-to-try-power-bi
   - videos/guy-in-a-cube-power-bi-tutorial-how-to-sign-up
@@ -26,11 +26,10 @@ topics:
   - Power BI
 
 images:
-  - url: https://i.ytimg.com/vi/7iUqMA2Y6xA/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/Vqz2d7pTOV8/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true
-    title: "What is Power BI?"
 
 secured: "jvzFMr+iogrP0PYkaO2r5hjqlOx5s3huf2cOPuV+AtvTaieaQskr7E0/vTBxg1PKHJXG3l5jj9cw79njCQU2LVKpJ/L24zgFTUABT6D7AYG1JWzL1IFmTJZtwqUeT+Fe3Bxj54GketRSgsA5spnxh4Az6N1ERd0AOdUAcmAdKbCdwlpclcbLAirxjj6v4l8vd/DItIyV0z/LiWkYUthrK5T3WHoxvzoUwyAgmHDtML6EOtGjbsRJOQ14TLq6GKqgpjJWpOAFg/yrakdaGWRpqPdOUbfGYMJotDqXsTUP94QC2SRAR7mU3xaE+iU8tG5k1dM6FbHiLo+LCu2o+zWaXw==;zomyPMsZGt3+7xBW+zPxrQ=="
 ---
