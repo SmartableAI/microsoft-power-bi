@@ -2,6 +2,7 @@
 title: "What is Power BI? (2021)"
 excerpt: "You have heard of Power BI, but not quite sure what it actually is. You probably come from Excel land and want to know more about how you can take your data to the next level.   Adam summarizes the Power BI platform to help you understand how it fits into your business and work flow. Whether you are"
 originalUrl: https://youtube.com/watch?v=Vqz2d7pTOV8
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-what-is-power-bi-2021/
 type: video
 price: Free
 length: PT7M49S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "V4rXABEUSpsQdysQKFUadh7muuacFukAgj1bhuZGX7fSLQrvC/DuMSlf4dN2n/k0xL4qvl6BWhd8zccmG+5MhxDXbqAD7kZKhnbhIMqIQrF9mYECqDsGuOxjb/bMukY/aJgjAV0yWmbICNrJYgTRorINIG/H/CaZJ1Hwqao5mCyZ0mS21q4HqFLhQM+ymhbjI09T1PSVo0zQ4/vBUHy8n1lfLwNijroT5Y8ISaQtq8OQt56SGIGB2hDD8EAPVWSXKcOSF/iXRQmEySpa24uklIua+WOgx6Hz7pIjXtMsPnuX5GZKajwNt+6f2WqcMZO3bK22aVfVBQKnZPY84GPrC6NaZGO1wUJYr8Q5uuPBhEqhlZsqOebHVCBy3jeyyI9KxXrY8LHA1qXpA38VQaOwFA==;7NVjhJUyY0uhsy8JS0cw7g=="
+secured: "LjK69VhHCqpEyTXAf+Xy2B2Z06yYiva2z6JsSCw3ZfxSnDIpb3Jqqf9/WiZreLlAhJLkkpLKeUH721eRwqAa78cz9S8TcnzPE5j1pGlCURAGXIQ1ZCHNw9z1EuSrnoudMZrNYAkxiy1Sod1HqVRgk5j9hhzSl6vcdfzkI5lkEvL5Ivukgo34nU/YVHMpysVWF5LOCnMdr6yG7Aazfg5pRYBNexHDGp2u1ttyWj5HHrr1CnukAhXp4cdNEsuEhM2mfskKDlFDbeyO2cSYnUN1eob0z/1oTtDj7fgm+2HzXqS73R6Japc4jPAOiwivch3yMZB9uJ08DBCv/dC3tRbWHPcITPcrPB/dXqz3fkFZkO1zOFffbie0F/lptkdfOi3wIL+iB15twlly9lSK/A9FQw==;DE9UlGeVhTzHOrm2uGnZFQ=="
 ---
 
