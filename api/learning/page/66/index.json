@@ -4,66 +4,6 @@
   "page": 66,
   "value": [
     {
-      "path": "_learning/videos/learn-power-bi-talk-power-bi-live-subscribe-join-march-10-2017.md",
-      "title": "🔴 Talk Power BI LIVE (Subscribe & Join) March 10, 2017",
-      "excerpt": "Join me Fridays 9AM Pacific to talk everything Power BI! Sign-Up at http://www.TalkPowerBI.com  Here are the questions that were asked in this episode (click timestamp to jump to the question)... 2:08 (Doug) Understand the difference between PBI Desktop and PBI.com especially around the Query Editor/Engine?",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-talk-power-bi-live-subscribe-join-march-10-2017/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-talk-power-bi-live-subscribe-join-march-10-2017/",
-      "originalUrl": "https://youtube.com/watch?v=dWULDofCgBY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dWULDofCgBY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H2M39S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2017-03-16T19:40:18-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/dWULDofCgBY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-talk-power-bi-live-subscribe-join-march-17-2017.md",
-      "title": "🔴 Talk Power BI LIVE (Subscribe & Join) March 17, 2017",
-      "excerpt": "Join me Fridays 9 AM Pacific to talk everything Power BI! Sign-Up at http://www.TalkPowerBI.com  Here are the questions that were asked in this episode (click timestamp to jump to the question)... 03:58 (Eric) Images work for a Column. But how to make them display based on a measure? 14:04 (Pamela) DAX,",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-talk-power-bi-live-subscribe-join-march-17-2017/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-talk-power-bi-live-subscribe-join-march-17-2017/",
-      "originalUrl": "https://youtube.com/watch?v=moxki9bk8xM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/moxki9bk8xM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H10M12S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2017-03-20T01:06:13-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/moxki9bk8xM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/learn-power-bi-talk-power-bi-live-subscribe-join-march-22-2019.md",
       "title": "🔴Talk Power BI LIVE (Subscribe & Join) March 22, 2019",
       "excerpt": "✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask any Power BI question. 💡 Join the Talk Power BI Insider's Club at http://www.TalkPowerBI.com for special privileges and access  Hello, I am Avi Singh, Microsoft MVP and Power BI Pro! I just love talking about Power",
@@ -891,6 +831,66 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/euCo9EDtlxY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-why-a-planning-engineer-at-an-oil-refinery-is-so-happy-about-power-bi.md",
+      "title": "why a planning engineer at an oil refinery is so happy about power bi...?",
+      "excerpt": "FREE Power BI Step-by-Step Tutorial http://www.learnpowerbi.com/bonus 👉 Download Lesson PBIX Files at http://www.learnpowerbi.com/bonus-download ✅ Subscribe to always get my latest videos: https://goo.gl/P79Hcr 👪 Join our Facebook Group https://www.facebook.com/groups/talkpowerbi  ===Most Popular Playlists===",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-why-a-planning-engineer-at-an-oil-refinery-is-so-happy-about-power-bi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-why-a-planning-engineer-at-an-oil-refinery-is-so-happy-about-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=rdRKgyNKu4M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rdRKgyNKu4M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M18S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2018-04-04T21:09:03-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rdRKgyNKu4M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-women-in-power-bi-moment-of-lift-talk-power-bi-live-subscribe-join.md",
+      "title": "Women in Power BI: Moment of Lift? 🔴Talk Power BI LIVE (Subscribe & Join)",
+      "excerpt": "We all know about the gender gap in Tech. What can we do in the world of Power BI to change that? We invite you to an open and positive discussion about this issue with a panel of distinguished women in Power BI. ✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-women-in-power-bi-moment-of-lift-talk-power-bi-live-subscribe-join/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-women-in-power-bi-moment-of-lift-talk-power-bi-live-subscribe-join/",
+      "originalUrl": "https://youtube.com/watch?v=K5r1sVRx1yo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/K5r1sVRx1yo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H26M55S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2019-03-28T11:01:21-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/K5r1sVRx1yo/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
