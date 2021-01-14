@@ -1873,8 +1873,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 7679,
-            "average": 4.6701393
+            "count": 7681,
+            "average": 4.670225
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2050,7 +2050,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 131,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -2594,8 +2594,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 2445,
-        "average": 4.7525563
+        "count": 2447,
+        "average": 4.751941
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2636,8 +2636,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 7679,
-        "average": 4.6701393
+        "count": 7681,
+        "average": 4.670225
       },
       "provider": {
         "name": "Microsoft Learn",
