@@ -2,6 +2,7 @@
 title: "How to write simple calculations in a Power BI streaming dataset"
 excerpt: "If you use a streaming dataset in Power BI, you cannot download the Power BI file, and you cannot open it using Power BI Desktop. This means that you are limited not to use calculations in a streaming dataset. However, there is a small trick which you can use and can be helpful. I will show you that"
 originalUrl: https://youtube.com/watch?v=zxcRfiWWINo
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/radacad-how-to-write-simple-calculations-in-a-power-bi-streaming-dataset/
 type: video
 price: Free
 length: PT6M15S
@@ -23,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "wm3DHEWPalYkby/fgGC/BmbHpR81pU6LkEczv0O0gO6cnHAn92fIqk73ZgQWaWJnS0Oqr29zgFp+khymUC/QYL38qaThDRvBug4ItXsDX/1+/EsPnYYKhIBos/Mcc7RiyWZHzQrIyYhWt+bOEGGlfiWz82MmJeExCZQCcLwAwq9xJz0Di01FR26p5m+PoQ6l58uCiXmoOUlBtn/H9d9L+rkJ+2AHr3S3vD3cEZB/yqhvuvjTcmVigj637dG0APdgsUfdBfdS8I8qMb5TGPbDgLxapUuV5aUpempXh4ZisyjZ2b4mErI+vk6jE035PybnYQYeNjZFIEqo58w2SvcxIiDuPufqw9QnrSnTiDkvXj0orJA/hVveuZZyq9mrlmmLgcl94z1g49vWMf+lq1VnTw==;uPns3KZrUdz3D4EgUAo8bg=="
+secured: "heNzeFJT0iV4Z0Lu3rqrSMRqMA88/t8Hb2QBP9xu0o+pMkAQk1Ek3SftyZmymXXAntkY/ryyrCcGfwTCX/PmCRNDBdoUqAT6H6FLnNykcOmRsCPM1T9l66PBBcYWcrmb3JarBl/NhU4GTMiDHFpxzfb8EcjWQTOloEYDn87EGZgqagaOzsHQBTyUr5B/QNfD+pnRIHCq5IyGq+coitS3gIeeovN0amscP+ugo10w6BBezSrgwY9odwuDnBvrdbShFHWvFG2sqUfz5ldb5JhCX/TRGEXmz/60pGLz73cA1Q/bJwj0lF6t/e5rx8BQvC4P/AULFGXnV9Sw9vqGaqub7iTL5aMdIvDbtYiARfn5NrcCp9jhFsWi6zxb7XBBaL7n;Od+7R4WKn/RP9sHzeD50/g=="
 ---
 
