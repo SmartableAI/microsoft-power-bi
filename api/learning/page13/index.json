@@ -560,8 +560,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 472,
-            "average": 4.6398306
+            "count": 473,
+            "average": 4.640592
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -662,8 +662,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-analyze-dynamics-365-data/",
       "length": "PT57M",
       "ratings": {
-        "count": 2318,
-        "average": 4.7040553
+        "count": 2319,
+        "average": 4.7041826
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -746,8 +746,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
       "length": "PT1H44M",
       "ratings": {
-        "count": 800,
-        "average": 4.58875
+        "count": 801,
+        "average": 4.5892634
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -830,8 +830,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 952,
-        "average": 4.6397057
+        "count": 953,
+        "average": 4.6390347
       },
       "provider": {
         "name": "Microsoft Learn",
