@@ -2,6 +2,7 @@
 title: "DAX Fridays #193: Why is DAX so difficult to learn?"
 excerpt: "Preparing for another DAX video, I came across an example that perfectly exemplifies why DAX can be so hard to understand.  Chapters: 00:00 Intro 00:20 Examples of different contexts 03:40 Do I have any filters applied to my visual? 04:50 How to get better at DAX Done!   Here you can download all the"
 originalUrl: https://youtube.com/watch?v=KjZ8hxTwXoY
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-193-why-is-dax-so-difficult-to-learn/
 type: video
 price: Free
 length: PT5M50S
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Ceo/TX73jMRqkwM9NhjEW/JpkipIGfbMohmIY28WNY6+d+msIMwI4WusjEtS61uGmakGUATcNfFHc3k7M2qn908l5d9Ee9BMUAMbw6xJMKSVcjARmaqXWxoDqlGCAlDaH4kKzCu5yYKdvZdb4mRzjDMwF+Z09M0miZzuubPIfxpwSANg2cRW0WqXHtoHIp8jZTjY8OeZg9IiFZzlPUef//Tz5GrdR3THdNt2bzM+/8Y2yh2DO/k7Rdhb8fXpy9UHWXDSJpZnAPQLqaBIwI8Jt/rJWEkEGebVO4782NJBsNG5PaUquzMHsZ3coHVc245f5Ntcm673ZZTJYow64m7CK2x1CzXZm/d+WsadqHNQnFYs4DF8Z8jMyDmRe2mKfRGLyewN6mr/ah52iDUVFIKVlQ==;IsYa9MWNRt0NMr54cEMKkw=="
+secured: "NHzscTo7FGrsnXK3PG1GwrS1OgFeuUZjOWjslTiEbD9q1QBn3OYrrEpscqQCXXOlwZTjiIKV4m/RmZAT9Lcsze8X/lHV8KW6BF418djF1lZihVpr+u0eDvcRQyOoEu5jav4iJoI4ahvi93RgbyptMbVYnePZx2nTlj05O8aFBhj3NmBigdyjPtpnePjsonDrKzR8yWmpcKfrtZbe+VQIe1sPCtB9oMipdm6YHpX7w79Qw+BfGDxNONrt5AyaHRM/4kUqL9JIdG3QOGanD5LzS/N83r+5nGBJxwAFct5tzX4s1tMexvVltE1FlULA0k2CdjM1lZa0/rqHmn4BWTmxUixWVlQsIBPa3+O6UUK1HUf3V3nOoC5AgtJTasCpGatH;tDdyhzw6qJhsmSsAGujNBg=="
 ---
 
