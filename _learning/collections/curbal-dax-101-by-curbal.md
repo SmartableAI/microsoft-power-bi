@@ -20,6 +20,7 @@ items:
   - videos/curbal-5-dax-fridays-101-order-of-evaluation-for-dax-formulas
   - videos/curbal-6-dax-fridays-101-scalar-vs-table-vs-other-functions-explaining-common-dax-errors
   - videos/curbal-my-beginners-dax-mistakes-what-are-yours-
+  - videos/curbal-dax-fridays-193-why-is-dax-so-difficult-to-learn
 
 topics:
   - Power BI
