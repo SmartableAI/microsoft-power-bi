@@ -4,9 +4,9 @@ excerpt: "Learn more about Power Query: https://radacad.com/category/power-query
 originalUrl: https://youtube.com/watch?v=xH7DMBS0Kog
 type: video
 price: Free
-length: PT4M1S
+length: PT4M
 publishedDateTime: 2019-09-06T14:30:51Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xH7DMBS0Kog\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "5qdZf30VIWoPb3bvy58OI+EyO2B+e9Syev7a2nvVgC8bKqJ2r2nGU6qzgPyjnNq6tPf64VF09MnJG+0F1KUwwcFG6/WfOIBJvroqshGlHnpl+cPF2NY4xbdJjsB8lpYF6otMstSB7qKVyY/Sy1q82aaK8DeN7HIf/P2jdVrcGT1WPrsdWDZpS8d2qB35FSFxSy88Md6Y4I5h+ytwI5cJrxXZIoH1npVs+yvM+wKWgtUmiD5+Zbzxw7PRSacLj3vZeTCEmjOw1Tk9KDVWQfC+R3YDLNUaATFhRm9yjf/GHCXD5KXz2WlKSQeXaq2dXy8O9APpsB2SxMmlQ4kPn+pmPnY7rjpEwxWvfAlbmAqGXYa+7tzgBxhvq8jODp2lb7pr1vHNxApbg7RpKl5qKlb5S3k1DibEmEIWZq9H9klDibM=;QZ/uxVz/SQCAnYm7lidQ9A=="
+secured: "kyNhQmNzbekxiiq+7TGxVVxp+m+3pYkvwISJzDIn4zv8Ryr6Ztakjn6Gje2f6uMY+D4f//cnwNHMTfA9omWYCvVKxPmG0SvKttxbGarZGiXX21pJD02Vprw2GNmihsEmGcj71suhA4KVxOJTPbmWl7preZKgIsC6W8o2mWxL8hRY52BrVknaEkinQjwQeZdGyGTffBveFfXB4qxHPjEKPT5T+5bfgDvDOR+S3fKB3ZBvyLQBKFL/MxKsoUrRwDDTs0S1O8zRdMHiF87jyPEZq8Tt3cLIXTwBTAY5ty/lfd6TA63Ozv+rUDs8qivldS5nKAZLINvqddUw76ftefnVMnEvSQ4yyWEkebAs53SzSuraM3WLF5zvdX9ROoemZMTBMyWjotdvg5U+qdXmgaM2FvCxlWBX9cZp7wftfdTZvcY=;qysYylJpjhogK1XKqX7hKw=="
 ---
 
