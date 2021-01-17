@@ -834,8 +834,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 2476,
-            "average": 4.752827
+            "count": 2477,
+            "average": 4.7525234
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -876,8 +876,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 2612,
-            "average": 4.778331
+            "count": 2613,
+            "average": 4.7784157
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -936,8 +936,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 2612,
-        "average": 4.778331
+        "count": 2613,
+        "average": 4.7784157
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1017,8 +1017,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 2476,
-        "average": 4.752827
+        "count": 2477,
+        "average": 4.7525234
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1542,8 +1542,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 445,
-            "average": 4.694382
+            "count": 446,
+            "average": 4.6950674
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2078,8 +2078,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 15180,
-        "average": 4.702569
+        "count": 15181,
+        "average": 4.7025886
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2277,7 +2277,7 @@
             "domain": "enterprisedna.co"
           },
           "publishedDateTime": "2020-05-01T01:57:50-07:00",
-          "heat": 52,
+          "heat": 51,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/eoHSi2kQNCA/maxresdefault.jpg",
