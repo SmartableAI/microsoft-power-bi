@@ -141,6 +141,45 @@
       ]
     },
     {
+      "path": "_learning/videos/curbal-dax-fridays-190-year-over-year-population-change-in-europe-with-eurostat-api.md",
+      "title": "DAX Fridays #190: Year Over Year population change in Europe with Eurostat API",
+      "excerpt": "In todays video we will calculate YOY population in europe and finalize the report we started on this series.   Link to Previous videos: How Eurostat API works: https://www.youtube.com/watch?v=UwXo1OcwbAg  Build a report based on Eurostat data. We will get total population and population growth and map",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-dax-fridays-190-year-over-year-population-change-in-europe-with-eurostat-api/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-190-year-over-year-population-change-in-europe-with-eurostat-api/",
+      "originalUrl": "https://youtube.com/watch?v=rIcs4Mz1umQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rIcs4Mz1umQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M49S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-10-30T04:24:15-07:00",
+      "heat": 185,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rIcs4Mz1umQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-what-is-power-bi-2021.md",
       "title": "What is Power BI? (2021)",
       "excerpt": "You have heard of Power BI, but not quite sure what it actually is. You probably come from Excel land and want to know more about how you can take your data to the next level.   Adam summarizes the Power BI platform to help you understand how it fits into your business and work flow. Whether you are",
@@ -294,16 +333,12 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-model-data-power-bi.md",
-      "title": "Model data in Power BI",
-      "excerpt": "Connect Power BI to multiple data sources to create reports. Define the relationship between your data sources.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-model-data-power-bi/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
-      "length": "PT1H7M",
-      "ratings": {
-        "count": 5996,
-        "average": 4.7061377
-      },
+      "path": "_learning/collections/microsoft-learn-consume-data-with-power-bi.md",
+      "title": "Consume data with Power BI",
+      "excerpt": "Do you want to make business decisions backed by data? Learn how to do that in Power BI. Learn to work in Power BI to review and interact with this content to make business decisions.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/collections/microsoft-learn-consume-data-with-power-bi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/collections/microsoft-learn-consume-data-with-power-bi/",
+      "length": "PT2H9M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -317,34 +352,113 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
-      "heat": 140,
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-intro-to-power-bi-service.md",
+          "title": "Explore what Power BI can do for you",
+          "excerpt": "As a consumer, you'll work in the Power BI service to review and interact with content that has been shared with you. This module provides the foundational information that you need to work effectively in the Power BI service.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-intro-to-power-bi-service/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
+          "length": "PT1H9M",
+          "ratings": {
+            "count": 7706,
+            "average": 4.669738
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 141,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-analyze-explore-data-power-bi.md",
+          "title": "Analyze data with Power BI",
+          "excerpt": "This module goes beyond viewing and exploring your content and explains how to interact with it by working with reports and dashboards to uncover and share new business insights.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-analyze-explore-data-power-bi/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
+          "length": "PT60M",
+          "ratings": {
+            "count": 5837,
+            "average": 4.6941924
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 56,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/analyze-explore-data-power-bi-social.png",
+              "width": 643,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        }
+      ],
+      "size": 2,
+      "heat": 141,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/model-data-with-power-bi-desktop-social.png",
-          "width": 800,
-          "height": 400,
+          "url": "https://docs.microsoft.com/learn/achievements/analyze-explore-data-power-bi-social.png",
+          "width": 643,
+          "height": 321,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
+      "type": "collection",
       "price": "Free",
       "topics": [
         "Power BI"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-optimize-model-power-bi.md",
-      "title": "Optimize a model for performance in Power BI ",
-      "excerpt": "Data Analysis eXpression (DAX) language is a key feature of Power BI. It is used to create calculated columns, calculated tables, and measures. In this module, you will learn how to use DAX to solve typical analytics problems. You will learn about one of the most popular DAX functions, CALCULATE, and how it can override the default behavior of Power BI.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-optimize-model-power-bi/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
-      "length": "PT43M",
+      "path": "_learning/courses/microsoft-learn-intro-to-power-bi-service.md",
+      "title": "Explore what Power BI can do for you",
+      "excerpt": "As a consumer, you'll work in the Power BI service to review and interact with content that has been shared with you. This module provides the foundational information that you need to work effectively in the Power BI service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-intro-to-power-bi-service/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
+      "length": "PT1H9M",
       "ratings": {
-        "count": 1427,
-        "average": 4.743518
+        "count": 7706,
+        "average": 4.669738
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -359,17 +473,9 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
-      "heat": 140,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/optimize-model-power-bi-social.png",
-          "width": 643,
-          "height": 321,
-          "isCached": true
-        }
-      ],
+      "heat": 141,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -606,23 +712,23 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-power-bi-shows-incorrect-measure-total-how-to-fix-it.md",
-      "title": "Power BI Shows Incorrect Measure Total? How to fix it?",
-      "excerpt": "During this session, we will try to resolve one of the most common issues that occur in Power BI Desktop which is Incorrect Measure Total issue for table or matrix visual. Sometimes, we have multiple tables in our report and we have prepared some DAX expression to calculate some values in our report.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/dhruvin-shah-power-bi-shows-incorrect-measure-total-how-to-fix-it/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/dhruvin-shah-power-bi-shows-incorrect-measure-total-how-to-fix-it/",
-      "originalUrl": "https://youtube.com/watch?v=tjb5WypK9P4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tjb5WypK9P4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M40S",
+      "path": "_learning/videos/learn-power-bi-3-different-ways-power-bi-projects-can-fail-and-how-to-avoid-these-mistakes-talk-power-bi-dec-4.md",
+      "title": "3 Different Ways Power BI Projects Can FAIL! (and How to Avoid these Mistakes) 🔴Talk Power BI Dec 4",
+      "excerpt": "Power BI Projects may not always be successful. But Failure can be a great teacher! Let's learn from three different stories of Power BI Project \"Failure\" and learn how you can avoid the same mistakes. ★CONNECT WITH OUR SPEAKERS★ ➔ Avi Singh: https://www.linkedin.com/in/powerbipro ➔ Ian Bowman: https://www.linkedin.com/in/mianbowman/",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-3-different-ways-power-bi-projects-can-fail-and-how-to-avoid-these-mistakes-talk-power-bi-dec-4/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-3-different-ways-power-bi-projects-can-fail-and-how-to-avoid-these-mistakes-talk-power-bi-dec-4/",
+      "originalUrl": "https://youtube.com/watch?v=5C-xYkZ0Xuc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5C-xYkZ0Xuc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H9M36S",
       "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2020-11-06T00:16:39-08:00",
-      "heat": 131,
+      "publishedDateTime": "2020-12-04T10:18:11-08:00",
+      "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/tjb5WypK9P4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/5C-xYkZ0Xuc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -632,8 +738,7 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "DAX"
+        "Power BI"
       ]
     },
     {
@@ -710,255 +815,6 @@
       "price": "Free",
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-create-and-use-analytics-reports-with-power-bi.md",
-      "title": "Create and use analytics reports with Power BI",
-      "excerpt": "This learning path introduces you to Power BI, and teaches you to use and build business intelligence reports.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/collections/microsoft-learn-create-and-use-analytics-reports-with-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/collections/microsoft-learn-create-and-use-analytics-reports-with-power-bi/",
-      "length": "PT6H22M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-get-started-with-power-bi.md",
-          "title": "Get started building with Power BI",
-          "excerpt": "Power BI is a collection of software services and applications that let you connect to all sorts of data sources and create compelling visuals and reports. You can benefit from receiving those reports, or you can share them with others inside or outside your organization. Learn the basics of Power BI, how its services and applications work together, and how they can be used to create or experience compelling visuals and analytics based on your data.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-get-started-with-power-bi/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
-          "length": "PT47M",
-          "ratings": {
-            "count": 24676,
-            "average": 4.7460284
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 96,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/get-started-power-bi-social.png",
-              "width": 643,
-              "height": 322,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-get-data-power-bi.md",
-          "title": "Get data with Power BI Desktop",
-          "excerpt": "How can you find, collect, and clean data from different sources? Power BI is a tool for making sense of your data. You will learn tricks to make data-gathering easier.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-get-data-power-bi/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
-          "length": "PT1H15M",
-          "ratings": {
-            "count": 15181,
-            "average": 4.7025886
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 64,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/get-data-power-bi-desktop-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI",
-            "Power BI Desktop"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-model-data-power-bi.md",
-          "title": "Model data in Power BI",
-          "excerpt": "Connect Power BI to multiple data sources to create reports. Define the relationship between your data sources.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-model-data-power-bi/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
-          "length": "PT1H7M",
-          "ratings": {
-            "count": 5996,
-            "average": 4.7061377
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 140,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/model-data-with-power-bi-desktop-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-visuals-in-power-bi.md",
-          "title": "Use visuals in Power BI",
-          "excerpt": "Create and customize visuals to present data in compelling and insightful ways.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-visuals-in-power-bi/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
-          "length": "PT1H16M",
-          "ratings": {
-            "count": 4635,
-            "average": 4.7514563
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 59,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/create-visuals-power-bi-desktop-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        }
-      ],
-      "size": 6,
-      "heat": 115,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/get-started-power-bi-social.png",
-          "width": 643,
-          "height": 322,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-190-year-over-year-population-change-in-europe-with-eurostat-api.md",
-      "title": "DAX Fridays #190: Year Over Year population change in Europe with Eurostat API",
-      "excerpt": "In todays video we will calculate YOY population in europe and finalize the report we started on this series.   Link to Previous videos: How Eurostat API works: https://www.youtube.com/watch?v=UwXo1OcwbAg  Build a report based on Eurostat data. We will get total population and population growth and map",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-dax-fridays-190-year-over-year-population-change-in-europe-with-eurostat-api/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-190-year-over-year-population-change-in-europe-with-eurostat-api/",
-      "originalUrl": "https://youtube.com/watch?v=rIcs4Mz1umQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rIcs4Mz1umQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M49S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-10-30T04:24:15-07:00",
-      "heat": 105,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/rIcs4Mz1umQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
       ]
     },
     {
@@ -1103,8 +959,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 24676,
-            "average": 4.7460284
+            "count": 24679,
+            "average": 4.746019
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1205,8 +1061,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 24676,
-        "average": 4.7460284
+        "count": 24679,
+        "average": 4.746019
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1506,6 +1362,36 @@
       "topics": [
         "Power BI",
         "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-is-power-bi-consulting-a-safe-path-for-you-in-2021-whats-helping-what-can-go-wrong-.md",
+      "title": "Is Power BI Consulting a Safe Path for You in 2021? What's Helping 👍 & What Can Go Wrong 👎?",
+      "excerpt": "Want to learn the 5-Steps to become a successful Power BI Consultant? 👉 Sign Up for our Free Webinar on Thu Jan 21: https://web.learnpowerbi.com/consultant/  In the new year of 2021, are you thinking about creating a side-income or full-time income as a \"Power BI Consultant\"? Then you must learn the",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-is-power-bi-consulting-a-safe-path-for-you-in-2021-whats-helping-what-can-go-wrong-/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-is-power-bi-consulting-a-safe-path-for-you-in-2021-whats-helping-what-can-go-wrong-/",
+      "originalUrl": "https://youtube.com/watch?v=UPQII8NJN7E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UPQII8NJN7E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M56S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2021-01-07T09:00:24-08:00",
+      "heat": 87,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UPQII8NJN7E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     }
   ],
