@@ -25,7 +25,7 @@
         ]
       },
       "publishedDateTime": "2021-01-15T02:15:53-08:00",
-      "heat": 248,
+      "heat": 249,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/KjZ8hxTwXoY/maxresdefault.jpg",
@@ -132,7 +132,7 @@
         ]
       },
       "publishedDateTime": "2021-01-14T08:21:12-08:00",
-      "heat": 206,
+      "heat": 205,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Vqz2d7pTOV8/maxresdefault.jpg",
@@ -294,42 +294,38 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-optimize-model-power-bi.md",
-      "title": "Optimize a model for performance in Power BI ",
-      "excerpt": "Data Analysis eXpression (DAX) language is a key feature of Power BI. It is used to create calculated columns, calculated tables, and measures. In this module, you will learn how to use DAX to solve typical analytics problems. You will learn about one of the most popular DAX functions, CALCULATE, and how it can override the default behavior of Power BI.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-optimize-model-power-bi/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
-      "length": "PT43M",
-      "ratings": {
-        "count": 1425,
-        "average": 4.743158
-      },
+      "path": "_learning/videos/guy-in-a-cube-blend-power-bi-datasets-with-excel-files-insane-amazing.md",
+      "title": "Blend Power BI datasets with Excel files? INSANE AMAZING!",
+      "excerpt": "The moment you've been waiting for! What Marco Russo calls the holy grail of BI. Tessa Hurr walks us through the new DirectQuery over Power BI datasets feature in the December 2020 release.  Connect with Tessa on Twitter: https://twitter.com/tessahurr  📢 Become a member: https://guyinacu.be/membership",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-blend-power-bi-datasets-with-excel-files-insane-amazing/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-blend-power-bi-datasets-with-excel-files-insane-amazing/",
+      "originalUrl": "https://youtube.com/watch?v=ZSyYegfA6PQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZSyYegfA6PQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M49S",
       "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 140,
+      "publishedDateTime": "2020-12-16T08:00:08-08:00",
+      "heat": 147,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/optimize-model-power-bi-social.png",
-          "width": 643,
-          "height": 321,
+          "url": "https://i.ytimg.com/vi/ZSyYegfA6PQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power BI"
@@ -474,6 +470,36 @@
       ]
     },
     {
+      "path": "_learning/videos/absent-data-channel-price-prediction-with-python-and-power-bi.md",
+      "title": "Price Prediction with Python and Power BI",
+      "excerpt": "Learn how to create a machine learning price prediction using Python machine learning linear regression model and a dataset of 54,000 diamonds. This will be ported over to Power BI for a deeper level of interaction.  You can find the files and dataset here: https://github.com/Gaelim/Diamond-Price-Prediction",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/absent-data-channel-price-prediction-with-python-and-power-bi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/absent-data-channel-price-prediction-with-python-and-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=IP76UJ4nZ70",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IP76UJ4nZ70\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M10S",
+      "provider": {
+        "name": "Absent Data Channel",
+        "domain": "absentdata.com"
+      },
+      "publishedDateTime": "2020-10-24T12:32:46-07:00",
+      "heat": 133,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/IP76UJ4nZ70/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/radacad-how-to-write-simple-calculations-in-a-power-bi-streaming-dataset.md",
       "title": "How to write simple calculations in a Power BI streaming dataset",
       "excerpt": "If you use a streaming dataset in Power BI, you cannot download the Power BI file, and you cannot open it using Power BI Desktop. This means that you are limited not to use calculations in a streaming dataset. However, there is a small trick which you can use and can be helpful. I will show you that",
@@ -564,62 +590,23 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-dax-fridays-189-which-function-is-faster-to-count-rows-count-or-countrows.md",
-      "title": "DAX Fridays #189: Which function is faster to count rows: COUNT OR COUNTROWS?",
-      "excerpt": "Which DAX function will count the rows of a table faster: COUNT or COUNTROWS?  Lets find out shall we?  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-dax-fridays-189-which-function-is-faster-to-count-rows-count-or-countrows/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-189-which-function-is-faster-to-count-rows-count-or-countrows/",
-      "originalUrl": "https://youtube.com/watch?v=6kBI7AHnMd0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6kBI7AHnMd0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M4S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-10-21T04:42:41-07:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6kBI7AHnMd0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-after-union-two-tables-data-goes-to-the-wrong-column-with-power-bi-dax.md",
-      "title": "After Union Two tables, data goes to the wrong column with Power BI DAX?",
-      "excerpt": "Most of us have used Union DAX expression in Power BI. Basically union, appends rows from both the table which are common. In Power BI, sometimes, when we perform Union operation, the combined data have some inconsistent mechanism, meaning one column's data merged with another column. The main reason",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/dhruvin-shah-after-union-two-tables-data-goes-to-the-wrong-column-with-power-bi-dax/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/dhruvin-shah-after-union-two-tables-data-goes-to-the-wrong-column-with-power-bi-dax/",
-      "originalUrl": "https://youtube.com/watch?v=qZYyGG2L8gI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qZYyGG2L8gI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M50S",
+      "path": "_learning/videos/dhruvin-shah-automatic-table-detection-from-excel-file-in-power-bi.md",
+      "title": "Automatic Table Detection from Excel File in Power BI",
+      "excerpt": "During this short video, I'm going to explain to you one important connector update of Power BI Desktop which is - Automatic table detection from Excel files. Earlier, if we have multiple tables in the same spreadsheet, Power BI detects them as a single table and we have incorrect fields detected from",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/dhruvin-shah-automatic-table-detection-from-excel-file-in-power-bi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/dhruvin-shah-automatic-table-detection-from-excel-file-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=lS2A_daLZWM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lS2A_daLZWM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M46S",
       "provider": {
         "name": "Dhruvin Shah",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2020-10-26T20:53:28-07:00",
+      "publishedDateTime": "2020-11-09T05:16:38-08:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/qZYyGG2L8gI/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/lS2A_daLZWM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -629,8 +616,7 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "DAX"
+        "Power BI"
       ]
     },
     {
@@ -848,8 +834,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 8102,
-            "average": 4.7806716
+            "count": 8104,
+            "average": 4.7807255
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -890,8 +876,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 24669,
-            "average": 4.7459564
+            "count": 24673,
+            "average": 4.7459974
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -950,8 +936,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 8102,
-        "average": 4.7806716
+        "count": 8104,
+        "average": 4.7807255
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -992,8 +978,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 24669,
-        "average": 4.7459564
+        "count": 24673,
+        "average": 4.7459974
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1144,7 +1130,7 @@
             ]
           },
           "publishedDateTime": "2021-01-14T08:21:12-08:00",
-          "heat": 206,
+          "heat": 205,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/Vqz2d7pTOV8/maxresdefault.jpg",
