@@ -8,7 +8,7 @@ length: PT53M
 ratings:
   count: 3874
   average: 4.71967
-heat: 58
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 400
     isCached: true
 
-secured: "I8urBXUJP8I5RsBEw6I4SJorrhz1ka84PgSx7ZheZCmzZNMtN66YkHE9cFWPuwkacpldQbj6cOOSia9bhhCM40EvF3p3bSPXdmP0ZNntrZ3v5jVEl1DOpDnWsrKciRqA8Cvll3+T1QD7ZWrQVt+zV4iIVIsU+MJJ7+PQbk2p6IngKVYIRA21ucqwcsnO9INTMI4vCGMBPIHsbEWlVBSfi+N7mC9oebJBwjiRF1YeVZXRqAa8pAMothGO/O/IDNabUGrSMEJzd2Vnf/HQjhxDsX6mg/ruOOQDWCgHYkkfbmKvlI9ycAqQXo6uKEW1GLCb5UNfqD6sHZM/xdc9DzklI7fgcRIeBotlHvwKK4gFTq3BPo8F+qJsYNz31HQDlpLMQnu0Qm3/nwDfCGVKiWL8eK2nJwx/5j5BDZaK2d51riY=;oFZFoQuZNI1DnftPe+OkKw=="
+secured: "a5jNsX8zjaYj4zL5kxJvAtXgWLd0+5Mp/MQOJlUBF9W/7H9bRKEpfBSdHQrEEKPiyEKkEf7NiZLdYXF+nVOJuzwFhI5BnCPErw+TEh01v5C4tuUoLY2eBjx8MmUygN879lhCjffXu3w5De/jfkhu+70E4aHUgB4JtHX6GWhANDFsejNRjd4BREYbIjPas8YhXSJhY2yq1/Gk3x9efHs/bpuKgAkRvrd9EBg4ALaJJjW6UsLS6DmiJ54UoLkYW2ZuI25GAWmFa1oZ5YKqXxNwcJcmM10gNWGEq9dWtvuJFwn98Rt475wOhkKXh5FFvSwWf9F5M/KBSd02plCkw96Y/VjG+rLF/WWl0RgFK41NKtv4T3iZ9KCX2BCv4igg2IfNz7wXbYNe+3AAclRlIEomwHQZTeH1eIbHKmZPDIZoB94=;hsMRWqj7IqR2nE5tC409bQ=="
 ---
 
