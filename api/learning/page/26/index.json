@@ -4,36 +4,6 @@
   "page": 26,
   "value": [
     {
-      "path": "_learning/videos/learn-power-bi-power-bi-hyperlink-icons-make-your-html-links-look-pretty-.md",
-      "title": "Power BI Hyperlink Icons! Make Your HTML Links Look Pretty 🦋",
-      "excerpt": "Using HTML or URL Links in your reports can be really powerful. But these can sometimes look ugly (e.g. for long URLs). Learn how you can pretty up your reports by using a URL Icon instead.  ================================ 👉 FREE Power BI Step-by-Step Tutorial http://web.learnpowerbi.com/tutorial 👉",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-power-bi-hyperlink-icons-make-your-html-links-look-pretty-/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-power-bi-hyperlink-icons-make-your-html-links-look-pretty-/",
-      "originalUrl": "https://youtube.com/watch?v=l0m42iRgBvE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/l0m42iRgBvE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M15S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2019-10-14T09:00:09-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/l0m42iRgBvE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/learn-power-bi-power-bi-kpi-indicator-excel-icon-sets-part-2-of-3.md",
       "title": "Power BI KPI Indicator (Excel Icon Sets) Part 2 of 3",
       "excerpt": "How can you use KPI Indicators in Power BI, similar to the Excel Conditional Formatting Icon Sets? In this video I show you the second approach - Using Image URLs to totally customize the icon set. **SUBSCRIBE to my channel to be notified as soon as new videos go live https://goo.gl/NdfdVH ** ----------------------------------------------------------------------",
@@ -988,6 +958,36 @@
       "topics": [
         "Power BI",
         "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-aggregation-and-composite-model-microsoft-power-bi-fast-and-furious-thr3016.md",
+      "title": "Aggregation and composite model: Microsoft Power BI fast and furious - THR3016",
+      "excerpt": "The composite model enables you to have huge tables as a DirectQuery source, and some other smaller tables as in import mode. When we talk about huge tables, performance is always a challenge. In this session, we talk in-depth about how aggregations can be helpful for speeding up performance. You can",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-aggregation-and-composite-model-microsoft-power-bi-fast-and-furious-thr3016/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-aggregation-and-composite-model-microsoft-power-bi-fast-and-furious-thr3016/",
+      "originalUrl": "https://youtube.com/watch?v=HXuvdgQRS8o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HXuvdgQRS8o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M49S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2019-06-16T12:05:57-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/HXuvdgQRS8o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     }
   ],
