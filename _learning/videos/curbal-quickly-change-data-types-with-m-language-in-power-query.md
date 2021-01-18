@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT5M
 publishedDateTime: 2019-07-04T16:45:59Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GhzE1Mg4KTU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "uHsXgx78UfU+AZZpJiGroiSiXCFVBRS57KYII+YkWiG732SbLgka5s3FHHN9v1ZjQcUnOvGpRLJF0WPk4LvSJZQsCRe+psoAzq9y+u+wqZZpscVl34PXjHz9ZGHwDqu3yvIK/bGk0L776dNC+QUXeO/pDvLfRz0ebCRrNIHfagzzyuIQL6u5XUJ5cwiOgFof6Vw0jeQAGL5+fxMn53Gtp7QNDkTgepZNhezAwnAn29/HMpnMeP1RQoPE0K7iHJ36u7U6xVBt5MV+4yrE2lVMW7OdTL+gfXMF4KG7m1Ev7suigAYlHkol9zsgQz3clL/DYl1FIPYSgK+9VYKmhNH4ygoU3N5Oui9xcG+hFIyrsNEon+jBYBV7gqPVk7C1AaLVW0lxWcUBq7kCITlm8ya7vCDIYU5HjrJbNNOBg6IE3JE=;gNHDDhNHOmkfTBYackpowA=="
+secured: "jT0RwGlAntsp4jzOS020GQsUR/SEX/vepjT7FY6EvSd/KKPaxTK9kcBH5rAMYFrzY+BSRgCk0kQ9l32ScIXfZU9V7ma0x5D9I26O6CXcVX6605doBg4hYs2Y5y16klZ3vg0UGsCpl8BKThQxOLKNlISL+dPbWHvTkgtoRPjJHGjGjVOZMmL8/QBj2lScBsii/1GgIAZD++mhTTLfvAiY3XnsuJZTSxduUfNhl/DP1JjoUzKFbkkTcnB61Sh7sXi8He+L0+geIUiFdDmt9hhWTdC5SfyU6rznkfElIuKmYx+gne9BbDuPRhIerbCIgrkEgi6esBXioNzqxKYmwgQrDTU3IujLcgAXg/a1lH0jkgFuSJtGrX+gLEq4Ygu6wkkIU5LPR/p8TGaC6AGTGolEUNCg9fU4gFqqfE/p1GNNOPQ=;NqYPrMQ61tK2sohU+M51Yw=="
 ---
 
