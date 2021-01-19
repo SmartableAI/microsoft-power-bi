@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/becoming-solution-architect/",
       "length": "PT1H43M",
       "ratings": {
-        "count": 726,
-        "average": 4.721763
+        "count": 727,
+        "average": 4.722146
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +29,7 @@
       "levels": [
         "Advanced"
       ],
-      "heat": 51,
+      "heat": 52,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/becoming-solution-architect-social.png",
@@ -71,7 +71,7 @@
       "levels": [
         "Advanced"
       ],
-      "heat": 50,
+      "heat": 52,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -173,7 +173,7 @@
       "levels": [
         "Advanced"
       ],
-      "heat": 50,
+      "heat": 51,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
