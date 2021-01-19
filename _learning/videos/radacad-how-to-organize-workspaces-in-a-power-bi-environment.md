@@ -2,6 +2,7 @@
 title: "How to organize workspaces in a Power BI environment"
 excerpt: "The question I often get in my Power BI architecture consulting sessions is that; “How should we organize our workspaces? should we have one workspace with all the reports in it? or multiple? should we split it based on each report? business unit? or something else?” In this article and video, I’ll explain"
 originalUrl: https://youtube.com/watch?v=xYszSWidi_Q
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/radacad-how-to-organize-workspaces-in-a-power-bi-environment/
 type: video
 price: Free
 length: PT11M18S
@@ -23,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "PM3v3BCl6oOMWRMR37PzD58lle7ZlNbogAoPbIdREUbrnM8bSTrvDd+sFJ9u20Iigkp//pNM8IsYvMXv+lq/ZHf1X7RjsLTEzit5VatqZsOUnNv8Zju9ahYaNGGqcRtCBlfrozeWJO3U9xDJKyAtuGsjk0jhZRj0zsNANlDl25JMdCb5UgJpk7Fct7YFBBHRpBuAUDBsAMCNxaCG26Sd2+LVgLjnR3euJmMz3+iMzXBxYnIepYMRr9V6C+qt/RXAcNkLmF6wLPR7U3tpLgWf1x0Nzej9llhlRvDNcoRzHVxB/tdPX+TP6r9n+9QOZLw5FaQuqvZC3GtXTZAuMp1PtWuUntpZS8opaSpVow+2Fz6byvDObyMOGh5ljwLu52YXDaWjfE0ylqMmEUbTEm2BDg==;jm16JqGI4nPpL4V4O39kaA=="
+secured: "ZhkJ+/ysdY6+R5OMyRhaxzdWD0d/RVUGt97tlzjcZDVV3gYFxx8v2e/H5MTFbMcOgHI6j3VvJ4KTfqcQ3ntkz9Xbhe7jYjJHa6dfFJY+DOXhH3qRkMo6c/ZdLJ941TmmRhKq7/1ds8Bk/esEJDA3RAN7krhAl/srRf7Cnk2lgMA6XtvG7qDo2feWX+pxgOzHw0vInKHRqEGj6tjxk+4wVpuyx0U8GCh+QoykOwrobd23O48n5+FDuvyjFgk0fZ6Ucz+TuK1rMmwWScTbyp+S7QUeg/eVcGCOejOwmacDuGPZjDPs1SOiLMo0ha/kvAtUqG+U+7HclmEl5m1m5WuF0qGCgBzRdvOCsc+PCpYUFw3zw9G18p+5CaLAs1uF3qW1;czFOtyeWOoPfm1VlfzpErg=="
 ---
 
