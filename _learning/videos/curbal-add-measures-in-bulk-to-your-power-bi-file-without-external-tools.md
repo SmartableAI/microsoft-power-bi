@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT7M16S
 publishedDateTime: 2020-12-02T09:59:17Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3TdSp-lCGNk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "M5GKnuz2cAEZuNz314ID5NdaI4+eVOcMFgCY96NpCboYKHl77+mc+6XbQD3+BC0C3ZcGLEnpLK5zLNm6uiQ7+iv3OeA7ECL9HQRqRoShAGlLbXCAlC1U3AypPATioftp9JPj0XAX20bRZhYxNPEcO7ScvxCk4lWo2n0ZkyI6EfA3z2LFwqK9b1SfKufClJ3PeaYLjI5YnUIK1zmcq4mj2iF1Kz2pqWobzMJgk/LsyLiaCTTpn/qxaAo6Kc+xtt5614JxlrWeZfJjgy+369akGdbxKHGp8QFhfclgYkrjAfoYcp9+vXixxUEFMODwP6ZiFr3pQbn+u/OKjgAoUjANBIaQO4LBjJhpG20wmxJQuSnVow7i0qstyc4LHdgqvnPKNd+RW+j/BAnkyHLc0SH5JLlIW4X5cN8176vt28zR6rs=;Tpxm3x11weqB0mF6CpVMuw=="
+secured: "RUILIT+ZXofYJn8dMwwQVQrmkqOwLI4kiCWI/Nv6kdZbmPz19/f9gYFKqu3rapqeLIYKjfwfEOBW3FSRGOBrwWBcKIgHZNY75E1Nvft9hqDIHlbMzn0nBQ9L0/lPoHubT6E86oRVAjfAFRcucPcTDRGP/VloANp/yChxKK1+3zYl2e0l4+Q8syzBaRS4DvfquZGYDZzl+n1CJQ6GIpZdJS7bv/et79WC8pOhn1838kuKTIjZvqiD8hd/vNPuL4dRVB1a/kqQHilB7vz9cko52LVpnyXX70Cy8OG7qS+nwtvUX2bKWvzbFyQ8JJQK/hv6aQZfbEGtX/88bcgcaxCV8XGBofV46fvRzIcDeFKs8CJyMYo80FaMxLOLBkiiGQqqv7lo7H3WKgHC5DjIVZbFT/8qpbN+IpThfNXOnnXZg0Y=;fWO49X7zG4F+mfV0aQM2bQ=="
 ---
 
