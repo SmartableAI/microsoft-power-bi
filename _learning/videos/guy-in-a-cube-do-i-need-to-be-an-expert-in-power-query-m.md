@@ -2,6 +2,7 @@
 title: "Do I need to be an expert in Power Query M?"
 excerpt: "Maybe you've heard of Power Query M in Microsoft Excel, Power BI or something else. Do you really need to be an expert in that? Or even use it? Patrick helps to ease your mind!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next"
 originalUrl: https://youtube.com/watch?v=Z0U9UL9ORh8
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-do-i-need-to-be-an-expert-in-power-query-m/
 type: video
 price: Free
 length: PT10M29S
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "jGR9cbOMMCwUtmNqgFutt9PcYBT7qP78Ubllg9IpEw1QqLI1KHV5C77ryEHFrnW+n4Th8N6gv2lCtxU80ov4A40LqquIqpqtizDKn5w+xJFIIXN5xDeOdLpVr0Vo9CeDOWcsKLuKCHahD8lGrrPgp848ZO3bkdDIcxB9NowYxO6vBRbLf5zSE24AstK/k6UcmKqb/FZy8EZxll3MQy0A4tuf8dX3JddehAeVA0Q/Hms27XGtZldHQIDuzGKinEPTMMw210EfZYctIatA8pMolkbSZ8fVMnc1QwDgFhnQqCRGdiV+W5E4ayMc/mgYNTAhXqvqqcj1B3D4HhLhTQTvk1rqe6z+Ls7JDZ/mnEgvCZjhbhBQA+4mA6Y4EpZm8e47YrFhjjKBllioHLM/DS6asQ==;8Onj7zwG0/uUHylJr2wOiA=="
+secured: "ho1tIHzuThrJchelVSINys8qjJ7e7OwU6grfwIjXeAbZQV/i21KlDnWjBy97dVrmFUEMqZB7E/nOQSNZZEw/GQXd5x6Q3karTQqdnPk1OuHR+wJ/DuJ+QwKjCq/OG9zsAQ4SHOuU0vp1WEQKVynA15wCMY6hBViqHpZOprViQLFVJs/lugl/QsFkYndU8Xc2LaL+1WfGUcCsSnO/tH4q+GlOleepTQqRPrzeJb+OpYmvAnG7GT/LJxIsyr8xUdGviLH1ZoHjFImtv0ENX9MqXxIh1D+w2QaUz9GXDAfP5uRPMYaSRi2500NaGC9jzGQZagIMu8DWpRgO/71ntDKL88ROCsZnFiMQmoKjAao1vJA+3DUrpgPmhrMSPQpoe73AziarR9TvbtpNuoNzBdSfKQ==;hDPEI4/9yaTVm4HFiWNyxA=="
 ---
 
