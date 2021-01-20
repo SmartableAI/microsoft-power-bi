@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Microsoft's Power BI and DirectQuery: Making data analysis and visualisation easier"
-excerpt: "Microsoft's Power BI analysis tool might not get the publicity of the rest of the Power Platform, but as the company continues to invest in its business application and automation platform it ..."
+excerpt: "Mixing datasets to generate complex insights can help even the smallest organisation maximise business value from its data. Mixing datasets to generate complex insights can help organisations get ..."
 publishedDateTime: 2021-01-11T05:27:00Z
-originalUrl: "https://www.techrepublic.com/index.php/category/2184/index.php/article/microsofts-power-bi-and-directquery-making-data-analysis-and-visualisation-easier/"
-webUrl: "https://www.techrepublic.com/index.php/category/2184/index.php/article/microsofts-power-bi-and-directquery-making-data-analysis-and-visualisation-easier/"
-ampWebUrl: "https://www.techrepublic.com/index.php/category/2184/index.php/google-amp/article/microsofts-power-bi-and-directquery-making-data-analysis-and-visualisation-easier/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2184/index.php/google-amp/article/microsofts-power-bi-and-directquery-making-data-analysis-and-visualisation-easier/"
+originalUrl: "https://www.techrepublic.com/article/microsofts-power-bi-and-directquery-making-data-analysis-and-visualisation-easier/"
+webUrl: "https://www.techrepublic.com/article/microsofts-power-bi-and-directquery-making-data-analysis-and-visualisation-easier/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsofts-power-bi-and-directquery-making-data-analysis-and-visualisation-easier/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsofts-power-bi-and-directquery-making-data-analysis-and-visualisation-easier/"
 type: article
 quality: 91
 heat: 91
@@ -29,6 +29,6 @@ images:
     height: 800
     isCached: true
 
-secured: "kMuXDt8DYy4PacKJ/VcnQnw2WCJOsMrkAEDhvH88LUKZbtLUiA0GNQOrfot/q+ird+83DvlYOxjfZK1t8LN8GNWwfeMVDS6PL4WKptYf/dcaD3akSlBD0pY7l2GcT27fY44ZRH2XqX4MjLrBRnfAolt2nQS53ewwPdTfwDGHOuvMhflSrLlYYCRbosYE2iWUVEnrsfnqGTB1oxwINId59r9RUGkK0ZsCz5hOf2lgsF30xL2CnBaNoNZD08x0basBPUpDaRsRd5N67uUxgcBCFSrRI6zpI3A0OVleGjSd5qZfEddFi6UJI/xO/ehsDU9HUKs7DRYo7t7F4l/Su0Cjy2Og9ixjnL2Du+gXNx1tjUk=;Az1YqZtCwCj/nDyJ+OXrIg=="
+secured: "5IWhyrxOcAQILiXPY7qyghy7el/u0TJNDI5A7quEV0jSsYwk8haQ/o/mQXh6NrBQQKtzGEjuTJ9B6zUHdSesJj1XxpDVPp/6rs7FFnh5MuOK01Zp+vxI/Q0Iqsvdnh8itdEWHIEcTFLrNqGndUsAOncD3tDcdhWT9visaQY+/GEUg8b1hRJ/M/g9GG5lbqsumUUyZHLKXfUWF1LmR692j39ALSaOZamXuz8u6x33JHuIszdx8/MlfVs2VTg533hWs5hP4GX7GKikKhYOiqziZCdhcTVX3m5RfPNrqBe7QKq5fYK2UdPIRkVSfhxIAgWAqqlgg9wul6luYN/VD10EVL0ngiCBrCDhhNINNqQD7b0=;lD6Nm2hFWfPuXDJJHX+IUg=="
 ---
 
