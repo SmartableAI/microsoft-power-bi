@@ -1950,8 +1950,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/becoming-solution-architect/",
           "length": "PT1H43M",
           "ratings": {
-            "count": 727,
-            "average": 4.722146
+            "count": 728,
+            "average": 4.7211537
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2222,8 +2222,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-calculated-tables/",
           "length": "PT19M",
           "ratings": {
-            "count": 323,
-            "average": 4.76161
+            "count": 324,
+            "average": 4.762346
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2328,8 +2328,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 1233,
-        "average": 4.683698
+        "count": 1236,
+        "average": 4.6812296
       },
       "provider": {
         "name": "Microsoft Learn",
