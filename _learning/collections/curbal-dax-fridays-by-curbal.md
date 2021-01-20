@@ -221,6 +221,7 @@ items:
   - videos/curbal-dax-fridays-191-create-a-last-invoice-calculation-the-process-calculation-and-troubleshooting
   - videos/curbal-dax-fridays-battle-192-hasonefilter-vs-hasonevalue-vs-isfiltered-vs-iscrossfiltered
   - videos/curbal-dax-fridays-193-why-is-dax-so-difficult-to-learn
+  - videos/curbal-dax-fridays-194-covid-tracker-part2-modeling-and-getting-the-last-value-of-an-accumulated-list
 
 topics:
   - Power BI
