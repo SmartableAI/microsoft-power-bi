@@ -2,6 +2,7 @@
 title: "DAX Fridays! #194: COVID Tracker Part2: Modeling and getting the last value of an accumulated list"
 excerpt: "In part 2 of the creation of the covid vaccine tracker, we are going to model the data we imported in part 1 (see link below) and create the most difficult calculation: The sum of the values from the last date that is not blank.  Chapters: 00:00 Intro 00:55 Show the data 02:00 Model the data 03:30 Explain"
 originalUrl: https://youtube.com/watch?v=jX7dbhrHS5c
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-194-covid-tracker-part2-modeling-and-getting-the-last-value-of-an-accumulated-list/
 type: video
 price: Free
 length: PT12M
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "cK09WBkSrhprFUc8cj/+1/87Mf2BKIlzQXZDPARnND69iiD/dzJ3gAT9ARg0cBqePnfkvziYFRjHhwCqzbclQrP9Brugb0avteE75x6/LpxokMqswuryul4U8b+6piYXaAbSmL/NlUZiVKfqOZ/j0dBQ7WsaGiyZ91v8EByfT7xv22KJAcetfdv3vQfy1DylS6ghtJ6rqTqn0Ashs9FEaPliDApLrEdMNaE0ZO0v5ctIBcShN7p5eUh24sWBsalRrjZ8kdJVAfI1LHuFENbuGEQgyvtU8hp4L+HJQzBKUSjMekmJ5nkkUWzcGdsoXBU4o9xYOKZ386huTjFI+78O2s7sCn83vekb+Gg/n29S0IFqrjdp8anlg18C3kF9dbHBG83Hvuq9ZRlgyfelmX6hOQ==;lrHSmxfQl2+nSGXQ/QpilA=="
+secured: "XShZ7d1OR6qJIhoCaCb9JUPyeHTRGMTwIb8F2V+ID1ELRUH2IqpQsqziOq6tMo7WLjndOD+txp+PIKyiJ25zpmx+CNmSlgn3+mTJbXnB/0nIetety2kA4kXqCVU8hWCXsxproS2cTQn4g2B9PNCRwrGZ6i6+Z8Sl/EXJe8bFtEAv6JVb5Ztau0YcX7yLwNIJ7mAw7Vua8XyKSMAZ3aQvG8P9BHj7x4UjSa7oB6noVAouPx458cCTDeutoDXls6zuZujAZuetOrVtRUcyQPPjRD5PDmTZgjtmO9ytkpLBIBmtWyHtC/ME+27w/QKSXHv34e4nkzyoowFVGWyRgVZ/lgkVNVWdBH7bxX/Z/AosOfZK46FWg2rIa+gQxrWvwt1a;Z31zAiG9D258G3AaHHZ0EQ=="
 ---
 
