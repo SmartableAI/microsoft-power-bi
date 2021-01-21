@@ -2,6 +2,7 @@
 title: "Create your first Power BI report (2021)"
 excerpt: "New to Power BI? Adam helps you get started with creating your first Power BI report in Power BI Desktop! Start your journey the right way!  Guy in a Cube Blueprint Course: https://guyinacu.be/pbiblueprint  Star Schema: https://docs.microsoft.com/power-bi/guidance/star-schema  Star Schema Book: https://amzn.to/38JQJqq"
 originalUrl: https://youtube.com/watch?v=B_bAKrXAUh0
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-create-your-first-power-bi-report-2021/
 type: video
 price: Free
 length: PT15M25S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "9/Lj2fVOtOvghvjDvyJQm2a+TzFjQTydn16wNuiM3ZaRGoQ2+K2ScqSLhPJSaCTAPXfplXp/qTWYt3nt985cZR5ZrjIzT/4SfEaOYgdobUDV2AcyOEBq6T4tG1SxgJ3ZWiekavrCeLoD0CMWgiTbcBKVqByIwTgLL5a0DsiPxKKtN8Sv3OMIiIX6oVqg965EkjgedVoln6tZlyfSu0kF0Hr8ufhHDN9lih2D+I1+p7+Cga3OVpsy5YfE3zenppzrQFR1CPbIkzL3Letv6HrRYfhhY2GnLEIOnwm+pOihgitHp3aA2nIq3s0pkPMjCkrc+rA+1yfYvPZMPzxGwHs6Btop5R/d3bnxHJOr8T9moEPSImEb3tqAcRwxB1mDVym996SUDcnVTJo5ozqYiER+aw==;Y8d3dGR63CcmLHLXGeqzOg=="
+secured: "N1iy649RC/+jvMp+D7kla0KQYsy22VpEYuKXMiv0lOnf/P1unDSCN6PIl+NqTHS4Go7MqaIMSNmySTt7k1DvAr+Qp/pGsVeREK9BvDHLnQ36711K/HekoeXqhgcgM2MXh/mXPc3JVkZv2xEJo2vok4BsBydaDJiWRmEQ+jYaF9biM9gacwGw63a95+t87tMHi6KXwlbyW5e/iRMTJ/Vnff/uGdnM6y42TNkLtoNh8TrShMhjm13yjN4x0485ZKdmoVZMy5L7F8goCXFx1G/KEgxCXo1Lz/JDSl4ACRTD5VQd9KU0/IWrne1hi1iNGoNwNLXxlegcYuN8titl9rvkREOOQquRC540jAtGa6fpVgfdqi3vvuc5Wiegpi57qq98qKvxct6Ujp+8Kc9MZHMf8Q==;Acs331BoMuOlvzaL1H6P1w=="
 ---
 
