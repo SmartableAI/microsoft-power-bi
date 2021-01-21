@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 8409,
-            "average": 4.781781
+            "count": 8414,
+            "average": 4.7816734
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 24991,
-            "average": 4.747269
+            "count": 24998,
+            "average": 4.7472196
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -350,8 +350,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 24991,
-            "average": 4.747269
+            "count": 24998,
+            "average": 4.7472196
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -392,8 +392,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 15300,
-            "average": 4.703072
+            "count": 15303,
+            "average": 4.703065
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -435,8 +435,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 6047,
-            "average": 4.7048125
+            "count": 6048,
+            "average": 4.7046957
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -477,8 +477,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 4679,
-            "average": 4.752725
+            "count": 4681,
+            "average": 4.7524033
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -753,8 +753,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 2563,
-            "average": 4.7541943
+            "count": 2565,
+            "average": 4.754386
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -795,8 +795,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 2721,
-            "average": 4.779493
+            "count": 2722,
+            "average": 4.779574
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1807,8 +1807,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 840,
-            "average": 4.5916667
+            "count": 842,
+            "average": 4.5926366
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1891,8 +1891,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 813,
-            "average": 4.698647
+            "count": 814,
+            "average": 4.699017
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4647,8 +4647,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-calculated-tables/",
           "length": "PT19M",
           "ratings": {
-            "count": 326,
-            "average": 4.7638035
+            "count": 328,
+            "average": 4.765244
           },
           "provider": {
             "name": "Microsoft Learn",
