@@ -873,8 +873,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
       "length": "PT2H8M",
       "ratings": {
-        "count": 1619,
-        "average": 4.7541695
+        "count": 1621,
+        "average": 4.7544727
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -915,8 +915,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 6046,
-        "average": 4.7047634
+        "count": 6047,
+        "average": 4.7048125
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2282,8 +2282,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/becoming-solution-architect/",
           "length": "PT1H43M",
           "ratings": {
-            "count": 728,
-            "average": 4.7211537
+            "count": 729,
+            "average": 4.720165
           },
           "provider": {
             "name": "Microsoft Learn",
