@@ -2,6 +2,7 @@
 title: "Comparing with previous selected time period in DAX"
 excerpt: "This video describes how you can create a comparison with the previous time period in a visualization, regardless of whether the time periods are consecutive or not: https://sql.bi/526183/?aff=yt (Optimizing duplicated DAX expressions using variables)  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt"
 originalUrl: https://youtube.com/watch?v=JBN-x2duxSU
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/sqlbi-comparing-with-previous-selected-time-period-in-dax/
 type: video
 price: Free
 length: PT10M23S
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "wjVwbQx5+paEULGQ7jWtALVVetswfT3YqRmOUIijcxvmFyvTfeIPn3Jhr431c+UzuMHi7vT1+PS2o0yuFAZUy72s9UzN4ELPRLrHTEggoas2ofVkIiyQt9BgyQFjA13tZISd+19eFNc6IOHYF/Z3a86vBspXM4Mb+/vLok73NgrRo3sOTPyDJVaiH4JxrkRz7CoPEg3UPqFtjF57eITQDu1+199h8mu8kHm5tapod4SLM+PyE6XMPB+/wQdoG0ApBWBeNsYj1h2aTpLKO/aWtb1W/zXdMukEIR9B4QjSxt+eciJgooGdexiwiUXlQAH5xeWNqQhO/l4aQD6sA5kWQliBiABpKKAEReMOT8jal7oAcnjuwBnVEvnBdiXgATS9UvBoBYOwd5zKDAflLUmJXQ==;yfdr6j9U7TvYLFBbvGAQaw=="
+secured: "zT3hLaKNzBHA9P8WYIn3QbrZaSYdm7CUQ2frVWG3zAAo4Fv4eMzbHE6WYZUiayHTA+tXVZx+B+fUGtQTcJNm/unQ+wCdsR0CuQaW6sMy4qlR4hhujYxY+Rw+IJhHLBtkax8ltFFvkkdRZNESEibPAx+JsTPWfQF7ez9sM29V+1SJVXrqjIz0m+gm6OA9WyK18hLrRV0Nro3MFvkfcAHswdkO/Dgaj6y4HKjvm4PxOhVsH4MCrKZkIUocA0EEvJx/kGieUxYHVICoD9O1HUJ8Ez2ppsrEhS85aF5UWvxKBUlw7/Wqh9XdBrrjgi1Jiz5R+EavHpkyHStOS3RZHxLQkaapS7/vmOP3Hq3nF4tfuhhoaj/MFDS9Bl7qyX2qPEnVGREfnGyb0OKratz0fm1QoQ==;oXuHeeoqaLeJyek+KRsBzg=="
 ---
 
