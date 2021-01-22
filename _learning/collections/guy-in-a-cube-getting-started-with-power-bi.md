@@ -2,7 +2,7 @@
 title: "Getting Started with Power BI"
 excerpt: "These videos will help you with getting started with Power BI. From Power BI Desktop to the Power BI service and items in between, this is a great way to get started."
 type: collection
-heat: 91
+heat: 182
 
 provider:
   name: Guy in a Cube
@@ -14,12 +14,13 @@ provider:
 
 items:
   - videos/guy-in-a-cube-what-is-power-bi-2021
+  - videos/guy-in-a-cube-create-your-first-power-bi-report-2021
+  - videos/guy-in-a-cube-power-bi-for-report-consumers
+  - videos/guy-in-a-cube-power-bi-apps-for-consumers
   - videos/guy-in-a-cube-5-ways-to-get-power-bi-support-pbifamily
   - videos/guy-in-a-cube-3-ways-to-try-power-bi
   - videos/guy-in-a-cube-power-bi-tutorial-how-to-sign-up
-  - videos/guy-in-a-cube-power-bi-for-report-consumers
   - videos/guy-in-a-cube-the-new-power-bi-app-workspace-experience
-  - videos/guy-in-a-cube-power-bi-apps-for-consumers
   - videos/guy-in-a-cube-power-bi-apps-vs-app-workspace-the-new-viewer-role
 
 topics:
