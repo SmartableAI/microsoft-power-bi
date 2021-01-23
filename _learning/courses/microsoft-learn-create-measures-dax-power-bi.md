@@ -8,7 +8,7 @@ length: PT2H40M
 ratings:
   count: 1243
   average: 4.6822205
-heat: 56
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 321
     isCached: true
 
-secured: "hWovJF+Pqpd80lH9Y1X1z2ivEYUFBdfiakZqOP0mlFZY1uP33Z5OMJSRDwx/R4nr2p4vE4b3uMg+k5/3qg5mrMFVUordovz5YfVYlGiJP13F7Li2/abXDThbe6WLlhDXuEmvzeWyo1zL2Onud8CqQIBHeDWtF6zpaQrRk8Sg9o4blRwLfrfNvbgLAjh2yRPB6LaP5IEpI2Vcr4bUGvofOeTw+NkBKxxBsau+zmt2PqyfhG1yUKeNTGpwmiXKnwukX1lbs5gT9sVZG+cTJkaVVkRm27s/KHiL/XBvPvUGMtmYhaZgTh5XFNNWm/Gw0Ceifxg31MLHQ6VYexZA9qqJZe+027Q9sxD6lJ1A3Sj8aqof6CIouasgKN5ZgfnXPkm3zRLA0ijZ6IE1MuN7f4980OOYWLRYP3dyb2TBdP3wCLY=;qiQPD82Xz1DBjrXSrYF+tw=="
+secured: "ZhfmkmMPMjCEELU2vu0v0IQc0Qdg8mITWyE4fSbGDwVZmIk8TNHCsIEAQzAKgWRUVakaA1iKXYTTLG0xakTCPXNwRqqxyJvuxu1BsE+7IumUnqqP+S0euDqu+mek6OrQLwpOSwFjx81s1BIcGULUSOf+URyncymab1rdubEUQGfcs2CK0CiOjVLkeS7LaYnV7I7aHWmQPwoySXgwjwNaDVD7+LsB993dg8PFHFnqz7yKSYPcvldL+IFcLkH+Yx2do12jH3NLWtu4gKol0QPZT7I+xDUqjsIJ4d6vls1YFih6sI/vjVbnSbyjv1meki57yNRHa4V1g4IMceoINoyTGI8Ml0grYatx8z0AzgBiehHJUL24sg05J2YxLtmChqIRjd/LIlYEqiEx06lhM4L+ivVXkVNqphqXKos0omR5ufo=;wHRGyMSVBdDk5VVYT6gCLw=="
 ---
 
