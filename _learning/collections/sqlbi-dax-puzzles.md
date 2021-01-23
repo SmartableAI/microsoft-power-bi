@@ -2,7 +2,7 @@
 title: "DAX Puzzles"
 excerpt: "Short tests to challenge your DAX knowledge!"
 type: collection
-heat: 50
+heat: 130
 
 provider:
   name: SQLBI
