@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT22M21S
 publishedDateTime: 2020-03-18T04:06:02Z
-heat: 53
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OFXG7sl5L2o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Power BI Paginated Reports in a Day - 10: Retrieving Report Data - Part 3"
 
-secured: "7saKjcdcSDDa0gNeJXIys7mWKZ4xulan72CPuu524Y1DY4+acxlHzd5i7PXJXIGvZgkmy+XPg8e87r8ZDlPymeIVXHkf8rTvkkHqSa2DlVcYv15CwyqtsMbOLQYZpOgC9wHLJoX/+al8WbGoLHV1YmVfcUsPHmRdB1En0gPSOZepPNRkbPvyspJrfir1wlL7+BGUbkZOCuE3OPn8BujtkPlTc//+Ldcu3ARWYXcZkQL6z4lZ4DKlcpofnP9ftlqnPVpdaV95v8QNoKKmW2WG+1mg4LYdZ3zrg9Nw6M8I/SmVTyLEUqea9BVCNPUD1cNWceLuwlRGPKV4Vbh0H0TZMhKWo5rzquTTlSjiV6y7l2G2lvk4gY7O17HqPIndTUOfKedQgBVsl0a9Gun5FDQLXJMR6W7Wta7IKQSL4YjxAAk=;JJb/WvgyS9PgYXBzs/DWOA=="
+secured: "tiLJSFpDOBmEI97m0HIUCVf0PF/rKfEQ8YiYIYBGkjBIijPTEmdOdi2K5VHZp+wPEhfZbQN5KpHb384O1dJlH6e1yjuT8cL1dicH0q652YHDH5hzWZeFnSP1KxsT7ki2OKqk42QPYGzRUzV5KfuOl9yxwpoLfsDXQcFKhncEcMSmtx6kl3rfRNqc6uQYcsJvE73EqfvCrgye1e4yqeUjfC2oxJGFjTAkrxsESmeDV9Yv6bGh1xrja1WsLVYip+oxAiW/CQIMCHc3Gn8LPJeqib+osxpWFVtzpGdYUROv5dK5YqyN5pcM2mk4rCP2UmFJOzY5h1SK1I3AD6WisBdFzYfFNMLMuKDWqJUhpXMtLpsHfWX6xm17JdUtAqCF/oW1l7ul5RN0LkUVToi84cz+Nk/LhmbvyV9d10Fub58OL3g=;aXzl9aMD98hTyCw3fYBj/Q=="
 ---
 
