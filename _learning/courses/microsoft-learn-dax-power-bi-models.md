@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT20M
 ratings:
-  count: 683
-  average: 4.762811
-heat: 54
+  count: 684
+  average: 4.763158
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 321
     isCached: true
 
-secured: "xusQz6FuQPOBUFhgIP9AmEc1CgL+bV2U9nwCNo++YMhMr+gwKvdJoUROkHVfC6etwqWOX2cflXZOJM1iXt7gNpSunWujWUwJ84lPc1lONO7hhdylYFi/ykFDrUm/+qQ7yG4Y/IJpUwyklYtt0tLWZx4hB1LT24s0wYZhWn5lXjm9kdTNWcnjqIp97+BSlUBzFGqmcqQk3mYSQMKBi+RgJ7s+L545HVNRZX9Oz8Y9QkUgsF2zPPO1rdnrQPXsEXm0oQkzHZ7jWrUVyXW3CwscMGv7qELD7TvtMCRpwRNkaYn9U9CUHl4HkMpBkYyTjp2Q77d9HlGC4IHFxNrls0BbXX1uLwE/7GCBYSdI8hb+ZPwE+7QcBzMC2+xF5Ru+DdvR37vEecWr4Opevq3cXL+wKNTK9YgEUL9eYyaCUvVQWGE=;LG0fba1QUMa/VHNf2yQHQQ=="
+secured: "ZFYmjHkwT7+HvjwE5nIIeNM21H2fqx2pJNAyBgdaAC1GelGx7aP31RrdetiM1OcchQwNjUwklhT4CtQhF2zESz25UZUn/LyvicAScaVfovBVMIoccY9vc4hcpC1D7QjeaoRcB2Rzxo2gkmRIsvQkdscYwfQDuRBUnY+A4x5JTLZ2nr6DDE6H4siyHpbmV9no0C1GHjsKjWSBm4HGOTIy2PJPhwry6S3436hRN16KQd1My+U14tVve41CAvluwA9WJ6aA7bu20sDQkleAvj0s5piT9ZaDfYpDa5NI4j0HkGlcrSbCIKG9QMqRUwyAGcCI1yXD6DvweVZFBTGc5zQbuZJJPLxTQqyT/uLUolRPeRiafBneQgWIxId7LqYms+EUASzXc1nhVf3d9oJpmE+kx532qkb7y+qCGx69wQxBXYI=;Iu6rEvDmiOvUXGkmH0LSMQ=="
 ---
 
