@@ -8,7 +8,7 @@ length: PT1H44M
 ratings:
   count: 857
   average: 4.593932
-heat: 57
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 400
     isCached: true
 
-secured: "V2yo13kV83VLJmYP25wfgpqVOqgmRKkAnXfnPjRNJL3IdmZJXFXIL8YzsjahL8CplWN2c1n6eWSLVENVn3SyhOBIfEoxRm8wxj/4GYIMhcaTz6oLNTsX30ArtMknmRlquBT0y5w/20hYJOyNYT8ouEUi7Uxq5F1gylUGjmLrYfbMVEInJjkNI9U9JyaYeDkTXpFeAX8BCQpORYSZ9bdYep0pQQPA4zToNGhfx9xIV1qoijlq32HeQbT9hdgYGnSQSxcuEmTt5uflN7CxItR676S4uZ7A9mWt2MEw3U6dKnNpW25Lm5u7HrdzKxKvNFrQLaMZkzgOTYBtBGrHPJAEtIBl1lQxBy/WybInF8uWok7hrk3ei025stg/Aj8RiJ/sHxPc0+2gldzozZwYRS0mKBGgtXs7fgdAw27ydyuI9Qc=;wWVSbVBFD6ZpQ09diQ6u4g=="
+secured: "f2Pl98GRBizLx2idt6vwPxP9TQ0R1xeZBwRHuDTsgfrIycFemPl6WiCAfLGkLPtuir/Z6z1bwbITpfR3IIfSVS8DuUDvwdVm2SvW9E4fDziSqSHvNpl45nFfvCw+qRly+YH0wTLOHTvMJyOdDCkbp8A+rixgi/injLZ7JT/M3g3poetvZ9Fh87lVMaIYdRQxxhHpnSfYa8aJnfhFAwSShqKnfAka9gO2mCxHe5iy6ZTS0+IDGe3MqLeEV7QafmzdwYlNecic0CnUn8OO3HEGK6qqCOFi9GVfmQDyVrSuNs+EI7JJ7NsgYy/5oIUqu064BJ7cBBz8fAvmCirACVd19jsSnrHkCJgYqjxxAODv79dq70VOE90R92UqTPaE8lRlfJesVIxDMeTe80BIHvKuljO9/C0gYzBl7rVdgY7tizk=;/7PYJn46x/Xpzy1yM3HBZg=="
 ---
 
