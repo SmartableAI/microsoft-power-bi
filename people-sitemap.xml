@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://smartable.ai/apps/powerbi/people/adam-saxton/</loc>
+    <lastmod>2021-01-18T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://smartable.ai/apps/powerbi/people/reza-rad/</loc>
     <lastmod>2021-01-18T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/people/adam-saxton/</loc>
+    <loc>https://smartable.ai/apps/powerbi/people/patrick-leblanc/</loc>
     <lastmod>2021-01-18T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
@@ -19,7 +25,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/people/patrick-leblanc/</loc>
+    <loc>https://smartable.ai/apps/powerbi/people/mike-carlo/</loc>
     <lastmod>2021-01-18T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
@@ -32,12 +38,6 @@
   </url>
   <url>
     <loc>https://smartable.ai/apps/powerbi/people/seth-bauer/</loc>
-    <lastmod>2021-01-18T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/powerbi/people/mike-carlo/</loc>
     <lastmod>2021-01-18T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
