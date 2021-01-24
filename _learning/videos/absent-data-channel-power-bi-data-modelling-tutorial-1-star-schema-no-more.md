@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT25M35S
 publishedDateTime: 2020-10-05T01:01:20Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CwGdp2YgaiI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 360
     isCached: true
 
-secured: "0GOtHjHTeZ9ca1nI2h1FFpzAu7B27SjkbDrbMpRKFdtRV7PY1qNPrT6runxgi3tIVPFJJKczZzT7TUOMfVbpQHJZv+ZtKV+p3ah1gW4443ByhcYX7BTo29OVHdZP+HT7uDPZ05OLZjFX/IWiLdN6n3SGIG37movEMedDqvbbKP9fRqlo0KsA+vWxS+NVtZlFMs0puhHnk/FmZIIIp4UnYjE3jKmX63hd8cQIjwn0gcKMae/ixf5wC9Y6i3kEee5otcwz7KOnMXOt6zarEkH9VOrPOHSuQKTV8n1zVbh0ifrgbVvF6rSfG/Ax7tz/QnXuwHv0yt1FKUWGaGtkpxlIZlHIWA1SQSscKkBxfWwDiKlTn+VxfMO5XboqMDtrRkzYqDBP5a7KnjRTRIWJ561lUH+R99r70L6gS3OQQJOr27U=;Xlf/3zTIqwwakZyGDmZ7Sg=="
+secured: "FTcuJJrpD/BUCAL+tMpIKKlj7tZaju2FN3c4UNfPQjA+v8jphNeQJtqzUPwh7Hulm4EknNonuIoe3z4LcdORE6ms/PZkmH3RsODFajyHgS6AkRYyGQastfA/lM+VOXU+VWXxm34fhcZjXSBm8+lY8H3ihLczykf92gOQGKronnpd9M0GZcF+pB177cUy6ua9NvvI7xbTDD8dfVRzeBgnfePpQQ72gyymdGbZMriVZi/kiZxVdcItJYrLxGX3W/d1zujtVu7Ip2m9XOsrhBXQxgQX5ifFvsM79Y6A+6aDZ19/V9Asn+Si9vKvR8scuiHrcASg+GVXb+3NnurzLxhd5/K6X5ryYbFdwt5NywzQ8oPclSeVhgukX2AtoW6EJyu2a2WC/m4gCb/F2mr2imIzP/9m+p6IhjIe/0VjINMEfRk=;gltc0cb9iGqxE2Wdc7g3hA=="
 ---
 
