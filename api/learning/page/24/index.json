@@ -4,6 +4,36 @@
   "page": 24,
   "value": [
     {
+      "path": "_learning/videos/learn-power-bi-power-bi-fiscal-calendar-can-you-handle-season-to-date-.md",
+      "title": "Power BI Fiscal Calendar: Can You Handle Season to Date? 😵",
+      "excerpt": "👉 Download Video Files: https://web.learnpowerbi.com/download/ 👉 LINKS MENTIONED IN VIDEO: ➔ Thought Process: The Missing Step in Learning Power BI https://youtu.be/X0-MKaMxUdM ➔ Ultimate Calendar Playlist: https://www.youtube.com/watch?v=BtYn1hfdSAM&list=PL7GQQXV5Z8eczWqKFMDVoHMjTcpH3tgZm ➔ Thanks",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-power-bi-fiscal-calendar-can-you-handle-season-to-date-/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-power-bi-fiscal-calendar-can-you-handle-season-to-date-/",
+      "originalUrl": "https://youtube.com/watch?v=qMZRVj7PHQI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qMZRVj7PHQI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M39S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2020-11-11T09:00:34-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qMZRVj7PHQI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/learn-power-bi-power-bi-hyperlink-icons-make-your-html-links-look-pretty-.md",
       "title": "Power BI Hyperlink Icons! Make Your HTML Links Look Pretty 🦋",
       "excerpt": "Using HTML or URL Links in your reports can be really powerful. But these can sometimes look ugly (e.g. for long URLs). Learn how you can pretty up your reports by using a URL Icon instead.  ================================ 👉 FREE Power BI Step-by-Step Tutorial http://web.learnpowerbi.com/tutorial 👉",
@@ -955,36 +985,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/fzZgXe3MjhI/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/power-bi-tips-powerbitips-tutorial-using-scripts-in-tabular-editor.md",
-      "title": "PowerBI.Tips - Tutorial - Using Scripts in Tabular Editor",
-      "excerpt": "Tabular Editor is an incredible Tool that enables users to manipulate a Tabular Model at lighting speeds.  Daniel Otykier is the creator of Tabular Editor.  In this video Daniel will explain how to effectively use scripting to automate repetitive tasks.    Scripting is by far the most powerful part of",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/power-bi-tips-powerbitips-tutorial-using-scripts-in-tabular-editor/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/power-bi-tips-powerbitips-tutorial-using-scripts-in-tabular-editor/",
-      "originalUrl": "https://youtube.com/watch?v=EHs5r3XCkO8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EHs5r3XCkO8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H9M31S",
-      "provider": {
-        "name": "Power BI Tips",
-        "domain": "powerbi.tips"
-      },
-      "publishedDateTime": "2020-04-02T09:04:55-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/EHs5r3XCkO8/hqdefault.jpg",
           "width": 480,
           "height": 360,
           "isCached": true
