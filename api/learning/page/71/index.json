@@ -4,14 +4,14 @@
   "page": 71,
   "value": [
     {
-      "path": "_learning/videos/sqlbi-sorting-duplicated-names-in-a-level-of-a-hierarchy-with-dax.md",
-      "title": "Sorting duplicated names in a level of a hierarchy with DAX",
-      "excerpt": "This video describes how to use DAX calculated columns to sort names that look like duplicates at a certain level of a hierarchy, but are unique when considering their full path within the hierarchy. Article and download: https://sql.bi/662328?aff=yt",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/sqlbi-sorting-duplicated-names-in-a-level-of-a-hierarchy-with-dax/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/sqlbi-sorting-duplicated-names-in-a-level-of-a-hierarchy-with-dax/",
-      "originalUrl": "https://youtube.com/watch?v=2THOMyHau9E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2THOMyHau9E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M",
+      "path": "_learning/videos/sqlbi-understanding-lookupvalue.md",
+      "title": "Understanding LOOKUPVALUE",
+      "excerpt": "This article provides full coverage of the LOOKUPVALUE internals, alongside several performance considerations. Article and download: https://sql.bi/670739?aff=yt",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/sqlbi-understanding-lookupvalue/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/sqlbi-understanding-lookupvalue/",
+      "originalUrl": "https://youtube.com/watch?v=EDqG29flu4Y",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EDqG29flu4Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M36S",
       "provider": {
         "name": "SQLBI",
         "domain": "sqlbi.com",
@@ -24,11 +24,11 @@
           }
         ]
       },
-      "publishedDateTime": "2020-06-08T12:30:16-07:00",
+      "publishedDateTime": "2020-08-04T22:20:45-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/2THOMyHau9E/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/EDqG29flu4Y/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -38,8 +38,7 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "DAX"
+        "Power BI"
       ]
     },
     {
