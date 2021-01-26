@@ -3,8 +3,8 @@ category: news
 title: "ABC of Power BI: F is for Forecast"
 excerpt: "Power BI supremo Hugh Johnson puts forward the case that they are more relevant than ever. It is just that you need to come at them from a different angle. For a limited few, 2020 was not all bad. The Irish economy is expected to close out with growth of around 3."
 publishedDateTime: 2021-01-14T10:43:00Z
-originalUrl: "https://www.accountingweb.co.uk/tech/excel/abc-of-power-bi-f-is-for-forecast"
-webUrl: "https://www.accountingweb.co.uk/tech/excel/abc-of-power-bi-f-is-for-forecast"
+originalUrl: "https://www.accountingweb.co.uk/tech/tech-pulse/abc-of-power-bi-f-is-for-forecast"
+webUrl: "https://www.accountingweb.co.uk/tech/tech-pulse/abc-of-power-bi-f-is-for-forecast"
 type: article
 quality: 139
 heat: 139
@@ -30,6 +30,6 @@ images:
     height: 836
     isCached: true
 
-secured: "yP6C4wLKqOeK6EtpMljnYMnxDSvTYpbxWb/hsKG+pSZwVfmlT1VuLILDd+UYDnSrW1xSOvDUm/3rnfXafq+N5P+s2BvCErKt6xkb10CDmlT4fuZfDSE7Rgl1jUClMi7h5WPPbpZqnxNe2BIlzl4u+yvRzJi8x4jTPO8niRL9cQoyTZARLPp06Nz3vsyPBTpRoae0wKveVvTDCIoOBYl1W6wdvvihO5qFuqBU9pUuOU9i8b6fQC8pkszTDIcwa0Q3fDelv6P8nwIktaZ7lxW4AMPgmt1XzBuNGr0sK/uEfZdftLRDCc4tefTAt1h6ricFH9SEfn/J/+O3wxm7s6j7NlpBD46yHCmirbYKP3ATKxT/N09M7GmyqA8TvAKzwNXzoCiumzxRZMZLfuGrWvqlfRx0x+oHOlNEwbQoae+yuogIvy2rvzguZw1l36CeCSn7MvPRwE1gsOvGfe6pZL5Jtx20ZPxj9bfgAct0b5q3rPB2A0R8bMh9LdOQz8c+r6rDXfpk5Cg+pDxlefQIEwpCiu9s4tfv52ARYdTJg7xLKEB8mD/Ci6NYE6/+qnb74kFffZG2Bkoz3pAoAiin5Zk0PCA1QHALz7rNAYcSYYO59mqtHD23k1Npt2OXUf+enbH/;YI9zOPCj2FYaerYdOsE4UA=="
+secured: "jtgbBE+jxXjQTCbWVefXplPj5yID673iAZ+2B9esjy31vFxpdP/aQuPn7KEEX9bAVcJOaLevfNWxf7lU0V5PvU2DSChvydUdF4V+towhZi/RUqnkJkCNBC7Zl/wVMzCaAa7vObQzovSF9sT4oIR2q8VxzmvGxyTpv+gaN4uEtyXo2Ua1T3c8dYLBN9owLw12egbTKR9L3Aq0DfimanVeQiqAg006wWxHChSe9QNT9w8SARklhpAh5bqt/KxDo4Y7UTL+QGn7sNRPtHBL7wi5XSn+zDqholhpsGFFAhf4i7ZIh0HBHODMf23JysRImdH2712TA2zZSo9crCHO8fvWxzcIfx9GY/g9tf9sDHRKei1/5ybpR2ja5hiMgWN99q7cWKCK7wWU+QH+05ASLgwchiy4L0ZA7fCgKGyictslflY=;jKXiu6IJBIH6BFhG+xkM3g=="
 ---
 
