@@ -2,6 +2,7 @@
 title: "How to modify a linked entity in Power BI dataflows"
 excerpt: "It is not possible to change a linked entity in a dataflow in Power BI. Linked entities has to be modified only in the dataflow in which they are created. However, sometimes, you need to do a small modification to the linked entity in a chained dataflow. There is a very simple trick, In this article"
 originalUrl: https://youtube.com/watch?v=E1vGsjAZ0VQ
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/radacad-how-to-modify-a-linked-entity-in-power-bi-dataflows/
 type: video
 price: Free
 length: PT4M15S
@@ -24,6 +25,6 @@ images:
     height: 360
     isCached: true
 
-secured: "1jWWli6YYpHHkgG/E8LTFhRl6zsnqXOFLSIFAmZCNq97cK5GxLq1EoEHZHXUkp+KnHYn9IQj8FSJcInQLtbwdAKbrfNRZ+fjeGQ9FVkdsu5GhhpOqpeMHO5T0qJt+kims1W005+phXiuJ8H5OF7g9k7NtaS4ZiRXUSQUKB6NgH3KAj6xSCmtZN1WNzO/eWeUQleP9+m/869lY7iHQrLEDyP58yFrsyTQyisi9fkf2WOo4JUnKICDgKJG/P2LeojFOfgzhGLz2VpJaXQI03M4h2LgGQg6hWmQNXCIUlVrjIjdba2ObmHdgf66tR6NN0wuRQgToTTtkvZnIb6TPR52zYr+O+PjfFRy5g71lX4Vqa7NIpsH2i1MGITcetPk9kifSl01mv7PWmqWxxPzH3f/qA==;7WlN8CWpyKTjjLgidy6ObQ=="
+secured: "w2yz3ELMP3EM+gcoxFNMFuIjHG8ADiOJ947UnTuv/mQrU/urNTyI1Pdlt0KswVj8oHQT3wwtfpt/d/OQQecPv1eD9FYf6vMr9Gq3MI55hJ5Y+x6UDwI8ychJ4hVyT3KZP8uIoZTUokU1Bxt3PjwhRopbJ5P231l2DmSztnW5bR8bLYz66LGboqlZchvZ5RQ3smZ7bA7oBHS197jjO8xndOjnvMfTxpwzgICcWuTLaMiujGzbEpTsyFz7eBpvpvBgA4RJBpqEzy40vSLaXgZGowsaUvVEVREuLySOoFWL0XyKqkA/R7Hztwd3rjxOSLpoQAf0zQJJtjedSfYpudiKLFRlTlLIBdjRQIxzGvPv6GF4WMij0SAs7fA7wgauafJ8;U3zekX7epxo6qTBdczCHPQ=="
 ---
 
