@@ -2,6 +2,7 @@
 title: "Avoid the full refresh with Incremental Refresh in Power BI (Premium)"
 excerpt: "Is the full refresh of Incremental Refresh taking a long time? Or, even timing out? Patrick shows you how you can avoid the full refresh and refresh each partition individually when using Power BI Premium!  Handling deletes within Incremental Refresh in Power BI: https://www.youtube.com/watch?v=nKVrl0ec6uE"
 originalUrl: https://youtube.com/watch?v=5AWt6ijJG94
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-avoid-the-full-refresh-with-incremental-refresh-in-power-bi-premium/
 type: video
 price: Free
 length: PT15M42S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Kj6wluHiyd2BEQ20eInB8IDiMccOjddi5iHOeuGxeInJjrIT5mAE7c8vlOFaSikzsr0mxJq1kvGwRUN3qx77AeaTq0GQkH4SW0ma2mjOgCZMUYCLNI4gZ6lGLzRc/YsXMpxe6Ee0+Bb9vnyqmZsT5A82IkRrPdjMAzdvh0KjzbONKNegx9ahgGM69YEFkdbe0jZBi10PWBjqZZfyyui+UbSpPjjhN5odWRGrJ1+qBzLtwmCVzDGWaRRTHxvVN5XSkFIrWfQyU1zeuHG8NG2UULyuvCu+CUa0WED7DAHqWQuorUbzJiuxut5Tah9F6z+3KZfCjQePVEtBK4WSGKgfV2v8apTUcKzWG5hUzCH9emtE9asm9TrrhJv/oN8ZjXrftEgj+FmkUfG5OYKwJLDDyA==;u2FbQKY34J77gWHReS78tQ=="
+secured: "9yXPEhucTegXtBfRZrIcUdiMu9gfbbf0B1iGiP7CUxtHUo+PsHEJqT6+b1GgGFrK/sMrvmgKxqOL4igLUb8Pc9KQ05OmSNyH3CHqw1dJ0IpAeH6AQNdbXgI/OIRYEwss7PcJQrgsjQ1AuyG7otOfGXSK5Bab/zvybYd8h98edcoeC8ka94nEbBmP8S8EHsWdYDpn1AALHT4WnUFfkQo1IBjc9z6p415lMYs6sr9A6vOOmw4LYq5eR6tjt8ueeHeJeEZjc810f6FlsuxHsFMdclGHK+QNoYkmlNsNIhKD/EthW1qmSLEb/7g6X+F7Vq1P5jOjRzYPJGP4YY5nJ/Z6Wj48m155RR3nOq8PAz4oB7RH2WmZ22BacnvUmHs6+lasTuX20seU4PBEEJSEwRV2XQ==;VLkOZwDVoRZFAHpeO6PnpQ=="
 ---
 
