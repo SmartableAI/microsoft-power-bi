@@ -2,6 +2,7 @@
 title: "Power BI Get Data: Import vs. DirectQuery vs. Live (2021)"
 excerpt: "Import vs. DirectQuery vs. Live connection. Which do you choose and why in Power BI? Adam looks at the three options when creating reports in Power BI Desktop including composite models.  Power BI Data Sources: https://docs.microsoft.com/power-bi/connect-data/power-bi-data-sources  Star Schema: https://docs.microsoft.com/power-bi/guidance/star-schema"
 originalUrl: https://youtube.com/watch?v=-ip7mKUdwRg
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-power-bi-get-data-import-vs-directquery-vs-live-2021/
 type: video
 price: Free
 length: PT8M31S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "BC1/wAJhJ6LmfyOCGnzNoat3lUXPd5fbWvNxV0X/XJfrWJL2EqMCudDC3iiEN3320420xaIyGa3CedQclITuBhhIir9NCtBx9IapXMcLSYByeAc86poN7J7Z6B/Ljocb1w1FDwZBiifUy2JNm7AX84Yl8tmEgKRVV61pNafikMxJ5+NABh3+tDgHUjg4tbFIOZoLXpP1ogcAMA4hszIMho8Cgz6AoWtqeEKRA0Jq/kMkzlBf4KblDWVuimLs+uMu7RR8IwYYhN4duNgL06lWna/iSnFWWCfQNd0ZitM4fbhZ4kfgG+qHNFHxX7D1Xebrl3WH5dvjypYtgC+NUbbQBSxWV7VK7hfChE+CPSmzyhDSi6jI1PEpubBTUn5CPd5ilmCCK0uKz5/RddP0ZiklsQ==;oFmuPyx9ZXwIEwCiT8I1jA=="
+secured: "4rfG4cvmx12cdO8bKLp4D6W4cCRu/vxdrA5Ddg7MsPv/LOaPNwP+UZWRHrXZWnk6Pzi4dZTHvVuih+KF2jmy+Uh7p0NzX08g4uoNaQl67MuS8LZOk7jqN4QciKumo8ddFImPGWPjpGWiIlc4/sFyX3oA3gGNSBTvsBo3nL2UQyHuNJIbzdTgj1FcsDPMxJ0fDP5aGUgMtTPNK+cPUIv52Qa0bgEzRFhvMMkuq+pJOh6wZBFmX0yT8+TP54f2XsAhNHk/Fz81HbvSIQqaDXpnvUjjcjEFCED7iAeKOdrhlJQ2kANXHA93KBS921u5yeW0MLcAjhW7cuXCyTyBK+Ich+dcC2a1XoqbNRlizZEu79Ji2en3glCTC2f7IhpIvNihhjoySPsfUiNXG3WW/klz3Q==;5Q3bAjBoP2eQW916EmIyiw=="
 ---
 
