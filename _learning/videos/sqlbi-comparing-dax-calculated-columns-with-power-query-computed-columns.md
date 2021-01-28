@@ -2,6 +2,7 @@
 title: "Comparing DAX calculated columns with Power Query computed columns"
 excerpt: "Learn how to choose between DAX and Power Query when a table needs to compute additional columns. Article and download: https://sql.bi/439946/?aff=yt  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt"
 originalUrl: https://youtube.com/watch?v=-x2dLTtKiR8
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/sqlbi-comparing-dax-calculated-columns-with-power-query-computed-columns/
 type: video
 price: Free
 length: PT18M5S
@@ -29,6 +30,6 @@ images:
     height: 720
     isCached: true
 
-secured: "1d3jc0GGJI3Rgd9EZOj+su0PYcdLr+PfSW2w888pVmdvAns47Oja14SxguMd6pmVz98EWvXrwafJl3TICkw9F0ysfPooYyhUVjHAueRLtWTveZKAQ39YzM0uNTmU5slwMep4mpDovip1fQiS030mqByfP+xL3gw2DrQxYJoRkd071wO9FVXgU9ULsBoYQvRzEnc7JSBWvC3aU4Y0GhgZQMws0kKjqIwBx29cp34aLY7/nTtV4a+/MOMvPc9UzR27gAgR31jf9pcG0lExqL1atnXLxzgjMhq1sbBOGetbqNZbKkexAZjgKY+INOyoxtp1/WYWP9vcb2s7s/nfrE6V2ixGDiMFqc79qRv72GaxchdmPPCqM125oaj3g5tEScHLGgFV1mOHQEwb2QCLZMud3g==;qNxmg4u85FJiPGzJuPTqZA=="
+secured: "ppmtAZ8v1qxuhGyt339MMnHgpJLH59N1w9WbMj9TxKjQ/TDGvSTKMMuOrXiPkBsnVguDwjSjKdfcOdAXE2EjPh6jj+XckzU3q10ERWc3d034sL/pRehy5ctUGqpZj4ND7R/CwiH5K0ruFRaG1BvhPFabyk/npJQ4xiFpRXt8Y88HZPNULrYfzy8WAQzMR2O9y0fS9g8Dbtmn2VWWmduR53RYvwigViCxKayxKQcfVqguxIEGEEDjQ1Po0ZNksLF56YOiQicQ+yo5Y+doUHHbkcMTlPLC8Mi1QDL6xNfUqg5Xlbu8beOlFMWCvpktJMRqYdcSmrKNmYfsP5EL4enGZI3rrvjT0vIIDNOF8MBzv8tV7iOf3Ms+RSfICi767v7V;dFP/H7bWnM5Yppsck5ZRpQ=="
 ---
 
