@@ -2,7 +2,7 @@
 title: "DAX 101 by SQLBI"
 excerpt: ""
 type: collection
-heat: 63
+heat: 62
 
 provider:
   name: SQLBI
@@ -26,6 +26,7 @@ items:
   - videos/sqlbi-using-concatenatex-in-dax
   - videos/sqlbi-mark-as-date-table-in-power-bi
   - videos/sqlbi-computing-totals-by-summing-visible-values-in-dax
+  - videos/sqlbi-introducing-dax-101-videos
 
 topics:
   - Power BI

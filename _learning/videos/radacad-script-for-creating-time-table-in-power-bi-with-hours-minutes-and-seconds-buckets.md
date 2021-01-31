@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT5M54S
 publishedDateTime: 2020-04-03T00:00:59Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/x0_-hALhS7Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 360
     isCached: true
 
-secured: "6lTIzZuxy1Q/Vast76SRoGBWeSDLBVuzRSR1EMrO3snC7dzu/ERAQkGzY6HwaXhUuuKgorTPkOsjAKsk+d5cVEJSoEkmNrRl7P50UDSDwEPWSZzaO73wkDy+aIvaq6U/wP7DGaXOJnfNs+res8MBKWQe1wTmrJy0Rb/efXHJt4Hid6ZEooYsC/vLZjgdqVNkOKTcJZmptpSluv/QAufxXtnCbpyocXq1wIi2KWPLS/84xf4MeC6udMGHmplBp/ETJuGu5yzLKZEzyzxXgT3STWYx6qfd9VAaVn5xtoyZZNdnRFGUtPVRhi1ofSqhLvuarEv3fNaPxJ/n5KrpIIghfvhjAtDH/fUyTXri6ZAtbtBi45FQvOtLzDU8KZay3Wnz+R1bUbOuxcC04VUvwVRZNsGxe7cfZRZmlpnq+vBCu/g=;9Q5ZinNC6vXPt7Z0cAs10g=="
+secured: "1pzBiONOsum+yr097e9lmMe0H8UImodwlqtjSDet9vuoljbMLqsrrGPOL1yeRs+Xw26nIT6ygwvWsHc+rm9mtaBr60arP39SmmkLesrIvResfL6r13h/31oTncq/lBh7ZRR2QOoDbpZYbkOwFFbNZnnETFCHZC28lTNZAX0RvESlOA/3VKXyPMGxJCaFxxUJs6tzvrSFokC6jEnsIoIJ/LpjT4uP+g2o9Rl1cRL7icjKRFLCvwZFSPSX9Zpb3ZvkCL/HT2WdCtewcC5Rnb1QIzGCfW3BixYKpQJPdSjjfQl0cDZexAeyW4rtrra6YizfP2v8BOpj3OgtQaGFA2x7usgF2B0C/ecxTsRiaYe4zKSEvyBoTMh5NSMFISp2Mzq/ODsNe5N3MKwBbi8mVkGCOTOlbhEmMxJaeut94ArLFrg=;74jI5CCeUQB1NrzOpyAHXA=="
 ---
 
