@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/becoming-solution-architect/",
       "length": "PT1H43M",
       "ratings": {
-        "count": 740,
-        "average": 4.724324
+        "count": 741,
+        "average": 4.724696
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +29,7 @@
       "levels": [
         "Advanced"
       ],
-      "heat": 52,
+      "heat": 50,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/becoming-solution-architect-social.png",
@@ -53,8 +53,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/discover-customer-needs/",
       "length": "PT36M",
       "ratings": {
-        "count": 503,
-        "average": 4.6838965
+        "count": 504,
+        "average": 4.6845236
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -71,7 +71,7 @@
       "levels": [
         "Advanced"
       ],
-      "heat": 53,
+      "heat": 50,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -87,8 +87,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/propose-solution/",
       "length": "PT40M",
       "ratings": {
-        "count": 350,
-        "average": 4.6714287
+        "count": 351,
+        "average": 4.6723647
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -105,7 +105,7 @@
       "levels": [
         "Advanced"
       ],
-      "heat": 52,
+      "heat": 50,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -121,8 +121,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-requirements/",
       "length": "PT23M",
       "ratings": {
-        "count": 328,
-        "average": 4.746951
+        "count": 329,
+        "average": 4.7477202
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -139,7 +139,7 @@
       "levels": [
         "Advanced"
       ],
-      "heat": 52,
+      "heat": 50,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -173,7 +173,7 @@
       "levels": [
         "Advanced"
       ],
-      "heat": 53,
+      "heat": 50,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
