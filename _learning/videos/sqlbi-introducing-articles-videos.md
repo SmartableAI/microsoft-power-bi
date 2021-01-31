@@ -2,6 +2,7 @@
 title: "Introducing Articles videos"
 excerpt: "Videos related to technical articles published on https://www.sqlbi.com  In the description of each video, you can find the link to read the article and download the sample files used in the demos.  The purpose of these videos is to describe the scenario solved in the article and provide additional comments"
 originalUrl: https://youtube.com/watch?v=Uby9O-HifmQ
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/sqlbi-introducing-articles-videos/
 type: video
 price: Free
 length: PT1M2S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "CnYAVQrtKEylwsrlFngtG5c5mW98buQ9M6pAiOUrIfYZL0iyEpsrqPqdLuGghVwsLIu1rv+Y3G03PnxqrpGNJroobPM8gElAy8FvSIeWbmFd19LrpSVOx4+MXhemo62FAMZAV9ikk3IDth97H0z7kISgYq8zyHQo1rW6inV4sN3dZbCV4DzUi+ouaav2Pi1n3shRt306UWNX6heBcp0yxDbyKsGF1DpA+gdO4J4skgvVo9Un85AvJpylQJOs51LAtIXxGJpQssc/85+YQHtddX5XqRwhmGoiPw4gobjDxsgow4M8vSobCLI6A0avwwaTQdaoTdp4+/duCThg+fmOxWDeNcFqmHcsIpfEJ+ydWIRm+n8SupZTkWe4tnWyYJerbrqz8cbwydTg8xdBZMH6ZQ==;3q5z1Xe4i8fK6H/6Rc9MoA=="
+secured: "KUztJioXt9QNNJgAwNTJLZow7bJkCvq0i45XRRQYNy7fXIM+eCriDnmiVV4z+t+aK6t1q8Nu8sq1Lwvbwv00bHBuzoS+ndwwCtbKG1hn/Fq9wfjEfgDH1tDCMNWqIPIeTY2l4X57mFyWPzhlSoSbWc+QBG4Fp1o36ll6Mt0P7Py7rLi1AhrA3L3fULdpcZ2tfhlR6E21Bw0xIaUsGhoqTWHFVr+YaykH56zDAO06ryo/K33ZXbaAhopz3AHPgzpU4A7/D1UrtfqxrdNmv7EyKiNMZelKbl0Wd4QHFm+xRn3FqkDZm/IJh/1s2jQk1ahGVUtvbXsnrFdV4IhiYUioI5hn8QxyeQYm9gMYiTO4PwdUHLYnlIj7fAz8KhS02r6m;NwhDMzrXO7ZiiGdOHmUFpA=="
 ---
 

@@ -2,6 +2,7 @@
 title: "Introducing DAX 101 videos"
 excerpt: "Introductive concepts and tasks to write DAX. Short and straight to the point!"
 originalUrl: https://youtube.com/watch?v=VU4uCDQolSE
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/sqlbi-introducing-dax-101-videos/
 type: video
 price: Free
 length: PT35S
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "t99/l+85b1zS+MVLEQvGLg6esIDb0oAbWyVFmSrh2RUe2W0kuYlePVMVJyWETMpCUqJAs693m7++XmxC9UHHHwn4PIWERfxKSmvOgHTYUz9QqyNdv75W36U66ipdNBc1lxX8RkPK3EyHA7ybkKTciI42jO2uZPIpVtTiaHmN9NdStQjdhyqY7exZvct2gcBtAvnAaL8yHr7DnxgEXaV3T5VJ/axAVT/CB4+CnzFpLrJdh0EXVXprx4HrmWnFr+/fUqooDlzkwkZTwOEl1Oi6MmTSOFdcjW9uB3s3aTh3YIsV663cCIRr2QFw5He7k+8bamj1bcPxncXR2BZPzc2p6HNVBzaNaIPGMQqte0UDHvcxIb2epIOJ3nKEsY+por55;8wh2OyNYLcf67xqC7H2l6g=="
+secured: "OKuvWp5h85/WzWdci3zgLXk97fpUAG1q2o0+iZvPe4q7UNz61JNg+J8/MHoeF55jN2Zk14AeX1gaHifwDQRafl+8zuBLYGj4AhWG/e0ioTPgjFI65YPL9RNHU/SXlmIZl7wE72y269MooI2LF5gliMDtkadWJqleSfz/JxvTxpWbdKRchYUarvE2VLMFxjgJH9oy3APDe7y/zsP2iLzGUU/XlxWjNpQNX1/BoSZMLlRt5g9J0ppHFHYAZRJGBp1wFjqUAJ0zV/uByQH76pdM5VUqzW3yrTYKGw1d3pI973A1Z5hqRlRT+fUPWV9rcjvC96qga7xdvanlSnFuQJX/fREIlwMI12RmQyPPK/QKiU9nH9Rw6zhTONZjzLPEED+S;8dCCrNL0QJnDFPBoGorWXw=="
 ---
 
