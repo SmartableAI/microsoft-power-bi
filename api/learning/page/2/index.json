@@ -317,32 +317,6 @@
       ]
     },
     {
-      "path": "_learning/articles/excelerator-bi-shaping-vs-modelling-in-power-bi.md",
-      "title": "Shaping vs Modelling in Power BI",
-      "excerpt": "Level: Beginners The objective of this article is to help you understand the differences between shaping your data (using Power Query) and modelling your data (using the modelling tools inside Power BI).  You will need to do both to build a robust Power BI report.  I first wrote this article [...]Read",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/articles/excelerator-bi-shaping-vs-modelling-in-power-bi/index.json",
-      "webUrl": "https://exceleratorbi.com.au/shaping-modelling-power-bi/",
-      "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
-      },
-      "publishedDateTime": "2021-01-19T21:00:35-08:00",
-      "heat": 80,
-      "images": [
-        {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2016/09/shaping-modelling.png",
-          "width": 656,
-          "height": 423,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-power-bi-date-table-create-using-dax.md",
       "title": "Power BI date table: create using DAX",
       "excerpt": "In this video, Adam looks at how to create a Power BI date table using DAX. The end result uses a combination of the GENERATE(), ROW() and CALENDARAUTO() DAX functions to create a calculated table resulting in a Power BI date table.  Using GENERATE and ROW instead of ADDCOLUMNS in DAX https://www.sqlbi.com/articles/using-generate-and-row-instead-of-addcolumns-in-dax/",
@@ -659,8 +633,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 15576,
-        "average": 4.7052517
+        "count": 15581,
+        "average": 4.705346
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -702,8 +676,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/",
       "length": "PT31M",
       "ratings": {
-        "count": 6722,
-        "average": 4.7372804
+        "count": 6724,
+        "average": 4.7373586
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -774,8 +748,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform/",
       "length": "PT21M",
       "ratings": {
-        "count": 16761,
-        "average": 4.7188115
+        "count": 16765,
+        "average": 4.7188787
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1100,8 +1074,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 2749,
-            "average": 4.748272
+            "count": 2750,
+            "average": 4.7483635
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1142,8 +1116,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 2932,
-            "average": 4.775921
+            "count": 2934,
+            "average": 4.775733
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1202,8 +1176,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 2749,
-        "average": 4.748272
+        "count": 2750,
+        "average": 4.7483635
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1244,8 +1218,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 2932,
-        "average": 4.775921
+        "count": 2934,
+        "average": 4.775733
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1342,6 +1316,36 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/x6vXVJZ_eTY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-power-bi-the-ultimate-calendar-table-free-download.md",
+      "title": "Power BI: The Ultimate Calendar Table (Free Download)",
+      "excerpt": "Download Ultimate Calendar Table: http://www.learnpowerbi.com/bonus-download Why is the Calendar table so important in Power BI? And what is the best way to create a Calendar Table? I show you in this video series: *Some videos can only be found inside the Learn Power BI Course. https://www.learnpowerbi.com",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-power-bi-the-ultimate-calendar-table-free-download/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-power-bi-the-ultimate-calendar-table-free-download/",
+      "originalUrl": "https://youtube.com/watch?v=zXZAZrUwUe8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zXZAZrUwUe8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M35S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2017-09-13T21:29:17-07:00",
+      "heat": 71,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zXZAZrUwUe8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
