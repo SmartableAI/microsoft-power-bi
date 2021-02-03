@@ -1050,8 +1050,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/discover-customer-needs/",
           "length": "PT36M",
           "ratings": {
-            "count": 506,
-            "average": 4.685771
+            "count": 507,
+            "average": 4.6863904
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1905,8 +1905,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 1582,
-            "average": 4.74842
+            "count": 1584,
+            "average": 4.7487373
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2183,8 +2183,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 540,
-            "average": 4.625926
+            "count": 541,
+            "average": 4.6266174
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2308,8 +2308,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 822,
-            "average": 4.6642337
+            "count": 823,
+            "average": 4.6646414
           },
           "provider": {
             "name": "Microsoft Learn",
