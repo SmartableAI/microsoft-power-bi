@@ -2,6 +2,7 @@
 title: "Power BI slicers vs the filter pane (2021)"
 excerpt: "What's the difference between Power BI slicers and the Filter pane? The filter panel can satisfy a majority of scenarios. There are a few that it can't. Which Power BI feature will you choose?  Slicer Panel: https://www.youtube.com/watch?v=xy9nmSQeUWg  📢 Become a member: https://guyinacu.be/membership"
 originalUrl: https://youtube.com/watch?v=NA2wlqfjX34
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-power-bi-slicers-vs-the-filter-pane-2021/
 type: video
 price: Free
 length: PT9M35S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "z/jh2VFUL0FTjLu5UsMceYlN3oI7cvM0HVB+2ud77YYTZKPXRpDRhd2+p+5q9/L/DzPhDN2ZERoKWQP/sE8oWNgkpQ+fgPxiLYtnAaGoHuLZLjZyz6exOKt0U0nZvIRj1ppgHe+sacd/zQFojCPYNP3zAiziJECncOht/tTZ1HLYE3VbCQiJODTv34cLDJ3LT1L2a9aMnj7NicZ2U8JRsMm6jsX8fuCxaiyDRiQ87R44d/VAED8Tl/fxdjs7dSQ+AHc/cy6rrXbPnC1e91zjY+r8MmHbHivGONsVEAh6w2qFzW1Qe/tWCoPh1ympduXQLjdfBILoUFQPCf23Xbt/ZfnvCZz9WWNgxkKAy69MuzxL+KkgdrmyV+geoIDIPIer69EvkV1leC4Rq6QhpllP4w==;HsKshLqFMtHkxB/i9IKd4g=="
+secured: "AAHvMstcezFbvAKJfTkZB9rOGtx6lrx5CBZKByu5+dBUy7A5W0YzZfnPoCt+ArztyTTJ29PHjL5ceJpXzdenb94DwQMJk6qwvfTJ334YBtQ5JQiUskNuB5e6E0ClTbgq55QXNtkNzoHOVAfp/HANOpz0gmXOClZdl5mWIh2z4HCtrNZkLd+5oLcqYKX+QaMxn7a1F03tLVzrZnSC0n7XsBEqF/uAhAFP0KfeA06aiLMwGBa/Pjz8F3lvJabN3KVsDWoWic1honazAG8OgsrnJPbbFz1LoLkuTAAFSa8k7N+ISZIMnmepnZ/8Yw62XkIeD2ZH7E7aDLp+8Vv7EVIEbjUH0nabl+pxcaJoPcaWh/CtS2GcyseLnKqVrLIgkB+8npy2U8dG4k+nlS3zbjHRvQ==;T0Ot0s0A0MVmRbYzJlXCoA=="
 ---
 
