@@ -94,7 +94,7 @@
         ]
       },
       "publishedDateTime": "2021-02-03T08:00:08-08:00",
-      "heat": 212,
+      "heat": 213,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/NA2wlqfjX34/maxresdefault.jpg",
@@ -417,6 +417,45 @@
       ]
     },
     {
+      "path": "_learning/videos/sqlbi-lookup-multiple-values-in-dax.md",
+      "title": "Lookup multiple values in DAX",
+      "excerpt": "Learn different advanced techniques to retrieve multiple values from a lookup table in DAX, improving code readability and performance in DAX queries. Article and download: https://sql.bi/43801?aff=yt  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/sqlbi-lookup-multiple-values-in-dax/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/sqlbi-lookup-multiple-values-in-dax/",
+      "originalUrl": "https://youtube.com/watch?v=SRnIH0pnF3o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SRnIH0pnF3o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M10S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-12-29T03:00:14-08:00",
+      "heat": 139,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/SRnIH0pnF3o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/sqlbi-introducing-dax-101-videos.md",
       "title": "Introducing DAX 101 videos",
       "excerpt": "Introductive concepts and tasks to write DAX. Short and straight to the point!",
@@ -486,53 +525,31 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-directquery-for-power-bi-dataset-how-does-it-work.md",
-      "title": "DirectQuery for Power BI dataset   How does it work",
-      "excerpt": "In my previous article and video, I explained why DirectQuery for a Power BI dataset is an important feature. In this blog and video, I explain how this feature works step by step. Read more by studying my blog article here: https://radacad.com/directquery-for-power-bi-dataset-how-does-it-work  *******************",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-directquery-for-power-bi-dataset-how-does-it-work/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-directquery-for-power-bi-dataset-how-does-it-work/",
-      "originalUrl": "https://youtube.com/watch?v=WowP5vOgeqI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WowP5vOgeqI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M1S",
+      "path": "_learning/videos/curbal-quick-guide-to-create-new-dataflows-in-power-bi.md",
+      "title": "Quick guide to create new Dataflows in Power BI",
+      "excerpt": "Are you confused by the four options available on the create Power BI dataflows welcome screen? In this video I will go through each of them and give you at the end the business user guide to it.  Chapters: 00:00 Intro 00:40 Add new entities 01:28 Add linked entities 02:50 Import model 04:00 Attach a",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-quick-guide-to-create-new-dataflows-in-power-bi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-quick-guide-to-create-new-dataflows-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=cC_vr5Z5qVg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cC_vr5Z5qVg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M47S",
       "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2020-12-29T21:09:29-08:00",
-      "heat": 132,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WowP5vOgeqI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-small-multiples-in-power-bi.md",
-      "title": "Small Multiples in Power BI",
-      "excerpt": "Welcome to my new Power BI session on Small Multiples in Power BI. “Small Multiples”- a new feature rolled out during December 2020 Power BI Desktop Update. Small Multiples is available as a Preview feature at this moment. This is a very cool feature we can use with our stacked bar and column charts,",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/dhruvin-shah-small-multiples-in-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/dhruvin-shah-small-multiples-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=0LpN-K4eppo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0LpN-K4eppo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M29S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-12-16T22:37:37-08:00",
+      "publishedDateTime": "2020-11-18T03:43:43-08:00",
       "heat": 131,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/0LpN-K4eppo/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/cC_vr5Z5qVg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -542,27 +559,29 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI"
+        "Power BI",
+        "Power Query",
+        "Dataflows"
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-automatic-table-detection-from-excel-file-in-power-bi.md",
-      "title": "Automatic Table Detection from Excel File in Power BI",
-      "excerpt": "During this short video, I'm going to explain to you one important connector update of Power BI Desktop which is - Automatic table detection from Excel files. Earlier, if we have multiple tables in the same spreadsheet, Power BI detects them as a single table and we have incorrect fields detected from",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/dhruvin-shah-automatic-table-detection-from-excel-file-in-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/dhruvin-shah-automatic-table-detection-from-excel-file-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=lS2A_daLZWM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lS2A_daLZWM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M46S",
+      "path": "_learning/videos/absent-data-channel-statistics-and-correlation-tables-in-power-bi-with-python.md",
+      "title": "Statistics and Correlation Tables in Power BI with Python",
+      "excerpt": "Learn how to build summary statistics tables that have min, max, quartiles, standard deviation and mode and counts in one tables. Also build correlation tables with the help of Python all in Power BI. This only takes a few lines of code.   If you create summary tables in similar to what is produced in",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/absent-data-channel-statistics-and-correlation-tables-in-power-bi-with-python/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/absent-data-channel-statistics-and-correlation-tables-in-power-bi-with-python/",
+      "originalUrl": "https://youtube.com/watch?v=FhpJLLfrx4c",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FhpJLLfrx4c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M25S",
       "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
+        "name": "Absent Data Channel",
+        "domain": "absentdata.com"
       },
-      "publishedDateTime": "2020-11-09T05:16:38-08:00",
+      "publishedDateTime": "2020-11-22T09:58:13-08:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/lS2A_daLZWM/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/FhpJLLfrx4c/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -835,8 +854,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 9173,
-            "average": 4.7828407
+            "count": 9187,
+            "average": 4.7828455
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -877,8 +896,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 25813,
-            "average": 4.749661
+            "count": 25821,
+            "average": 4.7497
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -937,8 +956,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 9173,
-        "average": 4.7828407
+        "count": 9187,
+        "average": 4.7828455
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -979,8 +998,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 25813,
-        "average": 4.749661
+        "count": 25821,
+        "average": 4.7497
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1198,8 +1217,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 25813,
-            "average": 4.749661
+            "count": 25821,
+            "average": 4.7497
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1240,8 +1259,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 15602,
-            "average": 4.7054224
+            "count": 15604,
+            "average": 4.705396
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1283,8 +1302,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 6211,
-            "average": 4.7066493
+            "count": 6212,
+            "average": 4.7066965
           },
           "provider": {
             "name": "Microsoft Learn",

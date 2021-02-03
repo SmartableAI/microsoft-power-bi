@@ -4,37 +4,6 @@
   "page": 32,
   "value": [
     {
-      "path": "_learning/videos/dhruvin-shah-customize-your-visual-headers-in-power-bi-desktop.md",
-      "title": "Customize your Visual Headers in Power BI Desktop",
-      "excerpt": "In this video we will talk about how we can easily change the formatting of the OOTB visualization header in Power BI desktop. We can change the background, border and icon colors of the OOTB visualization.   Also, we can show and hide the following icons from the visual header in Power BI Desktop. Drill",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/dhruvin-shah-customize-your-visual-headers-in-power-bi-desktop/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/dhruvin-shah-customize-your-visual-headers-in-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=KmsRgOsv54c",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KmsRgOsv54c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M30S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-03-25T04:50:52-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/KmsRgOsv54c/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
       "path": "_learning/videos/dhruvin-shah-develop-microsoft-teams-attendance-report-using-power-bi.md",
       "title": "Develop Microsoft Teams Attendance Report Using Power BI",
       "excerpt": "During this session, we will discuss how we can develop Power BI report for our Meeting Attendance.  This session is dedicated to the developers who wanted to know how we can develop Power BI report for Meeting attendance. What’s the logic is used to generate the report? I will explain each individual",
@@ -353,6 +322,36 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/39Yed6hnKOE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-small-multiples-in-power-bi.md",
+      "title": "Small Multiples in Power BI",
+      "excerpt": "Welcome to my new Power BI session on Small Multiples in Power BI. “Small Multiples”- a new feature rolled out during December 2020 Power BI Desktop Update. Small Multiples is available as a Preview feature at this moment. This is a very cool feature we can use with our stacked bar and column charts,",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/dhruvin-shah-small-multiples-in-power-bi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/dhruvin-shah-small-multiples-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=0LpN-K4eppo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0LpN-K4eppo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M29S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-12-16T22:37:37-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0LpN-K4eppo/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
