@@ -29,7 +29,7 @@
       "levels": [
         "Advanced"
       ],
-      "heat": 51,
+      "heat": 50,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/becoming-solution-architect-social.png",
@@ -71,7 +71,7 @@
       "levels": [
         "Advanced"
       ],
-      "heat": 50,
+      "heat": 51,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -121,8 +121,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-requirements/",
       "length": "PT23M",
       "ratings": {
-        "count": 330,
-        "average": 4.7484846
+        "count": 331,
+        "average": 4.7492447
       },
       "provider": {
         "name": "Microsoft Learn",
