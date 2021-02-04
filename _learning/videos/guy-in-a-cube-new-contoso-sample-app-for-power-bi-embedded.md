@@ -2,6 +2,7 @@
 title: "New Contoso Sample app for Power BI Embedded"
 excerpt: "There is a new Power BI Embedded sample application called Contoso Sales. The best part? The source code is available out on GitHub! Adam walks you through the sample application.  Contoso Sales Embedded Demo GitHub Repo https://github.com/microsoft/Power-BI-Embedded-Contoso-Sales-Demo  Contoso Sales"
 originalUrl: https://youtube.com/watch?v=lFu1JBPJM1c
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-new-contoso-sample-app-for-power-bi-embedded/
 type: video
 price: Free
 length: PT6M31S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "w51HPTpy6Th1Asz3cAe+r3NYSl6dTggOfg7e0NGrPxXjehEG/V1GvAJHvvsWxrBZU9AjMck8wgAe7l86KNiV10N8n3MbIszcUdNMi5hd7BLyfxaTzXxf672l0ioreKu+T9JgelC0gpKYFJHbiCZrWdEWx9MPXlEH7AGE5Dl0B3My7rJo57XmxsHRU9n9wzZ4fFo01w+RG9jcGvQR/qStyNtKIhGN+Xg6F48lQPZaHLvh3TCu+TfuCZNqmg6/xHge7ydvqWhoUhkySt913UwHIqdfOt1U6oj33YWaoD3X5HSZSfnu3zJXcEvsHV8Vz5v1/RzSX81fgPwAJ1+Xz8PSSLMWduL7TOEGCKvtg14fHl5Eu9DGIyoNfj7LDJz+XFRqfUuXH85YOcgB8O7SZ2owBg==;vLp/WFgoTROrS9+pWsd2Zg=="
+secured: "addb8OHstpqCpIQrP9Y8W01I5tbJe97EdXriawJKsWji5z1OciD1eee3dBGjxgYLYcVlPFmhD0vW3PmEr8gFuDuXz4dOCKbmRMSCwvwIP+lfeORuot1vgA5rFds555NOLl9xeTCyrf4gLT7K6G8joFfstmu2tJgA3jtP9+cBioc8Kdl6NQW6we5nNOb6NhWD0mg684913Y1rqromZlyQV9k3FCrjTZK3witM2E/Ud/LgIXCCU4i+XeYdMAgrA2o5h9ZXrmPJAF0egIu09aTdKkyhd1GWeQv9XjprI/esseL/Xu8wsSrtHuoHfOwu3GMjn61uoYXvFQvI7l0DDkjQOUOdRXeL7nBNXQMZZU03P3Z5uIHfSRb7ytzeYXJ6y2E22KGHTjLoBpgeCK8VCAgAlQ==;sbhhQRPwN+JHzVC/CuhDbQ=="
 ---
 
