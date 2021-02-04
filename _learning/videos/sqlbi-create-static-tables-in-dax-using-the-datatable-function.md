@@ -2,6 +2,7 @@
 title: "Create Static Tables in DAX Using the DATATABLE Function"
 excerpt: "The DATATABLE function can create static tables in a Power BI model specifying column names and data types. Article and download: https://sql.bi/27271/?aff=yt  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt"
 originalUrl: https://youtube.com/watch?v=4uVgoVCmdnc
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/sqlbi-create-static-tables-in-dax-using-the-datatable-function/
 type: video
 price: Free
 length: PT13M38S
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "yrKDVyGzlnSnoWiIWx+/jBzb7ZdwWkw5NDdGWfx/hP3KU8nVow6bWaHDZnK8rNbQ6jRov2ddKJ43NN9q44cOZM3II84lvph8OeXJMiv2/f4upBRTL6yJD/XKCyjIo4SASloHHQWFRP025+t7HNU5brsr0ODf7mg+Wx3x7duQ9wGakRakzAoLpMqbx2vBVuKK7ohzuaGVBtN2n9O5VZP7QIYBf4oDgRl+DG+wF1o86EEpE8y21SUMY6LV6/gIr6fS296PtYGhlNBmQdFNWesfrAEg6NNqwu0WlBglK6ZBkoBzc+7yj8b5A54722+qc9bgFuZPF8B3l0zzkS2mokrrWSvceRUHJCelezyNqREr1s7GHDW2lU56/lq+CeZbprnGxItWkMi9/J2P77hyK6L/OA==;o+L/Uk3qWVzQhe+PgbzzBg=="
+secured: "cLcTc6tCqoo5Hpw0cY3lUPPmNSH6DQRfshGS4U/nDdDcXm8JVJmGR7yvgW6+UJ5ACkjh+x209YBY3tAHHl2FL2BJS5t2pXeK5Uu0nbv7hTp0Q27bmwgKiODu9PaY1Rod4kqa1PIngkWoUp+jj27XEeM1hLUvP2ibf5EIEIkJxPbBhDpO1iEQrInAe8xIYIMfZHdFh5RpNFE9WC9USDW6sx2bYz3vrix/MCCTgTh0huIuiAA0S1WNXuSPR5kyf2S8YfPiNOSiPe1QBO2h7CAgavFkjtlIV+vClZdf7ksIvOO164CvusLtu8rSxsXrWQTaannIZg4aC+XzSNRqMS8yz5XqAwNt6gG0bB7NqlMukFs9boSVVfWjkMkUZ35SgdUs;j/3OQa1eFzrY6z0RA5OS+g=="
 ---
 
