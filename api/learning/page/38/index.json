@@ -4,15 +4,15 @@
   "page": 38,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-connect-power-apps-automate-virtual-agent-bi-with-common-data-service.md",
-      "title": "Connect to the Microsoft Dataverse through Microsoft Teams",
-      "excerpt": "Connect to the Microsoft Dataverse through Microsoft Teams",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-connect-power-apps-automate-virtual-agent-bi-with-common-data-service/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-power-apps-automate-virtual-agent-bi-with-common-data-service/",
-      "length": "PT15M",
+      "path": "_learning/courses/microsoft-learn-build-real-time-enterprise-analytics-solutions-with-azure-synapse-analytics.md",
+      "title": "Build real-time enterprise analytics solutions with Azure Synapse Analytics",
+      "excerpt": "Build real-time enterprise analytics solutions with Azure Synapse Analytics",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-build-real-time-enterprise-analytics-solutions-with-azure-synapse-analytics/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-real-time-enterprise-analytics-solutions/",
+      "length": "PT43M",
       "ratings": {
-        "count": 4,
-        "average": 4.75
+        "count": 1,
+        "average": 4.0
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -46,15 +46,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-continuous-data-export-from-iot-central.md",
-      "title": "Set up continuous data export from Azure IoT Central to a Power BI app",
-      "excerpt": "This module covers continuous data export from IoT Central. You use the scenario from your previously completed \"Create your first Azure IoT Central app\" Learn module, where you controlled a refrigerated truck. Here, in this module, you add continuous data export to both Azure Blob storage and an event hub. You then build a Power BI app to read and display the telemetry data on a mobile phone.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-continuous-data-export-from-iot-central/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/continuously-export-data-from-iot-central-power-bi/",
-      "length": "PT1H9M",
+      "path": "_learning/courses/microsoft-learn-connect-power-apps-automate-virtual-agent-bi-with-common-data-service.md",
+      "title": "Connect to the Microsoft Dataverse through Microsoft Teams",
+      "excerpt": "Connect to the Microsoft Dataverse through Microsoft Teams",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-connect-power-apps-automate-virtual-agent-bi-with-common-data-service/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-power-apps-automate-virtual-agent-bi-with-common-data-service/",
+      "length": "PT15M",
       "ratings": {
-        "count": 83,
-        "average": 4.554217
+        "count": 4,
+        "average": 4.75
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -74,7 +74,7 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/iot/continuous-data-export-from-iot-central-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -172,6 +172,40 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-discover-customer-needs.md",
+      "title": "Discover customer needs as a Solution Architect for Dynamics 365 and Power Platform",
+      "excerpt": "Learn how to ask customers questions about their business processes and feature requirements to create a viable solution.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-discover-customer-needs/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/discover-customer-needs/",
+      "length": "PT36M",
+      "ratings": {
+        "count": 508,
+        "average": 4.687008
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-enhance-your-business-intelligence-solutions-with-artificial-intelligence.md",
       "title": "Enhance your business intelligence solutions with artificial intelligence",
       "excerpt": "Enhance your business intelligence solutions with artificial intelligence",
@@ -254,40 +288,6 @@
       "topics": [
         "Power BI",
         "Dataflows"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-fit-gap-analysis.md",
-      "title": "Perform fit gap analysis",
-      "excerpt": "Learn about performing a fit gap analysis as a solution architect for Dynamics 365 and Microsoft Power Platform.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-fit-gap-analysis/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fit-gap-analysis/",
-      "length": "PT35M",
-      "ratings": {
-        "count": 467,
-        "average": 4.7430406
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
       ]
     },
     {
@@ -863,6 +863,48 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-workplace-analytics-teams-insights.md",
+      "title": "Measure Teams collaboration with the Teams insights dashboard in Workplace Analytics",
+      "excerpt": "Learn how to prepare and generate useful data using the Workplace Analytics Power BI Teams insights dashboard.  Analyze Microsoft Teams adoption trends from the populated reports.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-workplace-analytics-teams-insights/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/workplace-analytics-teams-insights/",
+      "length": "PT28M",
+      "ratings": {
+        "count": 43,
+        "average": 4.6511626
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-workplace-analytics-ways-working-action.md",
       "title": "Drive organizational change with Microsoft Workplace Analytics and MyAnalytics",
       "excerpt": "After using Microsoft Workplace Analytics and Power BI to generate insights about your employees’ work behaviors, you’ll learn about the Microsoft 365 features that can be tools to implement and measure the changes you’ve identified. You’ll learn how to initiate common change practices and what tools and tactics are the most useful.",
@@ -1129,37 +1171,6 @@
           "url": "https://i.ytimg.com/vi/ctT0UKMeTbs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/absent-data-channel-dax-switch-vs-if-functions-which-is-better.md",
-      "title": "DAX: SWITCH VS IF Functions -Which is Better?",
-      "excerpt": "Learn when and why you should use the SWITCH Function in DAX. Follow this easy to follow tutorial with to see the advantages of your the SWITCH function in Power BI.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/absent-data-channel-dax-switch-vs-if-functions-which-is-better/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/absent-data-channel-dax-switch-vs-if-functions-which-is-better/",
-      "originalUrl": "https://youtube.com/watch?v=iKZEtEn-Inc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iKZEtEn-Inc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M55S",
-      "provider": {
-        "name": "Absent Data Channel",
-        "domain": "absentdata.com"
-      },
-      "publishedDateTime": "2020-07-27T20:36:12-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/iKZEtEn-Inc/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
           "isCached": true
         }
       ],

@@ -4,548 +4,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_learning/collections/dhruvin-shah-power-bi-and-ms-teams-integration.md",
-      "title": "Power BI and MS Teams Integration",
-      "excerpt": "Welcome to Power BI and MS Teams Integration step by step series. ",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/collections/dhruvin-shah-power-bi-and-ms-teams-integration/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/collections/dhruvin-shah-power-bi-and-ms-teams-integration/",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "topItems": [
-        {
-          "path": "_learning/videos/dhruvin-shah-integrate-power-bi-report-to-ms-teams-using-power-bi-tab-power-bi-and-ms-teams-part-1.md",
-          "title": "Integrate Power BI Report to MS Teams Using Power BI Tab | Power BI and MS Teams | Part 1",
-          "excerpt": "Welcome to Power BI and MS Teams Integration step by step series. My self Dhruvin Shah and I have divided this entire session into three different parts.  Part 1: Integrate Power BI Report, Report from Apps and Paginated Report to MS Teams using Power BI Tab in MS Teams. https://youtu.be/67-jriuocxc",
-          "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/dhruvin-shah-integrate-power-bi-report-to-ms-teams-using-power-bi-tab-power-bi-and-ms-teams-part-1/index.json",
-          "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/dhruvin-shah-integrate-power-bi-report-to-ms-teams-using-power-bi-tab-power-bi-and-ms-teams-part-1/",
-          "originalUrl": "https://youtube.com/watch?v=67-jriuocxc",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/67-jriuocxc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT8M26S",
-          "provider": {
-            "name": "Dhruvin Shah",
-            "domain": "youtube.com"
-          },
-          "publishedDateTime": "2020-03-02T21:25:42-08:00",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/67-jriuocxc/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/videos/dhruvin-shah-permission-model-for-power-bi-report-while-integrating-with-ms-teams-power-bi-and-ms-teams-part-2.md",
-          "title": "Permission Model for Power BI report while Integrating with MS Teams | Power BI and MS Teams| Part 2",
-          "excerpt": "Welcome to Power BI and MS Teams Integration step by step series. My self Dhruvin Shah and I have divided this entire session into three different parts.  Part 1: Integrate Power BI Report, Report from Apps and Paginated Report to MS Teams using Power BI Tab in MS Teams. https://youtu.be/67-jriuocxc",
-          "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/dhruvin-shah-permission-model-for-power-bi-report-while-integrating-with-ms-teams-power-bi-and-ms-teams-part-2/index.json",
-          "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/dhruvin-shah-permission-model-for-power-bi-report-while-integrating-with-ms-teams-power-bi-and-ms-teams-part-2/",
-          "originalUrl": "https://youtube.com/watch?v=o_d-SKFsOqU",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/o_d-SKFsOqU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT5M48S",
-          "provider": {
-            "name": "Dhruvin Shah",
-            "domain": "youtube.com"
-          },
-          "publishedDateTime": "2020-03-02T21:44:40-08:00",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/o_d-SKFsOqU/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/videos/dhruvin-shah-involve-audience-to-make-the-collaborative-decision-faster-by-power-bi-and-teams-integration-part-3.md",
-          "title": "Involve Audience to make the collaborative decision faster by Power BI and Teams Integration |Part 3",
-          "excerpt": "Welcome to Power BI and MS Teams Integration step by step series. My self Dhruvin Shah and I have divided this entire session into three different parts.  Part 1: Integrate Power BI Report, Report from Apps and Paginated Report to MS Teams using Power BI Tab in MS Teams. https://youtu.be/67-jriuocxc",
-          "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/dhruvin-shah-involve-audience-to-make-the-collaborative-decision-faster-by-power-bi-and-teams-integration-part-3/index.json",
-          "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/dhruvin-shah-involve-audience-to-make-the-collaborative-decision-faster-by-power-bi-and-teams-integration-part-3/",
-          "originalUrl": "https://youtube.com/watch?v=aIjddIGiy08",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aIjddIGiy08\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT4M36S",
-          "provider": {
-            "name": "Dhruvin Shah",
-            "domain": "youtube.com"
-          },
-          "publishedDateTime": "2020-03-02T22:12:28-08:00",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/aIjddIGiy08/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/videos/dhruvin-shah-new-power-bi-experience-in-microsoft-teams.md",
-          "title": "New Power BI Experience in Microsoft Teams",
-          "excerpt": "During this session, we will be talking about the new Power BI experience in Microsoft Teams. During Ignite 2020, Microsoft announced a feature that, users can use Power BI Service from teams without leaving the context of Teams.   This feature is very useful for modern workspace users where we can use",
-          "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/dhruvin-shah-new-power-bi-experience-in-microsoft-teams/index.json",
-          "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/dhruvin-shah-new-power-bi-experience-in-microsoft-teams/",
-          "originalUrl": "https://youtube.com/watch?v=db-VftNq_58",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/db-VftNq_58\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT16M24S",
-          "provider": {
-            "name": "Dhruvin Shah",
-            "domain": "youtube.com"
-          },
-          "publishedDateTime": "2020-10-19T04:22:47-07:00",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/db-VftNq_58/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        }
-      ],
-      "size": 4,
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/67-jriuocxc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-architect-solutions-for-dynamics-365-and-power-platform.md",
-      "title": "Architect solutions for Dynamics 365 and Power Platform",
-      "excerpt": "A Solution Architect is responsible for the successful design, implementation, deployment, and adoption of an overall solution. A Solution Architect ensures that the solution meets the customer’s needs now and in the future. While the Solution Architect may not “click the buttons” during a deployment, they are ultimately responsible for the solution and work closely with the deployment team.\nThis learning path covers the pre-sales and analysis phases of a project to include:\n\nWhat it takes to become a Solution Architect.\nDiscovering customer needs.\nProposing a solution.\nWorking with requirements.\nPerforming fit-gap analysis.\n\nInstructor-led training (ILT) is scheduled for March 2020 that provides more hands-on activities and both this path and ILT are needed for the exam.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/collections/microsoft-learn-architect-solutions-for-dynamics-365-and-power-platform/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/collections/microsoft-learn-architect-solutions-for-dynamics-365-and-power-platform/",
-      "length": "PT3H57M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-becoming-solution-architect.md",
-          "title": "Becoming a solution architect for Dynamics 365 and Power Platform",
-          "excerpt": "Learn how to become a solution architect.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-becoming-solution-architect/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/becoming-solution-architect/",
-          "length": "PT1H43M",
-          "ratings": {
-            "count": 748,
-            "average": 4.7272725
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Advanced"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/becoming-solution-architect-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-discover-customer-needs.md",
-          "title": "Discover customer needs as a Solution Architect for Dynamics 365 and Power Platform",
-          "excerpt": "Learn how to ask customers questions about their business processes and feature requirements to create a viable solution.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-discover-customer-needs/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/discover-customer-needs/",
-          "length": "PT36M",
-          "ratings": {
-            "count": 508,
-            "average": 4.687008
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Advanced"
-          ],
-          "heat": 51,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-propose-solution.md",
-          "title": "Propose a solution as a Solution Architect for Power Platform and Dynamics 365",
-          "excerpt": "Learn how to propose a solution.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-propose-solution/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/propose-solution/",
-          "length": "PT40M",
-          "ratings": {
-            "count": 353,
-            "average": 4.674221
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Advanced"
-          ],
-          "heat": 50,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-work-with-requirements.md",
-          "title": "Work with requirements as a solution architect for Power Platform and Dynamics 365",
-          "excerpt": "It is important to capture the customer’s needs accurately. This module explains how to capture requirements and identify functional and non-functional items.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-work-with-requirements/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-requirements/",
-          "length": "PT23M",
-          "ratings": {
-            "count": 332,
-            "average": 4.75
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Advanced"
-          ],
-          "heat": 50,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        }
-      ],
-      "size": 5,
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/becoming-solution-architect-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-gain-insights-into-your-data-through-intelligent-tools-in-power-bi.md",
-      "title": "Gain insights into your data through intelligent tools in Power BI",
-      "excerpt": "Gain insights into your data through intelligent tools in Power BI",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/collections/microsoft-learn-gain-insights-into-your-data-through-intelligent-tools-in-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/collections/microsoft-learn-gain-insights-into-your-data-through-intelligent-tools-in-power-bi/",
-      "length": "PT3H28M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-deliver-decision-making-insights-with-power-bi.md",
-          "title": "Deliver decision-making insights with Power BI",
-          "excerpt": "Deliver decision-making insights with Power BI",
-          "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-deliver-decision-making-insights-with-power-bi/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deliver-decision-making-insights-with-power-bi/",
-          "length": "PT27M",
-          "ratings": {
-            "count": 4,
-            "average": 4.25
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-build-systems-of-insights-for-enterprise-scale-with-power-bi-azure.md",
-          "title": "Build systems of insights for enterprise scale with Power BI and Azure",
-          "excerpt": "Build systems of insights for enterprise scale with Power BI and Azure",
-          "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-build-systems-of-insights-for-enterprise-scale-with-power-bi-azure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-systems-of-insights-for-enterprise-scale-with-power-bi-azure/",
-          "length": "PT30M",
-          "ratings": {
-            "count": 5,
-            "average": 4.6
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-advance-power-bi-premium-for-enterprise-analytics-market-beyond.md",
-          "title": "Advance Power BI Premium for the enterprise analytics market and beyond",
-          "excerpt": "Advance Power BI Premium for the enterprise analytics market and beyond",
-          "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-advance-power-bi-premium-for-enterprise-analytics-market-beyond/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/advance-power-bi-premium-for-enterprise-analytics-market-beyond/",
-          "length": "PT24M",
-          "ratings": {
-            "count": 3,
-            "average": 5.0
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-gain-insights-into-usage-performance-of-your-power-bi-reports-to-increase-adopti.md",
-          "title": "Gain insights into usage and performance of your Power BI reports to increase adoption and reduce costs",
-          "excerpt": "Gain insights into usage and performance of your Power BI reports to increase adoption and reduce costs",
-          "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-gain-insights-into-usage-performance-of-your-power-bi-reports-to-increase-adopti/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/gain-insights-into-usage-performance-of-power-bi-reports-to-increase-adopti/",
-          "length": "PT24M",
-          "ratings": {
-            "count": 3,
-            "average": 4.6666665
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        }
-      ],
-      "size": 8,
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-prepare-to-teach-power-bi-paginated-reports-in-a-day.md",
       "title": "Prepare to teach: Power BI paginated reports in a day",
       "excerpt": "Prepare to teach: Power BI paginated reports in a day",
@@ -964,15 +422,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-data-driven-story-power-bi.md",
-      "title": "Create a data-driven story with Power BI reports",
-      "excerpt": "Power BI helps you create vibrant, highly useful reports that form a cohesive, data-driven story. You’ll learn how to use buttons, bookmarks, and other navigation techniques. Additionally, you’ll learn how to integrate Power BI reports with other applications. Power BI visuals can interact with each other, letting the user see exactly which data is appealing to them. You’ll also explore Power BI report themes to create a unified reporting experience across all reports.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-data-driven-story-power-bi/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
-      "length": "PT1H44M",
+      "path": "_learning/courses/microsoft-learn-create-paginated-reports-power-bi.md",
+      "title": "Create paginated reports  ",
+      "excerpt": "Paginated reports allow report developers to create Power BI artifacts that have tightly controlled rendering requirements. Paginated reports are ideal for creating sales invoices, receipts, purchase orders, and tabular data. This module will teach you how to create reports, add parameters, and work with tables and charts in paginated reports.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-create-paginated-reports-power-bi/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/",
+      "length": "PT60M",
       "ratings": {
-        "count": 944,
-        "average": 4.5963984
+        "count": 891,
+        "average": 4.698092
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -992,7 +450,49 @@
       "heat": 60,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/create-reports-with-power-bi-desktop-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/create-paginated-reports-power-bi-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-publish-share-power-bi.md",
+      "title": "Publish and share in Power BI",
+      "excerpt": "Publish and share your Power BI reports and dashboards to teammates in your organization or to everyone on the web.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-publish-share-power-bi/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-share-power-bi/",
+      "length": "PT1H4M",
+      "ratings": {
+        "count": 4058,
+        "average": 4.716363
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/publish-and-share-with-power-bi-desktop-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -1843,15 +1343,57 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-dax-power-bi-models.md",
-      "title": "Describe Power BI Desktop models",
-      "excerpt": "In this module, you'll learn about the Power BI Desktop model structure, star schema design basics, analytics queries, and report visual configuration. This module provides a strong foundation on which you can learn to optimize model designs and add model calculations.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-dax-power-bi-models/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-models/",
-      "length": "PT20M",
+      "path": "_learning/courses/microsoft-learn-build-simple-dashboard.md",
+      "title": "How to build a simple dashboard",
+      "excerpt": "How to build a simple dashboard",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-build-simple-dashboard/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-simple-dashboard/",
+      "length": "PT31M",
       "ratings": {
-        "count": 738,
-        "average": 4.7533875
+        "count": 2953,
+        "average": 4.693532
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 59,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/build-simple-dashboard-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-create-dashboards-power-bi.md",
+      "title": "Create dashboards in Power BI",
+      "excerpt": "Microsoft Power BI dashboards are different than Power BI reports. Dashboards allow report consumers to create a single artifact of directed data that is personalized just for them.  Dashboards can be comprised of pinned visuals that are taken from different reports. Where a Power BI report uses data from a single dataset, a Power BI dashboard can contain visuals from different datasets.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-create-dashboards-power-bi/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-dashboards-power-bi/",
+      "length": "PT1H8M",
+      "ratings": {
+        "count": 810,
+        "average": 4.6703706
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1871,7 +1413,7 @@
       "heat": 59,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/dax-power-bi-models-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/create-dashboards-power-bi-social.png",
           "width": 643,
           "height": 321,
           "isCached": true
@@ -1881,8 +1423,41 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "Power BI Desktop"
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-design-data-model-power-bi.md",
+      "title": "Clean, transform, and load data in Power BI",
+      "excerpt": "Learn how to clean, transform, and load data in Power BI.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-design-data-model-power-bi/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-data-model-power-bi/",
+      "length": "PT2H1M",
+      "ratings": {
+        "count": 85,
+        "average": 4.717647
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 59,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     }
   ],
