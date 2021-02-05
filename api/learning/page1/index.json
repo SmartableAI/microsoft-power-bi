@@ -102,7 +102,7 @@
         ]
       },
       "publishedDateTime": "2021-02-03T08:00:08-08:00",
-      "heat": 243,
+      "heat": 246,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/NA2wlqfjX34/maxresdefault.jpg",
@@ -146,6 +146,45 @@
       "price": "Free",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-195-53-dax-best-practices-.md",
+      "title": "DAX Fridays #195: 🔥 53 DAX Best Practices 🔥",
+      "excerpt": "In this video we are going to cover 53 (!) DAX / Power BI best practices.  Chapters: 00:00 Intro 00:40 DAX Functions best practices 03:00 Error prevention 04:00 Formatting 09:00 Maintenance 10:30 Naming conventions 11:45 Performance End!  Here you can download all the pbix files: https://curbal.com/donwload-center",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-dax-fridays-195-53-dax-best-practices-/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-195-53-dax-best-practices-/",
+      "originalUrl": "https://youtube.com/watch?v=UwXFgivmqfY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UwXFgivmqfY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M18S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-02-05T06:59:06-08:00",
+      "heat": 187,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UwXFgivmqfY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
       ]
     },
     {
@@ -209,7 +248,7 @@
         ]
       },
       "publishedDateTime": "2021-02-01T02:14:58-08:00",
-      "heat": 149,
+      "heat": 152,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/y3bOyNpJuXc/maxresdefault.jpg",
@@ -227,66 +266,69 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-dax-power-bi-add-calculated-tables.md",
-      "title": "Add calculated tables and columns to Power BI Desktop models",
-      "excerpt": "By the end of this module, you'll be able to add calculated tables and calculated columns to your data model. You'll also be able to describe row context, which is used to evaluated calculated column formulas. Because it's possible to add columns to a table using Power Query, you'll also learn when it's best to create calculated columns instead of Power Query computed columns.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-dax-power-bi-add-calculated-tables/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-calculated-tables/",
-      "length": "PT19M",
-      "ratings": {
-        "count": 353,
-        "average": 4.7677054
-      },
+      "path": "_learning/videos/guy-in-a-cube-blend-power-bi-datasets-with-excel-files-insane-amazing.md",
+      "title": "Blend Power BI datasets with Excel files? INSANE AMAZING!",
+      "excerpt": "The moment you've been waiting for! What Marco Russo calls the holy grail of BI. Tessa Hurr walks us through the new DirectQuery over Power BI datasets feature in the December 2020 release.  Connect with Tessa on Twitter: https://twitter.com/tessahurr  📢 Become a member: https://guyinacu.be/membership",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-blend-power-bi-datasets-with-excel-files-insane-amazing/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-blend-power-bi-datasets-with-excel-files-insane-amazing/",
+      "originalUrl": "https://youtube.com/watch?v=ZSyYegfA6PQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZSyYegfA6PQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M49S",
       "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 132,
+      "publishedDateTime": "2020-12-16T08:00:08-08:00",
+      "heat": 151,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/dax-power-bi-add-calculated-tables-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://i.ytimg.com/vi/ZSyYegfA6PQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
+      "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "Power BI Desktop"
+        "Power BI"
       ]
     },
     {
-      "path": "_learning/videos/radacad-time-series-anomaly-detection-in-power-bi-part-one.md",
-      "title": "Time series Anomaly Detection in Power BI (Part One)",
-      "excerpt": "In this short video, an overview of what is Anomaly detection works in a Line chart will be presented. to access  the data follow the below link https://bit.ly/32RBYP4",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-time-series-anomaly-detection-in-power-bi-part-one/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-time-series-anomaly-detection-in-power-bi-part-one/",
-      "originalUrl": "https://youtube.com/watch?v=Dstbrawsunk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Dstbrawsunk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M21S",
+      "path": "_learning/videos/sqlbi-formula-engine-and-storage-engine-in-dax.md",
+      "title": "Formula engine and storage engine in DAX",
+      "excerpt": "Understanding the differences between the formula engine and the storage engine is the first step to understand the performance metrics and optimize a DAX formula. Article and download: https://sql.bi/684038?aff=yt  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide to DAX:",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/sqlbi-formula-engine-and-storage-engine-in-dax/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/sqlbi-formula-engine-and-storage-engine-in-dax/",
+      "originalUrl": "https://youtube.com/watch?v=hc-x4DBv0V4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hc-x4DBv0V4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M50S",
       "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2020-11-16T13:26:43-08:00",
-      "heat": 131,
+      "publishedDateTime": "2020-11-09T11:30:16-08:00",
+      "heat": 135,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Dstbrawsunk/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/hc-x4DBv0V4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -296,7 +338,8 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI"
+        "Power BI",
+        "DAX"
       ]
     },
     {
@@ -321,7 +364,7 @@
         ]
       },
       "publishedDateTime": "2021-01-28T03:00:19-08:00",
-      "heat": 131,
+      "heat": 132,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/-x2dLTtKiR8/maxresdefault.jpg",
@@ -340,23 +383,23 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-quickly-create-power-bi-reports-in-power-bi-service.md",
-      "title": "Quickly create Power BI reports in Power BI Service",
-      "excerpt": "Welcome to my new Power BI session to demonstrate the new feature which is just been rolled out by Microsoft. Now, we can quickly create reports using the Power BI Service itself. We don’t need to open the Power BI Desktop for the same. This new feature is being rolled out from December 2020 Power BI",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/dhruvin-shah-quickly-create-power-bi-reports-in-power-bi-service/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/dhruvin-shah-quickly-create-power-bi-reports-in-power-bi-service/",
-      "originalUrl": "https://youtube.com/watch?v=9vAtJHVmCVI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9vAtJHVmCVI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M17S",
+      "path": "_learning/videos/learn-power-bi-talk-power-bi-live-qa-subscribe-join-november-27-2020.md",
+      "title": "🔴Talk Power BI LIVE Q&A (Subscribe & Join) November 27, 2020",
+      "excerpt": "✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask any Power BI question. 👉 To Learn More & Submit Your Questions Go To https://www.LearnPowerBI.com/talk 👉 Join the LearnPowerBI Family to Dial-In Using the 📞 Phone Line: https://www.LearnPowerBI.com/training  Hello,",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-talk-power-bi-live-qa-subscribe-join-november-27-2020/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-talk-power-bi-live-qa-subscribe-join-november-27-2020/",
+      "originalUrl": "https://youtube.com/watch?v=hlX0PAsG5XU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hlX0PAsG5XU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2H36M16S",
       "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2020-12-21T20:58:16-08:00",
+      "publishedDateTime": "2020-11-27T12:09:02-08:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/9vAtJHVmCVI/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/hlX0PAsG5XU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -366,8 +409,7 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "Power BI Service"
+        "Power BI"
       ]
     },
     {
@@ -564,7 +606,7 @@
             ]
           },
           "publishedDateTime": "2021-01-28T08:23:13-08:00",
-          "heat": 116,
+          "heat": 117,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/-ip7mKUdwRg/maxresdefault.jpg",
@@ -696,7 +738,7 @@
         ]
       },
       "publishedDateTime": "2021-01-28T08:23:13-08:00",
-      "heat": 116,
+      "heat": 117,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/-ip7mKUdwRg/maxresdefault.jpg",
@@ -819,8 +861,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 9307,
-            "average": 4.7834964
+            "count": 9315,
+            "average": 4.783575
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -861,8 +903,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 25942,
-            "average": 4.7497497
+            "count": 25948,
+            "average": 4.7498074
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -879,7 +921,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 109,
+          "heat": 108,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/get-started-power-bi-social.png",
@@ -897,7 +939,7 @@
         }
       ],
       "size": 2,
-      "heat": 109,
+      "heat": 108,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/data-analytics-and-microsoft-social.png",
@@ -921,8 +963,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 25942,
-        "average": 4.7497497
+        "count": 25948,
+        "average": 4.7498074
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -939,7 +981,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 109,
+      "heat": 108,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/get-started-power-bi-social.png",
@@ -963,8 +1005,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 9307,
-        "average": 4.7834964
+        "count": 9315,
+        "average": 4.783575
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1183,8 +1225,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 25942,
-            "average": 4.7497497
+            "count": 25948,
+            "average": 4.7498074
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1201,7 +1243,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 109,
+          "heat": 108,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/get-started-power-bi-social.png",
@@ -1225,8 +1267,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 15663,
-            "average": 4.705931
+            "count": 15669,
+            "average": 4.705916
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1268,8 +1310,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 6241,
-            "average": 4.7061367
+            "count": 6244,
+            "average": 4.7056375
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1310,8 +1352,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 4812,
-            "average": 4.75478
+            "count": 4816,
+            "average": 4.7549834
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1514,45 +1556,6 @@
       "price": "Free",
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-drilling-into-drillthrough-in-power-bi-desktop.md",
-      "title": "Drilling into drillthrough in Power BI Desktop",
-      "excerpt": "In this video, Patrick looks at how you can use the drillthrough feature within Power BI Desktop. He also looks at how you can drill to multiple fields at the same time. The back image can also be changed and Patrick shows you how to do it!  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com --",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-drilling-into-drillthrough-in-power-bi-desktop/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-drilling-into-drillthrough-in-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=2x9lLHDbtDk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2x9lLHDbtDk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M11S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-11-08T06:30:31-08:00",
-      "heat": 84,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2x9lLHDbtDk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
       ]
     }
   ],
