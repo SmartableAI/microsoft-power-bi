@@ -809,8 +809,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 659,
-            "average": 4.7420335
+            "count": 660,
+            "average": 4.7393937
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -893,8 +893,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 738,
-            "average": 4.7506776
+            "count": 739,
+            "average": 4.749662
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -953,8 +953,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-your-first-power-bi-report/",
       "length": "PT55M",
       "ratings": {
-        "count": 5665,
-        "average": 4.7684026
+        "count": 5666,
+        "average": 4.7684436
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -987,8 +987,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-analyze-dynamics-365-data/",
       "length": "PT57M",
       "ratings": {
-        "count": 2399,
-        "average": 4.7036266
+        "count": 2400,
+        "average": 4.702083
       },
       "provider": {
         "name": "Microsoft Learn",
