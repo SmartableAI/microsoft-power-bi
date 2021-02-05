@@ -2,6 +2,7 @@
 title: "Where do Business Leaders get Stuck when Adopting Power BI? 🔴Talk Power BI LIVE Q&A (Feb 5, 2021)"
 excerpt: "Business Leaders often become painfully aware that their business is stuck in the BI Stone Age. But find themselves facing tough obstacles when trying to change existing systems + processes and adopt new era of Power BI + Agile BI. In this discussion, we will examine the obstacles in their path and brainstorm"
 originalUrl: https://youtube.com/watch?v=QB9E754L6aA
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-where-do-business-leaders-get-stuck-when-adopting-power-bi-talk-power-bi-live-qa-feb-5-2021/
 type: video
 price: Free
 length: PT1H9M10S
@@ -23,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "wrF8MkWHYU5m3De2FZ1ezUXoGXoGd36OkLilSI5gCSF1pXJHKzYjUohK/hLuS7Ena1XMmHeRTj4iuyoaenbi7AuJk5F69SbfIFgM7QEwpLftFMZmQwlGVhOp+yByhUSyMYDr9PPzPOfx1jiTS/ha/5OX9PWROml+qKcALm94j+2TYUM27ALyNAJg53zcOKF0+mK4ZDE+pO7SrMgUACApDLUhnT9Id0EMLVCWT09L8Tbbl1mjk6GmGVUuV2iWykZXMdLO9dxwUirYlvaakdYEC6x5mLXWKKXsM1dLzNKurVPH78G4OrTytBm4AyqLYjDeYe0o7GeqvNNRZ85w/7HjEWrr9jrX2cmWfhc1PJoUt1FZlOMRBg4akVR2s8VBmEDmFl77adB4wxxW6AcVR5ZbNA==;udi3mgNOzzW5psmyt5E/fA=="
+secured: "uF3Yevxd3o2V6NI3WO5boPdEA4SVhMp2772LDdm/dxe3aX0VWLlewwkCPvwcNjjs0nhWUAuwwSUhF9A3yTPMEa45J+HeFQHNzaxnrg7rM4Z86GWFFiiCR5tE9eQns7zAOZeZExANHfU2RVzpgMGezYrB+HnjTSxXiifoJdyCtGlOf+7NEIcLAbGH0u4+wtIQH+/TGsItW1TqD/A/5MEnC6MXWvSReQpDcbgedV0pZVKSpiEcSzCbKpPMYH52iQsbxJzHDg1/DLbkm7sDeIdWlTKaGOWRTcS67y5XaShcArT1aEUULaxzfw07A7aiuUKjxrAJb8m5/16aQfpcIZPiMangUUYHC8S31IN2ERVxpnrfK1u9iCM+obisqfsLG9l0uR1bAOBnD2ra47IVh2dutQ==;aR1EjgoJn/GTZt7vxYrt9A=="
 ---
 
