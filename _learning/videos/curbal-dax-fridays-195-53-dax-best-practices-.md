@@ -2,6 +2,7 @@
 title: "DAX Fridays #195: 🔥 53 DAX Best Practices 🔥"
 excerpt: "In this video we are going to cover 53 (!) DAX / Power BI best practices.  Chapters: 00:00 Intro 00:40 DAX Functions best practices 03:00 Error prevention 04:00 Formatting 09:00 Maintenance 10:30 Naming conventions 11:45 Performance End!  Here you can download all the pbix files: https://curbal.com/donwload-center"
 originalUrl: https://youtube.com/watch?v=UwXFgivmqfY
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-195-53-dax-best-practices-/
 type: video
 price: Free
 length: PT19M18S
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "t8chjphU9TO1AiuLltTRRfUjB46WY+nnVutk3+rJwS/3nGn3iV3S0spttl3yIbEk3OCkyIKyzkFBcJ3ewhB9xpdodPTzz3V7uOXpPAYXb4McUEBPs1tFV6Us2pTW9hPurb6qE/JjpOpsJxT6ijzTl5tGwuwDetTq1lr5sVL+ZqiWUw6UwMJhvBcuIAh8oiPMxTchnW0PNBMEWX7r9HYei3QFVuq87HqCAVqWyjeZ7W5OEQSb0CKNxRbadSbNfFIWIe+doHS6CoqRi0BslxK49fa9Nd5me/zxaewpgVI2+C5d8Qr+cVPJbeoBvh+NisVR3lP6crKueCVqrzCeEWxRNP8x9G9NulZHHQI5JDsknRNYRwD8egnuTiL9ghEaJO3MEW9bonZkPBWMAskglK3mtw==;RbPXVBizA2JC9bQbB3vmaw=="
+secured: "EJMUUFm0JQlx8RaJ7MXsEFSj6gIF+IJCHOKL2TwTw8t4nYuh8F6r0sOBnPYtzdGeb2xVOSEWU7Ll7PA+DcOPrfgDQYH/sChPCYy46Xma0+gb72+9aWGfsSOw81fLA0ry3w2aPqmq5rtuDx2Uvc5n5kIdtaFxebKRILs+Co/Kj4GrhcnmfhsEGqxRGMjW00dnU1CmdC4C6/NvHYgcUIjC5lCFem9nRi9kj08hsxICQrsd7DYYTpiRfd0375KMMc8NsxZp7re6HJ5FJkhYJAr7hOmvPsZNxuC9XVfGy4iIb/y3f4egY/lqF58ua69KulpfvDQiq9Qy5dW53swHsbFhjp5CUWThTh2ghb4QKxTaQEbQzqbnGLtwIYSdNmOjZzdVnQqd6wQR/wvYGTGIZtyERg==;Qy1Dpc0KvdvmGWDpI0YVzg=="
 ---
 
