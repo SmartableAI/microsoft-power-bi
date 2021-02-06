@@ -1148,8 +1148,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 742,
-            "average": 4.750674
+            "count": 743,
+            "average": 4.7510095
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1292,8 +1292,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-power-bi/",
       "length": "PT53M",
       "ratings": {
-        "count": 4017,
-        "average": 4.722181
+        "count": 4018,
+        "average": 4.72225
       },
       "provider": {
         "name": "Microsoft Learn",
