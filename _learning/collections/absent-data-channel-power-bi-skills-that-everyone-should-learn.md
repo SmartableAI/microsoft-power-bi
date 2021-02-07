@@ -18,6 +18,7 @@ items:
   - videos/absent-data-channel-forecasting-in-power-bi
   - videos/absent-data-channel-power-bi-data-modelling-tutorial-1-star-schema
   - videos/absent-data-channel-5-dashboard-design-tips-important-concepts-for-data-visualization
+  - videos/absent-data-channel-cumulative-distribution-plot-in-power-bi
 
 topics:
   - Power BI
