@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/best-practice-rules-to-im
 webUrl: "https://powerbi.microsoft.com/en-us/blog/best-practice-rules-to-improve-your-models-performance/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:
