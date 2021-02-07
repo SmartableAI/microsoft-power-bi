@@ -372,7 +372,7 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 26022,
+            "count": 26030,
             "average": 4.749904
           },
           "provider": {
@@ -457,8 +457,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 6260,
-            "average": 4.705751
+            "count": 6261,
+            "average": 4.7057977
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1678,8 +1678,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 2820,
-            "average": 4.749645
+            "count": 2823,
+            "average": 4.749557
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1720,8 +1720,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 3025,
-            "average": 4.775868
+            "count": 3026,
+            "average": 4.775942
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1973,8 +1973,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 3025,
-        "average": 4.775868
+        "count": 3026,
+        "average": 4.775942
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2015,8 +2015,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/",
       "length": "PT31M",
       "ratings": {
-        "count": 6828,
-        "average": 4.7376976
+        "count": 6832,
+        "average": 4.7375584
       },
       "provider": {
         "name": "Microsoft Learn",
