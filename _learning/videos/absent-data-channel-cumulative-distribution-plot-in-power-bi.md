@@ -2,6 +2,7 @@
 title: "Cumulative Distribution Plot in Power BI"
 excerpt: "Learn how to create cumulative distribution plot which is a great alternative to a histogram. Histogram can lead to binning bias that will provide different distribution of the same data."
 originalUrl: https://youtube.com/watch?v=oyo8OwTMM38
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/absent-data-channel-cumulative-distribution-plot-in-power-bi/
 type: video
 price: Free
 length: PT8M12S
@@ -23,6 +24,6 @@ images:
     height: 360
     isCached: true
 
-secured: "om7FbnRjdXjVsY4CNB7gupwAf+hnukH0N9/2gOV13kAle1CDbB7w3/UhS6fYkuZD8IpUD21BHHmC0vWCrgwcApc4A0qXsntxpPtygcJdeT8Hmd6iqR3n273xTC2FJPO8/58xsLviXUa1SO8ytmGFM6AuFWJMpNGB5ZvpWrNv6t4auP/ZUlWPoF/jsi/XrHKwO3irkBIirhkTvYmvg+pLOlyiYIJWrDOUN0DDFfxVq8IcSjAQgw5pmOh30OmySMvsquFWSadJ1AKCJNI1RHQa8Nwe2KRdH/qhooPZOwgxDgN7rWZoMtyzth7RK85xGoK86zRAyayBRwYrs1VLGlZAxzTBpCUgJ2WNOSwIK4Zzw8lDNv5wbRsks3D9eYLiO1PMlKT1WJZERxpTPjIwZ4q5dg==;iXJWcRV+g8GL29mOOFjJdA=="
+secured: "BgY+E/a+ANROJ+WueXd/qj01s+LalYsHxn6xeMsffcyQA9ZfIFugm1mJFaHdRQMC4VlmnkyANanzF/3czTKbA1s98nHCVvLvJJyaRq2mKeO91TUZcVFwR1HDjxJgjhBl9mv1TE13+MoDFjCR10BU3jQ93MGqLQH8rscvvisxw9QGOvBAJpxWa8m4bp6Y4n57aBoE4Mvkg07nlfHcSw9qYLudAR4bHdPuFlXvX1HL7P2BNmoQ6+stSRVCB/f8Vn3f/1ju9qkiO5O0tJ2I5SlxwZfr5eOu9wfqPqojL3QedIflUcPuEk9lDGcJ56d1xXaDwJspMm83d7CAxbQjVNeFc+C0gdFyHg4ixnCIpraQwLLan3MC5xEuCx4daXxX9x/g;ROqJ7704HMO7y+0RkXa2nA=="
 ---
 
