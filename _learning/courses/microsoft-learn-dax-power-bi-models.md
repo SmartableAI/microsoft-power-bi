@@ -8,7 +8,7 @@ length: PT20M
 ratings:
   count: 742
   average: 4.754717
-heat: 55
+heat: 135
 
 provider:
   name: Microsoft Learn
