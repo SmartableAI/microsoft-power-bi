@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT5M17S
 publishedDateTime: 2016-07-26T14:52:10Z
-heat: 50
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/egP0GHSOUIM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "3 ways to embed Power BI"
 
-secured: "pTjaPz9DufARhqR5giaEhZbRaPGyg5/Du7U4fX8YPBHmpNNZT+mhD8the7SMj+lqDN1j2FBlX4RNa7M06MfZOy5edNZZkaXPeUSLvvooj/Z1ZrPgwRZUIIkyOoXdz9JX1e7nY3xfAqwE+GA85IuBVVjQDQ2q9LBG6WJIdHH08u1yUGKKVwh2J856zPEadbqjWaCUjy0KqCFE6niN9XtJcjGcSPzSHl3I4bOptxkwGhYrqOJ/oB8NKAmOansUvY9ugWULt0pBDvh7hXl0OA2V2ebhT9LEt/FHXdTtrYtXnq4sfdMR6F0Ivl1GH/3l0Q+pPsTUfI/YGruLrvPy4M9eizKjVgHsVEdb5133gH1loX+do5/KSC5I9oaovO1+QyKQtKA+J1+XGwyFgreRFXjw7Yt4IogwGHxYGxfE9ga040DMO/O+RTIyNU5t7V2/yL8p;Ha6iA7OWrE5YgWyTKsF12w=="
+secured: "4d18KP4QOE5cj6Di3cBrjyjECYLtQl/OAscyhxsINW1+evUWtLFeKJjnx1m1PyXzRXD91Uiy6mxbJ3VvgJt/inprn2RX3ixVVNT6et0Ydijf0+pevucGBDTFNVeAtyg150sMyu8XniJnexOP1P5+8rAX77cAiI9PmcMXL/KkAxMhE9NKnc7sP1isY1RTYN7UWNqPeJodlAFVIKNCTsIVOJfoqHKPsZEeRQIDvgGOwiBjSTtlGntCkRHiqVpeRFaTGbE/W2k+TGeGvYikq2zxHWy/mieXXECKCVHRYLfNMHxFlouFN24W+4Zb/w9Nmp+oQ6eIry+AbUQZvU9vDLLFXSaO6eym8wSGOfT2v0MXfpefb2GvWI9pfSJtuCichZ10ZDyaq851nAHoPVZsEeQeZsCda13u4Yh1CqlQW4Xl/O9+SwhtiyQ52UVopxbFD8Cg;hj6DY3Agbrern+Hf05HAmg=="
 ---
 
