@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT1H59M30S
 publishedDateTime: 2021-01-29T19:04:58Z
-heat: 82
+heat: 80
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/I6SC2lrLJ1g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
