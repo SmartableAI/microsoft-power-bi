@@ -2,6 +2,7 @@
 title: "How to translate Power BI reports (or any text) Live"
 excerpt: "Have you ever had the need to work with a Power BI file in a different language that those you know? Or travelled somewhere where you couldnt speak the language?  In today's video, I will show you how to translate any text live. No more language barriers :)  Here you can download all the pbix files:"
 originalUrl: https://youtube.com/watch?v=takLaQs5VCE
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/curbal-how-to-translate-power-bi-reports-or-any-text-live/
 type: video
 price: Free
 length: PT2M48S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "3mlD9Z/JHrrgg+YEEiqZbB3eiu9roXiiBkWNMxsyN6NVcV6GmQa2bt4x994VcOe0cUaeAP9i6DybP76BRnFiU72HTrrC9a0NYJw5QwMRV/Tp1sFdtX2b9hJaVaQxBnekJtNNuQdTRt/RueOBZFeV85SHz3nKHdtp2qZ5WTiT5FWNo6OCkh0q5KlbRPI6ttgkcAlIru6csaZKDqjklrkkUqThOTfrZVhFlADhtR7FW7+4yvZ6iokBFaBLsLN37pfCo4CuA3oLPgUrzJWE1xnGa/vh9DheIFXLwMKs46GVspbBf5TcT3T3qPldkftcEuuQIxacDoki2TyQ1Tai1lQwyV/8YPXAonk9kcc0vvakpfS/lVHv166b9BzuSKMXbMQFSlcOL/6r8QHjN3WJalNmQg==;cbVebZzm3MnC+jqbZKSNpg=="
+secured: "09kutWYXI2OUlIIWBmPGgBJSocx7rhVO4h3zNGHKqTSqDIrl0txwplZtlG+gbcqZvP+/H+sd6BklsNr57sFtYvrEUUZ/JpZSFw7pGj2ipuVEioDo5qnXaiPfx9MPdQH3GcD9FhxT9LRtWyPKhUZiskVQ5EAM3EmzEH+ce+mUMM0PATbDJtSjnX5JgEguR6BnUHWgWQbt4uHFkrgx4TtoTApE2bmsDsum4Ctlli6X2OPP2aMvkWBOhG8KyO4wcjBGY2fu/6wrMHT4z9GtNPyZhN7Hki83lPXlAQwffOb1DEZZEVBr1c0c3Fx9AMkAC62G0rLh2JE/VETQInyrOXRqIPptmoesIlhg0beWTzJh1TIYH+N0DFmXHTu/3lnE1B6I;Ac8h1EPjlU2iwBIrsfz8sA=="
 ---
 
