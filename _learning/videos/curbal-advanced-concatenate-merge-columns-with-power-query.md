@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT6M25S
 publishedDateTime: 2021-01-05T12:52:07Z
-heat: 55
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/87cfpXCeqtE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "vR8bZU8/YQqMFPphmBYceSWdHS1D8FAxDrEuOUgHVa+87Hp1e7OY/uNAtVz3zVws885RZ3+bRJCxGnRxHQtznbRgcVCNxgEH5L2I5fI+9ta+WACywM1v7Te1jbpZ5WMAJgAzKJmKlk2YX0Hz1sd8VJlYujjEm6o4Bq3vgriwzZpq7O6MDS0IC1L6WWMR2k2FagyZMn1NWikwchE+mY7RbnqDpMqjV9CSxHFbCm8Kqcke2jTzKlU68jr2oH39N6ldvqeu8T/qOOPF5Ne9/gD7kmgRlAlBHfmhKbSEwh18Z37CjhmWDazQ7XPXtMcLmZ/14Tz7c05fVaXY6lmgiSQ3rh2QTDY4rZN9NZ6OKatF2sisVEwe/DeF7bLVcpXlRcUEsbLeREZ8cxFZ2XA9O7DGEC+8tFt2h69BPFbbAuxZMIE=;wKELn1Y+uM/f3LXqXd7a1g=="
+secured: "RVMY+UwvTH/Sserd+LJWU+8aqfYCh8FpbNTE75CKrSC5z2zfVB1QRqg12DLxS7PitaRu2pejZMBYcN7H/TPr/vwNTq5Y3ttuV2XOi5m7VWS1OK9m93v5869BtGkLVL+B+BZemgZM5bLLnTQs0ou71mm7nDE4YQKxv8rLNo+gAdKPdXMNJk0bV3+LxFEsT9Av2cMosesAjNL8xScX3r4us2QsdzkZjujmz7vOwd2nYi9UgMNRZINBa/sC4PVG5w5whhVjUoN/OF9nysCDvS1F0fmpiWCOayCYyzw9oqyeoxR7QvCa31C98QY4MPu3dDVW3YvAZgrFaB16Di2alFFflXUVZdS1BRe2lgqUma8PCOJ4OnygwiL1ZqVQZOk6EUPIvMyomWcsPIAU5s3HbpANvWd/wFjfVj27o1FoovImwoE=;asTl/AONAlUtxlj1CZAb8Q=="
 ---
 
