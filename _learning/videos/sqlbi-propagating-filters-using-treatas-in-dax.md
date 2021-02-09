@@ -2,6 +2,7 @@
 title: "Propagating filters using TREATAS in DAX"
 excerpt: "How to create a virtual relationship in DAX using the TREATAS function. Article and download: https://sql.bi/41311/?aff=yt  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt"
 originalUrl: https://youtube.com/watch?v=6WU7Ze32Q3w
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/sqlbi-propagating-filters-using-treatas-in-dax/
 type: video
 price: Free
 length: PT19M18S
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "7fthzVHabbmd3HqMcloetaGHLEWtqLdlFBS2uWxoSNGESTIy5il8GF+kt+D2o9aJpFk+9Y8Q+gT8jIrZGVoTtwaNykAw3v+D7iY9Mp4JgaFIYgX2JjR9ZSoEweEWr6+zD5Zmnfhl2kK7sKV+vfn794gbghTcRq61XCXctCfoprllsYgm6ZwDJUyf4xvrPmGnvnrweaInWZvazlIDcjjcGuotMkDeDRYi4v5/bffzOT3okBLS/zShfdZRgwZf2nbX/ZGISp1gs1g0KtPaRtFMCt8LfxL+Oq/9VU53MKirYIPVgThUGhfScBT55eUC0i6Qevay/8DVIBZst6/KaX03JDgW+NT53Kq+HOnRkLniY3RFK/wXxNSAjJo7DXD04VEKoonCIAUuPzydfmt1rxPXYg==;FI0NizHiWhYf7T19BB7Faw=="
+secured: "oelxsKJllaKNQ20TEcmgo6ZI2i0JIYgodD3VRdN9XtCOEtp7p5aJiqIJridOCgZVg1Ouxiax4pQmfj7yBYHCZ2yMC0L7CfbgYGXT73q36vGg9RCFk0kswjeiTmLdpVXzi89WoaWvhmHgIeLxCayA1Pyf7DW0uocJ5JL5W39Dqkhz62PRfEuCG472djs3JB4Bh3Xv8BHmTtLJwLm5oOIcO+I9+NsFVERr1iYHRsx+CKHuO/E7kd5SRlMa6+0t9uy5Jb0oWeLGbKQcoJWGQtWJRMKU00PqG9dN5qdyf8FX3UNc9q5F6M5YKLyyBOQgDcVYfsD/sUgU35nOzak8JGqnhA0ubxt+5F9gS40K9Kkvb+MnW+ETaCBp2zhEw2zE7WOr;ZcO0+bfANLPTsdlIVKGQYw=="
 ---
 
