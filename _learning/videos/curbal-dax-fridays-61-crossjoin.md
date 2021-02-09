@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT6M9S
 publishedDateTime: 2017-12-01T14:02:13Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2laBGpCdc4g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "iQ1FmXhcO3ESCjwFnnNeRwbEyXQi8vpu1Hzo7+ICZ3zqOWmVwpSZWQX3fL/IExF59o5WfYGLFFM2tkhfQjBAuvW5el0jSygcK3tqzNIe6sBWuecXSMmpwMPKDSfxB4fHs1uAEtUEvBv2Bg3TuIktiEb2682DzO53AqURzwGhs16iIbHk0dO85U7RYQl8qpnPINDl6L7+eZNq8IO2+RRRHQsKI8UkTk/xA5hPadHlBlQ77GcYTB0/qGLxRf6tsfAGC5nIDgTSRW71P8SF0SKN8qrZS43jttQd5w+b6Qkm+CUdWDdKnnXGaX0dOSr3OtGJbnSH/RGhdExipJemQO/oyXXZZCjjx2T4nXL3t9yQwq7G/dIuPtKcr8UI4648NrSroBksSZ0rFHs8uGJS+3CkIu9+lRxBcDutWPyqjZYAaUs=;2rrW9AuWVKYGWW+NDYJEMA=="
+secured: "HzU0UklW9HQTio2PjM7nBv4hCmrT2frK+u1mF3QguOk/RvA3sYImYyar1dTr9Cb1KuF6xt/t4IbUBRBV1z4OhO1QV1ddDOLdrRo59Ll2w2PmBbqVee4ww4LSEBU2YmZiG+EHyx9qp028fC6QOLw5a44lWDXrSaaTo+KPhRpw5zmKtj1EVM6IlhMn3hg0XR8kgkv6Syrgnpzi4nE4mZ/q8cpW0Hc3Dqj9bNr2v8vvLD8OdM6pqiYD3sSSKsK6o6+WiN1d8sST5Lbc6WBn9oKYXH0JCqXFm/lf3Ff7YxE+0gF+EtoRd1NpAKhrOi0k0FlMkxzg5IWX5LsuOZPCUIKVNew7a9zp3m9kEciN7zvQPbjRmZX4DGRF7JpXshsrjwEB7rPA1AgxbxXXTqwJT3wgaurfpPVfb69ZKNTLIljj2+Y=;aUJ17VHfrqF5WcQTMOIjCg=="
 ---
 
