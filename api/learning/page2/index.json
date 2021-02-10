@@ -218,8 +218,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 26174,
-            "average": 4.7497897
+            "count": 26178,
+            "average": 4.749828
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -260,8 +260,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 15744,
-            "average": 4.7061105
+            "count": 15746,
+            "average": 4.7061477
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -303,8 +303,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 6285,
-            "average": 4.7058077
+            "count": 6286,
+            "average": 4.7058544
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -900,8 +900,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/",
       "length": "PT31M",
       "ratings": {
-        "count": 6893,
-        "average": 4.73727
+        "count": 6894,
+        "average": 4.737308
       },
       "provider": {
         "name": "Microsoft Learn",
