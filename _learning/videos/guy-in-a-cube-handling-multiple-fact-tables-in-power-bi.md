@@ -2,6 +2,7 @@
 title: "Handling MULTIPLE fact tables in Power BI"
 excerpt: "You've got multiple fact tables in your Power BI dataset. And, dimension tables for each. Struggling to slice and dice across both? Patrick shows you how to deal with this mess.  Understand star schema and the importance for Power BI https://docs.microsoft.com/power-bi/guidance/star-schema  📢 Become"
 originalUrl: https://youtube.com/watch?v=TnyRsO4NJPc
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-handling-multiple-fact-tables-in-power-bi/
 type: video
 price: Free
 length: PT9M2S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "pNxDNQjxkujHi5A+CbWgySeXI2BTU6euSxDy+Eqz+HzqDqQ0g5irsUHYytWrVRKl3vp45sisaK84lCx2t9u/K8zT9pRmKwfiFzR3WmG1cA34kK3hIg3vUxP+yXxAOBbkiZvhPCsmsjEbiAjz2nky9QOwG12uwdFs5owLpPLfgqsb+t/myqzuLVHWZnoLTGmsmS8LYEQWyGMnCcOWl0mX67KuMKEzMzkG0mLmWGu9A1AJH0UFPOq/VhFuHGEkiUsSRQ35CndHbyPCwLbvxmddX/PPDN/Jq9R3SyIDOruIXlJpKBKCKB5T7N/0t3fdJHeHXymd/7cbXJp9EiYIZp4w8lnn2vRjL3/1lLZE8elORzXilJVHGT4oKnrzFUX0OH+WkAX3aZkKK03RijrJT0GTXw==;Xz1DNxmi7o/E/y6FuhpvoQ=="
+secured: "tM9qtBTSLcNimE1DHMfbZ1M4NzaZRVWcIAMzg60pnnXpYpqgQXA2u26v48fb8RX/05EqpdBZeHNUKnJg6fAnc/CVRM3Bqrh6Awy52LMn8X0NMvtPn+G0ZNvMOXokof6Kre5/hZ6+jADpEkDKaEZ/l/SSrZyboHhKd/sE+Yd6XoFNVtx60+vrFgbqJm+UNZnlFm4UmfAFAyMMKTS/bDVPpl6Mzo181NFjwYp8l/fHyZCw4V6g9O+JmVVJVs5QL98JjKNh5yiMYBJaMrmrZOWTaNLjeUOcRP0tyGJ+dlDFIb+nxzBJ6fmBIIEPqFncGqLiqX9iLXi5qLi/q8uN+YmDEj1aksINrF35FRLDu+D0Ung2PhMuqA7PKsiUcGsLF5aJE7hBfQFpv4FGGg8TmPc3fA==;iSDqVcs1GXv+FFrbcjuqcA=="
 ---
 
