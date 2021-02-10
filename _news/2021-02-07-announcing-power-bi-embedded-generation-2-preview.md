@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-embed
 webUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-embedded-generation-2-preview/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
