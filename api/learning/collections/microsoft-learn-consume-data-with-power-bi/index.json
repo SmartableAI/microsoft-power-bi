@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 7984,
-        "average": 4.671343
+        "count": 7985,
+        "average": 4.671384
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +29,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 58,
+      "heat": 62,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -45,8 +45,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
       "length": "PT60M",
       "ratings": {
-        "count": 6095,
-        "average": 4.697293
+        "count": 6097,
+        "average": 4.697228
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -63,7 +63,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 57,
+      "heat": 62,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/analyze-explore-data-power-bi-social.png",
