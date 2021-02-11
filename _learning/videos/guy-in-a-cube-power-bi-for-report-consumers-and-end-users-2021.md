@@ -2,6 +2,7 @@
 title: "Power BI for report consumers and end users (2021)"
 excerpt: "In this video, we look at Power BI for report consumers, or end users. Those folks that maybe don't author reports, but just view reports within Power BI. We introduce some basic Power BI concepts and introduce you to areas of the Power BI service to get you familiar with the portal.  📢 Become a member:"
 originalUrl: https://youtube.com/watch?v=cZsQj1WFkGE
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-power-bi-for-report-consumers-and-end-users-2021/
 type: video
 price: Free
 length: PT6M16S
@@ -27,6 +28,6 @@ images:
     height: 360
     isCached: true
 
-secured: "KryV0Uq55i5x697hkU+ptHTpuPjhSta4clVwWSDg/pn2gZ1bDTzb2Dz9THNcgmJFQRUyT9VDiKXgo1BIVgmXTSCfVdwe6nL09kkl1Q0iQ8Qjsvufhx/bJErolGPBdoaQiMJCon4sZ7oYiFkhwC8+q7kGY61cFPyzE0U1k29NJ/8xa2DxfAvZV1a0fU+AKbvTiWSilzH4Q2g+9/aj2JtqlRu7KPu5qoiOe9jRGb4j5iSfAVHjHCHoEaLnuWuZ0oZ51+KuuUrTFKwhe6/UuSfJFAUf+tm7275JvjxUPaT4ZE5qUEGdk2XaZpUf7KnuZwoqfRaook9PB770Z1IrNqTf4q+gWeZti1mSN/8jBvvocGy4rXHVweAYoV8JvSWlB9hkMd+yZpDLzBGQswZ4JkE9qg==;1/U+jP3UJyIIXoDjBEd7Hg=="
+secured: "eBWZhzCj5S7+rvN1B2oxFadrBfWv4nLWoyNyO36AC2yY7UhphVNffbF5AX0bZFD7mRNh7PUW66nkYvUXFO6lU56hKF7oqqQDwfy9uYBzsV8T9gkepSr2taevOza3EPoiAAlPc4j9oeJxKTBMnMrDzgRxgY3/r53FYduq7p4L2rNQ8/djvVu+UaY8sAmaNZuKn/Pp2F0bhsYy6oyHw+wKRDlyqJ5O9VVek2OgKjA90TodPwWhEqiTpKivdxgLpqjWiCaYwxjXTLt3kFzbCTJdZ38pOyGBO5qeLul5WGVxd5fOd2NKPr9ziWOpRvA1yuv+YSf+sXfyyobKdberO9akAQNOWW+tfox4NhygDX1LnP/KmB7qbSLgonsIESRZaEv/;bc0fj2RwoAy1pgqGP7HtSw=="
 ---
 
