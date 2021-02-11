@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT5M48S
 publishedDateTime: 2017-10-11T14:35:05Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aXrvFfg_iSk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Create Power BI Embedded capacity in Microsoft Azure"
 
-secured: "jE0yWcVcQ+EyZgKbSvFeOgtrGMJk5nOL8Ycf/0SPPbROuhZBdku0yL53U2E7UL1bdbrVe5teQmQvBD6aIpMCPERNcvtvOrztNp+W90ugWrcxGga1IU/YVsqTTcsKjbVs5uQXREifFyTVXfWX7BD+CZIJHPQXYKaf0Oxse4uZi3jQvUt8+jHja3gl0je8jARz2nVI/JWxlJ/iZWEZR0ogdmiHRKQ9p8FtcRglAt8u2H++x8oRbNKyuXMJA5xmr7esBw90ZkftLN1WvYoTlSJuetg+g9UJFDdd3xYhBNY2wbnldtG5UbhV5LsCpvJsqPT11TtXRHqjww/8vJgpyoBfif5ETHxepiDzQZofk2xChBXkhD4tBcWBsg5zMzCxwoPcni/uPvHsta2pGdGFCRkU4CWYLqg8bqoKRJGXHK6GlwU=;WK3bjw/uyKwitTfElLF0aA=="
+secured: "6oPdz1jluhaeRLIyRugXUOs2liF5VsMJ2y8+obkoOyOqvCRb8TOCgFerl/jRWw31Dp8rXvKEJq/BYflxbms40cCBQefFJ01L719SwvLaoOi4zz4rERobUfz+HTEHnDFV9qvZYMw4ZvKKdD7hXBE+UUKScQUMWRT7OkfnlFgPqnTVA3t+am2zg8vSwWc64CmJwn7I/xPtUBJSIrk9F0eecHLxkMkhdj0Lbgy07+afZWXxXFH39eOB15wDDhmCna71y/ZPAS4mUs+HW9OUAaf5O9yXgij74nVbulTmHCFYnIVz10FwmTYemSn1IQVzZ+AMOOem5LzyyGQr+0pODl8E0wMZwGJet7TOShSAKHvQXNu3BpXW8yEjLz2A8xAoqUDdqNjh/dqchOlUt/i3AGQfYM+HWtrPp5GVPsTnFxau16s=;gDOWBbgkeLX+MEY1nCF8AA=="
 ---
 
