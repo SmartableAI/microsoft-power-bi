@@ -72,7 +72,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 131,
+      "heat": 51,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/dax-power-bi-write-formulas-social.png",
@@ -272,8 +272,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-time-intelligence/",
       "length": "PT19M",
       "ratings": {
-        "count": 298,
-        "average": 4.7416105
+        "count": 299,
+        "average": 4.742475
       },
       "provider": {
         "name": "Microsoft Learn",
