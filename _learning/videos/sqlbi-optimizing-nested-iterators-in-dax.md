@@ -2,6 +2,7 @@
 title: "Optimizing nested iterators in DAX"
 excerpt: "Possible optimization approaches to improve the performance of nested iterators in DAX. Article and download: https://sql.bi/70755/?aff=yt  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt"
 originalUrl: https://youtube.com/watch?v=UtDP8KnWXy8
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/sqlbi-optimizing-nested-iterators-in-dax/
 type: video
 price: Free
 length: PT17M31S
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "+k8oswts3SaW5C9Wr6DtpTozkj/fomFmyKeIMnKKzv97zuvhOlEkODd1iL3O6td5mBbG9MHSPElQ3lJQFEsrvKd9ewlhoMMN8SSYERIoTvt2yhfSM5Kb6K/BzKOGmTgFJrMAWle+4CteM1SbNQORzW8dmC3VTNXDDa0cmyZdb59SPRig5iwQIX2qZD6RqxZhn7PLOja867I9TL+RuKG1jZ3OYzLCwDJfG/Mf+MmRo1vB/c1/7bp6wVpyRXIF/4/kuKR7X0U2eDVcorTtwYUVqW2dFqpHdr8Yt5+PWsXNUFJnFj5KTKnTt74IJijPpL8ke0z3ukgc1qDzAhk40jMS5j/FOq5ZM0adv4ufKb5Fg7deHpol5E+OwxDslI+dPEyxy18j2dsupHbNDv5I+MtCMw==;/CuOEkn0BfmVDzImSUKS5w=="
+secured: "RcpiCLisUYBZHu47LahcaYSBDNi8CI91v+aHBderxPlk7RKD1ApSjJJ+N5LX+2nf36o/y0snPM4awYLjxvJhy4gwQDicH6vZknU+WS9aDcKH+GGGU1zJVZJO+lW/Ab9Gqy15AtMDPVzqixHRDwecJsm8BnciLMr/2KrtAFDWsG/aq3lHs1blojgy7BQIjKzCYNJpRfzuuDIPfVEsSgj9FiWJKNOoyY6YcqyU68wSlwflX+ghzQ/RrdGIf+1hg+Mda5E2Hsw7P/4eud562v2udygEE9ECXAxDflZBzPXiFOFxwZ0zqnIIqwrc6s14ElTWHDfiIkvV+Ef2YruzbjG8M4Tfr4qAtqO87qTvFP8frJwvnEZksehV88MmuENC/fLj;w5ql5XW5SD+cFB/ugiOniw=="
 ---
 
