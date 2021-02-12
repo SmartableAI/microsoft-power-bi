@@ -223,6 +223,7 @@ items:
   - videos/curbal-dax-fridays-193-why-is-dax-so-difficult-to-learn
   - videos/curbal-dax-fridays-194-covid-tracker-part2-modeling-and-getting-the-last-value-of-an-accumulated-list
   - videos/curbal-dax-fridays-195-53-dax-best-practices-
+  - videos/curbal-dax-fridays-196-dynamic-pricing-with-dax
 
 topics:
   - Power BI
