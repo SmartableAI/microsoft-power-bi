@@ -2,6 +2,7 @@
 title: "DAX Fridays #196: Dynamic pricing with DAX"
 excerpt: "In today's video I will show you how to manage dynamic pricing in DAX. There is a catch though, can spot it?  How to do it in power query: https://www.youtube.com/watch?v=y3bOyNpJuXc  Download the file at curbal.com - Resources - Download center - DAX fridays - File 196.  Here you can download all the"
 originalUrl: https://youtube.com/watch?v=NAyqGFpIdLE
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-196-dynamic-pricing-with-dax/
 type: video
 price: Free
 length: PT8M9S
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "AoeBEjCS18z5YSluj7ElzUz36hP+6HwCi/4jTdhrN5OfFBunW8VuA0vPfbsnMraxUvdUfZ8sQIfAm5OHCI9Bk1wv3NvGzkyJhgC3yClKCIX8tBGkx5Fyh+rczrSS+iyQny17jgRg84pAlir0Owr63kMLolvZE6dRYboSc10ToM3sztMcVCRmlu+ME/RF7cfGVgEmnGe7MVM6K6a17w203LSG2WAs0gIToP6gR65IQtuhKGPG56M5eV/BRx18d418w8WVFXiZPnIZrZ7/B1rehyWh3CApgdOlgBa5VfZ1DIvhtfcQCr0e18xa9/Ln91IfWrHdBym08VIvdVKp8u/sqc49DO0Men+Gzpb1PisYpRBELP3RoN4mH4LCuKlc5zmRpqLFHKbYdTRVrvapyKZTFg==;0yi9vMkZ4IWfnjDhVm08Lw=="
+secured: "B566dP6lSm42V7DGd+UOlAvVAdggizsYfM7H7TJdXVFRZAic587nGkxOCB251OUO4oR/4htH2weU6L9hgU7YdtxzII3pa2xmVp4l4oyS7pliy8mZpJXI6dsgt9Zo5nSKLcdBg0hO1m5Z9x/lN/2Y9UExF64WFPnMKGflAEUbEgUQ8m6H3cs4jrk5KnAYPK2rDa84Izfh2M1guLOBFRdhq92uup6CVuPIMwKz/N6Un8llTM/hKb6aC0K3Hymhb/3doo5W3IusDv1ka7jSFon1CzR8v5PGHTlUPKYYNzvmxWUIGvBFUNM/H5VrIsNU2l0G3KB6Geq7T5Sld8lJ267+F7PKH/wucDxs0G0MluuAvOA/5joKSsmP1I3XLVsHJSVS;BFten2o6PZchSOkhtkG1Sw=="
 ---
 
