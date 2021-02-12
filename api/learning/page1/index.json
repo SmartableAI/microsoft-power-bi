@@ -63,7 +63,7 @@
         ]
       },
       "publishedDateTime": "2021-02-11T08:00:28-08:00",
-      "heat": 287,
+      "heat": 289,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/cZsQj1WFkGE/hqdefault.jpg",
@@ -226,31 +226,31 @@
       ]
     },
     {
-      "path": "_learning/videos/sqlbi-bidirectional-relationships-and-ambiguity.md",
-      "title": "Bidirectional relationships and ambiguity",
-      "excerpt": "Learn how to avoid ambiguity caused by bidirectional relationships in a Tabular model with Power BI or Analysis Services. Article and download: https://sql.bi/75696?aff=yt  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/sqlbi-bidirectional-relationships-and-ambiguity/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/sqlbi-bidirectional-relationships-and-ambiguity/",
-      "originalUrl": "https://youtube.com/watch?v=x3m7qzsVJqQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/x3m7qzsVJqQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M2S",
+      "path": "_learning/videos/curbal-advanced-concatenate-merge-columns-with-power-query.md",
+      "title": "Advanced Concatenate/ Merge columns with Power Query",
+      "excerpt": "Concatenating columns in Power Query is not hard to do, but depending on the technique you use, you might get unexpected or wrong results.  There is a bullet proof way to do it and I will explain it here.  00:00 Intro & Problem description 01:19 How power query concatenates columns with Table.CombineColumns",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-advanced-concatenate-merge-columns-with-power-query/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-advanced-concatenate-merge-columns-with-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=87cfpXCeqtE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/87cfpXCeqtE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M25S",
       "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
+        "name": "Curbal",
+        "domain": "curbal.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2020-11-17T03:00:19-08:00",
-      "heat": 137,
+      "publishedDateTime": "2021-01-05T04:52:07-08:00",
+      "heat": 141,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/x3m7qzsVJqQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/87cfpXCeqtE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -260,7 +260,39 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI"
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-pars-a-json-data-in-a-column-inside-power-query.md",
+      "title": "Pars a JSON Data in a Column inside  Power Query",
+      "excerpt": "In this short video, I have explained how to pars a column that has JSON data.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-pars-a-json-data-in-a-column-inside-power-query/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-pars-a-json-data-in-a-column-inside-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=MJsZaWO9Uho",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MJsZaWO9Uho\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M5S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-12-07T16:26:48-08:00",
+      "heat": 137,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/MJsZaWO9Uho/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
       ]
     },
     {
@@ -283,82 +315,6 @@
           "url": "https://i.ytimg.com/vi/oyo8OwTMM38/hqdefault.jpg",
           "width": 480,
           "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-cant-publish-to-web-in-power-bi-anymore-here-is-why.md",
-      "title": "Can't Publish to Web in Power BI anymore? Here is why...",
-      "excerpt": "If you suddenly try to share a Power BI report using Publish to web functionality, you might see that you are not able to do so anymore. Check the video to find out what to do.  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-cant-publish-to-web-in-power-bi-anymore-here-is-why/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-cant-publish-to-web-in-power-bi-anymore-here-is-why/",
-      "originalUrl": "https://youtube.com/watch?v=kbE9HScsUOc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kbE9HScsUOc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M33S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-01-05T04:46:36-08:00",
-      "heat": 131,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/kbE9HScsUOc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-subscribe-to-power-bi-reports-in-pdf-or-ppt-format.md",
-      "title": "Subscribe to Power BI reports in PDF or PPT format",
-      "excerpt": "Do you want to subscribe with Power BI reports in PDF or PPT format? In this video I will show you how you can do that, the licenses required for the admin and the report subscribers and the limitations you need to be aware of.   Enjoy!  Here you can download all the pbix files: https://curbal.com/donwload-center",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-subscribe-to-power-bi-reports-in-pdf-or-ppt-format/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-subscribe-to-power-bi-reports-in-pdf-or-ppt-format/",
-      "originalUrl": "https://youtube.com/watch?v=oWL-2SXe-E0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oWL-2SXe-E0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M43S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-12-21T03:36:23-08:00",
-      "heat": 131,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/oWL-2SXe-E0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
           "isCached": true
         }
       ],
@@ -406,6 +362,37 @@
       "topics": [
         "Power BI",
         "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-power-bi-data-source-isolation-using-dataflows-how-is-it-and-what-are-the-benefits.md",
+      "title": "Power BI data source isolation using dataflows   How is it and what are the benefits",
+      "excerpt": "Dataflows are useful for many scenarios when dealing with Power BI. One of their big advantages is the data source isolation and anything that comes with that. Benefits of such architecture are many, including datasets independent from the data source changes, and managing security in another layer from",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-power-bi-data-source-isolation-using-dataflows-how-is-it-and-what-are-the-benefits/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-power-bi-data-source-isolation-using-dataflows-how-is-it-and-what-are-the-benefits/",
+      "originalUrl": "https://youtube.com/watch?v=XSOEWrTV2PI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XSOEWrTV2PI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M14S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-11-23T22:09:06-08:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XSOEWrTV2PI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Dataflows"
       ]
     },
     {
@@ -1012,8 +999,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 9678,
-            "average": 4.7841496
+            "count": 9685,
+            "average": 4.7842026
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1054,8 +1041,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 26314,
-            "average": 4.749905
+            "count": 26309,
+            "average": 4.7498956
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1114,8 +1101,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 26314,
-        "average": 4.749905
+        "count": 26309,
+        "average": 4.7498956
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1234,8 +1221,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 9678,
-        "average": 4.7841496
+        "count": 9685,
+        "average": 4.7842026
       },
       "provider": {
         "name": "Microsoft Learn",
