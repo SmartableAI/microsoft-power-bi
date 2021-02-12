@@ -7,12 +7,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/powerbi/people/arun-ulag/</loc>
-    <lastmod>2021-02-08T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://smartable.ai/apps/powerbi/people/adam-saxton/</loc>
     <lastmod>2021-02-08T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -32,6 +26,12 @@
   </url>
   <url>
     <loc>https://smartable.ai/apps/powerbi/people/seth-bauer/</loc>
+    <lastmod>2021-02-08T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/powerbi/people/arun-ulag/</loc>
     <lastmod>2021-02-08T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
