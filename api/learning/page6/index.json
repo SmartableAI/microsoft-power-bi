@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
       "length": "PT2H8M",
       "ratings": {
-        "count": 1812,
-        "average": 4.7527595
+        "count": 1806,
+        "average": 4.751938
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -129,8 +129,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 4867,
-        "average": 4.7542634
+        "count": 4866,
+        "average": 4.755035
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1694,8 +1694,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-requirements/",
           "length": "PT23M",
           "ratings": {
-            "count": 333,
-            "average": 4.7507505
+            "count": 334,
+            "average": 4.751497
           },
           "provider": {
             "name": "Microsoft Learn",
