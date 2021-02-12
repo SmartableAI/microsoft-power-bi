@@ -2377,7 +2377,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 131,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -2526,8 +2526,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 2890,
-            "average": 4.746367
+            "count": 2893,
+            "average": 4.7466297
           },
           "provider": {
             "name": "Microsoft Learn",
