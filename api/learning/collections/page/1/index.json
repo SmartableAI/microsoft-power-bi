@@ -223,8 +223,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 9764,
-            "average": 4.784924
+            "count": 9766,
+            "average": 4.7849684
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -265,8 +265,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 26387,
-            "average": 4.7502556
+            "count": 26390,
+            "average": 4.750284
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -348,8 +348,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 26387,
-            "average": 4.7502556
+            "count": 26390,
+            "average": 4.750284
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2123,8 +2123,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 1155,
-            "average": 4.632035
+            "count": 1156,
+            "average": 4.629758
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3674,8 +3674,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-models/",
           "length": "PT20M",
           "ratings": {
-            "count": 768,
-            "average": 4.7604165
+            "count": 769,
+            "average": 4.7607284
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3692,7 +3692,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 54,
+          "heat": 134,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/dax-power-bi-models-social.png",
