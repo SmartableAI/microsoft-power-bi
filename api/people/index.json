@@ -4,39 +4,47 @@
   "page": 1,
   "value": [
     {
-      "path": "_people/avi-singh.md",
-      "title": "Avi Singh",
-      "excerpt": "Power BI has transformed my life, multiplying my impact manifold. Now I am on a mission to spread the word and share the knowledge",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/people/avi-singh/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/people/avi-singh/",
+      "path": "_people/arun-ulag.md",
+      "title": "Arun Ulag",
+      "excerpt": "Corporate Vice President of Business Intelligence @Microsoft. Power BI, Azure Analysis Services, SQL Server Analysis Services, SQL Server Reporting Services",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/people/arun-ulag/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/people/arun-ulag/",
       "type": "profile",
-      "name": "Avi Singh",
-      "bio": "Power BI has transformed my life, multiplying my impact manifold. Now I am on a mission to spread the word and share the knowledge",
+      "name": "Arun Ulag",
+      "bio": "Corporate Vice President of Business Intelligence @Microsoft. Power BI, Azure Analysis Services, SQL Server Analysis Services, SQL Server Reporting Services",
       "location": "Seattle, WA",
-      "website": "https://www.learnpowerbi.com/",
+      "website": "https://t.co/FklqJqbSAZ",
       "twitter": {
-        "username": "powerbipro",
-        "url": "https://twitter.com/powerbipro",
-        "followers": 4538
+        "username": "arunulag",
+        "url": "https://twitter.com/arunulag",
+        "followers": 2847
       },
       "linkedin": {
-        "url": "https://www.linkedin.com/in/avichalsingh/"
+        "url": "https://www.linkedin.com/in/arunulag/"
       },
       "affiliation": {
         "path": "",
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
       "topics": [
         "Power BI"
       ],
-      "heat": 77,
+      "heat": 92,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/732049231326806017/m4jUj2Lu_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/625784770333519872/RrSqqUEZ_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Avi Singh",
+          "title": "Arun Ulag",
           "isCached": true
         }
       ],
@@ -56,7 +64,7 @@
       "twitter": {
         "username": "awsaxton",
         "url": "https://twitter.com/awsaxton",
-        "followers": 5599
+        "followers": 5600
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/guyinacube/"
@@ -90,53 +98,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/arun-ulag.md",
-      "title": "Arun Ulag",
-      "excerpt": "Corporate Vice President of Business Intelligence @Microsoft. Power BI, Azure Analysis Services, SQL Server Analysis Services, SQL Server Reporting Services",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/people/arun-ulag/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/people/arun-ulag/",
-      "type": "profile",
-      "name": "Arun Ulag",
-      "bio": "Corporate Vice President of Business Intelligence @Microsoft. Power BI, Azure Analysis Services, SQL Server Analysis Services, SQL Server Reporting Services",
-      "location": "Seattle, WA",
-      "website": "https://t.co/FklqJqbSAZ",
-      "twitter": {
-        "username": "arunulag",
-        "url": "https://twitter.com/arunulag",
-        "followers": 2845
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/arunulag/"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI"
-      ],
-      "heat": 71,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/625784770333519872/RrSqqUEZ_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Arun Ulag",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_people/patrick-leblanc.md",
       "title": "Patrick LeBlanc",
       "excerpt": "Patrick LeBlanc is a currently a Principal Program Manager at Microsoft and a contributing partner to Guy in a Cube. Along with his 15+ years’ experience in IT he holds a Masters of Science degree from Louisiana State University. He is the author and co-author of five SQL Server books. Prior to joining Microsoft he was awarded Microsoft MVP award for his contributions to the community. Patrick is a regular speaker at many SQL Server Conferences and Community events.",
@@ -150,7 +111,7 @@
       "twitter": {
         "username": "patrickdba",
         "url": "https://twitter.com/patrickdba",
-        "followers": 5901
+        "followers": 5900
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/patrickdleblanc/"
@@ -221,6 +182,84 @@
       "content": "\r\n"
     },
     {
+      "path": "_people/avi-singh.md",
+      "title": "Avi Singh",
+      "excerpt": "Power BI has transformed my life, multiplying my impact manifold. Now I am on a mission to spread the word and share the knowledge",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/people/avi-singh/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/people/avi-singh/",
+      "type": "profile",
+      "name": "Avi Singh",
+      "bio": "Power BI has transformed my life, multiplying my impact manifold. Now I am on a mission to spread the word and share the knowledge",
+      "location": "Seattle, WA",
+      "website": "https://www.learnpowerbi.com/",
+      "twitter": {
+        "username": "powerbipro",
+        "url": "https://twitter.com/powerbipro",
+        "followers": 4537
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/avichalsingh/"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "topics": [
+        "Power BI"
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/732049231326806017/m4jUj2Lu_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Avi Singh",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/mike-carlo.md",
+      "title": "Mike Carlo",
+      "excerpt": "Consultant for Concurrency for all things PowerBI. With over 11 years of data experience I'm making waves by deploying PowerBI into local Milwaukee Companies.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/people/mike-carlo/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/people/mike-carlo/",
+      "type": "profile",
+      "name": "Mike Carlo",
+      "bio": "Consultant for Concurrency for all things PowerBI. With over 11 years of data experience I'm making waves by deploying PowerBI into local Milwaukee Companies.",
+      "location": "United States",
+      "website": "https://t.co/Z3zO6dilSk",
+      "twitter": {
+        "username": "Mike_R_Carlo",
+        "url": "https://twitter.com/Mike_R_Carlo",
+        "followers": 2012
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/michaelcarlo/"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Power BI Tips",
+        "domain": "powerbi.tips"
+      },
+      "topics": [
+        "Power BI"
+      ],
+      "heat": 42,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1109338504268439552/OY_Va867_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Mike Carlo",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_people/reza-rad.md",
       "title": "Reza Rad",
       "excerpt": "#Microsoft Regional Director, #MVP #Author #Trainer #Speaker #Coach #Consultant #PowerBI ",
@@ -247,52 +286,13 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 57,
+      "heat": 42,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1102766467173408768/F9EbQENa_400x400.png",
           "width": 400,
           "height": 400,
           "title": "Reza Rad",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/mike-carlo.md",
-      "title": "Mike Carlo",
-      "excerpt": "Consultant for Concurrency for all things PowerBI. With over 11 years of data experience I'm making waves by deploying PowerBI into local Milwaukee Companies.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/people/mike-carlo/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/people/mike-carlo/",
-      "type": "profile",
-      "name": "Mike Carlo",
-      "bio": "Consultant for Concurrency for all things PowerBI. With over 11 years of data experience I'm making waves by deploying PowerBI into local Milwaukee Companies.",
-      "location": "United States",
-      "website": "https://t.co/Z3zO6dilSk",
-      "twitter": {
-        "username": "Mike_R_Carlo",
-        "url": "https://twitter.com/Mike_R_Carlo",
-        "followers": 2011
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/michaelcarlo/"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Power BI Tips",
-        "domain": "powerbi.tips"
-      },
-      "topics": [
-        "Power BI"
-      ],
-      "heat": 42,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1109338504268439552/OY_Va867_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Mike Carlo",
           "isCached": true
         }
       ],
