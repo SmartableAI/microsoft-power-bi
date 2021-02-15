@@ -338,36 +338,6 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-aggregation-to-speed-up-the-performance-of-a-power-bi-report-even-if-all-imported.md",
-      "title": "Aggregation to speed up the performance of a Power BI report even if all IMPORTED",
-      "excerpt": "One of the questions I normally get after presenting about aggregations in Power BI is that, does the aggregation works only for Composite mode and in scenarios to speed up the DirectQuery? or does it work in import mode as well? This video is about this question and shows how you can speed up your model",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-aggregation-to-speed-up-the-performance-of-a-power-bi-report-even-if-all-imported/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-aggregation-to-speed-up-the-performance-of-a-power-bi-report-even-if-all-imported/",
-      "originalUrl": "https://youtube.com/watch?v=EukzA4vbl2w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EukzA4vbl2w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M42S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-11-30T20:04:06-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/EukzA4vbl2w/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/radacad-ai-and-microsoft-power-bi-the-realm-of-impossible-thr2038.md",
       "title": "AI and Microsoft Power BI: The realm of impossible - THR2038",
       "excerpt": "There is a huge demand to get more insight from the data using AI and advanced analytics. In this session, learn how to use current visual and custom visual in Power BI to get more insight from your data. Also, learn how to use current embedded AI features in Power BI.",
@@ -912,6 +882,37 @@
       "topics": [
         "Power BI",
         "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-create-a-table-with-a-to-z-character-values-in-power-bi-using-dax.md",
+      "title": "Create a Table with A to Z Character Values in Power BI Using DAX",
+      "excerpt": "I have explained previously that you can use GenerateSeries function in DAX to create a list of number, date or time, or even currency values. However, sometimes you might need to create a list of text values. Such as alphabet; from \"a\" to \"z\" lowercase, or uppercase. The good news is that you can do",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-create-a-table-with-a-to-z-character-values-in-power-bi-using-dax/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-create-a-table-with-a-to-z-character-values-in-power-bi-using-dax/",
+      "originalUrl": "https://youtube.com/watch?v=YXE62YnJxJs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YXE62YnJxJs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M27S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-03-23T15:36:46-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/YXE62YnJxJs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
       ]
     }
   ],
