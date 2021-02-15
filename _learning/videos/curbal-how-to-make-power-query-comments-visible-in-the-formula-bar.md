@@ -2,6 +2,7 @@
 title: "How to make power query comments visible in the formula bar"
 excerpt: "Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1\r \r Our PLAYLISTS:\r - Join our DAX Fridays! Series: https://goo.gl/FtUWUX\r - Power BI dashboards"
 originalUrl: https://youtube.com/watch?v=tI-nW3CIXac
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/curbal-how-to-make-power-query-comments-visible-in-the-formula-bar/
 type: video
 price: Free
 length: PT3M24S
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "cQNhT59ta46eKnt1Yt6oNKNCkh2kTXCllfyxG0tDo2KdzQ1bmf/H+T+zdTP1tiKcw6u8VyUVZtRaJHnXPK8QCEebkErmffKUeMoEu85s0GSC8ynvBINPHHkDOAe6pFK34gCEFMT8mjsu2QwupYcGtodMkrHEIHij/jZGtWH3qmU9c5PYRSnCfGjT5cjL4ebMltlVzB4fK0DuMywwkHBzB8mqObF3usqOGIcw7pmDyvJD88/85wOqfrxiW/Jl04P0fHs0o/0OkC/nCXZq4f89vhKoZzE51kW+HOK+pGTHDMHd4oiZVnnwKgGRNtFiTAjhU9MlsCl1+s/S0G5Jc3PLgIYwwWILPVkMXaBw228Vx/zaTUT4426OfOdj8G/P43jRu3B9hSsko9FbN4sF3C9USQ==;39oJM5v7BxCySoaNj9rgEA=="
+secured: "HH2KCGgC5Lb7ptsYYO93kpWKhLBTOtCUSFm4oFpgJMIbSyoNo4fUshyuuuRN8+X2eebGvxmaEYuz7bQBG2W0w06gj1XRcsuo2KU97nbpROhKucnrqQVxP0NLPW9d2YgLFK4m794jubi2k82gmcZ3mhqsxz5I00ibaBO7NPySkFtTvtoRS0/IcC7H3ngDwZZphAUepLc1yEHhtPr1Eduqt7tHwTxHazyG4fZr15K8WwEX8/aA3/joMHyeb51uj51fFhzqqzwza3zI2+J8gUUosbsmr/ojE8wBA+lfIF5l9wBqYwhY8gHO59phYi0A4/gvpKL69e2aShUvzM+c/IoBRNoeCZeuY3+lXx6QyK/3DbDvMWi+sTZ54idaoRaLKX1K;KfD2mRAtRUyIvh60Lyb8pw=="
 ---
 
