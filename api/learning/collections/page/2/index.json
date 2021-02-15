@@ -1611,8 +1611,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 3121,
-            "average": 4.775072
+            "count": 3123,
+            "average": 4.775216
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1896,8 +1896,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 1705,
-            "average": 4.754839
+            "count": 1706,
+            "average": 4.7549825
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2021,8 +2021,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 903,
-            "average": 4.6600223
+            "count": 904,
+            "average": 4.660398
           },
           "provider": {
             "name": "Microsoft Learn",
