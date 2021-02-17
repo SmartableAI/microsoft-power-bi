@@ -2,6 +2,7 @@
 title: "Working with Slowly Changing Dimensions in Power BI"
 excerpt: "Do you have slowly changing dimensions in your Power BI dataset? Struggling to work with them to get the right values? Patrick walks you through how you can deal with them.  Download sample files: http://guyinacu.be/scdsample  Wikipedia https://en.wikipedia.org/wiki/Slowly_changing_dimension  Using calculation"
 originalUrl: https://youtube.com/watch?v=tKeaQpWynzg
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-working-with-slowly-changing-dimensions-in-power-bi/
 type: video
 price: Free
 length: PT13M31S
@@ -27,6 +28,6 @@ images:
     height: 360
     isCached: true
 
-secured: "2TewQzmg1dNMcpdRNGwbU0ExNbjYmL3FHh3F8kSNf7kKepwok7CaDIDLKxh9KhDb04V2uNjuYKphxCxc65mgkD/LB5JrjqA8o8rDUEvsK6l0LX9Hd9+wVqqtHA0lsKHAIKCwENaPKqPV3NyV/OHum+ygcZ5VnyoLgRSfXkodbzVwDqfhVBPIpKcyZLgKevs1OadmublksJWDkURLyDua4nz5b0UHkDBkBiqPZKp9258+rBU4IibmMteY/YOdSFuU4a6MHNHWpKhLkGu3bjprlvcJpeACRJUmblccH+9JOlEVW19ZJ8308Ka7UwiVu6+oOHmuqckdU2mgu3LkO/4ZmNgPmWfOc5D0Pj36qWeBzAi0VNbqS6BFKryVqcyEp4LzD3V3C1AGBtF2Z6Lj7gi6Lw==;/SKWJ2bgGOZsAJt8uXGuug=="
+secured: "v86aljSSGuLKot3wyShxykj8qh06EgEbqHXUK5zj4FkqY/oZrgO4K/f/+RFJ6/Wj2t2KqD/I7MhULZ6cVIKogypqIZqds77GiQ9lN+pY/59kBMQrfgTQb68Hc32SyLz6zmiQKtyCtqB/H0esgHr76EFj7tokPKo+wkH5JbU2UIISM54O2z9AmC1da3VI7WHcNx7M11e37sCnY1mUA3UWpqrp3dUFx8lHy33/HxhNpA3qymKJp1n4eY4zPrJPhxesEJZPwagbIlfa1wziiXtNDXjoMqs+DYpdSxRHlI5bqH0Q8DNHA+s7GUQ4Yf87S5HGMOvnunOthHanrDqJHty6F3JIv+Xo7J+bTYDbkuyZ2WeCwe3Fb5cLBYgAnHVmcEnaf7tjqjTn8A/LJQ3WcBbqRA==;edEp7L/y+NWGAYkbLrig5g=="
 ---
 
