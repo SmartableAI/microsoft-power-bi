@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Expand lists in Power BI (also a look at M Syntax)"
 
-secured: "HNkIbJ2xpng8wYqnonAMWRj4X+TBCItIaAENsSu17FeXHOYWVNsa3OAWdvq+AoXc+w4QZS7L3/b1lN+IU2d18JLRdNpDfGQtZ2FddI1zhjfta3DGUuUxI66TJbopyAZp1ii76BeI7SlbZ5Z0RjknpEWZWwa6cPLsq55LIvtuuck6Tm0PAy4RbTedDZLOn1rM/TjD0hyU5rDWkaTaXmMDOlXXJ747XE2+1nnvqi7IKwU/8tVUzBgjwm98UDdG85LxFWgyvwIzXyvukeg0aUtIRDFyjOL2TKaySa16te9A/mBNMceQoMH5TNf+cX4aAVOi3asrpF3YSGR8xPcJGObx8a0XUJiXq+DPo0u98Mhoh3IUoA6hOk6MWk50PBzpL7UBfKXrZekiVUec/oAWhCHp8yGzZ1J8YCgXnxA+UP1knQ4=;kErM1t42xvjLbJVtQJHKSA=="
+secured: "mdv5R78PdPVjUjpWgJdHH000W8mQXGCtVNmwdV6U4ykiGbXHki1Tub7cQXteho+etoUbJtu3AIkkXzmfsZ/FobuCaFpX5m/pKX0yn0RKQekiWE9xzgOFfsusW6LDn6PkMahY6f+ILHw7/hpkHHWP2k17yAFWcWRSc++Lyce/8w487pywOPYWycI7Q+xl/2nV1TWU1msCG9YEjKNc6/cjlkgyE+bnBuxy6U9S/NbRvzbjS56hPSeHoGiRDCaTnDJJPT7oU53zg8jMaVkEB/eAGjfG5j/RDJJLqvnQzjP1EfTfFt3CIKPZ4iBX+nNUhm+mYjzqU50iz6mBhyvSTDC+h+AcPewbLalTpStrlO9bCBlRSFNHyIh1DVj6t0dBk68qMCd6c+HzvTLukVR1kOzdsIKprx/2/P5FbW/hzqF1nYE=;onE+4uMoscltbSRQ5GPlzQ=="
 ---
 
