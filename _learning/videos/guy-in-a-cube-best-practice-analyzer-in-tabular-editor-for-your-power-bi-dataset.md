@@ -2,6 +2,7 @@
 title: "Best Practice Analyzer in Tabular Editor for your Power BI Dataset"
 excerpt: "Do you work on your Power BI dataset or data model? Are you following best practices? Patrick walks you through a best practice analyzer set for Tabular Editor, from Michael Kolvasky, that can help you improve your data model.  Blog post: https://powerbi.microsoft.com/blog/best-practice-rules-to-improve-your-models-performance/"
 originalUrl: https://youtube.com/watch?v=1Qan0_VmZRw
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-best-practice-analyzer-in-tabular-editor-for-your-power-bi-dataset/
 type: video
 price: Free
 length: PT10M47S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "zdjQzIYe0lDLBSjHfl90En0xuN5RRgmXcTuoGFToWCwjC2BLH/q92Zwf8SU1vwIZ0S8geTonMzaq7odCpuYzeReFWOD1fu8P62xzzHm6qMg1e5jofDD1GM3Ujdsc16kOZQ02NEFx3J0x8nV3SVADskmI37x/F+qzM2Fh8lNg9Bp5U3ATonecy8sMGNeVEcDFdzqcr02YcVJ2dYlzTNUWTRVvsHpEnww0XLLz8aF2bIqN3RW6tqvmbXv18WMyEgvVYNonNGJ5FaN+DcZub8bSW8V8JMKfPNa1QaxurWFBew05Tu2daqHVz+9gbanKE7G8YHk9dSa6VUJdjEctMB2R4JKqYKCs0yDwRfnz/ZCnBsBKpzWeUOPN7juP1TMsFcs+UWHpKtHK2/rCHMrrMbnHOg==;ksy9rBlkatZ45ta3w7fw4A=="
+secured: "BeZltjzCgaQWoakmVEfNUuw/Q+fWqjfWR/BAu9H/0+zDEr1pgzI5oazz9gmpTeEhMI1LVOSZAY6EFeck/k94l/6Afe46T3UYQljHG+X3Belgs+GNOQGyvk1ni6h2EKLDdujWAzwntjPFMbg5384kHdDaL4yA9imk2H9cADaGC+d0ONBP5tqNjLLHYuXkfIADPLVkbktMlUHMdy/42ZDqXyupD+qT5NdvE+J3E+3xbK3oucVVZjZXI3RXkhgMtvdQoN8H6RgGs1XBd5+RRdqBmmcrBGjaAjq6GzAzc90d7edNiaPXMHbgD9bUgBOEgWT/BhhCVtdPD5nvy3kdgqGMq74isZdMK02q2RnduZxMBFELShJ4aTpNEucRxRqOK0/HrWneRiYDg46SxVj6hgx4PA==;t8VHwlN9Bx+NqpBejTe9UA=="
 ---
 
