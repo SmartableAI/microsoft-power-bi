@@ -2,6 +2,7 @@
 title: "Optimizing DAX with cardinality estimation computing working days"
 excerpt: "Learn how to estimate the cardinality of iterators computing the number of working days between two dates. Article and download: https://sql.bi/699689/?aff=yt  This is an important skill when optimizing DAX code.   How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide to DAX:"
 originalUrl: https://youtube.com/watch?v=zMKgjiqjATg
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/sqlbi-optimizing-dax-with-cardinality-estimation-computing-working-days/
 type: video
 price: Free
 length: PT35M5S
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "AfoD8GW4FA3sN/ShfrH9Tb4ff6RexScoVOzPCz1n+zp5rI3W05KA/pFCwzlfyKyHVCOjmVdowYXZ4tETgrNcYbDjmwY0T8DPUHpMBBRHOC8llOTJRVdXf5TtrqbkPsiCo/9l1pPRSD6rQSUuphYMwQW0V/KXxB5OcS5T2mTlW1Rs6Lu3L5A+IQAOp5ZQCYGdQ+3zuxuwuCGknIdlB3hZU10Zls29WJlgX9F/htXdr1igx3O3mN4OtKlmtZWh0BA6/c7+thF0+qdWhYfZeb+QxWU1M2M8GcfYVtGkmzwFITDzUdp7DXlYnTlcDnCZw04sY0FIX2prVkajJeEul8nT32RKAOj2U9epBcvMPIiFpqw1LzmM/+zw8BA9mHdSc5XfdLH+Uzp5Ox5I0A0J5G7JNQ==;vEJa0O2M0CaojCILVHsS5Q=="
+secured: "GJSLOfFJMbkiFrTiBarLS4uJGn9ykG37EqwfZhv1gozdtrF6OWBorw7WBOryKtBOf+KZ26Yy1V/zegzCTP5LeqmCyvnwMS9KhDQtjxwn1Lj41RVtiVUqelSfik9K2tUUcxazZKb7JUPID3Vi35sqkwU+yQ9diLR7gOTx1l29LwcpfDM+qHGfeyVim5+hmgDOuI7iACKO+tJGiAXLfcsNYTMTbS+8PeCZW9jJ4v+029wPHNciqziuGvZ7CUSwfQ5sTxgDauKpz/NcoBZToOnpbLRLbE2sduDJ+ujUjdcZa+kC7xcE8UI/oJFZ2AJcqlky2TeeyX/KYCwIVq7PGsI9qwdIyUL9rZHNDglpaRP4aaDQrXYQbdGD1SSDAt5wDHOD;WTjjgnfiX6TVpeX7MJZ1UA=="
 ---
 
