@@ -2,6 +2,7 @@
 title: "How to Focus on the \"One Thing\" and Rise Faster in Your Career? 🔴 Talk Power BI LIVE"
 excerpt: "We often confuse movement with progress. We work...and we work hard. We have a long, never-ending and ever-expanding To-Do list. But is that the shortest path to success? Or we have it #BACKWARDS??? Could the fastest path to professional success need us to focus on the \"One Thing\"?  But how do you determine,"
 originalUrl: https://youtube.com/watch?v=UbnB6AizM9w
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-how-to-focus-on-the-one-thing-and-rise-faster-in-your-career-talk-power-bi-live/
 type: video
 price: Free
 length: PT58M11S
@@ -23,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "ZylkasSS/xNE0huxxqQekzrPR450A/aprKF1RVV2sUx+/WT1kylzRNonRE/zVqTeEC44yudeLXX1snQUuDBZ9kYPxgbamspFgPJd9jLoTuGnS6eBedlFGbIhsg6z6oxV2vMd+Cfn2hn/KNfkJG3vTtxpqC6XVwio4Cn+VLFwHETV664rvB1C4eKPCx/fOON6FhpT+Ogg37djBF4St40x3pGOE2ZwCn6MshTP9xIgrxGC0Nebd5NnU3kzATXmPInffzgtQvbW5i1A51gfzN/XGJxQGsx2obqZPbTvZlzYOwi6dLCT0QjCIC6/Wsra3okhMosXtGhOOVxppCtAWB2/sNdBIp58Bxuj+gK6rVk6BkKExsaD1syiHybWT106BTkhUOTl5Wt7SRVYL81BF9bjbw==;6ONg9klSm/pf9IAxH1s+/A=="
+secured: "6PufEHbRWvn7WmxFokR5hcjmFbbJNbGUFjo1/w+2CPRu5QLZrO7MJa7MyyNeKUgPevbfYx1sUYpZJ6iRDWESfiWMlonoZu0nddcmYZZ32QfEHGf1scXEDC4eNns0nx8fJUGVsWY7bhpB42fFPiTVnHpqrfHnMQwTCK8JfRlcRpckAj7RtZoE2sBFJkl9P44r5cV2iqjA2G3j4k9dGfqh996JyA5fJ+ziuo6pIbhFyNUhkuu8S6er+Lis/SmKw6H8e1jdYZDhMmD3DA8tNDF1Agn+prjg2cU38JsM+XJ2d42Ai9R74nWNBNSs2AypNsJek6xfkSf+A+nqMV3ZO4/7aGK0TAoDm3trTTHlnMWDfvMCaaH7R3QFe4gh4LQg3Riw2LlbALYm0sXg37hoTMOwvA==;usHlUcygLTl/BwaLMx441g=="
 ---
 
