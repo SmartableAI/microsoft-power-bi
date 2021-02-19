@@ -224,6 +224,7 @@ items:
   - videos/curbal-dax-fridays-194-covid-tracker-part2-modeling-and-getting-the-last-value-of-an-accumulated-list
   - videos/curbal-dax-fridays-195-53-dax-best-practices-
   - videos/curbal-dax-fridays-196-dynamic-pricing-with-dax
+  - videos/curbal-dax-fridays-197-why-you-need-to-test-your-dax-measures-in-different-contexts
 
 topics:
   - Power BI
