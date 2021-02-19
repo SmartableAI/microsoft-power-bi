@@ -781,8 +781,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 926,
-            "average": 4.6609073
+            "count": 927,
+            "average": 4.661273
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -841,8 +841,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/",
       "length": "PT60M",
       "ratings": {
-        "count": 969,
-        "average": 4.7058825
+        "count": 970,
+        "average": 4.7061853
       },
       "provider": {
         "name": "Microsoft Learn",
