@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT11M15S
 publishedDateTime: 2019-12-04T17:00:02Z
-heat: 61
+heat: 59
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5_wN-kUIcGs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "0Dl9nLWqeEZOGk8dhmPLBE/hf46h9QcnN2h8SRp0pBaZYyXlisZE3u/9Kc6d/iS/4meA/dqI38ZCoRtIPIss8BKdVsGCobcL75HvjJFz7LfNKw1NdXGmpxZyivRiLH/s21Afr3vp+HWLilbvDtHPoD7Rl0PcIkSlXc4NWQPZO4Ac551W/t9LHW5C1Skt9e2IgzNGqLtKeEiykHVo6IncazqP8RIPL9EXxs9ZqNnuZMO+kq9yDobZiEF+RAfKXQ0C5SRjmfBxZPq7RtlPj8q49bI/ujJxjXNnPNrdpjCXvgKQ2J3Gs1ys1Rt3sgngw/dxVJT1Mmzd7Me1OyRbt5SbvtrM2HSW9owYet8JdS8yyHWks314IdsBMoxfPmxrl+GPQwnyVF9JRb9i7Oohbu65qVzS9rLibN1a/knfmUsv5nY=;GXr63kJI+scEs4/sfonZIA=="
+secured: "ZsUWb6XfYeDmGtEqY3nU2zwLsQp1cM/oEcOeQVw5UgtLP4yqSeePT+PP5RMRHvb4p2YNZBSJpCvIqKCIr1fCnNJPvvGfS1AmSK7Rw/rBB925mZ2bPjj7+a7PShPLL5EMj84Eo/FMsyZo5lHy31i1sRBM7/aYCg88UOpUhxca900SOxXWN2trs35rylyXQIVCShvY/BRcDsu4F9V2K9f/cKpRSc6rjGsq/R9uV90ZfXsWja6T+jnYgD/Zo7U1SggegqwPW9gMNhnlwHoP4ssXi/eT2WFzWht7InwRGUwD32DJY0xmVcrcBV+Li4gkvhW8gnXuRsugdimRw78Ma9rb75AYF0gxh3LnHonVLGW7o+9eFtiQ0xDRZj6CE4MRsnoJ450OFI/SIkq8e/WGiI2PxX9B19T3WN/oXcVqMyoDnGs=;+Z2gt85ADfvsJvkDNp7DCQ=="
 ---
 
