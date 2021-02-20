@@ -325,14 +325,14 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-change-field-types-in-one-step-in-power-query.md",
-      "title": "Change field types in one step in Power Query",
-      "excerpt": "If you want to reduce the number of steps and change field type in one, you will notice that the user interface will always separate them when specifying the regional settings.  In today's video , I will show you how you can modify the power query code to change field types in one step, but also show",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-change-field-types-in-one-step-in-power-query/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-change-field-types-in-one-step-in-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=OBzMBWkHYUU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OBzMBWkHYUU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M6S",
+      "path": "_learning/videos/curbal-concatenate-merge-columns-with-power-query-the-right-way.md",
+      "title": "Concatenate/ Merge columns with Power Query, the right way.",
+      "excerpt": "Concatenating columns in Power Query is not hard to do, but depending on the technique you use, you might get unexpected or wrong results.  There is a bullet proof way to do it and I will explain it here.  Link to the null, blank video mentioned in this video: https://www.youtube.com/watch?v=EoRjNx1G2g4",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-concatenate-merge-columns-with-power-query-the-right-way/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-concatenate-merge-columns-with-power-query-the-right-way/",
+      "originalUrl": "https://youtube.com/watch?v=87cfpXCeqtE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/87cfpXCeqtE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M25S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -345,11 +345,11 @@
           }
         ]
       },
-      "publishedDateTime": "2020-12-14T04:57:23-08:00",
-      "heat": 130,
+      "publishedDateTime": "2021-01-05T04:52:07-08:00",
+      "heat": 137,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/OBzMBWkHYUU/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/87cfpXCeqtE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -361,6 +361,45 @@
       "topics": [
         "Power BI",
         "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-194-covid-tracker-part2-modeling-and-getting-the-last-value-of-an-accumulated-list.md",
+      "title": "DAX Fridays! #194: COVID Tracker Part2: Modeling and getting the last value of an accumulated list",
+      "excerpt": "In part 2 of the creation of the covid vaccine tracker, we are going to model the data we imported in part 1 (see link below) and create the most difficult calculation: The sum of the values from the last date that is not blank.  Chapters: 00:00 Intro 00:55 Show the data 02:00 Model the data 03:30 Explain",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-dax-fridays-194-covid-tracker-part2-modeling-and-getting-the-last-value-of-an-accumulated-list/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-194-covid-tracker-part2-modeling-and-getting-the-last-value-of-an-accumulated-list/",
+      "originalUrl": "https://youtube.com/watch?v=jX7dbhrHS5c",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jX7dbhrHS5c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-01-20T04:34:58-08:00",
+      "heat": 131,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jX7dbhrHS5c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
       ]
     },
     {
@@ -403,61 +442,23 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-get-oecd-api-data-in-power-bi-global-unemployment-rates-2020.md",
-      "title": "Get OECD API data in Power BI: Global Unemployment rates 2020",
-      "excerpt": "Do you want to get data from the OECD API in Power BI? In today's video I will show you how to do just that!  To get my pbix file, download file number 65 in the community downloads at curbal download center:https://curbal.com/donwload-center  Imke's function: https://community.powerbi.com/t5/Desktop/Get-data-using-API-link-to-OED-data/m-p/242333",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-get-oecd-api-data-in-power-bi-global-unemployment-rates-2020/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-get-oecd-api-data-in-power-bi-global-unemployment-rates-2020/",
-      "originalUrl": "https://youtube.com/watch?v=gZmHuHb6D-Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gZmHuHb6D-Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M15S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-11-23T03:41:43-08:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/gZmHuHb6D-Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-the-importance-of-knowing-different-types-of-power-bi-users-a-governance-approach.md",
-      "title": "The importance of knowing different types of Power BI users; a governance approach",
-      "excerpt": "Power BI users are not all in the same category. If you treat everyone the same, then you wouldn't have a successful Power BI adoption. You would likely spend too much on the training and gain much less of adoption. In this video, I'll explain what are the different types of users and what are proper",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-the-importance-of-knowing-different-types-of-power-bi-users-a-governance-approach/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-the-importance-of-knowing-different-types-of-power-bi-users-a-governance-approach/",
-      "originalUrl": "https://youtube.com/watch?v=3jxfg9kiz-w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3jxfg9kiz-w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M29S",
+      "path": "_learning/videos/radacad-power-bi-helper-version-12-jan-2021-feature-summary.md",
+      "title": "Power BI Helper Version 12 Jan 2021 Feature Summary",
+      "excerpt": "Happy New Year. We wish this be a year full of happiness and joy for all of you. We are glad to let you know that version 12 of Power BI Helper is now available to download with the below new features;  Detecting the storage mode of tables (DirectQuery, Dual, Import) Detecting the connection mode of",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-power-bi-helper-version-12-jan-2021-feature-summary/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-power-bi-helper-version-12-jan-2021-feature-summary/",
+      "originalUrl": "https://youtube.com/watch?v=2WEg64f94Rw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2WEg64f94Rw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M13S",
       "provider": {
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2020-12-10T13:06:17-08:00",
+      "publishedDateTime": "2021-01-12T18:05:26-08:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/3jxfg9kiz-w/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/2WEg64f94Rw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -881,8 +882,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 10101,
-            "average": 4.784774
+            "count": 10103,
+            "average": 4.7847176
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -923,8 +924,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 26803,
-            "average": 4.750289
+            "count": 26806,
+            "average": 4.75028
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -983,8 +984,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 26803,
-        "average": 4.750289
+        "count": 26806,
+        "average": 4.75028
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1141,8 +1142,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 10101,
-        "average": 4.784774
+        "count": 10103,
+        "average": 4.7847176
       },
       "provider": {
         "name": "Microsoft Learn",
