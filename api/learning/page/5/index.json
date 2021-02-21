@@ -76,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 1453,
-            "average": 4.684102
+            "count": 1455,
+            "average": 4.683849
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -997,8 +997,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/",
       "length": "PT60M",
       "ratings": {
-        "count": 980,
-        "average": 4.7091837
+        "count": 982,
+        "average": 4.7087574
       },
       "provider": {
         "name": "Microsoft Learn",
