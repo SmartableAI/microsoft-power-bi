@@ -539,8 +539,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 710,
-            "average": 4.746479
+            "count": 711,
+            "average": 4.746835
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -683,8 +683,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-analyze-dynamics-365-data/",
       "length": "PT57M",
       "ratings": {
-        "count": 2451,
-        "average": 4.6980824
+        "count": 2452,
+        "average": 4.697798
       },
       "provider": {
         "name": "Microsoft Learn",
