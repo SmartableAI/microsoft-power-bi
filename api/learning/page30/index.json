@@ -786,36 +786,6 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-small-multiples-in-power-bi.md",
-      "title": "Small Multiples in Power BI",
-      "excerpt": "Welcome to my new Power BI session on Small Multiples in Power BI. “Small Multiples”- a new feature rolled out during December 2020 Power BI Desktop Update. Small Multiples is available as a Preview feature at this moment. This is a very cool feature we can use with our stacked bar and column charts,",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/dhruvin-shah-small-multiples-in-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/dhruvin-shah-small-multiples-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=0LpN-K4eppo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0LpN-K4eppo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M29S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-12-16T22:37:37-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/0LpN-K4eppo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/dhruvin-shah-use-page-navigation-action-for-button-to-navigate-from-one-page-to-another-in-power-bi-report.md",
       "title": "Use Page Navigation Action for Button to Navigate from One Page to Another in Power BI Report",
       "excerpt": "In this vLog, we will learn, about newly introduced action type for buttons which is “Page Navigation”. Sometimes we have a requirement where we need to redirect the user from one page to another page by clicking on the button.   Previously we can achieve this requirement using Bookmark and selection",
@@ -924,6 +894,37 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/sz7yW06scgk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/enterprise-dna-evaluation-context-110-ultimate-beginners-guide-to-dax-2020.md",
+      "title": "Evaluation Context - (1.10) Ultimate Beginners Guide to DAX 2020",
+      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/enterprise-dna-evaluation-context-110-ultimate-beginners-guide-to-dax-2020/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/enterprise-dna-evaluation-context-110-ultimate-beginners-guide-to-dax-2020/",
+      "originalUrl": "https://youtube.com/watch?v=rGFZ9j-qey0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rGFZ9j-qey0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M49S",
+      "provider": {
+        "name": "Enterprise DNA",
+        "domain": "enterprisedna.co"
+      },
+      "publishedDateTime": "2020-05-01T03:26:18-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rGFZ9j-qey0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
