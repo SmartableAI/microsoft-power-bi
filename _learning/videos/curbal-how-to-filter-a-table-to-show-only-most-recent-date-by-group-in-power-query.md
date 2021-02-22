@@ -2,6 +2,7 @@
 title: "How to filter a table to show only most recent date by group in Power Query"
 excerpt: "It is a best practice to load in Power Bi only the data that you need. In today's video, I will show you how you can filter a table by the last date available.   Chapters: 00:00 Intro 00:30 Explain the use case 01:00 The solution Done!  Here you can download all the pbix files: https://curbal.com/donwload-center"
 originalUrl: https://youtube.com/watch?v=hidJ5T_DYQ0
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/curbal-how-to-filter-a-table-to-show-only-most-recent-date-by-group-in-power-query/
 type: video
 price: Free
 length: PT3M57S
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "DfFX5OfWRYX7LUEUVi1bVaFg53bvI0gmf0QOyteawAM6dbLtiWcOyILdk2+tjoEMHff2iI6a8yylxoP5d60m5yFCkOuCMf0qBeTRsc/NuufmzA+fogIjxgKqNc+h507dm8BOxqy4ZzKHIVFhL2uCd0QLPwjX+t3wg0w77FmxVwwdxGzkjKAcT1CqvzpgqXoWdveFY4hs1NnLOOjyHca6LfTgr6dfy6l+mMt1UzXlwb9EVLbj+xTAEbwGO+0Xe8eeXg8bYorMGilhk+pUoSKVfserpikJ2nd44VJwXs5Al2JpmK4UBAms8DPehLT45Zsk7EK+soxr8dHcHu+hWRbz7hHy+ikXIfjMJLqeM81g8932+fyl43zaw9zdEoRXve7tN/Lxjaa8A8zlHJ9k+r3d/w==;h8ifEHP6daJbV/Oeq9w3Cw=="
+secured: "PmCHh5+jb23Qle8eSq9XzSBNuubz3sDBEVS82OkcOdwXYUVFcjQjzh7m6nbO4SoxVApiN9Y9DD9izGW3TkPnJd4mI1R9CQLHtl4UE51S8zXepujA+sqS+eo3HEcPaD5P6Q3s7gGgzjQ0mIqSawt4pc0j3TwDGdTnSOmuPKoHpniA+q4vsV4EMAhjhsyJpNVOnjFe+MuAWxnoZy29auBBGZjg08NxKNKmNS3QUlSAJwfF4kk7Z+2qp4vSPpurcEuRAmuIbiFnt5ZUFZQ2XesggZu7bYyyP6uN5WOJgkaFuBKmIdYxAWmuptEF6MPUiV+E/raKQWovVV+Uly/5Rq0hJP/3/JyFng+wVFlWGJpU/hTvwrduKDOVr8H38gK19XX2;c1tzWuLKEHQ/lChOdJRyMg=="
 ---
 
