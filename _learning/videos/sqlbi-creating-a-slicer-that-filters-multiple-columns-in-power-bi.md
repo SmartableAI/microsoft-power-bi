@@ -2,6 +2,7 @@
 title: "Creating a slicer that filters multiple columns in Power BI"
 excerpt: "Do you want to create a single slicer containing the values from different columns? Learn how to create a slicer that applies the selected filters on any of the underlying columns. Article and download: https://sql.bi/323178/?aff=yt  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive"
 originalUrl: https://youtube.com/watch?v=UvvS376vYSw
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/sqlbi-creating-a-slicer-that-filters-multiple-columns-in-power-bi/
 type: video
 price: Free
 length: PT20M49S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "ky+cfgq5nKhKfQz152d4n/rSzpW22nkXRNQhY56uTVo/TK2ezpP8uPLsAp5tBBEkyEIIdKJ5x5g6e+wVWdFsXn7TeSm8+Gx2B3fKfrTEChTONztJ/bIxuZ3qgY9+lwVpQiseyjXC4T7PE/1RQPNnP5zMbLIA/vsVRgk5ab0Chlv7sgpGC8jfkm1JjBXAW+hCe+m3UfwKEe66dqro6hFSfGnEpU4zEkFcy9iAF12fiQE4qs8pS7yGXj2NjgmVzbAFULr54T0kvQeDN6WnulQ/+1O2tcVvlvuXhLXGGte5WapG6RVTV/RW+KlGBdYFk/wW5KHNum5uhqmzkjjqyFW35egDjCz6l4EWRs5dOmSyX/emdE61cDW9DtfHXvGog8ZasmNgFAyISvkJ3B7/N7pxqg==;3O4JZppKtPyl6P9E08pSDg=="
+secured: "qjIz3IxEki2d2YQzqysUmw66E8gn6lasTSnHp3IIZ/7psfIXvIqKOkED9wr+iuQSYVIkuzde8WVoIOt397ySUCAJSdxc1WQuduLVx9+2RXZCP61kLbfo5UoypB9Td7mVqWk544tbb7YKglAVJYcWq9aKwMJ8Ulp6myR0Mex3rmr2w/TPCXkhZy7PV4hH4Xe9ek+Saiv7H8dIoOVGEr1x2gT0QetcIDaoDAXSyQMaO9b8niBAZ2Q2PpAzQ9P7E0Gu+YSaHjPM2d0FznH4b59Tqwn6JN/32Y6FczFpk9GwnQs3RvpbntRlAJzP3jibntX4LVD8m6e/QRKFzAxe3CpAGV6ohjT8rXYrkaX3b5mVcXE4ws4eGuGu9JdDwEZui7ma;mDvEaefJgDiboqGgJoKedA=="
 ---
 
