@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bleepingcomputer.com/offer/deals/check-out-these-bundles
 cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/offer/deals/check-out-these-bundles-to-help-master-excel-power-bi-desktop-more/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:
