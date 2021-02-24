@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT8M8S
 publishedDateTime: 2019-09-26T13:07:16Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/P483x2uanks\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "6c4gOeqQJUM5cikIDjVrJwAk1EjBmvNnBHeOP3N1eALWIHu3bjRn1vl4K0ZyG3bNddoz9QPoVfqZ9UTPPNs1ovrDcLAir03qGS3jQPiYk2JMXOOwUTGXvgYwvy8yXnXHOcrf/5y9KJnjwTbE0KgYWR6OZ1KV0g2DA/joSNgTVyehE/Vaz+Ek8khTuETaRhnb9Ba3ModDohUpblDVI3AepFJEusdzbZ7GobjcmMFhFLrbk5fbpCoXsaFGG3+MaC+TCAZ3tKWELx1x3X7VPKe5VxWzWuTkBVeyVhKIU0hjrtjDkw6L7MtToSY7z6Xdqx7NyvU+h5Fz70RQRl67YD9/jXAFDGJFu6P9AnzBjIq2F+oUz7zUwIqoJOfwfL5Ht5bx8fljj7KnbAIPwJTlQ1lpNeQcONBtA5CadASjnAI0hAc=;J0FRh+R6oqDZKHZASFMmBA=="
+secured: "Pifax+AJFsavdgvQJWqqlQnFdmqClhCi+oHGweLLsbD71JkAu1E0Hyfy+luFvFMWiHu4mhgVJnFMn6/I8ZvrY2we+p4ZnORrxqIj4g3TVBYXsycqgBrrg25+LCc8ZWTT9t/BgPS5Bu3t75/x35wxxeguFehLcwV7a4TbChOEZ/FdL2qcENsymZ5G+fuE5ooyxd+IAksXLTkYPr5ab9recU0XxmduR3HAZdlWjhsjYEfQyua3rqn4cAWb2Gtt4LmhvmZOBmLAsnpI00CIrYXzFeS3ydoVcQrf1xVtRbATmgnsfH5lrkAZLD3TJmtHzJSYp1QQbTpb+Oi58RxOvwEQkRWPrQNce9ITt7J9i/uoakD1L8xARomNPR1xBPLwPQp/gC9V/ZdYdIepJ9c8TfaH8dJZuTOcz/agZ7X3Eq5rHQo=;ebyj+7kFCG5M3541we3xpg=="
 ---
 
