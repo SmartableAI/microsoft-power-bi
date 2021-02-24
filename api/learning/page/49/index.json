@@ -35,36 +35,6 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-add-custom-icons-to-power-bi-buttons-and-change-icon-on-hover-and-on-press-power-bi-design-tip.md",
-      "title": "Add Custom Icons to Power BI Buttons and Change Icon On Hover and On Press  | Power BI Design Tip",
-      "excerpt": "In this session, we will discuss how we can Add Custom Icon to our Power BI Button. With Power BI May 2020, Update, Power BI Buttons now support fill Images.  With this new feature, you can now highly customize the look and feel of your report using fill Images option.  In this video, we will change",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/dhruvin-shah-add-custom-icons-to-power-bi-buttons-and-change-icon-on-hover-and-on-press-power-bi-design-tip/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/dhruvin-shah-add-custom-icons-to-power-bi-buttons-and-change-icon-on-hover-and-on-press-power-bi-design-tip/",
-      "originalUrl": "https://youtube.com/watch?v=hTX79vKL-DM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hTX79vKL-DM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M49S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-06-05T02:19:21-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/hTX79vKL-DM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/dhruvin-shah-add-gradient-legend-to-power-bi-visual.md",
       "title": "Add Gradient Legend to Power BI Visual",
       "excerpt": "In this session, we will be talking about the newly rolled out feature by Microsoft during July 2020 release, which is Adding a Gradient Legend to Power BI Visual.  The Gradient Legend can be applicable to the following graphs. • Stacked Bar Chart • Stacked Column Chart • Clustered Bar Chart • Clustered",
@@ -517,23 +487,23 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-conditional-formatting-on-total-and-sub-totals-column-for-table-and-matrix-visualization-in-power-bi.md",
-      "title": "Conditional Formatting on Total and Sub Totals Column for Table And Matrix Visualization in Power BI",
-      "excerpt": "In this session, we will discuss – How to Apply Conditional Formatting for Totals and Sub Totals columns of Table and Matrix Visualization in Power BI.  This new feature has been rolled out by Microsoft during April 2020 update. Now, we can apply conditional formatting only on Total and Subtotal in Table",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/dhruvin-shah-conditional-formatting-on-total-and-sub-totals-column-for-table-and-matrix-visualization-in-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/dhruvin-shah-conditional-formatting-on-total-and-sub-totals-column-for-table-and-matrix-visualization-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=2alAHvYNx5M",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2alAHvYNx5M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M9S",
+      "path": "_learning/videos/dhruvin-shah-common-steps-to-embed-power-bi-report-using-aspnet-library-part-6.md",
+      "title": "Common Steps to Embed Power BI Report using ASP.NET Library | Part 6",
+      "excerpt": "Welcome to Power BI Embedded Step by Step series. Myself Dhruvin Shah. The entire series is dedicated to the Intermediate level of Power BI folks. The series covers step by step guide to embed the Power BI report in any third-party custom application or SaaS application. This video is dedicated to ASP.Net",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/dhruvin-shah-common-steps-to-embed-power-bi-report-using-aspnet-library-part-6/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/dhruvin-shah-common-steps-to-embed-power-bi-report-using-aspnet-library-part-6/",
+      "originalUrl": "https://youtube.com/watch?v=ZpDFeTJKKLU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZpDFeTJKKLU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M54S",
       "provider": {
         "name": "Dhruvin Shah",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2020-05-11T05:32:11-07:00",
+      "publishedDateTime": "2019-03-19T10:12:07-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/2alAHvYNx5M/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ZpDFeTJKKLU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -835,6 +805,36 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/yqvYOHZ6Jb0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-data-storytelling-with-comic-characters-based-on-emotions-and-poses-of-your-data-in-power-bi.md",
+      "title": "Data Storytelling with Comic Characters Based on Emotions and Poses of your Data in Power BI",
+      "excerpt": "In this session, we will discuss one of the custom visualization available in Power BI Desktop, which is “Comicgen” visual by Gramener.  We all aware of KPI Visualization in Power BI. But what if we need to show emotions or comic characters based on our data?  Comicgen visualization helps us here. In",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/dhruvin-shah-data-storytelling-with-comic-characters-based-on-emotions-and-poses-of-your-data-in-power-bi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/dhruvin-shah-data-storytelling-with-comic-characters-based-on-emotions-and-poses-of-your-data-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=4N-6BvTVUYs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4N-6BvTVUYs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M30S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-06-09T19:16:09-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4N-6BvTVUYs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

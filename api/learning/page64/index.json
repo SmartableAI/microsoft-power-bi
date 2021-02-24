@@ -4,25 +4,55 @@
   "page": 64,
   "value": [
     {
-      "path": "_learning/videos/learn-power-bi-how-to-manage-a-global-supply-chain-with-power-bi-talk-power-bi-live-subscribe-join.md",
-      "title": "How to Manage a Global Supply Chain with Power BI 🔴Talk Power BI LIVE (Subscribe & Join)",
-      "excerpt": "Business is increasingly global, with supply chain crossing multiple vendors across country and continents.  Can Power BI help you manage the global Supply Chain? How can it make you more efficient? More resilient? Save you money? Find out in this special session with our guest: Christian Osborn https://www.linkedin.com/in/christianosborn/",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-how-to-manage-a-global-supply-chain-with-power-bi-talk-power-bi-live-subscribe-join/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-how-to-manage-a-global-supply-chain-with-power-bi-talk-power-bi-live-subscribe-join/",
-      "originalUrl": "https://youtube.com/watch?v=485RC6ZsgSQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/485RC6ZsgSQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT49M57S",
+      "path": "_learning/videos/learn-power-bi-how-to-get-real-world-power-bi-experience-realpowerbi.md",
+      "title": "How to get real world Power BI experience #RealPowerBI",
+      "excerpt": "If you are a paid student in the Learn Power BI program sign up for this adventure here: https://www.surveymonkey.com/r/JCPRXXX (Deadline May 23 6pm Pacific)  If you are interested in enrolling in the Learn Power BI program contact us at avi@avising.com ===================================== FREE Power",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-how-to-get-real-world-power-bi-experience-realpowerbi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-how-to-get-real-world-power-bi-experience-realpowerbi/",
+      "originalUrl": "https://youtube.com/watch?v=Tzkoil7ROm4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Tzkoil7ROm4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M25S",
       "provider": {
         "name": "Learn Power BI",
         "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2020-01-31T10:27:10-08:00",
+      "publishedDateTime": "2018-05-21T23:30:18-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/485RC6ZsgSQ/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
+          "url": "https://i.ytimg.com/vi/Tzkoil7ROm4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-how-to-make-your-power-bi-project-a-mega-success.md",
+      "title": "How to Make Your Power BI Project a Mega-Success!",
+      "excerpt": "I share 6 tips to make your Power BI project a mega-success! 1. Instead of Forgiveness... 2. Old vs. New 3. Bite-Sized 4. Small step for Power BI, giant step for... 5. No Lipstick on a Pig 6. Shining Beacon ----------------------------------------------------- FREE Power BI Step-by-Step Tutorial http://www.learnpowerbi.com/bonus",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-how-to-make-your-power-bi-project-a-mega-success/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-how-to-make-your-power-bi-project-a-mega-success/",
+      "originalUrl": "https://youtube.com/watch?v=ODvUlTfx7qA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ODvUlTfx7qA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M8S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2017-11-19T21:08:59-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ODvUlTfx7qA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
@@ -725,6 +755,36 @@
       ]
     },
     {
+      "path": "_learning/videos/learn-power-bi-power-bi-cumulative-sum-hangout-talk-power-bi-live-subscribe-join.md",
+      "title": "Power BI Cumulative Sum + Hangout 🔴 Talk Power BI LIVE (Subscribe & Join)",
+      "excerpt": "✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask any Power BI question. 💡 Join https://www.facebook.com/groups/TalkPowerBI to continue the conversation  Hello, I am Avi Singh, Microsoft MVP and Power BI Pro! I just love talking about Power BI. So much so that I",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-power-bi-cumulative-sum-hangout-talk-power-bi-live-subscribe-join/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-power-bi-cumulative-sum-hangout-talk-power-bi-live-subscribe-join/",
+      "originalUrl": "https://youtube.com/watch?v=veCw3S7fJLQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/veCw3S7fJLQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2H4M51S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2018-09-21T13:50:00-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/veCw3S7fJLQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/learn-power-bi-power-bi-dashboard-review-makeover-talk-power-bi-live-subscribe-join.md",
       "title": "Power BI Dashboard Review & Makeover  🔴Talk Power BI LIVE (Subscribe & Join)",
       "excerpt": "In Power BI 'Dashboard Makeover'  • We Review Power BI Reports/Dashboards sent in by users  • Provide expert feedback and ideas on how to improve  • Email Your Screenshots to avi@avising.com with Subject: Dashboard Makeover  ⚠️NOTE⚠️ :  • Do NOT send any sensitive data in your screenshots  • Watch this",
@@ -785,6 +845,36 @@
       ]
     },
     {
+      "path": "_learning/videos/learn-power-bi-power-bi-data-modeling-realpowerbi-talk-power-bi-live-subscribe-join.md",
+      "title": "Power BI Data Modeling #RealPowerBI 🔴 Talk Power BI LIVE (Subscribe & Join)",
+      "excerpt": "✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask any Power BI question. 💡 Join https://www.facebook.com/groups/TalkP... to continue the conversation  Hello, I am Avi Singh, Microsoft MVP and Power BI Pro! I just love talking about Power BI. So much so that I have",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-power-bi-data-modeling-realpowerbi-talk-power-bi-live-subscribe-join/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-power-bi-data-modeling-realpowerbi-talk-power-bi-live-subscribe-join/",
+      "originalUrl": "https://youtube.com/watch?v=8QPBDHt_lxQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8QPBDHt_lxQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H46M50S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2018-09-14T13:25:56-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8QPBDHt_lxQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/learn-power-bi-power-bi-deployment-options-for-your-clients-with-kirill-talk-power-bi-live-subscribe-join.md",
       "title": "Power BI Deployment Options for Your Clients with Kirill 🔴Talk Power BI LIVE (Subscribe & Join)",
       "excerpt": "Connect with Kirill: https://www.linkedin.com/in/kirillperian/ https://data-driven-solutions.com/  ✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask any Power BI question. 💡 Join the Talk Power BI Insider's Club at http://www.TalkPowerBI.com for special privileges",
@@ -804,96 +894,6 @@
           "url": "https://i.ytimg.com/vi/3ogSMtymrIs/hqdefault.jpg",
           "width": 480,
           "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-employee-vs-consultant-charles-avi-show-on-talkpowerbi-live.md",
-      "title": "Power BI Employee vs. Consultant: Charles & Avi Show on 🔴TalkPowerBI LIVE",
-      "excerpt": "✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask any Power BI question. 💡 Join the Talk Power BI Insider's Club at http://www.TalkPowerBI.com for special privileges and access   Hello, I am Avi Singh, Microsoft MVP and Power BI Pro! I just love talking about Power",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-power-bi-employee-vs-consultant-charles-avi-show-on-talkpowerbi-live/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-power-bi-employee-vs-consultant-charles-avi-show-on-talkpowerbi-live/",
-      "originalUrl": "https://youtube.com/watch?v=fOZ8RtnCsqs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fOZ8RtnCsqs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H22M28S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2020-06-05T11:03:18-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/fOZ8RtnCsqs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-february-update-only-what-you-need-to-know-persistent-filters-coming-soon-and-more.md",
-      "title": "Power BI February Update: Only What You Need to Know (Persistent Filters Coming Soon and More...)",
-      "excerpt": "I cover only the highlights for the latest Power BI February Update and I start with the biggest news first! Persistent Filters are coming soon to Power BI. OMG!  FREE Power BI Step-by-Step Tutorial http://www.learnpowerbi.com/bonus 👉 Download Lesson PBIX Files at http://www.learnpowerbi.com/bonus-download",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-power-bi-february-update-only-what-you-need-to-know-persistent-filters-coming-soon-and-more/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-power-bi-february-update-only-what-you-need-to-know-persistent-filters-coming-soon-and-more/",
-      "originalUrl": "https://youtube.com/watch?v=7tdDc1PNt80",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7tdDc1PNt80\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M36S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2018-02-27T23:04:12-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/7tdDc1PNt80/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-financial-dashboard-frequency-x-reach-x-yield-revenue-the-fry-approach.md",
-      "title": "Power BI Financial Dashboard: Frequency x Reach x Yield = Revenue (The F.R.Y. approach)",
-      "excerpt": "Let's do something unique for building a Financial Dashboard using Power BI. We would use the F.R.Y. approach (Frequency, Reach, Yield) to analyze our revenue numbers.  You can also use the F.R.Y. approach to analyze any other performance metric. Leave a comment and let me know how it went for you?",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-power-bi-financial-dashboard-frequency-x-reach-x-yield-revenue-the-fry-approach/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-power-bi-financial-dashboard-frequency-x-reach-x-yield-revenue-the-fry-approach/",
-      "originalUrl": "https://youtube.com/watch?v=igVN62XodWA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/igVN62XodWA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M7S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2017-11-06T15:38:32-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/igVN62XodWA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
           "isCached": true
         }
       ],
