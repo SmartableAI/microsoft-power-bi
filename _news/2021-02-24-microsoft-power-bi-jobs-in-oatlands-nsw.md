@@ -6,16 +6,23 @@ publishedDateTime: 2021-02-23T22:36:00Z
 originalUrl: "https://www.upwork.com/freelance-jobs/au/microsoft-power-bi-in-oatlands-nsw/"
 webUrl: "https://www.upwork.com/freelance-jobs/au/microsoft-power-bi-in-oatlands-nsw/"
 type: article
-quality: 37
-heat: 37
-published: false
+quality: 139
+heat: 139
+published: true
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TJQ-kQ6IsPk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
   name: Upwork
   domain: upwork.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Power BI
+  - Power BI Desktop
 
 images:
   - url: "https://www.upwork.com/static/marketing/ui/master/img/logo-1200x630.png"
@@ -23,6 +30,6 @@ images:
     height: 630
     isCached: true
 
-secured: "A8Qn0nm9FNdf5fuhFYBqh37UsJb08hJQSROI2oyHPoIagJyLhnXRVNO82Ux7al7giAsohhECQwYiDNUlUTnOkLWqh1UjJIqU7tzZUyFM5yCreAtDnSFgvnegUq/FjzvIlRpDskmWs0Qy44qCnXwqrDWj4DWBHOLk/CAHWEr1lo97C5fYnhXt/zngRZNtCywU1/LYegM8tD0ElzLBl87uBJ+IIJyF564y6MUZuiplBVjIbTiZWQPawkJjgN+585u6YEEK7z1my1d1N/bAIBYu2kuwJXrYkn+ChNPFAVHsChAXEuChMG5akHk27CRD/gd08YxmxRjASYjL8hypOmbk87CoqIyOAF34SpQFQE/sfXE=;XYFRAQJZpBag0ZojbgG0Ng=="
+secured: "ttf/M6mAfm7tZ6y6ZVNU4NquEzOMhp15UgkkrFs2RQwtbR+LGe4wLhrK+plwhgwhNBiDOhpixnsHsxu70cABKiaWVXRNhAO63aPffdBs84HoS0EJl5mZh29XUxUGvemFChBDnBm6ol08qpowCbrmgWj9B44AsidYuTE4ID+lyHXDAS6zw9Qmw0igw0Hem6cfW3NGHDXXJWx0gZkpZup7ve/WJ2PO6l/3pd5X7S6Atrafm4ipsyRgPm1Q1ZTiOmpyM0jTRpNwsZXOTlvL8PEoz0lwPzA/B/L1zJndCqWPkw1okXa8Op9sChh1dMOextowElng8Fpv+ahWkYauDec34FcYUqugg9L8ubzjAaA5VNgIGVdR4Wn2K3S+4bVcClSjURfSvkjqgP4KgEnFI//ZDS+b8gPszyhGX8N8mE498XA=;mhZYb1PI9siIuEAbbmQGBw=="
 ---
 
