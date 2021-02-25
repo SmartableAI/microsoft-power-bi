@@ -2,6 +2,7 @@
 title: "Automatically Send Power BI Report as PDF or PPT format in Email"
 excerpt: "During this session, we will learn how we can automatically send our Power BI Report as PDF or PPT format in Email. We all know about Email Subscription functionality in Power BI. Email Subscription in the Power BI used to send Power BI page subscription to set of users via email based on scheduled date"
 originalUrl: https://youtube.com/watch?v=EqDZY3mC2aw
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/dhruvin-shah-automatically-send-power-bi-report-as-pdf-or-ppt-format-in-email/
 type: video
 price: Free
 length: PT6M8S
@@ -23,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "JgppUG9Z5tNWtPPjLT+ZRxJxEnouW6IsZZnrU3sKi/8WPMSABS8ykJA0lS/i8vLmot/AsfWlPk5Onm8iak299tb5fB7c2tix0di442Bc9ooRt6XoINrmhOrGL3bfVnp9mZ5UyPuReufuIhtjp72KgvlFEUcPNspeZiOeVorJIUWfg68Lj88aNvhDx0jorn0uiHPNbzWrD2vaPaC3fi+4emI6vPqCkgjl0p62vJS9cJnddGcKSh3y1RDzrKwpJHY/r0hoGVZviDEbQsqgXL4tflxEIV/iBgBcsDTZGa6gjBFuFNO6v4HT+Xm/xf+9zDLifuEiwfptX2l2spZzBp6oHXk81Hsh8incFTrZ9fx56kBAwTnk1hc66tNTl4b0SEmAyO0sGGvB0Hp90WV2mqWDdQ==;4vo3qFHafwtJkAuAeUOJAw=="
+secured: "bxYmTenW4jJSlXS99Oqn1wJjPQ4zUDm6VvB4EOYUsCtu6YLkm+d3186ZG1iXktzkHXB/OxBzQJBlcuzPdmjn3BkJkUwMg82iYv5E5qi6Q+bRvFO2FcnoJgkOrbLf7sDnJ2mhZuIBPdkzBaEmTVQOTnTYAEaBxu5yK40MMM3y7LlMffEQeocriosqjyaYK3gblKvw56OB6Y22vG/Nov99vm7WW0x5p8RbfM9x02r8IJgBpJvfQ7zOV8gPJHWugar6YiPiaFG+6iQn2EnatOi0f2uK3HCuiD8nDgni8e+tj5bJ74+TNRV6UTQGe41qYg1Rh49CEQSHHHJXJA03HmJLMtLg2dt86EHlGQxgpPt4DdH+hA58f0e9yz/XE9nQuPty;veTyzf+MTI4LhFW5yxZx6A=="
 ---
 
