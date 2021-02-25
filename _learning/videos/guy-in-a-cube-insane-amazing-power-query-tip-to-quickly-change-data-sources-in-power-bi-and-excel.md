@@ -2,6 +2,7 @@
 title: "INSANE AMAZING Power Query tip to quickly change data sources in Power BI and Excel"
 excerpt: "If you need to change your data source references in Power Query, you are probably doing them individually. We found an INSANE AMAZING tip to make you way more efficient and it works in Power BI and Excel!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your"
 originalUrl: https://youtube.com/watch?v=XIq5vN5oPf8
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-insane-amazing-power-query-tip-to-quickly-change-data-sources-in-power-bi-and-excel/
 type: video
 price: Free
 length: PT5M38S
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "LxadWcbHw/XIMu4g7VhnuJVxTW2gJjwqSHLcZkllC4bvW2Zpx+Yd9xIF6QbtRcJ95H5sstlkzTrRugb1yMRreEUzgCcMk+f2z5AYPXa4di8uBe73F+q3GanmQaVGiMjNBB2mWRmBWzFukZC2tUPnZSGYotLvZYvSKf1B2v54vYHh0AVqxvB1Trnz6iqPIPfmrUc9FSLM6bIXPgbumDoIrEvU0SRSGF0icO747vdiFL+gPTtGe6vDD+kbCj9wtx7Eyav1pNebpKRWQvtCgp/8B2/m4tJ3/P8oEvUmyjcODfdDitWBBzYVsgRq1RHXSefIb+hRjM/CnmNOcy0IEnJFKkrIjVDaQ3PZsuEb75bvdpOjXkBiB8jQ4vcHVz8nSPVnVQRl46YAKNTU6M8OS9FWyg==;AEEdZi6aSJXS+seq/nPMOw=="
+secured: "7I1UYtNhnmydK4Fffa26ECxZ1xH1FK946/vRz4Qh2TRGnTvkadKwf6uPmWDBWerHqFHA7hRmnKRSKIlwU4P2fn9ilSoC9XVB/KNxxyT/NHCTguohLSmCiv17Rxg8g0ESyAyHQVeIi1f9Bmcx9q60CU0zDB6036ivqeB3YiTuDX1oHLU6gteo9e5XdyTBp7U882T6jGa4MTiWAqsNG1QiF2QmFhEhA9/SOtdwUGSfWwJ1EjC90Ki7uVIJQRnlGzEN60nXgBwP6jnJQNGaEdY+3JfnxuCe5G92BY31r/sE/aOwLWaoubynG3q/VRdvpCaGIrDKwH0CyR09vgxLaXbY0HfEVACNCQavm/vuQcwqK/SUJpAswqdivSJiEqErWK6mYgKlwE04EZum66H9DR420g==;eFBN3nrHQH3ZPBPLy5tAYw=="
 ---
 
