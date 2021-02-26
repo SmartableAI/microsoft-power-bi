@@ -3,8 +3,8 @@ category: news
 title: "Power BI On-premises data gateway February update released"
 excerpt: "The Power BI On-premises data gateway update for this month introduces a name change for the Azure Cosmos DB Connector, a .NET framework update, in addition to other changes as well."
 publishedDateTime: 2021-02-24T17:22:00Z
-originalUrl: "https://www.neowin.net/news/power-bi-on-premises-data-gateway-february-update-released"
-webUrl: "https://www.neowin.net/news/power-bi-on-premises-data-gateway-february-update-released"
+originalUrl: "https://www.neowin.net/news/power-bi-on-premises-data-gateway-february-update-released/"
+webUrl: "https://www.neowin.net/news/power-bi-on-premises-data-gateway-february-update-released/"
 ampWebUrl: "https://www.neowin.net/amp/power-bi-on-premises-data-gateway-february-update-released/"
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/power-bi-on-premises-data-gateway-february-update-released/"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 428
     isCached: true
 
-secured: "hfNMhth/CoG2Jl1lQI25ngykUXF2HvtouqiBxMjxU9o/9lQVpO0OlCSjtUKjsO0bXc+CDeBOpYsbMx8YtdbKJIdsfJCyJMMtruOFQU2CULTeyfCIZNIWRbKhoVsHr1OKkiWwuEn6B/dYw+ziWMawtwSXxZ4bf5lS2F3N7udDAs9tgyAmT9D0dnVtnpS9aF2GHgRmvBJInZqo0A3hDGQWq3guiHwZ6AG+6Uy286feRlb4Vy5QV8eqAjF3JWRQBISBF9+F5JInjEnfRp30DaRvrT1/HJYgzq9Mwl3UGBxKtIrcS7d21yKgGtJ+9LInUjBOqxiZLhEOOPYCwFi528TrYlezBrWVg1XcTwJh16Nrvm7d0bigM8MHiEIiQp3scHRTdPkoKD9eDGaqY40c6AgJbnwt1g1z8zULjrPOG5MWZEp+Y54JAkO788/n7EXoB4HPExH0hla7voVOtRGrsXxSb4W4c6jdcNcE6qG00gQnRg7gIyfBcVE3Pz/Z2EKh8mPvROdbidJFBrTHcUkcl4xa6A==;w40uFAzXOamw0aL890+esQ=="
+secured: "FDyIeydY9su9lWAcIp7KMdV6UHPyznMyAtIMmmyoLf94MGAsO9By08dja06VAkP8nFVYiDxgjQLw2JHxWDBZE246zIuw4ad6DXOWy7owdY7OoX4Y6r+hGVyLPv7l/tkxoDKvtXb+vZsRQrHGrA4BztzCKX5Ew6Pkc37YoivulDc3M9lMn2WnJsXGDGJTnQ8ORJWJ8F4T5M04gFFfDxkYQ9S0aaguSRC5JJ0MLLkhM14kTGaMoGYCPcbPRrLscsfFW+6ZLKlhpW+lqR6atHevPx+mHOXhoy7x9WXc9BswTGViJUlU0ZMUxvYj5JrDwDp33ddLwPmJuTqJUwmiLsdLd10dn/7HeBeDzlpzrv/Ut1g=;ErDVgm9qZNy/VJxX0u7EvA=="
 ---
 

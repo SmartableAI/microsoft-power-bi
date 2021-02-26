@@ -2,6 +2,7 @@
 title: "DAX Fridays! #199: Using curly brackets in DAX expressions?"
 excerpt: "Have you used curly brackets when writing DAX? In today's video we will explore when and how you can use them.   Happy Friday!  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1"
 originalUrl: https://youtube.com/watch?v=oozA8REyhUQ
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-199-using-curly-brackets-in-dax-expressions/
 type: video
 price: Free
 length: PT9M16S
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "x3co7FY372iY+AGpWbnwWxeDlbzNsjkSIy7sIANVkE8pj/jumpdz9Nz2zCCbNg9A8886LoG5Qz0usZ67Jcp2+LDn+BF81ZM0YNP7fj8DcwMIIrUjrazK7kDG7a/MmBiImbnHzzZ6BHxclFZijSC0/FaVLUNrGNJwKt+NysmP6t9pYOSnoP3dRUUPSjlUxb/r//wtwkD0OXbfIXMabqyD2w/akLRRhARSSr11HlcHoef0APfrs/NlzdmrbfJ669F5sFgv5xgmt15OMJV3I5HfwroSTxbq+yJSaGeZiBR8jNgIt3zzLGaitIqfY2q2C1XY1LMpz16AzYom6fcD8e4zrQG9+xM6WURTa+7siF+GXY4rGZBr9Gl/2kW/Oy83K0qfV+BQ4NMeaF8pm3cyDMGhvw==;EFbaEkTh92wkPLJYCoE5rw=="
+secured: "w1r7g0noGd9gXntcGPPIAsvPWU3og19QpcnFlbk1ztAr9psjif57cXmaA4v4XKd4QnCW/vIycQAv+VZYP5c7VvxOIcpa+8njjANjmy8g2AuL+gL8fbO0NRST1DlrEXvgweNDB/QenoReuula8Nk2rH59ONkmtXVF0TyR+cP1c4V6HlauaiBGGHPr7+MLXGyXMVwQD5vXvyMuDEHCXfh/pangbXy3SXOHo3ndrx4+dgLnW0gAda2XJLOWPwswzhjGU92MP+HiOP3MrJivvLT6uCOfm3THJV/NYGp8ABLIUi4FVo5bQF3LN5VfXT5Pfja81UvYN8wU71T1AZZMclG5/PbfAAY5bApYmMT98Hu74ne0SpSUxICqXLZbirI/ha/o;c9Xw4fthm+Vo3sIeGD6gzg=="
 ---
 
