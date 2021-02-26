@@ -7,7 +7,7 @@ originalUrl: "https://www.accountingweb.co.uk/tech/excel/abc-of-power-bi-f-is-fo
 webUrl: "https://www.accountingweb.co.uk/tech/excel/abc-of-power-bi-f-is-for-forecast"
 type: article
 quality: 139
-heat: 140
+heat: 139
 published: true
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1u6webYD-pc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"

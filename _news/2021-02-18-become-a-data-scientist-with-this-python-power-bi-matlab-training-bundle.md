@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/become-a-data-scientist-wit
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/become-a-data-scientist-with-this-python-power-bi-matlab-training-bundle/"
 type: article
 quality: 75
-heat: 76
+heat: 75
 published: true
 
 provider:
