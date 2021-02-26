@@ -1305,8 +1305,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 550,
-            "average": 4.7
+            "count": 551,
+            "average": 4.6987295
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2220,8 +2220,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 1499,
-        "average": 4.6871247
+        "count": 1500,
+        "average": 4.687333
       },
       "provider": {
         "name": "Microsoft Learn",
