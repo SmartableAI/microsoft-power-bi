@@ -1420,8 +1420,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-requirements/",
           "length": "PT23M",
           "ratings": {
-            "count": 336,
-            "average": 4.7529764
+            "count": 337,
+            "average": 4.7537093
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2099,8 +2099,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
       "length": "PT9M",
       "ratings": {
-        "count": 860,
-        "average": 4.7639537
+        "count": 862,
+        "average": 4.764501
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2576,8 +2576,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
       "length": "PT43M",
       "ratings": {
-        "count": 1825,
-        "average": 4.758356
+        "count": 1827,
+        "average": 4.7586207
       },
       "provider": {
         "name": "Microsoft Learn",
