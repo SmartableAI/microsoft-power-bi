@@ -17,7 +17,7 @@
       "twitter": {
         "username": "arunulag",
         "url": "https://twitter.com/arunulag",
-        "followers": 2936
+        "followers": 2937
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/arunulag/"
@@ -64,7 +64,7 @@
       "twitter": {
         "username": "patrickdba",
         "url": "https://twitter.com/patrickdba",
-        "followers": 5922
+        "followers": 5923
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/patrickdleblanc/"
@@ -85,50 +85,13 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 77,
+      "heat": 71,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/415691890080894976/g0hNL2mf_400x400.jpeg",
           "width": 400,
           "height": 400,
           "title": "Patrick LeBlanc",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/seth-bauer.md",
-      "title": "Seth Bauer",
-      "excerpt": "As a co-owner of PowerBI.Tips I enjoy helping create a platform for new and advanced users alike to learn and expand their skills and get the most out of Power BI.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/people/seth-bauer/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/people/seth-bauer/",
-      "type": "profile",
-      "name": "Seth Bauer",
-      "bio": "As a co-owner of PowerBI.Tips I enjoy helping create a platform for new and advanced users alike to learn and expand their skills and get the most out of Power BI.",
-      "twitter": {
-        "username": "Seth_C_Bauer",
-        "url": "https://twitter.com/Seth_C_Bauer",
-        "followers": 1763
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/seth-bauer/"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Power BI Tips",
-        "domain": "powerbi.tips"
-      },
-      "topics": [
-        "Power BI"
-      ],
-      "heat": 71,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1176155552587681793/4aUcPKoe_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Seth Bauer",
           "isCached": true
         }
       ],
@@ -148,7 +111,7 @@
       "twitter": {
         "username": "awsaxton",
         "url": "https://twitter.com/awsaxton",
-        "followers": 5620
+        "followers": 5621
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/guyinacube/"
@@ -182,45 +145,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/mike-carlo.md",
-      "title": "Mike Carlo",
-      "excerpt": "Consultant for Concurrency for all things PowerBI. With over 11 years of data experience I'm making waves by deploying PowerBI into local Milwaukee Companies.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/people/mike-carlo/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/people/mike-carlo/",
-      "type": "profile",
-      "name": "Mike Carlo",
-      "bio": "Consultant for Concurrency for all things PowerBI. With over 11 years of data experience I'm making waves by deploying PowerBI into local Milwaukee Companies.",
-      "location": "United States",
-      "website": "https://t.co/Z3zO6dilSk",
-      "twitter": {
-        "username": "Mike_R_Carlo",
-        "url": "https://twitter.com/Mike_R_Carlo",
-        "followers": 2020
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/michaelcarlo/"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Power BI Tips",
-        "domain": "powerbi.tips"
-      },
-      "topics": [
-        "Power BI"
-      ],
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1109338504268439552/OY_Va867_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Mike Carlo",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_people/avi-singh.md",
       "title": "Avi Singh",
       "excerpt": "Power BI has transformed my life, multiplying my impact manifold. Now I am on a mission to spread the word and share the knowledge",
@@ -234,7 +158,7 @@
       "twitter": {
         "username": "powerbipro",
         "url": "https://twitter.com/powerbipro",
-        "followers": 4547
+        "followers": 4548
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/avichalsingh/"
@@ -260,6 +184,45 @@
       "content": "\r\n"
     },
     {
+      "path": "_people/mike-carlo.md",
+      "title": "Mike Carlo",
+      "excerpt": "Consultant for Concurrency for all things PowerBI. With over 11 years of data experience I'm making waves by deploying PowerBI into local Milwaukee Companies.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/people/mike-carlo/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/people/mike-carlo/",
+      "type": "profile",
+      "name": "Mike Carlo",
+      "bio": "Consultant for Concurrency for all things PowerBI. With over 11 years of data experience I'm making waves by deploying PowerBI into local Milwaukee Companies.",
+      "location": "United States",
+      "website": "https://t.co/Z3zO6dilSk",
+      "twitter": {
+        "username": "Mike_R_Carlo",
+        "url": "https://twitter.com/Mike_R_Carlo",
+        "followers": 2021
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/michaelcarlo/"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Power BI Tips",
+        "domain": "powerbi.tips"
+      },
+      "topics": [
+        "Power BI"
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1109338504268439552/OY_Va867_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Mike Carlo",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_people/reza-rad.md",
       "title": "Reza Rad",
       "excerpt": "#Microsoft Regional Director, #MVP #Author #Trainer #Speaker #Coach #Consultant #PowerBI ",
@@ -273,7 +236,7 @@
       "twitter": {
         "username": "Rad_Reza",
         "url": "https://twitter.com/Rad_Reza",
-        "followers": 7124
+        "followers": 7125
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/rezarad/"
@@ -293,6 +256,43 @@
           "width": 400,
           "height": 400,
           "title": "Reza Rad",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/seth-bauer.md",
+      "title": "Seth Bauer",
+      "excerpt": "As a co-owner of PowerBI.Tips I enjoy helping create a platform for new and advanced users alike to learn and expand their skills and get the most out of Power BI.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/people/seth-bauer/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/people/seth-bauer/",
+      "type": "profile",
+      "name": "Seth Bauer",
+      "bio": "As a co-owner of PowerBI.Tips I enjoy helping create a platform for new and advanced users alike to learn and expand their skills and get the most out of Power BI.",
+      "twitter": {
+        "username": "Seth_C_Bauer",
+        "url": "https://twitter.com/Seth_C_Bauer",
+        "followers": 1763
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/seth-bauer/"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Power BI Tips",
+        "domain": "powerbi.tips"
+      },
+      "topics": [
+        "Power BI"
+      ],
+      "heat": 42,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1176155552587681793/4aUcPKoe_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Seth Bauer",
           "isCached": true
         }
       ],
