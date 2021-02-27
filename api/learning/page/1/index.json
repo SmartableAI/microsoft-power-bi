@@ -218,6 +218,45 @@
       ]
     },
     {
+      "path": "_learning/videos/curbal-vaccination-tracker-part1-get-data-from-github-and-schedule-refresh-it.md",
+      "title": "Vaccination Tracker Part1: Get data from github and schedule refresh it",
+      "excerpt": "This video is part 1 of the upcoming series: How to create a Vaccine tracker.  In Part 1 we will get the data from Github, publish it to a PPU workspace (we will need that later) and show you how to schedule refresh it and what to do if the option is not available.  To get the files go to Curbal Download",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-vaccination-tracker-part1-get-data-from-github-and-schedule-refresh-it/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-vaccination-tracker-part1-get-data-from-github-and-schedule-refresh-it/",
+      "originalUrl": "https://youtube.com/watch?v=-oT4PLmv96w",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-oT4PLmv96w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M28S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-01-18T06:02:17-08:00",
+      "heat": 157,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-oT4PLmv96w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-how-to-filter-a-table-to-show-only-most-recent-date-by-group-in-power-query.md",
       "title": "How to filter a table to show only most recent date by group in Power Query",
       "excerpt": "It is a best practice to load in Power Bi only the data that you need. In today's video, I will show you how you can filter a table by the last date available.   Chapters: 00:00 Intro 00:30 Explain the use case 01:00 The solution Done!  Here you can download all the pbix files: https://curbal.com/donwload-center",
@@ -317,23 +356,31 @@
       ]
     },
     {
-      "path": "_learning/videos/learn-power-bi-is-power-bi-consulting-a-safe-path-for-you-in-2021-whats-helping-what-can-go-wrong-.md",
-      "title": "Is Power BI Consulting a Safe Path for You in 2021? What's Helping 👍 & What Can Go Wrong 👎?",
-      "excerpt": "Want to learn the 5-Steps to become a successful Power BI Consultant? 👉 Sign Up for our Free Webinar on Thu Jan 21: https://web.learnpowerbi.com/consultant/  In the new year of 2021, are you thinking about creating a side-income or full-time income as a \"Power BI Consultant\"? Then you must learn the",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-is-power-bi-consulting-a-safe-path-for-you-in-2021-whats-helping-what-can-go-wrong-/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-is-power-bi-consulting-a-safe-path-for-you-in-2021-whats-helping-what-can-go-wrong-/",
-      "originalUrl": "https://youtube.com/watch?v=UPQII8NJN7E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UPQII8NJN7E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M56S",
+      "path": "_learning/videos/sqlbi-syncing-slicers-in-power-bi.md",
+      "title": "Syncing slicers in Power BI",
+      "excerpt": "Use a measure to filter slicer items instead of relying on bidirectional filters: you avoid calculation issues and improve the performance of your reports! Article and sample download: https://sql.bi/186105?aff=yt  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide to DAX:",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/sqlbi-syncing-slicers-in-power-bi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/sqlbi-syncing-slicers-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=oiCVBUQenls",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oiCVBUQenls\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M6S",
       "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2021-01-07T09:00:24-08:00",
-      "heat": 137,
+      "publishedDateTime": "2021-01-12T03:00:21-08:00",
+      "heat": 135,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/UPQII8NJN7E/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/oiCVBUQenls/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -378,70 +425,23 @@
       ]
     },
     {
-      "path": "_learning/videos/sqlbi-previous-year-up-to-a-certain-date.md",
-      "title": "Previous year up to a certain date",
-      "excerpt": "This video describes how to compute previous year values up to a certain date in DAX and Power BI. This technique is useful in case the data is presenting incomplete months or years. Article and download: https://sql.bi/352723?aff=yt  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/sqlbi-previous-year-up-to-a-certain-date/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/sqlbi-previous-year-up-to-a-certain-date/",
-      "originalUrl": "https://youtube.com/watch?v=bAOs5LTP0I0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bAOs5LTP0I0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M48S",
+      "path": "_learning/videos/radacad-how-to-import-data-from-a-power-bi-dataset-premium-only.md",
+      "title": "How to IMPORT data from a Power BI dataset   Premium only",
+      "excerpt": "Get data from a Power BI dataset is creating a live connection, which is the recommended way because you will get the entire model. However, sometimes you want to import the data from the model so that you can add other things to it (like another data source). The ability to have a composite model over",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-how-to-import-data-from-a-power-bi-dataset-premium-only/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-how-to-import-data-from-a-power-bi-dataset-premium-only/",
+      "originalUrl": "https://youtube.com/watch?v=GLc3D5GNaa4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GLc3D5GNaa4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M6S",
       "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "RADACAD",
+        "domain": "radacad.com"
       },
-      "publishedDateTime": "2020-12-18T03:00:19-08:00",
-      "heat": 132,
+      "publishedDateTime": "2020-12-03T16:03:50-08:00",
+      "heat": 131,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/bAOs5LTP0I0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-using-calculation-groups-to-switch-between-different-dates.md",
-      "title": "Using calculation groups to switch between different dates",
-      "excerpt": "Use calculation groups to change the active relationship in a model in order to let users choose among multiple dates in a Power BI report. Article and download: https://sql.bi/684295?aff=yt",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/sqlbi-using-calculation-groups-to-switch-between-different-dates/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/sqlbi-using-calculation-groups-to-switch-between-different-dates/",
-      "originalUrl": "https://youtube.com/watch?v=kilQrRR04mY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kilQrRR04mY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M29S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-12-07T11:30:20-08:00",
-      "heat": 132,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/kilQrRR04mY/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/GLc3D5GNaa4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1010,8 +1010,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 10516,
-            "average": 4.786801
+            "count": 10519,
+            "average": 4.786862
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1403,8 +1403,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 10516,
-        "average": 4.786801
+        "count": 10519,
+        "average": 4.786862
       },
       "provider": {
         "name": "Microsoft Learn",

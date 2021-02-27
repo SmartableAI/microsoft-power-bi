@@ -4,83 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/videos/guy-in-a-cube-2-ways-to-reduce-your-power-bi-dataset-size-and-speed-up-refresh.md",
-      "title": "2 ways to reduce your Power BI dataset size and speed up refresh",
-      "excerpt": "Adam shows you two things to reduce your Power BI dataset size. These are both things he commonly sees with Power BI reports and could potentially save you a lot of space and improve refresh times along with report performance.  Data reduction techniques for import modeling: https://docs.microsoft.com/power-bi/guidance/import-modeling-data-reduction",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-2-ways-to-reduce-your-power-bi-dataset-size-and-speed-up-refresh/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-2-ways-to-reduce-your-power-bi-dataset-size-and-speed-up-refresh/",
-      "originalUrl": "https://youtube.com/watch?v=c-ZqToc85Yc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/c-ZqToc85Yc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M24S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-08-22T03:32:29-07:00",
-      "heat": 74,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/c-ZqToc85Yc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-conditional-navigation-is-an-insane-amazing-way-to-change-pages-in-power-bi-desktop.md",
-      "title": "Conditional Navigation is an INSANE AMAZING way to change pages in Power BI Desktop",
-      "excerpt": "Tired of having a ton of buttons to accommodate page navigation within your Power BI report? Conditional navigation is an INSANE AMAZING way to reduce visuals on the report and provide a clean way to navigate your report.  ⬇ Download sample: https://guyinacu.be/cnavsample  📢 Become a member: https://guyinacu.be/membership",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-conditional-navigation-is-an-insane-amazing-way-to-change-pages-in-power-bi-desktop/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-conditional-navigation-is-an-insane-amazing-way-to-change-pages-in-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=-kaUnBXvvGo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-kaUnBXvvGo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M5S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-06-23T08:00:01-07:00",
-      "heat": 74,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-kaUnBXvvGo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
       "path": "_learning/videos/learn-power-bi-power-bi-the-ultimate-calendar-table.md",
       "title": "Power BI: The Ultimate Calendar Table",
       "excerpt": "Why is the Calendar table so important in Power BI? And what is the best way to create a Calendar Table? I show you in this video series. *Some videos can only be found inside the Learn Power BI Course. https://www.learnpowerbi.com 1) The Ultimate Calendar Table https://youtu.be/BtYn1hfdSAM  2) How to",
@@ -770,8 +693,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/",
       "length": "PT31M",
       "ratings": {
-        "count": 7290,
-        "average": 4.738683
+        "count": 7291,
+        "average": 4.738719
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1521,6 +1444,184 @@
       "content": "\r\n",
       "type": "video",
       "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-power-bi-the-ultimate-calendar-table-free-download.md",
+      "title": "Power BI: The Ultimate Calendar Table (Free Download)",
+      "excerpt": "Download Ultimate Calendar Table: http://www.learnpowerbi.com/bonus-download Why is the Calendar table so important in Power BI? And what is the best way to create a Calendar Table? I show you in this video series: *Some videos can only be found inside the Learn Power BI Course. https://www.learnpowerbi.com",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-power-bi-the-ultimate-calendar-table-free-download/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-power-bi-the-ultimate-calendar-table-free-download/",
+      "originalUrl": "https://youtube.com/watch?v=zXZAZrUwUe8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zXZAZrUwUe8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M35S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2017-09-13T21:29:17-07:00",
+      "heat": 68,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zXZAZrUwUe8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/collections/absent-data-channel-make-power-bi-awesome-with-python.md",
+      "title": "Make Power BI Awesome with Python",
+      "excerpt": "Using Python with Power BI is a dream made in Heaven. Learn how to incorporate machine learning models into Python that will amaze your boss and solve real world problems",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/collections/absent-data-channel-make-power-bi-awesome-with-python/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/collections/absent-data-channel-make-power-bi-awesome-with-python/",
+      "provider": {
+        "name": "Absent Data Channel",
+        "domain": "absentdata.com"
+      },
+      "topItems": [
+        {
+          "path": "_learning/videos/absent-data-channel-machine-learning-in-power-bi.md",
+          "title": "Machine Learning in Power BI",
+          "excerpt": "We can utilize Python and Scikit-Learn machine algorithms in Power with the Run Script option. In this example we will do churn analysis using an classification with the Logistic Regression package from Scikit_learn.  Check me out on LinkedIn   https://www.linkedin.com/in/gaelimholland",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/absent-data-channel-machine-learning-in-power-bi/index.json",
+          "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/absent-data-channel-machine-learning-in-power-bi/",
+          "originalUrl": "https://youtube.com/watch?v=l-83AtuHqM0",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/l-83AtuHqM0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT11M53S",
+          "provider": {
+            "name": "Absent Data Channel",
+            "domain": "absentdata.com"
+          },
+          "publishedDateTime": "2020-07-26T06:08:50-07:00",
+          "heat": 56,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/l-83AtuHqM0/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/videos/absent-data-channel-sentiment-analysis-in-power-bi.md",
+          "title": "Sentiment Analysis in Power BI",
+          "excerpt": "You can use Natural Language Processing Toolkit to quickly get sentiment scores on text like comments or tweets. You can check out the full written instructions here:",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/absent-data-channel-sentiment-analysis-in-power-bi/index.json",
+          "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/absent-data-channel-sentiment-analysis-in-power-bi/",
+          "originalUrl": "https://youtube.com/watch?v=mhe9Vs3jQes",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mhe9Vs3jQes\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT10M40S",
+          "provider": {
+            "name": "Absent Data Channel",
+            "domain": "absentdata.com"
+          },
+          "publishedDateTime": "2020-07-26T06:08:50-07:00",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/mhe9Vs3jQes/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/videos/absent-data-channel-sales-prediction-model-with-python-and-power-bi.md",
+          "title": "Sales Prediction Model with Python and Power BI",
+          "excerpt": "Create a Linear Regression Model with Python and Power BI. Use What IF parameters in Power BI to give the user dynamic investment inputs.   Contact me on LinkedIn  https://www.linkedin.com/in/gaelimholland",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/absent-data-channel-sales-prediction-model-with-python-and-power-bi/index.json",
+          "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/absent-data-channel-sales-prediction-model-with-python-and-power-bi/",
+          "originalUrl": "https://youtube.com/watch?v=0zveIwThlfE",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0zveIwThlfE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT9M54S",
+          "provider": {
+            "name": "Absent Data Channel",
+            "domain": "absentdata.com"
+          },
+          "publishedDateTime": "2020-07-31T16:30:54-07:00",
+          "heat": 60,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/0zveIwThlfE/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/videos/absent-data-channel-machine-learning-anomaly-detection-with-python-and-power-bi.md",
+          "title": "Machine Learning Anomaly Detection with Python and Power BI",
+          "excerpt": "Use the Isolation Forest algorithm to create unsupervised machine learning to identify outliers in your data. Leverage the power of Sckit Learn and Power BI",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/absent-data-channel-machine-learning-anomaly-detection-with-python-and-power-bi/index.json",
+          "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/absent-data-channel-machine-learning-anomaly-detection-with-python-and-power-bi/",
+          "originalUrl": "https://youtube.com/watch?v=obSQuZe87Ac",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/obSQuZe87Ac\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT18M34S",
+          "provider": {
+            "name": "Absent Data Channel",
+            "domain": "absentdata.com"
+          },
+          "publishedDateTime": "2020-08-25T09:01:08-07:00",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/obSQuZe87Ac/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        }
+      ],
+      "size": 8,
+      "heat": 67,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/l-83AtuHqM0/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
       "topics": [
         "Power BI"
       ]
