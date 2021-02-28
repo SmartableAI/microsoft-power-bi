@@ -4,6 +4,36 @@
   "page": 71,
   "value": [
     {
+      "path": "_learning/videos/radacad-script-for-creating-time-table-in-power-bi-with-hours-minutes-and-seconds-buckets.md",
+      "title": "Script for Creating TIME Table in Power BI with Hours, Minutes and Seconds Buckets",
+      "excerpt": "I have a Power Query script that I usually use in any Power BI solution that needs time-based analysis. However, I never had a chance to publish it here for everyone to use. So here it is. A friend's question about a time table reminded me that it is good to publish this to the public. This is a script",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-script-for-creating-time-table-in-power-bi-with-hours-minutes-and-seconds-buckets/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-script-for-creating-time-table-in-power-bi-with-hours-minutes-and-seconds-buckets/",
+      "originalUrl": "https://youtube.com/watch?v=x0_-hALhS7Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/x0_-hALhS7Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M54S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-04-02T17:00:59-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/x0_-hALhS7Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/radacad-search-for-all-the-texts-in-power-bi-table-visual-with-the-first-three-characters-selected-in-slicer.md",
       "title": "Search for All the Texts in Power BI Table Visual with the First Three Characters Selected in Slicer",
       "excerpt": "Yesterday, I published a post about having a slicer that filters the rows in a table visual in Power BI that contains the characters from that slicer. A friend asked me what if we want to search for the first few characters? that means selecting the first character, then seeing all the possible second",
@@ -475,36 +505,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/_tYs7SDQikE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-the-importance-of-knowing-different-types-of-power-bi-users-a-governance-approach.md",
-      "title": "The importance of knowing different types of Power BI users; a governance approach",
-      "excerpt": "Power BI users are not all in the same category. If you treat everyone the same, then you wouldn't have a successful Power BI adoption. You would likely spend too much on the training and gain much less of adoption. In this video, I'll explain what are the different types of users and what are proper",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-the-importance-of-knowing-different-types-of-power-bi-users-a-governance-approach/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-the-importance-of-knowing-different-types-of-power-bi-users-a-governance-approach/",
-      "originalUrl": "https://youtube.com/watch?v=3jxfg9kiz-w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3jxfg9kiz-w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M29S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-12-10T13:06:17-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/3jxfg9kiz-w/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

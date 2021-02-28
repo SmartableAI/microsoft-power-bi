@@ -188,6 +188,44 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-what-is-power-bi-2021.md",
+      "title": "What is Power BI? (2021)",
+      "excerpt": "You have heard of Power BI, but not quite sure what it actually is. You probably come from Excel land and want to know more about how you can take your data to the next level.   Adam summarizes the Power BI platform to help you understand how it fits into your business and work flow. Whether you are",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-what-is-power-bi-2021/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-what-is-power-bi-2021/",
+      "originalUrl": "https://youtube.com/watch?v=Vqz2d7pTOV8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Vqz2d7pTOV8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M49S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-01-14T08:21:12-08:00",
+      "heat": 147,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Vqz2d7pTOV8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/dhruvin-shah-automatically-send-power-bi-report-as-pdf-or-ppt-format-in-email.md",
       "title": "Automatically Send Power BI Report as PDF or PPT format in Email",
       "excerpt": "During this session, we will learn how we can automatically send our Power BI Report as PDF or PPT format in Email. We all know about Email Subscription functionality in Power BI. Email Subscription in the Power BI used to send Power BI page subscription to set of users via email based on scheduled date",
@@ -356,23 +394,31 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-pars-a-json-data-in-a-column-inside-power-query.md",
-      "title": "Pars a JSON Data in a Column inside  Power Query",
-      "excerpt": "In this short video, I have explained how to pars a column that has JSON data.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-pars-a-json-data-in-a-column-inside-power-query/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-pars-a-json-data-in-a-column-inside-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=MJsZaWO9Uho",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MJsZaWO9Uho\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M5S",
+      "path": "_learning/videos/sqlbi-showing-actuals-and-forecasts-in-the-same-chart-with-power-bi.md",
+      "title": "Showing actuals and forecasts in the same chart with Power BI",
+      "excerpt": "In budgeting reports, a common requirement is to show future sales forecast and actual sales volume on the same line chart. Learn how to achieve this goal using DAX. Article and download: https://sql.bi/73386?aff=yt  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide to DAX:",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/sqlbi-showing-actuals-and-forecasts-in-the-same-chart-with-power-bi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/sqlbi-showing-actuals-and-forecasts-in-the-same-chart-with-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=DKgF-5QHY68",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DKgF-5QHY68\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M33S",
       "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2020-12-07T16:26:48-08:00",
+      "publishedDateTime": "2020-12-24T03:00:25-08:00",
       "heat": 137,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/MJsZaWO9Uho/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/DKgF-5QHY68/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -382,8 +428,7 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "Power Query"
+        "Power BI"
       ]
     },
     {
@@ -448,53 +493,23 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-directquery-for-power-bi-dataset-how-does-it-work.md",
-      "title": "DirectQuery for Power BI dataset   How does it work",
-      "excerpt": "In my previous article and video, I explained why DirectQuery for a Power BI dataset is an important feature. In this blog and video, I explain how this feature works step by step. Read more by studying my blog article here: https://radacad.com/directquery-for-power-bi-dataset-how-does-it-work  *******************",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-directquery-for-power-bi-dataset-how-does-it-work/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-directquery-for-power-bi-dataset-how-does-it-work/",
-      "originalUrl": "https://youtube.com/watch?v=WowP5vOgeqI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WowP5vOgeqI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M1S",
+      "path": "_learning/videos/radacad-the-importance-of-knowing-different-types-of-power-bi-users-a-governance-approach.md",
+      "title": "The importance of knowing different types of Power BI users; a governance approach",
+      "excerpt": "Power BI users are not all in the same category. If you treat everyone the same, then you wouldn't have a successful Power BI adoption. You would likely spend too much on the training and gain much less of adoption. In this video, I'll explain what are the different types of users and what are proper",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-the-importance-of-knowing-different-types-of-power-bi-users-a-governance-approach/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-the-importance-of-knowing-different-types-of-power-bi-users-a-governance-approach/",
+      "originalUrl": "https://youtube.com/watch?v=3jxfg9kiz-w",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3jxfg9kiz-w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M29S",
       "provider": {
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2020-12-29T21:09:29-08:00",
-      "heat": 131,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WowP5vOgeqI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-techie-vs-business-user-who-makes-the-best-power-bi-professional-talk-power-bi-live.md",
-      "title": "🔴 Techie vs. Business User: Who Makes the Best Power BI Professional? ⚔️  Talk Power BI LIVE",
-      "excerpt": "✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask any Power BI question. 👉 To Learn More & Submit Your Questions Go To https://www.LearnPowerBI.com/talk 👉 Join the LearnPowerBI Family to Dial-In Using the 📞 Phone Line: https://www.LearnPowerBI.com/training  Hello,",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-techie-vs-business-user-who-makes-the-best-power-bi-professional-talk-power-bi-live/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-techie-vs-business-user-who-makes-the-best-power-bi-professional-talk-power-bi-live/",
-      "originalUrl": "https://youtube.com/watch?v=1ibEjkyRsu4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1ibEjkyRsu4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H14M35S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2021-01-08T10:19:05-08:00",
+      "publishedDateTime": "2020-12-10T13:06:17-08:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/1ibEjkyRsu4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/3jxfg9kiz-w/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -624,7 +639,7 @@
             ]
           },
           "publishedDateTime": "2021-01-14T08:21:12-08:00",
-          "heat": 67,
+          "heat": 147,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/Vqz2d7pTOV8/maxresdefault.jpg",
@@ -881,8 +896,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 10594,
-            "average": 4.786955
+            "count": 10601,
+            "average": 4.787001
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -923,8 +938,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 27373,
-            "average": 4.750813
+            "count": 27384,
+            "average": 4.7508764
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -983,8 +998,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 27373,
-        "average": 4.750813
+        "count": 27384,
+        "average": 4.7508764
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1139,8 +1154,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 10594,
-        "average": 4.786955
+        "count": 10601,
+        "average": 4.787001
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1243,8 +1258,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 27373,
-            "average": 4.750813
+            "count": 27384,
+            "average": 4.7508764
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1285,8 +1300,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 16165,
-            "average": 4.7065263
+            "count": 16169,
+            "average": 4.706599
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1328,8 +1343,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 6520,
-            "average": 4.704908
+            "count": 6521,
+            "average": 4.704953
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1370,8 +1385,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 5020,
-            "average": 4.752988
+            "count": 5021,
+            "average": 4.7530375
           },
           "provider": {
             "name": "Microsoft Learn",
