@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT9M42S
 publishedDateTime: 2018-07-11T13:18:25Z
-heat: 59
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9wN33rTaiB4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Xh3jy6TZR228m77g0q6EeM1ppGYeL4WPJS0VuC3Az31+2gtURM1Sagn1szKnOQuX3/b5cthGHeOhQAelc9iOsSxeteQVKdELrzmxDU3nZJb8CKlkQC0ctDYEoBVTHTII2GdR83PeFiP987pL8jOgLd5s7h3ZnVjk1g9hWEJtzWN7X5ILlmhWY1UvTyBTxtNJ9PNnQcp2cPMJXF41Hndvq0jO7irXxFL0V26rcVtHWICxUdcK3VWHqjgX5LmXkBGyVghDETMnePXg54HbFV1pOf/L6+PH6tJrD6lXMBjcaUkoK1Sew0ysaF2HXeIo9zxv3ImNR7kNzzKqAk3aHQRgYjCjxXLZZxjhx1koumpQ94TLjo8+P9oqXIHed3Sos3cM58SnnD50DJoKP0qdmR6hs1D/76zy6M4W91yqnVDOtibGOGQZBvYsKs5IIWJzd4hn;yCbhqMct+2LtfMN9r8vvqw=="
+secured: "AXA+WeThuOKkpxJfGxw3FZifbkrQiqbVCal7YkvGqpNImLRSN6c2Ohp6ribuDPJz/kWtQqk3yuuwHdXTZPiL+EqvxAD6s4FBogPo6MACcXc72YqMnl72Ld5G6L639t7xHn7WuxqDdk449keROtZHTrOikKMrs5d3p8+87NxUsTHMjf82862zjJTI6gwk+oCWVOlKenE0K2TB2jyGRXqwmIjIqKLTGo9r7BUTfiA15d8VuiGg1HjKXsNsQzpl8SsuLAit0F2qobVYMhj54QAmAlfPOaQ0nLrhlyj1s+iw6yFR+OytIyfUgCeU3bRvVUUgH1IVxSCsWUJKEM84hl9GsHynIajlxcJX7Ceny3wHYhg+I9hEzTUTwQuoz3BXzIf4TSB12cYSBzNjv87iu3zSvl6hS/PW33V+C4GU3r1N70b+PId+dkCAD/pvs50/jSWI;TwLr4WXwaIrKsfgS5T9Upw=="
 ---
 
