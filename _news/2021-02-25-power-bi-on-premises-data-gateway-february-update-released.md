@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/power-bi-on-premises-data-gateway-februar
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/power-bi-on-premises-data-gateway-february-update-released/"
 type: article
 quality: 97
-heat: 98
+heat: 97
 published: true
 
 provider:
