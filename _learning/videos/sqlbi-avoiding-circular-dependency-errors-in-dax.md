@@ -2,6 +2,7 @@
 title: "Avoiding circular dependency errors in DAX"
 excerpt: "Learn how to avoid circular dependency errors in DAX! Article and download: https://sql.bi/59891/?aff=yt  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt"
 originalUrl: https://youtube.com/watch?v=m-qhcDcNKrE
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/sqlbi-avoiding-circular-dependency-errors-in-dax/
 type: video
 price: Free
 length: PT13M56S
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "rjEXcehy260xzjROZy4PyE7042dxbNuNWTAciiLDWwbXfDHSNDHo95NEkNO+JTc+hDuZ54/Ehve5G1K7XO4BABzxL15nTlkTj+a+PW8vRWgVAnx/w+zXQ74yUfmTyDAxlLOdpeEDPn8Vd9H1b5MJBcFhaitzZPq9l9UupmirS7PUKBdMBehNyQ/+W5ZYM1TOWICZL0Zxm2jLJ4WRZfRqT258EkhUGwaU9EfR8JUbDASqmpuZwslHklyw6R9fF6xZsdHnolCgo6CmT/74EpvdQkWE1DZGpXGO/5L3XPJDQnP7pChlxhRW0PGwS3C5LYNH5Ay/pPAnDItbSVTR7QS0x9LRgrhIJgYzSeeF/ECF5ocEQRWdUMGlOmWqdzosaf50M+LHEfv+X2KOPaB+7dVxRg==;/lueLt3Vf4Evmjz8LJK7bA=="
+secured: "OwVYoW4ljxYLvgetTWY6S2ZjGkLnAjVp7Uh0MDzt/liQLgp2+69yxOSOxc9/oCrpFc1EJolBRUZUJXd/uikI0AawXC+OICQbzP2GEAdbG4CuMg9eC9JnzsRKtL4aWal98boe8c4VgnNNlpJMPr/XeGxahzv9joqQWWrQHMQ9EoqUaQ6woZ01foVtNd8/HZJp+3Q2vDLsYfrP/qJ7F5hUS13XCYyZo7+qE1Z5CyAiGmIOwsYGTIehhRoJhBemYxkZ2hkbQ2SFjPb0gmUGfg4+xdUKfhEluNrYbsfRpnCnzmg4rBCU6nTQPzLrdYBWeMZ34l3dHP6RrdTz51SUxxmU7ylUSoz3MW3FjY8+4KDSuskdXkYM6k0cYf074/SmGvzG;FP0893QtmWIJI0JdtzcNqQ=="
 ---
 
