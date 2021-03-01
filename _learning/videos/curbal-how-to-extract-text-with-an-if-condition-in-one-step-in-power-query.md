@@ -2,6 +2,7 @@
 title: "How to extract text with an if condition in one step in Power Query"
 excerpt: "In today's video I will show you how to extract text with an if condition in one step.  Enjoy!  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1"
 originalUrl: https://youtube.com/watch?v=na2aBSodXpA
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/curbal-how-to-extract-text-with-an-if-condition-in-one-step-in-power-query/
 type: video
 price: Free
 length: PT4M12S
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Dc9/GAP35zwT+k4IR2o9b9ZFOH1YRMikFaJGtOQ6+OO6LXfFxj/RUiVtocg9QGgUKc7zQR4GBLXbNpiSXjDJtO2TIQr5fuYbjs3gsVUq+NLJHfqBbSe3FuqHv/1YtOBlnyRId5Hrr8HwFVWn5XpwGS65wnK/Ovkqw0MjMgyL0kYwhFSzA7+3GyQw+RY4/+720BJiL08SAqHG/SfrLsIl27ZvFJ/JAjM6VbRyxwWdGoc4vjLBIluSZFLebgF+JxDTWFS9SNNSf8q0n6AZpAyoZ7Upfyx8z55T/gxl/JBu2SfDchtPEIHoGpBgtGC5Shi8Bcq7n5XQXihI8oHpK/mGaw/8VljnL4FLcqIBJf3bcv5CnOdkYzcgtjeUEarozm8G8C2eQsuDBuPbGlkampr67w==;LTJWMdFzPMHHMPU3BJtSMg=="
+secured: "XPTyOF6sSGN5CpMnudCcqo25pdd2BkduMIREon/q/FwYg2OELXomm5D4+EMrmZDK6VIbMlDV+jwuTY69vGdQuyehig4a6bcMOojw32WLZ+2F1hCgsqyWI02+d8mDulxfWbgxxaYRQowKK2Efh5vhrYUmDvNKmkdQWqdBeQrBsSXDzkQTu5D0TuQMOfrXUjO+9k05wozkuX4mCmHcBPtSVUHUKbne3JWSzut8wZCsHsYQ+ccsvHePaBDDZ2ZeaaRMhEB449fGSniHlvjk/8sMDLeCEwCVZAnvTElb/ys+E1vYgyz1/owA56HDKIr3j15tjA6NRVETglCKHQvqhCZKkeFL3NqZWC6eKe13M659+l5O5CYvNwSd3JiztZ4n9+iT;ywC7feJGDOWCPNCPNADnZA=="
 ---
 
