@@ -554,8 +554,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/continuously-export-data-from-iot-central-power-bi/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 101,
-        "average": 4.5940595
+        "count": 102,
+        "average": 4.598039
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -680,8 +680,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-models/",
       "length": "PT20M",
       "ratings": {
-        "count": 831,
-        "average": 4.7641397
+        "count": 832,
+        "average": 4.7632213
       },
       "provider": {
         "name": "Microsoft Learn",
