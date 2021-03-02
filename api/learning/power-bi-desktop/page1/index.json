@@ -17,7 +17,7 @@
         "domain": "youtube.com"
       },
       "publishedDateTime": "2021-02-23T20:25:40-08:00",
-      "heat": 137,
+      "heat": 136,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/8MMyPjLAw30/maxresdefault.jpg",
@@ -334,8 +334,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 564,
-            "average": 4.703901
+            "count": 565,
+            "average": 4.702655
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -953,8 +953,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-write-formulas/",
       "length": "PT27M",
       "ratings": {
-        "count": 564,
-        "average": 4.703901
+        "count": 565,
+        "average": 4.702655
       },
       "provider": {
         "name": "Microsoft Learn",
