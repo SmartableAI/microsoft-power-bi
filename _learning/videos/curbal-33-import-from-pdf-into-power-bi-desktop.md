@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT7M49S
 publishedDateTime: 2018-01-22T09:12:27Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/z15dF-jDXIo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "gnZg5bi+ZcUjd5vPSE6y7BZUEkDL5CZ6vCedODNRc1PMH2f5uclT6susIJ59A0CwnWmhDj9bZPQ/YG5CXsvf1meUstdBYjfle0UQw69f9tt/UeBYK8JLYa0GuUaOs8H4oV8aC7q1yiC5nbZJ2FUDogcx6GYnbJlQLTXK+EXT4bKIbxNgQeUFjDCVpA8rgftyh7KI7tfYr1CniE/fKkgZIKPhTljsDpuXLTtcmrFKc1kz7sK+SGV6T8aAyE/hjZTxO0FEaNJhHK7zWWDea9yNinfSwt9A6+p4bpgrjTKqINhwDHeWShD/37fQIGPzVKAXKBgjq+Se96FRqDbBVTg7VqG2009tTR9Dep2YFbxWfw+q9na1g4N7rlkpLJ/b9EEAh6Lqgm3Xtj15rZ2MR08tRthF40caQZzC3rUMkwnDPWo=;Bww7fi6o9xgclb4ZAuOGnQ=="
+secured: "OwebagsH24g6Ah+RLsEzr0+8SmDZYhOwuGyR/gztOf8SigyAOzLQFAPv83vu4etbgn5O1duQ101m2ByFdQQvlF5wjOGmTyvJkExbGi9YHxnqeSnUkXp3dulGqVjw7iEXy8xYMPMIDcYiNMTkyntXVDQUxvXw/dny2wrmVIDomdb5LjK0NH8nSvsdlJvMJGPQ0Jqgyc94nI8bYRlGnUhzXEHf1+NIiQFuY1B0qNaKX2HsifYn54ujpRplDPs2sFoEtaWYO8tBe6iLLpZaX0qiQ0S9MhGfK+MySs4wADyMHppk+hfyGz0vjHpjOuwSL74X3hErcuJmRYWSiIRlrzD+kHe9cUueYXwS1nTPqeGaqQFDb8BS1C+HuN4LP8bo4qpL6E6FU5BPmlqKRfXjkdygIx4xlPYHlpvIP3diDvshcD4=;zdYCSJCnfFuGpjQpqJjvrg=="
 ---
 
