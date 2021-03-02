@@ -17,7 +17,7 @@
       "twitter": {
         "username": "arunulag",
         "url": "https://twitter.com/arunulag",
-        "followers": 2961
+        "followers": 2965
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/arunulag/"
@@ -38,52 +38,13 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 89,
+      "heat": 151,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/625784770333519872/RrSqqUEZ_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Arun Ulag",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/avi-singh.md",
-      "title": "Avi Singh",
-      "excerpt": "Power BI has transformed my life, multiplying my impact manifold. Now I am on a mission to spread the word and share the knowledge",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/people/avi-singh/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/people/avi-singh/",
-      "type": "profile",
-      "name": "Avi Singh",
-      "bio": "Power BI has transformed my life, multiplying my impact manifold. Now I am on a mission to spread the word and share the knowledge",
-      "location": "Seattle, WA",
-      "website": "https://www.learnpowerbi.com/",
-      "twitter": {
-        "username": "powerbipro",
-        "url": "https://twitter.com/powerbipro",
-        "followers": 4551
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/avichalsingh/"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "topics": [
-        "Power BI"
-      ],
-      "heat": 83,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/732049231326806017/m4jUj2Lu_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Avi Singh",
           "isCached": true
         }
       ],
@@ -174,6 +135,45 @@
       "content": "\r\n"
     },
     {
+      "path": "_people/avi-singh.md",
+      "title": "Avi Singh",
+      "excerpt": "Power BI has transformed my life, multiplying my impact manifold. Now I am on a mission to spread the word and share the knowledge",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/people/avi-singh/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/people/avi-singh/",
+      "type": "profile",
+      "name": "Avi Singh",
+      "bio": "Power BI has transformed my life, multiplying my impact manifold. Now I am on a mission to spread the word and share the knowledge",
+      "location": "Seattle, WA",
+      "website": "https://www.learnpowerbi.com/",
+      "twitter": {
+        "username": "powerbipro",
+        "url": "https://twitter.com/powerbipro",
+        "followers": 4551
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/avichalsingh/"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "topics": [
+        "Power BI"
+      ],
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/732049231326806017/m4jUj2Lu_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Avi Singh",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_people/reza-rad.md",
       "title": "Reza Rad",
       "excerpt": "#Microsoft Regional Director, #MVP #Author #Trainer #Speaker #Coach #Consultant #PowerBI ",
@@ -187,7 +187,7 @@
       "twitter": {
         "username": "Rad_Reza",
         "url": "https://twitter.com/Rad_Reza",
-        "followers": 7124
+        "followers": 7125
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/rezarad/"
@@ -200,7 +200,7 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 50,
+      "heat": 57,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1102766467173408768/F9EbQENa_400x400.png",
