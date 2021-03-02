@@ -4,6 +4,36 @@
   "page": 51,
   "value": [
     {
+      "path": "_learning/videos/dhruvin-shah-how-to-integrate-power-bi-reports-to-ms-teams.md",
+      "title": "How to Integrate Power BI Reports to MS Teams?",
+      "excerpt": "In this vlog, we will talk about how we can display our Power BI reports to the MS Teams?  We can easily display Power BI reports to the Microsoft Teams using Power BI App in the Teams tab.  If you really like this video don’t forget to subscribe to my channel. *************** Contact me for any Questions,",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/dhruvin-shah-how-to-integrate-power-bi-reports-to-ms-teams/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/dhruvin-shah-how-to-integrate-power-bi-reports-to-ms-teams/",
+      "originalUrl": "https://youtube.com/watch?v=JLgj_bluXm8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JLgj_bluXm8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M41S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-03-25T04:51:54-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/JLgj_bluXm8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/dhruvin-shah-how-to-use-new-global-search-experience-in-power-bi-service.md",
       "title": "How to use new Global Search Experience in Power BI Service?",
       "excerpt": "In this vLog, we will talk about a new, revamped search experience in Power BI Service. Earlier, we always need to go to the Home Page to use Global Search Feature.  Now, it's truly global. From any page of Power BI service, we can leverage the Global Search Experience.   Currently, this global search",
@@ -868,37 +898,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/tD5QWNFsDm4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-qa-visualization-natural-language-generation-visualization-in-power-bi-desktop.md",
-      "title": "Q&A Visualization - Natural Language Generation Visualization in Power BI Desktop",
-      "excerpt": "In this vLog, we will discuss about new rolled out feature by Microsoft during October 2019 update which is new Q&A visualization for the Power BI Desktop. This Q&A visualization is the first visual which supports NLG (Natural Language Generation). In easy term we can say that, we can ask the question",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/dhruvin-shah-qa-visualization-natural-language-generation-visualization-in-power-bi-desktop/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/dhruvin-shah-qa-visualization-natural-language-generation-visualization-in-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=v-wmfg8uJaY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/v-wmfg8uJaY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M59S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-03-25T04:50:52-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/v-wmfg8uJaY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
