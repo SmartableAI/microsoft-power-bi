@@ -11,7 +11,7 @@ affiliation:
 twitter:
   username: Seth_C_Bauer
   url: https://twitter.com/Seth_C_Bauer
-  followers: 1766
+  followers: 1767
 
 linkedin:
   url: https://www.linkedin.com/in/seth-bauer/
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Seth Bauer"
 
-secured: "5mSQePaJwBEH/Odq7UiDJ8tcy9lAlgkCRrjXwE9Jdte8CtEo76KDRtupxSB67W/jFEFr73bS+YyKt5BXP/B9SyCCOc7yJW5wtfPxrtuTQhe5Fxe5QwgcaAOxZ+BvAnVY8Sa3CNKbuxv8mDa0f3Z2spy8v5R5czTikYQ7/meNqRf8QYQnvS1xs9aBUVwoz0gZkUYmVvu6HFRTSxJShzT3JJP1UqmsNbC028UtiUM4lIo3Zb/7S9xN1nH8yFYmmc1wHxl9ZGRPX9i79/7EPKVKszZXwG8YZlNKgEBE++5spHS5VS/fB4i6WsQ8dyi3K1SuL8dY44Zwp3LtN/T9gL0jz+p4PLtN9mK0U+JMWF79vMC5qYCUNpavNTn+ufYOXZEhxpjl1EX9A+jTLUncaIxVFaGj8tZibNyifbPPZtvV04k=;NLkPBznj8cR2R81pzutirQ=="
+secured: "9BSw664q4ZQd9pNDKajKYawEZG5KiYwUZ4YH0H/qlhU4uG0TfdckteCskTaAxJOrtk60yBM6VWMaOXxOqFxvvC5VL44TK/Vd1rOJ38Az6dq0F1Oe0nSNZbV3dgexBmQnBTSjEPBQCAqrZLOt8jjF+ViBeupVTHRhHcvcgR4oO5ZhJIqRZ2GDmXYGpV/XxNcCcEuHZmTpXURqJt7bHQCOy7439W6rel/qpgqA3/mZ2wRm5/NhLObGq0twnQbtP7sWpJEazXrQKZCTXDHXTGlcUhk1PSpYmyYO1H/9XwPlWN+we0egzCTb5BRqjMK2hhnGxs7OeTBS1Gp8oY6+vwvxQNeKxosxR9beC0+R9uecAoj+hrm4IH6abcRkT2sq0LNczTJCPslz/GNSEaAr1yPHtPXJGOzZcJHFoOH4s/LM0Eo=;GT/cG/z6FxjPNMSx8C8tTw=="
 ---
 
