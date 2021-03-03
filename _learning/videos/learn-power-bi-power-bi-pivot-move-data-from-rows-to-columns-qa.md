@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT7M25S
 publishedDateTime: 2018-08-06T01:01:13Z
-heat: 57
+heat: 59
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/V_ULyeHNJFY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "cDBUCK51ONXz/p9BQjRO9bxU0WmAbRK8x7H/GgcunWddJ5QveSRCgRvAq7WQ0p0sVJEwP7bXKgqKf5NA/GKXRE+aCFHWvEU3UJv/D42wdicHHJr4kxyFkjezPrJqPKfTQzStLmaD9OMLe0h5s09mUlL1ecYatMLkV3+iIv6pJ1tpIWU0+BF0JL4RTCLPw3AZtFVhNIB2QvYh+VsmtpJGEd1j+OPFtXBeny/QLNJ2NkocXFmq88oMkVagE7bp+x70cjMvcsYrHiUwXcZJEoOtkCY1pS819ukAU1/9XcTCQN3cUXzUyKNmI+B7iBTe9QnIG2Tu9UZNmjtZcMJp5o35ZPj3BStekjHNpqunsKJ7xs1oemNEeme3QBNpwVuynAIQuw8bE6U+/ggAY0DL6UpZvMV22tHSVP6vYGc0+ybu6mI=;BXNu0O4MZMPqBPDcmmsl9g=="
+secured: "Vtla9B/wuiDKvIqq9nLlPVmvgD+2XBHALBGuSkBQpMaruti2P0Lp7Vhl+5ryICciNaXcw8RtaP1waku8OAJ62j+/Z6sYPx1QmWm4xMioiswwr3BWm9ncJ4Sl/uzyREZvMzBj7TkipnxblBZCmc0eu6WVOTJYjWKO6PtXKR3yJVwGQMJPMqlAiCk2JTLfELpF7Phx9wcPXEF4ox1dvhwkMXcKMNuUlR/l1DnijlXhYQwfGpISpXTf5hIm5XCP9wpHoP6P7rk9ScqYZzj2o/xG3NdhUnMYzom7aN7ocmlx9a04KGL6DBdqa4siXQQIzUeIUWW8f8qvSQszBK3iCor/0tPwDx+K2ymvJn0uJUuD8fo61O68DHDqynn9X1Ahi7Q3NEhHwmrZJqCGN3Muv4H4vZbXRo0oLxUqcUHKNFpJreA=;R/0OJ3dz4h/4+QTUF6jN2w=="
 ---
 
