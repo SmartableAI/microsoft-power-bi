@@ -2,6 +2,7 @@
 title: "Ever wanted a NOTIFICATION in your Power BI Reports?"
 excerpt: "Maybe you want your Power BI report users to get be notified of some changes that occurred. And, you want that displayed within the report. Patrick has a way you can do just that!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next"
 originalUrl: https://youtube.com/watch?v=0eYc-_KKTDs
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-ever-wanted-a-notification-in-your-power-bi-reports/
 type: video
 price: Free
 length: PT7M8S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "pUt0SGNfgQac8slt1X8QPhcIP0HFlIt3afBHunWR8yn/G/1EY2cQEzelnqRCafINlrgXY0HrAKCfKYMVtHqyyJwRL574gGv6QiiZT4t2yB2T9RScKRqcYlHmKDGzWGdUBYCK+ZvJUMEi03tV0o2xAfJcVRmb03sUez/aC+E3L6WuPzxrk0sdctG6LLix8CIxFEXweMpqzunZjzqufY085CkNJUZaQPdP8XNZLUwlJW6e0bb2EE8ygw1oCkGUR73kF63Y73hNX+fgGIcjCrzo1hNHG/RySzWtYtAd8v/ldWN+F5q9v5h6pQSNBVpMfIPkFbPdeyzCEB+J7/vZ8U3V5YnO/cwrMzgEhEitoeINbxJZYLzNQcjgUM9GQdbA/ec983uTGxxdl7jNHK+71d3pvA==;mnAQ/XB1qRTOzYnzqQmy1A=="
+secured: "lhJua4cUdAVhGDIJMHZ35V+S+Adjx0u8Olg/EpJ381Z7kKOPqXYmGkAYk92PNsM+smZ9OpArFix9tYe/SU0QlI9reS0MFQTELI8nUj3eRDUFj8UKdtqwCu1ijAZQ/IWbbVRBbXxBwJzj68bLdgatWtJbQ7jvL8JsAFSNuOC1N3b6ieSKcc2Bc2ab8BDF1ig9GX4YZqn0iWRs2oddXvAvTy9N51gdAZX0vDg11tZllWki99a9eDZQOEq8RAF0IaFZuFpUqZMGNEIX0pnmOLQ727mmYbXDA/BHQjFnDnPd6AbDq/Z33EP32NhsQBZKttFNKYirnCjNTEjCcat4WR0nusZ0wxu+QGjhmdaxlqhAZlOAlqUl7s0iDDvLDSj/ATTE0YHfOqOVACpAU5jw6PfT4g==;YnyzttEwzSpYOmxstDUwqA=="
 ---
 
