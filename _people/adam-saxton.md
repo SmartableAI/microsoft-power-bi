@@ -18,7 +18,7 @@ website: https://t.co/sfMHqOSfBC
 twitter:
   username: awsaxton
   url: https://twitter.com/awsaxton
-  followers: 5627
+  followers: 5628
 
 linkedin:
   url: https://www.linkedin.com/in/guyinacube/
@@ -27,7 +27,7 @@ topics:
   - Power BI
 
 images:
-  - url: https://pbs.twimg.com/profile_images/793178443865128960/6MtOhub__400x400.jpg
+  - url: https://pbs.twimg.com/profile_images/1367134870779101197/1pI9LWWn_400x400.jpg
     width: 400
     height: 400
     isCached: true
