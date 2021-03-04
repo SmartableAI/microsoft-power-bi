@@ -2,6 +2,7 @@
 title: "Analyzing the performance of DISTINCTCOUNT in DAX"
 excerpt: "Analyze the performance of a DAX measure based on a DISTINCTCOUNT calculation and evaluate possible optimizations. Article and download: https://sql.bi/432941/?aff=yt  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt"
 originalUrl: https://youtube.com/watch?v=7SwD6953G6s
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/sqlbi-analyzing-the-performance-of-distinctcount-in-dax/
 type: video
 price: Free
 length: PT12M24S
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "h5CrR5Et9wlNOJMBJuvFj98APgOPotBYX2m/DAy992DV/hE1GInnGPM5AIXQampti3FTrswFkuU209UrJxX3F7PbGCtVyIPFkfzmE6thRho/uRmZlHDQaCs597tcJUj2u6ppIrJxJp8m/PWNYjFWuFoIA8r38EgRnDJa+cE7MRVoLsr8TxEG66DQoBSB0t9P7zle03ifkK9uSYcYp07vig7FkEKw1G9Z1DImhkVAfWnMjYLxcDkAHsKKPeq8NyAVcA1jsGncn7IqhCEQRyXuChaT5KmpsDSYXOzzRh+F37deI3WnJSxkxQiZtJv+R1kYiIQ614HxRNfNM7rbrlnOyeYzhVY3d+fE+CtrIxlNaESJzKexN2nHTpCfmEUQLEur5iWE9gCtsFEjWq91LRPKKg==;gW9zIBCtp57FreMan2xqpg=="
+secured: "XSs7ctRu1Jb7gULSupNsixxEfkQpHSEGNCaZbPJ1fSCroRiDvEE2IvIkjnN0pWzoSwbbv719N1EqltUZK05Z8usIObbeEHa4CoXTcM+cOj3z+Kut5dxHVGKF7sQo24G9mkk6tHZ5f8IsiCs2inxRnI2qlTpYAuEzBO8pFpd5FPi3Kdhp/923ybgfvidF8Cnl+atOqLvpLUpLyjckXVt7mNjpyjjVBzECYDehroRb+vuP9egsQY8F8JVo+G3eBH5nZ/HTPpnz2qFEUg9nbwgjSjgsy9rFInFJPSketsw2NkQY72gKo6oJKbVu+Giyr5bUDAi5RAf/NnBnxmSSKwnd3Ax2OvgQ7+Tc7KawHDN4LpTt5jt7sMfRb/XJi8YSyqAM;S88lJ/Uh3QDD7MrjjS2GYA=="
 ---
 
