@@ -2,6 +2,7 @@
 title: "REPLAY Ignite March 2021 Social Hour with BIFocal"
 excerpt: "Join us live as we recap Power BI and Power Platform announcements made at Microsoft Ignite March 2021. With special guest, Jason Himmelstein and John White from The BIFocal Show podcast!  Microsoft Ignite: https://myignite.microsoft.com/home  Connect with Jason and John: Twitter: https://twitter.com/jasehimm"
 originalUrl: https://youtube.com/watch?v=r8WuekhEf1Y
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-replay-ignite-march-2021-social-hour-with-bifocal/
 type: video
 price: Free
 length: PT1H12M21S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "+roXltiuJ6V5qtL8BwXL2a4m6tZ5PJtJJAKFMjyyoRLp3CP6E2YQbB1F2GaJNHiThFwnXOZVeaHtjeXmrVUOqFvahynzKsVpTXxRsI6dgJJOGWtAneBVp6bZySuPuk9j+yxXtAlsN77fz4YZ73FIND/61kbgyc9azF/rMC2GIei4dFu33juyRl7Mj52LnsHeZ7PNTvOM0OerSXBH6ezWzjUfsHIZmx1dmmaX7NwUrf0rugeE+8MsXnjE+c+N9JOLwHx7E+eLCmibJZVTIr1ow2f4n0o28iv/qViWu8B1kmGiTdMoBfA1q5nzpq4hcs101VXLpdoPH4JcTmZ2aA6PqC6M7kxRuUcFnKgwn+YkCNOWAZN4qescYfNwajt/t9QJocB00af7qVcwqDIFCn0wMw==;5MNNPp+ea/G04oLPYi0Hpw=="
+secured: "Yq147F4UhQg9aSQmEevasE58WDZFDdVgVozo6McG4kpqRmXhLmOk7JUOh7jjy955CnvhVYkMz/WvYE0uJ6vlMNgCPNrm0TBcnPndq+ZhaWhlZKgZpB/Nt8sRiOXND3h9bLSyBg5LJOvzuPOCp/qKIFwTLp+l0H5QziEOem9Ti6kMNzebMIyD86lc6NtDkr9hGD6raS3t5DOnrSA8yPmq/wUERrCbWY7OUAp8hL6SEPjeLUrZWBdJZJxeN5lHD6/UCkfbvtmdgQTkObZcLVmF9+sV/7pzBfK0L5BuS5hvN3HioR5fKiZ8ytLv8miWKE0uhCKd/ZNzmONw/iRs9HYf/q/YDshoxnHukk1KgkZT23r8f4M7fLL/MxfvmhinBxtO;Ozmm0zBpNGb74GmtexUYVA=="
 ---
 
