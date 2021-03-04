@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 964,
-            "average": 4.680498
+            "count": 965,
+            "average": 4.680829
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 1016,
-            "average": 4.6663384
+            "count": 1018,
+            "average": 4.666994
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1361,8 +1361,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/becoming-solution-architect/",
           "length": "PT1H43M",
           "ratings": {
-            "count": 765,
-            "average": 4.730719
+            "count": 766,
+            "average": 4.7310705
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1403,8 +1403,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/discover-customer-needs/",
           "length": "PT36M",
           "ratings": {
-            "count": 516,
-            "average": 4.6899223
+            "count": 517,
+            "average": 4.690522
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1773,7 +1773,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -2066,7 +2066,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -2257,8 +2257,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 913,
-            "average": 4.7634172
+            "count": 916,
+            "average": 4.764192
           },
           "provider": {
             "name": "Microsoft Learn",
