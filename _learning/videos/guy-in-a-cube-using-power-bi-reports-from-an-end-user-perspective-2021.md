@@ -2,6 +2,7 @@
 title: "Using Power BI reports from an end user perspective (2021)"
 excerpt: "Just an end user of Power BI? Consuming reports and not authoring at all? Adam walks through how to navigate and use Power BI reports. Jump in and get familiar with reports in Power BI!  Reports in Power BI https://docs.microsoft.com/power-bi/consumer/end-user-reports  View a report in the Power BI service"
 originalUrl: https://youtube.com/watch?v=TAsUb93r2tg
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-using-power-bi-reports-from-an-end-user-perspective-2021/
 type: video
 price: Free
 length: PT11M14S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "hH/QaG5eUp2g7fCT7N3O9+8mdEEib7/RFY0NwxX8TrMxTPfB5oGHTYwez6oU7oBo69CvR7q2pLpAwGnS1admytxtvuSL4Qyvwcb0WL9zoJN70oR4Ec2C+wRjGjfy+cLooICv/STczfnjpAFgp4t00PUl5uWvtR2ehvUjGlyf3mVWUR0ErSmb48p404e4yJoyS5Y38bPKJWLXp9KtRknadinII7ZVCZqt8GuAy9excRkMltSTOE90uGGadhShtpEitJ2NH7ZkL0S0a69qtCayUxls5SsNK37gusf8RtZnQqEi7hDuPmMXn+xeDFXw8CHXHsuuIwwv4FUsVE8BM3dgx33GDmxhGhfvjy5r1DwP0xt3iG6PVUh/vdBfrTGy7HwF+jarDbA2nOBpI5hBCUPS6w==;NS6HQvMY1fjKFCGx1EKnNA=="
+secured: "Om3Bwv5qZmrlvUPjNv1vi+lxzDTb7nJMx7eGOf/oWtH3d7+ek+HT4X6fvOLqnOlzAz/jiBrRHVJ+PNy/Aak5DUNnBiM/z4rWv2DjhPOMgC4jAD1pOmcY0Q/rithqkP8XRoW9WcpEQBKXrUNeHwttezKB3xFwv2TBV+xZ2wftCbny5iIEfJx0lwTw7fgA938CO1yLC5K1zRNFg7sXiRDl4VUaEwirG6r6uqIRl/JStXgcGYYi45sXfZXIPEyb2FcPKR63QVwcADCmN+vfEX1tziA1IdOIIePz9RzBeeCEaoIDfPDqRMjPJwcIErZsTh6iSlwZe5A6WXRiW4hXqVPB2Nglh/rz0AwSLx+lhD3smWyrDD77XsIhs3fYno0H9uTlYtJedzPdtjGu57ZnYuRMGg==;UUyRtUWnq5A7KmGh9fMmcg=="
 ---
 
