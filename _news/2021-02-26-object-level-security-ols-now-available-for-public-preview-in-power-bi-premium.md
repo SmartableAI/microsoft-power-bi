@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/object-level-security-ols
 webUrl: "https://powerbi.microsoft.com/en-us/blog/object-level-security-ols-now-available-for-public-preview-in-power-bi-premium/"
 type: article
 quality: 82
-heat: 82
+heat: 83
 published: true
 
 provider:
