@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Microsoft's Power BI gets new tools to prevent leakage of confidential data"
-excerpt: "Information protection makes sure that only people with permissions see data in Power BI, while retaining the ability to share top-level trends, balancing productivity and security. Microsoft's ..."
-publishedDateTime: 2021-02-17T17:35:00Z
-originalUrl: "https://www.techrepublic.com/index.php/article/microsofts-power-bi-gets-new-tools-to-prevent-leakage-of-confidential-data/"
-webUrl: "https://www.techrepublic.com/index.php/article/microsofts-power-bi-gets-new-tools-to-prevent-leakage-of-confidential-data/"
-ampWebUrl: "https://www.techrepublic.com/index.php/google-amp/article/microsofts-power-bi-gets-new-tools-to-prevent-leakage-of-confidential-data/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/microsofts-power-bi-gets-new-tools-to-prevent-leakage-of-confidential-data/"
+excerpt: "Information protection makes sure that only people with permissions see data in Power BI, while retaining the ability to share top-level trends, balancing productivity and security."
+publishedDateTime: 2021-02-17T16:07:00Z
+originalUrl: "https://www.techrepublic.com/index.php/publisher/84394/index.php/article/microsofts-power-bi-gets-new-tools-to-prevent-leakage-of-confidential-data/"
+webUrl: "https://www.techrepublic.com/index.php/publisher/84394/index.php/article/microsofts-power-bi-gets-new-tools-to-prevent-leakage-of-confidential-data/"
+ampWebUrl: "https://www.techrepublic.com/index.php/publisher/84394/index.php/google-amp/article/microsofts-power-bi-gets-new-tools-to-prevent-leakage-of-confidential-data/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/84394/index.php/google-amp/article/microsofts-power-bi-gets-new-tools-to-prevent-leakage-of-confidential-data/"
 type: article
 quality: 95
 heat: 95
@@ -24,11 +24,11 @@ topics:
   - Power BI
 
 images:
-  - url: "https://www.techrepublic.com/a/hub/i/r/2021/02/16/f3785e91-9773-46dd-bb28-61fda8df592d/resize/1200x/857873d37ba05ee487bbe2774977085c/ms-power-bi-enterprise-dp.jpg"
+  - url: "https://www.techrepublic.com/a/hub/i/r/2021/02/16/6019d476-0c66-40e4-b5ca-b80d5252877a/resize/1200x/e1d5970752b3dd7fd791624baa2b3365/ms-power-bi-ulag-2.jpg"
     width: 1200
-    height: 636
+    height: 1218
     isCached: true
 
-secured: "1Ktz8RsvC0rC7LwWT31buVrYcYhIRPtoTCaJ8e0qni+RGkQvKQuy6J+q+6jO0F592rUTmNunlB/7KO07rOUhh8mBaz2jnfgsiVKb5XboGn/trfX/F/Z0n6E9TcXSCp/rj5CiMy6dYaLgI1jmlEjuY934VaHTkKgDiMCw+fc1YFJUU+bsoVinMg84+e/blLsjpICHdpY6c5y6nsu0pcgVXdapglBo6i97RnituOQDHHnRVSvXx7sNu9pvfnWI4LT7AzeyM7UluRJuC5Oqz0M2EQ4ya7rgNW9iYqKR3XJXb3bXdOL79ZPd+559NzM6iYTZGP83/ghRqL675RMtAX8HFZpIMWSP3trdHy/8BRMZ5ZI=;lBYmjZ5yBjgyZtudhbe94A=="
+secured: "OwIX2413IQciM1Ik9ekUPGGlXKbOIfqqZH0NddKFRg1BGS+37uadaMtfu28uLBoK0VZFZIo4wBpGLcapVRsGv+izW3VAYE1lBHXL5WUVe9V68qVbAv2EaXEtbhM86nPscw/YdWrufGh0IQkBQJnrBQ8Yb9mhcm70/Ir5VfUCBfp3vp7hp4JGUqA+TQFaB5Bi0RK3grviw1ek/JzDQhpYltPqnPZTnHzX3js7tE8fwn4YXX4TtI+lwNBDt5Zk+qRvj5eV0s7bIaWzBMzbaKIAhk3caCUJ0WkQexdpoi2Jw5bxjRkSOv0K0qWymtCba2Y6q+qBdulMD1+VpcQRxLziXxo7y+12RlvP4xYzLlakru4=;ywnGbtEIa1962c42fsiJGw=="
 ---
 

@@ -906,19 +906,19 @@
     {
       "path": "_news/2021-02-18-microsofts-power-bi-gets-new-tools-to-prevent-leakage-of-confidential-data.md",
       "title": "Microsoft's Power BI gets new tools to prevent leakage of confidential data",
-      "excerpt": "Information protection makes sure that only people with permissions see data in Power BI, while retaining the ability to share top-level trends, balancing productivity and security. Microsoft's ...",
+      "excerpt": "Information protection makes sure that only people with permissions see data in Power BI, while retaining the ability to share top-level trends, balancing productivity and security.",
       "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2021-02-18-microsofts-power-bi-gets-new-tools-to-prevent-leakage-of-confidential-data/index.json",
-      "webUrl": "https://www.techrepublic.com/index.php/article/microsofts-power-bi-gets-new-tools-to-prevent-leakage-of-confidential-data/",
-      "originalUrl": "https://www.techrepublic.com/index.php/article/microsofts-power-bi-gets-new-tools-to-prevent-leakage-of-confidential-data/",
+      "webUrl": "https://www.techrepublic.com/index.php/publisher/84394/index.php/article/microsofts-power-bi-gets-new-tools-to-prevent-leakage-of-confidential-data/",
+      "originalUrl": "https://www.techrepublic.com/index.php/publisher/84394/index.php/article/microsofts-power-bi-gets-new-tools-to-prevent-leakage-of-confidential-data/",
       "featuredContent": null,
       "highlight": null,
       "heat": 95,
       "tags": null,
       "images": [
         {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/02/16/f3785e91-9773-46dd-bb28-61fda8df592d/resize/1200x/857873d37ba05ee487bbe2774977085c/ms-power-bi-enterprise-dp.jpg",
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/02/16/6019d476-0c66-40e4-b5ca-b80d5252877a/resize/1200x/e1d5970752b3dd7fd791624baa2b3365/ms-power-bi-ulag-2.jpg",
           "width": 1200,
-          "height": 636,
+          "height": 1218,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -926,9 +926,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/google-amp/article/microsofts-power-bi-gets-new-tools-to-prevent-leakage-of-confidential-data/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/microsofts-power-bi-gets-new-tools-to-prevent-leakage-of-confidential-data/",
-      "publishedDateTime": "2021-02-17T09:35:00-08:00",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/84394/index.php/google-amp/article/microsofts-power-bi-gets-new-tools-to-prevent-leakage-of-confidential-data/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/84394/index.php/google-amp/article/microsofts-power-bi-gets-new-tools-to-prevent-leakage-of-confidential-data/",
+      "publishedDateTime": "2021-02-17T08:07:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechRepublic",
