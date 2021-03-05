@@ -747,8 +747,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
       "length": "PT9M",
       "ratings": {
-        "count": 933,
-        "average": 4.765273
+        "count": 935,
+        "average": 4.765775
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1987,8 +1987,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/",
       "length": "PT60M",
       "ratings": {
-        "count": 1075,
-        "average": 4.7227907
+        "count": 1076,
+        "average": 4.723048
       },
       "provider": {
         "name": "Microsoft Learn",
