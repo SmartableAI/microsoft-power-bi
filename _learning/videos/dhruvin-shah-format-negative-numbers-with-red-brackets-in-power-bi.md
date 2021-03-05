@@ -2,6 +2,7 @@
 title: "Format Negative Numbers with Red Brackets in Power BI"
 excerpt: "Welcome to one more Power BI DAX Tip. During this session, we will learn how we can format negative numbers with brackets in Power BI. We know that sometimes we need to represent negative numbers in brackets, and we have a question about how to achieve that in Power BI. We need to create a measure to"
 originalUrl: https://youtube.com/watch?v=VU-4CH_X-oU
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/dhruvin-shah-format-negative-numbers-with-red-brackets-in-power-bi/
 type: video
 price: Free
 length: PT7M4S
@@ -23,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "P3cwCiKv3dyvr3UYsqG3+19QLQVynRmS4xbcuotJqLmRvh0OVzbebN1+XvDI6YgSk/89PFuacoSlwuFmirSonRlgfxG3DJQqylcKftgiZgbnIn9TWcxGnO417iLv73xm9KZkzZ+7EUI6JjPwqFkDhW+psDmwYiU259V6w9E04G+wF9UBwu8kTCdcNtXIqDnFpmW12a0EvpfaI2H49726EBBtgwVRkmYVGacvYSJJBpG8AgfZ484N/F3q4CNY/AVfxLOJ35p29ys1Hkh7wVOh2EEyELfk7+hWmWimKg+iIdNEiFbCt2APs+ReyubGgwRQ6W2qNsF13RBOgPHaw5mJEuZ82SQbg/63Dk7yHT8an1vr4E0Vqkz2KvChaRhi7YWX9ZfpLT56ITSn5hhfjcimJA==;NmQxs2nhD0lX0a7L/WpiSw=="
+secured: "h+ts4nifXnEHk7JY85y7q8mAxE+dGeciNqwhu3BBiGsKFlFo7tiv2BPh0ERaJfsFUYplZlScTOiNPWScQ2hFxGS/h99kut8Fa73E5POOBZCr0+wwJfq80Xmr86mqoeN0t3JgtmKuPZvjidigxSzvwQqoYByFsjpvuqnnC+sAIsBw6qPlCf8irhD0dd1ReVOuHycMW3QnmDblg9Yr7VPpN5yxSwBdqaP+4aDeaisu2a4rUPSKpC81XpO4a9G1QPpEYLoLJaFIqX8XWECZOigX8cisA5vkw510hnQqys6arcmI2rfHsaKiv/9v4fWoBn6brgYZaQDGTc1X2MB9Fa5+1jEBRlDkel1xm/CczdcDL6gTFOrjSyyw51BAhSd7s6ar;p+7G/+l31LMnPmNDc3aqJw=="
 ---
 
