@@ -4,6 +4,53 @@
   "page": 1,
   "value": [
     {
+      "path": "_people/adam-saxton.md",
+      "title": "Adam Saxton",
+      "excerpt": "Principal PM @Microsoft working on #PowerBI, #SSRS and #SSAS. I also go by @GuyInACube",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/people/adam-saxton/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/people/adam-saxton/",
+      "type": "profile",
+      "name": "Adam Saxton",
+      "bio": "Principal PM @Microsoft working on #PowerBI, #SSRS and #SSAS. I also go by @GuyInACube",
+      "location": "Conroe, TX",
+      "website": "https://t.co/sfMHqOSfBC",
+      "twitter": {
+        "username": "awsaxton",
+        "url": "https://twitter.com/awsaxton",
+        "followers": 5657
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/guyinacube/"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1367134870779101197/1pI9LWWn_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Adam Saxton",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_people/arun-ulag.md",
       "title": "Arun Ulag",
       "excerpt": "Corporate Vice President of Business Intelligence @Microsoft. Power BI, Azure Analysis Services, SQL Server Analysis Services, SQL Server Reporting Services",
@@ -51,53 +98,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/adam-saxton.md",
-      "title": "Adam Saxton",
-      "excerpt": "Principal PM @Microsoft working on #PowerBI, #SSRS and #SSAS. I also go by @GuyInACube",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/people/adam-saxton/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/people/adam-saxton/",
-      "type": "profile",
-      "name": "Adam Saxton",
-      "bio": "Principal PM @Microsoft working on #PowerBI, #SSRS and #SSAS. I also go by @GuyInACube",
-      "location": "Conroe, TX",
-      "website": "https://t.co/sfMHqOSfBC",
-      "twitter": {
-        "username": "awsaxton",
-        "url": "https://twitter.com/awsaxton",
-        "followers": 5657
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/guyinacube/"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI"
-      ],
-      "heat": 115,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1367134870779101197/1pI9LWWn_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Adam Saxton",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_people/patrick-leblanc.md",
       "title": "Patrick LeBlanc",
       "excerpt": "Patrick LeBlanc is a currently a Principal Program Manager at Microsoft and a contributing partner to Guy in a Cube. Along with his 15+ years’ experience in IT he holds a Masters of Science degree from Louisiana State University. He is the author and co-author of five SQL Server books. Prior to joining Microsoft he was awarded Microsoft MVP award for his contributions to the community. Patrick is a regular speaker at many SQL Server Conferences and Community events.",
@@ -132,13 +132,52 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 112,
+      "heat": 108,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/415691890080894976/g0hNL2mf_400x400.jpeg",
           "width": 400,
           "height": 400,
           "title": "Patrick LeBlanc",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/mike-carlo.md",
+      "title": "Mike Carlo",
+      "excerpt": "Consultant for Concurrency for all things PowerBI. With over 11 years of data experience I'm making waves by deploying PowerBI into local Milwaukee Companies.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/people/mike-carlo/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/people/mike-carlo/",
+      "type": "profile",
+      "name": "Mike Carlo",
+      "bio": "Consultant for Concurrency for all things PowerBI. With over 11 years of data experience I'm making waves by deploying PowerBI into local Milwaukee Companies.",
+      "location": "United States",
+      "website": "https://t.co/Z3zO6dilSk",
+      "twitter": {
+        "username": "Mike_R_Carlo",
+        "url": "https://twitter.com/Mike_R_Carlo",
+        "followers": 2028
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/michaelcarlo/"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Power BI Tips",
+        "domain": "powerbi.tips"
+      },
+      "topics": [
+        "Power BI"
+      ],
+      "heat": 77,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1109338504268439552/OY_Va867_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Mike Carlo",
           "isCached": true
         }
       ],
@@ -184,43 +223,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/seth-bauer.md",
-      "title": "Seth Bauer",
-      "excerpt": "As a co-owner of PowerBI.Tips I enjoy helping create a platform for new and advanced users alike to learn and expand their skills and get the most out of Power BI.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/people/seth-bauer/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/people/seth-bauer/",
-      "type": "profile",
-      "name": "Seth Bauer",
-      "bio": "As a co-owner of PowerBI.Tips I enjoy helping create a platform for new and advanced users alike to learn and expand their skills and get the most out of Power BI.",
-      "twitter": {
-        "username": "Seth_C_Bauer",
-        "url": "https://twitter.com/Seth_C_Bauer",
-        "followers": 1772
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/seth-bauer/"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Power BI Tips",
-        "domain": "powerbi.tips"
-      },
-      "topics": [
-        "Power BI"
-      ],
-      "heat": 77,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1176155552587681793/4aUcPKoe_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Seth Bauer",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_people/avi-singh.md",
       "title": "Avi Singh",
       "excerpt": "Power BI has transformed my life, multiplying my impact manifold. Now I am on a mission to spread the word and share the knowledge",
@@ -234,7 +236,7 @@
       "twitter": {
         "username": "powerbipro",
         "url": "https://twitter.com/powerbipro",
-        "followers": 4566
+        "followers": 4568
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/avichalsingh/"
@@ -260,23 +262,21 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/mike-carlo.md",
-      "title": "Mike Carlo",
-      "excerpt": "Consultant for Concurrency for all things PowerBI. With over 11 years of data experience I'm making waves by deploying PowerBI into local Milwaukee Companies.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/people/mike-carlo/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/people/mike-carlo/",
+      "path": "_people/seth-bauer.md",
+      "title": "Seth Bauer",
+      "excerpt": "As a co-owner of PowerBI.Tips I enjoy helping create a platform for new and advanced users alike to learn and expand their skills and get the most out of Power BI.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/people/seth-bauer/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/people/seth-bauer/",
       "type": "profile",
-      "name": "Mike Carlo",
-      "bio": "Consultant for Concurrency for all things PowerBI. With over 11 years of data experience I'm making waves by deploying PowerBI into local Milwaukee Companies.",
-      "location": "United States",
-      "website": "https://t.co/Z3zO6dilSk",
+      "name": "Seth Bauer",
+      "bio": "As a co-owner of PowerBI.Tips I enjoy helping create a platform for new and advanced users alike to learn and expand their skills and get the most out of Power BI.",
       "twitter": {
-        "username": "Mike_R_Carlo",
-        "url": "https://twitter.com/Mike_R_Carlo",
-        "followers": 2028
+        "username": "Seth_C_Bauer",
+        "url": "https://twitter.com/Seth_C_Bauer",
+        "followers": 1772
       },
       "linkedin": {
-        "url": "https://www.linkedin.com/in/michaelcarlo/"
+        "url": "https://www.linkedin.com/in/seth-bauer/"
       },
       "affiliation": {
         "path": "",
@@ -289,10 +289,10 @@
       "heat": 57,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1109338504268439552/OY_Va867_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1176155552587681793/4aUcPKoe_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Mike Carlo",
+          "title": "Seth Bauer",
           "isCached": true
         }
       ],
