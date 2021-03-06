@@ -14,7 +14,7 @@
         "domain": "exceleratorbi.com.au"
       },
       "publishedDateTime": "2021-03-01T14:55:58-08:00",
-      "heat": 133,
+      "heat": 132,
       "images": [
         {
           "url": "https://exceleratorbi.com.au/wp-content/uploads/2017/12/Power-BI-book-cover-300_thumb.png",
@@ -116,8 +116,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 16335,
-        "average": 4.707438
+        "count": 16336,
+        "average": 4.707456
       },
       "provider": {
         "name": "Microsoft Learn",
