@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT9M57S
 publishedDateTime: 2017-07-05T20:21:29Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q9WZTNqjlKI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "vC+zTqFvTerJZv9kEc41WT4sRjjUQdqHfi07P0O5p5GcZ5b9dDDO/Fbxvd2yOAVja3tgfK00K7w5otwXe3+R2TByXqqPowkQorBKVBXuyZMLDmLJP7rUMZF0zW28YsBKX3M91afPlus6hztuYnfGFB4fSXAfBdYb16L6pTZiwEdyHsbT1XpqlfvdRm9PQ2Po/PhZntT6A1wu6CFpzdQDonhhoObVat7Lcyki0uSA2oA2NY7xCAEgGieT0FRferirF4fxfMWbyNNYzQ2ZLnsaSYaQAW/FhCQmVAZRNVBveL+jV9XC6hbVYztJQ2yguZRWH9yAOI4poZhhAVVZb7BLRXHjSnmNbQ2lWxrhOwxR/4YllaMUHVGpMmpRfkNbgh4GIjkNqv2YTwOxOCErt6CTtEd6pkaIBnSBxcj9pmGQpTE=;7ACk4iOlm+F6MvzEGgysNA=="
+secured: "e+bqUx8ez9yefm3x1kawnTEV/DollZ+PaxNN8h+UMRa2FzELpljH4XJaDEp5bwZBTuUMVhm8k2hn47hPClsdtI9WM4Oyl8P3YnlbxTMrgxOoCzwcWmRKOsPX795rznaIOhP3IMhh4V+SfrmjT0VnsJxJeKi8xKkzvAnBvOTKOTFlK1xUTVspYqz7A4nmAZIwKPcCmpMx1XrcxYqZd3S9hCVU8b2K2n/HyX3FVqJRYLny97S/NQsrfosbF9WitaBFRvCNH/WXFf/f8Fyt5DxYYR3WmsLzprzkcrWiPEPQVTqdn+VADpk0c5v/l55/2Big+EHOnXMtjupzGkeKlEbu8bMT5Jry66tiV6IKwRCduZwlTM5D+KiHtap5zwpZMrnVDtCV6PzPUylj1cMIX1/j+xVMspKLDzw2KMsZ4ZZHRaI=;6DspZ2/1QqtTCKUepPmQWA=="
 ---
 
