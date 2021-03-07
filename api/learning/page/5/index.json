@@ -679,7 +679,7 @@
             ]
           },
           "publishedDateTime": "2017-10-11T07:34:50-07:00",
-          "heat": 50,
+          "heat": 52,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/iEHfUuoZseo/maxresdefault.jpg",
@@ -1807,8 +1807,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 5102,
-        "average": 4.75343
+        "count": 5104,
+        "average": 4.7533307
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2256,8 +2256,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-simple-dashboard/",
       "length": "PT31M",
       "ratings": {
-        "count": 3126,
-        "average": 4.6960974
+        "count": 3127,
+        "average": 4.6961946
       },
       "provider": {
         "name": "Microsoft Learn",
