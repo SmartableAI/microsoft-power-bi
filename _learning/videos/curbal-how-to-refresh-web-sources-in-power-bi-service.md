@@ -2,6 +2,7 @@
 title: "How to refresh web sources in Power BI service"
 excerpt: "If you have connected to a web source in power bi desktop and they try to connect to the service, you have probably gotten this error:  \"You can't schedule refresh for this dataset because the following data sources currently don't support refresh: Data source for Query1\"  In today's video I am going"
 originalUrl: https://youtube.com/watch?v=fstsQMZiHME
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/curbal-how-to-refresh-web-sources-in-power-bi-service/
 type: video
 price: Free
 length: PT7M33S
@@ -29,6 +30,6 @@ images:
     height: 720
     isCached: true
 
-secured: "DrTjbSnooqJYFgmaftURjXupsi6b5bIQCQfl4XV+yNL1N2xpD1W3wm24liZ/OJtbEngMJLXzXfwos/fJ6Ldd3E7CVkbl+pJKLcY6wrVcdo2KdiAvrzL9/R/o7y+uOBtcLzHOfNrOIsJxaTYA9IjAAf9Z96CsaK8qAxjADXiGc1q8EBq8lYe5RuvGfqv1CRYZOhjCaMg6VBhTKlopu7XD2SHb3L7HJGr3kKyOsUhSR1zfX7cAwSh1O6khmpigfYeFQUIiLxDfLwjXgsehi9gF/e4jbp4toavjmBb/l8TVQPAaFNLOdw+Lvo+FMwnzd0PQNUp5h9UiTf2aVmCVFlsHNWm0NJmCROyMy1Qc+VBjHBLDxLMjqcAsasa1bGOqsND39OFNdo+is/sbKCwV1i09bw==;sHpAEZnbXAHhoGPKz+QZLQ=="
+secured: "8EsAMIOZsb76L/lruElgLjinMy+f5XKbBgm/fC5npXLMFnsKwX2RZEr6isvPLsemDENwYZou7Z2NxE3xYkVZ7L1aGNe1/P9FJpKLUgGC1tceAgWUS7SZ11caB6G1So22cX4g61Iq/f5AfN8wUc6KfsnFB0UwOItAuYDbGy6erDqs47IopBnqr3J9Z9ubPzVysWB8VS43VT0HmliTiUL2VqWrqIeOyEss6Dm0OQus6WTMxOWAAiTq65p4lj2LGe6r53JYNuP9AcKUQdXiqnXCV99P9JSVRnhJm5YTThM9SycIS6RIc6fx8lTnxcw3tMTjN/Sd+CAb9fj/jm+7HH/zXuRYw/oPmLpbEHqaM+I/qWo9WuwC89AINgMSs7lBVyq8;DLNLqdJfzAr2HAUy1YVVLw=="
 ---
 
