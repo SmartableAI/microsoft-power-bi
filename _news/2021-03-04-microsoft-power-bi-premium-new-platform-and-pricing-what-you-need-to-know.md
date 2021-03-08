@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/index.php/google-amp/article/microsoft-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/microsoft-power-bi-premium-new-platform-and-pricing-what-you-need-to-know/"
 type: article
 quality: 95
-heat: 95
+heat: 96
 published: true
 
 provider:
