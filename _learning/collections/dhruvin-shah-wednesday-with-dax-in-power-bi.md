@@ -15,6 +15,7 @@ items:
   - videos/dhruvin-shah-after-union-two-tables-data-goes-to-the-wrong-column-with-power-bi-dax
   - videos/dhruvin-shah-find-and-remove-last-occurrence-from-a-string-using-power-bi-dax
   - videos/dhruvin-shah-power-bi-shows-incorrect-measure-total-how-to-fix-it
+  - videos/dhruvin-shah-create-a-comparison-report-in-power-bi
 
 topics:
   - Power BI
