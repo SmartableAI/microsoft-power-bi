@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-premium-gen-2-
 webUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-premium-gen-2-autoscale-preview/"
 type: article
 quality: 72
-heat: 73
+heat: 72
 published: true
 
 provider:
