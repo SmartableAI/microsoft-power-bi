@@ -2,6 +2,7 @@
 title: "Create a Comparison Report in Power BI"
 excerpt: "Sometimes there are situations where we need to compare one category with another and need to create a comparison report in Power BI. Then, how we can build a Power BI report which shows a comparison between categories from the same table? Here, I have explained the entire start to end procedure, for"
 originalUrl: https://youtube.com/watch?v=DGRCLcfUHM4
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/dhruvin-shah-create-a-comparison-report-in-power-bi/
 type: video
 price: Free
 length: PT13M31S
@@ -24,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "B6MOULJc0U8UT6JYDyTPP7MGwAhZhXhRC0DUR/SJbEk7z4+RvC3+nunqiqsnN4TFtXpsZ35Fra6ZQFk0PHPpHTjeIcORoa1lGhNNOxGNKjaHq1xgiL0/znbqEM4V1pstVpyCcyb2EVIq77nm1zkZ3wc5NarmxDZzecKhx3z9kuRdtxbVlDCYOdcY5BV/xQRnzbSD+xa+z8KsW0KEd6RjSaQiclJqXHZUix1BUHm6le0HqNbxaZoll48OYfFoVL2L7iEeg3GbQ29wuqH+fS+MztzX5e+Jwi65cfNcFAWKIa0uq/UdSmGds/MgYy/tYlkN9WNfC2MgnsDtopz+1rTCSm13ue+C56MGXT3xJthu/ddgN1AFKW5MxAVa4HI5+JhrtNeI4bW7h1cuwFKPw3wYdw==;1pOuBG/gyyIRIuNLLxpLKQ=="
+secured: "1adU2XmmqHL9PWWPIyLzANYxG9oOeZzE8v1HbGNHuAWDJvy4bjctxT7GIi/MNbnkHDm6iUVG8sMf8MmDNQpYl4x2lSIuSjS6godQ3khUOURZ+3HX2VNjUBbLEX88J/KRlGY2HsnSaZdcPZXoEWQ9BlBH9bHSJtU8stLGrpl4Hmb678fJDaVOs0yaJPF4axZ3wUBluW/2CLA/trKRL60h3BodEXD43c4xq0OsVkrotieH7GEtrDUwKhU5EuaeB8ZRBptRcqLKIWiGu02ppIxCLe/MfEPOq+U3yp2Bu8wqt2OzeHPiqjGofk3rtezdBDBPlUmyovN0iQf8tPUXfiKqvA2B4bBHisigGql7krT/cHP3T0Be/iw6Pd5XuqYmLvYz;1qBDc3j3alOtBygngQ68Fw=="
 ---
 
