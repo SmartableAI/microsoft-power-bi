@@ -481,8 +481,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 1366,
-        "average": 4.63836
+        "count": 1368,
+        "average": 4.638889
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1363,7 +1363,7 @@
             ]
           },
           "publishedDateTime": "2020-12-18T03:00:19-08:00",
-          "heat": 52,
+          "heat": 53,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/bAOs5LTP0I0/maxresdefault.jpg",
@@ -1523,8 +1523,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-power-bi/",
       "length": "PT53M",
       "ratings": {
-        "count": 4266,
-        "average": 4.72316
+        "count": 4267,
+        "average": 4.7229905
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1565,8 +1565,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 5124,
-        "average": 4.7529273
+        "count": 5125,
+        "average": 4.7527804
       },
       "provider": {
         "name": "Microsoft Learn",
