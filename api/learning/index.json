@@ -180,8 +180,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 12380,
-            "average": 4.7937803
+            "count": 12395,
+            "average": 4.793949
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -222,8 +222,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 28817,
-            "average": 4.7552137
+            "count": 28825,
+            "average": 4.755247
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -282,8 +282,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 12380,
-        "average": 4.7937803
+        "count": 12395,
+        "average": 4.793949
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -311,44 +311,6 @@
       ],
       "content": "\r\n",
       "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-avoid-the-full-refresh-with-incremental-refresh-in-power-bi-premium.md",
-      "title": "Avoid the full refresh with Incremental Refresh in Power BI (Premium)",
-      "excerpt": "Is the full refresh of Incremental Refresh taking a long time? Or, even timing out? Patrick shows you how you can avoid the full refresh and refresh each partition individually when using Power BI Premium!  Handling deletes within Incremental Refresh in Power BI: https://www.youtube.com/watch?v=nKVrl0ec6uE",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-avoid-the-full-refresh-with-incremental-refresh-in-power-bi-premium/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-avoid-the-full-refresh-with-incremental-refresh-in-power-bi-premium/",
-      "originalUrl": "https://youtube.com/watch?v=5AWt6ijJG94",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5AWt6ijJG94\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M42S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-01-27T08:00:05-08:00",
-      "heat": 140,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5AWt6ijJG94/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
       "price": "Free",
       "topics": [
         "Power BI"
@@ -401,8 +363,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 28817,
-        "average": 4.7552137
+        "count": 28825,
+        "average": 4.755247
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -544,44 +506,6 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-3-things-you-need-to-watch-out-for-in-power-bi.md",
-      "title": "3 things you need to watch out for, in Power BI",
-      "excerpt": "In three instances last week, I thought that either I was going mad or blind or there was something wrong with Power BI. It turns out that it was 50-50. Let me show you so you dont go mad too!  Chapters: 00:20 Issues with what-if parameters 00:00 Sync a what if parameter with a new tab 04:30 Power query",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-3-things-you-need-to-watch-out-for-in-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-3-things-you-need-to-watch-out-for-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=9PVYLhznaLc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9PVYLhznaLc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M47S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-01-25T06:15:22-08:00",
-      "heat": 132,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/9PVYLhznaLc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/dhruvin-shah-format-negative-numbers-with-red-brackets-in-power-bi.md",
       "title": "Format Negative Numbers with Red Brackets in Power BI",
       "excerpt": "Welcome to one more Power BI DAX Tip. During this session, we will learn how we can format negative numbers with brackets in Power BI. We know that sometimes we need to represent negative numbers in brackets, and we have a question about how to achieve that in Power BI. We need to create a measure to",
@@ -609,6 +533,45 @@
       "price": "Free",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/sqlbi-optimizing-duplicated-dax-expressions-using-variables.md",
+      "title": "Optimizing duplicated DAX expressions using variables",
+      "excerpt": "This video describes how to use variables to optimize the performance of DAX expressions containing multiple instances of the same measure or the same sub-expression. There are two related articles and downloads: https://sql.bi/62887/?aff=yt (Optimizing duplicated DAX expressions using variables) https://sql.bi/67786/?aff=yt",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/sqlbi-optimizing-duplicated-dax-expressions-using-variables/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/sqlbi-optimizing-duplicated-dax-expressions-using-variables/",
+      "originalUrl": "https://youtube.com/watch?v=dtFq-TvGL1M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dtFq-TvGL1M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M48S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-01-07T03:00:13-08:00",
+      "heat": 131,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dtFq-TvGL1M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
       ]
     },
     {
@@ -643,31 +606,53 @@
       ]
     },
     {
-      "path": "_learning/videos/sqlbi-side-effects-of-the-sort-by-column-setting-in-dax.md",
-      "title": "Side effects of the Sort By Column setting in DAX",
-      "excerpt": "The Sort By Column feature in Power BI causes side effects that are important to know when writing a DAX formula. Learn how to write correct DAX code to avoid getting incorrect results. Article and download: https://sql.bi/70167?aff=yt  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/sqlbi-side-effects-of-the-sort-by-column-setting-in-dax/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/sqlbi-side-effects-of-the-sort-by-column-setting-in-dax/",
-      "originalUrl": "https://youtube.com/watch?v=XmGfXqWxOak",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XmGfXqWxOak\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M54S",
+      "path": "_learning/videos/learn-power-bi-future-of-power-bi-from-a-personal-lens-talk-power-bi-live-subscribe-join-january-22-2021.md",
+      "title": "Future of Power BI from a Personal Lens 🔴Talk Power BI LIVE (Subscribe & Join) January 22, 2021",
+      "excerpt": "We'd take a look at the future of Power BI from the personal lens of some amazing Power BI Professionals. Hearing the intimate perspectives of how these professionals experienced the Power BI landscape change in 2020 and what plans are they making for 2021? *CONNECT WITH OUR SPEAKERS* ➔ Frank van Delden",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-future-of-power-bi-from-a-personal-lens-talk-power-bi-live-subscribe-join-january-22-2021/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-future-of-power-bi-from-a-personal-lens-talk-power-bi-live-subscribe-join-january-22-2021/",
+      "originalUrl": "https://youtube.com/watch?v=QvZ4QHGR52w",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QvZ4QHGR52w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H44M55S",
       "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2020-12-22T03:00:18-08:00",
+      "publishedDateTime": "2021-01-22T11:04:18-08:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/XmGfXqWxOak/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/QvZ4QHGR52w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-writing-calculations-on-a-real-time-streaming-power-bi-dataset-using-dax-measures.md",
+      "title": "Writing calculations on a real time streaming Power BI dataset using DAX measures",
+      "excerpt": "In the previous article and video, I explained a method that you can use to have real-time calculations in a Power BI streaming dataset. The calculations done that way are limited though because it is using the Q&A feature of Power BI. If you are after a complex calculation then DAX can definitely help.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-writing-calculations-on-a-real-time-streaming-power-bi-dataset-using-dax-measures/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-writing-calculations-on-a-real-time-streaming-power-bi-dataset-using-dax-measures/",
+      "originalUrl": "https://youtube.com/watch?v=wZFOanDjTB4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wZFOanDjTB4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M13S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2021-01-14T13:27:08-08:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wZFOanDjTB4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1131,8 +1116,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 28817,
-            "average": 4.7552137
+            "count": 28825,
+            "average": 4.755247
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1173,8 +1158,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 16490,
-            "average": 4.708308
+            "count": 16492,
+            "average": 4.7083435
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1216,8 +1201,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 6706,
-            "average": 4.7060843
+            "count": 6707,
+            "average": 4.706128
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1341,8 +1326,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 3548,
-            "average": 4.755919
+            "count": 3553,
+            "average": 4.7562623
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1383,8 +1368,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 3950,
-            "average": 4.7850633
+            "count": 3953,
+            "average": 4.7852263
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1443,8 +1428,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 3950,
-        "average": 4.7850633
+        "count": 3953,
+        "average": 4.7852263
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1601,8 +1586,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 3548,
-        "average": 4.755919
+        "count": 3553,
+        "average": 4.7562623
       },
       "provider": {
         "name": "Microsoft Learn",
