@@ -2,6 +2,7 @@
 title: "TAME the the beast that is DAX in Power BI (aka how to learn DAX)"
 excerpt: "We know that DAX, in Power BI, can be intimidating. We've been there. Patrick shows you how you can learn DAX using what you have available today and TAME the beast that is DAX!  Download Sample: https://guyinacu.be/tamedaxsample  DAX.Guide: https://dax.guide  DAX Studio: https://daxstudio.org/  DAX"
 originalUrl: https://youtube.com/watch?v=hbJA6EYHq1Y
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-tame-the-the-beast-that-is-dax-in-power-bi-aka-how-to-learn-dax/
 type: video
 price: Free
 length: PT14M6S
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "kwSHVeBx54I4vD+N1Bf1SFWxEUeptlbiOXRk5cSEBc7DsAUc2JkFs5oc23/8l33xi5cwRzaM5k4UvZdh+6BmvMdDBHbL+i9k4X20iK2C10G8mWBkAf6J5Z2IdB7Q15BehP/HpU5/Niy1G6maiKxU21ERMhKOxt2QcCaYpFDSjg6sEq/8dtbkRtoPSmg6xi+r4qR+0H3AE8j+BWMX20f23WDHVc6yPVpctXDkOZwd2k+Ep/tt3GgowiB31Cxsr/Z/yXtutafeKK1lOcdLGhwVLi1OG/uEjdJuULoTT1d6Ho/uJNpeBu569slJ3O5+/ZB8kl79aMcPV7D7CIrXbnalS5NuJK6yWfONDhRGdELjhMyoueEW3AsGPEclPUqqR44RqcF+3koDcv9Avm+WQWPXvA==;E5peC8BNIepOs6uCC5jHhg=="
+secured: "b6SkbBySQ21qYhodICjEJwTMKVXCshxhC+ciOSKzGOKqTQX/La7h1z7IjdZWr2JkdsoBCgoqXR1muLZGKQo55h1Xxx+gClgE/x+sNj4dRJm8o6tp1ASrc76Hvgkzk+atyc0et1Jz8aOkCeMUHYnHSn4mmc2pTkDUVig8T+kBXfJd9G1HHU2hgrWUyy/fTnBvX3vMNTex5LqaZJxp8kTvvB931HZi91nK4vYRe+IS/G80+rzEkz2k7gps4tO5r/w8ilqOP1d9miulFfLs56BZDYleCBe0wh71BD8FCfr2ezLyfTiUVfB3LwKR4NY4Zz1MyXBTR/MSlPkW7XXygE3Q+3AuxxiYGPYMWqEU+RdiWGh8kS41GRkvRL5Z0XCKMyUQTbgyc8YUBzCLY5IsMcnC3g==;NAFyfZ61g0OljZCvXFqq5Q=="
 ---
 
