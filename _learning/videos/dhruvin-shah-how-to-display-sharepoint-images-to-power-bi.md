@@ -2,6 +2,7 @@
 title: "How to Display SharePoint Images to Power BI?"
 excerpt: "During this session, we will learn how we can display SharePoint Images to Power BI. Most of the time we have a question in our mind that, how we can load SharePoint Document Library Images to Power BI? The procedure is very simple and straight forward. We need to use SharePoint Folder connector to load"
 originalUrl: https://youtube.com/watch?v=tsQM8MKxxcc
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/dhruvin-shah-how-to-display-sharepoint-images-to-power-bi/
 type: video
 price: Free
 length: PT7M35S
@@ -23,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "5R3HZBikXjsXl6m6ZJDNLCsG5XLZY5oPgAZZdTWaP4Z6OMSXsavSl/0nF/No1vQFvs3vevwHdCHK6kxu24SKYoroEjC9Efw/LWGDVDwspgAteUfzllUTvH9a1CLBYidqnyPvKOgaQ/UtwMhiMdkz9Znm11R7IMrB47ijJS+Hyo8rDv7Wjm0K4P5OLa1zMWNtEcaovMSDniraYOXwTBd690cMMv8uBBbVYSTdjcmaggdao0wkYy67LAiEOkmcQkh3O+hzYF4fm/5AlCD74FqFqXm+NKFTcAB7IF8JxXSN04zcarKAq6DBcqOi8tKpbTfHfkj4AyvhZWOsr9SXHNVW9wQu8y56p8u+FZK7F6v9lzl1pPvAjvfK8ZwDeKr5EcokWNN98uV/vOPGVbjAaPP+GQ==;QPc7WyWwVlhaoH9GjJz7KA=="
+secured: "++QRZ2gI3DnPrEJ/qcCdrPNx6oMqKW7+NEcJTO5OjwFGjJ209anozHBjH9QiKGMdia379wv6+J3jJ1H2oujD++L5IJWD6QA5SfuCNSdH/X5Z2IokuVc00yTiHw0lnLro2Yqs4wTayvNX6Dst8JehMdg4A8ILykMPMF4r8guwBNXXFqf95B23/xLpYMStvzGOAyGjbM52wmwx/w2V1I/h1l5ymxM9/KRJV+wuOgu7qS1ux7XENUDKxvRGTxlLFIFzFEiSVnd3xCT3MigRLAuIodVbOX3EK8TcHXsqzrmq+TIsOK367jFQlvM10/I5fDyBZ5gAGkIgphCiFu55NinR6LWvizGfpkbvvzWWtYoswrtWSteQM0AQd20OBBClamdH;nwA8kegkCgbpBcePnHX0EA=="
 ---
 
