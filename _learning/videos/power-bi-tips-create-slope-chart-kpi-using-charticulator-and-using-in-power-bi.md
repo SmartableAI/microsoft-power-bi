@@ -2,6 +2,7 @@
 title: "Create Slope Chart (KPI) using Charticulator and using in Power BI"
 excerpt: "This another my investigation on creating a custom visual using Charticulator. I created a Slope Chart that can be used as a KPI visual to measure the trend of a specific group in two different scales. IN this example, I have a simple data set with student Name, their score in 2015 and 2014 and another"
 originalUrl: https://youtube.com/watch?v=HCAK-vzklWg
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/power-bi-tips-create-slope-chart-kpi-using-charticulator-and-using-in-power-bi/
 type: video
 price: Free
 length: PT15M39S
@@ -23,6 +24,6 @@ images:
     height: 360
     isCached: true
 
-secured: "z43C+78WKEt0/eLKl2jYboXgw0gGkD9my5Zbd2RABHylLBpuLs1forZ98yJZjAeLsOZRc/8F2CVGSfmrkasgZVf/uDG/VaaFEGessAYcEFU6hrRSUbXYclWnIdMSHBVcHI6rTfgrWaSAX9r624Clf5qw2CT/5+FlLYw3cvcauMgt19s609mU7FuIMVqKo3YnYO094DIoNLMurkJ5TA1RWuJDKg8x6d14Utvb6vYw+X49RLu6p/Ia/XY19NxzZbHHBjpnjRjRbvxq079F5jlQDo8EGB02W+P+DKeb7YN2/NzOHcWO+7vFdcNBlB5kVDt1Y9wOzwXvcGCe2r4sggcyjsZYjSMIc670s0Q+aizJrJFxXHZOhSVYohjnioQwwqI1VA/0NDpfgCeNkHahHhIXqw==;F91K0xI5MFxtQTE+SSxkAQ=="
+secured: "O6P7WbuT+tuJl0BGe6aPgWZ0gd1q+qJKF143d3JhFiq4dSuW7XFRvIQYGn3XInRr+ywIU9SCpYn3I7fhehGGq30MUjXM43RsNCvail2ksA/vVFMhWnpZ6hbyXKk4TILHoT6OAvecFS3YUd08KvyTyF2bNzMdDkbJq9ynz0bkumwjW7PmvWB95qMaI4MF+pwSILYyoYs4jsvjM5nseJDCTJGZsZWtxWGDFwuYB+rI0+zagJDtaEbg7i5dqlHhY6oMbjrptQ2kGfNjDSt2C7PVFq6QH1N9Ztfv/xHgIoGtMq8EBVuXnWw1tdhVD1+RRp89ZsmUwbhLuIgWMBVqkvpnIMr670VpudgUruNK/dcHge643lkjIljFOd9LChnsU6I5gMsmtnm+SaxUtgesgsXbeQ==;yV6HjpgYdL9SpJcOLwU2lg=="
 ---
 

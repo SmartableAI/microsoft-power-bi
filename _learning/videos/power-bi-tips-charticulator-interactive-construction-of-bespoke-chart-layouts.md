@@ -2,6 +2,7 @@
 title: "Charticulator: Interactive Construction of Bespoke Chart Layouts"
 excerpt: ""
 originalUrl: https://youtube.com/watch?v=5EZq4QolNy4
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/power-bi-tips-charticulator-interactive-construction-of-bespoke-chart-layouts/
 type: video
 price: Free
 length: PT4M43S
@@ -23,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "+biq1/d3wJ70p6DVSnKwkODogvmtVelOR5nikWtm/vu0tU7jA1b/Hc343u8butnOqskGeR8rxa8YcG07b3Nzhe93TNlJY3pPfj4kLtmuy0adC4rhNUWaxnAT6NpdAynRSDfjFgNizpoHLYF6NuhvHlYO3HfcqU549uigB1McyJHZwlhBE66pm/eCPkpFjfvZ3J5krkqyhSTXq3wZjk8D8y2ucpLHUruq+RtsLQR56YMOUKwKBPPfQ8Lvc7++AGIIUJBrKLcLJStjiC5/41kkWvRna8OQJ3Bf18/KZ++UvBnjSfBBgsb910iDRykFD9Cgw/rxah9hf35X4iBv0oa4gRwFRFGZTsSgnnNv3fCAwhGMx8deR/1eDEoLxKuUGZv3J4NFCXRTXHFIL3OEkDqv6A==;7wJcFvKfXwylB0K7YiaxqA=="
+secured: "8VKSj/HDIoXmgB29xCH6AhNHPgKv/egnyGtX9OgpZwA89QuX2Gmg+i4sA41b9OK3GLSx7bzhSn6QYeiygobWezsA3Qfika6xY3eghpVYaVlnK+f5ioqbakqHrzI6jZSMatlbtdRda5CprheOADvL6/FoFksBFS4dJozoM3jdOWtH7sE4V+p7NfDw9Wvmm3RnkC5anOu0rKYkJo+EZvlrBNuauZyBgUYmZeqjJzHaK6aU8EhKKZq1EuivVktxLKe94dLl+EaLGh42eG4dRHX3ymh7oE/uzBMLc8HJ/m5kV2VjgLRrBIw2WlNEBDQ3Mx5siY2bOs35GqQu+oj8TCcA43eDPALo81FIVmuiA4mU3gQq5ldEoUwjS4PC+j+cEQJffE6P1qF0O2N3Alo8Sc/5Lw==;6s9QpF2ygemOLyi5FiVYJg=="
 ---
 

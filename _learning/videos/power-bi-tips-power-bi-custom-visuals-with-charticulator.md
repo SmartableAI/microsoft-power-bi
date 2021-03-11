@@ -2,6 +2,7 @@
 title: "Power BI Custom Visuals with Charticulator"
 excerpt: "#PowerBI #Visualization #CustomVisual #Charticulator"
 originalUrl: https://youtube.com/watch?v=FX9ZI9bNlg8
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/power-bi-tips-power-bi-custom-visuals-with-charticulator/
 type: video
 price: Free
 length: PT40M29S
@@ -23,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "P+1R8D6yUR7Xvr3YjuiV1IlLpTHspLPb029H/VsTepaBQoJNZKltJkSSC4/1VsVN9Jpa1B8ssg5ua2UZmWfwKCPk3kxeDWvNCEd7Mni9WL5/Mh9DJKu5eyPBJnt+a1snfbvjprKQ4uU7AR/H0hss+YuPpupG/0IRji8YOJ35IWT3uCO0vHM4jW8ZQwYtavSesjZFvhnAKcgtnE32BDcnxK5Z5xgR+NVf4ns8w/BeaplmOo8ldqbMC5V07mOf0WqK490gUPiqc3GM6qVpcu4f3yJle/pdTzMh1yXSQ1HVIUN2Lvc5pyD7+ZsHs97doOFhU9pGNxl4DWMV7JTika0K7POxvGrVY113shGkXY6gDEmQ1UPqnfql12OJPCcGi3HbSZSQF230MjkJVXKuHpS8jA==;Od9TCAQl9ojMcrzknsQ+rw=="
+secured: "4bTKTnAryBJ7DfR5/x/dfGbUZnNoe24pXxj3+1YZvm8B6ukDnPRJfQ75YdglPKVYq9w7Mle1lMnHgaSisN90yO3fYp7kQb9cAhqIdKOuexc5Mth0VLt179D8rlmKRxWetpavMZ2AnnJIlkPUYbp4pPbKmgrDG9FRkSIzh4JerRLAnP8cJeHNniTWcVLSF8XGWjXKGB71uVRvPvhBSiFhaTS6EmU6HU/goChbBlnGBCATlBjJNoFOLF1g7uaJaDSd28IlVnS56qKJ+lOIzNlIB5Ewcorz/zrsdL6t5KeroY4rH1XGoMEJvR4oqJnF8+mi4HchrMetqrtOO9/erx8P1aza47JbF0f1ghqd0bM7Ko92pckO+NA0VGy4HbXZO6bkvTL21opsYwHGUU33Q3HY+Q==;X1fshlGEdwsJAm7/EOB6PA=="
 ---
 
