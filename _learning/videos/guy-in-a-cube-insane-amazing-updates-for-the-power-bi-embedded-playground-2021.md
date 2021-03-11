@@ -2,6 +2,7 @@
 title: "INSANE AMAZING updates for the Power BI Embedded Playground (2021)"
 excerpt: "Want to try things out with Power BI Embedded? Want to explore the JavaScript API? Try embedding with your own report? Then you need to check out the INSANE AMAZING updates for the Power BI Embedded Playground! Amit Shuster walks us through the revamp.  Blog Announcement: https://powerbi.microsoft.com/en-us/blog/announcing-the-new-power-bi-embedded-analytics-playground-preview/"
 originalUrl: https://youtube.com/watch?v=5ikWESY4sHc
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-insane-amazing-updates-for-the-power-bi-embedded-playground-2021/
 type: video
 price: Free
 length: PT7M30S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "1Q4QO+WyLOLZjiVRizG7NljnMA1oxxa7PAA4SHm2bXX6oNccczgK/r4D/hzC9m5ogeb94Id1gPLQsZY13XMAZwtmJ7IlPhB+raIvnPwMcENvAT0ykHPw4oBnTjFdc1w+7P/LhIR7WPy1ltIJvfjaFrFEBGwRNkl0gFigGbxVCSjcKyGfdrxFdygeygmVcp0Ok5KMXox8eCGoVG4mK4G3swkxoasFSeK1N72AnFdQb48hFLIOJxPsumtR5g7dQHCTJ2DqcW/j096etnp37zA0kR/hKXLfU0TfgJh6LnoSEK/odYsiG4x9b+o19P8a/lQ8O4bYvV0m3UgWpCrhLMJNhqfZI7JzwtpEdQ8VQkxG9sFRo1lFiO+ccmyuT0b4/KesexDCTYEsIw1opwMvi7WOqg==;7wf5XqSgve75cSEMg5gIwg=="
+secured: "Lod2wqiMA//q9y0XvQ8Whtep4dOnaT6UA1toqGu/TOMNyOPPsexZ7ftPCYR5IJIm/W4ZREG/2Ks9ytzHfCz1ODAwRP6OO6v9ipcNLMM2+Skb5DrNx4jKTvkvwl70ojcEWrFRm3JMendvL+PharqkUfICeClE9P5Numluh0DhjmhtAiCU5Dcpc/CMB5oZ2v+rvLAJxhRuZHlym+oO31uREQXAPMV/Bkg/iqFjPIuQx7plO2Cni6hUlcMeUySea8Uwss2dAxUpj40hpEBYQtewDILDdu+Iy4Om0B6GK7My6cVuyFh4V1eqJfEshTgptASuFr7FNxo37zopp6CHfe1au5UhldeWwlf/7kUy9pOJNpuy0A6yrVnA9P6oF5Schn1aZwa4JOgRHZcFWtHMp8bBYg==;GvOD4s91Vc3AS4gcgp5wcg=="
 ---
 
