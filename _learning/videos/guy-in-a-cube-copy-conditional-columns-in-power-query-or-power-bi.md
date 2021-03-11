@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT6M43S
 publishedDateTime: 2017-11-21T18:10:52Z
-heat: 53
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OSoTyZVRqJk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "Copy Conditional Columns in Power Query or Power BI"
 
-secured: "GwzcfdHi3aqUbTW1I00hTX/NVSk+0quvaRzJPrCF1Xwvh9ldWaYlOLFGtnqmntLDf2SX7F0EkGBH7x5O4gBwIAFSo5PvW66EKanZXdQdPevY6dULkPWVAUFG2F5OTYIdnEUC7D0T9xsTtoa0fpTbgJfd+7DLTs9YGBROHcqinYGX7A5bJBoPM/SoZV0VOvTlxDziJMlh1bliVUkaxCquuuZHQwUXh5fEd0D516bmI45KPgUHdIkAA3wV1Qeyz/a4lHNTuLVXCPdAKR0c2SgpyDIGD1Jxvh0i6fQY1Madl35FtRD7ci7+fcvIb+CUs09TETnLkCyMdsIz+T1fdlrkb9jP9U6tHL/6GNlXp2EMdVZePX/dvJYD5ZD19sDFF0icDl+ofD1Gc1gx5+ecRbcPmixdtF13/Ri7N1w1afo4HPk=;dGuXZm5aj1dMO1pxMrBklw=="
+secured: "5xLujICvVUk8/mNhyLHF00mgiFPY5NL1X3cstLrPRdjSzwcnmE9P7Dfs9fMmmnhySIH4xHVRS1pVT4iUe9DFuus6Fn3rYpc332I0MqNMfEs5NZagg0YMOUkFBOBxgk0wI2ItkNsYntyHMHFSeVeMISZeSSzy20hQ+Yx7Uky+SmWpG+MV/4xw4dLZzY2EaCEr9HzwobVXtaaJd64jU4whSxf2s0kG67tdUk7eXILEeZqGGaDuJo5UZIsc5ArO00iShrgX0zP/YFZ7NcBZaFhNvMJuRM3FxDJQFqsboCO0jy3H26BADEqg3Ij7PxUrGqUdKYLz9Am4pDULMVFd3ZyAzNWxTQ62cCzy1HdhXlYAImov1fUFT4LJrwZd1dSIt2q50nKa4Xr/XJ+s/VDF71+ttLSHdBCy/hNWj3Lo8opK8Ek=;z65irBxxEvSUwHrMprBvYA=="
 ---
 
