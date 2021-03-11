@@ -4,6 +4,66 @@
   "page": 27,
   "value": [
     {
+      "path": "_learning/videos/radacad-currency-exchange-rate-converter-power-bi-function-part-1.md",
+      "title": "Currency Exchange Rate Converter Power BI Function   Part 1",
+      "excerpt": "If you ever need to convert amounts from one currency to another, you face the challenge that currency rates are not constant. They change every day. You either need to keep an up-to-date table of all new currency rates and use that in your Power BI solution, or use a function that gets the rate from",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-currency-exchange-rate-converter-power-bi-function-part-1/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-currency-exchange-rate-converter-power-bi-function-part-1/",
+      "originalUrl": "https://youtube.com/watch?v=rCsUao3UtMM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rCsUao3UtMM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M49S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-01-23T20:53:56-08:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rCsUao3UtMM/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-custom-functions-made-easy-in-power-bi.md",
+      "title": "Custom Functions Made Easy in Power BI",
+      "excerpt": "I have written a lot about Power Query M scripting language, and how to create custom functions with that. With recent updates of Power BI Desktop, creating custom functions made easier and easier every month. This started with bringing Parameters a few months ago and adding source query for the function",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-custom-functions-made-easy-in-power-bi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-custom-functions-made-easy-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=fGKGDVEtcOU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fGKGDVEtcOU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M44S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2019-05-22T16:20:00-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fGKGDVEtcOU/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/radacad-date-dimension-in-power-bi-with-financial-or-fiscal-columns.md",
       "title": "Date Dimension in Power BI with Financial or Fiscal Columns",
       "excerpt": "In this video, you will learn how to add financial or fiscal columns to the Date dimension or calendar table in Power BI using Power Query. To read the detailed steps, follow this article: https://radacad.com/create-a-date-dimension-in-power-bi-in-4-steps-step-2-fiscal-columns",
@@ -868,8 +928,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-time-intelligence/",
       "length": "PT19M",
       "ratings": {
-        "count": 353,
-        "average": 4.7450423
+        "count": 354,
+        "average": 4.745763
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -970,82 +1030,6 @@
           "url": "https://docs.microsoft.com/learn/achievements/intro-to-power-platform-social.png",
           "width": 800,
           "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-propose-solution.md",
-      "title": "Propose a solution as a Solution Architect for Power Platform and Dynamics 365",
-      "excerpt": "Learn how to propose a solution.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-propose-solution/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/propose-solution/",
-      "length": "PT40M",
-      "ratings": {
-        "count": 363,
-        "average": 4.674931
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 51,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-workplace-analytics-business-continuity.md",
-      "title": "Evaluate shifts in work patterns with the Business continuity dashboard in Microsoft Workplace Analytics",
-      "excerpt": "Learn how to set up and interpret the results from the Workplace Analytics Power BI Business continuity dashboard. Generate insights from the behavioral data to help navigate shifts in employee and team work patterns.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-workplace-analytics-business-continuity/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/workplace-analytics-business-continuity/",
-      "length": "PT39M",
-      "ratings": {
-        "count": 38,
-        "average": 4.631579
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
           "isCached": true
         }
       ],
