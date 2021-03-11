@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT15M1S
 publishedDateTime: 2020-05-01T09:36:30Z
-heat: 53
+heat: 58
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5vOEktgYWM0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Xla+hDfQCt66f/l3AGHJgzdUsvJiH21mJV3HC0pxjwDvFbL80N36PGw9n0qnytO6TmZoLMLaPFLvlnjPn+Mr0S/FCQp06WvsZCvwT9NYDx9Zz08bIdSQJTrQPMpYYqZHQNkSgQ/ZqlkXf0rLAGA8O8fVQHwtPPBXmuTTJ0wbGuImmmC07zACvl06HGmvbvd4yn4Q+HfBZAR1PvEv8+vrYrgEC3/66ZKyb0/7NLGf1luutLsVeOlHifeVbzEWqmxqQMkUHwZJ0z0fpG4kT/seGPcQT48CbuPQUyF2j1uqa/2KlI5DPrR/3ruqWy0xOQ1ZYwSAYRnhw2Xckde4bWITv1mgLFTLTsYqzJ/Iur8aH1DdNog+kc2JkWO/viJbr+hlhbHkNuZbveviSIhy6cW3QrapTtGFdxmNppvy+Lpzb7M=;gGktfW0xN2z/5LcfsxbhAQ=="
+secured: "er0Dp9rztH4Gm0Cfn0NYSEswT2Bdmg5A70nIFgI4naVtmXOsNasaAsHrUnIhZvd9odnEua9M7lF9iRQPrTb/tIideCufkhiuDw/8+vxMet3FAfwTI/fdV1kjW4Yg6QgslOezqAl9zXSgAeEK7S6h5RBBtAiQhFV05dre4pmrTmz5IbLJzjz2uL7vK4N0HBi/wfD/SkCgQbFveIoQuemA1qDWyDIXqiXUUzHb7o/eLapD0rrgUV+5dUOwBGzc08bv9xQfiHRiLqx5rjTxCe7HlQIJfh7aZf2sIb18PaktrIzp5NLn9tEjMycslRdHfpBQTZh+o2uDYkm2RiQP+Q1Vp3UX6jQrmOW46BNqIoT8JGatDzZtqt6uTbnEZoA1CfPkqmspL32m1HU8sqLXKALEpDGqkcApDCGrAwhSLgBHgOI=;qLcfeIVgIk2HMigjJkYo5g=="
 ---
 
