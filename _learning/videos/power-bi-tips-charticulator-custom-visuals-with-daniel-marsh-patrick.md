@@ -2,6 +2,7 @@
 title: "Charticulator Custom Visuals (with Daniel Marsh-Patrick)"
 excerpt: "Come hang out as Daniel Marsh-Patrick shows us to use the amazing charticular web browser tool to make custom visuals to use in Power BI reports!  RELATED CONTENT 🔗 Daniel's Website -- https://coacervo.co/ Daniel's Twitter -- https://twitter.com/the_d_mp   LET'S CONNECT! 🧑🏽‍🤝‍🧑🏽 🌟 -- https://twitter.com/HavensBI"
 originalUrl: https://youtube.com/watch?v=jAxSH7_6paI
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/power-bi-tips-charticulator-custom-visuals-with-daniel-marsh-patrick/
 type: video
 price: Free
 length: PT1H39M13S
@@ -23,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "8LRXz6bv+c4I4/3jaiGUepelv1wehgd1kQA54g75Jk5fjeoRdgHjNkv0rv5YRlKt3zZGk19KB1cITSRFlyT1RVMphoGdgce5WQHalQcgpl/TaZWXZfRlFkBAskL1fPdmWNsz2XQ9QloI+DD7fBlgptY1mO1xA2CqIxK0t1ZMmnylyenhsAMk4wiYj2quxWTXpootBH+JlSvy15GjJgbUifZWiouJOcu64OhWSQeoh3SmgDXknx/f7peLqpckgB28lUwqUlBT4BBSNrw2oh5aBM1Fae7F1V8qWssZkTS9YNwrgMmSb4ir5v28BVcUPGe5NWZ2HN1puVlttLtDYZUl7t+BePA8cFi9jRB1DfWE+FV6weAusZwc1LieMYPFBW8Kcd/K+F+EuRbPZ8dVERTv4g==;Ms0z2bViHqQ4jPRa86rzDQ=="
+secured: "k2lbJIiM15iJ35o3ZAEtulaRaKggkislptO3sL7KewlufMsMLGYl2t4h/gy+7sPIqDKXblSIrRzRwaU6cQSwPQ4vf+9snRPu/7DYRF34BOMhP3xAh5C73b7mG+4hmKPpWDM/kWQpPjnZLqKR9tkS6Lpk87ScPbj/gNC1cKGv+zVMJIwpcAstTIcdND3FEuiy/BxQNCrDxDRIoR2d9TYQYrMAU7nW7rp4/eIxlM9+Kj02aULzI42K4PmDat072UujSBFhKms884zGMF3x+hznZECAV+3z2iGK6V31DO/+JrqBT9WBjrTHESKZZ6yTdIDHooN+QPLEtEfI1Dp3grpxt4ACD2zhIVbjpYPdZXaCeZM+A4Fa/h15k8kO3wo/Zj4Vv5EnhMGpuU5zYZEfXnpgSA==;2d6+LdfcPM9A5Xhp+ezW1A=="
 ---
 
