@@ -226,6 +226,7 @@ items:
   - videos/curbal-dax-fridays-196-dynamic-pricing-with-dax
   - videos/curbal-dax-fridays-197-why-you-need-to-test-your-dax-measures-in-different-contexts
   - videos/curbal-dax-fridays-199-using-curly-brackets-in-dax-expressions
+  - videos/curbal-dax-fridays-200-calculate-the-max-of-a-measure
 
 topics:
   - Power BI
