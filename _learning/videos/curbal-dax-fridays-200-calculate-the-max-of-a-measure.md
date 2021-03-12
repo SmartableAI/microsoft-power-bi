@@ -2,6 +2,7 @@
 title: "DAX Fridays #200: Calculate the MAX of a measure"
 excerpt: "In today's video, we will go through how to calculate the MAX (or MIN) of a measure and how to troubleshoot it to get the correct results.  Happy Friday!  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1"
 originalUrl: https://youtube.com/watch?v=DAvzV-4Li7A
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-200-calculate-the-max-of-a-measure/
 type: video
 price: Free
 length: PT7M45S
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "W1HtsapMuBD91FAjCUkNBPxd350UePgYRP7+2OMZgNRjybXOr26r7qUpU9eu2OYd21IbM8+IHLAJwNk7oGEcfsjkxmul3Af0jpXP6LuwrhuSZzQDYTY3peoPlBt/tjtPYUyMYZRQxcEp5+KvpLzOSLa6NXCx5rPzXl5k8NkeWzDQYnA/tq+sohZt+t9A7bNbXsPCLVQCeKeaMAKQvMOrqIpUkRHHvV9TEZVQhy0BK4dOcfJ8TqlAsOK2x+u9V7oDA1zxSNNeIVnav/q025UpIfu1UyR543ZBqXNB+ucYDGzV/XrFxqr2GseU849/USDIqcv5zq8/NovXwA2J/GyV6k1KbuT5opsWZ4l0dzOTAYUPWMuh2R9mQ34NwDiOvUXrsMACbRgw1CGDCOkufZoLvA==;JHN44iMCnpUgakptNPlRNg=="
+secured: "kenvr2NOTLaHISSL4qO8YpHxmljguiqANFcAShX+H7g0X9c8h8ALQ60+9RVoPmvTp0vh+OMsVhcjaQRxNpxM/LMQA94G7em8Odq/xba1P7oTKRkTP5yIKew7iOURK5SUIqc+YwAO6HI41Wz0RjJ3fxNJP3IBDLazgfWJWOIH/UT9e2ADsI1ob9alz6IaRce0S088M5Pdag35IWpTRbCYrdXdUK6H4Sr3W1HPJGU7/rlK462XoUQ0HOc521tTE6Ako0PetiawLOnSA90OA+vGZND/F274feUpwCQbOByy/A04uVqMeNIuFR2+mebqcouAJuAec+iXKLPcF1URmuUr5D+oKivJLKsc19dZBdTt6ggvhUd5GN1TTvsAtHihgxe9;9s+jadLOlYJaFl/nxmV6/Q=="
 ---
 
