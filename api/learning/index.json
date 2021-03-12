@@ -231,6 +231,36 @@
       ]
     },
     {
+      "path": "_learning/videos/dhruvin-shah-how-to-display-sharepoint-images-to-power-bi.md",
+      "title": "How to Display SharePoint Images to Power BI?",
+      "excerpt": "During this session, we will learn how we can display SharePoint Images to Power BI. Most of the time we have a question in our mind that, how we can load SharePoint Document Library Images to Power BI? The procedure is very simple and straight forward. We need to use SharePoint Folder connector to load",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/dhruvin-shah-how-to-display-sharepoint-images-to-power-bi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/dhruvin-shah-how-to-display-sharepoint-images-to-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=tsQM8MKxxcc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tsQM8MKxxcc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M35S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2021-03-10T03:33:52-08:00",
+      "heat": 151,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tsQM8MKxxcc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-how-to-refresh-web-sources-in-power-bi-service.md",
       "title": "How to refresh web sources in Power BI service",
       "excerpt": "If you have connected to a web source in power bi desktop and they try to connect to the service, you have probably gotten this error:  \"You can't schedule refresh for this dataset because the following data sources currently don't support refresh: Data source for Query1\"  In today's video I am going",
@@ -271,36 +301,6 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-how-to-display-sharepoint-images-to-power-bi.md",
-      "title": "How to Display SharePoint Images to Power BI?",
-      "excerpt": "During this session, we will learn how we can display SharePoint Images to Power BI. Most of the time we have a question in our mind that, how we can load SharePoint Document Library Images to Power BI? The procedure is very simple and straight forward. We need to use SharePoint Folder connector to load",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/dhruvin-shah-how-to-display-sharepoint-images-to-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/dhruvin-shah-how-to-display-sharepoint-images-to-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=tsQM8MKxxcc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tsQM8MKxxcc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M35S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-03-10T03:33:52-08:00",
-      "heat": 150,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/tsQM8MKxxcc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-get-started-with-microsoft-data-analytics.md",
       "title": "Get started with Microsoft data analytics",
       "excerpt": "Businesses need data analysis more than ever. In this learning path, you will learn about the life and journey of a data analyst, the skills, tasks, and processes they go through in order to tell a story with data so trusted business decisions can be made. You will learn how the suite of Power BI tools and services are used by a data analyst to tell a compelling story through reports and dashboards, and the need to true BI in the enterprise.",
@@ -331,8 +331,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 12733,
-            "average": 4.793843
+            "count": 12739,
+            "average": 4.79394
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -373,8 +373,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 29148,
-            "average": 4.7561755
+            "count": 29155,
+            "average": 4.7562337
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -433,8 +433,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 12733,
-        "average": 4.793843
+        "count": 12739,
+        "average": 4.79394
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -468,6 +468,44 @@
       ]
     },
     {
+      "path": "_learning/videos/sqlbi-showing-actuals-and-forecasts-in-the-same-chart-with-power-bi.md",
+      "title": "Showing actuals and forecasts in the same chart with Power BI",
+      "excerpt": "In budgeting reports, a common requirement is to show future sales forecast and actual sales volume on the same line chart. Learn how to achieve this goal using DAX. Article and download: https://sql.bi/73386?aff=yt  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide to DAX:",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/sqlbi-showing-actuals-and-forecasts-in-the-same-chart-with-power-bi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/sqlbi-showing-actuals-and-forecasts-in-the-same-chart-with-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=DKgF-5QHY68",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DKgF-5QHY68\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M33S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-12-24T03:00:25-08:00",
+      "heat": 143,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DKgF-5QHY68/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-get-started-with-power-bi.md",
       "title": "Get started building with Power BI",
       "excerpt": "Power BI is a collection of software services and applications that let you connect to all sorts of data sources and create compelling visuals and reports. You can benefit from receiving those reports, or you can share them with others inside or outside your organization. Learn the basics of Power BI, how its services and applications work together, and how they can be used to create or experience compelling visuals and analytics based on your data.",
@@ -475,8 +513,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 29148,
-        "average": 4.7561755
+        "count": 29155,
+        "average": 4.7562337
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -507,45 +545,6 @@
       "price": "Free",
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-filter-top-3-products-with-a-row-for-others-using-dax-in-power-bi.md",
-      "title": "Filter top 3 products with a row for others using DAX in Power BI",
-      "excerpt": "This video shows an optimized DAX technique to display the first N products for each category in Power BI, adding a row that aggregates the value for all the other products. Article and download: https://sql.bi/695263/?aff=yt  The article includes further insights and optimization solutions, whereas",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/sqlbi-filter-top-3-products-with-a-row-for-others-using-dax-in-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/sqlbi-filter-top-3-products-with-a-row-for-others-using-dax-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=nVvlEHKr_0o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nVvlEHKr_0o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT36M46S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-01-04T12:30:16-08:00",
-      "heat": 141,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/nVvlEHKr_0o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
       ]
     },
     {
@@ -580,69 +579,31 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-replay-special-end-of-year-stream-w-will-thompson-dec-12-2020-charity-stream.md",
-      "title": "REPLAY Special end of year stream w/ Will Thompson (Dec 12, 2020) *Charity Stream*",
-      "excerpt": "Join us live as we answer your questions about Power BI!   Every time the answer is \"It depends\", Will will donate $25 to charity! You can take part as well by donating through the live stream. Guy in a Cube is supporting the World Central Kitchen to help feed those affected by Hurricane Iota and COVID-19.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-replay-special-end-of-year-stream-w-will-thompson-dec-12-2020-charity-stream/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-replay-special-end-of-year-stream-w-will-thompson-dec-12-2020-charity-stream/",
-      "originalUrl": "https://youtube.com/watch?v=hLQ5St1g4S4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hLQ5St1g4S4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H13M59S",
+      "path": "_learning/videos/curbal-covid-vaccine-tracker-part1-get-data-from-github-and-schedule-refresh-it.md",
+      "title": "COVID Vaccine Tracker Part1: Get data from github and schedule refresh it",
+      "excerpt": "This video is part 1 of the upcoming series: How to create a Vaccine tracker.  In Part 1 we will get the data from Github, publish it to a PPU workspace (we will need that later) and show you how to schedule refresh it and what to do if the option is not available.  To get the files go to Curbal Download",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-covid-vaccine-tracker-part1-get-data-from-github-and-schedule-refresh-it/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-covid-vaccine-tracker-part1-get-data-from-github-and-schedule-refresh-it/",
+      "originalUrl": "https://youtube.com/watch?v=-oT4PLmv96w",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-oT4PLmv96w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M28S",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
+        "name": "Curbal",
+        "domain": "curbal.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2020-12-12T08:40:28-08:00",
+      "publishedDateTime": "2021-01-18T06:02:17-08:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/hLQ5St1g4S4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-optimizing-duplicated-dax-expressions-using-variables.md",
-      "title": "Optimizing duplicated DAX expressions using variables",
-      "excerpt": "This video describes how to use variables to optimize the performance of DAX expressions containing multiple instances of the same measure or the same sub-expression. There are two related articles and downloads: https://sql.bi/62887/?aff=yt (Optimizing duplicated DAX expressions using variables) https://sql.bi/67786/?aff=yt",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/sqlbi-optimizing-duplicated-dax-expressions-using-variables/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/sqlbi-optimizing-duplicated-dax-expressions-using-variables/",
-      "originalUrl": "https://youtube.com/watch?v=dtFq-TvGL1M",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dtFq-TvGL1M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M48S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-01-07T03:00:13-08:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/dtFq-TvGL1M/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/-oT4PLmv96w/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -653,7 +614,37 @@
       "price": "Free",
       "topics": [
         "Power BI",
-        "DAX"
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-talk-power-bi-live-qa-subscribe-join-january-29-2021.md",
+      "title": "🔴Talk Power BI LIVE Q&A (Subscribe & Join) January 29, 2021",
+      "excerpt": "✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask any Power BI question. 👉 To Learn More & Submit Your Questions Go To https://www.LearnPowerBI.com/talk 👉 Join the LearnPowerBI Family to Dial-In Using the 📞 Phone Line: https://www.LearnPowerBI.com/training  Hello,",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-talk-power-bi-live-qa-subscribe-join-january-29-2021/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-talk-power-bi-live-qa-subscribe-join-january-29-2021/",
+      "originalUrl": "https://youtube.com/watch?v=I6SC2lrLJ1g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/I6SC2lrLJ1g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H59M30S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2021-01-29T11:04:58-08:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/I6SC2lrLJ1g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     },
     {
@@ -1144,8 +1135,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 29148,
-            "average": 4.7561755
+            "count": 29155,
+            "average": 4.7562337
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1186,8 +1177,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 16572,
-            "average": 4.708605
+            "count": 16573,
+            "average": 4.7086225
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1354,8 +1345,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 3660,
-            "average": 4.7554646
+            "count": 3661,
+            "average": 4.7555313
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1396,8 +1387,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 4089,
-            "average": 4.7840548
+            "count": 4090,
+            "average": 4.7841077
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1456,8 +1447,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 4089,
-        "average": 4.7840548
+        "count": 4090,
+        "average": 4.7841077
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1537,8 +1528,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 3660,
-        "average": 4.7554646
+        "count": 3661,
+        "average": 4.7555313
       },
       "provider": {
         "name": "Microsoft Learn",
