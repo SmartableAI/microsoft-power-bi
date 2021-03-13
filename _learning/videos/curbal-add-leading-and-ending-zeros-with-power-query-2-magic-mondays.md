@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT8M5S
 publishedDateTime: 2017-05-02T20:28:27Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tu31g_la5VI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Bk42rHpCY3hYHBktkqGz2D9SboOkDo+G8vlvj08xbAmv3HkPRSyBqk7C0z4Ih9ccJru94cA2EAgMFPW7kmsV0dSdwgRtfIWfSZ+7+vMiCfh5gGOZ9/NcL1pKixTjDsJzXm8SCg2T9XiPUHsztytaSgE2gUM/gs6rC9OTRljQmdVaqcnbWIr/UMrnmioNK8iFrWMZVrQ7YhjMC48FqN/v4m4ovGh9YYz/Ti3c4F7H2q0Nrn67qsb2a6G7Ar31ymxlO2mUAimv4+LS35jiMhKcNMD5CTpZldvf9hsa/Hcx/nikcRdK9iQiCG+Wpuey4ifQBeGqqro+IfnuHT0Uea+lhm/8VgLXR8ooVa3ZNBxHXMvdqNW2JLwnTO2hWooc2J8Wlto3NeKUOdCvAETFyT3cRxjGBooq7WUW/Sr9wvg8gKc=;syR7O45yCV7dL8oLu7Rg1A=="
+secured: "CUDO3svyyqR299t+8QqcfZX89smNbIFIikL7DXBbsiFSXixDdzgfaWhN5UjRP6ZT544bvZEErbDve8xr18hyihPG3WKvkBpBlkgokKhB7tlYHhmQreLYOWpQJhTFxWTlJebbzwZsUZouMXUIHFV108DaVp/ct0t19Y8TbWQ5lXM9jW5ObsV5MaEhPlDXL5NdDRBKSzMorFlVeZHN9z6UzKXx4mfpqK0rHH8zNuiF/2YFs1xQ0ZdyFJkMb04NcD7ZtMg//uN6vMwnYyWPdwfIDGnGHataODBBsbuNdZqAGulWJOaHUWmPvTiZHElGYKDfRaEl37sQc7R9cCNnnEvEUzpp6dsBFbeJc+2B45NlHzot1nUE5CXIJPSTVjng6pS0uM0gKGBpEHdTM4XV88BJiBhyzUSWzR8gd1SvD8DU4Yc=;50r6MDShqJJ6HNglNZuLDA=="
 ---
 

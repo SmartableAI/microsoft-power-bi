@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT7M20S
 publishedDateTime: 2019-01-09T14:20:35Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kvsi3Jwe-sI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "How to create Sparklines, indicators and conditional formatting in Power BI Paginated Reports"
 
-secured: "gs/rsB1ucdhDB1PUpqzQCP8eg+/9da+IlKOZizg7NaMz3AYVvFlmyalc1DTmm9h6gi0R8x0zCTOo7oFKA+itGSnXbtCErzr3BFgR6iCaS12R+ce6qCP1l6o5+nxSOpnwakecoZJh8XKv6FSXmZfcZc91nhTD2r3b2y5goXxB/S3h75pTnXMq9bpKPx8zFqEuvVY0ux61d8YWOn7F98hrbT/h87BfdmnDl/PCokbN6PlRy8YiNk5pFM/kSqh2xeLq8/ocLCJ92wb//06YIKcaOtwQpMiDMYdVTFuARWCsUV/bdKWl16IN84pbd97LKvvsmHDOX0OPO0mP2mDiN4VFcFycclk64UNn8ZDs+uKAAeJ5neUI1be688X996wQqH30vSHGmGBOJ4pexZx7i/2dVNfD52WQMKZX0U2wYrzSbOI=;Nf4/krYVOKlbgi8HPFYTSA=="
+secured: "1W6A9mvDhJjpynaKHu+2ut4rXnsNXcpWefcCUJJ0yWfZG9BVXe8hXjhj2RJRYWZHZeiq+LoQCvz7P3qibPBJWoHz9bwOGZEpp4Qb7CPws8ly2ExZn82RmxOVf4jNwhNqWGLTwhBeq5Ml4jYVtipEWgPQo9BW/Jc8276wXjC44IRFjdw0zg+sTuUIkv8AtvaIZuAKbc3/hoxxWPjgsXKlsr+hkcs5EP8zn/P4n3nC7PhQgQAlN/gOeryuEMvxaP5gv9NWBtP5VvuSPv5NCm0kLj31HVb9a640QyGJV7KQ8hJHuJZyil6sNEF+XbNdDY/uQmAK+Y7SP4CfqsHT73CZLWev7Hq//1iUjig26XsuveBpoETrx7YfUXDxjWJ1R2+36TGO0TiUsrCvClNA3RRDjgC1yAcCA47FbwfMDPan0Eg=;B8pwSaUvVJ9PEZE2/LED4w=="
 ---
 
