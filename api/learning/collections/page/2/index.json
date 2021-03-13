@@ -426,7 +426,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 55,
+          "heat": 53,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/dax-power-bi-models-social.png",
@@ -451,8 +451,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 590,
-            "average": 4.7084746
+            "count": 592,
+            "average": 4.706081
           },
           "provider": {
             "name": "Microsoft Learn",

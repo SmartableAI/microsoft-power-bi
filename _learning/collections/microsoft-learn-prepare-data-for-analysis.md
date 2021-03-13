@@ -4,7 +4,7 @@ excerpt: "Students will explore Power Query as they learn to extract data from d
 type: collection
 price: Free
 length: PT3H26M
-heat: 101
+heat: 98
 
 provider:
   name: Microsoft Learn
