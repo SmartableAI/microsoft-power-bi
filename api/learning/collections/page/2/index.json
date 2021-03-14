@@ -451,8 +451,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 595,
-            "average": 4.7058825
+            "count": 596,
+            "average": 4.706376
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2231,7 +2231,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
