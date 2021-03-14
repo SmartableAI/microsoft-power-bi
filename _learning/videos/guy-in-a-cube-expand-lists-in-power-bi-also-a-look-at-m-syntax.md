@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT3M57S
 publishedDateTime: 2016-02-24T23:04:39Z
-heat: 55
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sbPS3ZKIt7g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Expand lists in Power BI (also a look at M Syntax)"
 
-secured: "ENdUWostbEZvxG69UqWetC0WOOBkLyoyNyJ1OqFYMT6yzzYluK0tZFBhSmtxTegnr2hN/pwNT8eOSRmP0deT64sCP/84zr4omNmz+khrITfDcM4LbxZceBOT6lmW07W5GkRMbL4sM9GX5TSXL2uHrB0faarDYjEUeBd3W7AYTAhJEJUNaCUCt2FKrxZGJ1g95e1Yl2tuHz0syBm+8xpPNEibTZBaqfCMN6Id8wuVwgjp1UyhQ8R2rSbSDhe+HwHiQhheLXnmj4A+zkQKJtOwlyI1c1raForJeP+M7AUdiIJkb0jH9xk7otDlYbDBEPP6ATcVC38ygniMm7jXPnwijTIRcfUdWwtzmkdrwCkRlLkaCREumv04U/SUqC+eXmRHrRjfGYSc4dPTatPBSoO3xcjDMO7tz4vrgid5EmokY2Y=;dWbyvtoVPyx7t45Ae/gTMQ=="
+secured: "ttkO7aDkWxfwYzJqlS8sPC80Ik62NAidREKho8O7Tj6SPJy/Fh0KzOBG1YeoXhXqD8D26leHnGnpr9OgrKO5zH4LfQ2famZT4aLsHpyQCq6OvsOiLeXmKT9s5tgghAe+2Z2VGBM3A70fAKf8JGUVZkG2VLGlBbgj0SbnMEPlk1uz+YDPtUdNV+k9ahrvKVXb6GMQuvBfyqOuKwlTvgRl1gd+8vNCbXoC4w6tFXxw9gwHwRZaaof6MgxbzRJ+UFlpnAJy5r9dmZGRvTLBDm6I36SN/8ED/VhJnMNGUfiOmXk7xVkf0Xk1zFis0Tfs5AnP9vxCfFOyjjk+vDb4bcFnXi9AtFamUCTbb1qR1eO4TvkZIHU4mKpdXlLYilQrBFu8lL0TStw/nGaOBY1J9c1xAT2f4BUKoeVjJoANhHzlLJE=;B1yjilhG1p3gsdHWvlkDBg=="
 ---
 
