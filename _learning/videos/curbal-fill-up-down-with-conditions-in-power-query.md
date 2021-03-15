@@ -2,6 +2,7 @@
 title: "Fill up/ down with conditions in Power Query"
 excerpt: "In today's video I will show you how to fill up or down based on conditions. I am going to show you two ways to do it, you pick the one need :)  Chapters 00:00 Intro 01:00 First solution using M language 02:50 Second solution using the UI Done!  Here you can download all the pbix files: https://curbal.com/donwload-center"
 originalUrl: https://youtube.com/watch?v=QV98Jndj5Fo
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/curbal-fill-up-down-with-conditions-in-power-query/
 type: video
 price: Free
 length: PT4M32S
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Ri0xUcUkYTAFcLuFAxfDe8XG3CEd+6MApv9dyh/nhncv+xK4c+bOrd+Fy8trHuNj4sbfqt1bqnQDtwfP10GHxSmmV+xj7CyEMgQr+0MSztfJu4VQCCR3JC9G3QpKZ6yzfWT2M2Wng4LQ9YSFLsjqzJNJ+Cr9MFfi6Evjfl4N21j4o7fgrR23M6ffB7c6/xhkGq2/Y+3Jdhb80KBhI7NTeSvvOzoShxeihJyEDQExn+z7ZBlfxlHAeEhEjH7Vi9Fa+XliAp+ujK4U0dEReCRR5C+dLdwr05g3LCW1R1jZcMCV2/IuT4M5eHljGJ71ago9+upv+PVZgRL+L0Pwa07UpBS59MO8rz0ovL7brNv59WGD8Qu9saYLftqvrOWbwakUqtjfNv+6lZ1vni1h29IJQA==;Q0Hr7wGgtyiQwmIZWNTQVA=="
+secured: "mR6KOf/CVh4ErjFwuMySHgrHsodYxxg9ndrzp8mdpS/8i3qZEjzil740X1yaANbwftZJDdD2yPgxIWH5FN+nQoS4Pa8ldY6jntWWBmGnJVVGGiFjXmd1UTXpS8Mieelc6C5Xmda9hez0u4ABRJSiBJiScKttqxS1Gk4uFVpYgmG/g5fmlKTCXOom0hjnzuMgPphT1ETLNDpv2CC7iJJfmey54nF3pYcCWo/RWiLmddruoOOJnxFTQWEeT4PkgxFqYxmeEPRIjSIgJqyoIjP+vE8xbaqY7qxJzQfoMT4PiLfgNrQZzNJMldAlCLaAXwqqZWRbmq/8JbDla7it4AXkH3DLoTJZfCTehOTNyLVqrAJSwToWgAUmx7AfhxQ/VB77Q62PKLfEWJbUzKJVyYqFjw==;psy5QVgNzTpXMvT2KsRQrg=="
 ---
 
