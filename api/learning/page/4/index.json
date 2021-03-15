@@ -895,8 +895,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
       "length": "PT29M",
       "ratings": {
-        "count": 905,
-        "average": 4.767956
+        "count": 907,
+        "average": 4.7684674
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2329,8 +2329,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-calculated-tables/",
           "length": "PT19M",
           "ratings": {
-            "count": 426,
-            "average": 4.7699533
+            "count": 427,
+            "average": 4.76815
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2372,8 +2372,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-measures/",
           "length": "PT13M",
           "ratings": {
-            "count": 371,
-            "average": 4.743935
+            "count": 372,
+            "average": 4.7419353
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2887,8 +2887,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
       "length": "PT1H44M",
       "ratings": {
-        "count": 1266,
-        "average": 4.587678
+        "count": 1267,
+        "average": 4.588003
       },
       "provider": {
         "name": "Microsoft Learn",
