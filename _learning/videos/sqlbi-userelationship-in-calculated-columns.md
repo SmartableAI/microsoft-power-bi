@@ -2,6 +2,7 @@
 title: "USERELATIONSHIP in calculated columns"
 excerpt: "Learn why USERELATIONSHIP is easy to work with in measures, but it can be challenging and give you inaccurate results when used in calculated columns.\r Article and download: {short_related_link}?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt"
 originalUrl: https://youtube.com/watch?v=k6uSnlr62fg
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/sqlbi-userelationship-in-calculated-columns/
 type: video
 price: Free
 length: PT26M5S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "G+CHzcV/TDgqRxrZkxcVWih3diCqmxjj1RGnVIKJMzjAR0D9ZKc8Xe8QrqLwBNQZhMk1CWdW4Z4QuWDYLYrYBiH1rbTlVdHvZilqtxu5IfUBIRU5rt3Ro5M+69nEz0l9GWAaA1NfYrYmOTxgciznys9BXikORrTUZ/0I9r+Q2x71QMgBtTMdUBn238vHfn6CDIVAOQdOAqod+YtdqQSxLMakM0PheYcbslJYX+6CqAyrTTicz3ezVKcU0/SuliK7wXGSZSqh/dwmCXWd6fmNDyHcOVRYt0bXdWjXNAzWDUJvepAzoJvRDKturAC5Tx+88NOphZ8GPrEMnBZSK4LNIEz3sv2iqE94xhLIe48asyUTaHOqlnibndNKoWFnDfhWIinXcOWjiWJcfBeaYznGqA==;Q9+5hbO4bLW4QEZTETs1Gw=="
+secured: "fRwmlAbEE44wq9vHMHR4EeSdAkO8GvpKdye159vujKJqu1UZViBd0+b4hHNs73wDRvtn7SOFDyXpdRVU+f1oaKDmUFj9/igzPCGOu3dZTXlvr74706nL05r3n7aLuR6BBIjaxtAyoZiuHVSYwpJiLqlj0REwu7iHBoG/BqGxESHEbtmTtpdchgXmlqwPdiwxLAog6HSo06c51IjfRmSyGmTEBqaCkq6O2vFBF74i8+RDvx2Gsyvr8+ZsS28WMZJ/5qcpG8SEr2cdEOCaajJOojOeunj1v6donux/+yeUXNmQIi3pmYee6zewiebBzReD506rdFfHazAjcTF0aEIbszSW8DjqYD1VUq4u9KaEdRS6Jhhc8yeDMaRamjvsFpi25wXgF4rSiffFUXixCTQP1A==;fkJiwM4suz8S/wsG2OE/Hw=="
 ---
 
