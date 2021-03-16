@@ -397,8 +397,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-dashboards-power-bi/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 1101,
-        "average": 4.681199
+        "count": 1104,
+        "average": 4.682065
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -890,8 +890,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 5216,
-        "average": 4.7542176
+        "count": 5217,
+        "average": 4.754265
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2246,8 +2246,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 920,
-            "average": 4.767391
+            "count": 921,
+            "average": 4.767644
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2288,8 +2288,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 814,
-            "average": 4.6707616
+            "count": 815,
+            "average": 4.6711655
           },
           "provider": {
             "name": "Microsoft Learn",
