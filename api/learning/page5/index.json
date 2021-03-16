@@ -800,8 +800,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 6818,
-        "average": 4.706659
+        "count": 6820,
+        "average": 4.7067447
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -842,8 +842,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
       "length": "PT9M",
       "ratings": {
-        "count": 1171,
-        "average": 4.784799
+        "count": 1177,
+        "average": 4.7858963
       },
       "provider": {
         "name": "Microsoft Learn",
