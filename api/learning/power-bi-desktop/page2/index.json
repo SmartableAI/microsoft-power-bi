@@ -160,8 +160,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-time-intelligence/",
       "length": "PT19M",
       "ratings": {
-        "count": 367,
-        "average": 4.7438693
+        "count": 368,
+        "average": 4.744565
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -516,8 +516,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-calculated-tables/",
       "length": "PT19M",
       "ratings": {
-        "count": 435,
-        "average": 4.770115
+        "count": 436,
+        "average": 4.7706423
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1135,8 +1135,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-modify-filter/",
       "length": "PT21M",
       "ratings": {
-        "count": 289,
-        "average": 4.6089964
+        "count": 291,
+        "average": 4.611684
       },
       "provider": {
         "name": "Microsoft Learn",
