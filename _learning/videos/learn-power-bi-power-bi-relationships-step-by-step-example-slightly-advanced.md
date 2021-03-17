@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT11M39S
 publishedDateTime: 2017-12-11T17:19:54Z
-heat: 58
+heat: 59
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8ybsChtuZoY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "9GN9YBJqG2HKSHYAXbVvpNhvDp0Uk+FAeBxpUmE4JXgQ77q2fbLikmmUlZNqGJ54pG/QnoLRJfFPl31d7wZbAMOlOtxplQJxGRdo3KrWECaXDEn/f6yoSQdBb6GqbREZ1zI6Qr/0TTzQ3MDyxj/lAgitD4Y4z4cU6Vep4kIqHB6R2ZD9Tgz+QR8nuaO72dRuq1V3l0JssGp2Qi62DWMwalLes2A0qlwL4kcgz3f2X/RW9ZcbO55NIYy3yiQYWMhaZdPWQslN/3ewaKtyRXo9l73sXJGxuLihbK2QgZ4QBjWNkvlb+uVYPeKJ1ib+VYWjYJ5J1Nr8QA3JA1dhrKlCwz5W5uzsojKXsWX09SZ2WtLrkahH25zj3pgZ4rBmshmoNDUYKeqIrHHr6fsMnqBrXDROtbbFvqyDktamo22Qcb4=;TAKYwibGBw9kdPOybHELIA=="
+secured: "InVQNCueGwA3eeHhYM+LwVW5/eKWLt499HNa5ZstFlqxgT2h3O4Vd0gPlU8G7VofW3S9vzU1jg3RQjWM9smg7OWqfyDtCvezj+A/7QZTOnmCMt430Ple04g+C8g3/RcnnuW8cgDLOt4xQPBpzrKLJMNd8Sk9Houezz8HHXI3CHaQ+sTcp7PuhUOl2yPUYc+jM3OqsZS8KPVgvugKrXXb3aLLMfzT8epQepAJ65gMGmBH/TuFmxFx9e3zz+dVwhqWVV1c+a3+UcEnueIBfmgTXrO7lj95uYukfYwAaN+cS0deg8y9xHO00xFlkoY6JOI1yrlbSJshJkU2hOJsd8nUoA03h2pNN7N7tULFfiBcpSBoFd5s3AHTpbB9zzXa+dB6hxgInbzcbtfDua1ezSqIvZ7e7v7dk3A+xPoLws3X7WY=;14PUpPkBJ6riGqPZcyuQJw=="
 ---
 
