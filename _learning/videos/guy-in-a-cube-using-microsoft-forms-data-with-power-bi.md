@@ -2,6 +2,7 @@
 title: "Using Microsoft Forms data with Power BI"
 excerpt: "Are you using Microsoft Forms to capture information and want to pull that into Power BI? Also to be able to refresh that data? Patrick has you covered and gives you some pointers.  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the"
 originalUrl: https://youtube.com/watch?v=XBFVDedwLiY
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-using-microsoft-forms-data-with-power-bi/
 type: video
 price: Free
 length: PT6M40S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "CChWUp4cncUNY6Xv6HtIi/W69CqjcWpqCrID0Tg4HDxWiiwFDqYpVVzyGEy+ISfUWgjtlvz7TBwoxufZ3//gOTid6TfLigDH9J3jQosUqaOMWahppEhNkY7tzIxqGGRbnFWGQuDHNzsRW95QTZzSbvBk/HclgRAYrRN18wRZledxXKBDbxT7gWrsfxL1slQW9Vp/k4SgwGpieS08zgs1aeVOUBrhRHeHJI2LYIbGvuI2ATuYUvAL78qf18HdZfgmmkmx3IdSuaXJVNPsQ2R6igb91h56mxIsz8+dZZ4kDeayU/Ts4ybGKKAUzbfQ5xB68Y2C9S48Ox7YLgv/9XMK7SmHnRwaIu0Wb+TGy9jEG9AY4tYeii2GDl35vZ4rf6fOAW3g6chXsPbTFTU2utduUQ==;MLC+3zIebWX79kLzb7gzFw=="
+secured: "hF9IU8By+6byyfSyJZsjvZoTH8D87W0EHpM878RD7b6aOz5hoZ+pt1scg83jie6SRelYa/kYt6yCAwcN+sYPb1/hTxvBWzLVKVC3MhQydKUC/+tSXq31ReKcccvn0L8KhtQivKPfssLOmImct63qDblmPAWO+KnVcOBGFPmRxREY7wvG8J/oaiFQd/GY1YXjv5cDTM0+JkkxpibHLoJgUPeIWY2vAIjiwk6iiMAc+FWeqiqb2orVqJFpxU9JbU0myMmFv8LE+NkvAHTxNfuwJXa81pGdtqwfh7lBLf41QTbBWFQQZvdAfRwr2y3TDW37u91CIih0RNWisV8NgONaPrdJd2VaA2mRHmauEjLhHj3RO1/O+RzJFc7f+bi+WMzwWhFoXmMxRon+ZYnw+S3AoA==;7CVcNgzzlm3Bi9VmeOonSQ=="
 ---
 
