@@ -89,8 +89,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 16766,
-        "average": 4.709412
+        "count": 16773,
+        "average": 4.7094736
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -546,8 +546,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-models/",
           "length": "PT20M",
           "ratings": {
-            "count": 918,
-            "average": 4.761438
+            "count": 919,
+            "average": 4.7616973
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -633,8 +633,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-calculated-tables/",
           "length": "PT19M",
           "ratings": {
-            "count": 438,
-            "average": 4.7694063
+            "count": 439,
+            "average": 4.769932
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -676,8 +676,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-measures/",
           "length": "PT13M",
           "ratings": {
-            "count": 388,
-            "average": 4.7474227
+            "count": 389,
+            "average": 4.7455015
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1082,8 +1082,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-models/",
       "length": "PT20M",
       "ratings": {
-        "count": 918,
-        "average": 4.761438
+        "count": 919,
+        "average": 4.7616973
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1243,8 +1243,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-measures/",
       "length": "PT13M",
       "ratings": {
-        "count": 388,
-        "average": 4.7474227
+        "count": 389,
+        "average": 4.7455015
       },
       "provider": {
         "name": "Microsoft Learn",
