@@ -2,6 +2,7 @@
 title: "5 IDEAS to take Power BI reports to the NEXT LEVEL"
 excerpt: "Struggling with making good Power BI reports? Adam has 5 ideas to help you take your reports to the NEXT LEVEL! You don't have to be a graphic artist to get there either!  Custom Background https://www.youtube.com/watch?v=0QvovI3aycs  Tooltips https://www.youtube.com/watch?v=z1Z1axRSMzM  Conditional"
 originalUrl: https://youtube.com/watch?v=k9LGRfREuIk
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-5-ideas-to-take-power-bi-reports-to-the-next-level/
 type: video
 price: Free
 length: PT9M49S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "tCsfeQUPmGSeVoIvHqL88nd5fCxU4g1Gi2kY2HWQ4b7U4wArweKeLZfQrh/hGQAAAvc580Sk2uA30FFt3z5zzUSrPrpfjw4mMXtFi3tY3J5V6GR9QKMhHp8zk5iLwlRt3SB0yGhYfY+XxdmdUKDXhyqfQGwee/hKHfOuTbgy+18vOxtwwsqZ3unwr4jgqfO81n3VdBJpLn7rodo6rp0B6+aP6fEh741/nQf5QxbahzTX6QGweN6E7bLCVxfg/L4iRWw828o9nUWxn4nee+gA2ohaFNCIFNfEK50ZlQbBjIzJW9RkEzvzUULVmCNGDSXMXkZaX7swj5VWDIcp+nsxhagS/9nvdMYWoi6LLsAjaQky3M/homCWduBWJW84NsYYRR4BhEr21qLJKAJNBN+gsA==;SmxSPUbGlP+D3gAlA7N65g=="
+secured: "QhsFL8Vg0t32IbMR7OWTTl5q3UcINLiWBh8nyrtVNhIGaJzNU0AZT5kgyIaTNxkFiIZCK0HDgeF6EZU3t+pHVX2qFS27NNgrUEIU/9EJy5BVdn52cJs5XScdKDLLqs9M5BMHV9MH8ewPRjyJacckISB9WHH1TQ3ufQnvauRFF8qjl9XRGQETabd/wFupPwJalWT8sRe5xlbChKFgrOjUUMdilHLgQQekz6neqqXLYyh9ONoHHV/jEnFZPwiS1bwY3+NbwIaa+dLkYnRAXH9S0kaD2rYFWjg51BofZc/KYymOSNQofqbc455/eVZhX39vjI+jJlarI781rYFQTBw+iNQVUCA+in7xPr/6QSANQL16KyBd/m9IPT4e/s047mbRxkh5aK/CGEp45XzWll4Itg==;cEgH5xDl+PFzuELHgJpKxQ=="
 ---
 
