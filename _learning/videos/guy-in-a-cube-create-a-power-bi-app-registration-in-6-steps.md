@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Create a Power BI app registration in 6 steps"
 
-secured: "I1XDkWvPMlOgvAwzboW+tXQQouHcaolyZGsb/4K1+SKcmyWGqWciFsa1p8/or36lL5rF8Fc9/OmeCUDOa+AOO6Avq1ASdd7Xdeh7vy7/u0l/yWW0RLqVl4O2FAHRldY90tNPttvsYWnEvtSRucHh2SK/yxN3lYKnGbNV1vr7ApT3yIBcdMveXSVLOdcR3Xfz4dPA/1oUv7AwF8ckAZoqHQANkel3yGZXdyFTRdS11g/CRjFAx7wO0EAyKy/jju/vGhpt7Z+Q+rtl2mi3bfRwnYSiSj+gC7+GFG2GXTK6Xza7lPax3GgIEfobow7umSscPp5TkW6IplozY0O9Qhf2fhuMEOuZuikwFWwme/HtyTq6/sG0DtRyzlOBzznOkq/GIBqDHEIQXHm3iknZg/oPMcz/jmllQW3pl5VHD/APkps=;XCF7/PTGnLiRGX2CVFg1JQ=="
+secured: "bWxe1SU8aTnq+aPsT6Ons/DmeobinYVVm74laKNINPScLZtLrM6vdDsuldlSyOYkh4nszcOQMhs4ZRWm+aCnKmf0hJoKYaH7V0UBXTz/at7yaTf8XHGbKaYZV50EUu+B2BTPEST3lZQERXrnNC8UnoKLW/JlmG/qZRXpfmSGcUEl54ivVTTTwfotB3ZEICXM/ovTubaiJ3JtmCPpcz47DrMq1VMkZDBO4teE3s+OtTIjOet1sbezdgIBkU8d1CnVUFu1QoofpMRag3RXOSxbVvTpg7rOGQ9h4NV20PHf8VXQDbG+86jCA+KHemnoB90Pbj6EWiVAIBgeRfjy3p8owx4l/Xwa4UDSVK+DNbQNRJpqMQPtYig/oVlgfCM3byEqmHjlPC99rU6ex1qsDav4gathXAdhj1zSKgnjqoZvi7Y=;W0NkQ0UyPowVsrSUXWnNRw=="
 ---
 
