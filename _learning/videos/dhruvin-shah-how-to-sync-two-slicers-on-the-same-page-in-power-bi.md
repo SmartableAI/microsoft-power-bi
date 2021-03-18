@@ -2,6 +2,7 @@
 title: "How to Sync Two Slicers on the Same Page in Power BI?"
 excerpt: "During this session, we will talk about Advanced Properties for the Sync Slicer in Power BI. Sometimes we have a scenario where want functionality that if we select some value from the slicer the same value should be selected from another slicer on the same page. At that time how we can achieve this"
 originalUrl: https://youtube.com/watch?v=CqPE6__sulg
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/dhruvin-shah-how-to-sync-two-slicers-on-the-same-page-in-power-bi/
 type: video
 price: Free
 length: PT5M35S
@@ -23,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "ZedCoJGpw4hYhh6FJhovvQX1I2v2lnQZv0mvWaFzKomYnKI9XzuDm7wEBycQhsmx/FNcmNKrN+A59jw9Ug4TZmEHRJjaxYoQEOrcc5WRejKKZ0zycPULEsRRZd3mMcvWmJvwO243u1TC12gjHXnSkaumHKGINid2qN9yl2sFLS0GO3PhdzQllqP7iv/oiNy4mfJAE7oOdvASb3xSpxkrgQUTK22pNzCF8UAk/p78TI4spWoiBX1aC0azTMCEluSA5vfGYW6loJuriI3iftt/lwHklZMM+yNs6Dxis/rpaWe4EkDL/S1B1N+f4ynp80equrWgdhlEvnmQGq/HN13/ViSqBxVptmQzrw7OQJxzMtnqM8lJnGP5JXxNBpiJNrZgWwcMBCIbPeiUIXxmwWi8qQ==;WPRdvHpQJxiZ6xRD/oFXpQ=="
+secured: "A1Cun+/nMh+IfIyUjtPY5VztAQrXe5HfDvfnbJn8sLGd9B9e+WJckMiN7SBDzwNj4Bq/g52zVDwM8mT0UrJ3UQHcNTqSfEmh63WZ/uhSnmxxl63XJPOToYF9DHqfFAwUj2ZLoyEET9uW6scEicbLTRGsFrAO1GcwgnlIt9fCfdTjarpl2oXbMx/HA1InFxz4vPD3/nIrfxl2Qt6MhyfV+frsIdZQK+vjiYnKgSh358mksJhXEl7AN4FolD76krjP9e9MCzqyYOeifZE87VN0muh+Dq5/J57Goi3v+UGKWjF1LrVsl72WXunhaI8AclgQHBMIfKgRQjTezzPs7+Kzqg89Bj4sCi9vyRuVUKWGgR1tb8IUrbiytmJPe2DLOtmr;vdrZ3jM4fpZLef9mv3Gehg=="
 ---
 
