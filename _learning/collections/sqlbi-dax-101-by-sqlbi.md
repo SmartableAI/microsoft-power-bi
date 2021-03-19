@@ -2,7 +2,7 @@
 title: "DAX 101 by SQLBI"
 excerpt: ""
 type: collection
-heat: 63
+heat: 62
 
 provider:
   name: SQLBI
@@ -13,6 +13,7 @@ provider:
       height: 50
 
 items:
+  - videos/sqlbi-introducing-dax-101-videos
   - videos/sqlbi-previous-year-up-to-a-certain-date
   - videos/sqlbi-evaluation-of-variables-in-dax
   - videos/sqlbi-year-to-date-filtering-weekdays-in-dax
@@ -26,14 +27,13 @@ items:
   - videos/sqlbi-using-concatenatex-in-dax
   - videos/sqlbi-mark-as-date-table-in-power-bi
   - videos/sqlbi-computing-totals-by-summing-visible-values-in-dax
-  - videos/sqlbi-introducing-dax-101-videos
 
 topics:
   - Power BI
   - DAX
 
 images:
-  - url: https://i.ytimg.com/vi/bAOs5LTP0I0/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/VU4uCDQolSE/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true
