@@ -907,8 +907,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-requirements/",
           "length": "PT23M",
           "ratings": {
-            "count": 347,
-            "average": 4.7521615
+            "count": 348,
+            "average": 4.7528734
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2203,7 +2203,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
