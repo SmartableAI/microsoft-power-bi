@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT10M25S
 publishedDateTime: 2020-03-18T05:14:44Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pevpai65MvY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Power BI Paginated Reports in a Day - 23: Bonus Content: Evolution of Paginated Reporting"
 
-secured: "gspf6aUsy9TJy8gWI1AJYc84HdT6pupzIuVhG58R/QnmJcV6mx0jkAMvTkp2IVy3UyyEtRkROYeVVnP6i8gaRliU+O+PE1lruMfKa+qXt4S81qRsSJ0Mm8snJIs5xDEXstdqVnigmPTRriWOrUuGi8pQwjTVVYYEitryHb/UKG176pXVOB2LoZ/a8ad8qMswqAuENCl1ngNPtGwUVGwFXZ7utRouDuqYOhVszA7abShuRZrRQyZs/P8yugUuuW4IOhwgXlbf9ZrW+wwL00RcZPRs7vQzusQlx+ZA9R+NXCZqVSLWYmrkRAbSQd8Y1JLUMJAjLZEwV1bky2BISnTLxuzYY5NrlJWBkQRo1GVMl41/yTrAMNrsuq1hg3XFc9et5iuuPbbYhRALO9R6PtTXzc4ZsukDGJmX0aUej9Mxock=;xqzBre4X56JtfUFJ9+k6vw=="
+secured: "0Nn3XqrGyjWz7T4TEg/o7ppfUkKBoGxbft6MwKyJ8jpOA8Ul2GVsYk2lNwUFn2AmP67i4j0NSxwApHp9WGpDiBPiEw2wCjQ5g65IP69i0Tk/jXbY3L0mg/mecgQJv5DDiGle7gw1VyK3SpzUH7Qyj36R4f3HzSrPM/yXpjyNa1TyhlMk/cSTVNS0Y7b8d3HwNDOpsMk4O2Rg7+be0OXp+CCE9bdJvIj5u14NWfVIIjHPR2C9lUEMjDK+6nTi4O3cwgXWbI92JRAElgDkH3n5JgRLE3sFywPLTUb3YH0CuRz6Skk5IQD/prWlIChQMVHUEuHz2CCARfTyhkQcoqZi3yomlN+JGr1dItm0zsG2XsyiqeakQqU0WD6nFpIF5e5+0UWLwbAgIZ151bygXJn6BbuOgYsAccoU2ftKB00Dd9Y=;SIEG0S3zMuOccj7sBsk5OA=="
 ---
 
