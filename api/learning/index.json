@@ -286,23 +286,31 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-dataflow-a-remedy-slow-data-sources-in-power-bi.md",
-      "title": "Dataflow  a remedy slow data sources in Power BI",
-      "excerpt": "I have previously explained a number of use cases for dataflows. One really useful case for it is to use dataflow for slow data sources. In this short article and video, I’ll explain how this works. Read my blog article here:  https://radacad.com/dataflow-a-remedy-slow-data-sources-in-power-bi  *******************",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-dataflow-a-remedy-slow-data-sources-in-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-dataflow-a-remedy-slow-data-sources-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=tWLgvM9aV98",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tWLgvM9aV98\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M31S",
+      "path": "_learning/videos/guy-in-a-cube-alternative-to-sharing-a-power-bi-personal-bookmark.md",
+      "title": "Alternative to sharing a Power BI Personal Bookmark",
+      "excerpt": "Have you tried to share a personal bookmark in Power BI but it won't work? Adam shows you a simple trick to share report context with others in your organization.   📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next level? We have",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-alternative-to-sharing-a-power-bi-personal-bookmark/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-alternative-to-sharing-a-power-bi-personal-bookmark/",
+      "originalUrl": "https://youtube.com/watch?v=-c1-VQ6RsrA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-c1-VQ6RsrA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M35S",
       "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2021-02-16T18:44:08-08:00",
-      "heat": 131,
+      "publishedDateTime": "2021-01-07T08:00:00-08:00",
+      "heat": 132,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/tWLgvM9aV98/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/-c1-VQ6RsrA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -316,53 +324,53 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-directquery-for-power-bi-dataset-how-does-it-work.md",
-      "title": "DirectQuery for Power BI dataset   How does it work",
-      "excerpt": "In my previous article and video, I explained why DirectQuery for a Power BI dataset is an important feature. In this blog and video, I explain how this feature works step by step. Read more by studying my blog article here: https://radacad.com/directquery-for-power-bi-dataset-how-does-it-work  *******************",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-directquery-for-power-bi-dataset-how-does-it-work/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-directquery-for-power-bi-dataset-how-does-it-work/",
-      "originalUrl": "https://youtube.com/watch?v=WowP5vOgeqI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WowP5vOgeqI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M1S",
+      "path": "_learning/videos/dhruvin-shah-power-bi-search-from-officecom-sharepoint-home-and-bing-search.md",
+      "title": "Power BI Search from Office.com, SharePoint Home, and Bing Search",
+      "excerpt": "Welcome to another interesting Power BI Session on Power BI Search. Now we can search our favorite Power BI reports and dashboards from Office.com, SharePoint Home, and Bing search results. Here in this session, I’m going to explain each step of Power BI search from office.com, SharePoint Home, and Bin",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/dhruvin-shah-power-bi-search-from-officecom-sharepoint-home-and-bing-search/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/dhruvin-shah-power-bi-search-from-officecom-sharepoint-home-and-bing-search/",
+      "originalUrl": "https://youtube.com/watch?v=CsjRToO8q-Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CsjRToO8q-Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M1S",
       "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
       },
-      "publishedDateTime": "2020-12-29T21:09:29-08:00",
-      "heat": 131,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WowP5vOgeqI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-3-trends-impacting-power-bi-consulting-in-2021-whats-helping-what-can-go-wrong-.md",
-      "title": "3 Trends 📈 Impacting Power BI Consulting in 2021: What's Helping 👍 & What Can Go Wrong 👎?",
-      "excerpt": "Want to learn the 5-Steps to become a successful Power BI Consultant? 👉 Sign Up for our Free Webinar on Thu Jan 21: https://web.learnpowerbi.com/consultant/  In the new year of 2021, are you thinking about creating a side-income or full-time income as a \"Power BI Consultant\"? Then you must learn the",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-3-trends-impacting-power-bi-consulting-in-2021-whats-helping-what-can-go-wrong-/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-3-trends-impacting-power-bi-consulting-in-2021-whats-helping-what-can-go-wrong-/",
-      "originalUrl": "https://youtube.com/watch?v=UPQII8NJN7E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UPQII8NJN7E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M56S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2021-01-06T21:44:25-08:00",
+      "publishedDateTime": "2020-12-21T22:00:17-08:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/UPQII8NJN7E/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/CsjRToO8q-Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-power-bi-dataflow-vs-data-warehouse-which-one-to-choose.md",
+      "title": "Power BI Dataflow vs Data Warehouse   Which one to choose",
+      "excerpt": "Dataflow is the data transformation service in Power BI, and also some other Power Platform services. Data Warehouse is the cloud storage and also compute engine for data. I often get this question that: “Now that we have dataflow in Power BI, should we not use the Data warehouse? What are the differences?",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-power-bi-dataflow-vs-data-warehouse-which-one-to-choose/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-power-bi-dataflow-vs-data-warehouse-which-one-to-choose/",
+      "originalUrl": "https://youtube.com/watch?v=B1PYLVHFYT4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B1PYLVHFYT4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M19S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2021-01-05T13:29:38-08:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/B1PYLVHFYT4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -406,8 +414,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 13980,
-            "average": 4.7931333
+            "count": 13983,
+            "average": 4.793106
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -448,8 +456,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 30349,
-            "average": 4.7579494
+            "count": 30353,
+            "average": 4.7579813
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -508,8 +516,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 30349,
-        "average": 4.7579494
+        "count": 30353,
+        "average": 4.7579813
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -588,8 +596,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 13980,
-        "average": 4.7931333
+        "count": 13983,
+        "average": 4.793106
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -918,8 +926,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 4098,
-            "average": 4.759151
+            "count": 4104,
+            "average": 4.759503
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -960,8 +968,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 4718,
-            "average": 4.785714
+            "count": 4721,
+            "average": 4.7858505
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1020,8 +1028,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 4718,
-        "average": 4.785714
+        "count": 4721,
+        "average": 4.7858505
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1178,8 +1186,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 4098,
-        "average": 4.759151
+        "count": 4104,
+        "average": 4.759503
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1282,8 +1290,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 1636,
-            "average": 4.6301956
+            "count": 1639,
+            "average": 4.628432
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1324,8 +1332,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 1409,
-            "average": 4.5741663
+            "count": 1411,
+            "average": 4.5747695
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1408,8 +1416,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 1432,
-            "average": 4.734637
+            "count": 1434,
+            "average": 4.735007
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1568,8 +1576,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 30349,
-            "average": 4.7579494
+            "count": 30353,
+            "average": 4.7579813
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1610,8 +1618,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 16834,
-            "average": 4.709338
+            "count": 16837,
+            "average": 4.7093306
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1653,8 +1661,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 6880,
-            "average": 4.707849
+            "count": 6881,
+            "average": 4.7078915
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1695,8 +1703,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 5264,
-            "average": 4.755319
+            "count": 5265,
+            "average": 4.755366
           },
           "provider": {
             "name": "Microsoft Learn",
