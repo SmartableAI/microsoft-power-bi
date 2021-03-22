@@ -1732,7 +1732,7 @@
             "domain": "powerbi.tips"
           },
           "publishedDateTime": "2020-04-14T15:58:12-07:00",
-          "heat": 50,
+          "heat": 52,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/yKvMrQlUrCU/hqdefault.jpg",
@@ -2939,8 +2939,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-models/",
           "length": "PT20M",
           "ratings": {
-            "count": 933,
-            "average": 4.760986
+            "count": 935,
+            "average": 4.7614975
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2982,8 +2982,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 628,
-            "average": 4.691083
+            "count": 629,
+            "average": 4.691574
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3026,8 +3026,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-calculated-tables/",
           "length": "PT19M",
           "ratings": {
-            "count": 446,
-            "average": 4.769058
+            "count": 447,
+            "average": 4.769575
           },
           "provider": {
             "name": "Microsoft Learn",
