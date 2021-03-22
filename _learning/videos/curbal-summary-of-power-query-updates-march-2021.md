@@ -2,6 +2,7 @@
 title: "Summary of Power Query Updates March 2021"
 excerpt: "Lets review the power query features released on March 2021!  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1\r \r Our PLAYLISTS:\r - Join our DAX"
 originalUrl: https://youtube.com/watch?v=1KOVARFqxNM
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/curbal-summary-of-power-query-updates-march-2021/
 type: video
 price: Free
 length: PT3M24S
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "43qlx7cNIWlvfQUiDQ7Mcr2NmipbPI0sU9fwkT2zptFz5z7dovcXEeJLCsB0XV4me1rT6MXoDVz+cpE6OzfZVU7A4e9QrU/mB0tu2nYFlc6wroz611xA/MrhnQaSc26BtitWtPNUmkGKNVu4B+EJ32C60hw/RvnbwOOiV/R2Givb4CxM8c/8LorjttbXb/P5psG2Bhn76E7odWpQox6FqaIjf4vnCR9EKlZlTw81m7hCP8JVQ54gjTyPcOwgHS2/sB6h8lssdZw9ZafTB/OcWkkVJ0IL9/oYvIA/dX1r1c5t2TA0eVfemLJEr4mh+hd+sMSeEG9OPDGA8FGhztuHE10k9tUexM+WRMkly3i4fHrZ8+5m+NHqaEdzwcMdMYFPJGlt90k4tCt8yK6nUxipHg==;wjD0uGHwbfYayDpGUdO+iw=="
+secured: "NP6JBvkgNmSfQqN/d30JSmwuONqu10UC4F1/tD6Btkvged/c2nBuqPmJEZaS/Hjo0HQiCOnovycrEqYcsfe5qkx1fwK6sDB4JwEHTlZLEgwDOJXiLWlDVbpxAZn3l3YkMM5n2gMOUm8oGvYFffVzZRHEd/UeV5t4Pnn0rL3F+Jh5MFon9Awzuj8kmAV8AayIPJkEZ8mupjBdVjouUbuO2HJ20rJ2sJNKXQQFwxA1extYd3FZ6poO1Mr9f+URXZKzzl8cMU06PZlCJLYMHwedIuJNSRHZGHJhj2YvtPSeRxXKF2h1N5+6wTATYXRTAeqbhS04pevQx4Yh+6PsOiDgpBdRYboB+W0d67vurjq7Y2WC47tCC/bm2p+QxWVL06tYegD8DK96/G8AnMOMWu9hWw==;X6XRl95or4ne5q3SG/C6xA=="
 ---
 
