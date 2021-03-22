@@ -319,8 +319,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
       "length": "PT1H44M",
       "ratings": {
-        "count": 1448,
-        "average": 4.5766573
+        "count": 1456,
+        "average": 4.576923
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -461,8 +461,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 1060,
-            "average": 4.769811
+            "count": 1061,
+            "average": 4.770028
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -503,8 +503,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 942,
-            "average": 4.6868367
+            "count": 944,
+            "average": 4.6864405
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -605,8 +605,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
       "length": "PT32M",
       "ratings": {
-        "count": 942,
-        "average": 4.6868367
+        "count": 944,
+        "average": 4.6864405
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1248,8 +1248,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
       "length": "PT29M",
       "ratings": {
-        "count": 1060,
-        "average": 4.769811
+        "count": 1061,
+        "average": 4.770028
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1290,8 +1290,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 6912,
-        "average": 4.708912
+        "count": 6915,
+        "average": 4.7090383
       },
       "provider": {
         "name": "Microsoft Learn",
