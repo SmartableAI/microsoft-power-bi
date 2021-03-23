@@ -202,8 +202,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/",
       "length": "PT31M",
       "ratings": {
-        "count": 7875,
-        "average": 4.74273
+        "count": 7879,
+        "average": 4.742226
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -550,8 +550,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
       "length": "PT1H44M",
       "ratings": {
-        "count": 1478,
-        "average": 4.5717187
+        "count": 1483,
+        "average": 4.5731626
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1178,8 +1178,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 1076,
-            "average": 4.769517
+            "count": 1080,
+            "average": 4.7703705
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1220,8 +1220,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 955,
-            "average": 4.684817
+            "count": 957,
+            "average": 4.6854753
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1262,8 +1262,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 1362,
-            "average": 4.791483
+            "count": 1367,
+            "average": 4.790051
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1510,8 +1510,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
       "length": "PT32M",
       "ratings": {
-        "count": 955,
-        "average": 4.684817
+        "count": 957,
+        "average": 4.6854753
       },
       "provider": {
         "name": "Microsoft Learn",
