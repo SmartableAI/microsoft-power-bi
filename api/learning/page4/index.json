@@ -202,8 +202,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/",
       "length": "PT31M",
       "ratings": {
-        "count": 7890,
-        "average": 4.742205
+        "count": 7893,
+        "average": 4.7423034
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -743,8 +743,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
       "length": "PT1H44M",
       "ratings": {
-        "count": 1499,
-        "average": 4.574383
+        "count": 1503,
+        "average": 4.5755157
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1564,8 +1564,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 1096,
-            "average": 4.77281
+            "count": 1101,
+            "average": 4.773842
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1606,8 +1606,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 974,
-            "average": 4.686858
+            "count": 977,
+            "average": 4.68782
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1648,8 +1648,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 1387,
-            "average": 4.7923574
+            "count": 1393,
+            "average": 4.793252
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1896,8 +1896,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
       "length": "PT32M",
       "ratings": {
-        "count": 974,
-        "average": 4.686858
+        "count": 977,
+        "average": 4.68782
       },
       "provider": {
         "name": "Microsoft Learn",
