@@ -4,7 +4,7 @@ excerpt: "Welcome to Power BI Tips session. During this session, I’m going to 
 originalUrl: https://youtube.com/watch?v=1w6euXOglVM
 type: video
 price: Free
-length: PT2M31S
+length: PT2M32S
 publishedDateTime: 2020-08-20T02:34:14Z
 heat: 50
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "8ZqnYqLYnJ+JKYVufCHHyhxRytX9lOeSfSLUA8DuLSNcphm51qAXTdLAykXkDdgeEUuL1PVnHbjQtKGo5KnyAY5OY9QgiUNHfjWO0Wfa5VtWBInZLN+GYcpK9b5+3rGQZRPsT0kVMMrjoWXjOIZkih2x9MiVEuU+ORsWUqbZygPtq0e+/A1n5g1l+NxHpy88Riz4anArsufHwNpoUK+Z1253d3DxkI+lpRMRnjS4mMPHf3E9mClNxbnSzbDkDAG+wu7t16UWJt6JfjB3F3zx7U4RbP4NmG4mPX4Lb7zM5Khqe4ufj2Fm7hlfmFAwEwXMjMN0JiF+r+Pks1sVXEZtpT4QypJJlKoAnVsqmWAenPW2B1J0wBjSl6SZFHexObQtABQ4jJEIs336m7iXhF6a89X2G50FKfj72TkkFx81a4U=;TRBKcZdWLibyCcsPWO+67A=="
+secured: "qy4sCMPMQ2dzifBuIBGC9gw+rzhmF7b8+clGToFIWUzzzSTm5BEAjPr0+o6qTNgX3mcMh8Mwvz3gitfFmIfLhbnlA8p9unE6Q0OGPFKRalFaNLlR3T0Ptr66Fki2o/jZSRgfW3yGWzxQKTghb4WAi9/rsYSuVpCY6bcaN8byTwUoJsoZaVzWTsBUSpZhLJjSdaCBwGrGtu61w8Jf7xvDNrSXayceUQJDObWY9aSs+S4BUHKc4PEqWxO5K1s8wdX7O2pmvnPkLWC25hIv96JshXv8TWMpu981vadRxt+x68SW2Dp6gl4U8MD+a9h7NqAsB7I88EtUJ1SEJi/wwyLdHKej9vacHiolO098V5bSLfdVz3kWvaOX553yP0+e4I3iIeHeO5hFitMjVzAPNeANEd8hRHlKfQ5Nsfo0L5TQAM8=;1n317uHMHo/5JuseTHahGw=="
 ---
 
