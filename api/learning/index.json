@@ -187,6 +187,44 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-getting-started-with-power-bi-paginated-reports-2021.md",
+      "title": "Getting started with Power BI Paginated Reports (2021)",
+      "excerpt": "Not sure what Power BI Paginated Reports are or how to use them? Patrick walks you through and points you to some great resources to get up and running quickly.  Power BI Paginated Reports require either Power BI Premium Per User or Power BI Premium capacity.  Paginated Report In a Day: https://docs.microsoft.com/power-bi/learning-catalog/paginated-reports-online-course",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-getting-started-with-power-bi-paginated-reports-2021/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-getting-started-with-power-bi-paginated-reports-2021/",
+      "originalUrl": "https://youtube.com/watch?v=XSIbRNXGgPQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XSIbRNXGgPQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M10S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-01-13T08:00:20-08:00",
+      "heat": 153,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XSIbRNXGgPQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/learn-power-bi-5-mistakes-business-leaders-make-when-starting-with-power-bi-talk-power-bi-live-march-19-2021.md",
       "title": "5 Mistakes Business Leaders Make when Starting with Power BI 🔴Talk Power BI LIVE March 19, 2021",
       "excerpt": "✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask any Power BI question. 👉 To Learn More & Submit Your Questions Go To https://www.LearnPowerBI.com/talk 👉 Join the LearnPowerBI Family to Dial-In Using the 📞 Phone Line: https://www.LearnPowerBI.com/training  Hello,",
@@ -247,8 +285,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 14385,
-            "average": 4.7934656
+            "count": 14398,
+            "average": 4.793513
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -289,8 +327,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 30762,
-            "average": 4.758858
+            "count": 30771,
+            "average": 4.7588315
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -349,8 +387,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 14385,
-        "average": 4.7934656
+        "count": 14398,
+        "average": 4.793513
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -391,8 +429,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 30762,
-        "average": 4.758858
+        "count": 30771,
+        "average": 4.7588315
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -525,61 +563,31 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-how-to-connect-cds-or-dataverse-table-in-power-bi.md",
-      "title": "How to connect CDS or Dataverse Table in Power BI?",
-      "excerpt": "During this session, we will learn, how we can connect CDS or Dataverse table in Power BI. Sometimes we need to connect our data verse or CDS table in Power BI. So, how we can connect? I will explain step by step information here. Also, we will learn how we can find out our Data verse table URL? Let’s",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/dhruvin-shah-how-to-connect-cds-or-dataverse-table-in-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/dhruvin-shah-how-to-connect-cds-or-dataverse-table-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=zJ7SfPpz3bE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zJ7SfPpz3bE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M21S",
+      "path": "_learning/videos/sqlbi-comparing-with-previous-selected-time-period-in-dax.md",
+      "title": "Comparing with previous selected time period in DAX",
+      "excerpt": "This video describes how you can create a comparison with the previous time period in a visualization, regardless of whether the time periods are consecutive or not: https://sql.bi/526183/?aff=yt (Optimizing duplicated DAX expressions using variables)  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/sqlbi-comparing-with-previous-selected-time-period-in-dax/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/sqlbi-comparing-with-previous-selected-time-period-in-dax/",
+      "originalUrl": "https://youtube.com/watch?v=JBN-x2duxSU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JBN-x2duxSU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M23S",
       "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-01-24T02:28:56-08:00",
-      "heat": 132,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/zJ7SfPpz3bE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-2-useful-power-query-tricks-that-you-cant-do-with-the-ui.md",
-      "title": "2 useful Power Query tricks that you cant do with the UI",
-      "excerpt": "In today's video i will show you 2 power query transformations that you can not do with the User Interface only and I used last week.  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-2-useful-power-query-tricks-that-you-cant-do-with-the-ui/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-2-useful-power-query-tricks-that-you-cant-do-with-the-ui/",
-      "originalUrl": "https://youtube.com/watch?v=PVZ0I3KGRv4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PVZ0I3KGRv4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M3S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/sqlbi.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2021-01-25T04:55:12-08:00",
+      "publishedDateTime": "2021-01-21T03:22:59-08:00",
       "heat": 131,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/PVZ0I3KGRv4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/JBN-x2duxSU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -590,7 +598,7 @@
       "price": "Free",
       "topics": [
         "Power BI",
-        "Power Query"
+        "DAX"
       ]
     },
     {
@@ -620,23 +628,31 @@
       ]
     },
     {
-      "path": "_learning/videos/learn-power-bi-how-to-focus-on-the-one-thing-and-rise-faster-in-your-career-talk-power-bi-live.md",
-      "title": "How to Focus on the \"One Thing\" and Rise Faster in Your Career? 🔴 Talk Power BI LIVE",
-      "excerpt": "We often confuse movement with progress. We work...and we work hard. We have a long, never-ending and ever-expanding To-Do list. But is that the shortest path to success? Or we have it #BACKWARDS??? Could the fastest path to professional success need us to focus on the \"One Thing\"?  But how do you determine,",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-how-to-focus-on-the-one-thing-and-rise-faster-in-your-career-talk-power-bi-live/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-how-to-focus-on-the-one-thing-and-rise-faster-in-your-career-talk-power-bi-live/",
-      "originalUrl": "https://youtube.com/watch?v=UbnB6AizM9w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UbnB6AizM9w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT58M11S",
+      "path": "_learning/videos/sqlbi-introducing-articles-videos.md",
+      "title": "Introducing Articles videos",
+      "excerpt": "Videos related to technical articles published on https://www.sqlbi.com  In the description of each video, you can find the link to read the article and download the sample files used in the demos.  The purpose of these videos is to describe the scenario solved in the article and provide additional comments",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/sqlbi-introducing-articles-videos/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/sqlbi-introducing-articles-videos/",
+      "originalUrl": "https://youtube.com/watch?v=Uby9O-HifmQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Uby9O-HifmQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M2S",
       "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2021-02-19T09:58:44-08:00",
+      "publishedDateTime": "2021-01-30T23:17:50-08:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/UbnB6AizM9w/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Uby9O-HifmQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -945,8 +961,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 4262,
-            "average": 4.75786
+            "count": 4267,
+            "average": 4.75791
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -987,8 +1003,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 4962,
-            "average": 4.7829504
+            "count": 4966,
+            "average": 4.7829237
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1047,8 +1063,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 4962,
-        "average": 4.7829504
+        "count": 4966,
+        "average": 4.7829237
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1189,8 +1205,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 1746,
-            "average": 4.624857
+            "count": 1750,
+            "average": 4.6257143
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1231,8 +1247,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 1509,
-            "average": 4.5752153
+            "count": 1513,
+            "average": 4.5756774
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1273,8 +1289,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-dashboards-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 1302,
-            "average": 4.6797237
+            "count": 1307,
+            "average": 4.6809487
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1315,8 +1331,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 1556,
-            "average": 4.726221
+            "count": 1558,
+            "average": 4.7265725
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1475,8 +1491,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 30762,
-            "average": 4.758858
+            "count": 30771,
+            "average": 4.7588315
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1517,8 +1533,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 16935,
-            "average": 4.7093
+            "count": 16937,
+            "average": 4.7093344
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1560,8 +1576,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 6947,
-            "average": 4.7099466
+            "count": 6948,
+            "average": 4.7099886
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1602,8 +1618,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 5304,
-            "average": 4.756599
+            "count": 5305,
+            "average": 4.7566447
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1662,8 +1678,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
       "length": "PT43M",
       "ratings": {
-        "count": 2668,
-        "average": 4.7687407
+        "count": 2672,
+        "average": 4.768338
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1743,8 +1759,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 4262,
-        "average": 4.75786
+        "count": 4267,
+        "average": 4.75791
       },
       "provider": {
         "name": "Microsoft Learn",

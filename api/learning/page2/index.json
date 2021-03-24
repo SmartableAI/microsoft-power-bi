@@ -110,8 +110,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 1332,
-            "average": 4.7094593
+            "count": 1333,
+            "average": 4.709677
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -152,8 +152,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 1465,
-            "average": 4.6866894
+            "count": 1467,
+            "average": 4.6871166
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -212,8 +212,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 1465,
-        "average": 4.6866894
+        "count": 1467,
+        "average": 4.6871166
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -254,8 +254,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/",
       "length": "PT60M",
       "ratings": {
-        "count": 1556,
-        "average": 4.726221
+        "count": 1558,
+        "average": 4.7265725
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -357,8 +357,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 2690,
-            "average": 4.752416
+            "count": 2691,
+            "average": 4.7517653
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -399,8 +399,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 2109,
-            "average": 4.695116
+            "count": 2111,
+            "average": 4.695405
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -442,8 +442,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 2668,
-            "average": 4.7687407
+            "count": 2672,
+            "average": 4.768338
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -502,8 +502,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 2109,
-        "average": 4.695116
+        "count": 2111,
+        "average": 4.695405
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -545,8 +545,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
       "length": "PT1H44M",
       "ratings": {
-        "count": 1509,
-        "average": 4.5752153
+        "count": 1513,
+        "average": 4.5756774
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -587,8 +587,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
       "length": "PT9M",
       "ratings": {
-        "count": 1396,
-        "average": 4.7936964
+        "count": 1400,
+        "average": 4.794286
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -629,8 +629,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
       "length": "PT2H8M",
       "ratings": {
-        "count": 2690,
-        "average": 4.752416
+        "count": 2691,
+        "average": 4.7517653
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -980,8 +980,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 16935,
-        "average": 4.7093
+        "count": 16937,
+        "average": 4.7093344
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1023,8 +1023,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 1746,
-        "average": 4.624857
+        "count": 1750,
+        "average": 4.6257143
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1127,8 +1127,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 1103,
-            "average": 4.7733455
+            "count": 1105,
+            "average": 4.7737556
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1169,8 +1169,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 980,
-            "average": 4.6887755
+            "count": 982,
+            "average": 4.6894093
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1211,8 +1211,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 1396,
-            "average": 4.7936964
+            "count": 1400,
+            "average": 4.794286
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1271,8 +1271,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
       "length": "PT29M",
       "ratings": {
-        "count": 1103,
-        "average": 4.7733455
+        "count": 1105,
+        "average": 4.7737556
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1419,36 +1419,6 @@
       ],
       "content": "\r\n",
       "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-how-to-display-sharepoint-images-to-power-bi.md",
-      "title": "How to Display SharePoint Images to Power BI?",
-      "excerpt": "During this session, we will learn how we can display SharePoint Images to Power BI. Most of the time we have a question in our mind that, how we can load SharePoint Document Library Images to Power BI? The procedure is very simple and straight forward. We need to use SharePoint Folder connector to load",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/dhruvin-shah-how-to-display-sharepoint-images-to-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/dhruvin-shah-how-to-display-sharepoint-images-to-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=tsQM8MKxxcc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tsQM8MKxxcc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M35S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-03-10T03:33:52-08:00",
-      "heat": 81,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/tsQM8MKxxcc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
       "price": "Free",
       "topics": [
         "Power BI"
@@ -1646,6 +1616,36 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/jAxSH7_6paI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/power-bi-tips-charticulator-interactive-construction-of-bespoke-chart-layouts.md",
+      "title": "Charticulator: Interactive Construction of Bespoke Chart Layouts",
+      "excerpt": "",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/power-bi-tips-charticulator-interactive-construction-of-bespoke-chart-layouts/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/power-bi-tips-charticulator-interactive-construction-of-bespoke-chart-layouts/",
+      "originalUrl": "https://youtube.com/watch?v=5EZq4QolNy4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5EZq4QolNy4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M43S",
+      "provider": {
+        "name": "Power BI Tips",
+        "domain": "powerbi.tips"
+      },
+      "publishedDateTime": "2021-03-11T09:20:40-08:00",
+      "heat": 80,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5EZq4QolNy4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
