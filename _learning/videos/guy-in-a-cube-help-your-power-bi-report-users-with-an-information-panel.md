@@ -2,6 +2,7 @@
 title: "Help your Power BI report users with an Information Panel"
 excerpt: "Do your Power BI users understand your report? Chances are, at least not all of it. Help them out with an information panel to help describe the report and understand all of the capabilities. Adam walks you through how to do it in Power BI Desktop!  📢 Become a member: https://guyinacu.be/membership"
 originalUrl: https://youtube.com/watch?v=yYr_SlG8bpw
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-help-your-power-bi-report-users-with-an-information-panel/
 type: video
 price: Free
 length: PT7M49S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "IeGe/fB79/eNsODJYGbtbTZs4nj7YtFzHFD8OR8VRPaMr+JWUirOanfWc9tY2pPflGId6b2FK88P1ydo41W3DSZ9GUvFnz/GsJeM47yHYBAWLrGkm/eMQH4okvCgT97+p/hPDkSqw4H/I2uEspE2zeLkdCwGdGxMUqlfUHMvC2teMXcUQl+iSC2v170dmB4OZko1KsZWeRf31r55ku1EfqNdRhCouR7k0Hkfe3DK/TLQejVqpStKTiDygmVkJH5cG/NvNQePLEEmsR8i43s1jyas/QFsFHOJBcbyvfHK2viEwB31IS6kl/Bgebywzz3LDT4HkMQ9CcLsH0uP3cjrCGlUsidkHzJL+Qselqmj8EmbPugDI9oeDPJTdO7lpc3mzsShsRjR1SG2terMXaN5rg==;OhrfWUbeXzVc6SmlxyBrdw=="
+secured: "kD6bKI4SmmLfkKcsdCJscnu2CIYAd7ylwh0PhgGh8vjuAqPP5qBzLIc8KBFT86XW5JfsSBBFLvhBB8BpwR1u7pnzHBhEbMfUd34Lj0taFrXGW82tKZhi07SpkrkczgonZQJI0lwVAxVlj34EieulI8adBPgVfRd/ao3PAc2NUZ7S34TLroyIT9QOK2OhXS3lLg+XE1/lOvF2ksHAvNMIcACoPIhyGpZA5UPq+fOglIpSVdnUlh1okcilgyt234C5tN1DVYuyCrZG+SBQUzxli8UcXOwM63sYu0PTsDqIZhXKAGgM/BQrrtPo6BxZ7R+WAk+7maCpi4NQY6xFvlMqZNfyQQhw2l0lAQyKPi6uiKfv25t81YOg27Q8xIbsYkvwbDigjcbXy6JbFNiWZfVPaA==;vu0b9KxLVl17wmqUILL9rw=="
 ---
 
