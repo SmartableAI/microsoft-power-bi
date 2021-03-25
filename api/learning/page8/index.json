@@ -1446,7 +1446,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -1697,8 +1697,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-power-bi/",
       "length": "PT53M",
       "ratings": {
-        "count": 4440,
-        "average": 4.72455
+        "count": 4441,
+        "average": 4.7246118
       },
       "provider": {
         "name": "Microsoft Learn",
