@@ -2,6 +2,7 @@
 title: "DAX Fridays #201: How to create virtual tables using DAX"
 excerpt: "In this video I will show you how you create virtual tables in DAX to do calculations on them.   Happy Friday!  The  sample file is available for download here: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1"
 originalUrl: https://youtube.com/watch?v=W4OMwdZNRG0
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-201-how-to-create-virtual-tables-using-dax/
 type: video
 price: Free
 length: PT7M2S
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "naeFWbhzmTsqtdj5VoMHXDmtSWSNBwpreh6PytkrObJAfXSAAxcjEvXBqe9iK4suAxc7tawTki+x/6fcuPsB3aNp6wwNWjXxndrtPVZ3O9gDBhiPdrGSwlJh2XPENs8vx8H7fP6MK7dodoQAxeGkBX+0UUcP19toitlXqco0v5QX4TOXVRqsOr2nVlCwhw2djlAAIzxJIwq/+4dyBNqtvWcegJXVEdXrlqQQMONkj7a3TE/lL4WJ12lxtiD4emtE7vdWHgZ+B47xL5JhiPkFngHo8aD88MjEQ9dz0arKTdp11TU3/7mR4JNFcmPX+Cs9jPpK8xLg+fJMs7IlijO3KjawcYmhqMVrFepzJlnjnE3486VhbTI82pAK2Gha20zItN8A3UjwMDmyISxuO/F+3A==;6JGBQv7LCBJPw9W5hMHjKQ=="
+secured: "gJ4SLGFWXYxwo1wJc/L8MVtWlxve9cT1Q7fQWEmzr5RbxLjj6ZZSgKwB8N/CWBNay6T8L8ggVe4FOSzgh9ZzXEj5qi2XbJt0avue8PzMi7XeXko4ZOVFmCLM4PE50PP2JBmHT5ZNTzFDf68A1a97YdTE8L9onZqXqPW0Rv7bUgm1fhBEw0igLeoNEVmXNqbWeAEdoQkXeskrbGluBB+zj9jsTKrI10CKvMIBbhzbm7rBYLdOPdkRxL7Odgb/elVAi4cnjIstjaWhmJQXAQTfF5hWtUydk4lGNt9W8tHoZBPTFVjt0QbWHSdnH3dQSpdqKPZb5hNMt5Ms5IF81Plhutc9KDVeCmN0ZAZgN9q0BCgqhGUX1s4gW0QNWSFU8H//9z2Y+gKnDo0ZM65jglmMJg==;gnn5t2ANZekqjrbKJb9Bxg=="
 ---
 
