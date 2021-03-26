@@ -4,7 +4,7 @@ excerpt: "Level: Beginners The objective of this article is to help you understa
 webUrl: https://exceleratorbi.com.au/shaping-modelling-power-bi/
 type: article
 publishedDateTime: 2021-01-20T05:00:35Z
-heat: 50
+heat: 130
 
 provider:
   name: Excelerator BI
