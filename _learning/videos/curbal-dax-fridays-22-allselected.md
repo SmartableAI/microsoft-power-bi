@@ -4,7 +4,7 @@ excerpt: "In this video we will go through how to to use ALLSELECTED function in
 originalUrl: https://youtube.com/watch?v=n_7Telypk2Q
 type: video
 price: Free
-length: PT7M6S
+length: PT7M5S
 publishedDateTime: 2017-01-19T22:29:59Z
 heat: 53
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Z1Iu1/W2VVTUSJVsiXpXLIgv+Hvj+Tosol8Fd5JZQnt/45d+ihmoIwopBHkA24eCTQld4e3C+uqV/ES8zXWS1QW0KBqouFovKvcSAhroIfCqBKhsL+TOd4uJJS3tGEdbjwjIaT81Li8X8ROmMunc8s0c/NxkPjFxivj8liS5ObnGfAeutTjoHV+VaYMD/e7ZHg/qlQkTdQg9TxZlE0+KZXyIPdC3H3OeIBCvUUadfIoxV+ymbpgg73ur9qGNLHgMp33wQblJhzyNvgyo48egbUmXTIEgtBpEgIEPeWyERcj0jljFsTnQt+aeurkqFHsi9jhAeiH0zqXdV4wJRQgPU3ooRFmAHFXZskd3Jo3riZrOrKAZqJh9SJdwGpRYOxHF61xf5ypDfVcX4Ch/zI2cEd70ASYtgyKRurtSBxxYu+w=;shqqdO77r446epHKrjR8ew=="
+secured: "q+smZ9LyU8tL1Wu2jLhZtbDU9GkySZQzF3fSRiTKkMGw0Xwb3GcjMdPwiWSMR03V0zD1GPjRm33fPC+IMkyzIhfD3MfljKpfsQjoFRLGVAiJprOAq0SAjedf9LRyd2L+p3Ds+Sk0ZcAHbZjoUDXcfix6i4su2EOCh9HqlxNW3YSkVmwHN/JqnYG3+WWz0ob6LY8koXFuv2I/2Der3CHDwGZUMymv2pF36CPcyp5/GZfcIo212t07F9HZtdzIGqXYoZs5Dn2a3l6GyjOY17Rd9Bcy9wyL7nKLTYe30umU8p8Y/EZVSIB7QRI3hjYSvbSvRX40wwQB/7iFa4C7fRI3DU3OM7LqMbA3KSEvtKzy2M+/17anDpbnUgVwek/HkVUsLkZZ1ARi295Q+56I44AOTRWK6s67bCqQBUXkLEZToTQ=;etcSjMuD4tMMlcMp6j8VyA=="
 ---
 

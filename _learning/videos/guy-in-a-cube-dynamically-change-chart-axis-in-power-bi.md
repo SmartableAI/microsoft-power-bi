@@ -4,9 +4,9 @@ excerpt: "In this video, Patrick builds on a blog post from Scott Senkeresty to 
 originalUrl: https://youtube.com/watch?v=n-OWNaCUU0o
 type: video
 price: Free
-length: PT9M1S
+length: PT9M
 publishedDateTime: 2017-12-13T15:16:19Z
-heat: 69
+heat: 66
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/n-OWNaCUU0o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Q8qQa4v+iznbhYij8tygwrTemoEvfzt1Tepx/90RBUeuavxtoLXttjoGiJCIIc97rNjqPfe7FYDvsWIA8ZVMbFio9MDg6azs70k/uJpXCCKMFYWuxSkym/pyLYG0BE55yNBDfKx2PSBDgQ8yaYSGdEhH5y41lK76s4rY6MPvA3xi6wTkZzni4PGJi6W5qx24HH8UNH5fASrIFBnlfMH85JsRFsx4KPMgmOPKw/UjEuwiZJI+0pks5+QSzdvD0Fk3UR9haOICr588J7CPyU6Y3ai39v75+CpMEQHPMWRgDjEXfgm2TNNx9Pb8w2/lnch9XNTOYpoOIilRZUGh0j05jOW3b6EJKkbTjMpyGNEMSjX0izLfhRSSCbeR/NVsSUM7fJ9afnH4xgq6WPN6jr04RrJ9OKBLWQpJhgYjeMFbGN0PsE93ArsYp2rvehBvIXNS;RMS00XFF9xlRyQL/5D0CAA=="
+secured: "N1gfs+ZPO3lmW9Hsnjgw539TPR3P2oJzF3trJZCPx5rCbT+21jKi0EbC48c3WyWCg9/Wa1sotNnwhuejBOSs8upea7IxQavLOHrQJXIGmuwELh67xB4J5kQerJ2zDoiCI0JL0W1jazJUw/8z1cewl5heWV1oTnVzSVR6zmBrWM2WOAoFYgd0etzVEg+uv8OkDJd4MkMVlTK28PPcqx6BdoAXEHhnZgcNTpiMjrfnFChS247WUrqOet1n9Q20jApQZe0fMv2HE4UWJQ3pwk2zFc3BNiMOyZ65lowZN4mTp4uSFPXtJDPhtiH182dn6D2ua3Jh2TaKy1Zcx1VPi8UJOd03tqVLDd+c+KXvdAds9NfvZWcqanpSSAL/F4ISx+vdU5IqTsT019SnbYohQBc1kh9HMulF6KITfqX7Xou3UYpTWPUNoh+Trl2Qb7p2/aH5;6fzPnUsgwxikcSBTXhVL6A=="
 ---
 
