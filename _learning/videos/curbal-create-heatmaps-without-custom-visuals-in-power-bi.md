@@ -4,9 +4,9 @@ excerpt: "Quick tip for today: I will show you how to create a heatmap in Power 
 originalUrl: https://youtube.com/watch?v=yC2uR6vOIVY
 type: video
 price: Free
-length: PT3M3S
+length: PT3M2S
 publishedDateTime: 2019-02-06T11:43:47Z
-heat: 52
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yC2uR6vOIVY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Z8Y0pDJ/YB4S3ub9nk6vw8ZQqJ/+ihLbdcIcoZLiYTRoobJ4GjeA0Odjl9E4ihM0qKV96Cd6DhR+BhH4NiCttfbGJe0c2vzx5Cr5FkzIa/B6kqEPK9YDfqQPgO34mdmtysn2Q0JvVD9SAQepR/Ly2yZZv55VdxeD7+ybgGQOo8ict0yH8n8u6Xh5y+Llfmb6XGfT2UKhwz+2nZjft6M+5nC53PhEhkJo7ymEzws3TuWbkcCCUjSYUF+rTZg31jn5Txwz7gICSFQ92X6p3rY1TfvHUvlqt14s2I/J8zetGnLgx1ze/caNnq88y2YZjbOlO/t5tWlJdasssVNDJlWH05RQs3Lyh92zh81aYDmtkPEV1D+baoHLwgEtS816pQddDI79YgusEft92LXnSZULLWQrZew8iyCLJuUDwtd9s8E=;aF+LG9J+TverI22HwkDwYQ=="
+secured: "8SMQZw6jvcElJz0ZkmoNL8TkZVy07gmJIwdx4jq2I8KM2/tFbdzS1yCkk/6OqiSYSW5F4vHWlhM7sjhFiJvAiQwFTvMXW2e2XOGSKWwwpgbFIzWOSQGuj1nMwuBDV+PtPU4JaQxJx3J4TCIlEN7UJxB+aiJr5Umw7rAL7IluuYRQu1EpkpT7dHGMPVNGVjiOOTLqr1vEMxpsNB2baIR69nMn8xcEe42oT6oNkUYUMAj7AywOjr0J/LL972/7FBR2SMD/NfXFGswiDjUHvfrC/7U78U64vr7VZe/bwl9n0DRfnCUl0rqx7CtUMPv46KYQtdT6IywHB3a46XEjXEbdymkf49Aby1Zd5ccR77tmnbW9QQDrkS49oHw/cE8AhivW0IhxR7oyaJUuoRsG9MtLGhFgQQanfJEk2uNyPbpQajo=;XmMRcofKqV1+su4TxgpRUg=="
 ---
 

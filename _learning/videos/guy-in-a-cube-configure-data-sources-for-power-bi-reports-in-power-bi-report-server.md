@@ -4,9 +4,9 @@ excerpt: "In this video, I show you how you can configure the data source of a P
 originalUrl: https://youtube.com/watch?v=G7Qkgg4hwMg
 type: video
 price: Free
-length: PT5M59S
+length: PT5M58S
 publishedDateTime: 2017-06-20T13:39:07Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/G7Qkgg4hwMg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "fknuyInn7e2qUs2NpifV/p5PRspCKo95bRczavsU9pfvvtJRe9o/t0WXjquQUOhaZmT/bFXBl2d4GWNSdLBcSLlWRw+qW7BtWPE5wx+kwJmX7jilW/56Tbd1j6oskHCcgfIAnUl0Zcs9AYF2ACR6rjwWIXJzVG66HIZi+uZSO+pyASinpNdgq+4VS5H3bhp73V9YI1ZCZqEKWM9HKlnefFQgKO3n9PuxCsKYJdT58L5dzz8dEiDKX4bY8w9c7rZrF71yd+l0ljkQ1YTo+O5uvRMs/yHZ8Ws9+0RPybv+heKiBaBBxu/fqO6RATfd6Mf970NbjYMeMsUGj45VKsZZQU9JhIxTgo+fOFOHB2VshMoW53l6U2dbFW1Qd8RTEcoc/uDg+RP+xXVjSV2WVjqH1rctNxxU84GY++vB3DKmCFo=;P5qYdlf2tD2cTCuItPb5Hg=="
+secured: "Gf/nzlIH0EQkqRy6Hes20MO3DpIpuOZCuyrYkQwLmOsWCrt+sP5BqA1AtwxYW8X7rPZnFAg6XuxNZb2PLi3KHL1JHUFk4Mstz5r1ZqoHKZXITqh1RpI0vP8b03rG/z2Hn7ApMf3exHYq2XAkyEuLBq581t0NOVqu8GwHoTrKJtcoPJFOf0LYtNZyDhfS9450wTpQov+dDncOTl/R0ZlvP78PYK6uwVv+lJHbfArK0reQqxPmzL9pQ7NQS5Yh7mJj3yOggShddqvVbs+pJnlgS1Ql2PPvtAKakICJEwqXq4mXiLxZzVJ2HjKJL9CxtldWYZGu41QTzBI6sMOISuHCLeMfjWqGvZLLj4/PXG7qtpBrhVsNLl0rUhihGHXIeGWIi6JxopNDChtceiZbk+V+0jzdsGl+YYe3SFoq/iJfXjA=;GlSzQ+bds2JKV+tbX2J3uw=="
 ---
 

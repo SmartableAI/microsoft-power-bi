@@ -4,9 +4,9 @@ excerpt: "Learn quickly in less than 2 minutes how to sort month names based on 
 originalUrl: https://youtube.com/watch?v=cnH6oMhWKOE
 type: video
 price: Free
-length: PT2M33S
+length: PT2M32S
 publishedDateTime: 2019-08-02T00:38:45Z
-heat: 57
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cnH6oMhWKOE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 360
     isCached: true
 
-secured: "ti1twfNORbP73Fw79O6MmOn8SEmEE+ZzZBmdaVk95xYguhl+0rivydg9cRkjrUZtFhOuZfl42dXsBoiHW3Ask697sckc2iSr3XLMqpKrkbslIpx0AHiHYiJvjR8pyxFlWg9Ue1yC2mxOqGLmw0QtVRXRcybQO2xenLtWOqE0PnX18r0UMyWhcfzOz4b6Qet1ega0qxXzKGzhY2FIqpkLLA7LyoFmTW/YSfgYdJtAAIqM3njVheUewF/4FDDt+0riNG7WTP/OFHztcGBFEDqYQ4cpuKtbStpd3c5yfYK8SyDII/6l1hdOgawPf1LOieZVZI4TDzAgHL437r6b0al9UKsMUV30IzKhSdvDbTlumMpLN2B/VJO4wjh3OeSlIimh9/BIWso4x70sYo78FGJUMltEeLYxRAoWkRgTIEOhz6c=;T/hTo5qnIrwTPe6FDRiejQ=="
+secured: "u6P7xiEa5OesB3Gl6r4mKQ686p89S7OWAl8Gppdxx9KkD+tDenc5Q+zHHkwMv6BdPPJhAiLlv44mqJdv9uKuDYTSlMHDR4eFW+TcbVBZgMuxZFn8Z0f06f3KJkuLHXS58IB+6cszT6Z6X7hdO/VZRXAnXvocy7d6KIIgHoafhcBcxyNu1MirCuoJfjBbTPTPn145jHb24ct0drwCOa6IwzGTK+Y2had2jT/JkAo/ysNAdV7DWgMbWMcFLKP45/3beISJF2ccv8UY4lb2C0UM/Xh/2oGjXMpV47qijeApfXL7LwQ2XqWhH9r+x4r2xBQaA3bOw8i26rAUMbNxi0R+vTeVNennFcLUt/APMHXg12pArMSi6cY22VMmk3UMoCnb/y45G0KUO8uNos7IuXTj4stWJ8llDJGDSlmVEW/9rFQ=;fGDVl7AbQlGeBFwvvq+8jg=="
 ---
 
