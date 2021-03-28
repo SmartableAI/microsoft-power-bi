@@ -326,14 +326,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-replay-power-bi-tips-from-the-pros-live-with-phil-seamark-feb-13-2021.md",
-      "title": "REPLAY Power BI tips from the Pros - LIVE with Phil Seamark (Feb 13, 2021)",
-      "excerpt": "Join us live as we answer your questions about Power BI!  📢 RULES FOR Q&A: 📢  👉 Put a \"Q:\" in front of your comment to help us identify questions! 👉 Super chats take priority 👉 Do NOT re-post your questions! We'll get to as many questions as we can. 👉 If you SPAM your question, you will be put",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-replay-power-bi-tips-from-the-pros-live-with-phil-seamark-feb-13-2021/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-replay-power-bi-tips-from-the-pros-live-with-phil-seamark-feb-13-2021/",
-      "originalUrl": "https://youtube.com/watch?v=e_yuomKr6p4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/e_yuomKr6p4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H15M3S",
+      "path": "_learning/videos/guy-in-a-cube-avoid-the-full-refresh-with-incremental-refresh-in-power-bi-premium.md",
+      "title": "Avoid the full refresh with Incremental Refresh in Power BI (Premium)",
+      "excerpt": "Is the full refresh of Incremental Refresh taking a long time? Or, even timing out? Patrick shows you how you can avoid the full refresh and refresh each partition individually when using Power BI Premium!  Handling deletes within Incremental Refresh in Power BI: https://www.youtube.com/watch?v=nKVrl0ec6uE",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-avoid-the-full-refresh-with-incremental-refresh-in-power-bi-premium/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-avoid-the-full-refresh-with-incremental-refresh-in-power-bi-premium/",
+      "originalUrl": "https://youtube.com/watch?v=5AWt6ijJG94",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5AWt6ijJG94\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M42S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -346,11 +346,11 @@
           }
         ]
       },
-      "publishedDateTime": "2021-02-13T08:40:35-08:00",
-      "heat": 131,
+      "publishedDateTime": "2021-01-27T08:00:05-08:00",
+      "heat": 133,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/e_yuomKr6p4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/5AWt6ijJG94/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -364,23 +364,31 @@
       ]
     },
     {
-      "path": "_learning/videos/learn-power-bi-3-reasons-why-no-one-should-be-a-power-bi-consultant-.md",
-      "title": "3 Reasons Why *NO ONE* Should be a Power BI Consultant ☠️⚠️🚧🛑",
-      "excerpt": "Want to learn the 5-Steps to become a successful Power BI Consultant? 👉 Sign Up for our Free Webinar on Thu Jan 21: https://web.learnpowerbi.com/consultant/  If you are thinking about creating a side-income or full-time income as a \"Power BI Consultant\"…then you must first watch this video. I share",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-3-reasons-why-no-one-should-be-a-power-bi-consultant-/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-3-reasons-why-no-one-should-be-a-power-bi-consultant-/",
-      "originalUrl": "https://youtube.com/watch?v=LdZXrVe9g14",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LdZXrVe9g14\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M32S",
+      "path": "_learning/videos/guy-in-a-cube-new-contoso-sample-app-for-power-bi-embedded.md",
+      "title": "New Contoso Sample app for Power BI Embedded",
+      "excerpt": "There is a new Power BI Embedded sample application called Contoso Sales. The best part? The source code is available out on GitHub! Adam walks you through the sample application.  Contoso Sales Embedded Demo GitHub Repo https://github.com/microsoft/Power-BI-Embedded-Contoso-Sales-Demo  Contoso Sales",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-new-contoso-sample-app-for-power-bi-embedded/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-new-contoso-sample-app-for-power-bi-embedded/",
+      "originalUrl": "https://youtube.com/watch?v=lFu1JBPJM1c",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lFu1JBPJM1c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M31S",
       "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2021-01-13T09:16:37-08:00",
+      "publishedDateTime": "2021-02-04T08:00:17-08:00",
       "heat": 131,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/LdZXrVe9g14/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/lFu1JBPJM1c/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -450,23 +458,23 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-power-bi-dataflow-vs-data-warehouse-which-one-to-choose.md",
-      "title": "Power BI Dataflow vs Data Warehouse   Which one to choose",
-      "excerpt": "Dataflow is the data transformation service in Power BI, and also some other Power Platform services. Data Warehouse is the cloud storage and also compute engine for data. I often get this question that: “Now that we have dataflow in Power BI, should we not use the Data warehouse? What are the differences?",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-power-bi-dataflow-vs-data-warehouse-which-one-to-choose/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-power-bi-dataflow-vs-data-warehouse-which-one-to-choose/",
-      "originalUrl": "https://youtube.com/watch?v=B1PYLVHFYT4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B1PYLVHFYT4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M19S",
+      "path": "_learning/videos/radacad-dataflow-a-remedy-slow-data-sources-in-power-bi.md",
+      "title": "Dataflow  a remedy slow data sources in Power BI",
+      "excerpt": "I have previously explained a number of use cases for dataflows. One really useful case for it is to use dataflow for slow data sources. In this short article and video, I’ll explain how this works. Read my blog article here:  https://radacad.com/dataflow-a-remedy-slow-data-sources-in-power-bi  *******************",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-dataflow-a-remedy-slow-data-sources-in-power-bi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-dataflow-a-remedy-slow-data-sources-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=tWLgvM9aV98",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tWLgvM9aV98\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M31S",
       "provider": {
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2021-01-05T13:29:38-08:00",
+      "publishedDateTime": "2021-02-16T18:44:08-08:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/B1PYLVHFYT4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/tWLgvM9aV98/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -548,8 +556,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 14971,
-            "average": 4.793401
+            "count": 14977,
+            "average": 4.7934165
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -590,8 +598,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 31364,
-            "average": 4.7591186
+            "count": 31374,
+            "average": 4.759132
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -650,8 +658,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 31364,
-        "average": 4.7591186
+        "count": 31374,
+        "average": 4.759132
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -692,8 +700,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 14971,
-        "average": 4.793401
+        "count": 14977,
+        "average": 4.7934165
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1023,8 +1031,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 4492,
-            "average": 4.7584596
+            "count": 4496,
+            "average": 4.758674
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1065,8 +1073,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 5296,
-            "average": 4.7809668
+            "count": 5300,
+            "average": 4.781132
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1125,8 +1133,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 5296,
-        "average": 4.7809668
+        "count": 5300,
+        "average": 4.781132
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1229,8 +1237,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 1930,
-            "average": 4.6404147
+            "count": 1936,
+            "average": 4.641529
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1271,8 +1279,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 1689,
-            "average": 4.5944347
+            "count": 1694,
+            "average": 4.5956316
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1313,8 +1321,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-dashboards-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 1467,
-            "average": 4.6864347
+            "count": 1472,
+            "average": 4.6868205
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1355,8 +1363,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 1764,
-            "average": 4.729592
+            "count": 1771,
+            "average": 4.730096
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1415,8 +1423,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
       "length": "PT43M",
       "ratings": {
-        "count": 2942,
-        "average": 4.7685246
+        "count": 2946,
+        "average": 4.768839
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1480,8 +1488,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 31364,
-            "average": 4.7591186
+            "count": 31374,
+            "average": 4.759132
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1522,8 +1530,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 17056,
-            "average": 4.709369
+            "count": 17058,
+            "average": 4.709403
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1565,8 +1573,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 7027,
-            "average": 4.709691
+            "count": 7028,
+            "average": 4.7095904
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1690,8 +1698,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 1491,
-            "average": 4.717639
+            "count": 1497,
+            "average": 4.718103
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1732,8 +1740,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 1670,
-            "average": 4.6988025
+            "count": 1676,
+            "average": 4.6986876
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1792,8 +1800,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 1670,
-        "average": 4.6988025
+        "count": 1676,
+        "average": 4.6986876
       },
       "provider": {
         "name": "Microsoft Learn",
