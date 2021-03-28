@@ -2,6 +2,7 @@
 title: "DAX Code Formatter in Power BI"
 excerpt: "Mostly we are using the complex DAX formula in our Power BI report. So, we have a question that how we can format our DAX formula in Power BI? Is there any way to format our DAX code so that it looks nice? Yes, now we can format our Power BI DAX Code using an External tool called Tabular Editor.  Before"
 originalUrl: https://youtube.com/watch?v=vFCefuS1ItQ
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/dhruvin-shah-dax-code-formatter-in-power-bi/
 type: video
 price: Free
 length: PT4M41S
@@ -24,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "UPW9FkL0rLVjJSlK0oKKtp2vKdJmCaNpDOIfe4Cof5b1C1SjIkKcLFV/aGZ5TGKIeinHIwGJs6uImi3knBOY3Wk6I9bN8/jGobkaiIdqjfusizokES5gGCvkrChJ8/JOKsBvmwfi3JkwxV9qUgmB0kHahe6A7W7IKaJfJPklwGE/2jvLGzCjf3PsHi5dRKICz/mGRM0fQa7aw5YKfTZA35RcFMobK122+8U83UNPvLbUPoZxpSw7PHJLNj62fy6cXfBQL7X9GMyZrrx+za0i6rYujlLjb2FTqoetNMHBQ2wGTvYJ5xaSiAe6OgWraAXIjIDnZtUkSQeB76qijlix4tOjwqRxAYKjfIq4XHBFwilfFSbjr+GXWYRCD8NnA/mNfG0Qmkna5TGoBV62Kwi2iw==;+OA45f2CAXyDAp24TVgViQ=="
+secured: "QT1BFiOORnKnszCUGYYe3Bghjt/ZA1A6qAbPyXAKiUIPdMB/Qf1dsFLGkN1wl64mh8BSr785T9mJqComM65ZEDauLvarWeMZ51Z4IM7UOzwvEPAWeYs12WJM0E94krA+E+DPBb26nenvbXXGEu/beV3h6QIpR7asRiMjWD/sdc4HbiK/meRBMcHmUTBc0WpL6AKS7JfLeXFvYRg2sgYPdV59PoU+2CYByr6BgO0voMqtxpzT6hdLWWYwmm/CbljUKyClldFk78bpnu9xsaZhrnHECUhz/qZNqgW47V1gBFhJDhfkiDA0oIngE7/5l4kFlhMCVHt+71ek5xrsWtZV4NNpnMpQYNu7SS6nqrsLpx958aae88bZ9RjInCUzPAEZ;tljO3ycrnrJIFMzEHqob9g=="
 ---
 
