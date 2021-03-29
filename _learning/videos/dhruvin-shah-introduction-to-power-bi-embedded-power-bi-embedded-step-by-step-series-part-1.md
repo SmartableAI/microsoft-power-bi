@@ -4,9 +4,9 @@ excerpt: "Welcome to Power BI Embedded Step by Step series. Myself Dhruvin Shah.
 originalUrl: https://youtube.com/watch?v=Or0oYJO7s7Q
 type: video
 price: Free
-length: PT8M38S
+length: PT8M37S
 publishedDateTime: 2019-03-19T17:12:07Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Or0oYJO7s7Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "6VUBS+SdY/IkZisrDi/2Frfzg+CkXbfYjphFlvdRLwNnmQMuIh+BCQNN3fHLGKLAqrz1cgpshiuQCKMSHumcoa0XtUzPwiukwlHTlmdrKhPEFAz2wQUiKsl23zTAD0sRhGQQX4jWP5ZgRs61uxiFyi2JavPhK12celETmHaSrQ7V9Cj17oKCfbcgHZ3LVvK+uk2Cj6Wi7GkfQ/OTosyGaZZ9Izthn6DcnwXdLqEN8LaRM07+42nMDcbojiuJut86EThpt99YHYgv1/hbnRDFCkPz9bu9F0Vx/7tYnmStThmNRU2QDaApboWdmO5F6vYfh94ok6Lid07egoQ3WYm/SWAvMgtdoczh4OfJ37rtcfEwxTROORAZQZGZHoMRbWmLypshNXW+ObMEp6O70BK2JVS4R+/TDa5rbBS81+kyJHU=;pxGC3gUMEehS3BA7Fs9seA=="
+secured: "4N3abQ6oCRF0fW39BljePokcU1KhVbQh7I+xTPhfQkZlbde25mhh1GcxnW/wnw8EUny6DmkrSE41p6H1y2QiEJNMsmrbrxGzBQdPMOaFRF9ZEQKj0txhMbxJThsQUy9JoMgQ8C69oUrP2LtYDjScBnsO3+3gKjPoYJIe/OQhvgbacCjtg3FF03z7kIwocgqjgSDqXEvYnOMvTuk02OFI+DBaJQsdM9kxffHo1v6I180N14+hw9koJ/8FZmNJvrwkB5AVivRhR+jnZm9PF+EG9VUIYGZ9Ydn13Z9yOCIq96xxVP0JBm0JjX8KUKU3jFEXHcNcbwhUkFoGMmr3V4ScnWok1bqoUa+UD9hCXaiNt8wzivOrI27Di0ArGSgGJJyP3cw6dvjOkFsbHDwW+ukQhwptQ0XRbThAc1pZT3+gaa0=;/eKggM2o1hcAtRpp3f5O/Q=="
 ---
 

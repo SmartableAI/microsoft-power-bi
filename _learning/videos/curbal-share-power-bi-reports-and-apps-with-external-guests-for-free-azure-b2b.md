@@ -4,9 +4,9 @@ excerpt: "In todays video, I am going to show you how you can share power bi rep
 originalUrl: https://youtube.com/watch?v=Mm-902ry-qU
 type: video
 price: Free
-length: PT8M59S
+length: PT6M16S
 publishedDateTime: 2020-05-27T08:10:24Z
-heat: 53
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Mm-902ry-qU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "UK/un+E1rMERyRodhDq3FIpGW8XvKCpkRdVIu1XazAtnLkig2aTtOB1oo8FIS6e/Z/NJ+Wzn10WDWpH4OKuYxckkY8bqoT1caE3lxnvgz4ymGhRK6Dc/MaXUJYT/aROb1aPQRifC8plX1uITQseVuYS11cghiLXQGR314tkRKjQ4MYi+r6N9hSaWXHGuT9JPB2XeP0ufol5hpRsK96sWGP5r8iGJAvI+Lpzzz/b9e+FG5P9EbYah6mDOCj51qAjsm1IgYj/pEhUdLF7wavzlg6QE/4lIukM+b3cEZhLuVgTF4A2TDd++iiPcOpMl2IqTABWeal9DKjElCnSyyp4d4vIXpgsyWR1Kyi6PkpBY7/ikwfcdV7UN/1Tho3IjgIIEw6to3JI1aJWD09CLMi/o5BSIVwzGbZf5B84EiYMX74c=;QO7rnw1P0JBacBJRuDeq7w=="
+secured: "CGH9q5yCKubdCGezTo0U/PXCWVgB0w78UQoPUf1Y7fzw+jwZiLu4QyWq5Op7EK0Ubg0mzEmWQxtmcdRSjxrFUXwgUv7OPlEdHb0NJcPoANkGomnnQRoPA3GQlN7Y83F+fHh1GnC+W4L9QKXxi/okmSd3aELdmZ718Txb55FzQ3tICktgBeCBqjgAVumUSaRr1heUPVw7IdG8tTepvShKmCCFT6LCQykmybI6cC7tKV3/MDJW5/WCc+QSlC4et7cu6+ZZ9klo3+0zqL+L795ptderKZde/dknEgxa6Cg08cGQqYN/Ah6aiVQB8yN2RAwT57CZgTZm1I0BbTC4Aa1dkUnowQONo6qlZA9TtAaHQP6Xlh8u956s6oWkfjEJVdpraxS0C9uz8dIWsLpl0djuma7a1jbJd9Kg10foeifuF2o=;V5cIDehwLk7SeVZmBxLXrQ=="
 ---
 

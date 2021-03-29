@@ -4,7 +4,7 @@ excerpt: "This video walks through building a custom visual by using http://char
 originalUrl: https://youtube.com/watch?v=2zgRVk38h6Q
 type: video
 price: Free
-length: PT8M8S
+length: PT8M7S
 publishedDateTime: 2019-10-23T20:41:01Z
 heat: 50
 
@@ -23,6 +23,6 @@ images:
     height: 360
     isCached: true
 
-secured: "sC6/55ho+n0gc299Y3406joS7M8chQznMCSz8TDq5b8dsJOykH9K7Uo1sUYfg4Cp6SamSnqFS5Vgt5WpZebapmxvPXnVnxdepBEE3bSjX99UqRRy/rqaxp5pfUvuWn+GlwvT1QVcmALTcPDfTPTyM1bJymb2KqbmPOXFnkdMwLfC5+OEme21EpWPKq/nE/bDS7rqCFlXIRORuPq1UpePC60Mmw1LHgLqVttlf+HqlC0fpPtv1HCeDYhM7BDEybdxbtUeflG0W7UMMo/nGL935p4Sis/qDHtyh5jKfrGOsxe1kUPBtAmiUNMtWhBiwntkxpSvet2Yj5qvDaCZpXpY1QK/wFN7RoNxLgG1hvKFXyZJrSsiW0ar9jaLvUc5H2/Gxe4RWqyaETlNCoV1o0QyVT4HJxcKaxKps/hn4fY8sok=;K9HrdzfJXv/rp3SYmuUuEw=="
+secured: "aYVJEXHEN1AQnMYsJzCTxY2sVDWS1nqXFGcz+bzkiGBZIVB+4V7ynn3BqzXlDJP1HLVxc0s2IMkkxbP1DjFzToR0FWVABMBUgsMGxhM3WEyxcXNeDZLoeVw/hcJ9tZ228tKvxO/jd6u4m31P3xTUiR5UDtWKXUSi14CqeVQqp39pWVmaeRVSl/kbjiUb41igzhUeyJrL59lD+ov7Hs7sTN79V1uFMXZjDdxbScmqEWLWH5l3+jqD3VnX5oY3+4VAWbbYNWBJZXUBVS6Mxsmv9XD8FGKkiQq4QPvN0u9NXY5SL41c6X3uTB7r+cAxr+UgaJ8QVteCGjkhzRROB1lZenuNdo1XO6SSXqj1jFvcy88x4Jmod8O9nmF4Hm8L+xpuCC0ADuadaHAZ6LjQd1Rr4lmii6PcN0RkG1YMZ8mBlJA=;JBwjiADFkdMFYHz19J4PmA=="
 ---
 

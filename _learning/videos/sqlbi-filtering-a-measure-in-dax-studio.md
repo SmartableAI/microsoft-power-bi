@@ -4,9 +4,9 @@ excerpt: "DAX Studio can evaluate one or more measures in a query. Marco Russo s
 originalUrl: https://youtube.com/watch?v=ZIJDv3J9kko
 type: video
 price: Free
-length: PT2M22S
+length: PT2M23S
 publishedDateTime: 2020-05-08T09:06:58Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZIJDv3J9kko\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "iaMz60eahzjB3yI4FCEaHjuKXMrQag56eqo+9O6+HgD/gIenO6Y7IOfeXViMieCpqwIAv4b2UCOEIzQrjaPnVli/tRQPcUc0sXHBgW8E1JNe9vIxaHcFJm//0AkIbYEGIODDb0CshvmZzDBEGI4+51AjC2fOTRuzBsjg/f6VoBteY1SjSdCtjQ38s9Kb0qmWuLIWnXpiwWsyHayE822JF+d46TG26U9D5lxQHy39aYjlFDl35ujfs7XzHDK765GI8X/wx7To/WE+dmeQuQ/F0++ukKcSQEs46q7jMfDAsxmB4pPBz/b9A01pkKwtDXT0yAJ5oA6gpOkkykSZSW9dUq/+spWxmonZ5AYb2DW254KQDAHGSEgO/aq40h5NKo75MPW1a89hr678ungoRIjNJ/amMci8YQVfDDkgMKAlWXE=;avvJt5THA7YcIjQFSUrgkw=="
+secured: "9VGIn0uLoGD3MIdOeRRR5ndokWXJcfVeHbmPnPaRx6cvUuvEGLc1g70MK+HgUfx8BP90/iq/sQL6GYLixBC3VBm/OTBiC7Qgfgczx8ad1aDF2VPJDSYF+U8scbZR711dhCB97AK4HaxDoMlJCEmnrqIopoZkpHkypDsIDK9AMhZZ6SqqhVpHm1JiDn6AZ9y24M6TmA1HHhRc79KsR6rAQVswPBqe2MQCF3H7smzUq8U3G/adGwECuz3welRglZ3oLDclMmLIacfbw5EIQpLZ6fOQ/WRsHI1FJULFXO4ftXh2Gii1dlQC/kXT+5jw0U2wqDVEUuE5+yMoUL0RjK9uBDASWK5Pw6sM5vIvb461zBQf3/SyvN3YAyNWO4nl6x3ZUQfvlNPXUcnlBfjnwWKduWrDO/NXKY1c9IByMn5gAMc=;MkDRJg3IgT873ggnk4p17A=="
 ---
 
