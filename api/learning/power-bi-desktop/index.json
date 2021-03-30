@@ -25,7 +25,7 @@
         ]
       },
       "publishedDateTime": "2021-03-24T08:00:30-07:00",
-      "heat": 189,
+      "heat": 182,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/qZOEDBedATA/maxresdefault.jpg",
@@ -89,8 +89,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 17114,
-        "average": 4.7097116
+        "count": 17116,
+        "average": 4.70957
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -480,8 +480,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-measures/",
           "length": "PT13M",
           "ratings": {
-            "count": 407,
-            "average": 4.7297297
+            "count": 408,
+            "average": 4.730392
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1172,8 +1172,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-time-intelligence/",
       "length": "PT19M",
       "ratings": {
-        "count": 400,
-        "average": 4.74
+        "count": 401,
+        "average": 4.7406483
       },
       "provider": {
         "name": "Microsoft Learn",
