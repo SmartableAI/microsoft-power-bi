@@ -2,6 +2,7 @@
 title: "External Tools in Power BI by Alex Powers (Microsoft)"
 excerpt: ""
 originalUrl: https://youtube.com/watch?v=Yj7WECx5-go
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/dhruvin-shah-external-tools-in-power-bi-by-alex-powers-microsoft/
 type: video
 price: Free
 length: PT1H12M1S
@@ -23,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "cdr98B1kIo9BM6jNqw/rrYIeU9zVbTLUmy9KqvQe7PADaO/cFza2gKxKH9MPZXMKvyqxoJP+QXru5bV4RIO+MvHihp+BSes+ReR8khR1kpoDtrxM6CkEaK+t3Z3K+Q2WQTYjBpUybpTTCbXBqai6PrG5bid+aqHo8PLugCL+HBWU0orZvwMsf0uW4cWvsdl/7iCqoB45CmE89SdlDVE0Bd/fNLWGOP9ep9J+xUUBg4o7wynIoJ+qkGEMamkcc8xge8Z5skuJb/zdJ9XYZ//O93b476X6mtDZAd/ClhSVZLMsdHIHj76CMvKJw0Wf9Aw9xGSUIGbK6mTJVFl5eeizNIIOGsK3d1U/2ISHNEgzalRno2TT2Y/OZkczr4fm2Nnkw1/xbSHmo1wRQ4EgznyODg==;Kpv291SU1G69wxX5AQRAFQ=="
+secured: "lqCwW0gqp8o1KMDfRu1Z+IfJ4i+pPJV1ZrCa9DYM9Oiv6ECoQg51v4IRyWce7habja05CPgsxkPH4KYwIsQm+FXaogeWQXgjM/1f2m7a57h4kYn1QE8c0ppkQrKxmagvaAt7HSilKpCoA51UQwKkZGlkcnLwtEx9j5AzDS2qM2GIz8i9XNCIHgIESoLTH366ORZwx/Hx13+sXSSxX4o1fXwezqh7XwsbYbhxdipu7/jYxz4N/hK+R+JkkAAJ6a948/Sy2zK2r0x6cG5Cw18T5i+4Tu7vxLsCnieBNpvTHvTKWhEBWYgrVYNZUf+C9Nb6LaJfYrmyrwXfjEhjgvrgW3acc7ewXgMUa6J/JOX+BzebJBdNGZ1geUsS8SzzCdOOtZzWVCmj6PXSjYsZKnd/xQ==;WgRWAAvCRl6xxdDwyBKOnA=="
 ---
 
