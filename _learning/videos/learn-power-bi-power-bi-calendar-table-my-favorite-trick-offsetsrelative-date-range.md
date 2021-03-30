@@ -4,9 +4,9 @@ excerpt: "Why is the Calendar table so important in Power BI? And what is the be
 originalUrl: https://youtube.com/watch?v=XjVLaVLluYE
 type: video
 price: Free
-length: PT8M34S
+length: PT8M33S
 publishedDateTime: 2017-09-16T02:19:32Z
-heat: 57
+heat: 59
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XjVLaVLluYE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "p/rzwvCjvtNTa09cHlnE67V5aXX/8VasOgUwci2TSRm/P5fuziu+OpNAWZvMQouK0YXFw6DQ2Zzk39OAJuFat9V9yR4tRhA2kd68BAXv4hzyxkz68R3ihmE9yjQk6upkJvm3nYJi/9XAL/I1nwDwMClt9EBK3F/74P/ctmQhq141d3zBLjsfdJ8cDsT1A4E3HtUieqm7jatcAe/Qxp9Cv9h1548v4Yq/hCMvZMMwvoAT1S1OvuDHA/t1c6wri+iqvRaDKPbJr6rolsR+XVB6PvgL7LK7+YqtSBEwHSfIakTnEXFbE8h8pURAEdqFYEon9jElVqvxGPOgA06vtlzDJDADdsi9Unogv33yx5+MVGDM+E70jkgz3b7lkNLxsQRHAQhUvaQ/IPT5+v1u+YAv0cARwG9tZk1hWNAjX2cyHew=;Fh5wb+2cVrGtDbG9eX0VSA=="
+secured: "GBajAAFnPs4eeeR+uwJDaSOOwzXEaT/lI0av/m9u3T+Goz4OFJVRozJZx9D81Ey5DCYkMsU18kRgxADNoz4LGEVoOB32ZVdpvYjfMbFpL3/czO9wANZOznoOUdQFbSJDVTawaDT09pNlJ3AO4NyPK0g6bqIwklkfVrW2sUP14NfnB5DY2LiKD90Hmv70uRjXd34MiajWh/tMhO3pg6CaQRsEN+RyZFcxWRSUha1F3xVeQnflkhl0IIfAfOZNpJdMRQa/He69vLfl6iQHrlLIDrttRnCnPCagPfqx012Vgl+Pwb/S+YaPohvYTfi57J60eYbSK5RCnkQP9SigvK7JYgFg0MHd9hxAxc+2C/dRQeU1iTS+8gVYJ2S438zI91YFEMkWP980QqrO4PVmXN7rgZVq/xvCke2KNJ9LM7DEYb8=;pv3x1X+/Fe8isFpVWZ9ICA=="
 ---
 

@@ -4,9 +4,9 @@ excerpt: "In todays video we are going to cover the DAX function CALCULATETABLE.
 originalUrl: https://youtube.com/watch?v=aA8zIJ-qcO8
 type: video
 price: Free
-length: PT11M38S
+length: PT11M37S
 publishedDateTime: 2018-05-11T10:35:28Z
-heat: 53
+heat: 58
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aA8zIJ-qcO8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "XfjMSwyzS0eerkFXwnx69xCbyQ5vzcm8UpYjU3m5tGs4vxwr0j0tH76EsXtuSy8HhBZ+KTRtafwVkKh2KK5iLrY7VhkRkbpVW+sHjgo+zj8653CpcsuLj4dTpW2oYTb+ZwEzdl6TUq7iba4p187zh169WTxY9g/r2bYzp0DnktJyD9xAOumU+HTyvwF8ZjurYClUhXNgnJvuAvg+0NjRqyjXt4jDbIl7RIKTrynFw6ZYzc5Kg5H4HotVJx4B0PN05VxFNVIZANurRSpJcag6oBA6QzWm8etggoNey+u/C48kFb5gGUy/eTcrJXHx0dSloU0GgXMID3/IU7Jkyiajf4x6QckvGDJkOghJaCFEzn4ZIEcUEdm8NIrN87+8PERTpAyu9CllOeLIZSPxM1CUQB8ShoprDuB2TBu9ruORy3c=;8QZhi8vSJoefAnzoUTdBdw=="
+secured: "OFkQzG5BxlY68iG45vZRlJ7SUcvr8S/R5+8DxIW/LDtG+nNm4J2lGfg1CG0Zm3u+IUGSTQ4feVOaa+PHCSVNQsja0UslU1joXxdk7brEG3qamXAmnFEo0TialAvoPANmJNXldKqGYR0W7kYjN3VpdEcRvFSILzrhQAW9JjYLIgcktznGa45N+csQ1+lTA+4XOdCdpPVwnpX2aKPeKR/x/ysldPgExuG3nnOfcjo79vj0OCKtVpfsd9gx2kTNN0yuEN3lDoZRXhETznJAZ4RGNXqXt76nJ0TDl77GjnSqtkNPEOxhfKfAYGLyqhaKE3pisbpW7TQxYrAT6gAccTWJGh6lDvdDT/iNs6ONdv+ROYMcegJnUMvKBt9HMbsVP/CFWscDC6UeOWKYMvAPldnyVkuiszyem+mJGjBYVHLNM+0=;BUEGukgp+pi/V+UL8JVw1g=="
 ---
 

@@ -4,9 +4,9 @@ excerpt: "I walk through how to configure Kerberos to get Power BI reports withi
 originalUrl: https://youtube.com/watch?v=vCH8Fa3OpQ0
 type: video
 price: Free
-length: PT13M42S
+length: PT13M41S
 publishedDateTime: 2017-02-07T20:22:07Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vCH8Fa3OpQ0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "xeVMO9nVSrn3RdwCOhE8NK0RFCNeiF9CRpPKd+q4vypxXi1gdkQUp+n8uyHaAmZYp38mWW9N4NzW4L7WAw2LI2KcuIF69G7XG0euGDbFNR+GBK4wAcnsTShEn4zVdc7x1BS4xKdb8m6Cz5rBYP4PpZfemOp8NDHt5yR7k0Qbt1wMEEIfatq+X31noS61M90m0ZRfqMHn3F9oqxFrRYm2VuQxLYuLvrBAHOBk8hJUbU/CpZpELdVcrxw4rcbqhhO06ZWC+VZy56hX/LBD3QTnA5NIQLPMHujg1u6EC9K3XXqkuZ8Wf+SV1yeGNv8cHBF0ZQFAZa6NiTMPOsNrHxQIsvB+scRkvGE8H9IPO1v/ZOGs+KCbpD27/TTnSytxzZGCgzS3jF1+6UBqKfSh6bShFwQHm4EeC6mjVZ9Yax8Ldnw=;9ANGrwbtjAfMmEdyEmpzag=="
+secured: "ihcXttbpwgmEpYJEhiv4+InDR/cRWY4WOxtkzMJ/pXnWK4NsMxSEtEMit0MhspO1h+qE2nActtTlwVvHhG8l+VFJJv983ZAtJDX55YNcw1TOfWJyFPo039KJZNSUsDBTOjZwTtzuhr4FIOt0Z3+gILcUDh2+XEV0pPkKal4XvDiS44w3FiXJOoOhmjnekfDfJ2rfKqawwW8RSRbxwnkz2ubzGysgge0d1qApAOvfm8lgO8S77i94qoPjQsOioJHHhuDpLuQVvwJJlvOP6Ts8yli5mNLoHCcQkBEMMCO/noDzl6rRCy4dWd6o/pUdICDD+v6k9YUpC7GBcMeOB9gL+tf7RR+180HYI98Lp4Y+llEzrIEuvJc+Qm2FX3O6IZ5XhZUkqU00RhrgfH/ieDG8sZf14ZgEH5ED8WT0Bq/y8h0=;EPLWJiy/Sv+uChU+4PFJ0g=="
 ---
 
