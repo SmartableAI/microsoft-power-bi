@@ -4,9 +4,9 @@ excerpt: "In todays video I am going to show you what Transpose, pivot and unpiv
 originalUrl: https://youtube.com/watch?v=hGj2axffxHo
 type: video
 price: Free
-length: PT5M26S
+length: PT8M13S
 publishedDateTime: 2020-04-01T11:56:57Z
-heat: 61
+heat: 62
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hGj2axffxHo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "qqeKg288II2UJqeLg1PUuVh85A4RgVPXOfSXxAgebCbyQuK8k5L6DWhelBBqL2oITq7uEN/37ArFirMImwM5iUGbOAz58u9Jk63oWSQP5BPUjvnQvCBweBzjU1+ItjhV6aHRWR/qEGCoUJ3sEyrDxe7bfFMb8iqxKwJjnZilYIpHd4JAs51Rvii1GUo6WKVAdrFiApR3FrTWrOwPbx9lwsaSnbBdbmAYSIC+CqjRJ7CNJQod60kvUmyUR6dU63yMYyIeQ1/FA4EU4lraT4y5woRb+sO0vzIGEJTTubdbrrWp+UOnuLKQ/DENcfy5NJfQc+mPjQPBuLnODae9JfvQs7OzpRQOJXrlPE2qiriqKpBPzhDVciYcpJamFeSS/8gyPJ5x4RaYDMBjDbo46QFgCMD5PsRSwft3TfDU0Dy1iN4=;Enqz6NY8rC1WXgZiBeGPjQ=="
+secured: "5YCTNINAequTk7AiTz3LvLgl3+L4UkoSxAMVlPvgN1Fi86TsY4EUHcgOR/e4PsHaUKwtYDaLP3EiP//hE1fx1eNLPNFFOjkMsQsX6seG3MQdyas5gYxmi+w6DgRmTq4zRLdp7u1ch1Szaoxpxv+mqZ1glVeVcTseogFb/Ab+uY20OgXFl67zVLRVD6eX10eIZumtysDCUHgHCQrpnSYtkbrYstcN/b29JkHGiwcoH0Iy6PmSzWHaXSlPRGXr9UeIBgy8EQLw33G/Lln+D8vrPP1OdXr9EJd2/GUmaF6C1Vuu1VqyNtYt6ip/zUQS94fxM7FPI8myPUW6TJjLwP+oGPHIh9p9nqfhhgj9K8NB6LAgwnT/dnfpyFvfPd7Tg20En/PhnbWPupsv9mrlu+P1TE35v2dg8iqw09tTHn3npNE=;WE+bJ5D2aFlpyW+JYKmwEg=="
 ---
 

@@ -4,9 +4,9 @@ excerpt: "How do I activate Dark mode in Power BI? Short answer, you cant, but i
 originalUrl: https://youtube.com/watch?v=Ozj1INblVGQ
 type: video
 price: Free
-length: PT3M13S
+length: PT6M1S
 publishedDateTime: 2020-04-08T11:36:02Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ozj1INblVGQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "K+6YgnKahDW7p+SbSF4XZV0pEgGNzb27qegmn5KqgQwTfjiRewtY4ihM3c4nXiNtTFH0E3iBnlL6rZPQ2E09KhzvqvM+ZNde0ktugDLVVCXP22vDrHXjpO9dRIVGV+Kyr+mteLZWoHVVupCykxzrhrIElxFQc+X1Ls069ONmzzQ5AhkTKBdPDCFAKU8/FMBdCdN2QgTXrmUJu0+yz6WDmsAM1T8zeAvUlMVm9kQcIGrnfTI4D1H5kFqRrtv5yADZtKaIb0YE+FOkhzsUop/tpA8JBwafNNKoIySMuS5nK/fhoPXVEm4TUjznNCJyB4Sx/Aw1tdtCkVY2oqFUnOZgfZlPphaH0ZM5zg689smGhIacH47nuu4w3weK0u/WcZo9PuyU23sGGM0iRB2UsB+bfMGKCwSdehSmW3R+IU0R59c=;8fGHemCBQxX0wpWHJmY6kQ=="
+secured: "yNN7E17WR0iO6XOcxNKYfyDLaf7FhP7IXgXumQiMZ7VehK1XG3igsvnxnxMqCEWOl/bLipvvX2p0brO77TMd93JqmYLDbq2ug243KXt8+Sj7pFKBRbAr8TJJmVn/tKiCjngG8YjNNXj/Z6jlu+uWOLRaRpY+75Q67U2114uG1t6uiU7LBtwaPIetnEymK76r/eg+dM/MAQWMqjwZHfZq5Wa1vjQxe+gxbSsK/X52S7Qp1GaqPsQUjN3OLBL+yyNZ4UnmQfJOV4pyke8q7gVesDb5W/33aBwKIpPE9omHn1xkGszNxv5uu+wnkw3BPxLsUzLjJBoDp4ZjxVogzzjmIsGCzIKqLjuKl1VFCH1wqJ055H7U2prn31w318tmnScmO3na1hqQ5hoDjB2oqOh5KDKX/v0zGAjw3uAMvSXTy04=;TJ8ddfaBdG/ZgwXeV9P2WA=="
 ---
 

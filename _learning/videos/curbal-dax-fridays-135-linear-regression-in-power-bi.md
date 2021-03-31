@@ -4,9 +4,9 @@ excerpt: "In today's video I will explain Linear Regression: what it is, how it 
 originalUrl: https://youtube.com/watch?v=d1kHgFULcko
 type: video
 price: Free
-length: PT12M17S
+length: PT12M16S
 publishedDateTime: 2019-07-10T14:38:10Z
-heat: 54
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d1kHgFULcko\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "RgoDU+C4NHxl8my1m4oIYsdmwX2M5kb+Gw8ZJKMXVWea4XDLcl/vLp7vpWt74Y2UmwNLpukXs+8xusAL+dF69eliVEe7ecxZp3edxR0ZXmqh6xbF9n1zcSzCVTdhS3jiUSGpVRU5Fas9TKyFYtzYx+3lUdHerOH9K6dzJUxjRLupSU0i/JGa/ggHu49iweknbwQ1Fhi8cWABBUR5HrM3eS7IsFmdfEkiZN6jxn/yB0GjBUyUjHYhKwxBkqtecEigfp2zv6e0ajI4BamZHSE/LE0Or10VxKuuhbNeUciwgo47JrXgTgBm+N6/BJy6HtDBdUbP0uX9VG8JlodP6lDgq4rU7odyAFK8kU+oUIId/8qmIcUexkhClmbTSPqerzYuf79OvvgI3NprBXQwfwjDr3LJAhOmkfFn1u1+n10WJZI=;VGIdXE4u7b/s56IdP8InbQ=="
+secured: "7gTcjHXkb1huq3PSWqCr7ULPE+pNjXBqV0/h1RaNUr/CRsrJbig4iz1uGO9auP95bhkMTMRJthzXMg0ZyOl5O/vL7XchBYrB/r8mYSCtJluurI0KeGxoiefd0SvkXuhRPlQnlOVHtVeGFnCEXk9p07PmMpLGVqWoabXpighQcJlG/7bIyA70m/z4mVm/irG5MRpsCi6xHeODBIQPA17IE/yl5a0TdxMV8XzfWurjxl/xAtCIIeG3NMyvQhKCxsgIkP0FqcRUly136qWRtrS0xhMtSy1LozIly2oAhfzaS4pfTsUJM325tJiLCsl/mUSBABnPB00N6biNDrSCJCCQdtI4PpqdB2EWnAf7mEjmFYTG14YkqlIFiqJykydYL6A+7OYqpoaC0upb28N5l1mqKY1xlqkAirKbBgTKEjGCniA=;mqgzec30vycEcPsD0llvIQ=="
 ---
 
