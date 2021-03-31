@@ -2,6 +2,7 @@
 title: "Draw X-Axis Constant Line for Power BI Line Charts"
 excerpt: "Welcome to new Power BI Desktop Updates for March 2021. During this session, we will learn how we can draw Constant Line for X- Axis for Line Chart in Power BI. Microsoft recently introduce this new feature during March 2021 of Power BI Desktop update!   When we have date or number data type as columns,"
 originalUrl: https://youtube.com/watch?v=iRJdcZbfBd4
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/dhruvin-shah-draw-x-axis-constant-line-for-power-bi-line-charts/
 type: video
 price: Free
 length: PT6M48S
@@ -23,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "8xl+jP+dATL/fkZqUpQ+bctMFk7uZo0tTRL+KPG3rMrGMZceZyw1PnWU+tfOcozogL3DfcVTqk9Gg3xCvhTE6kehXiM6KMULBq0jWiMNW6cfivAqy3CjPUie6fjF8qDAJbO5QNBX/CPhpE1HPwL/7RQ8J96lOM3MW+m9uhNiFilGVG1OErep7TNwAz6CILTaVMhpe0SitBNUMoDQAOg5L/KUa4EE4QleLLokc1ZgA+6amz1OyMcHkkvuV2yBZEw02kZtieu182a7c//wvX6STModLEepGcF3kA0KNFETtgMjJeX5lGcNxmQrvuTJqxGui/5yIHhi2qkDI13BiphfuQlz3Kcm1GLhvea8fQqmPuVEKUQGVKN6ClxVL9hqB+AnamFK39jqK6eEE9O6joZIXQ==;qQpn+ye6okV6c7XAuYS8hw=="
+secured: "DM+BK3jM2TjRx++myTlX5tCxv5K41V1uZd7qI40aPwym6jdg4wPvPUHSkI5rZEa/4lpnj5tprVGUONzehfc3/ztSaHHsrjrrq3KyKGR1L9OJ8qJ9+eh8rx1lmGuej1F10T9xoqCozZrPjEW67dqjB7lvC7xcR+jKVUtPH39ywheggt+sdCVVEZpsWDSqhWjtnPH/gyKn+UJhEh0Gjyw7+P7NxfEMsY2QERAx4Id9gtvca4tgCxuBKqyH+gmMtOHZHf1LeWL6XLra3ezH96SVH3TRXJvQ8uo6oqH6qgoOGDgYIGZ6JGiCh3mlWrZ+qlTmlb0eUWtoWv74ns2k5QMcuG+66cpmSnFzzCIJCeLhlVGlgxyfBv8E4z2coSzOkHsg;C/h1cajPtJySrRgF+ROkdw=="
 ---
 
