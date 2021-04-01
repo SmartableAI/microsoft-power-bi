@@ -30,6 +30,6 @@ images:
     isCached: true
     title: "Power BI Desktop Update - August 2019"
 
-secured: "wnoco6RaU3NDRulOa5sZkXIGu2klg1Zx7u6bfW7cHqxpQTQ5yPEU/VJR6NHqnAJDBTK0Kdko23AbXzfZJRb3YAdSQwcU+pSGh7hyD4fjDI9H5hsH2XN5t2Q0MJqUml/qg+HwZq+zgCPlIS/JSyF4fqE4Y1N+7SyayYY1us3+sg4WujdM/YK5Pzqvu76sSLljidD68hYjzt3OveGQi4jeMyZUdW6Gxj3u04va5EUGIerz/lrT0aUcv2OezFhAAtBhrIP4kZ6/Z+PD+3wKPZly+9XMImXgiKuaspwjyPj+96h4DWymJ3V39cAy1BI59SwbH3P1yLHC5M6/7dbbzBVgnp6dwocXoJSjEYOey2tC9/xaQlMjJ+HioWZAPmEffAEtfD9EXujL+Vr9UBnE8Y9jH/R6EQuHFi6xONd5y+MjnbciJ1RAz+GQC/Adl+J7bGiS;DDGlw+zzWOHeFGAsH75jpA=="
+secured: "mUdtorBHSWFTlAzdI6kgCOeaWAzJSIRoWtHusFHmvxQsQn/GPE72ant5Vip0qV+O+mtV8NUijP7Q4DoloOxTXRv2+tQHb7/7Ffa2XEDBcPlnIaeSjPYOkBdJshNn5oxq4aRtJqRqRMF/aHuuDqeJ6bHzjy+hr9y1V7NWaiESezALiFsycaLfq1VyBcVoKuxV9JsmnjEFSPEmF+NHJbol7zVIWwwH6p4KTFziCGJhCFjXh+1HJQpl0K9W+r84lTmbO8JLCxDgmVejQI7jq/Iu7eT+vo8H/6M3fR0theQxfofVlSUqVGaCWThPNmTCieXpoJ7GKVcYJjjTQhGkkXzuo9Dvi4JgWlgBrtKA+9AMdGpECNcVVNam59oqoVG5hkGqC3QJA0eaFM+HRcjMiCq1qRAVUPC+S5gXTAG47dyrmYdhm6+SwgIWx8r1S2q4DIK+;Jj8JNs0YqigffDT5a74/Rg=="
 ---
 
