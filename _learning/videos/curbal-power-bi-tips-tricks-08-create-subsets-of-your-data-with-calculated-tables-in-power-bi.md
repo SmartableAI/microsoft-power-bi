@@ -4,7 +4,7 @@ excerpt: "Learn how to create subsets of your data with calculated tables in Pow
 originalUrl: https://youtube.com/watch?v=7TCwcUkAKyE
 type: video
 price: Free
-length: PT10M4S
+length: PT10M3S
 publishedDateTime: 2016-06-14T16:09:41Z
 heat: 58
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "/s4fOOG6wk0hdN6VVqdvZM0lKfaT0P+niD9GIFIh9k2i5qkvktPxHulvnbpSshdrgoqVsA78BAYKahxUdzGWTPO1hn3nU2O0AdQW8xZ124OVwdzj65D3fXEirhYCHevuNE2SAt80WXaPUE+rNL6iybZtQnOry1ayKH7uQZlbNOG5Kz1urOWNMyJv8pH9Py7T4l6N8z66PN+Z5llctL2x+kOTKwbX76w0M8gxayimAdBNUlx6yjigwu406mCebgu8qmcICO+MRPXBf72Gcfut4+Q2dJ/Eo/zAcxjIcbt7XXeeZlF1ARSDks8sIvejlreYilnhzNz8qKTsjphgExcXlhP6zrIcvjMSb2BsIJ7up1Yw9GaP4ueAaDDoDqBJb4nrxuja3rfv+gdIVOL+qCvjTVkS79sPuYTde+iiR1iKfug=;FjUhTQfvBWNDgKTAFHSf0A=="
+secured: "EMJZWTRZkvdfpK6k/tSVVVtyA6WCL541F8Vcio519wwIEy2MOqz9V9e1tyNzZ7/fYilYAXnPmow7R6ACLlhvcykilVRvykNMRnfD7qzqfiqofEuHxDLZd7o8+0oiBzv6ETRtAIm+mji+UJ6ydPXRJ1GWwYc6KJiqFzcokcP1dtKYYEukYK+t3k74R+wj/9HJfBmNGo5q+0gu7QRq88AL0Xvo9bVszbwxzDyiy2jzSB4+XeaMXASTrUR1e0wMw3beU3Q7on0CF7K2gspC4rx7o43CQvdfviA6yxqRJ0U2QFJqhI411m/CLbTgMWwjKa5JCGOpMtkGEjXbQTiBcFpP0/GiMHeLAdGIpeMj7o/VeoUwak3ufnN5ewcbBmB5TCG3DWBil/RtTK0SlN/bMisODcY5wZiGrJyAnYDzf4WEC5s=;Gq1mraNix62d7l6Qy+UA6Q=="
 ---
 
