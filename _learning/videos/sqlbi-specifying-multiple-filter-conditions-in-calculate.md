@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT11M38S
 publishedDateTime: 2021-03-30T10:01:28Z
-heat: 212
+heat: 188
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jyxZxFT_pAY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "GbYK/khvri1QlusNpaJH8PymZUQVP1NKda6iVK/66HRZ/dIQMWUxF8DdhZqhzvNuTEhBYY+4EO6Xi84WGgxSM2n06aJcfDxgNvHvpXww/ob0vO9kKsDeHdQAOMoR55uUyLw3retAFj8zFA5q+9MjeNaDwd3n771OwYZkPsKYlo702wFBUObHhGPIzg+2BYztMOOKcbnwOTehkqS/2rhN/Ek3LeZS5PZfwhS4W3+fN7y2uocCw+pcV5a6whuDVouj/uAANKUmXY843+LVFdGNgwJr7oVfCKQmicEshph/uGH3NOaU0eFBqg2ZxyVH4LbAjotg1iOA3Z9ewm+KdlqTLtVdUhoe/yQTEl8jPfVSkL3O2Jpyzo1zck9q48T7R3trYzb54DT5Q9kiNcknljgwn0Smyhw9KyNJkAVFuYwZrg4=;iHO287S341eernL6pCLpnQ=="
+secured: "rkrpDmkbAX1HwBaMmXVM//kiry+FzpG7s1AIarqcAIG99P1PmUKRbAtFtAI5DDyeG4TUJ2zkLexBSRfy6cbmlzLsChWwUnehbbOF5P2wgYKP8298pYKqD9Qj3m4wkdF4WXeV7Opr6nNNomKYHKp4evBMAk8JFol7KFhzwvQHG2smVbc82V468f3W/7luSAYQc8Lx3g8lHK8uugm0uAktHhx7mDrUKzzo7Jf+OPvPVnrfbTiGnFV/rTRExyvLw0ubnAhjYZeuhH5zKDSauik/Ey4rjoR1FoBohLAREwwO9uw0BJPxk4QdSj2Q3+UPewthqHJeRiVIwryuVzK0MzEzVMLLZDXpg9l2n7kSKnGw/2zL6A+DV9ZnmSGQM0kUcXvRsV5TK/xL4y30k24AHRMSTTTNgaaFcXiRUXn+GwCB7WQ=;Ypuek6W7mbi4LIaqMeEROg=="
 ---
 

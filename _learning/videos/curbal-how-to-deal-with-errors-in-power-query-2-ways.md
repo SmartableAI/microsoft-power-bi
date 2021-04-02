@@ -4,9 +4,9 @@ excerpt: "In today's video, I am going to show you how to manage errors in power
 originalUrl: https://youtube.com/watch?v=OE6DPmKqN7s
 type: video
 price: Free
-length: PT11M23S
+length: PT11M22S
 publishedDateTime: 2019-10-14T12:24:22Z
-heat: 60
+heat: 61
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OE6DPmKqN7s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "XK2V62L0LKc9GwVbXOIHSxPnL1ofryro3oeA5atHetCVwaBZHgcJjLx5IZ96DvVLHJ6geINQ1GInok9XBDJIfyEY9EX0GqBp2LdARSOgjNiOPATL1gTrihkFpZPNv3YJAWhZI8ELZ6HYnzuzALc3lt2c2ar3VoFt6bfna7p2saXfcVWS7Zb7YaiNeohsfcgC26YkcXbeGCeptCxVMbuoO5ZJxWYTx2XVblROdF47ox1/eYs64ay3gKTR6o0tRbx7HC6P9cil8cpAaJb2+ZBJKfhbxg0griWnRAml/YQFNEgDtbuSJe+gkmKTLSImXZwVn370wkZ8ehvJQ5r3R3MtCVllopc4YAPmuhLa6Q/Lxd6HUIt7Ajuj5GVGXIiIb77GUfaKO1JvyBSinhT0C/vXpIIb/Ov5blYUtv1MQOS7tFQ=;2CxXQAoS1yR+8JQv9vOe6A=="
+secured: "boVn52eU7FW3GbfBsgsoqn+civxSaGkAdw823BaiumWuRSVZUKnxNmD7K53gIXduI9OcN/a7J1ky66KF4vhaRZelIQuX02BaSoNNPwuKDrtMNOyxBSReKX64Bd1XqvxXpTWyolZSABLYHw5OmnW6GI/JisQ8GbadVEiI5+ho4pifay/hscw2v+RSdqGR0t0c6041LcVTf8FGzkFdkbFn9WRjV27VWmxcrc2dmqU5LI/1u3a0NOiNBTr0bBhyuthk6iUdDODQ6+jNOzE7Q3MGgdRi2IuCn73HZXlIRjSXGHZQU/i4RRlNDPZIpxPMg/4TGzIrgderGfXSySDR6Ny6owwLDpvm85gqDqeXGwQYCJeVtg230MQxj2kdY/Is1NQAnjMZ3HN1Hpqwv64Vtfz8WFcrdCJG8j+Ej0U+ZyFx/ow=;erMaGWPUlzT3i/0aW/1Mzw=="
 ---
 

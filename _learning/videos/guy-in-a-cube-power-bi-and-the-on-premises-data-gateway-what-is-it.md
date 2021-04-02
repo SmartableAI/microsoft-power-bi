@@ -4,9 +4,9 @@ excerpt: "In this video, we look at the On-Premises Data Gateway. What is it exa
 originalUrl: https://youtube.com/watch?v=WJ5Y4FjkWZw
 type: video
 price: Free
-length: PT5M20S
+length: PT5M19S
 publishedDateTime: 2018-09-08T15:07:22Z
-heat: 55
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WJ5Y4FjkWZw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "UQCKdfLaP0fxpPIE/MxZGGVQkP1cnhMAu0OaCBEvGInux75zacBg4NXaCNj/d431j2+MOlSBkPnhj9vUB/JuoPoJvRE/izNs/AM0joqk0LJgZ0epNmzlmRHc2xtjslgJo51fSO2YWrifxUxmaM0inMSVOSOJMPEdq7oR6/USRYS6RZqZJqiCXmFhBTGdcNl/XLYPWkC3vQVw2ildcwy60FVDn109hucj9uJ8QOQC8esWvltrykmXFb/dNouGqRqyJR/1cPCQoY1OIiZJ44ELVVWogTeRRvkXEax9ktKRebK7eWSGFEtbXPe7y6i0Li1moZcmkQffmh5rLf+fOMyk8XTSXBQ+l03BTuSyxlCDGVIIjwVeZ34Roij5sCBnTuinxgaqbqPkzEygJm7L1zFIN/PAeB7stGc7y8yM59Th9Gc=;ITgY5jaGO52Prk13D3Mwwg=="
+secured: "J3V6lk3s5vBI+EkVOuQpjayVTh8eNnZSj0Y/00goX0IDxsaQTT0qp3lDra1L4DusnJKCVRu/OgwV4BfkhLq/wGQgBT7Mxr4G5BVqTWG4DIcn18l6+Mmh4C40ojCcxTTAL2JHtb/YuaKkP7mHSA3Vat+eH4EVMTg7McRGbUKcEK/dhkLYfmck9R408vpqt8usddlEob7r9LJMFIU+1tX3ifgby9ISRaaKUjHAL0wHCiVL+PEHy/uTqmEZba46HGFsUTrfuluNUgbUOc66arpVP6rF4xmYZ7vy7QPCOTs3ODE3ZAbhRtwdCPaOaXGopLlTOkZ3y6CbV3Ax7UAQ2gAglxdn14v0lEzK9vEytbpio8vQPSAF4BuxMKbnibzsqWkSzdGs88gsO+2tj8fIFyniqwySgzGYhsZ2lcbLV5wfOcY=;c/GIPxVH/d/lco3m5W+daQ=="
 ---
 
