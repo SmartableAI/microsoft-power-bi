@@ -2,6 +2,7 @@
 title: "Role of IT vs. Business Groups in the new Landscape of Power BI / Self-Service BI 🔴 TalkPowerBI LIVE"
 excerpt: "Raul Jimenez https://www.linkedin.com/in/r-jimenez/ Danny Martens https://www.linkedin.com/in/dannymartenscma/ Does Self-Service BI mean that IT is redundant and not needed anymore? Or to the contrary the role of IT is even more critical than before. But IT DOES NEED TO CHANGE! Big time. The Old IT needs"
 originalUrl: https://youtube.com/watch?v=Z964rOw4GZU
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-role-of-it-vs-business-groups-in-the-new-landscape-of-power-bi-self-service-bi-talkpowerbi-live/
 type: video
 price: Free
 length: PT1H17M28S
@@ -23,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "zYhnWeUF5msQ3nOj3mtVC79UMRl4hBqsTHvdoceYpe3IQ2VG9RQPxQz56weMp8bEojW9jT8Pq5SVk4Rk5tj28rdbt26ArD/jgtfvS4Lv8v05yLyDUZzZXx4CdoUCR+wYGTViJxvhJPPXJjrqCPE03Qng6dOHR6nKDTCzewiviexnGghU3ublqRPCxn4Y72gHyTrrAErFN/kG76lY5J6w4TOnGD6Ypb+Lzv48QjnVA61uFEDLDE9+xszZ7hQdr0EQQN8/cnQZQ9lUwRNkNO8Rg4HW/94QemXHDx6c5GxfwdqSjinGRHSLtkjqPq48p9fAjpzSGNGlMRsIaosULPq+Fuk2kkBu2rkr+NPSy6hEt15bypTsNXrsRSxMu+43+2OeO8ndXUKxGmvXBiTCRvJSOg==;2BVLl2d1pkYRvFtvwIMbnw=="
+secured: "kNmDsKnvquHlr+9Go8NgiSgM8tvW4axkNmceHdB3yNfbimje99BzbwIAx466WiRKt2VNmOy5d4gn2c7/X19XbELfU/xahOp8znFRwJrwnUboqDr0ERNras7fykuXDXgE66TLRIClsymtyqH3gwhO1M3I3e3zJnvHvPK6VduwdL2RzDtUSxxuirqc/oEKgW2iZ+kQxS6UEDn2y3HY6SJXlai1WSFl2w0gi6+rXsUW5ZLnyDRQ0NvzvYw4Chrig7Fwoo/ljNiinNCP7WS7RiGU71KBLXH5AjN8osvsMhuf15KsZbdY1gRkK+yUcy539gFu4k/XJR9A1Vu3MuWzGX1TM09g6ZZRZ9qKsTYeXhKiUSnnyoF1Qv1T/QwXo8Y6Enl1;Zkl2fhH342UJhP8tn4PgqQ=="
 ---
 
