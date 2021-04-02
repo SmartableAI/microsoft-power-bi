@@ -2,6 +2,7 @@
 title: "How to build custom visuals without code with Power BI | Community Webinar"
 excerpt: "In this webinar, learn how to create custom visuals without writing code using a project that originated from Microsoft's own Charticulator. Go through multiple examples of building custom visuals to understand how this tool can fill specific reporting needs.   Learn more: https://community.powerbi.com"
 originalUrl: https://youtube.com/watch?v=lR_1n4Jcwww
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/power-bi-tips-how-to-build-custom-visuals-without-code-with-power-bi-community-webinar/
 type: video
 price: Free
 length: PT1H2M59S
@@ -17,6 +18,6 @@ provider:
 topics:
   - Power BI
 
-secured: "We+FEJJKkKGWstXfPSoleocnVm9QsAR7rklCOxpBapE0VK9yhF0wRIMwFb4DVpDE9rWWGMs/Ope7bEzIS6wZtp0I9i4qauTlmloCspE43DiTnyRsHdC0gjc5Q2xvkE8rto07Ib2dyogG73ZalKtB7uhBOCmOW4WVJYimANVuXKpucSNKf9OzraNi94DIVOw/oKNTdxUNxIJf27XjPC6xW4mCxYhWafXb7dTQzK2/PvNEK1upi8RzQ8kx+OEWXDKxjjHhiKiLS/eKF090nHCwjTxyR92wuaKXKASRFZRAlURuRezwglxvkuJWKBhh8uPqqStEn+ZoCBll7Hyez5HAdjaqZEiHcNHjpDs8lOfNbHDFR3LtrZvfKNAfMglnG6LUcmexYGdu/4cUCGjgzuYcyQ==;Vmh+bsmYvc2y99Q0zBB2VQ=="
+secured: "You0Tjb0qmq+IdeRQLHouqpbaA9znPFBPu/zBEvVygO+SZZnq17RMrFvI/YB1OexAvZxOp3l4cEyYM1Wwz4FWKWJX1HKufWFXeu2NlABNUCdRn8liP6eTHV4z5EZZoO7LPasE46suNcTGpnHjS0UVPh2FYQA4cqSZO2jRS0oYzmCbpixMM8gYiFOcL7kVkOWRgbx1mdOTkgny2W/KonL+nOdpPRdtxFDvmX6tCinSlnttS6CejbyiW7vBjQk2sT1vyXZhTJjNAzIeDfVyMEi72j/G7ON+gWk5McrjooaORQtbROZC8eUWHeoilWpwrn+1YpCRY8LZ7ptjZK6OwH/zccy2+8rj1BiUspWtRbwxy1qA8XvwQ9uD9e8gqGAjbn02U8zPpg2LeiK8lMw+Jy4fg==;kKxCN7CHWq7t8vlYT9htUQ=="
 ---
 
