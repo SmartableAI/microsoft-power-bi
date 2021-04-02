@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT1H2M59S
 publishedDateTime: 2021-04-01T20:02:10Z
-heat: 465
+heat: 134
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lR_1n4Jcwww\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -18,6 +18,12 @@ provider:
 topics:
   - Power BI
 
-secured: "You0Tjb0qmq+IdeRQLHouqpbaA9znPFBPu/zBEvVygO+SZZnq17RMrFvI/YB1OexAvZxOp3l4cEyYM1Wwz4FWKWJX1HKufWFXeu2NlABNUCdRn8liP6eTHV4z5EZZoO7LPasE46suNcTGpnHjS0UVPh2FYQA4cqSZO2jRS0oYzmCbpixMM8gYiFOcL7kVkOWRgbx1mdOTkgny2W/KonL+nOdpPRdtxFDvmX6tCinSlnttS6CejbyiW7vBjQk2sT1vyXZhTJjNAzIeDfVyMEi72j/G7ON+gWk5McrjooaORQtbROZC8eUWHeoilWpwrn+1YpCRY8LZ7ptjZK6OwH/zccy2+8rj1BiUspWtRbwxy1qA8XvwQ9uD9e8gqGAjbn02U8zPpg2LeiK8lMw+Jy4fg==;kKxCN7CHWq7t8vlYT9htUQ=="
+images:
+  - url: https://smartable.azureedge.net/powerbi/sites/12/2020/09/featured-image.jpg
+    width: 1024
+    height: 500
+    isCached: true
+
+secured: "QP+s+Ac85atSp7PhJimkberAeDTL+I8Q8+4MWqIHASY4w7Rx8cShQ5UjhHJt5OdUOzsawtN/4JMzvA3NJRHEIphTdggaXIskubrqXSylCuRk4hz2Sx5SxJ0Qa6791+BCIKBPxTw3hfZXBJDk4Wor+/NgNDe75dxY3hqs3ZvP6eJQCCbFcGQocIPx9DZMLEzVV+hWFx7LRfOInoMYZFCi4067jObvFvjKCslHig3b04SE2WpfB3pptC/+hu8bjcMEPJH3lK5q1I37IgA6Y//AffPnYOmXEexEqLiMWjsK9Lwg2mU6Z5Y8qQat14LeqByJi9IEHbzknpinN9bgtQvxFhpJJ5+r0gLV5e7QUIp/GvxAy2bVRTMTgKtGAcADMK4cpKj1PJIdmwqqjo4gv3zLunXkn+R24usZ7YtoP3zVWi4=;x6HnoupzYhQWtyEYY5pHgQ=="
 ---
 
