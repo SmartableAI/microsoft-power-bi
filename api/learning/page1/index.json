@@ -247,44 +247,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-using-power-bi-reports-from-an-end-user-perspective-2021.md",
-      "title": "Using Power BI reports from an end user perspective (2021)",
-      "excerpt": "Just an end user of Power BI? Consuming reports and not authoring at all? Adam walks through how to navigate and use Power BI reports. Jump in and get familiar with reports in Power BI!  Reports in Power BI https://docs.microsoft.com/power-bi/consumer/end-user-reports  View a report in the Power BI service",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-using-power-bi-reports-from-an-end-user-perspective-2021/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-using-power-bi-reports-from-an-end-user-perspective-2021/",
-      "originalUrl": "https://youtube.com/watch?v=TAsUb93r2tg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TAsUb93r2tg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M14S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-03-04T08:36:25-08:00",
-      "heat": 135,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/TAsUb93r2tg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-5-ideas-to-take-power-bi-reports-to-the-next-level.md",
       "title": "5 IDEAS to take Power BI reports to the NEXT LEVEL",
       "excerpt": "Struggling with making good Power BI reports? Adam has 5 ideas to help you take your reports to the NEXT LEVEL! You don't have to be a graphic artist to get there either!  Custom Background https://www.youtube.com/watch?v=0QvovI3aycs  Tooltips https://www.youtube.com/watch?v=z1Z1axRSMzM  Conditional",
@@ -439,14 +401,14 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-3-things-you-need-to-watch-out-for-in-power-bi.md",
-      "title": "3 things you need to watch out for, in Power BI",
-      "excerpt": "In three instances last week, I thought that either I was going mad or blind or there was something wrong with Power BI. It turns out that it was 50-50. Let me show you so you dont go mad too!  Chapters: 00:20 Issues with what-if parameters 00:00 Sync a what if parameter with a new tab 04:30 Power query",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-3-things-you-need-to-watch-out-for-in-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-3-things-you-need-to-watch-out-for-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=9PVYLhznaLc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9PVYLhznaLc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M47S",
+      "path": "_learning/videos/curbal-how-to-make-power-query-comments-visible-in-the-formula-bar.md",
+      "title": "How to make power query comments visible in the formula bar",
+      "excerpt": "Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1\r \r Our PLAYLISTS:\r - Join our DAX Fridays! Series: https://goo.gl/FtUWUX\r - Power BI dashboards",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-how-to-make-power-query-comments-visible-in-the-formula-bar/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-how-to-make-power-query-comments-visible-in-the-formula-bar/",
+      "originalUrl": "https://youtube.com/watch?v=tI-nW3CIXac",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tI-nW3CIXac\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M24S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -459,11 +421,11 @@
           }
         ]
       },
-      "publishedDateTime": "2021-01-25T06:15:22-08:00",
+      "publishedDateTime": "2021-02-15T00:52:42-08:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/9PVYLhznaLc/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/tI-nW3CIXac/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -473,7 +435,8 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI"
+        "Power BI",
+        "Power Query"
       ]
     },
     {
@@ -515,23 +478,23 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-power-bi-helper-version-12-jan-2021-feature-summary.md",
-      "title": "Power BI Helper Version 12 Jan 2021 Feature Summary",
-      "excerpt": "Happy New Year. We wish this be a year full of happiness and joy for all of you. We are glad to let you know that version 12 of Power BI Helper is now available to download with the below new features;  Detecting the storage mode of tables (DirectQuery, Dual, Import) Detecting the connection mode of",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-power-bi-helper-version-12-jan-2021-feature-summary/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-power-bi-helper-version-12-jan-2021-feature-summary/",
-      "originalUrl": "https://youtube.com/watch?v=2WEg64f94Rw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2WEg64f94Rw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M13S",
+      "path": "_learning/videos/learn-power-bi-3-trends-impacting-power-bi-consulting-in-2021-whats-helping-what-can-go-wrong-.md",
+      "title": "3 Trends 📈 Impacting Power BI Consulting in 2021: What's Helping 👍 & What Can Go Wrong 👎?",
+      "excerpt": "Want to learn the 5-Steps to become a successful Power BI Consultant? 👉 Sign Up for our Free Webinar on Thu Jan 21: https://web.learnpowerbi.com/consultant/  In the new year of 2021, are you thinking about creating a side-income or full-time income as a \"Power BI Consultant\"? Then you must learn the",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-3-trends-impacting-power-bi-consulting-in-2021-whats-helping-what-can-go-wrong-/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-3-trends-impacting-power-bi-consulting-in-2021-whats-helping-what-can-go-wrong-/",
+      "originalUrl": "https://youtube.com/watch?v=UPQII8NJN7E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UPQII8NJN7E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M56S",
       "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2021-01-12T18:05:26-08:00",
+      "publishedDateTime": "2021-01-06T21:44:25-08:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/2WEg64f94Rw/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/UPQII8NJN7E/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -542,6 +505,37 @@
       "price": "Free",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-power-bi-quick-tip-the-formula-bar-in-power-query.md",
+      "title": "Power BI Quick Tip: the Formula Bar in Power Query",
+      "excerpt": "Often you do the transformation in Power Query using the graphical interface, but having the formula bar visible, makes it much easier to understand or change the transformations. In this short blog and video, I'll explain that. read my blog with more details here: https://radacad.com/power-bi-quick-tip-the-formula-bar-in-power-query",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-power-bi-quick-tip-the-formula-bar-in-power-query/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-power-bi-quick-tip-the-formula-bar-in-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=G-OHpN1vYLo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/G-OHpN1vYLo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M2S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2021-02-25T14:10:38-08:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/G-OHpN1vYLo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
       ]
     },
     {
@@ -994,8 +988,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 15649,
-            "average": 4.794236
+            "count": 15651,
+            "average": 4.7942624
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1036,8 +1030,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 32064,
-            "average": 4.759762
+            "count": 32069,
+            "average": 4.759768
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1096,8 +1090,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 32064,
-        "average": 4.759762
+        "count": 32069,
+        "average": 4.759768
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1176,8 +1170,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 15649,
-        "average": 4.794236
+        "count": 15651,
+        "average": 4.7942624
       },
       "provider": {
         "name": "Microsoft Learn",
