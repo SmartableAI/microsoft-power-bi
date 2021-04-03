@@ -2,6 +2,7 @@
 title: "Learn Power BI in One Video --2 hour Beginner Course"
 excerpt: "Go from zero to practitioner in 2 hours. This comprehensive overview course will show you the fundamentals of building DAX measures, visualizations, and dashboards in Power BI. You can find the file here: https://github.com/Gaelim/Power-BI-Courses/blob/master/fb_campaign.csv  Power BI is one of the best"
 originalUrl: https://youtube.com/watch?v=DFkhUhrh_XE
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/absent-data-channel-learn-power-bi-in-one-video-2-hour-beginner-course/
 type: video
 price: Free
 length: PT2H12M57S
@@ -23,6 +24,6 @@ images:
     height: 360
     isCached: true
 
-secured: "38VOm0mf3ipQj93pRjzn8DMJx5YmuU4nvh3pEuqeKvCaDXx0GAx81tU7lyn8wLRFHi4rxnT2bc02VvQTzfbRYC/uHY+Yj0/0xwq6c+MIVD+w1MALAt5IXkKPnMuUBNsRvSKAfLD/951A22ASTHOM1/iSG/ZPXbwJYdwiTPaEExs+KAVAyntgecNcx7FTo4eylAbagf445M56MnaSYSLIVVPDUBzcO7qWIlpuKd4WGPIFqtIZSGcjn6nwb18LqUfdkN8N5AHb4WBWd75BziBI4eGp0kmu5j+6pi4/ICri/ilZzIMiE1pCIPBHk0NP8LKao0WdgIghQq9uNGlWStPaEwVUsLoIqvR4WDl+iNf9/f8K7wyACm7SiER4qsgww+ZEXASBIl0hE+BZqsDpGkhoUQ==;Q3vQQnaxzKS/ciq//9h/VQ=="
+secured: "x7LSM8k6G1iVzKh4adyokd7b6aZcft7PaqZ54CquGqNKza8Oo2fIwkBx++9PFofC2aDx0J5q3ZFI7zQa6yNRzxktoo3MuaKXCgRi9lRm1oNn+SJxjdjuwq4PZv8DVLyJH5U9ZGKj2u2ktQyCJypjqsxrQYA3SyKqEZRfYa+aP51PT8zmG2d790o1ewTxMo+0u7xZ25zIAPilM4ESzhFJSPWEiFaj2BohKHEs+G4Pos4hbw5SGTghazYJdkkbQoE7Nj/ZxPHU4t6decGGY9vM0XiHY3a/sqdmNNeh5PG0XAU5hJhKDuqQpy5ttMw78EBPQ+OB9SjRmSmcXloM+XD+3vS84VH6X1/zvEdlaS3OG42jpjquLjlZ6f62IEpoQCCtzgRogO7Fxrb1rk2mknBoAg==;P1vhp+ZDnQRADet7oC0bKA=="
 ---
 
