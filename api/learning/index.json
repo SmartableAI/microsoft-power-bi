@@ -247,6 +247,44 @@
       ]
     },
     {
+      "path": "_learning/videos/microsoft-paginated-reports-in-a-day-25-december-2020-update.md",
+      "title": "Paginated Reports in a Day - 25: December 2020 Update",
+      "excerpt": "In this video, Peter Myers (Microsoft Most Valued Professional - Data Platform, and course developer) and Chris Finlan (Principal Program Manager) describe and demonstrate new capabilities and features added to #Microsoft #PowerBI paginated reports since the online course was recorded.    For more information",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/microsoft-paginated-reports-in-a-day-25-december-2020-update/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/microsoft-paginated-reports-in-a-day-25-december-2020-update/",
+      "originalUrl": "https://youtube.com/watch?v=-7M4muS_3BI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-7M4muS_3BI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M44S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-01-12T13:00:31-08:00",
+      "heat": 135,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-7M4muS_3BI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/power-bi-tips-how-to-build-custom-visuals-without-code-with-power-bi-community-webinar.md",
       "title": "How to build custom visuals without code with Power BI | Community Webinar",
       "excerpt": "In this webinar, learn how to create custom visuals without writing code using a project that originated from Microsoft's own Charticulator. Go through multiple examples of building custom visuals to understand how this tool can fill specific reporting needs.   Learn more: https://community.powerbi.com",
@@ -274,45 +312,6 @@
       "price": "Free",
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-optimizing-nested-iterators-in-dax.md",
-      "title": "Optimizing nested iterators in DAX",
-      "excerpt": "Possible optimization approaches to improve the performance of nested iterators in DAX. Article and download: https://sql.bi/70755/?aff=yt  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/sqlbi-optimizing-nested-iterators-in-dax/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/sqlbi-optimizing-nested-iterators-in-dax/",
-      "originalUrl": "https://youtube.com/watch?v=UtDP8KnWXy8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UtDP8KnWXy8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M31S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-02-11T03:00:06-08:00",
-      "heat": 132,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/UtDP8KnWXy8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
       ]
     },
     {
@@ -376,6 +375,36 @@
       ]
     },
     {
+      "path": "_learning/videos/radacad-how-to-organize-workspaces-in-a-power-bi-environment.md",
+      "title": "How to organize workspaces in a Power BI environment",
+      "excerpt": "The question I often get in my Power BI architecture consulting sessions is that; “How should we organize our workspaces? should we have one workspace with all the reports in it? or multiple? should we split it based on each report? business unit? or something else?” In this article and video, I’ll explain",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-how-to-organize-workspaces-in-a-power-bi-environment/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-how-to-organize-workspaces-in-a-power-bi-environment/",
+      "originalUrl": "https://youtube.com/watch?v=xYszSWidi_Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xYszSWidi_Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M18S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2021-01-18T14:27:27-08:00",
+      "heat": 131,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xYszSWidi_Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/articles/excelerator-bi-my-power-bi-chat-with-ebenezer-from-ghana-africa.md",
       "title": "My Power BI Chat with Ebenezer from Ghana, Africa",
       "excerpt": "One interesting trend I have seen over the last 12 months is the creation of a lot more non-technical Power BI content on the web.  Adam Saxton and Patrick LeBlanc were early adopters of this format with their YouTube channel &#8220;Guy in a Cube&#8221;. More recently there have been new [...]Read More",
@@ -399,45 +428,6 @@
       "type": "article",
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-193-why-is-dax-so-difficult-to-learn.md",
-      "title": "DAX Fridays #193: Why is DAX so difficult to learn?",
-      "excerpt": "Preparing for another DAX video, I came across an example that perfectly exemplifies why DAX can be so hard to understand.  Chapters: 00:00 Intro 00:20 Examples of different contexts 03:40 Do I have any filters applied to my visual? 04:50 How to get better at DAX Done!   Here you can download all the",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-dax-fridays-193-why-is-dax-so-difficult-to-learn/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-193-why-is-dax-so-difficult-to-learn/",
-      "originalUrl": "https://youtube.com/watch?v=KjZ8hxTwXoY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KjZ8hxTwXoY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M50S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-01-15T02:15:53-08:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/KjZ8hxTwXoY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
       ]
     },
     {
@@ -517,23 +507,31 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-how-to-write-simple-calculations-in-a-power-bi-streaming-dataset.md",
-      "title": "How to write simple calculations in a Power BI streaming dataset",
-      "excerpt": "If you use a streaming dataset in Power BI, you cannot download the Power BI file, and you cannot open it using Power BI Desktop. This means that you are limited not to use calculations in a streaming dataset. However, there is a small trick which you can use and can be helpful. I will show you that",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-how-to-write-simple-calculations-in-a-power-bi-streaming-dataset/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-how-to-write-simple-calculations-in-a-power-bi-streaming-dataset/",
-      "originalUrl": "https://youtube.com/watch?v=zxcRfiWWINo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zxcRfiWWINo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M15S",
+      "path": "_learning/videos/sqlbi-introducing-articles-videos.md",
+      "title": "Introducing Articles videos",
+      "excerpt": "Videos related to technical articles published on https://www.sqlbi.com  In the description of each video, you can find the link to read the article and download the sample files used in the demos.  The purpose of these videos is to describe the scenario solved in the article and provide additional comments",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/sqlbi-introducing-articles-videos/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/sqlbi-introducing-articles-videos/",
+      "originalUrl": "https://youtube.com/watch?v=Uby9O-HifmQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Uby9O-HifmQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M2S",
       "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2021-01-13T17:13:18-08:00",
+      "publishedDateTime": "2021-01-30T23:17:50-08:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/zxcRfiWWINo/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Uby9O-HifmQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -996,8 +994,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 15653,
-            "average": 4.7942886
+            "count": 15655,
+            "average": 4.794315
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1038,8 +1036,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 32072,
-            "average": 4.7597594
+            "count": 32073,
+            "average": 4.7597666
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1098,8 +1096,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 32072,
-        "average": 4.7597594
+        "count": 32073,
+        "average": 4.7597666
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1140,8 +1138,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 15653,
-        "average": 4.7942886
+        "count": 15655,
+        "average": 4.794315
       },
       "provider": {
         "name": "Microsoft Learn",
