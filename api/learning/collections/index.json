@@ -223,8 +223,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 15656,
-            "average": 4.794328
+            "count": 15659,
+            "average": 4.7943673
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -265,8 +265,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 32074,
-            "average": 4.759774
+            "count": 32075,
+            "average": 4.759782
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -348,8 +348,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 32074,
-            "average": 4.759774
+            "count": 32075,
+            "average": 4.759782
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -918,8 +918,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 1960,
-            "average": 4.615306
+            "count": 1961,
+            "average": 4.6155024
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -960,8 +960,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-dashboards-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 1750,
-            "average": 4.6977143
+            "count": 1752,
+            "average": 4.6980596
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2328,8 +2328,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-measures/",
           "length": "PT13M",
           "ratings": {
-            "count": 419,
-            "average": 4.7279234
+            "count": 420,
+            "average": 4.7285714
           },
           "provider": {
             "name": "Microsoft Learn",
