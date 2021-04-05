@@ -63,7 +63,7 @@
         ]
       },
       "publishedDateTime": "2021-03-31T08:00:08-07:00",
-      "heat": 219,
+      "heat": 212,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/91D1WrNrHtY/maxresdefault.jpg",
@@ -217,6 +217,74 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-create-your-first-power-bi-report-2021.md",
+      "title": "Create your first Power BI report (2021)",
+      "excerpt": "New to Power BI? Adam helps you get started with creating your first Power BI report in Power BI Desktop! Start your journey the right way!  Guy in a Cube Blueprint Course: https://guyinacu.be/pbiblueprint  Star Schema: https://docs.microsoft.com/power-bi/guidance/star-schema  Star Schema Book: https://amzn.to/38JQJqq",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-create-your-first-power-bi-report-2021/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-create-your-first-power-bi-report-2021/",
+      "originalUrl": "https://youtube.com/watch?v=B_bAKrXAUh0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B_bAKrXAUh0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M25S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-01-21T08:00:02-08:00",
+      "heat": 140,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/B_bAKrXAUh0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/absent-data-channel-learn-power-bi-in-one-video-2-hour-beginner-course.md",
+      "title": "Learn Power BI in One Video --2 hour Beginner Course",
+      "excerpt": "Go from zero to practitioner in 2 hours. This comprehensive overview course will show you the fundamentals of building DAX measures, visualizations, and dashboards in Power BI. You can find the file here: https://github.com/Gaelim/Power-BI-Courses/blob/master/fb_campaign.csv  Power BI is one of the best",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/absent-data-channel-learn-power-bi-in-one-video-2-hour-beginner-course/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/absent-data-channel-learn-power-bi-in-one-video-2-hour-beginner-course/",
+      "originalUrl": "https://youtube.com/watch?v=DFkhUhrh_XE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DFkhUhrh_XE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2H12M57S",
+      "provider": {
+        "name": "Absent Data Channel",
+        "domain": "absentdata.com"
+      },
+      "publishedDateTime": "2021-04-03T07:31:32-07:00",
+      "heat": 132,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DFkhUhrh_XE/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/power-bi-tips-how-to-build-custom-visuals-without-code-with-power-bi-community-webinar.md",
       "title": "How to build custom visuals without code with Power BI | Community Webinar",
       "excerpt": "In this webinar, learn how to create custom visuals without writing code using a project that originated from Microsoft's own Charticulator. Go through multiple examples of building custom visuals to understand how this tool can fill specific reporting needs.   Learn more: https://community.powerbi.com",
@@ -236,76 +304,6 @@
           "url": "https://smartable.azureedge.net/powerbi/sites/12/2020/09/featured-image.jpg",
           "width": 1024,
           "height": 500,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-comparing-dax-calculated-columns-with-power-query-computed-columns.md",
-      "title": "Comparing DAX calculated columns with Power Query computed columns",
-      "excerpt": "Learn how to choose between DAX and Power Query when a table needs to compute additional columns. Article and download: https://sql.bi/439946/?aff=yt  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/sqlbi-comparing-dax-calculated-columns-with-power-query-computed-columns/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/sqlbi-comparing-dax-calculated-columns-with-power-query-computed-columns/",
-      "originalUrl": "https://youtube.com/watch?v=-x2dLTtKiR8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-x2dLTtKiR8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M5S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-01-28T03:00:19-08:00",
-      "heat": 132,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-x2dLTtKiR8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/absent-data-channel-learn-power-bi-in-one-video-2-hour-beginner-course.md",
-      "title": "Learn Power BI in One Video --2 hour Beginner Course",
-      "excerpt": "Go from zero to practitioner in 2 hours. This comprehensive overview course will show you the fundamentals of building DAX measures, visualizations, and dashboards in Power BI. You can find the file here: https://github.com/Gaelim/Power-BI-Courses/blob/master/fb_campaign.csv  Power BI is one of the best",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/absent-data-channel-learn-power-bi-in-one-video-2-hour-beginner-course/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/absent-data-channel-learn-power-bi-in-one-video-2-hour-beginner-course/",
-      "originalUrl": "https://youtube.com/watch?v=DFkhUhrh_XE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DFkhUhrh_XE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2H12M57S",
-      "provider": {
-        "name": "Absent Data Channel",
-        "domain": "absentdata.com"
-      },
-      "publishedDateTime": "2021-04-03T07:31:32-07:00",
-      "heat": 131,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DFkhUhrh_XE/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
           "isCached": true
         }
       ],
@@ -373,14 +371,14 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-dax-fridays-196-dynamic-pricing-with-dax.md",
-      "title": "DAX Fridays #196: Dynamic pricing with DAX",
-      "excerpt": "In today's video I will show you how to manage dynamic pricing in DAX. There is a catch though, can spot it?  How to do it in power query: https://www.youtube.com/watch?v=y3bOyNpJuXc  Download the file at curbal.com - Resources - Download center - DAX fridays - File 196.  Here you can download all the",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-dax-fridays-196-dynamic-pricing-with-dax/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-196-dynamic-pricing-with-dax/",
-      "originalUrl": "https://youtube.com/watch?v=NAyqGFpIdLE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NAyqGFpIdLE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M9S",
+      "path": "_learning/videos/curbal-dax-fridays-193-why-is-dax-so-difficult-to-learn.md",
+      "title": "DAX Fridays #193: Why is DAX so difficult to learn?",
+      "excerpt": "Preparing for another DAX video, I came across an example that perfectly exemplifies why DAX can be so hard to understand.  Chapters: 00:00 Intro 00:20 Examples of different contexts 03:40 Do I have any filters applied to my visual? 04:50 How to get better at DAX Done!   Here you can download all the",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-dax-fridays-193-why-is-dax-so-difficult-to-learn/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-193-why-is-dax-so-difficult-to-learn/",
+      "originalUrl": "https://youtube.com/watch?v=KjZ8hxTwXoY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KjZ8hxTwXoY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M50S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -393,11 +391,11 @@
           }
         ]
       },
-      "publishedDateTime": "2021-02-12T01:35:18-08:00",
+      "publishedDateTime": "2021-01-15T02:15:53-08:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/NAyqGFpIdLE/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/KjZ8hxTwXoY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -442,31 +440,23 @@
       ]
     },
     {
-      "path": "_learning/videos/sqlbi-letter-case-sensitivity-in-dax-power-bi-and-analysis-services.md",
-      "title": "Letter case sensitivity in DAX, Power BI and Analysis Services",
-      "excerpt": "Power BI and Analysis Services are case-insensitive by default. Lowercase letters are identical to uppercase letters. This is mostly a good choice, but it also comes with unexpected consequences. In this video, we run through a set of queries to understand what to be aware of when working with a mixture",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/sqlbi-letter-case-sensitivity-in-dax-power-bi-and-analysis-services/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/sqlbi-letter-case-sensitivity-in-dax-power-bi-and-analysis-services/",
-      "originalUrl": "https://youtube.com/watch?v=xnKWYKBuW0E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xnKWYKBuW0E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M28S",
+      "path": "_learning/videos/dhruvin-shah-format-negative-numbers-with-red-brackets-in-power-bi.md",
+      "title": "Format Negative Numbers with Red Brackets in Power BI",
+      "excerpt": "Welcome to one more Power BI DAX Tip. During this session, we will learn how we can format negative numbers with brackets in Power BI. We know that sometimes we need to represent negative numbers in brackets, and we have a question about how to achieve that in Power BI. We need to create a measure to",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/dhruvin-shah-format-negative-numbers-with-red-brackets-in-power-bi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/dhruvin-shah-format-negative-numbers-with-red-brackets-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=VU-4CH_X-oU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VU-4CH_X-oU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M4S",
       "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
       },
-      "publishedDateTime": "2021-02-16T03:00:30-08:00",
+      "publishedDateTime": "2021-03-04T20:49:21-08:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/xnKWYKBuW0E/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/VU-4CH_X-oU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -476,8 +466,7 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "DAX"
+        "Power BI"
       ]
     },
     {
@@ -711,7 +700,7 @@
             ]
           },
           "publishedDateTime": "2021-01-21T08:00:02-08:00",
-          "heat": 60,
+          "heat": 140,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/B_bAKrXAUh0/maxresdefault.jpg",
@@ -806,7 +795,7 @@
         }
       ],
       "size": 9,
-      "heat": 108,
+      "heat": 110,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Vqz2d7pTOV8/maxresdefault.jpg",
@@ -1046,8 +1035,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 15682,
-            "average": 4.79435
+            "count": 15685,
+            "average": 4.7943897
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1088,8 +1077,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 32094,
-            "average": 4.7597995
+            "count": 32098,
+            "average": 4.759829
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1148,8 +1137,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 15682,
-        "average": 4.79435
+        "count": 15685,
+        "average": 4.7943897
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1221,37 +1210,6 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-dax-code-formatter-in-power-bi.md",
-      "title": "DAX Code Formatter in Power BI",
-      "excerpt": "Mostly we are using the complex DAX formula in our Power BI report. So, we have a question that how we can format our DAX formula in Power BI? Is there any way to format our DAX code so that it looks nice? Yes, now we can format our Power BI DAX Code using an External tool called Tabular Editor.  Before",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/dhruvin-shah-dax-code-formatter-in-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/dhruvin-shah-dax-code-formatter-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=vFCefuS1ItQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vFCefuS1ItQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M41S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-03-27T19:13:30-07:00",
-      "heat": 84,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/vFCefuS1ItQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/curbal-summary-of-power-query-updates-march-2021.md",
       "title": "Summary of Power Query Updates March 2021",
       "excerpt": "Lets review the power query features released on March 2021!  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1\r \r Our PLAYLISTS:\r - Join our DAX",
@@ -1298,8 +1256,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 32094,
-        "average": 4.7597995
+        "count": 32098,
+        "average": 4.759829
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1330,6 +1288,37 @@
       "price": "Free",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-dax-code-formatter-in-power-bi.md",
+      "title": "DAX Code Formatter in Power BI",
+      "excerpt": "Mostly we are using the complex DAX formula in our Power BI report. So, we have a question that how we can format our DAX formula in Power BI? Is there any way to format our DAX code so that it looks nice? Yes, now we can format our Power BI DAX Code using an External tool called Tabular Editor.  Before",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/dhruvin-shah-dax-code-formatter-in-power-bi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/dhruvin-shah-dax-code-formatter-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=vFCefuS1ItQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vFCefuS1ItQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M41S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2021-03-27T19:13:30-07:00",
+      "heat": 81,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/vFCefuS1ItQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
       ]
     }
   ],
