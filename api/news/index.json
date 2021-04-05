@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-05-new-sharing-experience-coming-soon.md",
+      "title": "New sharing experience coming soon!",
+      "excerpt": "Sharing reports in Power BI will be as easy and familiar as sharing in Office. At the end of this month, we&#8217;ll be introducing a new sharing capability in Power BI that will allow reports to be shared with people within the organization through shareable links. ",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2021-04-05-new-sharing-experience-coming-soon/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/new-sharing-experience-coming-soon/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/new-sharing-experience-coming-soon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-05T05:16:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-04-05-whats-new-in-dataflows-april-2021.md",
       "title": "What᾿s New In Dataflows – April 2021",
       "excerpt": "We have added lots of new capabilities to Dataflows. This blog post provides a recap walkthrough of these new capabilities.",
@@ -1202,57 +1253,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-power-bi-on-premises-data-gateway-february-update-released.md",
-      "title": "Power BI On-premises data gateway February update released",
-      "excerpt": "The Power BI On-premises data gateway update for this month introduces a name change for the Azure Cosmos DB Connector, a .NET framework update, in addition to other changes as well.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2021-02-25-power-bi-on-premises-data-gateway-february-update-released/index.json",
-      "webUrl": "https://www.neowin.net/news/power-bi-on-premises-data-gateway-february-update-released/",
-      "originalUrl": "https://www.neowin.net/news/power-bi-on-premises-data-gateway-february-update-released/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2019/11/1573589737_power_bi_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/power-bi-on-premises-data-gateway-february-update-released/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/power-bi-on-premises-data-gateway-february-update-released/",
-      "publishedDateTime": "2021-02-24T09:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/neowin.net-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
