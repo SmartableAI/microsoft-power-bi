@@ -2,6 +2,7 @@
 title: "Computing rolling average in DAX"
 excerpt: "Computing the rolling 12-months average in DAX looks simple, but it hides some level of complexity.  This article explains how to write the best formula and how to avoid common pitfalls using time intelligence functions.\r Article and download: https://sql.bi/698633?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt"
 originalUrl: https://youtube.com/watch?v=ACvYaXnpyCM
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/sqlbi-computing-rolling-average-in-dax/
 type: video
 price: Free
 length: PT16M43S
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "kvL170MZWEU9F5kl3h7xHBvKOE322C4CmYIPL7A1tf1HzG6U3olOkP969kulEa0zrD0NAJQj24MTn7l3K7fEM0gIDzzMy4sLJ3ctWLclCRd+40S5eQ9ytoh+Ekb54eAcCxxoHJfiT1B2iGSwP47HVdlTKbht1YBTBf9X1dL8DnYDzNDVjIMWRf7UVEk1P6xPDHs4EdH1iGx52BBmiR10iK736M6thm+6atxALGzqefRPSF5XSsg+XN/xJlMZPCccGbEyg8wHABNHipE6zBrxwp7hiD3/tW3F/j1fs2Kq7a2bE93PC8tIVhShjf6YhB6R9VpvR+jls4qJl+PovWi47M+e3IlUvxXKCi56vY8IZUBAfdw/tt2vVuNAMJcq5DM+kGT4MP/usfhiZ7TRZ3iBGw==;3XQb0UAcmp7VTN5q9xJuFQ=="
+secured: "vS8xz3TcauniX1xhhr5PqZ6kIQrq058N3qrUPdteB56cdC1u89O0jfDQXJQoUpB9O4MOJh84wvj5votxGgxyzxy/exddgmTfqzKl1lQG8utPhJDOzGwDU0e0nzNhV+jvNu2X3s9PVLiRE5TO4igmqVLpuUMTkh6jm1LKg7LTO0EWBQ57zZs1s5eHwyofC2N6d8kWLaYpeSzlBXsVDnGjdmuJ4iuIoe2IObpJFspGBHpaodXDUf45GgdlJ+Z3uGhfLAzAygWwD3qsjQ3AKX8mK32pWQCGg+oKDpRv1B1weRguu82c+00+n5Y3Kdo6jNlfDFdlsiB9YM2hr1pVD7/S5x0UvjGtWVBRlhVVRhTdNBSreAILuaaJ3IqY7/KeEyXm;ZR5KZOE8rHQ5+n038iKCiw=="
 ---
 
