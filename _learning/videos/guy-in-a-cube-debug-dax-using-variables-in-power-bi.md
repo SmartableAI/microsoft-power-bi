@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT15M41S
 publishedDateTime: 2018-05-22T01:51:55Z
-heat: 56
+heat: 55
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9SV2VnYbgg4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "gc/qJL59ZpiBuqwsuNeEqXrGYhQm+1GZ17ZPXrhSe2WWAUu+ZsQso3HWnX3wiUnIlDSlIrt1a8BgNdNZUxFCIemnadnvht6NKvxLbV6zIIF6x+GLjguPx5IELIdNc4Ms71xusjJ7YEkpodfVWugsmjbIP/F+wHGJLvBnd9G5OCmOnWCi50i7oNieOKP0g6HK4bYNbYOPPRCmwjr+SMsHyH0oDD4k81SrrkSayIjov4/OqGoJ42HVBLgfL8AAZS10XeOeX8IZcYl49doWnSDyZxMP2eHPYvi81ZtPLj7iJsTiIcJWw+LfY/aY+s+PL5MM3SdZzkwSEG+sUgf0wc+IsYzeEEfwGJYJf30eksZS0mgVF62UBG8pQbdpDXhouc+zMNtQajXkCfXKu29Po15D3C53ShKBv7UIr4bntpNUtAM=;fTJcJ5J2iD8b0Hi/NASA2g=="
+secured: "O9iQjRgdR6gkfJT/DUHkjZn04r1f8s5f0Z9YZf+mlmBVcYlkbCOqkPMC94oextOX0dQ0uk5nknffuxs16w1mg2UllWox76xLvR5EaRQ+sg0uLthXZ+hoq0trEAun4wWab6IPb6/l8Go6qdNJ/P6rFAdOb7v0zuSsC3PsDL/oZsL9hCFRwz5bMsUPqmgkwPf4cynCpGq96MB+Os4xIpwOU85pgGg2oTiWlNBYIwV2i08V5GlK5XX2z1WggEDYIMqzKDz66KaJaJJ+AU+OWUyltwcuHVT9XaTlqVfzojULfAL+4q3cpRZOD3W/Affo10GEE+ZF1oA0V/Cl666HwsqXFRTM0igt9wyTzsiKOlePUKtvi1Hbq0Uq1b5CfVhuz1NTAStk0+3QGwR6FXIugUpGFBxVtdvnmJqbymrh3wL8IUU=;o/N43ld4zspkSYVdIB67ow=="
 ---
 
