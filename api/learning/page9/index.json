@@ -1052,8 +1052,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 2082,
-            "average": 4.815562
+            "count": 2083,
+            "average": 4.8156505
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1135,8 +1135,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 3174,
-            "average": 4.757719
+            "count": 3175,
+            "average": 4.7577953
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1177,8 +1177,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 2579,
-            "average": 4.70221
+            "count": 2581,
+            "average": 4.7024407
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1220,8 +1220,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 3360,
-            "average": 4.7708335
+            "count": 3361,
+            "average": 4.770604
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1322,8 +1322,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 2579,
-        "average": 4.70221
+        "count": 2581,
+        "average": 4.7024407
       },
       "provider": {
         "name": "Microsoft Learn",
