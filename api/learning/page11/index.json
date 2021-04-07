@@ -504,8 +504,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 1413,
-            "average": 4.719745
+            "count": 1414,
+            "average": 4.7199435
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -671,8 +671,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 2587,
-            "average": 4.702358
+            "count": 2588,
+            "average": 4.7020864
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -714,8 +714,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 3368,
-            "average": 4.770784
+            "count": 3371,
+            "average": 4.7706914
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -774,8 +774,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-simple-dashboard/",
       "length": "PT31M",
       "ratings": {
-        "count": 3293,
-        "average": 4.7027025
+        "count": 3296,
+        "average": 4.7029734
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -816,8 +816,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 2587,
-        "average": 4.702358
+        "count": 2588,
+        "average": 4.7020864
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -943,8 +943,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
       "length": "PT32M",
       "ratings": {
-        "count": 1413,
-        "average": 4.719745
+        "count": 1414,
+        "average": 4.7199435
       },
       "provider": {
         "name": "Microsoft Learn",
