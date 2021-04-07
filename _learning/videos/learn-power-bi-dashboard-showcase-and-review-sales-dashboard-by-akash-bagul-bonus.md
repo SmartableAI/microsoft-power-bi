@@ -2,6 +2,7 @@
 title: "Dashboard Showcase and Review:  Sales Dashboard by Akash Bagul ★BONUS★"
 excerpt: "To present your own Dashboard on our Next Showcase, please visit 👉 https://www.learnpowerbi.com/dashboard  ================================\r 👉 FREE Power BI Step-by-Step Tutorial http://web.learnpowerbi.com/tutorial\r 👉 Download Accompanying PBIX Files for Video at https://web.learnpowerbi.com/download/"
 originalUrl: https://youtube.com/watch?v=VVzi_yQha9Q
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-dashboard-showcase-and-review-sales-dashboard-by-akash-bagul-bonus/
 type: video
 price: Free
 length: PT8M59S
@@ -23,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "+VpLCH4ZzWh3oMxJoaxondimkHeq0xxCj+4yIJC2T1W3ydcz0qau2lJdNADI6qLpEG3fPuaI0wvwsEo+rlqW/4NjbSiTu64fJow1tz7JQigqYfivnZZjFC9rqrovH8ozPlKsPmr9nPu+dfFlhduql4Kj6a7CVu8npxTk0XSdVF4Hp20pWyrbevPMaUG/Hi8o4PIqPNj7xyVf/awEWSkPg8/o3XEyGXBoXAocxrZlc6JFdKJ6gon3GFrVlar6iE934wl2qt7bkuOTRNcZRxUESEQhJ5263YcV8mEDwzQEgZWCFAVCq8GXbZw2c88B4VqQsfPUYapNtfQc7fZ7hIGISdM4mxFCu+GH2jhToSIEQxoNHMuu2qtolmxGrtuM9AtznMIusNWWv1F4AE329+vx0g==;FLVhNy5mXJq/KTbSi+2W3w=="
+secured: "09zwsJlAUjgHwLLIx0Ei0FQiFM+mR9HGTpNmy8QcIJywSBROiR858NZVPOBm5FR94W6VYpaScwQuQfJZLYK0elnRZhfIKD6JGQHmQ3JDdHg0fGi3D1YMIIj7kjxhiwDy2rdH1KrP1cveEMgJQ9mS71ATVyFKdkEILiKx46y31Kb04GRBOozj18s/gvD4SPgkDGn9VNqAkbcANHXkOhS5thg3i5rULk2oZonDj9ckvpiamfixsDAlrEDWd31bI1LPCyt52gnCc5YTj5AQCYk7z6O9uluDwQJQbKVnoRfc3US8djnY7TZdDZlSY7ftNsQH9BRWOTix5rOuzWk8ciP/U/G3jwhEEIDHK0wsQpQ3GYzIST0yFownKbP43vRj+yZ0;yg7cwf3INCn3PaiwzFFJeQ=="
 ---
 
