@@ -4,6 +4,36 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/videos/dhruvin-shah-external-tools-in-power-bi-by-alex-powers-microsoft.md",
+      "title": "External Tools in Power BI by Alex Powers (Microsoft)",
+      "excerpt": "",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/dhruvin-shah-external-tools-in-power-bi-by-alex-powers-microsoft/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/dhruvin-shah-external-tools-in-power-bi-by-alex-powers-microsoft/",
+      "originalUrl": "https://youtube.com/watch?v=Yj7WECx5-go",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Yj7WECx5-go\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H12M1S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2021-03-29T22:46:34-07:00",
+      "heat": 82,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Yj7WECx5-go/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-drilling-into-drillthrough-in-power-bi-desktop.md",
       "title": "Drilling into drillthrough in Power BI Desktop",
       "excerpt": "In this video, Patrick looks at how you can use the drillthrough feature within Power BI Desktop. He also looks at how you can drill to multiple fields at the same time. The back image can also be changed and Patrick shows you how to do it!  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com --",
@@ -136,36 +166,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/iRJdcZbfBd4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-external-tools-in-power-bi-by-alex-powers-microsoft.md",
-      "title": "External Tools in Power BI by Alex Powers (Microsoft)",
-      "excerpt": "",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/dhruvin-shah-external-tools-in-power-bi-by-alex-powers-microsoft/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/dhruvin-shah-external-tools-in-power-bi-by-alex-powers-microsoft/",
-      "originalUrl": "https://youtube.com/watch?v=Yj7WECx5-go",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Yj7WECx5-go\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H12M1S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-03-29T22:46:34-07:00",
-      "heat": 81,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Yj7WECx5-go/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -557,8 +557,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 32266,
-            "average": 4.759747
+            "count": 32273,
+            "average": 4.759799
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -599,8 +599,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 17287,
-            "average": 4.7100134
+            "count": 17288,
+            "average": 4.71003
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -642,8 +642,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 7168,
-            "average": 4.710519
+            "count": 7169,
+            "average": 4.7104197
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1159,8 +1159,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform/",
       "length": "PT21M",
       "ratings": {
-        "count": 18619,
-        "average": 4.7214136
+        "count": 18622,
+        "average": 4.721351
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1307,8 +1307,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/",
       "length": "PT31M",
       "ratings": {
-        "count": 8208,
-        "average": 4.7446394
+        "count": 8212,
+        "average": 4.744642
       },
       "provider": {
         "name": "Microsoft Learn",
