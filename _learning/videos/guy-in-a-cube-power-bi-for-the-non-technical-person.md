@@ -2,6 +2,7 @@
 title: "Power BI for the NON-TECHnical person"
 excerpt: "Is Power BI intimidating? Coming from Microsoft Excel? You consider yourself non-technical? Don't want to have to write or know anything about DAX? Patrick looks at how you can create a report quickly with just your Excel data and not have to write any code!  📢 Become a member: https://guyinacu.be/membership"
 originalUrl: https://youtube.com/watch?v=S7Fh2l-4jlc
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-power-bi-for-the-non-technical-person/
 type: video
 price: Free
 length: PT15M31S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "jX8NHIDbw5wdB22lseSmLlHbrHZxOqpRMIVagBNLdbirZzX0sqTzTK4LhuxoXKa16DtxJ6Y45gKMvfbKyFKHF39+3Ls7T/rvwB4wN/DkJERgdgZpj9zl5w8nxWY1BNU9vIZA1HJvaSUfXRsXfD9yS4e/CaV/+tzJDxAVtQNiMNIKh+kJF93N2UVsQEgXKJNVXmW8nZjaVoluX7JC3UqpYAke+kXz8kCEnlSsuAtMk+XuTAvO/1mHqXBN7WDGBrbjDG22RvYR6igLq9EkJNOnp00Q6PY1bxInYCVm5rmKIkvwPeFYW17mL8xAsWc95wBpb5mRyghipq1OQeUTlihqrroWMOsZ6olB58EdNO+GyOij0jv5bz/krrIeTb4ut1yxbLkjOhF39N8q6DiRr8UTCQ==;fYbqITe3NjAZ2sSQazUVmA=="
+secured: "TSFVJwJ8aeghtSndiVa9nsOOc1HKfpURRE4PVdf+FRX5OGrDJmGAmk+OLSL880imtqZVtIgfgcW/Ip2SmHdrr/XblmTuh8t4JKS70xg1ad4Du65kVQhmxiqdmCarkvYi4Mmcr/QseTGuuhL8O62qesTKpvtTD900eNKJTEvBh8Zzo6QPTG18ld1tRQSFDZUQ7EbLu8SJMc9A2mvFIkCbUFO6rC1CgxcQQ2LLClz/iagm1kA9bfNxfdf9pgK+UszH+gyPFRQZQEyesQbN+xUZTFUsdwuhk4+3S2lclp+4JVqks6MEeyCu+E4ATH4pngqXTXV9tdixSyuJXmjgEtD3gmu0pBq0j1oTxEKXeSksFCMrOMejMfByqsBcqdWvB8eR8QUih4fzVLoqP/Ld74rQjw==;1yk3YleVDt3qRf+ojFbmtQ=="
 ---
 
