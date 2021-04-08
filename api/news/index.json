@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-08-power-bi-premium-and-pro-get-object-level-security.md",
+      "title": "Power BI Premium and Pro get object-level security",
+      "excerpt": "A couple of days back, Microsoft revealed a revamped sharing experience for Power BI, aiming to bring more easy-to-use and familiar sharing techniques for its users. Then, yesterday, the Power Platform and Dynamics 365 release wave 1 for this year finally ...",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2021-04-08-power-bi-premium-and-pro-get-object-level-security/index.json",
+      "webUrl": "https://www.neowin.net/news/power-bi-premium-and-pro-get-object-level-security/",
+      "originalUrl": "https://www.neowin.net/news/power-bi-premium-and-pro-get-object-level-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2019/10/1571114082_power_bi_new_3_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-07T13:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-object-level-security-ols-is-now-generally-available-in-power-bi-premium-and-pro.md",
       "title": "Object-Level Security (OLS) is now generally available in Power BI Premium and Pro!",
       "excerpt": " We‘re excited to announce object level security (OLS) is now generally available in Power BI Premium and Pro! ",
@@ -1195,57 +1246,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-03-01T21:56:30-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-announcing-the-new-power-bi-embedded-analytics-playground-preview.md",
-      "title": "Announcing the new Power BI embedded analytics playground (preview)",
-      "excerpt": "Today we’re excited to announce the new Power BI embedded analytics playground. The new playground is the home for Power BI embedded analytics, where you can get hands-on coding experience, embed your own reports, and interact with our client APIs to see instant results. In addition, you’ll find there",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/news/2021-03-01-announcing-the-new-power-bi-embedded-analytics-playground-preview/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-the-new-power-bi-embedded-analytics-playground-preview/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-the-new-power-bi-embedded-analytics-playground-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-28T23:00:47-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
