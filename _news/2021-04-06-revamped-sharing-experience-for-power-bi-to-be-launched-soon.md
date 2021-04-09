@@ -7,7 +7,7 @@ originalUrl: "https://www.neowin.net/news/revamped-sharing-experience-for-power-
 webUrl: "https://www.neowin.net/news/revamped-sharing-experience-for-power-bi-to-be-launched-soon/"
 type: article
 quality: 77
-heat: 78
+heat: 77
 published: true
 
 provider:
