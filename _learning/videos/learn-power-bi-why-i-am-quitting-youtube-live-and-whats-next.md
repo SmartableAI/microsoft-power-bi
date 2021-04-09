@@ -2,6 +2,7 @@
 title: "Why I Am 🛑 Quitting YouTube Live? (And What’s Next…)"
 excerpt: "After 4+ years of TalkPowerBI LIVE shows on YouTube... And spending 1000s of hours LIVE with you... I am *quitting* YouTube LIVE.  Let me tell you all about it: 00:00 I am Quitting YouTube LIVE 1:34 Why am I Quitting? (What's in it for you 🙂) 5:42 What is Next?  ================================\r 👉"
 originalUrl: https://youtube.com/watch?v=A7bKQ2s_Kkw
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-why-i-am-quitting-youtube-live-and-whats-next/
 type: video
 price: Free
 length: PT7M11S
@@ -23,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "iNop3AQAo9y5NmR9DYvXZqHJmugX/z7akg1tY53TE17BiFMb4I/x+Zlhx5ggUo2eiCi7ltuvjg/IKUuZELOuu6P5LXF3O821u4VTUTHbp37KbFBjH0V29wVe8zElifQIzsH+6rdLnsf21C3M/NhKkUinkZLJtkty4Hmn1ex1EoSPVC7Iwoa47O6MbqfrWIjmvtAyl6IexkTNfjBnSfwh69KREsxzQSA90ddb7+QmAHoiLyKoFNLxedbOEjS14CKjVHylulDJlwllK3tne1T9/g1EtbLHmlOGsNX10OKWTgasDZ4tCxS3LKljASBi/8V+l81GgWMVhSnz7+kL4vVK6pFN1lzvVeE/yZbUYOW+SG1kTxp5jRbKTu/Jvzg3G4HP9y+6wx0+A6i10Co0tcwK3Q==;bgqBviEevzDRboLoqixyBg=="
+secured: "SUJpgavyd+ZrZYjtkiGmMSg4OGjAcGZ46TDsIZFLkKZBi4GHCc90q1gexeFXtMYvndgTfl28srTH8M4lolJTbn1JtnUwex4syGuvk1pqaFTGd/KeWJ/0eadZPy/5DDvMWfuqdOKEjiCDnCjzlSEjxil8X4m4cIpTBWSKqjCX50djaSQFKGoXtrfrkLlYspg4pOnM8WWKsVam0i2mtdJr/CCieLGmZvodSfD/tDyGmtLXGojXN4JMwjBkIqrShhwW8zG/rohlZA3Z+Alb/h2P+90x4lWkoIs7eavc6dDWDgAW9CC8KGx5+H9Dt+wgnC53fRJV9Dd6QlGNngsBV+3vwpvapFDfRn4MnjF6k0qdiezkwXRpWXlU7yckL/RtzJzp;lni0vqGiWZUUC+trmvR4hA=="
 ---
 
