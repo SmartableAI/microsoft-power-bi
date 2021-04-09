@@ -2005,7 +2005,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -2131,8 +2131,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
       "length": "PT1H44M",
       "ratings": {
-        "count": 1990,
-        "average": 4.619598
+        "count": 1991,
+        "average": 4.619287
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2173,8 +2173,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-power-bi/",
       "length": "PT53M",
       "ratings": {
-        "count": 4582,
-        "average": 4.7274117
+        "count": 4583,
+        "average": 4.727471
       },
       "provider": {
         "name": "Microsoft Learn",
