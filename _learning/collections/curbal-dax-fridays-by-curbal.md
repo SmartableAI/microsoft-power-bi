@@ -228,6 +228,7 @@ items:
   - videos/curbal-dax-fridays-199-using-curly-brackets-in-dax-expressions
   - videos/curbal-dax-fridays-200-calculate-the-max-of-a-measure
   - videos/curbal-dax-fridays-201-how-to-create-virtual-tables-using-dax
+  - videos/curbal-dax-fridays-203-examples-of-max-calculations-of-groups-and-subgroups
 
 topics:
   - Power BI
