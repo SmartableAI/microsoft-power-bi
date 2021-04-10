@@ -42,6 +42,36 @@
       ]
     },
     {
+      "path": "_learning/videos/learn-power-bi-why-i-am-quitting-youtube-live-and-whats-next.md",
+      "title": "Why I Am 🛑 Quitting YouTube Live? (And What’s Next…)",
+      "excerpt": "After 4+ years of TalkPowerBI LIVE shows on YouTube... And spending 1000s of hours LIVE with you... I am *quitting* YouTube LIVE.  Let me tell you all about it: 00:00 I am Quitting YouTube LIVE 1:34 Why am I Quitting? (What's in it for you 🙂) 5:42 What is Next?  ================================\r 👉",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-why-i-am-quitting-youtube-live-and-whats-next/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-why-i-am-quitting-youtube-live-and-whats-next/",
+      "originalUrl": "https://youtube.com/watch?v=A7bKQ2s_Kkw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/A7bKQ2s_Kkw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M11S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2021-04-09T09:00:04-07:00",
+      "heat": 235,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/A7bKQ2s_Kkw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-dax-fridays-203-examples-of-max-calculations-of-groups-and-subgroups.md",
       "title": "DAX Fridays #203: Examples of MAX calculations of groups and subgroups",
       "excerpt": "I publish two DAX Fridays! videos ago a video on how to calculate the MAX of a measure and you had more questions about max calculations, so lets do some more MAX exercises here.  MAX of a measure:  https://www.youtube.com/watch?v=DAvzV-4Li7A&ab_channel=Curbal  Stackoverflow example: https://stackoverflow.com/questions/18247119/powerpivot-dax-identify-max-min-value-per-group",
@@ -209,7 +239,7 @@
         ]
       },
       "publishedDateTime": "2021-01-28T08:23:13-08:00",
-      "heat": 154,
+      "heat": 153,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/-ip7mKUdwRg/maxresdefault.jpg",
@@ -372,7 +402,7 @@
             ]
           },
           "publishedDateTime": "2021-01-28T08:23:13-08:00",
-          "heat": 154,
+          "heat": 153,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/-ip7mKUdwRg/maxresdefault.jpg",
@@ -445,44 +475,14 @@
       ]
     },
     {
-      "path": "_learning/videos/learn-power-bi-why-i-am-quitting-youtube-live-and-whats-next.md",
-      "title": "Why I Am 🛑 Quitting YouTube Live? (And What’s Next…)",
-      "excerpt": "After 4+ years of TalkPowerBI LIVE shows on YouTube... And spending 1000s of hours LIVE with you... I am *quitting* YouTube LIVE.  Let me tell you all about it: 00:00 I am Quitting YouTube LIVE 1:34 Why am I Quitting? (What's in it for you 🙂) 5:42 What is Next?  ================================\r 👉",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-why-i-am-quitting-youtube-live-and-whats-next/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-why-i-am-quitting-youtube-live-and-whats-next/",
-      "originalUrl": "https://youtube.com/watch?v=A7bKQ2s_Kkw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/A7bKQ2s_Kkw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M11S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2021-04-09T09:00:04-07:00",
-      "heat": 133,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/A7bKQ2s_Kkw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-syncing-slicers-in-power-bi.md",
-      "title": "Syncing slicers in Power BI",
-      "excerpt": "Use a measure to filter slicer items instead of relying on bidirectional filters: you avoid calculation issues and improve the performance of your reports! Article and sample download: https://sql.bi/186105?aff=yt  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide to DAX:",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/sqlbi-syncing-slicers-in-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/sqlbi-syncing-slicers-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=oiCVBUQenls",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oiCVBUQenls\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M6S",
+      "path": "_learning/videos/sqlbi-comparing-dax-calculated-columns-with-power-query-computed-columns.md",
+      "title": "Comparing DAX calculated columns with Power Query computed columns",
+      "excerpt": "Learn how to choose between DAX and Power Query when a table needs to compute additional columns. Article and download: https://sql.bi/439946/?aff=yt  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/sqlbi-comparing-dax-calculated-columns-with-power-query-computed-columns/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/sqlbi-comparing-dax-calculated-columns-with-power-query-computed-columns/",
+      "originalUrl": "https://youtube.com/watch?v=-x2dLTtKiR8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-x2dLTtKiR8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M5S",
       "provider": {
         "name": "SQLBI",
         "domain": "sqlbi.com",
@@ -495,11 +495,11 @@
           }
         ]
       },
-      "publishedDateTime": "2021-01-12T03:00:21-08:00",
-      "heat": 133,
+      "publishedDateTime": "2021-01-28T03:00:19-08:00",
+      "heat": 132,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/oiCVBUQenls/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/-x2dLTtKiR8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -509,27 +509,37 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI"
+        "Power BI",
+        "Power Query",
+        "DAX"
       ]
     },
     {
-      "path": "_learning/videos/radacad-visualization-tip-change-to-filter-instead-of-highlight-control-the-interaction-in-power-bi.md",
-      "title": "Visualization Tip   Change to Filter instead of highlight   Control the Interaction in Power BI",
-      "excerpt": "Power BI reports are highly interactive, If you select a column in a column chart other charts will be highlighted. Selecting a slicer value will filter all other visuals in the report. This interactivity can be controlled easily. Despite the fact that this feature has been released in early phases of",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-visualization-tip-change-to-filter-instead-of-highlight-control-the-interaction-in-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-visualization-tip-change-to-filter-instead-of-highlight-control-the-interaction-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=hZib9vuh810",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hZib9vuh810\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M18S",
+      "path": "_learning/videos/sqlbi-comparing-with-previous-selected-time-period-in-dax.md",
+      "title": "Comparing with previous selected time period in DAX",
+      "excerpt": "This video describes how you can create a comparison with the previous time period in a visualization, regardless of whether the time periods are consecutive or not: https://sql.bi/526183/?aff=yt (Optimizing duplicated DAX expressions using variables)  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/sqlbi-comparing-with-previous-selected-time-period-in-dax/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/sqlbi-comparing-with-previous-selected-time-period-in-dax/",
+      "originalUrl": "https://youtube.com/watch?v=JBN-x2duxSU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JBN-x2duxSU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M23S",
       "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2021-02-28T16:28:15-08:00",
-      "heat": 131,
+      "publishedDateTime": "2021-01-21T03:22:59-08:00",
+      "heat": 132,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/hZib9vuh810/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/JBN-x2duxSU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -539,7 +549,8 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI"
+        "Power BI",
+        "DAX"
       ]
     },
     {
@@ -763,44 +774,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-swap-power-bi-visuals-to-add-flexibility-in-your-reports.md",
-      "title": "Swap Power BI Visuals to add FLEXIBILITY in your reports",
-      "excerpt": "Want to avoid visual clutter in you Power BI reports? Here's a technique you can apply to swap out items to allow for more exploration of your data and give your consumers options.  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-swap-power-bi-visuals-to-add-flexibility-in-your-reports/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-swap-power-bi-visuals-to-add-flexibility-in-your-reports/",
-      "originalUrl": "https://youtube.com/watch?v=GnPuU3X74SY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GnPuU3X74SY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M26S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-04-01T08:00:06-07:00",
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GnPuU3X74SY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-get-started-with-microsoft-data-analytics.md",
       "title": "Get started with Microsoft data analytics",
       "excerpt": "Businesses need data analysis more than ever. In this learning path, you will learn about the life and journey of a data analyst, the skills, tasks, and processes they go through in order to tell a story with data so trusted business decisions can be made. You will learn how the suite of Power BI tools and services are used by a data analyst to tell a compelling story through reports and dashboards, and the need to true BI in the enterprise.",
@@ -831,8 +804,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 16030,
-            "average": 4.7940736
+            "count": 16035,
+            "average": 4.7940755
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -849,7 +822,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 106,
+          "heat": 109,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/data-analytics-and-microsoft-social.png",
@@ -873,8 +846,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 32440,
-            "average": 4.7600803
+            "count": 32446,
+            "average": 4.7601247
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -909,7 +882,7 @@
         }
       ],
       "size": 2,
-      "heat": 106,
+      "heat": 109,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/data-analytics-and-microsoft-social.png",
@@ -933,8 +906,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 16030,
-        "average": 4.7940736
+        "count": 16035,
+        "average": 4.7940755
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -951,7 +924,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 106,
+      "heat": 109,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/data-analytics-and-microsoft-social.png",
@@ -1052,8 +1025,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 32440,
-        "average": 4.7600803
+        "count": 32446,
+        "average": 4.7601247
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1081,6 +1054,44 @@
       ],
       "content": "\r\n",
       "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-swap-power-bi-visuals-to-add-flexibility-in-your-reports.md",
+      "title": "Swap Power BI Visuals to add FLEXIBILITY in your reports",
+      "excerpt": "Want to avoid visual clutter in you Power BI reports? Here's a technique you can apply to swap out items to allow for more exploration of your data and give your consumers options.  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-swap-power-bi-visuals-to-add-flexibility-in-your-reports/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-swap-power-bi-visuals-to-add-flexibility-in-your-reports/",
+      "originalUrl": "https://youtube.com/watch?v=GnPuU3X74SY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GnPuU3X74SY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M26S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-04-01T08:00:06-07:00",
+      "heat": 101,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GnPuU3X74SY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power BI"
@@ -1133,8 +1144,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform/",
       "length": "PT21M",
       "ratings": {
-        "count": 18721,
-        "average": 4.721329
+        "count": 18723,
+        "average": 4.721359
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1236,8 +1247,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 32440,
-            "average": 4.7600803
+            "count": 32446,
+            "average": 4.7601247
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1278,8 +1289,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 17347,
-            "average": 4.710325
+            "count": 17348,
+            "average": 4.7103415
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1363,8 +1374,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 5508,
-            "average": 4.757444
+            "count": 5509,
+            "average": 4.757306
           },
           "provider": {
             "name": "Microsoft Learn",
