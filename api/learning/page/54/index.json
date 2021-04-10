@@ -4,75 +4,6 @@
   "page": 54,
   "value": [
     {
-      "path": "_learning/videos/enterprise-dna-where-to-next-121-ultimate-beginners-guide-to-dax-2020.md",
-      "title": "Where To Next - (1.21) Ultimate Beginners Guide to DAX 2020",
-      "excerpt": "DOWNLOAD RESOURCES HERE https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Learn about advanced DAX functions, supporting tables, and customer segmentation.  ***** Video Details",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/enterprise-dna-where-to-next-121-ultimate-beginners-guide-to-dax-2020/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/enterprise-dna-where-to-next-121-ultimate-beginners-guide-to-dax-2020/",
-      "originalUrl": "https://youtube.com/watch?v=n5ymKk9Rl6I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/n5ymKk9Rl6I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M",
-      "provider": {
-        "name": "Enterprise DNA",
-        "domain": "enterprisedna.co"
-      },
-      "publishedDateTime": "2020-09-17T23:00:53-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/n5ymKk9Rl6I/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-12-power-bi-dashboards-ssas-and-ssrs-updates-and-power-bi-ama.md",
-      "title": "12 Power BI Dashboards, SSAS and SSRS Updates and Power BI AMA",
-      "excerpt": "Power BI – 12 Days of Dashboards (@SQLSamLester)  https://blogs.msdn.microsoft.com/samlester/2016/12/09/power-bi-12-days-of-dashboards/  New Combine Binaries Experience (@kpuls) http://www.excelguru.ca/blog/2016/12/21/new-combine-binaries-experience/  What’s new for SQL Server vNext on Windows CTP 1.1",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-12-power-bi-dashboards-ssas-and-ssrs-updates-and-power-bi-ama/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-12-power-bi-dashboards-ssas-and-ssrs-updates-and-power-bi-ama/",
-      "originalUrl": "https://youtube.com/watch?v=zmnzLzRZzPU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zmnzLzRZzPU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M42S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-12-22T09:56:17-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/zmnzLzRZzPU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-20-questions-for-20k-subscribers-thank-you.md",
       "title": "20 questions for 20k subscribers! Thank you!!!",
       "excerpt": "We wanted to say thank you to everyone who has supported Guy in a Cube over the years! 20,000 subscribers is a big milestone. Here are 20 questions for 20,000 subscribers.   1. Who do you work for? [01:53]  2. How long have you worked for Microsoft? [02:34]  3. What do you do? [03:01]  4. How did you",
@@ -1130,6 +1061,82 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/RoiXqlO8X-o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-automating-power-bi-license-assignment-with-powershell-extra-options.md",
+      "title": "Automating Power BI License Assignment with PowerShell - Extra Options!",
+      "excerpt": "I posted a video on the Power BI YouTube channel for using PowerShel and the Audit log to assign Power BI Pro licenses. In this video, I give you a few other options instead of automating off of the audit log.  Main video: Using Power BI Audit Log and PowerShell to assign Power BI Pro licenses - https://youtu.be/oulR910VBrU",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-automating-power-bi-license-assignment-with-powershell-extra-options/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-automating-power-bi-license-assignment-with-powershell-extra-options/",
+      "originalUrl": "https://youtube.com/watch?v=FwPT4QV-o7g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FwPT4QV-o7g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M5S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-01-12T13:12:25-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/FwPT4QV-o7g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-azure-ssas-combining-data-and-updates-for-power-bi.md",
+      "title": "Azure SSAS, Combining data and updates for Power BI",
+      "excerpt": "Use Cases for Azure Analysis Services (Part 2) (@SQLChick) http://www.sqlchick.com/entries/2016/11/29/use-cases-for-azure-analysis-services  How to Combine System and Manual Data in a Power BI Data Model (@PowerBIPro) https://www.powerpivotpro.com/2016/11/combine-system-manual-data-power-bi-data-model/",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-azure-ssas-combining-data-and-updates-for-power-bi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-azure-ssas-combining-data-and-updates-for-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=6hSz6JwnCvk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6hSz6JwnCvk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M4S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-11-30T14:22:57-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6hSz6JwnCvk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
