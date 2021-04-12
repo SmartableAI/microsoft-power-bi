@@ -410,8 +410,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-simple-dashboard/",
       "length": "PT31M",
       "ratings": {
-        "count": 3325,
-        "average": 4.70406
+        "count": 3326,
+        "average": 4.7041492
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -452,8 +452,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-dashboards-power-bi/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 1794,
-        "average": 4.6939797
+        "count": 1795,
+        "average": 4.6935935
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -494,8 +494,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 5519,
-        "average": 4.7572026
+        "count": 5520,
+        "average": 4.7572465
       },
       "provider": {
         "name": "Microsoft Learn",
