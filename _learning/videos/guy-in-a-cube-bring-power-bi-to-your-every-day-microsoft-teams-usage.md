@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT5M
 publishedDateTime: 2020-10-15T15:00:12Z
-heat: 54
+heat: 55
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UbuGmVIOmp4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "YXWaBNx2B5FjY4Z961u/QP6j4hPMvj+JXHXIpb+4Q/JtVeFtEr1ahKtjR3tOl15WshklsD+GcxmQ/6YmTzVXQSzbmrZHvgro76kBrFV0I1RnVDnvM49V7R1GGWcPP1EvV46elg58SojOQf1M0MSDzNOV38ukf36AqZlg3gmU+klL3V7vWgE3jfYWc9l33Pot2+RUhT2alSKmkX9Gr5WjY0MT45HCZKimioxsiqZou8JvyMLQ+YllNotV3+0tqOtAUMUSjfxUBdDUw9aB3YA94YZu786ZjFWVD0m7E5zbNK5mO10qQsK9+bcWwWWicgesg0Q3Okss4yYNsgOwYD7yeslBiA5dstq9Yths7otdxzwQOOX5uY1X0oY84Y/DJFvqwqdyNygzkaACcokjZMk3GTuLkRhE+Z1k1y0mE3I4B48=;4bIjr15Yd/A4UBtXMoUhyw=="
+secured: "VacrEM+RIO3FsASJt7KeJQpheGEV2qrRdy2XC2oXX7sy5ZVDE5ORGt5AJ+hR+QAqjnfbb4n9JXuf57OzamNGfOoEqpI212yaahUQGScbSIavqup6iYyBQPs6piUl289BFGXoBimNTtqeeM+WgJYpt4eYdfPaqgJbgJEsBn68+4zmE5U1HIMaYHqVnrZOoOjRVLFwDytteFPPQgXh7TW2D3CcJ85ymNVnksKk+GERN8qTif6KHoYTqg77ELlyM6CWZvqMyrSxYLCBvogj9zMP0qPh9O5UZD7gcuUF5TbW8wYVDSI7bBiTJGYqzwUwj4BqNjmNCTJNTZ29iIsmG+7u2fVL7FKcX0Pwqc+ZgVwiIHLpijggpPD2GBMthFFVoa5SbNKqHVFhI6JVjkN0zyFS3FMUv6rfQbQWgAaBT4jBVDM=;IqQXhjatDJolcKKXL17qrA=="
 ---
 
