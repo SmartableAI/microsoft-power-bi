@@ -2,6 +2,7 @@
 title: "I bet you didn't know at least one of these ⚡ Power BI hacks ⚡"
 excerpt: "In today's video, I am going to show you three Power BI hacks. Now, did I managed to surprise you with at least one?  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1"
 originalUrl: https://youtube.com/watch?v=VOTVTGsw-x8
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/curbal-i-bet-you-didnt-know-at-least-one-of-these-power-bi-hacks-/
 type: video
 price: Free
 length: PT4M
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "UZPwwUMzTi6hzDFQZXgYNiDICPPLDuzcZ2d2bcmZ91KcgXD/M5lk9FS6mcbzQXxkKiQytWCvVJU1w1DL56mGaMPDG/gvvrW57wfuOz/i3/RzBfEADY1s7i+fpm4y4whOY+/EzVLJSJqXVljJM9VyLXWDSNPTkb69QkCKMymgyK9MF5Ep6UxqGSvBSy6810Aa7NRk7z3NwdOXan4TY+ama3JXc2htgH22EaXSw5WgjJyTlT1UEnNYzF3dfiwhvIa32PtGcPvhr6bqOkW0av2ymlSr41UvJpHVbIPLL2tr7bBJWn7f9xgoeRYZpdE7wSoFQwUnMjNklfFE6un3BRlbSaEhVE+yodoI4O7Z8ZS08dYpvdyb8r72+XnlMGqog7lqv4TLty72ttIyZEvzuNNG8A==;20RT6mxfZEdlIY/BopFo0g=="
+secured: "8sX7Qs+eNEEC0pxxBaXTlk9nLvks/loH0EVOj8j2UtERuNBo/Lw7KAvP1v4lxuhrFwDg24xiElqUe0yr8ESDKv883Bmq3mWBejgQ65x3f+QYoygimLbpY8IpJLOFSArjiqLsV/Uaq1aGJJImLlpbaN4Rm4LBueNnLu60GpFNehbR7OF+tWRN8pIhZ/eLwUfsLerN+np+YKzy0gZmgj6LRs8ubobJmTsHzzB2D+/giFRuyunIn1ytMYwItLam+9MgBUYgNNxfQvOOwAmWO+RkcAiR4wifxV7VGZYY30Q4DGZPykbepmqggKTG46BtWzGVqeRG53LY2qzfdMAJUZw2FzmgCBNUDsUEDx4mzwAFVGh34HzM1CKimQW9xr/QKVD7;tZ3W402fJePogvwYdhgeSg=="
 ---
 
