@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/join-us-power-bi-summit-a
 webUrl: "https://powerbi.microsoft.com/en-us/blog/join-us-power-bi-summit-april-19-23/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
