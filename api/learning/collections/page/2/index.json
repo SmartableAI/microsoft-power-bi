@@ -894,8 +894,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 4909,
-            "average": 4.759829
+            "count": 4912,
+            "average": 4.759772
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1820,8 +1820,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 2623,
-            "average": 4.704537
+            "count": 2624,
+            "average": 4.7046494
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1946,8 +1946,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 1583,
-            "average": 4.7732153
+            "count": 1584,
+            "average": 4.773359
           },
           "provider": {
             "name": "Microsoft Learn",
