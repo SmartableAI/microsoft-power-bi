@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT9M19S
 publishedDateTime: 2020-11-18T16:00:04Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Q82yzcfkqAc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "0hEadX8R53S4GF+meurrWjPkJgGBlafiJ9xf/tD7aCGVUq5loEwmt8wQthTlU3B38YvHgixw/6P0h7jdazPT0Bg9/nnk1H7y9v6lmzfuIYyBJkBmlvJBiyPFVsYai1dYboZQTtqz2gW1ggGGH8F9PfnskGZJrBZUorf9L81js//W1pcD5WM9tFm4m3N0rRLABur+EkyMkL8Lux0FXFT/R4zfIGFnMHsIrirG/kA7SlnYbKjE3xfigHiNouKLMWDnutyBRNB6uM7w3i7Hu2NFTrSG6EBIC0pGQiX+pcjbnHRtHonQuDLiyozRchQ3vR7ObeJcfUCXjAR3u4IkoJeA+mZ6erQtFzHeYozi9nQUziV5x1sdLNozAza4a80bcDi0W47GG3xPmdWrdZBeO8Xa5JUNOccJCENoQOmbzsNrCe4=;pcO5v8OMGwBqUwxECCqUWQ=="
+secured: "+pUBlJV8g+/jeuFRF2763n8y/vA3UU2ZjeRS5SwmFPXVTKeVxFQVmUC3vrr8chJH+6bwU+AqXgIyX/jAXglo8mK9dkarkDiAKaXP4HpWe5/kyciNGVXEbjQiwVCJlWF/FkM5JMrEBORZ32POYND+lSU4+9dNmUJDdSErmFudRluK7KRRF6MtcihebF6wVPqgL+xL5yRNnEpqtEpygcDdzG3w3XXOo5453gD2t2j2PLS/sutbtVnr+DtT+wUZzkFKCxtA5YniY78VLM2qU3prjtdZlr0RzDLlaEfXt/wTSnkn8MrwrntDaX17offHKFFNgEKhZrBi0CqOyDblfvvhujcIpvmOvhcZWzTYr8TjBABxqsZy/Vi8TPqyjuNzX/2ZSZYtCgD0rapQbNzHFvg4kClaoMMndqg/kGtsrq/R7Nk=;Dl/M1sGAUZjkVRlPgtCp1g=="
 ---
 
