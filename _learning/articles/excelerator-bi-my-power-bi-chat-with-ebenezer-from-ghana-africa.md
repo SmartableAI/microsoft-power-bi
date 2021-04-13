@@ -4,7 +4,7 @@ excerpt: "One interesting trend I have seen over the last 12 months is the creat
 webUrl: https://exceleratorbi.com.au/my-power-bi-chat-with-ebenezer-from-ghana-africa/
 type: article
 publishedDateTime: 2021-03-31T01:34:13Z
-heat: 80
+heat: 50
 
 provider:
   name: Excelerator BI
