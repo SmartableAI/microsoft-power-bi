@@ -8,7 +8,7 @@ length: PT2H40M
 ratings:
   count: 2625
   average: 4.704381
-heat: 57
+heat: 58
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 321
     isCached: true
 
-secured: "O5IFN0swRdOM51PqX4mug1UWLXMVPdkaUePHcLUsqtyEPX4TzPK4u/fOCq3j3/qfwISTe+oJdZeMboITaNiq8sf4Bd9ePXttibq9icI5S6+6JmpMX6GUiyx8kgX+3tzkctgomE9i/QXoKMVWorEcZAdK5ZA2c1xTHQfsuWpXxTFAJa06eL1FPNCULH3LJOTYYnuSWfTqg2VltO5TeFSdHYQJQsnUyEpkbte2sXMYY6pucZnuF94YCLA8iGqvtcHvbD74+Y+YNIJwcLRbRXidl8Iujn8/iI3xmQIx5gX22jT6EWYLVq/kPZRp0eyFPUNcFMkU7IvFjB3K34FOhKNobuBFRS8epje67Ma7BsMzrsPKQo/T+5NMbCo+knl35qfC6EuacDYpjen9Tq6Ty0SSeanRw7qnZDI+Bx3EaMCKHyg=;u/tDNs+1YR3PxHHvMr0wwQ=="
+secured: "36MWQMWF5Z9ILP/VsoQD8nKyA86k02cpGTx9Sa7W1Loo6TinDjebpATf+8kwsl+4CJadvxxcNDrOgMbShMdsBv9MwaLX8QyIElypK6CaldVejiFUbj8bJru3xZ3Q8nvWg1TWJVj0K2jD/VKD+nUc+NLbwp7VdXYwQl0OnePCB+mn9EnTqrN46K8gipJVhj+CJE5pQjeN05k40xndXiHf07Nt6j98wxndhi/ugFfHgGgGaFXkeAToXlXtoFKnxvrBiHx7eETBZxoDgRrBZbjDh5c6MoVm69RMwGqUvYueFE7Mlmi+6+wJqZY/5d83nriCLHykJw4/O7YYmdVZHN2Qy+bDu1kMKhHn1v/3rGaYibibL9joGBTAC4t326Y+xwJHpPrzwFB1ybLd2iwHgiiJtDLlaZxSNiQExpRNO//fLSQ=;PFaXjVl4DypWN5/cWAarBg=="
 ---
 
