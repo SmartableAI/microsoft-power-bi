@@ -2,6 +2,7 @@
 title: "Mastering Power BI Bookmarks"
 excerpt: "Want to get the most out of Power BI Bookmarks, selections and buttons? Adam goes through the options to help you master bookmarks! Taking your reports to the next level!  Bookmark Documentation: https://docs.microsoft.com/power-bi/create-reports/desktop-bookmarks  Download Sample: http://guyinacu.be/masterbookmarkssample"
 originalUrl: https://youtube.com/watch?v=xCMqWEvSkAs
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-mastering-power-bi-bookmarks/
 type: video
 price: Free
 length: PT12M5S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "mrfJyCsH6UwfluuwBmHqLc0XR8cmc1zGXWDy7mn+e7HTYVCTefVHuGudEJt0XnQ2HJ5hdleFdJMW9YnvFsM1viPTWXXMhwz032FPBfZgK8+5LTIW/oxQ7RGR42XEPNP9d15M8ekubSVYusSDkM+xwOr33yQMIWvJhfCMK3wxrgrp+MTeTJtq1uX1UtzER3va72K3b5r8nBJ2YK8fE1W8jxH8LXeAccjLxVPZGZ7bfl4HSXhf0/K5/OyueYI4NOlsSQJAk4gaYoCJBiYv4YzGRsOEv7utDvQc8Yt18MdSXCoG7oiybXY5cWgFd8JIPqih3J6PVWhqByOIs9RYTBDg62+JsIdSMN0HYWd7QvNMeWoTO4BL4HIbAMnomCi1hG5JWQB5ldfh2pBpuknj2FEVbA==;0dPcKu68uUNRjd9KrYGTyA=="
+secured: "MBN+yirXrvqDjHAid09baNcgVySwKgmbhmu4xfoJYQV4RI2C4IvP7Qd4Jl+2luC96rfv51LiOF8SxAHiiXQprxpGnIcH3fTokIRyGVHk+sBmCxFkDqV0++a+b6SoVAsq1L9ZGKwYfss7TeDbee19A3noqLDHOj2H7sIrdlmGe8HVXeto/Sf1e6ptC04zhWRMjY7F4E/vAxFeO1UyZURSKt1uRSHndK4bO9/vRQYy3znTykiWUpWl1FLIH4UTK/tkP1f85e/zQzkOc/MUmIg7+WEnX9efvmVCC36EwfwW5rtGThWzGdczCgMK48c7I76U/eDnJoRb3NJsvE29NXqo5QnxtGOmhIdxr8CMhm97Rb59Up9PylF5xILnrYWH0UouQXy4dj19r7uQRONoavtP3w==;QtXuB7T26QhDX6bQVJzCHA=="
 ---
 
