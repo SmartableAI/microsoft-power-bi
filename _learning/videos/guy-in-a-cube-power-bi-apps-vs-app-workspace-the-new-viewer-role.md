@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Power BI Apps vs App Workspace (the new Viewer role)"
 
-secured: "hRnNis4WRAHFwh3H7oQfeAqjEH+OjjXku7R7br9sGQTgA9aFaD3jLnl6UEAuF7/3D+lxanIiD8UlSYm7yBRFUq4p8L/hErzTaJU/hpnSBaOfVYBpVlGTGGcpvf/v0MKa8v4mjprtHG/yyMpnUtfZn8lHqvYVEQw1e+VNF1YWO0b50qV4xd4LA6RyxLxeHhMyqm/CDaMO5YQFg3yQfM3TwOVJpen6FyP2cDtM/ciCjXkcps3QJZOVfL/fmcjcNGcyORDtzpTOOahS06AJy78WxKEe+w8Pq1cMpHYzkm7nycshjYOzyyUrjVYNQE+tAzej+v+3cFTtxladgTqqvJYv40giVJWlkbMMhW/KCUbgMZ5lZSnbB0Hvt0e51cV13qCQNyTXX3z8e3ArZjf0o50pigLNkW2heja+4zcR0Qtb1Ec=;nVp8NzVBbHXE89IX8EX4mA=="
+secured: "2a+5YsR/YMMYd3wp9SvpUfIBCKiE4a1xRdNLK4//UqB1ZM6ZarwKWyw5/KnJmSK7s4zSyn5VfFKLUNHXa2HxDHRJ+MNEn3YHw4I5LMN1BSP/nP624OuLe7z/ubQ0rDRy9eSLLhx5vq4kXutpTbnqUJtaows++88G1kaSHqcLuI0w9m1CCsr4Qw2lzqt/ozR6KYMvoqFJt9Lg86Pw8BnA90lmZylEb9xCIrzHy+GLi00asGMm8p4cK5oeDhj4cPlmg9u7CeQJNqMmAeiC/cTbd58UGTkkt6QJkGIll+KXlId2aEEUlidhLQlaHLDhq+AiIrq+jKm9cJZKbShCIY99R9EfUsD7R28IQAjG13sRtAlKu9jJ6Q0DasX3FvRuq9vzgY0EjW9QW+acvMg/tRVz/hY+/TAO5aY2K2KqPVLI3jQ=;X42BUJ4n8DgfmVYyHlg4dQ=="
 ---
 
