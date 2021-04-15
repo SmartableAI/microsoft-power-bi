@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT5M58S
 publishedDateTime: 2017-06-20T13:39:07Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/G7Qkgg4hwMg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "GLbkvtNLHWxVG9P9ip36xZL/nvCOBHuhO4DS/DtmgVjh/4C5DAdq+lKY0S2OVTcB3LG0UCSyuHHq0g8PR6pT4fCtfB0rmFVGt57X7/w8T7Z/g8e4EQwFFEU3EL9RrN3vZHXeVi2AZaZucYa+PD+1tRJhoAKQ35s9OvtqpwP0M83UKZSEPCf/kUdxJH/aIfKAg3PZTMv1Z3k+bBw48FGZclkd6tvzwnqvPLmAAaHv83okdh7RfJ6hngzCycDTTV+J4pZJwaxs77paouw+tqFIxn+kznzjSN13ifnRsVEC7FJLvS61oV71wkCj61fQPHrpJBczcHR8YLEqvAtfQvx8OxNTyugEjgHkE0cuPMEpausvwMICHPLgpzZZQLOWVtJCfSDYx/shlgd7M2w2CofVE3CmElXTWvrMQxSJ4Vi/7aU=;GEa3rN9wn6wOjKglxoh+wQ=="
+secured: "Tr630G/W/mtBC/SmG/zaVpvuwvLs4bq8LA9ya3U1pXww1PZzfEWg2QhSUEq4eFT0GIAmILfR5GfcHjwZuQLhRwmrxdRlRBufPdj9rIYQK9pi3ZtYVOiuWVPf54Xzdel+dBbUCW7hA071Xe+zWEZ7fWOJsp7mdB9MYpH9hXBCXu+tKe3Gtre3SOIWNy+pf48U58FJb6Hn0KuSJFRItMBst1TsrwQG/OGyOVg8adXzQm2ulm6v8HSfHvWXM1LeE5J6dq6HVkj5y0UuxEvvSjdkSTISky5ZKzVY78v1TXDLn+1lBIXYIYObPx4bQogysX+scR5JfTkuEqDqlY7rz41arKiL4ZW9QD5nmeLCLkQ89wR75LKuXnUXTRZA3DNtC7cbLlXM/nJ8slinSzUTHjmrhDm4dU7ho0E801B3PL5k9+4=;zwpplZwI01jjtIehug4X5g=="
 ---
 
