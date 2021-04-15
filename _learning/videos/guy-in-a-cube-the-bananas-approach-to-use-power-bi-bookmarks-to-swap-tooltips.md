@@ -2,6 +2,7 @@
 title: "The BANANAS approach to use Power BI Bookmarks to swap tooltips"
 excerpt: "Have you wanted to change the Power BI tooltips dynamically? This BANANAS trick allows you to at least switch the content of a report page tooltip to give you more flexibility and take your report to the next level!  Download Sample: http://guyinacu.be/swaptooltipsample  📢 Become a member: https://guyinacu.be/membership"
 originalUrl: https://youtube.com/watch?v=r46kUh40SN8
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-the-bananas-approach-to-use-power-bi-bookmarks-to-swap-tooltips/
 type: video
 price: Free
 length: PT7M21S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "ydJJb6sF9Zcaho2XWdEgWnZ1pAxmpq9Ii3QwDHAivG5hvu5LbeNKDMM3lVVnYDXU0Cuh00C8BazJ3L4RLqLWqm56vl8+34lHTJfCn287xTd2ifyWMC+G+4d63Eoxw39Xmwy/TUJHxVBx3q+VOhA6onSh8f61N2y5B7pDN+GdpdnrNgK5tDy+ceE1gND7vEVOowE+GiV8cJ21M5CS4fQxNxiZzykBm52xIyJNB1RaNjSl5c7jF2SBx/6xtgCarmfW0//I7vGbitA6G54vEdjfYWjlmoQZalA4agn87jYZ5wzg4v1EVi8Lbg/+cTrJNMhot5BXP9dbtbQg17ok5HuqN3aywjtSHGsxY4nuSBcY/asypdCETmDymypiI70F7MSABDC7ekuhNH0P/SuSkRvwyw==;kvZbp5cKYOUbKIVVBy1kYg=="
+secured: "tcWDt0v38cRC1PLLnSs5aIouXdqe54KdOaIxtx3RJozYA25Q2VxjiHZNzej2Yq09GuNNnk5QAEHuLJ2aDiuys7m4C18ljh7bJUejyQ1Y+Z2K6qk0sv5+6mXY0muFWIxN/g5lts8TS0GG9iNVdP35n9KtukaqRh+reyS8U1MUpjLmTJSksBJAtCgcIWJaCuyo/btZSl/nXGTmECmfMQdE8pkZ8TA80JjZNf2J1hYoFg31U7VGRkkrjERMyHxRBApEAIIhWIlCtA8W6WqOKUOLWjQqy0No3M4Qm1c2st2DVxwW+7wgnuJA4cYYnlEVra2KlqsnZRGUzuiUJbcuKI4hcuPjedZN0HW3VSIrsde4+lXWrDln7CcsSDsxgP7dhnUIDpStARkFqge5PKZw0725iw==;QjK1jgdpVkrosZbzJ8lp/Q=="
 ---
 
