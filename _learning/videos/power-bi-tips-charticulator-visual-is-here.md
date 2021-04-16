@@ -5,9 +5,9 @@ originalUrl: https://youtube.com/watch?v=afGc6-wFyy0
 webUrl: https://smartable.ai/apps/powerbi/learning/videos/power-bi-tips-charticulator-visual-is-here/
 type: video
 price: Free
-length: P0D
+length: PT36M41S
 publishedDateTime: 2021-04-16T01:40:25Z
-heat: 137
+heat: 194
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/afGc6-wFyy0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "CrUUjkEb4/+93MEdkyM5m1iV0o9YCvy3xfAimt8h7r0Zn5w42296toyQ+kx8+QwyQJ2rBQRJDy4ABC0ulcGNckYKzHX6l48ByY9jBoDOGTWi3W4ffMwjiHSRJgYTFOxTYMZBaWpLCL7BAlERV3zM7U5Ez3OuB3BowKSc8oYkThOwzvjbuf5yPFDwNmGSH9iYnosz0zlXRxJ68hbBN0kvOZ/WFs42cJK8r5PaHapiRTvXVM3NJzRXaYROafNOb5e2NTTw4zxLw0vfnmUKWYrr7LoWj061fspR2S0G0s/sUO+zN/JJK25jZtz2M4zuutwdhKDDEf4dbTt9U6b7BAz3j0iLOv4OKnWwPtWNksdOeoNyTkokm6shzx0I453Xi6Ir;XutvMaOpS1NWzorWerT7QQ=="
+secured: "vDUXOUXvVdOkX7O8OOitI6iCWpIrTKm5WbpJ6zdpEkiKWmVNdhbS5+/x6RTz8EiHwN+zWtlNNS6nVzgn0IL6Jsx1KcWwda8plG15FPTJTs/QjX4BM3aACitFinvJ6T5Mzq8LYOHo350aZ1LhutWFUtGgbogrKFtmPfgT7kKnKPXLqzVvopalgRG99VQQmtnNebjpQBoxhTFjK7ku0Iu9/1Ln55TRB8LPlJBPYWPYtivDLk7t29DY3Mib86GqREwdJWYbJPaLAkqYX/BvEvl1+sBZjKRcSDHyh4MdQ4R/grhM00FOXMbtj0qT86qzHwimo1qB8eWrRlLkOEpYu8CUOunI1hyqR7d2SuOBdk2JFqlAzyA8CW57EeN/Js2Zw8AmuQZjD4soNA830LuOYj6Ay+SIEJDIiWpaWdlnrpGqNdw=;akvGGz4SQ4Kr7M9W47ptcA=="
 ---
 
