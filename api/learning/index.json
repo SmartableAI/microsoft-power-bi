@@ -216,14 +216,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-why-power-bi-loves-a-star-schema.md",
-      "title": "Why Power BI loves a Star Schema",
-      "excerpt": "Are you using a flat table in your Power BI report? You may be missing out! Patrick explores what a STAR SCHEMA is and why you should be using it.  Guidance doc: https://docs.microsoft.com/power-bi/guidance/star-schema  DAX.tips: https://dax.tips/2021/02/15/visualise-your-power-bi-refresh/  📢 Become",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-why-power-bi-loves-a-star-schema/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-why-power-bi-loves-a-star-schema/",
-      "originalUrl": "https://youtube.com/watch?v=vZndrBBPiQc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vZndrBBPiQc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M10S",
+      "path": "_learning/videos/guy-in-a-cube-handling-multiple-fact-tables-in-power-bi.md",
+      "title": "Handling MULTIPLE fact tables in Power BI",
+      "excerpt": "You've got multiple fact tables in your Power BI dataset. And, dimension tables for each. Struggling to slice and dice across both? Patrick shows you how to deal with this mess.  Understand star schema and the importance for Power BI https://docs.microsoft.com/power-bi/guidance/star-schema  📢 Become",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-handling-multiple-fact-tables-in-power-bi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-handling-multiple-fact-tables-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=TnyRsO4NJPc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TnyRsO4NJPc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M2S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -236,11 +236,11 @@
           }
         ]
       },
-      "publishedDateTime": "2021-02-24T08:00:32-08:00",
-      "heat": 151,
+      "publishedDateTime": "2021-02-10T08:00:06-08:00",
+      "heat": 158,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/vZndrBBPiQc/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/TnyRsO4NJPc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -314,23 +314,31 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-day-of-year-and-day-of-quarter-dax-calculations-for-power-bi.md",
-      "title": "Day of Year and Day of Quarter   DAX calculations for Power BI",
-      "excerpt": "Power BI has some built-in, easy-to-use DAX functions to get the Day of Month and Day of the week, but nothing for Day of Year and Day of the quarter. These calculations, however, are very simple and easy to implement using other functions. This short blog and video explain a method to calculate those",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-day-of-year-and-day-of-quarter-dax-calculations-for-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-day-of-year-and-day-of-quarter-dax-calculations-for-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=ulT8HtF4gT0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ulT8HtF4gT0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M23S",
+      "path": "_learning/videos/sqlbi-comparing-with-previous-selected-time-period-in-dax.md",
+      "title": "Comparing with previous selected time period in DAX",
+      "excerpt": "This video describes how you can create a comparison with the previous time period in a visualization, regardless of whether the time periods are consecutive or not: https://sql.bi/526183/?aff=yt (Optimizing duplicated DAX expressions using variables)  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/sqlbi-comparing-with-previous-selected-time-period-in-dax/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/sqlbi-comparing-with-previous-selected-time-period-in-dax/",
+      "originalUrl": "https://youtube.com/watch?v=JBN-x2duxSU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JBN-x2duxSU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M23S",
       "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2021-03-03T20:10:39-08:00",
-      "heat": 132,
+      "publishedDateTime": "2021-01-21T03:22:59-08:00",
+      "heat": 131,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/ulT8HtF4gT0/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/JBN-x2duxSU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -345,42 +353,45 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-dax-fridays-195-53-dax-best-practices-.md",
-      "title": "DAX Fridays #195: 🔥 53 DAX Best Practices 🔥",
-      "excerpt": "In this video we are going to cover 53 (!) DAX / Power BI best practices.  Chapters: 00:00 Intro 00:40 DAX Functions best practices 03:00 Error prevention 04:00 Formatting 09:00 Maintenance 10:30 Naming conventions 11:45 Performance End!  Here you can download all the pbix files: https://curbal.com/donwload-center",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-dax-fridays-195-53-dax-best-practices-/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-dax-fridays-195-53-dax-best-practices-/",
-      "originalUrl": "https://youtube.com/watch?v=UwXFgivmqfY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UwXFgivmqfY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M18S",
+      "path": "_learning/courses/microsoft-learn-build-ml-model-with-azure-stream-analytics.md",
+      "title": "Track wild polar bears with AI",
+      "excerpt": "Detect and track polar bears through photos using AI, then use Power BI to show where polar bears are being spotted.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/courses/microsoft-learn-build-ml-model-with-azure-stream-analytics/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-ml-model-with-azure-stream-analytics/",
+      "length": "PT1H20M",
+      "ratings": {
+        "count": 319,
+        "average": 4.6802506
+      },
       "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2021-02-05T06:59:06-08:00",
+      "levels": [
+        "Beginner"
+      ],
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/UwXFgivmqfY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/build-ml-model-with-azure-stream-analytics-badge-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "DAX"
+        "Power BI"
       ]
     },
     {
@@ -755,8 +766,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 16395,
-            "average": 4.7941446
+            "count": 16402,
+            "average": 4.7941103
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -797,8 +808,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 32853,
-            "average": 4.760996
+            "count": 32859,
+            "average": 4.7610397
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -857,8 +868,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 32853,
-        "average": 4.760996
+        "count": 32859,
+        "average": 4.7610397
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -937,8 +948,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 16395,
-        "average": 4.7941446
+        "count": 16402,
+        "average": 4.7941103
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1302,8 +1313,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 32853,
-            "average": 4.760996
+            "count": 32859,
+            "average": 4.7610397
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1344,8 +1355,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 17475,
-            "average": 4.7109013
+            "count": 17476,
+            "average": 4.710918
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1387,8 +1398,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 7282,
-            "average": 4.711068
+            "count": 7283,
+            "average": 4.711108
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1429,8 +1440,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 5554,
-            "average": 4.7580123
+            "count": 5555,
+            "average": 4.7580557
           },
           "provider": {
             "name": "Microsoft Learn",
