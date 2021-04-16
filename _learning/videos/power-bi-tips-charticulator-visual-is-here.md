@@ -2,6 +2,7 @@
 title: "Charticulator Visual IS HERE!!!"
 excerpt: "We walk through a first look at the new Charticulator visual from Microsoft Power BI team.    Official blog post about the visual: https://powerbi.microsoft.com/en-us/blog/announcing-the-new-charticulator-visual-public-preview/  Visit the early version of Charticulator: https://charts.powerbi.tips Visual"
 originalUrl: https://youtube.com/watch?v=afGc6-wFyy0
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/power-bi-tips-charticulator-visual-is-here/
 type: video
 price: Free
 length: P0D
@@ -23,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "TuZZgYtGwkJO/C6kWm793EKD7hWARwkn/dG0t1/n0jnwPOjZBs7DScwYgEZwQkeRCSYYrhrrb15LdXDZRiZ3s4MsEabdg35qhcW+QiCHXk3Ug2mN8FMMlPYo6R9KqpzM7jxN4LYkNoNy2uldsqxFeyn/GZmGijL/jLtEmYGxluA3jNkrpArNRNLxBufUc9KcpEMfAxsAmefPmrszSj0nFEOaXTrC09mrLAw2zvmxJwJPfr7CiYGX4+qkTt7i4d8OFQJEnBmEbZukqwh8LhQtbbNsqjFMONcK0vr5NfP/gAihse5RM++hHv2pyCyXDkfwIvqKE/XrCe/VJNqP37hYxn0BWLKu7NPYUMFujM9/vmYwg74hH0fManQzOdICx7Qtq3cmzcCfZkREsyBKQeofYg==;2LEXYIk3mA3CgcGiDDS23A=="
+secured: "CrUUjkEb4/+93MEdkyM5m1iV0o9YCvy3xfAimt8h7r0Zn5w42296toyQ+kx8+QwyQJ2rBQRJDy4ABC0ulcGNckYKzHX6l48ByY9jBoDOGTWi3W4ffMwjiHSRJgYTFOxTYMZBaWpLCL7BAlERV3zM7U5Ez3OuB3BowKSc8oYkThOwzvjbuf5yPFDwNmGSH9iYnosz0zlXRxJ68hbBN0kvOZ/WFs42cJK8r5PaHapiRTvXVM3NJzRXaYROafNOb5e2NTTw4zxLw0vfnmUKWYrr7LoWj061fspR2S0G0s/sUO+zN/JJK25jZtz2M4zuutwdhKDDEf4dbTt9U6b7BAz3j0iLOv4OKnWwPtWNksdOeoNyTkokm6shzx0I453Xi6Ir;XutvMaOpS1NWzorWerT7QQ=="
 ---
 
