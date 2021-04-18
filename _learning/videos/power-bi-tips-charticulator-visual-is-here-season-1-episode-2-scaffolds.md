@@ -5,9 +5,9 @@ originalUrl: https://youtube.com/watch?v=kjtAN_iSnR8
 webUrl: https://smartable.ai/apps/powerbi/learning/videos/power-bi-tips-charticulator-visual-is-here-season-1-episode-2-scaffolds/
 type: video
 price: Free
-length: PT48M2S
+length: PT48M12S
 publishedDateTime: 2021-04-17T21:28:46Z
-heat: 159
+heat: 158
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kjtAN_iSnR8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "rAN54rEJMcQ9+anRQB9yPsRcRiFMZEZziEkN5uGhuC2CZTSgGl33ymCh6N9iI9dsJIud96LmgqR+sP2B+LRLWPnOv99Ls7UAPHlkrKvgXsMJ1HeESDyvTEmfttJda0N8wysjnIh7kmlbweLQX+UhXPCmq7TI2rfDLK/u5xP+7a/Qx9MYI8K4iudLJ87ZGZszBDDi0R/lMCcSWUlNTTOQ0H8NvRxC4PYcdMw2EODJ2blw/wT4Cdj/TG/GCh41QcdULJ0Bt8KisWedNostaOmJq/OdpTaLeJd5od7sewwEbtWvmRLms4FeVYCKk2YstQTr76xNlHMByEwPSuTe9nLahcLUmL1f/GSihQos3k3cfe/u5KXV6Rq7DWu+9ItLO7QZczpzAEY/D39VeprGeU9uHg==;H2D6mA+yarM/moH/L1W+HA=="
+secured: "VzVMNAulVJ0RQmwAAdr1XmHZ9XQlTzT/QFQh4b637W1DlZXIkoE/gl9lK0PMzMy1GnpWd0H2q2Yi+SxZH7ClWlgbPJbgtqoxvKi/F1vTdFDaKrYOc3+DZwXmFq9Xn0tihKJGB6OrT/fW49kfCzpr/ZSeflLi+6wVo2V6VEz2q5FdJ3NYbW+b5CIeS3+ceB78eSeOHZnkb1oHw29JKPdRAKEoOvcT4odHG42KI2eQxaO0Bd11r2Snp71j291ZAJZJRHyLK17b+XnS8fSh8dATy6CLt4vqTHA8msyIucFR2rT6Nl2lgXf0Pv4pCMGLPkLzz9Q2GfVDCv0KDYW8hjNjDmTiaeB6VijkRGfnOLLbGoATXJYbu/f02Yd+r2IFO4OqOSJj7KnNuIZf4v+Ie0HtHsjMnCrwj1cNfAEQu/QrxRY=;xYjkVQweTEFJ06tfTCjIRw=="
 ---
 
