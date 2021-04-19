@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT13M52S
 publishedDateTime: 2016-11-17T21:44:28Z
-heat: 52
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lyhS2txtZ44\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "vSTbRO6eoT1C+p26Iwqk1WmD+aJlAm1ivFdSkCaAaHGd9Gd9Oykc7dCcss3X00kWSLFUatvphf8SbRY/kHX5M8n073wfFHNp4ai2zPMjwMBJfsjk4B7Mqb4IK3ucrFXxlhInzHBUdc5hVbHvgzvujhhmSpachjLVX3TZl0Dv40Xs1FH5iudcFqz1V8m+QqeoT0ecpYFrnMACjOjWtTDxZGrQMmpvXNN2vS5hw9n7N5FkPDJQN5DPd05TNYcE4LWije79+GpAZan/tYHPSE+ZVpIwCFsUI1pA+U9KuH4Aanh4H2EsJUJGO1vRLuSAIM4M4Zk0vltidAi3fNPcEPaSjVVNKo6ihTmmRF0sKAh5XgXCZhZB1utcHE9ZgJhuPHqFdwJNK0jYLEisyhSkcGCATahTvFU5eq/Qnh4vu3fsDUE=;6KXkRD3P53LlrlJak/QHTA=="
+secured: "ummoncbPgAxrlYZ//fbY0MqvQBTnYqx6vhXAKFBCj9l1jikf23xALaSoccFanRm1wWm1dglqCoes3VWtAILW9/z9BC7z4/GHIbKUL3umRA1f365sx+Ko1WWWtYonIhgcwg6uMCnGJwNsIbM4Ajn6JSXC3ZG8Fw7P2aOZrI/DtfFCQmYo3bziR/JcsmXZGABsO+xPQtJ088cWlUNilSS8K+5MSeVwnbf3TKIs7JS0n1PJzdY1VTDeJyPSSClc569Jn5V5SZ63C0QQN6rXTU17ubPFu++l0LTWgXIH+kEfXLkKXIyAMpH70ktPBbCR8mqeA5v3yuOy6hPQJkpOExJbXcWv7VeHKnSiat8sKC5WxgqzkuVK24RR02sOx3Kk7IxLUIh/LlKDwPuByAAk96XKYnKsLz3AKnzO0ZFMX78jmPc=;LEuIH1XHpXK1w6B6CHwwKA=="
 ---
 
