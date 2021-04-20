@@ -243,8 +243,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 3299,
-            "average": 4.756896
+            "count": 3300,
+            "average": 4.75697
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -328,8 +328,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 3498,
-            "average": 4.771298
+            "count": 3500,
+            "average": 4.7714286
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -806,8 +806,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 2143,
-        "average": 4.7102194
+        "count": 2144,
+        "average": 4.7103543
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1688,8 +1688,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
       "length": "PT1H44M",
       "ratings": {
-        "count": 2059,
-        "average": 4.621661
+        "count": 2060,
+        "average": 4.6213593
       },
       "provider": {
         "name": "Microsoft Learn",
