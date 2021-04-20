@@ -8,7 +8,7 @@ length: PT43M
 ratings:
   count: 3496
   average: 4.7711673
-heat: 58
+heat: 59
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 321
     isCached: true
 
-secured: "hD7s5YND6cYW62IpYiKnPpwwy9zZ+GYY+n3SrwGkUuDFwQuUnntCJ5MQFTr2p93HzzJsezDgDg8mTqIiCaW8hXS7uNREac2MV7PQS1jQB4+l7QBJuYG2T9wkhg1AlZJOR98SYmEqnz4p+TzLSaTVt+mGfAiEaSdkLJEyWh5tZo2vfJB+fZ5ip9xeL7cPQ+0cwsx8A4tWml7S6p0kbtuqD8k/d//ohRmF2PiDzrLhYPtGcASRfSNlPQgnedPwXMlR2mUlnbcAgyZAaAGE/vzGwrfb318NMGCrBfZ5keFkA0wtX2YNnYrWuzhp/eJiAhKqYKOE9drr2jgBkvNLiTBtsrIQNpPN1VOUOF6SePkuIfK8vKmPk9pIdwtMGRmG9/5ncc+2BXDjqojZH+POXka8/Ex3d9eIejok3J4daCZpwS4=;KlJLiD79kBhcBwZattx0gg=="
+secured: "JKnzAYyqkhUIfAV8r/G4Wy/PfjzYFUVykwizNhzJr8n9VmXMU0/TbBkOPxL14GBLyIPrgkmIdscQTTXrASSwZNxI1+2HvygFvwPStFRceLN8B9CQiLguBrcCAixq845EV6GPQGxgQfDSYpTnVcdlXpyspHj9ljCwC7/REZO/9mNqQsK1J1sAFbS5NLmBKnu2sW2gQ0xGf4BSDoeYf8vMFgwUCVQBHFANwrLyecUZi7efPFYvKLr/INnilHaMZkR5j/YEcCwFvFuJ++DbJ/k360k/NP7pEyG41yYjJs0tMuX51J5vdYWYOCCy23F46h3hvc3gE10zf3p0aF/pXYCN92kKBgyhJUrT3Lv+slXCYzam5VillirHN7swsb8quTfeMa/zxcQal+VVvi+26mXw0QG9cihcNOBRx24GA1szYTM=;QoPZno35j8LnHH+dvrm/Gw=="
 ---
 
