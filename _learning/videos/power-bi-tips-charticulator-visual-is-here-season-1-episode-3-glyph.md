@@ -5,9 +5,9 @@ originalUrl: https://youtube.com/watch?v=464vz5_LTdM
 webUrl: https://smartable.ai/apps/powerbi/learning/videos/power-bi-tips-charticulator-visual-is-here-season-1-episode-3-glyph/
 type: video
 price: Free
-length: PT42M58S
+length: PT42M53S
 publishedDateTime: 2021-04-18T19:14:09Z
-heat: 149
+heat: 143
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/464vz5_LTdM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "egmTezDZTLnrNjv625mTSpzeOMMeNjH2H1oUuIMCsZzaEQ/f4/GCB/5Ca/trd04LbAFA880zL74nxBZpttUyLP7udKjZHWKDl1nJRF4xj8TeXvjwTi0hi2i0JVLEF29GwHGMQOETe84ChyozeimeRvDAT2u5X+st8afqHBYHUDYLG9Jjw4qSerOPgQcjCus9eQEOEKSZCweBdn7klqR+LpWA4zk38Z6jO7H5+pf9mDcT5p6S9pdAkGXgGH3lT2HjBj2RKCvUbYdp+zsC0D2pbpHa9I+Xb2kIDQa7/MfRZTSFqh1DEHOl8Xls8UOtOr6TISqC+1kGA4uliGayWtlbvf+UJc/AWqJJqaaXsjkEcRnsf8KmaHzOKuSgK/y4zZq4Ww+9T2uBrDgZ8pwQW9OP0o1/Xm4X2QyS3AMfXWVZiHI=;PDMa+w+4i+VfpLykC7RMBA=="
+secured: "/VlqzW5dNP/zZBrA7zjILoFj38LkoSjYlIgt+T+enlYhzCvPeHdPYOJbtpW1r97LQ43OTFUTfSijmbFLykn54IyMCRa6wfZBzOulI4aPtt9qlBM5v/ZST0GFuhlFPvyiB7K4JwBLJAjOG/IODDdu0IpuvsgBmRTY/91a/Mr9dK5P5+AiAEzyb02lnXB8r3Qclt2szfrjK8u2fHmAAESP36Wg9zl4qHCAAidJe7ZauwoJK8FSpsntDB55GgVIKeIGUm5IneS8KiFy9Ry5aH2DrnwmKbv3paGKMQGtXH9+LPyHLqKLvDYszxiolvK3HrrLyrzdOKluDCI26T4zsj74pObbfMMXdlYVoP3XWhda0meaqt8fUuvg7sgbzVmTTYKINYjJPpalv07cg2Wk/jHnOpWddCq2ro3Ykpf4e2V2bDE=;FMZnyen/mxy9Eab2vKuYoQ=="
 ---
 
