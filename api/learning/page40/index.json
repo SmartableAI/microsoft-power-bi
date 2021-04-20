@@ -707,8 +707,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-your-first-power-bi-report/",
       "length": "PT55M",
       "ratings": {
-        "count": 5792,
-        "average": 4.7712364
+        "count": 5793,
+        "average": 4.771103
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -909,8 +909,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-modify-filter/",
       "length": "PT21M",
       "ratings": {
-        "count": 343,
-        "average": 4.618076
+        "count": 344,
+        "average": 4.619186
       },
       "provider": {
         "name": "Microsoft Learn",
