@@ -2,6 +2,7 @@
 title: "Charticulator Visual IS HERE!!! - Season 1 Episode 5 - Links"
 excerpt: "We walk through a first look at the new Charticulator visual from Microsoft Power BI team.    This video we are exploring the Links  In this episode we add curvy lines between our graph elements  Official blog post about the visual: https://powerbi.microsoft.com/en-us/blog/announcing-the-new-charticulator-visual-public-preview/"
 originalUrl: https://youtube.com/watch?v=xaBz-AInilA
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/power-bi-tips-charticulator-visual-is-here-season-1-episode-5-links/
 type: video
 price: Free
 length: PT33M3S
@@ -23,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "xgoaVjd+MjL6xTYZe4SDdohFYaBAxHROdSmJxj41e5fZgKZ2WyQFIEi2oReWkR4jz/bRZlSLOvkQr/8+c1nmh1YhR/3zpC/CTq5U9HClaLo+BOWiMu3xGuRoHkegXBcoMXWVhaSSzGiBFSFA6Zeii+DXmEqYj8YqfElPz+vy9qMnymuaqfUqCu/clf+2HvHEfGrNMIiOuARXhImX/ORm1/sZaTlRVAnncXA3mAmQwh8ahyV7iSdtoEia6sguRPBTQtPYID3j8zGwcG7bCSCY8at3i+HwtWeau8zMqLh2LNNFZj459M8piGVG7/yNBinSJQUhzt/E3qOowOKLkdzQOh8W068gLW1nk0SydxuvUF/ipPuAJ9CQKfjtZVkc8PGG4YKhgfk9+P6D2JhtbP4RqA==;/CVkWFNp1VSpe1xdfO3HNg=="
+secured: "/EUTnIDOu8i+07Kihj+/VIAW2+MZBpmFrqLaGfCUAGbGUD/oLQaWDSYWd0u9QnQiMGzgmuRZEuJKjd4PBWJeBz9YqcLT2MQjS156LZ4wZKuTenZ1hCR/IcGgnPg9dVl5IeJ7A37nCacFHlbTds+B1sFseWia2Bt1EeadWNmhw5MaOveQ5hgbBpjn3Obi3c3ElQcugUbksW+JBK4G5WRV27GH+NPIqA0ctgOUXgOuOyUrTr/uLg+xlnyXZvCa9iUOljC9QOKvinjSDaCWZT9wAzcEBCxm2vWvAWGmVnPHO+6WleLV5/+fhxtklMxN9uoQb1O0JIWhPQhe3DWftIRpa8QNLNAy1IPGXg2+FMiNDySi1GUrK60K9crXEtaODwqX;IZwmviGk1MgZGYAO9GVm8g=="
 ---
 
