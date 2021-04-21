@@ -192,44 +192,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-avoid-the-full-refresh-with-incremental-refresh-in-power-bi-premium.md",
-      "title": "Avoid the full refresh with Incremental Refresh in Power BI (Premium)",
-      "excerpt": "Is the full refresh of Incremental Refresh taking a long time? Or, even timing out? Patrick shows you how you can avoid the full refresh and refresh each partition individually when using Power BI Premium!  Handling deletes within Incremental Refresh in Power BI: https://www.youtube.com/watch?v=nKVrl0ec6uE",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-avoid-the-full-refresh-with-incremental-refresh-in-power-bi-premium/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-avoid-the-full-refresh-with-incremental-refresh-in-power-bi-premium/",
-      "originalUrl": "https://youtube.com/watch?v=5AWt6ijJG94",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5AWt6ijJG94\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M42S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-01-27T08:00:05-08:00",
-      "heat": 140,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5AWt6ijJG94/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/power-bi-tips-charticulator-visual-is-here-season-1-episode-3-glyph.md",
       "title": "Charticulator Visual IS HERE!!! - Season 1 Episode 3 - Glyph",
       "excerpt": "We walk through a first look at the new Charticulator visual from Microsoft Power BI team.    This video we are exploring the Glyph  Official blog post about the visual: https://powerbi.microsoft.com/en-us/blog/announcing-the-new-charticulator-visual-public-preview/  Visit the early version of Charticulator:",
@@ -328,6 +290,44 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-using-power-bi-reports-from-an-end-user-perspective-2021.md",
+      "title": "Using Power BI reports from an end user perspective (2021)",
+      "excerpt": "Just an end user of Power BI? Consuming reports and not authoring at all? Adam walks through how to navigate and use Power BI reports. Jump in and get familiar with reports in Power BI!  Reports in Power BI https://docs.microsoft.com/power-bi/consumer/end-user-reports  View a report in the Power BI service",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-using-power-bi-reports-from-an-end-user-perspective-2021/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-using-power-bi-reports-from-an-end-user-perspective-2021/",
+      "originalUrl": "https://youtube.com/watch?v=TAsUb93r2tg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TAsUb93r2tg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M14S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-03-04T08:36:25-08:00",
+      "heat": 134,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/TAsUb93r2tg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/power-bi-tips-charticulator-visual-is-here-season-1-episode-5-curves.md",
       "title": "Charticulator Visual IS HERE!!! - Season 1 Episode 5 - Curves",
       "excerpt": "We walk through a first look at the new Charticulator visual from Microsoft Power BI team.    This video we are exploring the Curves  Official blog post about the visual: https://powerbi.microsoft.com/en-us/blog/announcing-the-new-charticulator-visual-public-preview/  Visit the early version of Charticulator:",
@@ -355,6 +355,75 @@
       "price": "Free",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/power-bi-tips-power-bi-custom-visuals-with-charticulator.md",
+      "title": "Power BI Custom Visuals with Charticulator",
+      "excerpt": "#PowerBI #Visualization #CustomVisual #Charticulator",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/power-bi-tips-power-bi-custom-visuals-with-charticulator/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/power-bi-tips-power-bi-custom-visuals-with-charticulator/",
+      "originalUrl": "https://youtube.com/watch?v=FX9ZI9bNlg8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FX9ZI9bNlg8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT40M29S",
+      "provider": {
+        "name": "Power BI Tips",
+        "domain": "powerbi.tips"
+      },
+      "publishedDateTime": "2021-03-11T09:19:26-08:00",
+      "heat": 132,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/FX9ZI9bNlg8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/sqlbi-optimizing-nested-iterators-in-dax.md",
+      "title": "Optimizing nested iterators in DAX",
+      "excerpt": "Possible optimization approaches to improve the performance of nested iterators in DAX. Article and download: https://sql.bi/70755/?aff=yt  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/sqlbi-optimizing-nested-iterators-in-dax/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/sqlbi-optimizing-nested-iterators-in-dax/",
+      "originalUrl": "https://youtube.com/watch?v=UtDP8KnWXy8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UtDP8KnWXy8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M31S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-02-11T03:00:06-08:00",
+      "heat": 132,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UtDP8KnWXy8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
       ]
     },
     {
@@ -409,66 +478,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/BnTipbooeP0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-apply-gridlines-and-background-color-in-small-multiples-shorts.md",
-      "title": "Apply Gridlines and Background Color in Small Multiples #Shorts",
-      "excerpt": "During this session, we will learn how we can apply gridlines and background color in Small Multiples. We already know about small multiples for Power BI Visualization. Now, during this February 2021 Power BI Desktop Microsoft rolled out one more feature which will apply Gridlines and Background color",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/dhruvin-shah-apply-gridlines-and-background-color-in-small-multiples-shorts/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/dhruvin-shah-apply-gridlines-and-background-color-in-small-multiples-shorts/",
-      "originalUrl": "https://youtube.com/watch?v=vxDa0ayjYm4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vxDa0ayjYm4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M38S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-02-23T21:11:51-08:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/vxDa0ayjYm4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-dataflow-a-remedy-slow-data-sources-in-power-bi.md",
-      "title": "Dataflow  a remedy slow data sources in Power BI",
-      "excerpt": "I have previously explained a number of use cases for dataflows. One really useful case for it is to use dataflow for slow data sources. In this short article and video, I’ll explain how this works. Read my blog article here:  https://radacad.com/dataflow-a-remedy-slow-data-sources-in-power-bi  *******************",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-dataflow-a-remedy-slow-data-sources-in-power-bi/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-dataflow-a-remedy-slow-data-sources-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=tWLgvM9aV98",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tWLgvM9aV98\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M31S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2021-02-16T18:44:08-08:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/tWLgvM9aV98/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -930,8 +939,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 16712,
-            "average": 4.7935615
+            "count": 16718,
+            "average": 4.7933965
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -972,8 +981,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 33190,
-            "average": 4.760711
+            "count": 33197,
+            "average": 4.760701
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1032,8 +1041,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 33190,
-        "average": 4.760711
+        "count": 33197,
+        "average": 4.760701
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1152,8 +1161,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 16712,
-        "average": 4.7935615
+        "count": 16718,
+        "average": 4.7933965
       },
       "provider": {
         "name": "Microsoft Learn",

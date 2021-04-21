@@ -4,6 +4,44 @@
   "page": 9,
   "value": [
     {
+      "path": "_learning/videos/guy-in-a-cube-working-with-images-in-power-bi.md",
+      "title": "Working with images in Power BI",
+      "excerpt": "In this video, Patrick shows you how to work with images in Power BI. He isn't talking about adding a logo into your report. This looks at how you can integrate visuals in your visuals based on your data.  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com -- http://twitter.com/guyinacube -- http://www.facebook.com/guyinacube",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/guy-in-a-cube-working-with-images-in-power-bi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-working-with-images-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=uvYFyNkqWF4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uvYFyNkqWF4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M31S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-11-15T06:56:43-08:00",
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/uvYFyNkqWF4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/microsoft-welcome-and-course-introduction-power-bi-developer-in-a-day.md",
       "title": "Welcome and Course Introduction | Power BI Developer in a Day",
       "excerpt": "In this video, Peter Myers (Microsoft Most Valued Professional - Data Platform, and course developer), Sergei Gundorov (Principal Program Manager), and Amit Shuster (Product Manager) welcome and introduce you to the course. This is video 1 of 20.    The Power BI Developer in a Day online course empowers you as an",
@@ -274,8 +312,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
       "length": "PT43M",
       "ratings": {
-        "count": 3506,
-        "average": 4.7715344
+        "count": 3507,
+        "average": 4.7716
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1050,36 +1088,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/8ybsChtuZoY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-excel-users-step-by-step-to-create-your-first-power-bi-dashboard.md",
-      "title": "Power BI Tutorial for Beginners & Excel Users: Step-by-Step to Create Your First Power BI Dashboard",
-      "excerpt": "★Access the COMPLETE Power BI Tutorial Playlist here★ ☞ https://www.youtube.com/watch?v=1bysgMsPwC4&list=PL7GQQXV5Z8ef2SjkDpLnvsz7TAQjlzlpO  ☞ Download the tutorial files here: http://www.learnpowerbi.com/bonus-download  This Power BI Tutorial for Beginners & Excel Users, walks you through Step-by-Step",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-excel-users-step-by-step-to-create-your-first-power-bi-dashboard/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-excel-users-step-by-step-to-create-your-first-power-bi-dashboard/",
-      "originalUrl": "https://youtube.com/watch?v=1bysgMsPwC4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1bysgMsPwC4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M31S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2017-05-20T14:43:09-07:00",
-      "heat": 59,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/1bysgMsPwC4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
