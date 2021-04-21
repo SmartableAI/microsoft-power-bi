@@ -5,9 +5,9 @@ originalUrl: https://youtube.com/watch?v=hAlBqQ6FuO0
 webUrl: https://smartable.ai/apps/powerbi/learning/videos/power-bi-tips-charticulator-visual-is-here-season-1-episode-4-marks/
 type: video
 price: Free
-length: PT26M12S
+length: PT26M15S
 publishedDateTime: 2021-04-20T03:43:00Z
-heat: 139
+heat: 146
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hAlBqQ6FuO0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "4XWUfvuHpHSVrQ1UkrzJbi/USWqDtPgF32XN0uieMjWUh+VVXY3W3d6kRltYe/pNOFdgfHt1bXIzSza1833+HRNTvbRrPZ8Cdo4nht0tLMRXYAA6l+QWY/uWOM35Dh7gcdAxX2AWQIPAPtfiHKRJLL5B+Ypr7lwQwHKIaLkFvoznum3LM0MgzX8DLzMIQ13HMqLOuRbShW8svvSOFGg9F3swrscZ054E6Q0zZYTSGCVqQ6f/pBchIA8t3CKtAJoca9S0UZgSiCT8ThmEQO6UbUSOA6Y2IeSeij2pdwnYo2hdD8jaG/ahRZ33XlvFd42q7XHSu2dwM9Y/OcHsRScUEhZRp9L4D6QRHlOfHHubuNwylK9d5mAcihiT5G3PlAOK;oejXJ7lP5zJ3FoEhfL4UXQ=="
+secured: "enkuXFsrL+f8s4Ura2grpn6pK6sQM8o2KP7iEas71WrJWAJx2VtmWXLruNg2BYc5OqcgGAEzK2fwMAwicBdPvU3LfAKMMbUVbonSx2qmQOSKr+i8c43n0gdIvn94bpUJgxcN7i/XyPnxYyMSRp/FGQcdz0jpYbTWwejLR+Ovfz8rvounTBRdr1fOv7E45LQZxpN93LetHCfSUPci6ojIwipRUP5ikjXDNPMfGpGA/wcnW82SHbfid5+EjajDnWuKkXmfl/hRCYOOroiPIsrjrKO0pSx4IcmEWVXWltJA80L9iescgOGwuxVEljHgZIZ24AMM8hkGA0C/Jf4Dgg0k53mOazEiuqj0oEWHNrOjAecR3m0sbvNSmuRXktCjOA3h9V0RGnk8spEnVEX0iwnTC/nPcyj5SqlM+p9xRrzuUAQ=;fzZZGgHUxsVdcblW/Fgetw=="
 ---
 
