@@ -5,9 +5,9 @@ originalUrl: https://youtube.com/watch?v=ZoO-ADvWg5o
 webUrl: https://smartable.ai/apps/powerbi/learning/videos/power-bi-tips-charticulator-visual-is-here-season-1-episode-6-group-by/
 type: video
 price: Free
-length: PT23M23S
+length: PT22M55S
 publishedDateTime: 2021-04-22T01:18:38Z
-heat: 139
+heat: 143
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZoO-ADvWg5o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "e9A1uK0tt5tdKTAVWi6CVELfGyaaQgh+McZCBlrqFfrR3ff8Ln37IMMnZOAdW3y9Xoyxcom3W1qDr2M9G6NCfgmr85UrUPR3azv98eqhbzdwmi8e07lsbgYVXq9M8WcvUPxbGLRMMTWlNZoPoIwGZUBpUOFtprwlE1UKk/cXnRQHcqB//tpKqFzWHuB3R499akpibW2hEVbSL2t9RyWdsi91qVpVlsCY4p8CgwhSKfhWfMSG3B17XQGq9F9p4mlHIPMyZpoL2RA16AX0AYkMiQyyHOzTF0fNRgro7kWHFlOZXqKV5wz9iBixUULFZUYyfrA4NRylqv2lz4pUfPkfAnk+5YhanUxNJ25Joa0zPKWx7TytDFR+fONB5PJKEZOB;wo8QIK4khbPxRfm7D7adnQ=="
+secured: "zK0qaP8uvh8lWeoid5tie+6yiYuNl7ZyoLidBrd18aZXWNj6ZN5JCMoJQjc2jtGK/Xo0i/q2U3pWMc7MzVvF8o7POCMJg09IS2Gti6150XHI7SsJs5MMJLBX0PQuIlr5PSgp0COiz8NArW8nkpcEeIsjKzVO3/Tk9qxBI6UhG3TU2esud8zthcegHvHcdeRtJm/WlhX85Pxn1r78hsuowtg0pKY68DXtqq7Bi4q0uej9YDtaR6EO76XYbG7iJGBMW8LvshJD5SITVT3T57cXWb8bF+UlUgJsNZvgBAwzWmSXV7fyqQqDnMv/z4HMTPhi4z1S0clMQixTaNjo1vhPaoMjpT6bi/x2UjcfV7FTIQm16Kvy70EM5kO49hDw8S9POaBpb/b1ypShPC5UMmtGrX2IQagNEM5YWe7bBIphyQc=;A9c7JGA6zPwZ0/S+0CKwBw=="
 ---
 
