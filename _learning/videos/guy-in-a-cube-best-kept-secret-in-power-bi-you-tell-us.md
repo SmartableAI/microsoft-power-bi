@@ -2,6 +2,7 @@
 title: "Best kept SECRET in Power BI??? You tell us!"
 excerpt: "Have we found the best kept SECRET in Power BI? Adam saw this recently and was BLOWN away! Zooming in can help with presenting in business settings and anywhere else. Here are a few things you can use to make that presentation better with Power BI.  ZoomIt:  https://docs.microsoft.com/sysinternals/downloads/zoomit"
 originalUrl: https://youtube.com/watch?v=emKSMFBusfM
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-best-kept-secret-in-power-bi-you-tell-us/
 type: video
 price: Free
 length: PT6M59S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "MitTLIwETWsBREZ0uYx9HKB08cvxaU2EzbaLlsM3EFMJAXEBgLRuIXIV99tsZTYARd9zWvAKiONegr+9a7huSmOTQvQjIdiDHi3BtdBdqCd9DxY4MJWqcRHzI3g08xGPfxhzg1lK/KlFmG8NgSyIQF+fQ/uE78XvWE9MH68kC3UzitIPnVTRN5BM3wA/3YqjSUsK0x3xnTsLFwIkNL08f2NlqmqL7KqiYBRmG/nB4hBgJjz7dUNAGEOC7mnq3wB3SePhlKIod1EgEVoUzMq3ZdxcxilAMWaudy9NS7juegYMNtUHV2RDtM+LRWqJECLP8cyh6DNWm8vqMSm2j35TCAVdzj97aYsdOgCN6r677FnZEtKUmfQvBPQMt8efTKM79sauWTYh1yAPEsad6FsoHA==;p8bMNQXg+DTKsXXw1xt7tQ=="
+secured: "MdhOvpIuaq0Mowx4nU4ehZ+yh6yTiRugOOWKTN+ZYMopP62K3LnhaYqtGp+ywgGHlEha4EXcsa7g+tfLPLyxexLpfExdsBb3UV+yvue04RCNIvf4c+6LJFnSom1Trt+n6/lzGqo+MMY1h0QzJ0lXLFkjb0QEHWtE/n8sz7AIydbkRKxgNvLuiFlhDxRD1GEAS0O4Qx0GFTYWqwamQEIvjxOebi6aFmyeqZpw4LGSzjgnMBl3A+JGgD1m/0db8lkdeHk4RES5vh1iKod5I1vicaCllcVOD+HtXgTIFh+HWIGgLf4F5bg4/sFGwXx+3n5KyQoaVnYrgkNpkyzvsZ0xGTNLYiRBpNwcipucNVCyCZVAuYOcWUdcniDDLrkT73I1qGcum4qoNynRIsChN6MdCQ==;W6PG8qh/EyPkhuPXme0RyA=="
 ---
 
