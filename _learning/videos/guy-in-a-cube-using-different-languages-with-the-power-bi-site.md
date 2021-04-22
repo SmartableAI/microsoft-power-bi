@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT6M1S
 publishedDateTime: 2016-03-08T16:02:30Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RqWyA9mD-Yk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "RDSaKBkFdMIn9p+O5Ynb7HEd5gTcQkN97ebGPenjzWZQoqftf6VPfg6qxZ7bhA8NqTn7w0xBKTXoff5qdw9NWF+M6IUQ+NAHRVeLAIg3cUF6AQjs5LNsqCH079y523ullk/BGQvFpSepCEym9qudTVumEmCUdbSJ1vMrAm2o2iweHkNSkmjrOhSQY8ImEwxnMzOirhSKSvefGT3XelXiDCBnHH1mWGtRZrA6zmvz3ebJxq9OzyYsmQU3N43FcgjleUossu6DgZVw6xUc+Y6lwVHjwrTrh+r6ANBjPxMT1OQxl5cnICqjq7oMq0wQ4acQ7PZ/o4lsiF6QyDQ7m90LVsBZg+gHJ9J5UC5OvvNu9n0RCbyPQhS2c3tsD3lhx2gViR45rkbga+JecWBzsylPTg7fOCHkMpD5vBx8T4S6O1M=;egs9ngC1zR7t+oDhjfaxyA=="
+secured: "Y98fWQ3lVMJwS42nlxuH8CvDHL8cD1b7IcPFM0jFldXTfpIA1IHXJZ2AfbobOgFhj6fhoiMEw2i6zMO8cNQclGoSUXq6MROF/Easa+bv5VkOmafk++HiaIZSszdTBlMOKKhZ/MMpW/x3ql67tWLPiHopo6HrFzU+Q2w96k9VhdieNXKQCIZpS+IV4upoEMJM8d+japJZ55X8G3kJc/0K/3aYCf7zRg66bnBW735S4amgEsS56Mc6XYYxpEv0fZiXqKGRnDhkgZjTCfag5f1bYnteiqc8QQ1gWgM1ssD5fAHm83zST4MEGKNTIZVhmCSn8kFVFykJVm3HjdViQ7PtFBYvnZftlqophv3i1uFo6NnQGQVQoncCTYD38cIs+NTlAnLcPPcVJ6gPRNKp00x4b2+gvPsYN6TSyA21h4wP0M4=;q+Ej+pkJq7RDBY68rUQehQ=="
 ---
 
