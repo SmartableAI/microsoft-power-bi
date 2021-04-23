@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT6M24S
 publishedDateTime: 2020-04-27T12:12:02Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mO9QuFNaXvo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "iRc97oNBHLxzVJZyk5X0xlRWTfmRjO2G8bPp9YBmdNq3ltsHxGNAuVrJF40pzjA9ji0r0MXLeGtPFdNfMOzHvQZ3a6GtSA+j1hL0QdqJXHxcMSNPL0RhnsB+fomsHuQs0HfXC139+H8xtUUQ3PJDWvgbg0v65jZlE/uFEXRg6PgqXvMIl62ne7BUkRNV+AoUvjp9tCzNg7i3N+FCvlRzbO7AwVJrJ8nEIib9820aWYejKa0Eoa5E7bjLRgmuJydV60T3mmVXTG6Zzq2xwKTmv3DGjeaRAhVjjXPnO3G/0gRAQXnjlmQEC2ZFJlbg6JAtyTeWWG70BSfwa2pmoLLipQud1w/u+UK9s4Wl+wY89ZKtrTcX/nGpSiDufaaAM7Gq8yVzA1/X0TNr/NXcS8Gj1Mh3v3oYmsecSiwFGew5Fsc=;e/+Td5dBww8EEwjT8FTXyw=="
+secured: "BDO+Lt0VskemYHVPSsS91cR8J7DnnTUlKgZgZ72vLjQKGKyfssH/Wh7n5x34tLJMjErrqH3HNPharmmzI7KO88xWZMpGSb7mgPJr6dsmKq++JmcWOy/a53/taYqseYqfgfUUyT8cwm4v3AuWe//1lBVonwtntxL9V5YCdK0vy/ERMCXy28hVDIv+jMW7Yce/ljpg0dr4aKuak6Y9+/QlUdCLcxYMBP32ie7F8fFeJrqzWVTpCPEo5HPhITnnbpK+EzqnqJ5W9X7RuHZFXGqgWTKRyz/SRT48k9NFj92kXV/j39U9jHasXsj8a45b0u8X0ZeQLZEnGVQmLtKF8hBEtRDaE5tVn8Od0GhKCUPaqfTJTXK2ZT3xzGwLLavG8/88r1uvPeWZd9vXtHpJHye/wrSiPc9Se/TwD2ea0cn1Xzk=;uwp2uh1LZwMeBjKk33TWkQ=="
 ---
 
