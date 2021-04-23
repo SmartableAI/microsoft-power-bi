@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT36M41S
 publishedDateTime: 2021-04-16T01:40:25Z
-heat: 125
+heat: 124
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/afGc6-wFyy0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
