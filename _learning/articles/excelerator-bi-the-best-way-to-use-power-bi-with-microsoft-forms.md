@@ -4,7 +4,7 @@ excerpt: "A client recently asked me if it was possible to build a Power BI repo
 webUrl: https://exceleratorbi.com.au/the-best-way-to-use-power-bi-with-microsoft-forms/
 type: article
 publishedDateTime: 2021-04-20T02:30:00Z
-heat: 130
+heat: 80
 
 provider:
   name: Excelerator BI

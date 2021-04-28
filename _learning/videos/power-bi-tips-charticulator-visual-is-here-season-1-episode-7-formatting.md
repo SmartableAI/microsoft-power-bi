@@ -5,9 +5,9 @@ originalUrl: https://youtube.com/watch?v=wlAc_j1IoT0
 webUrl: https://smartable.ai/apps/powerbi/learning/videos/power-bi-tips-charticulator-visual-is-here-season-1-episode-7-formatting/
 type: video
 price: Free
-length: PT26M37S
+length: PT26M25S
 publishedDateTime: 2021-04-23T01:55:42Z
-heat: 149
+heat: 136
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wlAc_j1IoT0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "UCATJxxyfajrKoqmO2ga1ksqxRJU7Jd0M39N8vsB1jKZOHPwp5OuxASozTI/yxkGV5mX2A3lGVZ++2ZOJggfVPDl0zHNVK1vZRMcFH7M3Z7ZszmM7aYiksh+/RlYefBAYp8DsSIB6pWlVNZ2qAbKzHdomfakqxJ/DG3VHlW+WmNv9vcMNVW5oZ13SlTgaNuacA3l+zxXgHMfh2ploPQNENO1kSOf22XCikkyYtQZSZ1T3yKTKLJMU4feAzDK6qlOEOnD6yCIa/VqEF9bzCX3Ed1b7Md6owulAJloiURxOXNfMQS8nLAf8VRw+4Y0QXh7kbWLJ0TKpBi/jgdhmk4idPk3rN+44sSiBZoru6PFmjbigSXfACu5hvCkFrlY30xQbtAnLLH52kY5aUKxJWx3z9oVPM6Hpbf3evJ+PgDy8vQ=;h6gf8+PbFcLjd7LCiR/nLA=="
+secured: "wFEz7DUmZ4R19gv26kY6lN0fgEIHc1+oaOv6m+9GWMwFEasFCsxGatvSsJoOcLgqphOp2gbjGEOz6TSjW+8jan8l9EzGQhfn0QyTAXunTU1jbzzoVI9mX9WX7rpWCWsB+YxW/qNRbkoE3MsM5/CSjGYpl4xl3tawoAftSK6z8EE5jNPk6cGPrXAxmPXKld0WEwx0qBUSSyNPmnq0tRRlXuPvS8DKOxpGj+irNsXm878QvLroJB/x+X5LJ0yq1HltiQ14eBACuosSrKUBTNfa8fTOtEtxd9CoPkPWqCDV6kKCuI02hav0/UXCNDHGX09xQHCmjQd+dRea1OzSfiggs1ZXzIHnEs+lB0moY91xSDVJMRuCuGvn3RxtvUXwvmF2rgfXXoEVyCXlNnAb8V/IWjGwBSWlpVwaVTSCWlKsDeo=;Nzt+Wai2gaZXJ+SIFwUR2Q=="
 ---
 

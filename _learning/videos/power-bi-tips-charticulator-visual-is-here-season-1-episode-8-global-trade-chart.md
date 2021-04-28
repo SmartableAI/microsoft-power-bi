@@ -5,9 +5,9 @@ originalUrl: https://youtube.com/watch?v=nApS3zzXBU0
 webUrl: https://smartable.ai/apps/powerbi/learning/videos/power-bi-tips-charticulator-visual-is-here-season-1-episode-8-global-trade-chart/
 type: video
 price: Free
-length: PT20M8S
+length: PT20M18S
 publishedDateTime: 2021-04-24T02:20:34Z
-heat: 142
+heat: 139
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nApS3zzXBU0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "xViqEva4TWAMFFMkYAlc3nAj7zyqp2/SysYwtLLjFMyOQ0DYXE4mGaqYkikaNKZ2Apv267bXwX+zGrvJ7bWOPsutoBsa1VGkiJVd+1AmdQGtzh9nU72c/CVRjTJkoC8z4annonQ2EzyPlJlxeIGPlBDpbIYD65J3mRonQoA1eKnVxApjOaSMWNBLxQv7IlSwOtNYer8nbUpJ9mzZR+rbr/Qtk4i72BRLmMdpWZrdbTyiG1ZOVqlFGQVTgHzqPJS+pAyJ5iAjwrdhGwPLiCa7B7QUKy37bmyMY9zA+LkV9res2xFqSHA9IppWVw28pA+/8evZUD8IgJumXdTm7oxlQvw7RvIKjt79sjTkbnm++trQXx2Tb15nj1qoQvD40nOd;rF9IC4RyGywW+2u0l9osjQ=="
+secured: "uw/9OtEJcaeS/hR8/Oeiooc14GqU+OrM1trFViCkbLTYrKkOwu9hqU15VYB0bdPde2pZKWmxGg0HzlhUZtUBmKgNsTPaCNPMD/ZxFdNqJQfdDgfxxeUPu8PlNwO8ZYzMVMDgo3VuS/w00nluauKECmQ7ElCYqvl0TAbe6aU68zfCDUEhQarJF2VMOiMpwRzRVyZxG5JGDUuuyjRv1YOVKltguFkiuLnhw2OvPzStgGNrNMoVb7bfxgexxhdA8vzawEAwIrG5Tgq9lUtmGbu0CmQHPHfNLakMtQE9YwbqNZWreC7ljWxBtWC5bHAOXJhvYv58arRVxb+WUqfGMc/YLWOwDIc2HENshV0RDHUqwqpcNgqeAYirSF8Es7eZiyXd+4v7wl3piG2KQhmAkYcd7xadw/y/I8vEFC1lGNdVjWQ=;BVm3XJ4wsoUpzR3FckU/MA=="
 ---
 

@@ -7,7 +7,7 @@ type: video
 price: Free
 length: P0D
 publishedDateTime: 2021-04-21T03:35:04Z
-heat: 134
+heat: 84
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xaBz-AInilA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
