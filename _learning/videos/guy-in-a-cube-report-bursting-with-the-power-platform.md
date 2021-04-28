@@ -2,6 +2,7 @@
 title: "Report BURSTING with the Power Platform"
 excerpt: "Automate data driven subscriptions with the Power Platform using Power BI and Power Automate! Patrick shows you how to quickly setup a report bursting option for your reports.  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next"
 originalUrl: https://youtube.com/watch?v=NkiUC-jR67s
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-report-bursting-with-the-power-platform/
 type: video
 price: Free
 length: PT7M41S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "iPMH/ZAs1ChGqOwRE3KZdK0s+Km0M6U6fQOtD0QZ9JrN95BT3aK/Is6A0Kc0v/cm1qGvh6BAy/Myy2KBTq5EzhGagoWT4pQp1IaznxUAFc+oVHQL7w3QGNqIlfmx2KSryHUYXqcztDJ/SMi78hMXbEKngiTX5kHjmSuijlHpz4hjU931GIFVX7qK5PQLcd3nzvOJn4RQI1JyADb48I8oD9fo9X/EALYsvQyL9/PD9Tlc8UlzmU8iTXAaZK1qS3xBdPfjlyrZRpC8kcRgDxCdtbZyC85jQiltOHrbqx3z0ANxsGG+1ljHTp5dDS4ncaGYCe0GzMOn8MQ2rSKnEw3miHr8heKKRYCjoRst4518HbQj50Zb8EVarmZF6PPjeRS3XwL0+awzJubXMNm+sNEdLg==;PXdYNC1q92v8JduF7Q+lRQ=="
+secured: "J7EllozENeqg08T8rytWDLq1UqywEzMTIoyR+BJ3Tb1oj4kaKuoKJeBS3Qv2xzOzX+MhTRCzq1hfuKB7C9r6avwJ8WRJexBSlfgv9mqUH8BameHiKFEtxeXNfUqFlQWijMqf50aE+gU+8xg4/SZVsi52UdXiPo6RrJFo5BBja+gEtadhJQ25r61aBAnPOtPyW6OJI7aTUYtEItXMi6EleIkNKjZ3pxWV+1nwWRejaMZY7q8mOyJCQYRC+G7HFMbqGOMYqUVFdirL7TFqDkkyhlPjegd/C0zf9ZGv9RtpLW8XZOydJ1wTU32bAYDfgL+k8vLdPd/4vUZ/rhY3+4Wehlcj07fA8ppb0bFrzCaXqLIp0HJ3F2Lr1vj11ZGa0gKc90zuF7JulftRDhNmWOu+TQ==;gW6FiY5oGZSisdr+iVQ15Q=="
 ---
 
