@@ -334,45 +334,6 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-how-to-conditional-merge-tables-in-power-query.md",
-      "title": "How to conditional merge tables in Power Query",
-      "excerpt": "In today's video i will show you one technique for conditional merging tables in Power Query.  I forgot to mention the source of the video: https://social.technet.microsoft.com/Forums/en-US/13e055f0-4b47-49b5-9f24-8c56eb58df3b/conditional-merge-or-lookup-in-power-query?forum=powerquery  Links to mentioned",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/curbal-how-to-conditional-merge-tables-in-power-query/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/curbal-how-to-conditional-merge-tables-in-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=y3bOyNpJuXc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/y3bOyNpJuXc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M32S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-02-01T02:14:58-08:00",
-      "heat": 135,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/y3bOyNpJuXc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
       "path": "_learning/videos/power-bi-tips-charticulator-visual-is-here-season-1-episode-7-formatting.md",
       "title": "Charticulator Visual IS HERE!!! - Season 1 Episode 7 - Formatting",
       "excerpt": "We walk through a first look at the new Charticulator visual from Microsoft Power BI team.    This video we are exploring advanced formatting  Official blog post about the visual: https://powerbi.microsoft.com/en-us/blog/announcing-the-new-charticulator-visual-public-preview/  Visit the early version",
@@ -403,23 +364,23 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-power-bi-design-tip-disable-the-auto-detect-relationship.md",
-      "title": "Power BI Design Tip   Disable the Auto Detect Relationship",
-      "excerpt": "Relationships are the heart of Power BI modeling, and Power BI Desktop has a way to help and identify the relationships based on the source, or the data. However, often, this ability to automatically detect a relationship is more troublesome than helping, especially when you deal with tables that are",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-power-bi-design-tip-disable-the-auto-detect-relationship/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-power-bi-design-tip-disable-the-auto-detect-relationship/",
-      "originalUrl": "https://youtube.com/watch?v=0d85cn_K-V0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0d85cn_K-V0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M15S",
+      "path": "_learning/videos/radacad-power-bi-quick-tip-the-formula-bar-in-power-query.md",
+      "title": "Power BI Quick Tip: the Formula Bar in Power Query",
+      "excerpt": "Often you do the transformation in Power Query using the graphical interface, but having the formula bar visible, makes it much easier to understand or change the transformations. In this short blog and video, I'll explain that. read my blog with more details here: https://radacad.com/power-bi-quick-tip-the-formula-bar-in-power-query",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-power-bi-quick-tip-the-formula-bar-in-power-query/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-power-bi-quick-tip-the-formula-bar-in-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=G-OHpN1vYLo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/G-OHpN1vYLo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M2S",
       "provider": {
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2021-03-01T19:42:54-08:00",
-      "heat": 130,
+      "publishedDateTime": "2021-02-25T14:10:38-08:00",
+      "heat": 131,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/0d85cn_K-V0/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/G-OHpN1vYLo/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -429,18 +390,19 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI"
+        "Power BI",
+        "Power Query"
       ]
     },
     {
-      "path": "_learning/videos/sqlbi-introducing-articles-videos.md",
-      "title": "Introducing Articles videos",
-      "excerpt": "Videos related to technical articles published on https://www.sqlbi.com  In the description of each video, you can find the link to read the article and download the sample files used in the demos.  The purpose of these videos is to describe the scenario solved in the article and provide additional comments",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/sqlbi-introducing-articles-videos/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/sqlbi-introducing-articles-videos/",
-      "originalUrl": "https://youtube.com/watch?v=Uby9O-HifmQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Uby9O-HifmQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M2S",
+      "path": "_learning/videos/sqlbi-optimizing-nested-iterators-in-dax.md",
+      "title": "Optimizing nested iterators in DAX",
+      "excerpt": "Possible optimization approaches to improve the performance of nested iterators in DAX. Article and download: https://sql.bi/70755/?aff=yt  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/sqlbi-optimizing-nested-iterators-in-dax/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/sqlbi-optimizing-nested-iterators-in-dax/",
+      "originalUrl": "https://youtube.com/watch?v=UtDP8KnWXy8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UtDP8KnWXy8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M31S",
       "provider": {
         "name": "SQLBI",
         "domain": "sqlbi.com",
@@ -453,11 +415,42 @@
           }
         ]
       },
-      "publishedDateTime": "2021-01-30T23:17:50-08:00",
+      "publishedDateTime": "2021-02-11T03:00:06-08:00",
+      "heat": 131,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UtDP8KnWXy8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-which-path-has-more-financial-risk-power-bi-employee-or-consultant-the-answer-may-surprise-you.md",
+      "title": "Which Path has More Financial Risk⚠️: Power BI Employee or Consultant? (The Answer May Surprise You)",
+      "excerpt": "Want to learn the 5-Steps to become a successful Power BI Consultant? 👉 Visit https://web.learnpowerbi.com/consultant-path/ Learn More about our Power BI Consultant Program 👉 Visit https://www.LearnPowerBI.com/pro  Let's face it, being a Power BI Consultant carries far more financial risk than being",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-which-path-has-more-financial-risk-power-bi-employee-or-consultant-the-answer-may-surprise-you/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-which-path-has-more-financial-risk-power-bi-employee-or-consultant-the-answer-may-surprise-you/",
+      "originalUrl": "https://youtube.com/watch?v=6RoNPUBt2e0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6RoNPUBt2e0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M20S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2021-02-24T09:00:03-08:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Uby9O-HifmQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/6RoNPUBt2e0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -988,8 +981,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 17131,
-            "average": 4.7932405
+            "count": 17138,
+            "average": 4.793208
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1030,8 +1023,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 33659,
-            "average": 4.761074
+            "count": 33662,
+            "average": 4.7610955
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1090,8 +1083,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 33659,
-        "average": 4.761074
+        "count": 33662,
+        "average": 4.7610955
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1170,8 +1163,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 17131,
-        "average": 4.7932405
+        "count": 17138,
+        "average": 4.793208
       },
       "provider": {
         "name": "Microsoft Learn",
