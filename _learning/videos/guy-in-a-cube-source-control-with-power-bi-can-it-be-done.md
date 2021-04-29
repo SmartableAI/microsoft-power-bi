@@ -2,6 +2,7 @@
 title: "Source Control with Power BI - Can it be done?"
 excerpt: "Can we use source control, or version control, with Power BI? We get this question ALL THE TIME! Adam walks you through what your options are and how this works today with Power BI.  ALM Toolkit: http://alm-toolkit.com/  Tabular Editor: https://tabulareditor.com/  Latest updates for Deployment Pipelines:"
 originalUrl: https://youtube.com/watch?v=fCGd5qID-dY
+webUrl: https://smartable.ai/apps/powerbi/learning/videos/guy-in-a-cube-source-control-with-power-bi-can-it-be-done/
 type: video
 price: Free
 length: PT8M17S
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "cturahbUxeMJBZ4PCIiwklSEcBWZeDHVh7RofE5aFiSskLpDwgnPBUkmr+PAop1s60Qdu09eQgWeUr7ZnvdHCiHr0FYw9Yklsp7LezTFTd/ykA7u0vrwugxUNHeZPdSya+n7feKAsJbPxFYjPVI3rJnqITdYZXOflNFZePADC7j8XgxWKNxv/aahmeTQtUKP69/kLP9NFk4AStFYyQkOdDKx+yQQ133V6vcSlcwiwWsAiob2G7SxblENP00zqE4qfCWyllk09HpjT1IBv9X8+EZHvrIs7gLqg32yYhKBMy3DF0AxtMcd6vqLi28GkzWNLXjA9FFYlEwowGj4rstL1jiMz3X1Jf4W0wSv6yAClEV4VzXE0fGxq5VZuday41PeseuSPrbw7TrDqfXrTwDNqw==;BXBIC6MJrZ6hdij9OcWBEw=="
+secured: "D0y80rkXS8vska/O+xKfSeHS6n7pixzKiE7kJ/h4Z5yCJX44MK/9DNQsIdW/yesDRe6z9Xk4BCe3NFMD9Ca7wlFepMOzDfr//9WDeCNI+oKqPgkmRQJ91nNuh8rzARkDOgZoDjK7OvA1VsaVbnwohdHrAQj9usWXaLI5vDcEbAfxhL0tGzgWeAz8XhxueS3F8XAmP5//i+9PZ6FUEZUOTwXrb3OiXMUeKsEjffGmGcdo4EB7Cq+aGKgFwVrdcFosqK+HKTo37r+YPrbUORdRbHpxcx67tohVcZAPInXKVMxThKOUeNjFLpeRMy2ZSZGdJyvFVZFl74HZF6WFhE2jBfRkfugAdEvVXi8dTcLWzOVrzrwAc1UKFwzmlknRUQcNNfUozUdSz7q3JGXXHOTnBw==;JsyWP0WRoV5bT9A68x4+hQ=="
 ---
 
