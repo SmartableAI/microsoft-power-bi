@@ -4,6 +4,36 @@
   "page": 72,
   "value": [
     {
+      "path": "_learning/videos/learn-power-bi-which-path-has-more-financial-risk-power-bi-employee-or-consultant-the-answer-may-surprise-you.md",
+      "title": "Which Path has More Financial Risk⚠️: Power BI Employee or Consultant? (The Answer May Surprise You)",
+      "excerpt": "Want to learn the 5-Steps to become a successful Power BI Consultant? 👉 Visit https://web.learnpowerbi.com/consultant-path/ Learn More about our Power BI Consultant Program 👉 Visit https://www.LearnPowerBI.com/pro  Let's face it, being a Power BI Consultant carries far more financial risk than being",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/learn-power-bi-which-path-has-more-financial-risk-power-bi-employee-or-consultant-the-answer-may-surprise-you/index.json",
+      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/learn-power-bi-which-path-has-more-financial-risk-power-bi-employee-or-consultant-the-answer-may-surprise-you/",
+      "originalUrl": "https://youtube.com/watch?v=6RoNPUBt2e0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6RoNPUBt2e0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M20S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2021-02-24T09:00:03-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6RoNPUBt2e0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/learn-power-bi-who-helped-create-power-bi-find-out-microsoft-mvp-summit-day-2.md",
       "title": "Who helped create Power BI? Find out... Microsoft MVP Summit Day 2",
       "excerpt": "FREE Power BI Step-by-Step Tutorial http://www.learnpowerbi.com/bonus 👉 Download Lesson PBIX Files at http://www.learnpowerbi.com/bonus-download ✅ Subscribe to always get my latest videos: https://goo.gl/P79Hcr 👪 Join our Facebook Group https://www.facebook.com/groups/talkpowerbi  ===Most Popular Playlists===",
@@ -918,37 +948,6 @@
       "topics": [
         "Power BI",
         "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-age-in-years-calculation-that-works-for-leap-year-in-power-bi-using-power-query.md",
-      "title": "Age in Years Calculation that works for Leap Year in Power BI using Power Query",
-      "excerpt": "I published a video yesterday about the Age calculation in Power Query, and how easy it is to calculate things. I mentioned in the blog that it won't be precisely correct for scenarios that include leap years. However, I got some concerns that people are not still using it because they think this is",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-bi/api/learning/videos/radacad-age-in-years-calculation-that-works-for-leap-year-in-power-bi-using-power-query/index.json",
-      "webUrl": "https://smartable.ai/apps/powerbi/learning/videos/radacad-age-in-years-calculation-that-works-for-leap-year-in-power-bi-using-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=26WFCCwV6kc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/26WFCCwV6kc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M34S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-01-17T13:22:30-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/26WFCCwV6kc/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
       ]
     }
   ],

@@ -231,6 +231,7 @@ items:
   - videos/curbal-dax-fridays-203-examples-of-max-calculations-of-groups-and-subgroups
   - videos/curbal-dax-fridays-204-slice-by-the-results-of-a-measure
   - videos/curbal-dax-fridays-205-find-values-missing-in-related-table
+  - videos/curbal-dax-fridays-206-9-dax-unwritten-rules-that-will-give-you-away-as-a-beginner-
 
 topics:
   - Power BI
