@@ -64,7 +64,7 @@
         ]
       },
       "publishedDateTime": "2021-04-23T03:06:29-07:00",
-      "heat": 187,
+      "heat": 191,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/xU5_jqueNxc/maxresdefault.jpg",
@@ -1257,8 +1257,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-models/",
           "length": "PT20M",
           "ratings": {
-            "count": 1094,
-            "average": 4.750457
+            "count": 1095,
+            "average": 4.7497716
           },
           "provider": {
             "name": "Microsoft Learn",
