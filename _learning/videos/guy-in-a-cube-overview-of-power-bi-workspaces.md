@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT9M25S
 publishedDateTime: 2019-02-21T12:36:13Z
-heat: 54
+heat: 58
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1fS8MvcaBGE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "1pQrYeqA255luiIfeEU8AWKjFjpeZgVaBd9u1gafmwgYy3fqiOvApaXh/SvJKcJ73hJ6B88h1aGESnp+8Qq4jZcVxV0xGoNvxh78R20lv+dkv3SAu1Fxs7Y4nH4OezX2OMvEeoCG8nKmgu0ebYM25iQv+FfrfbhlcOTjbwijGYteaEqXtcH8PFWcsbctXhlLgJZpG7ehSbK0UnU7PajELGdfUJpmSZlWIZoSVR8oEMbfWsXh2aQyEorHIUed6ti4BTX+RKpk9gya3+YQqSC5a75IEvGCfua/f2ELxYhxe1IWAPnQbkponJN4JjytJwUdG7QDe3I5eO/Tk2b68GQfZ4kLhPhfT3VcoQPbCbOEhhaJwJ92wsiMHwV0s5n0XFXHrrPsBc1QzcK/EjjkIIoCTexBcwuUpvkVrDT2l/7O7Qs=;WqMsLYKXCV7PZA8ywHF5Rg=="
+secured: "GAYlAmch+RValsT6jxieR6GG/6lQBe7IZKpVpoUCtgurITknrsze0297WkMfUY7p0zL3kVLEQlJZX+iG7tkcx2hVVp7z6DYbaHE2yPXKnOdRkqHFI8gI3u7cooZlPOTK2fto2iTgzHixPQOZHPMLzHbX/doMJitvUYt5Wcp6jRL/R3j5H6K/ixPQX3hHZXK1zEPmCuWnoexJlA27+5zL6XFeAh5scaMVnpPvULNzx/qzkjwEPQ0waLqgaxdPPGOOXSV6jhjZSSRx1txBOS6kQyTB3XqB6jANcYBDiXX3QdvZRihDqGXAm2PAVRw+qS3WLNCrCVrzHoGgLggPhfo0LIqX+Ln+a6cC7hvesbrLUlmWDdYxVdr5SgH3EZ/5asCznqVx0YNhQhXpoiD8aJvTpWL5HT6Hu/TJZr3NKFtQOCI=;Tt1WeG7B9iw1+tlU68iIiw=="
 ---
 
